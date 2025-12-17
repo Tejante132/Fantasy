@@ -11,7 +11,7 @@ N=0 	# compteur d'URLs
 URLS=$1
 
 # on crée un fichier de sortie dans lequel on stockera les informations
-fichier=tableaux/tableau-de.html
+fichier=tableaux/tableau-fr.html
 touch ${fichier}
 
 echo -e "
