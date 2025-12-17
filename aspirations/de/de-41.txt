@@ -1,0 +1,1763 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+
+	<!-- B L O G G O (3) -->
+
+	<!-- Basics -->
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://schreiben-und-leben.de/xmlrpc.php">
+	
+	<!-- Schriften -->
+
+	<link href='https://fonts.googleapis.com/css?family=Antic+Slab|PT+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+	
+	<!-- Das Herz -->
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v18.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Fantasie anregen - 6 hilfreiche Tricks für kreative Ideen!</title>
+	<meta name="description" content="Fantasie anregen - mit diesen 6 Tricks klappt das garantiert. Komm jetzt auf NEUE IDEEN für dein kreatives Schreiben und BEFLÜGEL SO DEINEN GEIST!" />
+	<link rel="canonical" href="https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/" />
+	<meta property="og:locale" content="de_DE" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Fantasie anregen - 6 hilfreiche Tricks für kreative Ideen!" />
+	<meta property="og:description" content="Fantasie anregen - mit diesen 6 Tricks klappt das garantiert. Komm jetzt auf NEUE IDEEN für dein kreatives Schreiben und BEFLÜGEL SO DEINEN GEIST!" />
+	<meta property="og:url" content="https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/" />
+	<meta property="og:site_name" content="Schreiben und Leben" />
+	<meta property="article:publisher" content="https://www.facebook.com/SchreibenundLeben/" />
+	<meta property="article:published_time" content="2017-02-26T14:35:05+00:00" />
+	<meta property="article:modified_time" content="2025-01-29T17:58:22+00:00" />
+	<meta property="og:image" content="https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen.jpg" />
+	<meta property="og:image:width" content="1600" />
+	<meta property="og:image:height" content="900" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:label1" content="Verfasst von" />
+	<meta name="twitter:data1" content="Andreas" />
+	<meta name="twitter:label2" content="Geschätzte Lesezeit" />
+	<meta name="twitter:data2" content="8 Minuten" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://schreiben-und-leben.de/#organization","name":"Schreiben und Leben","url":"https://schreiben-und-leben.de/","sameAs":["https://www.facebook.com/SchreibenundLeben/"],"logo":{"@type":"ImageObject","@id":"https://schreiben-und-leben.de/#logo","inLanguage":"de","url":"https://schreiben-und-leben.de/wp-content/uploads/2015/11/schreiben-und-leben-schreibkurs-schreibseminar-hamburg2.png","contentUrl":"https://schreiben-und-leben.de/wp-content/uploads/2015/11/schreiben-und-leben-schreibkurs-schreibseminar-hamburg2.png","width":508,"height":91,"caption":"Schreiben und Leben"},"image":{"@id":"https://schreiben-und-leben.de/#logo"}},{"@type":"WebSite","@id":"https://schreiben-und-leben.de/#website","url":"https://schreiben-und-leben.de/","name":"Schreiben und Leben","description":"Kreatives Schreiben, Romane schreiben, Schreibtipps","publisher":{"@id":"https://schreiben-und-leben.de/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://schreiben-und-leben.de/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"de"},{"@type":"ImageObject","@id":"https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/#primaryimage","inLanguage":"de","url":"https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen.jpg","contentUrl":"https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen.jpg","width":1600,"height":900,"caption":"Kreative Techniken für mehr Fantasie"},{"@type":"WebPage","@id":"https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/#webpage","url":"https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/","name":"Fantasie anregen - 6 hilfreiche Tricks für kreative Ideen!","isPartOf":{"@id":"https://schreiben-und-leben.de/#website"},"primaryImageOfPage":{"@id":"https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/#primaryimage"},"datePublished":"2017-02-26T14:35:05+00:00","dateModified":"2025-01-29T17:58:22+00:00","description":"Fantasie anregen - mit diesen 6 Tricks klappt das garantiert. Komm jetzt auf NEUE IDEEN für dein kreatives Schreiben und BEFLÜGEL SO DEINEN GEIST!","breadcrumb":{"@id":"https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/#breadcrumb"},"inLanguage":"de","potentialAction":[{"@type":"ReadAction","target":["https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/"]}]},{"@type":"BreadcrumbList","@id":"https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://schreiben-und-leben.de/"},{"@type":"ListItem","position":2,"name":"Fantasie anregen &#8211; 6 Tricks für kreative Ideen!"}]},{"@type":"Article","@id":"https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/#article","isPartOf":{"@id":"https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/#webpage"},"author":{"@id":"https://schreiben-und-leben.de/#/schema/person/20bd2d7df354bd55c8ccfddc184c46a3"},"headline":"Fantasie anregen &#8211; 6 Tricks für kreative Ideen!","datePublished":"2017-02-26T14:35:05+00:00","dateModified":"2025-01-29T17:58:22+00:00","mainEntityOfPage":{"@id":"https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/#webpage"},"wordCount":1376,"commentCount":4,"publisher":{"@id":"https://schreiben-und-leben.de/#organization"},"image":{"@id":"https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/#primaryimage"},"thumbnailUrl":"https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen.jpg","keywords":["Buchtipp","Ideen","Inspiration","Kreativität","Rezension","Schreibtipps","Übung"],"articleSection":["Lesetipps","Schreibtipps"],"inLanguage":"de","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/#respond"]}]},{"@type":"Person","@id":"https://schreiben-und-leben.de/#/schema/person/20bd2d7df354bd55c8ccfddc184c46a3","name":"Andreas","image":{"@type":"ImageObject","@id":"https://schreiben-und-leben.de/#personlogo","inLanguage":"de","url":"https://secure.gravatar.com/avatar/4f16b5eaf66003cb6212f7b146319886?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/4f16b5eaf66003cb6212f7b146319886?s=96&d=mm&r=g","caption":"Andreas"},"sameAs":["https://www.schreiben-und-leben.de"],"url":"https://schreiben-und-leben.de/author/andrasch/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdn.podlove.org' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Schreiben und Leben &raquo; Fantasie anregen &#8211; 6 Tricks für kreative Ideen!-Kommentar-Feed" href="https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/schreiben-und-leben.de\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.12"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='plugin_name-admin-ui-css-css'  href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css?ver=4.7.8' type='text/css' media='' />
+<link rel='stylesheet' id='tooltipster-css-css'  href='https://schreiben-und-leben.de/wp-content/plugins/arscode-ninja-popups/tooltipster/tooltipster.bundle.min.css?ver=5.8.12' type='text/css' media='all' />
+<link rel='stylesheet' id='tooltipster-css-theme-css'  href='https://schreiben-und-leben.de/wp-content/plugins/arscode-ninja-popups/tooltipster/plugins/tooltipster/sideTip/themes/tooltipster-sideTip-light.min.css?ver=5.8.12' type='text/css' media='all' />
+<link rel='stylesheet' id='material-design-css-css'  href='https://schreiben-und-leben.de/wp-content/plugins/arscode-ninja-popups/themes/jquery.material.form.css?ver=5.8.12' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-intl-phone-input-css-css'  href='https://schreiben-und-leben.de/wp-content/plugins/arscode-ninja-popups/assets/vendor/intl-tel-input/css/intlTelInput.min.css?ver=5.8.12' type='text/css' media='all' />
+<link rel='stylesheet' id='snp_styles_reset-css'  href='https://schreiben-und-leben.de/wp-content/plugins/arscode-ninja-popups/themes/reset.min.css?ver=5.8.12' type='text/css' media='all' />
+<link rel='stylesheet' id='snp_styles_builder-css'  href='https://schreiben-und-leben.de/wp-content/plugins/arscode-ninja-popups/themes/builder/style.css?ver=5.8.12' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://schreiben-und-leben.de/wp-includes/css/dist/block-library/style.min.css?ver=5.8.12' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://schreiben-und-leben.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='ez-toc-css'  href='https://schreiben-und-leben.de/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css?ver=2.0.78' type='text/css' media='all' />
+<style id='ez-toc-inline-css' type='text/css'>
+div#ez-toc-container .ez-toc-title {font-size: 120%;}div#ez-toc-container .ez-toc-title {font-weight: 500;}div#ez-toc-container ul li , div#ez-toc-container ul li a {font-size: 95%;}div#ez-toc-container ul li , div#ez-toc-container ul li a {font-weight: 500;}div#ez-toc-container nav ul ul li {font-size: 90%;}div#ez-toc-container {width: 33%;}.ez-toc-box-title {font-weight: bold; margin-bottom: 10px; text-align: center; text-transform: uppercase; letter-spacing: 1px; color: #666; padding-bottom: 5px;position:absolute;top:-4%;left:5%;background-color: inherit;transition: top 0.3s ease;}.ez-toc-box-title.toc-closed {top:-25%;}
+.ez-toc-container-direction {direction: ltr;}.ez-toc-counter ul{counter-reset: item ;}.ez-toc-counter nav ul li a::before {content: counters(item, '.', decimal) '. ';display: inline-block;counter-increment: item;flex-grow: 0;flex-shrink: 0;margin-right: .2em; float: left; }.ez-toc-widget-direction {direction: ltr;}.ez-toc-widget-container ul{counter-reset: item ;}.ez-toc-widget-container nav ul li a::before {content: counters(item, '.', decimal) '. ';display: inline-block;counter-increment: item;flex-grow: 0;flex-shrink: 0;margin-right: .2em; float: left; }
+</style>
+<link rel='stylesheet' id='bloggo-style-css'  href='https://schreiben-und-leben.de/wp-content/themes/bloggo-3/style.css?ver=5.8.12' type='text/css' media='all' />
+<link rel='stylesheet' id='borlabs-cookie-css'  href='https://schreiben-und-leben.de/wp-content/cache/borlabs-cookie/borlabs-cookie_1_de.css?ver=2.3.5-22' type='text/css' media='all' />
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://cdn.podlove.org/web-player/5.x/embed.js?ver=5.9.1' id='podlove-web-player-player-js'></script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/plugins/podlove-web-player/js/cache.js?ver=5.9.1' id='podlove-web-player-player-cache-js'></script>
+<link rel="https://api.w.org/" href="https://schreiben-und-leben.de/wp-json/" /><link rel="alternate" type="application/json" href="https://schreiben-und-leben.de/wp-json/wp/v2/posts/1507" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://schreiben-und-leben.de/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://schreiben-und-leben.de/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.12" />
+<link rel='shortlink' href='https://schreiben-und-leben.de/?p=1507' />
+<link rel="alternate" type="application/json+oembed" href="https://schreiben-und-leben.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fschreiben-und-leben.de%2Ffantasie-anregen-kreative-ideen%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://schreiben-und-leben.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fschreiben-und-leben.de%2Ffantasie-anregen-kreative-ideen%2F&#038;format=xml" />
+<script type="text/javascript">var ajaxurl = "https://schreiben-und-leben.de/wp-admin/admin-ajax.php";</script><link rel="icon" href="https://schreiben-und-leben.de/wp-content/uploads/2024/09/cropped-Schreiben-und-Leben-Favicon-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://schreiben-und-leben.de/wp-content/uploads/2024/09/cropped-Schreiben-und-Leben-Favicon-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://schreiben-und-leben.de/wp-content/uploads/2024/09/cropped-Schreiben-und-Leben-Favicon-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://schreiben-und-leben.de/wp-content/uploads/2024/09/cropped-Schreiben-und-Leben-Favicon-1-270x270.png" />
+
+	<!-- Favicon -->
+
+	<link rel="shortcut icon" href="https://schreiben-und-leben.de/wp-content/uploads/2017/05/Schreiben-und-Leben-Favicon.png" />
+			
+	<style>.bloggo-social-unten { background: #F5F5F5; padding: 2em 10%; text-align: center; } .bloggo-social-unten .bloggo-social { justify-content: center; -webkit-justify-content: center; margin-bottom: 0; } @media (max-width: 880px) { .bloggo-social-unten { padding: 2em 4%; } } .single .entry-content > p:first-of-type { font-size: 1em; } a, h1 a:hover, h2 a:hover, h3 a:hover, .comments-title a:hover, h4 a:hover, .blog .post .comments-link a a:hover, .page-uebersicht .post .comments-link a a:hover, .page-category .post .comments-link a a:hover, .page-archive .post .comments-link a a:hover, .sidebar .popular-posts h3 a:hover, .sidebar .popular-posts .comments-title a:hover, h5 a:hover, h6 a:hover { color: #389999; } a:active, a:hover, .pagination a.next:hover, .pagination a.prev:hover { color: #42a3a3; } body { font-family: 'PT Sans', sans-serif; } h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, input[type='submit'], .site-inner button, .main-navigation li.highlight a, .site-inner .button, .main-navigation li a, .footer-navigation li a, .nologo a { font-family: 'Antic Slab', serif } .bloggo-site-info, .main-navigation { text-transform: none; } .nologo .tagline { padding-top: 2px; } .site-header { -webkit-font-smoothing: auto; } input[type="submit"], .site-inner button, .bloggo-topbar a.button, .main-navigation li.highlight a, .site-inner .button { background: #ffd25f; border-color: #f5c855; } input[type="submit"]:hover, input[type="submit"]:focus, .site-inner button:hover, .site-inner button:focus, .bloggo-topbar a.button:hover, .bloggo-topbar a.button:focus, .site-inner .button:hover, .main-navigation li.highlight a:hover, .site-inner .button:focus, .main-navigation li.highlight a:focus { background: #ffdc69; } input[type="submit"]:active, .site-inner button:active, .bloggo-topbar a.button:active, .main-navigation li.highlight a:active, .site-inner .button:active { background: #ffdc69; } .site-header, .site-header-sticky .site-header { background: #ffffff; } .main-navigation > div ul li > ul, .main-navigation > div ul li > div { background: #ffffff; border-top-color: #ffffff; } .main-navigation ul li a, .main-navigation a.show-hide-navigation, .main-navigation > div ul li > ul li a { color: #3c3d44; } .main-navigation li.current-menu-item:not(.highlight) a, .main-navigation ul li a:hover, .main-navigation ul li a:focus { color: #fbd57d; } .main-navigation li.highlight a { background: #fbd57d; border-color: #f1cb73 } .main-navigation li.highlight a:hover, .main-navigation li.highlight a:focus { background: #ffdf87; } .main-navigation li.highlight a:active { background: #ffdf87; } .logo a { width: 300px; } blockquote, .entry-content blockquote { color: #000107; .entry-content blockquote footer, .entry-content blockquote cite { color: #0a0b11; } } .site-footer { background: #ffffff; } .site-footer .footer-navigation ul li a:hover, .site-footer .footer-navigation ul li.current-menu-item a { color: #ffffff; } .site-footer .bloggo-site-info { background: #ffffff; } body { font-size: 18px; } h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-weight: 400; text-transform: none; } h1, .h1 { font-size: 42px; } h2, .h2 { font-size: 26.00000000619px; } h3, .h3 { font-size: 20px; } h4, .h4, h5, .h5, h6 { font-size: 16px; } .main-navigation li a { font-size: 16px; font-weight: 700; text-transform: uppercase; } .main-navigation li.highlight a { font-size: 16px; } .bloggo-hero-header { background-color: #ffd25f !important; } .bloggo-hero-header .wrap { padding-top: 3px !important; padding-bottom: 3px !important; } .bloggo-hero-header .action-bereich-1 { } .bloggo-hero-footer { background-color: #ffd25f !important; } .bloggo-hero-footer .wrap { padding-top: 2px !important; padding-bottom: 2px !important; } .bloggo-hero-footer .action-bereich-1 { } .site-footer .bloggo-theme-info {
+    display: none;
+}</style>
+        <script>jQuery( document ).ready( function() { });</script>	<meta name="p:domain_verify" content="33c9a1b7b4e86bcf857c5828db419664"/>
+
+</head>
+
+<body data-rsssl=1 class="post-template-default single single-post postid-1507 single-format-standard bloggo-theme has-hero-header has-hero-footer">
+
+<div class="site-inner">
+	
+	<header id="masthead" class="site-header" role="banner">
+
+		<div class="wrap">
+
+			<div class="logo ">
+
+				
+				<a href="https://schreiben-und-leben.de/" title="Schreiben und Leben" rel="home"><img src="https://schreiben-und-leben.de/wp-content/uploads/2024/09/Untitled-design47.png" alt="Schreiben und Leben" /></a>
+
+				
+				
+			</div>
+									
+			<nav id="site-navigation" class="navigation main-navigation" role="navigation">
+
+				<a href="#site-navigation" id="show-hide-navigation" class="show-hide-navigation"><span>☰</span> Zur Navigation</a>
+		
+				<div class="menu-top-bar-container"><ul id="menu-top-bar" class="nav-menu"><li id="menu-item-2607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2607"><a href="https://schreiben-und-leben.de/blog/">Blog</a></li>
+<li id="menu-item-2713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2713"><a href="https://schreiben-und-leben.de/podcast/">Podcast</a></li>
+<li id="menu-item-3004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3004"><a href="https://schreiben-und-leben.de/kreatives-schreiben-hamburg/">Seminare</a></li>
+<li id="menu-item-3005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3005"><a href="https://schreiben-und-leben.de/autorencoach/">Arbeite mit mir!</a></li>
+<li id="menu-item-1169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1169"><a href="https://schreiben-und-leben.de/dein-schreibtrainer/">Über mich</a></li>
+<li id="menu-item-1168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1168"><a href="https://schreiben-und-leben.de/kontakt/">Kontakt</a></li>
+</ul></div>		
+			</nav><!-- .main-navigation -->
+			
+		</div><!-- .wrap -->
+
+	</header><!-- .site-header -->
+
+	
+	<div id="bloggo-hero-header" class="bloggo-hero-header">
+		
+		<div class="wrap">
+
+			<div class="action-bereiche"><div class="action-bereich action-bereich-1"></div></div>
+		</div>
+
+	</div>
+
+		<!-- GetResponse Analytics -->
+  <script type="text/javascript">
+      
+  (function(m, o, n, t, e, r, _){
+          m['__GetResponseAnalyticsObject'] = e;m[e] = m[e] || function() {(m[e].q = m[e].q || []).push(arguments)};
+          r = o.createElement(n);_ = o.getElementsByTagName(n)[0];r.async = 1;r.src = t;r.setAttribute('crossorigin', 'use-credentials');_.parentNode .insertBefore(r, _);
+      })(window, document, 'script', 'https://an.gr-wcon.com/script/7b0e3d4f-90ab-40e5-8dfc-8e589fe1d7f0/ga.js', 'GrTracking');
+
+
+  </script>
+  <!-- End GetResponse Analytics -->
+<div id="primary" class="content-area wrap">
+
+	<main id="main" class="site-main" role="main">
+
+		<article id="post-1507" class="post-1507 post type-post status-publish format-standard has-post-thumbnail hentry category-lesetipps category-schreibtipps tag-buchtipp tag-ideen tag-inspiration tag-kreativitaet tag-rezension tag-schreibtipps tag-uebung">
+
+	
+	
+	
+	
+	<header class="entry-header">
+
+		
+		<h1 class="entry-title">Fantasie anregen &#8211; 6 Tricks für kreative Ideen!</h1>
+		
+	</header><!-- .entry-header -->
+
+	
+	
+	
+	<footer class="entry-footer">
+
+		
+	</footer>
+
+	
+	
+	
+	
+	<div class="entry-content">
+
+		
+<div class="wp-block-image"><figure class="alignleft is-resized"><img  loading="lazy"  style="display:none"  class="crazy_lazy wp-image-1508" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="  alt="Kreative Techniken für mehr Fantasie"  data-src="https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen.jpg"  width="602" height="338" srcset="https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen.jpg 1600w, https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen-300x169.jpg 300w, https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen-768x432.jpg 768w, https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen-1024x576.jpg 1024w, https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen-250x141.jpg 250w, https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen-150x84.jpg 150w" sizes="(max-width: 602px) 100vw, 602px" /></figure><noscript><figure class="alignleft is-resized"><img loading="lazy" src="https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen.jpg" alt="Kreative Techniken für mehr Fantasie" class="wp-image-1508" width="602" height="338" srcset="https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen.jpg 1600w, https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen-300x169.jpg 300w, https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen-768x432.jpg 768w, https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen-1024x576.jpg 1024w, https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen-250x141.jpg 250w, https://schreiben-und-leben.de/wp-content/uploads/2017/02/Fantasie-anregen-für-kreative-Ideen-150x84.jpg 150w" sizes="(max-width: 602px) 100vw, 602px" /></figure></noscript></div>
+
+
+
+<p><strong>Zum kreativen Schreiben benötigst du eine Menge Fantasie. Doch manchmal ist es im Alltag überhaupt nicht so einfach, auf Knopfdruck fantasievolle Gedanken zu entwickeln. </strong></p>
+
+
+
+<p><strong><em>Wie regst du die Fantasie also am besten an?</em></strong></p>
+
+
+
+<p>Es gibt bewährte Vorgehensweisen, die einfach anzuwenden sind und die garantiert Abhilfe schaffen. Marion Gays <a href="https://schreiben-und-leben.de/schreibratgeber/" target="_blank" rel="noopener">Schreibratgeber</a> <a href="http://www.autorenhaus-verlag.de/267.0.0.1.0.0.phtml">„Türen zur Fantasie“ </a>bietet eine tolle Basis, um sie zu erkennen.<br></p>
+
+
+
+<div id="ez-toc-container" class="ez-toc-v2_0_78 ez-toc-wrap-right-text counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">Inhalt</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><ul class='ez-toc-list-level-2' ><li class='ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="#Schreibimpulse_fuer_den_Fantasiemodus" >Schreibimpulse für den Fantasiemodus</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-1'><a class="ez-toc-link ez-toc-heading-2" href="#Interessante_Impulse_zum_Fantasie_anregen" >Interessante Impulse zum Fantasie anregen</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-3" href="#Was_kannst_du_also_konkret_tun_zum_Fantasie_anregen" >Was kannst du also konkret tun zum Fantasie anregen?</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-1'><a class="ez-toc-link ez-toc-heading-4" href="#Fantasie_anregen_durch_einschraenkende_Strukturen" >Fantasie anregen durch einschränkende Strukturen</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="#Probiere_doch_mal_die_folgenden_Ideen_aus" >Probiere doch mal die folgenden Ideen aus:</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-1'><a class="ez-toc-link ez-toc-heading-6" href="#Bestehende_Texte_zur_Fantasieanregung" >Bestehende Texte zur Fantasieanregung</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-7" href="#Dieses_Verfahren_laesst_sich_anhand_der_unterschiedlichsten_Textsorten_anwenden" >Dieses Verfahren lässt sich anhand der unterschiedlichsten Textsorten anwenden:</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-1'><a class="ez-toc-link ez-toc-heading-8" href="#Mit_Gedankenreisen_ins_Land_der_Fantasie" >Mit Gedankenreisen ins Land der Fantasie</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-9" href="#Konkrete_Moeglichkeiten" >Konkrete Möglichkeiten:</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-1'><a class="ez-toc-link ez-toc-heading-10" href="#Fantasie_anregen_durch_Fabulieren" >Fantasie anregen durch Fabulieren</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-11" href="#Was_ist_zu_tun" >Was ist zu tun?</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-1'><a class="ez-toc-link ez-toc-heading-12" href="#Perspektivwechsel_um_die_Fantasie_anzuregen" >Perspektivwechsel, um die Fantasie anzuregen</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-13" href="#Und_so_geht_es" >Und so geht es:</a></li></ul></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-1'><a class="ez-toc-link ez-toc-heading-14" href="#Die_Fantasie_im_Alltag" >Die Fantasie im Alltag</a></li></ul></nav></div>
+<h2><span class="ez-toc-section" id="Schreibimpulse_fuer_den_Fantasiemodus"></span>Schreibimpulse für den Fantasiemodus<span class="ez-toc-section-end"></span></h2>
+
+
+
+<p>Gay hat in ihrem Buch 100 Schreibimpulse zusammengestellt, die sich wunderbar für den Schulunterricht oder in <a href="https://schreiben-und-leben.de/schreibgruppe/" target="_blank" rel="noopener">Schreibgruppen</a> nutzen lassen. Doch nicht nur das: Hinter den einzelnen Übungen stecken Muster, die uns viel darüber verraten, wie unsere Fantasie beschaffen ist. Mit ihnen hast du jederzeit die Möglichkeit, in den Fantasiemodus zu schalten.</p>
+
+
+
+<p><strong>Lerne jetzt 6 kraftvolle Zugänge zu deiner Fantasie kennen und sag der schnöden Realität ab heute Adieu &#8211; wann immer du willst!</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="alignright size-full is-resized"><img  loading="lazy"  style="display:none"  class="crazy_lazy wp-image-7115" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="  alt=""  data-src="https://schreiben-und-leben.de/wp-content/uploads/2022/08/Fantasie-anregen-Schreibimpulse.png"  width="440" height="578" srcset="https://schreiben-und-leben.de/wp-content/uploads/2022/08/Fantasie-anregen-Schreibimpulse.png 600w, https://schreiben-und-leben.de/wp-content/uploads/2022/08/Fantasie-anregen-Schreibimpulse-228x300.png 228w, https://schreiben-und-leben.de/wp-content/uploads/2022/08/Fantasie-anregen-Schreibimpulse-350x460.png 350w" sizes="(max-width: 440px) 100vw, 440px" /></figure><noscript><figure class="alignright size-full is-resized"><img loading="lazy" src="https://schreiben-und-leben.de/wp-content/uploads/2022/08/Fantasie-anregen-Schreibimpulse.png" alt="" class="wp-image-7115" width="440" height="578" srcset="https://schreiben-und-leben.de/wp-content/uploads/2022/08/Fantasie-anregen-Schreibimpulse.png 600w, https://schreiben-und-leben.de/wp-content/uploads/2022/08/Fantasie-anregen-Schreibimpulse-228x300.png 228w, https://schreiben-und-leben.de/wp-content/uploads/2022/08/Fantasie-anregen-Schreibimpulse-350x460.png 350w" sizes="(max-width: 440px) 100vw, 440px" /></figure></noscript></div>
+
+
+
+<h1><span class="ez-toc-section" id="Interessante_Impulse_zum_Fantasie_anregen"></span>Interessante Impulse zum Fantasie anregen<span class="ez-toc-section-end"></span></h1>
+
+
+
+<p>Wenn du mit unerwartetem Input konfrontiert bist, fällt es dir leichter, gewohnte Denkbahnen zu verlassen. Dein Assoziationsvermögen wird angeregt, neue kreative Ideen fliegen dir nur so zu.</p>
+
+
+
+<p>Indem du dir frische Anregungen holst, trickst du dein rationales Denken gewissermaßen aus. Bevor du es überhaupt merkst, befindest du dich bereits in einem schöpferischen, imaginativen Prozess.</p>
+
+
+
+<h3><span class="ez-toc-section" id="Was_kannst_du_also_konkret_tun_zum_Fantasie_anregen"></span><strong>Was kannst du also konkret tun zum Fantasie anregen?</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<ul><li>Stell dir ungewöhnliche Fragen, wie sie sich in Pablo Nerudas berühmtem <a href="http://www.brigittefuchs.ch/serendipity/aus-dem-buch-der-fragen-lxviii_2620/">&#8222;Buch der Fragen&#8220;</a> finden lassen, und beantworte diese.</li><li>Ergänze die Worte „Was wäre wenn&#8230;“ nach Belieben und rege so deine Fantasie an.</li><li>Nutze Impulse wie Bilder, Materialien oder Gegenstände, die du am besten willkürlich aus einer vorbereiteten Sammlung in die Hand nimmst. Nimm deine Sinneswahrnehmungen achtsam auf und beschreibe sie.</li><li>Rege deine Fantasie durch ungewöhnliche Vorstellungen an. Dies kann sogar der Ausgangspunkt zu einer interessanten Geschichte werden. Stell dir z.B. vor, der Tod wäre abgeschafft &#8211; wie sähe dann die Welt aus? Oder mach es wie Kafka und schreibe über eine <a href="http://gutenberg.spiegel.de/buch/die-verwandlung-165/1">Verwandlung</a>: Du wachst morgens auf, bist jedoch kein Mensch mehr, sondern&#8230;.</li></ul>
+
+
+
+<h1><span class="ez-toc-section" id="Fantasie_anregen_durch_einschraenkende_Strukturen"></span>Fantasie anregen durch einschränkende Strukturen<span class="ez-toc-section-end"></span></h1>
+
+
+
+<p>Mehr Fantasie durch Einschränkung? Auf den ersten Blick mag das unsinnig wirken.</p>
+
+
+
+<p>Wie soll es uns gelingen unseren Geist zu weiten, indem wir uns durch Vorgaben beschränken?</p>
+
+
+
+<p>Manchmal ist es schwierig, auf fantasievolle Gedanken zu kommen, solange alles möglich ist. Die unendliche Vielfalt führt dann nicht zu besonders fantasievollen Ideen, sondern dazu, dass uns überhaupt nichts Gutes mehr einfällt.</p>
+
+
+
+<p>Gezielt eingesetzte Einschränkungen können hier Abhilfe schaffen. Sei es als Aufwärmübung oder als Hilfsmittel bei einem konkreten Projekt &#8211; Gay zeigt, wie du mit ganz unterschiedlichen Methoden das Prinzip für dich nutzt.</p>
+
+
+
+<h3><span class="ez-toc-section" id="Probiere_doch_mal_die_folgenden_Ideen_aus"></span><strong>Probiere doch mal die folgenden Ideen aus:</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<ul><li>Hast du schon einmal den Klassiker Stadt, Land, Fluss mit weiteren Kategorien gespielt? Wie wäre es mit den Kategorien Hauptfigur, guter Romantitel oder ungewöhnliches Adjektiv? Je nachdem, wozu du gerade deine Fantasie benötigst.</li><li>Schränke dich sprachlich ein! Lege dich z.B. auf immer denselben Buchstaben für alle Wörter oder eine bestimmte Satzlänge fest.</li><li>Schränke dich beim Schreiben von Geschichten ein, um die Fantasie anzuregen. Lege z.B. bereits zu Beginn ein bestimmtes Ende für deine Geschichte fest und beginne dann erst zu schreiben. So arbeitet deine Fantasie zielgerichtet und du vermeidest die Gefahr, dich unterwegs in deinen Ideen zu verzetteln. Du <a href="https://schreiben-und-leben.de/fokussiert-schreiben-keine-ablenkung" target="_blank" rel="noopener noreferrer">schreibst fokussiert</a>.</li></ul>
+
+
+
+<h1><span class="ez-toc-section" id="Bestehende_Texte_zur_Fantasieanregung"></span>Bestehende Texte zur Fantasieanregung<span class="ez-toc-section-end"></span></h1>
+
+
+
+<p>Wir müssen beim Schreiben nicht immer von null anfangen.</p>
+
+
+
+<p>Die meisten Geschichten beziehen sich auf bereits geschriebene Geschichten. So gleicht die Literaturgeschichte einem einzigen dichten Netz aus Verwebungen, Andeutungen und Adaptionen. Entsprechend bieten sich bereits bestehende Texte als Ausgangspunkt für unser eigenes Schreiben an. Such dir also einen Text aus, den du interessant, anregend oder aufwühlend findest. Nutze daraufhin dessen Muster oder Strukturen für deinen eigenen Text.</p>
+
+
+
+<h3><span class="ez-toc-section" id="Dieses_Verfahren_laesst_sich_anhand_der_unterschiedlichsten_Textsorten_anwenden"></span><strong>Dieses Verfahren lässt sich anhand der unterschiedlichsten Textsorten anwenden:</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<ul><li>Nimm den Songtext deines Lieblingsliedes zur Hand und ergänze ihn um deine eigene Strophe. Dafür musst du selbstverständlich genau lesen und analysieren, wie der Song sprachlich und inhaltlich aufgebaut ist.</li><li>Lies dein Lieblingsmärchen noch einmal und erzähle es in einer modernen Variante. Schau dir dazu auch die folgenden Tipps an:&nbsp; <a href="https://schreiben-und-leben.de/modernes-maerchen-schreiben/" target="_blank" rel="noopener noreferrer">Märchen schreiben</a>.</li><li>Du kannst auch Handlungsmuster aus Geschichten umkehren, verschiedene Vorlagen miteinander kombinieren oder neue Szenen dazuerfinden.</li><li>Solange du nicht plagiierst, ist alles erlaubt!</li></ul>
+
+
+
+<h1><span class="ez-toc-section" id="Mit_Gedankenreisen_ins_Land_der_Fantasie"></span>Mit Gedankenreisen ins Land der Fantasie<span class="ez-toc-section-end"></span></h1>
+
+
+
+<p>Unsere Gedanken sind nicht an Raum und Zeit gebunden. Mit Hilfe unserer Vorstellungskraft lassen wir vor unserem inneren Auge Bilder entstehen, wann immer wir wollen. Diese Freiheit kann für unser Schreiben ein immer wieder überraschender Ausgangspunkt sein.</p>
+
+
+
+<h3><span class="ez-toc-section" id="Konkrete_Moeglichkeiten"></span><strong>Konkrete Möglichkeiten:</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<ul><li>Stell dir vor, du reist an einen wundervollen Ort. Du kannst dafür <a href="http://selbstbewusstgesund.de/gesundheit/entspannung/entspannungsmethoden-gedankenreisen/" target="_blank" rel="noopener noreferrer">Gedankenreisen</a> nutzen, eine Art Meditationsübung, die unsere Vorstellungskraft anregt. Sobald du intensiv in deine Fantasiewelt eingetaucht bist, nimmst du Stift und Papier zur Hand. Schreibe auf, was du in der Fantasiewelt alles erlebst.</li><li>Entwirf ein Paralleluniversum, wie es sich in vielen literarischen Werken von Alice im Wunderland bis Harry Potter findet. Hier funktioniert alles nach den Regeln und Gesetzen, die DU vorgibst.</li><li>Reise in Gedanken in die Zukunft und mach dir ein möglichst anschauliches Bild davon, wie die Welt in 100 Jahren aussieht und wie die Menschen dann leben. Notiere all deine Eindrücke oder <a href="https://schreiben-und-leben.de/kreative-geschichte-schreiben">schreibe dazu eine Geschichte</a>.</li></ul>
+
+
+
+<h1><span class="ez-toc-section" id="Fantasie_anregen_durch_Fabulieren"></span>Fantasie anregen durch Fabulieren<span class="ez-toc-section-end"></span></h1>
+
+
+
+<p>Wenn du dir erst einmal die Erlaubnis gibst, <a href="https://schreiben-und-leben.de/frei-schreiben-schreibuebungen">frei zu schreiben,</a> einfach vor dich hinzuspinnen, kommst du meist auf alle möglichen Einfälle. Viele davon mögen unsinnig sein. Das macht aber nichts.</p>
+
+
+
+<p>Immer wieder wird auch eine wirklich <a href="https://schreiben-und-leben.de/gute-idee-finden/" target="_blank" rel="noopener">gute Idee</a> darunter sein, die du für dein nächstes Schreibprojekt nutzen kannst. Und hättest du dir nicht erlaubt zu fabulieren, wärst du überhaupt nicht darauf gekommen.</p>
+
+
+
+<h3><span class="ez-toc-section" id="Was_ist_zu_tun"></span><strong>Was ist zu tun?</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<ul><li>Erfinde unterschiedliche Figuren anhand einiger weniger biografischer Stichpunkte. Oder stelle eine Auswahl an Fotos unterschiedlichster Personen zusammen. Wähle nun zwei davon aus, die nichts miteinander zu tun haben, und schreib eine Geschichte darüber, wie sich die beiden begegnen. Zum Beispiel bei einem romantischen oder weniger romantischen Treffen.</li><li>Suche dir eine beliebige Alltagssituation oder eine Handlung aus und stell dir immer wieder die Frage „Und dann?“ So hilfst du deiner Fantasie auf die Sprünge und bringst dich dazu, immer neue Ideen zu entwickeln.</li><li>Konfrontiere dich mit einer erklärungsbedürftigen Situation. Gay erwähnt hier eine mögliche Zeitungsmeldung: Ein Segelboot treibt einsam auf dem Meer, die Mannschaft ist spurlos verschwunden ist. Es gab kein Unwetter und alle Rettungswesten sind noch an Bord. Fabuliere drauflos, was passiert ist. Am besten gleich mit dem Stift auf Papier.</li></ul>
+
+
+
+<h1><span class="ez-toc-section" id="Perspektivwechsel_um_die_Fantasie_anzuregen"></span>Perspektivwechsel, um die Fantasie anzuregen<span class="ez-toc-section-end"></span></h1>
+
+
+
+<p>Beim Schreiben sind wir nicht an einen Blickwinkel gebunden. Wir haben die wundervolle Möglichkeit, uns in andere Personen hineinzuversetzen oder sogar ganz und gar ungewöhnliche Perspektiven für unsere Texte zu nutzen.</p>
+
+
+
+<p>Interessante Perspektiven erlauben dir eine neue Art und Weise über bereits Bekanntes zu schreiben. So regst du deine Vorstellungskraft dazu an, passende Formulierungen zu finden und neue Beobachtungen zu machen, anstatt in den alten Denkbahnen zu verharren.</p>
+
+
+
+<h3><span class="ez-toc-section" id="Und_so_geht_es"></span><strong>Und so geht es:</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<ul><li>Stell dir vor, du bist Tourist und beschreibst deine eigene Stadt.</li><li>Identifiziere Gegenstände, die dich im Alltag begleiten, und erzähle aus ihrer Perspektive von deinem Leben.</li><li>Nimm eine interessante Situation und erzähle sie nicht nur einmal sondern viele Male. Wähle dabei möglichst unterschiedliche Perspektiven und achte darauf, das Geschehen auf jeweils passende Weise zu schildern.</li></ul>
+
+
+
+<h1><span class="ez-toc-section" id="Die_Fantasie_im_Alltag"></span>Die Fantasie im Alltag<span class="ez-toc-section-end"></span></h1>
+
+
+
+<p>Die 6 Herangehensweisen, mit denen wir unserer Fantasie Flügel verleihen, ziehen sich quer durch die Methodenauswahl des Buches. „Türen zur Fantasie“ bietet damit eine hilfreiche Materialsammlung, die sich vor allem bei der Arbeit mit Kindern und Jugendlichen wunderbar einsetzen lässt. In einer praktischen Übersicht sind die einzelnen Methoden dazu nach ihrem jeweiligen Zeitaufwand geordnet.</p>
+
+
+
+<p>Doch auch für dein eigenes Schreiben kannst du das Buch als eine Art Schatztruhe nutzen. Und wenn du die 6 genannten Prinzipien verinnerlichst und so oft wie möglich anwendest, wirst du immer einfacher aus dem Alltagmodus in den Fantasiemodus wechseln.</p>
+
+
+
+<div class="wp-block-image"><figure class="alignleft"><img  loading="lazy" width="175" height="265"  style="display:none"  class="crazy_lazy wp-image-1510" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="  alt="Türen zur Fantasie"  data-src="https://schreiben-und-leben.de/wp-content/uploads/2017/02/Türen-zur-Fantasie.jpg"  srcset="https://schreiben-und-leben.de/wp-content/uploads/2017/02/Türen-zur-Fantasie.jpg 175w, https://schreiben-und-leben.de/wp-content/uploads/2017/02/Türen-zur-Fantasie-99x150.jpg 99w" sizes="(max-width: 175px) 100vw, 175px" /></figure><noscript><figure class="alignleft"><img loading="lazy" width="175" height="265" src="https://schreiben-und-leben.de/wp-content/uploads/2017/02/Türen-zur-Fantasie.jpg" alt="Türen zur Fantasie" class="wp-image-1510" srcset="https://schreiben-und-leben.de/wp-content/uploads/2017/02/Türen-zur-Fantasie.jpg 175w, https://schreiben-und-leben.de/wp-content/uploads/2017/02/Türen-zur-Fantasie-99x150.jpg 99w" sizes="(max-width: 175px) 100vw, 175px" /></figure></noscript></div>
+
+
+
+<p><a href="http://www.autorenhaus-verlag.de/267.0.0.1.0.0.phtml">Türen zur Fantasie</a> ist im Autorenhaus Verlag erschienen und kostet 16,80</p>
+
+
+
+<p><span style="font-size: 22px;"><em><strong>Und wie verleihst DU deiner Fantasie Flügel?</strong></em></span></p>
+
+	</div><!-- .entry-content -->
+
+	
+	
+	
+</article><!-- #post -->
+		
+		
+		
+		
+		<div class="bloggo-artikel-prevnext">
+
+			<h3>Weitere Artikel</h3>
+
+			<div class="prevnext">
+
+			<span class='prevnext-prev'>&laquo; <a href="https://schreiben-und-leben.de/so-schreibst-du-dich-reich/" rel="prev">So schreibst du dich reich &#8211; 4 Punkte!</a></span><span class='prevnext-next'><a href="https://schreiben-und-leben.de/die-schriftsteller-eigenschaft/" rel="next">Die Schriftsteller-Eigenschaft: Hast du sie oder nicht?</a> &raquo;</span>
+			</div>
+
+		</div><!-- .bloggo-artikel-prevnext -->
+
+		
+		
+<div id="comments" class="comments-area">
+
+	
+		<h2 class="comments-title">
+			4 Kommentare, sei der nächste!		</h2>
+
+		<ol class="comment-list">
+					<li id="comment-700" class="comment even thread-even depth-1">
+			<article id="div-comment-700" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img  alt='Avatar for Andreas' title='Gravatar for Andreas'  style="display:none"  class="crazy_lazy avatar avatar-40 photo" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="  srcset='https://secure.gravatar.com/avatar/243a723fc6aa6e04880645fb92907b7b?s=80&#038;d=mm&#038;r=g 2x'  data-src="https://secure.gravatar.com/avatar/243a723fc6aa6e04880645fb92907b7b?s=40&#038;d=mm&#038;r=g"  height='40' width='40' loading='lazy'/><noscript><img alt='Avatar for Andreas' title='Gravatar for Andreas' src='https://secure.gravatar.com/avatar/243a723fc6aa6e04880645fb92907b7b?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/243a723fc6aa6e04880645fb92907b7b?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' loading='lazy'/></noscript>						<b class="fn"><a target='_blank' href='http://www.schreibenundleben.com' rel='external nofollow ugc' class='url'>Dr. Gabriele Frings, Schreibcoach</a></b> <span class="says">sagt:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/#comment-700"><time datetime="2017-03-02T20:07:59+00:00">März 2, 2017 um 8:07 p.m. Uhr</time></a>					</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Hallo Andreas,<br />
+ein inspirierender Artikel! Der Perspektivwechsel, wie du ihn beschreibst, hat ja auch etwas mit Achtsamkeit zu tun. Was bedeutet, einfach mal den Autopiloten in uns auszuschalten und einmal die Dinge bewusst wahrzunehmen, an denen wir täglich achtlos vorübergehen. Das ist immer gut, für jedes Schreiben.:-)<br />
+Viele Grüße<br />
+Gabriele</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-700' data-commentid="700" data-postid="1507" data-belowelement="div-comment-700" data-respondelement="respond" data-replyto="Auf Dr. Gabriele Frings, Schreibcoach antworten" aria-label='Auf Dr. Gabriele Frings, Schreibcoach antworten'>Antworte Dr.</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-704" class="comment odd alt thread-odd thread-alt depth-1 parent">
+			<article id="div-comment-704" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img  alt='Avatar for Andreas' title='Gravatar for Andreas'  style="display:none"  class="crazy_lazy avatar avatar-40 photo" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="  srcset='https://secure.gravatar.com/avatar/57a5fa6708bf19414230a9a7ca2595c8?s=80&#038;d=mm&#038;r=g 2x'  data-src="https://secure.gravatar.com/avatar/57a5fa6708bf19414230a9a7ca2595c8?s=40&#038;d=mm&#038;r=g"  height='40' width='40' loading='lazy'/><noscript><img alt='Avatar for Andreas' title='Gravatar for Andreas' src='https://secure.gravatar.com/avatar/57a5fa6708bf19414230a9a7ca2595c8?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/57a5fa6708bf19414230a9a7ca2595c8?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' loading='lazy'/></noscript>						<b class="fn"><a target='_blank' href='http://www.inspirationenfuerautoren.de' rel='external nofollow ugc' class='url'>Caro</a></b> <span class="says">sagt:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/#comment-704"><time datetime="2017-03-05T08:54:39+00:00">März 5, 2017 um 8:54 a.m. Uhr</time></a>					</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Lieber Andreas,</p>
+<p>danke für den anregenden Artikel. 🙂 </p>
+<p>Da sind einige Prinzipien dabei, die ich demnächst mal anwenden werde. Zum Beispiel finde ich es spannend, &#8222;Stadt, Land, Fluss&#8220; mit &#8222;Hauptfigur&#8220;, &#8222;Romantitel&#8220; etc. zu spielen.</p>
+<p>Schmunzeln musste ich bei &#8222;Fantasie anregen 1: Ergänze die Worte „Was wäre wenn…“ nach Belieben und rege so deine Fantasie an.&#8220; &#8211; dieses Prinzip steht bei mir fast immer am Anfang, wenn ich mit einer neuen Geschichte beginne. Außerdem nutze ich genau diese Frage bei meinem aktuellen Blog-Projekt, um die Fantasie meiner Follower anzuregen. 🙂</p>
+<p>Was ich gut zum Fantasie anregen finde, ist, sich vorzustellen, was man selbst gerne erleben würde (im gewissen Sinne entspricht das dem Prinzip &#8222;Gedankenreisen&#8220; in deinem Blogbeitrag). Ob Fallschirmsprung, Filmstar sein oder ein ungewöhnliches Haustier haben &#8211; das kann man &#8222;erleben&#8220;, indem man es einen Protagonisten erleben lässt 🙂</p>
+<p>Viele Grüße und mach weiter so mit deinem Blog. 🙂</p>
+<p>Caro<br />
+<a target='_blank' href="http://www.inspirationenfuerautoren.de" rel="nofollow ugc">http://www.inspirationenfuerautoren.de</a></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-704' data-commentid="704" data-postid="1507" data-belowelement="div-comment-704" data-respondelement="respond" data-replyto="Auf Caro antworten" aria-label='Auf Caro antworten'>Antworte Caro</a></div>			</article><!-- .comment-body -->
+		<ol class="children">
+		<li id="comment-707" class="comment byuser comment-author-andrasch bypostauthor even depth-2">
+			<article id="div-comment-707" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img  alt='Avatar for Andreas' title='Gravatar for Andreas'  style="display:none"  class="crazy_lazy avatar avatar-40 photo" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="  srcset='https://secure.gravatar.com/avatar/4f16b5eaf66003cb6212f7b146319886?s=80&#038;d=mm&#038;r=g 2x'  data-src="https://secure.gravatar.com/avatar/4f16b5eaf66003cb6212f7b146319886?s=40&#038;d=mm&#038;r=g"  height='40' width='40' loading='lazy'/><noscript><img alt='Avatar for Andreas' title='Gravatar for Andreas' src='https://secure.gravatar.com/avatar/4f16b5eaf66003cb6212f7b146319886?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4f16b5eaf66003cb6212f7b146319886?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' loading='lazy'/></noscript>						<b class="fn"><a target='_blank' href='https://www.schreiben-und-leben.de' rel='external nofollow ugc' class='url'>Andreas</a></b> <span class="says">sagt:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://schreiben-und-leben.de/fantasie-anregen-kreative-ideen/#comment-707"><time datetime="2017-03-07T20:53:21+00:00">März 7, 2017 um 8:53 p.m. Uhr</time></a>					</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Liebe Caro,<br />
+das gefällt mir sehr gut, die Verknüpfung der eigenen Wünsche mit einem Protagonisten&#8230;<br />
+Danke auch für den Link, deine Seite werde ich mir anschauen!<br />
+Schöne Schreibgrüße<br />
+Andreas</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-707' data-commentid="707" data-postid="1507" data-belowelement="div-comment-707" data-respondelement="respond" data-replyto="Auf Andreas antworten" aria-label='Auf Andreas antworten'>Antworte Andreas</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-5253" class="pingback odd alt thread-even depth-1">
+			<div class="comment-body">
+				Pingback: <a target='_blank' href='https://schreiben-und-leben.de/buecher-schreiben' rel='external nofollow ugc' class='url'>Bücher schreiben - alle 6 Bausteine für deinen Erfolg!</a> 			</div>
+		</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Schreibe einen Kommentar <small><a rel="nofollow" id="cancel-comment-reply-link" href="/fantasie-anregen-kreative-ideen/#respond" style="display:none;">Antwort abbrechen</a></small></h3><form action="https://schreiben-und-leben.de/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Deine E-Mail-Adresse wird nicht veröffentlicht.</span> Erforderliche Felder sind mit <span class="required">*</span> markiert</p><p class="comment-form-comment"><label for="comment">Kommentar</label> <textarea autocomplete="new-password"  id="ea2ec86896"  name="ea2ec86896"   cols="45" rows="8" maxlength="65525" required="required"></textarea><textarea id="comment" aria-label="hp-comment" aria-hidden="true" name="comment" autocomplete="new-password" style="padding:0 !important;clip:rect(1px, 1px, 1px, 1px) !important;position:absolute !important;white-space:nowrap !important;height:1px !important;width:1px !important;overflow:hidden !important;" tabindex="-1"></textarea><script data-noptimize>document.getElementById("comment").setAttribute( "id", "a2a45f6ca013ebb09af5d244df0882b4" );document.getElementById("ea2ec86896").setAttribute( "id", "comment" );</script></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">E-Mail <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Kommentar abschicken" /> <input type='hidden' name='comment_post_ID' value='1507' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p></form>	</div><!-- #respond -->
+	
+</div><!-- .comments-area -->
+	</main><!-- .site-main -->
+
+	
+		
+	<aside id="secondary" class="sidebar widget-area" role="complementary">
+
+		<section id="block-12" class="widget widget_block">
+<h1 class="has-text-align-center has-large-font-size">Kostenfreie Inspiration für Autoren!</h1>
+</section><section id="block-15" class="widget widget_block">
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://schreiben-und-leben.de/wp-content/uploads/2017/12/Vertical_3D_cover_version2-888x1024.png" alt="Romanschreiben" class="wp-image-2962" width="329" height="378" srcset="https://schreiben-und-leben.de/wp-content/uploads/2017/12/Vertical_3D_cover_version2.png 888w, https://schreiben-und-leben.de/wp-content/uploads/2017/12/Vertical_3D_cover_version2-260x300.png 260w, https://schreiben-und-leben.de/wp-content/uploads/2017/12/Vertical_3D_cover_version2-1200x1384.png 1200w" sizes="(max-width: 329px) 100vw, 329px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column">
+<p class="has-medium-font-size">Als Dankeschön schenke ich dir mein E-Book mit 6 magischen Zutaten für deinen Roman!</p>
+</div>
+</div>
+</section><section id="block-17" class="widget widget_block">
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><p><script type="text/javascript" src="https://app.getresponse.com/view_webform_v2.js?u=hWpEq&webforms_id=hitUq" data-webform-id="hitUq"></script></p>
+</div></div>
+</section><section id="block-11" class="widget widget_block widget_text">
+<p class="has-text-align-center">Du wirst damit Teil meiner exklusiven E-Mail-Liste und erhältst gratis ein E-Book. Abmeldung jederzeit möglich. </p>
+</section><section id="rommeled_image-4" class="no-padding widget widget_rommeled_image"><span class="rommeled_widget_image_inner "><p class="rommeled_widget_image-field rommeled_widget_image-image"><a  href="https://schreiben-und-leben.de/kontakt"><img width="300" height="300" src="https://schreiben-und-leben.de/wp-content/uploads/2024/09/Untitled-design35-300x300.png" class="img-round" alt="" loading="lazy" srcset="https://schreiben-und-leben.de/wp-content/uploads/2024/09/Untitled-design35-300x300.png 300w, https://schreiben-und-leben.de/wp-content/uploads/2024/09/Untitled-design35-1024x1024.png 1024w, https://schreiben-und-leben.de/wp-content/uploads/2024/09/Untitled-design35-150x150.png 150w, https://schreiben-und-leben.de/wp-content/uploads/2024/09/Untitled-design35-768x768.png 768w, https://schreiben-und-leben.de/wp-content/uploads/2024/09/Untitled-design35-1536x1536.png 1536w, https://schreiben-und-leben.de/wp-content/uploads/2024/09/Untitled-design35-2048x2048.png 2048w, https://schreiben-und-leben.de/wp-content/uploads/2024/09/Untitled-design35-350x350.png 350w, https://schreiben-und-leben.de/wp-content/uploads/2024/09/Untitled-design35-1200x1200.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></p><p class="rommeled_widget_image-field rommeled_widget_image-text">Andreas Schuster - Autorencoach</p></span></section><section id="tag_cloud-3" class="widget widget_tag_cloud"><h2 class="widget-title h3">Schlagwörter</h2><div class="tagcloud"><a href="https://schreiben-und-leben.de/tag/anfangen/" class="tag-cloud-link tag-link-14 tag-link-position-1" style="font-size: 14.275862068966pt;" aria-label="Anfangen (9 Einträge)">Anfangen</a>
+<a href="https://schreiben-und-leben.de/tag/autobiographie/" class="tag-cloud-link tag-link-36 tag-link-position-2" style="font-size: 13.672413793103pt;" aria-label="Autobiographie (8 Einträge)">Autobiographie</a>
+<a href="https://schreiben-und-leben.de/tag/autor/" class="tag-cloud-link tag-link-19 tag-link-position-3" style="font-size: 16.689655172414pt;" aria-label="Autor (15 Einträge)">Autor</a>
+<a href="https://schreiben-und-leben.de/tag/blog/" class="tag-cloud-link tag-link-32 tag-link-position-4" style="font-size: 10.655172413793pt;" aria-label="Blog (4 Einträge)">Blog</a>
+<a href="https://schreiben-und-leben.de/tag/blogs/" class="tag-cloud-link tag-link-22 tag-link-position-5" style="font-size: 9.448275862069pt;" aria-label="Blogs (3 Einträge)">Blogs</a>
+<a href="https://schreiben-und-leben.de/tag/buch-schreiben/" class="tag-cloud-link tag-link-31 tag-link-position-6" style="font-size: 15.603448275862pt;" aria-label="Buch schreiben (12 Einträge)">Buch schreiben</a>
+<a href="https://schreiben-und-leben.de/tag/buchtipp/" class="tag-cloud-link tag-link-33 tag-link-position-7" style="font-size: 12.465517241379pt;" aria-label="Buchtipp (6 Einträge)">Buchtipp</a>
+<a href="https://schreiben-und-leben.de/tag/buch-veroeffentlichen/" class="tag-cloud-link tag-link-50 tag-link-position-8" style="font-size: 13.672413793103pt;" aria-label="Buch veröffentlichen (8 Einträge)">Buch veröffentlichen</a>
+<a href="https://schreiben-und-leben.de/tag/erzaehlperspektive/" class="tag-cloud-link tag-link-100 tag-link-position-9" style="font-size: 9.448275862069pt;" aria-label="Erzählperspektive (3 Einträge)">Erzählperspektive</a>
+<a href="https://schreiben-und-leben.de/tag/figur/" class="tag-cloud-link tag-link-6 tag-link-position-10" style="font-size: 9.448275862069pt;" aria-label="Figur (3 Einträge)">Figur</a>
+<a href="https://schreiben-und-leben.de/tag/geschichte-schreiben/" class="tag-cloud-link tag-link-17 tag-link-position-11" style="font-size: 14.275862068966pt;" aria-label="Geschichte schreiben (9 Einträge)">Geschichte schreiben</a>
+<a href="https://schreiben-und-leben.de/tag/ideen/" class="tag-cloud-link tag-link-10 tag-link-position-12" style="font-size: 15.603448275862pt;" aria-label="Ideen (12 Einträge)">Ideen</a>
+<a href="https://schreiben-und-leben.de/tag/inspiration/" class="tag-cloud-link tag-link-4 tag-link-position-13" style="font-size: 19.465517241379pt;" aria-label="Inspiration (26 Einträge)">Inspiration</a>
+<a href="https://schreiben-und-leben.de/tag/interesse/" class="tag-cloud-link tag-link-8 tag-link-position-14" style="font-size: 8pt;" aria-label="Interesse (2 Einträge)">Interesse</a>
+<a href="https://schreiben-und-leben.de/tag/konflikt/" class="tag-cloud-link tag-link-9 tag-link-position-15" style="font-size: 9.448275862069pt;" aria-label="Konflikt (3 Einträge)">Konflikt</a>
+<a href="https://schreiben-und-leben.de/tag/kreatives-schreiben/" class="tag-cloud-link tag-link-101 tag-link-position-16" style="font-size: 11.620689655172pt;" aria-label="Kreatives Schreiben (5 Einträge)">Kreatives Schreiben</a>
+<a href="https://schreiben-und-leben.de/tag/kreativitaet/" class="tag-cloud-link tag-link-18 tag-link-position-17" style="font-size: 13.068965517241pt;" aria-label="Kreativität (7 Einträge)">Kreativität</a>
+<a href="https://schreiben-und-leben.de/tag/kurzgeschichte/" class="tag-cloud-link tag-link-44 tag-link-position-18" style="font-size: 10.655172413793pt;" aria-label="Kurzgeschichte (4 Einträge)">Kurzgeschichte</a>
+<a href="https://schreiben-und-leben.de/tag/lesen/" class="tag-cloud-link tag-link-27 tag-link-position-19" style="font-size: 9.448275862069pt;" aria-label="Lesen (3 Einträge)">Lesen</a>
+<a href="https://schreiben-und-leben.de/tag/marketing/" class="tag-cloud-link tag-link-68 tag-link-position-20" style="font-size: 14.275862068966pt;" aria-label="Marketing (9 Einträge)">Marketing</a>
+<a href="https://schreiben-und-leben.de/tag/medien/" class="tag-cloud-link tag-link-12 tag-link-position-21" style="font-size: 9.448275862069pt;" aria-label="Medien (3 Einträge)">Medien</a>
+<a href="https://schreiben-und-leben.de/tag/motivation/" class="tag-cloud-link tag-link-37 tag-link-position-22" style="font-size: 13.068965517241pt;" aria-label="Motivation (7 Einträge)">Motivation</a>
+<a href="https://schreiben-und-leben.de/tag/maerchen/" class="tag-cloud-link tag-link-15 tag-link-position-23" style="font-size: 8pt;" aria-label="märchen (2 Einträge)">märchen</a>
+<a href="https://schreiben-und-leben.de/tag/persoenlichkeitsentwicklung/" class="tag-cloud-link tag-link-26 tag-link-position-24" style="font-size: 18.137931034483pt;" aria-label="Persönlichkeitsentwicklung (20 Einträge)">Persönlichkeitsentwicklung</a>
+<a href="https://schreiben-und-leben.de/tag/plot/" class="tag-cloud-link tag-link-64 tag-link-position-25" style="font-size: 12.465517241379pt;" aria-label="Plot (6 Einträge)">Plot</a>
+<a href="https://schreiben-und-leben.de/tag/regeln/" class="tag-cloud-link tag-link-57 tag-link-position-26" style="font-size: 10.655172413793pt;" aria-label="Regeln (4 Einträge)">Regeln</a>
+<a href="https://schreiben-und-leben.de/tag/reisen/" class="tag-cloud-link tag-link-52 tag-link-position-27" style="font-size: 12.465517241379pt;" aria-label="Reisen (6 Einträge)">Reisen</a>
+<a href="https://schreiben-und-leben.de/tag/rezension/" class="tag-cloud-link tag-link-34 tag-link-position-28" style="font-size: 13.068965517241pt;" aria-label="Rezension (7 Einträge)">Rezension</a>
+<a href="https://schreiben-und-leben.de/tag/roman-schreiben/" class="tag-cloud-link tag-link-28 tag-link-position-29" style="font-size: 22pt;" aria-label="Roman schreiben (43 Einträge)">Roman schreiben</a>
+<a href="https://schreiben-und-leben.de/tag/schreibblockade/" class="tag-cloud-link tag-link-13 tag-link-position-30" style="font-size: 13.068965517241pt;" aria-label="Schreibblockade (7 Einträge)">Schreibblockade</a>
+<a href="https://schreiben-und-leben.de/tag/schreibmethoden/" class="tag-cloud-link tag-link-99 tag-link-position-31" style="font-size: 10.655172413793pt;" aria-label="Schreibmethoden (4 Einträge)">Schreibmethoden</a>
+<a href="https://schreiben-und-leben.de/tag/schreibort/" class="tag-cloud-link tag-link-30 tag-link-position-32" style="font-size: 9.448275862069pt;" aria-label="Schreibort (3 Einträge)">Schreibort</a>
+<a href="https://schreiben-und-leben.de/tag/schreibratgeber/" class="tag-cloud-link tag-link-35 tag-link-position-33" style="font-size: 14.275862068966pt;" aria-label="Schreibratgeber (9 Einträge)">Schreibratgeber</a>
+<a href="https://schreiben-und-leben.de/tag/schreibtipps/" class="tag-cloud-link tag-link-16 tag-link-position-34" style="font-size: 21.879310344828pt;" aria-label="Schreibtipps (42 Einträge)">Schreibtipps</a>
+<a href="https://schreiben-und-leben.de/tag/schriftsteller-werden/" class="tag-cloud-link tag-link-24 tag-link-position-35" style="font-size: 19.224137931034pt;" aria-label="Schriftsteller werden (25 Einträge)">Schriftsteller werden</a>
+<a href="https://schreiben-und-leben.de/tag/selbstfindung/" class="tag-cloud-link tag-link-7 tag-link-position-36" style="font-size: 15.603448275862pt;" aria-label="Selbstfindung (12 Einträge)">Selbstfindung</a>
+<a href="https://schreiben-und-leben.de/tag/spannung/" class="tag-cloud-link tag-link-75 tag-link-position-37" style="font-size: 11.620689655172pt;" aria-label="Spannung (5 Einträge)">Spannung</a>
+<a href="https://schreiben-und-leben.de/tag/stil/" class="tag-cloud-link tag-link-54 tag-link-position-38" style="font-size: 10.655172413793pt;" aria-label="Stil (4 Einträge)">Stil</a>
+<a href="https://schreiben-und-leben.de/tag/struktur/" class="tag-cloud-link tag-link-65 tag-link-position-39" style="font-size: 10.655172413793pt;" aria-label="Struktur (4 Einträge)">Struktur</a>
+<a href="https://schreiben-und-leben.de/tag/thema/" class="tag-cloud-link tag-link-5 tag-link-position-40" style="font-size: 13.672413793103pt;" aria-label="Thema (8 Einträge)">Thema</a>
+<a href="https://schreiben-und-leben.de/tag/verlag/" class="tag-cloud-link tag-link-48 tag-link-position-41" style="font-size: 9.448275862069pt;" aria-label="Verlag (3 Einträge)">Verlag</a>
+<a href="https://schreiben-und-leben.de/tag/veroeffentlichung/" class="tag-cloud-link tag-link-47 tag-link-position-42" style="font-size: 9.448275862069pt;" aria-label="Veröffentlichung (3 Einträge)">Veröffentlichung</a>
+<a href="https://schreiben-und-leben.de/tag/wettbewerb/" class="tag-cloud-link tag-link-43 tag-link-position-43" style="font-size: 9.448275862069pt;" aria-label="Wettbewerb (3 Einträge)">Wettbewerb</a>
+<a href="https://schreiben-und-leben.de/tag/zeitmanagement/" class="tag-cloud-link tag-link-25 tag-link-position-44" style="font-size: 13.068965517241pt;" aria-label="Zeitmanagement (7 Einträge)">Zeitmanagement</a>
+<a href="https://schreiben-und-leben.de/tag/uebung/" class="tag-cloud-link tag-link-21 tag-link-position-45" style="font-size: 10.655172413793pt;" aria-label="Übung (4 Einträge)">Übung</a></div>
+</section><section id="search-2" class="widget widget_search"><h2 class="widget-title h3">Suche</h2><form role="search" method="get" class="search-form" action="https://schreiben-und-leben.de/">
+				<label>
+					<span class="screen-reader-text">Suche nach:</span>
+					<input type="search" class="search-field" placeholder="Suchen …" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Suchen" />
+			</form></section><section id="categories-3" class="widget widget_categories"><h2 class="widget-title h3">Kategorien</h2>
+			<ul>
+					<li class="cat-item cat-item-114"><a href="https://schreiben-und-leben.de/category/analysieren-und-interpretieren/">Analysieren und Interpretieren</a> (1)
+</li>
+	<li class="cat-item cat-item-55"><a href="https://schreiben-und-leben.de/category/buch-veroeffentlichen/">Buch veröffentlichen</a> (8)
+</li>
+	<li class="cat-item cat-item-107"><a href="https://schreiben-und-leben.de/category/dramaturgie/">Dramaturgie</a> (1)
+</li>
+	<li class="cat-item cat-item-117"><a href="https://schreiben-und-leben.de/category/ideenfindung/">Ideenfindung</a> (2)
+</li>
+	<li class="cat-item cat-item-118"><a href="https://schreiben-und-leben.de/category/kreativitaet/">Kreativität</a> (3)
+</li>
+	<li class="cat-item cat-item-29"><a href="https://schreiben-und-leben.de/category/lesetipps/">Lesetipps</a> (11)
+</li>
+	<li class="cat-item cat-item-92"><a href="https://schreiben-und-leben.de/category/mindset/">Mindset</a> (4)
+</li>
+	<li class="cat-item cat-item-56"><a href="https://schreiben-und-leben.de/category/schreiben-und-leben-der-podcast/">Schreiben und Leben &#8211; Der Podcast</a> (124)
+</li>
+	<li class="cat-item cat-item-111"><a href="https://schreiben-und-leben.de/category/schreibhandwerk/">Schreibhandwerk</a> (2)
+</li>
+	<li class="cat-item cat-item-11"><a href="https://schreiben-und-leben.de/category/schreibtipps/" title="Schreibtipps für Kreatives Schreiben - Bessere Geschichten schreiben, fesselnde Romane schreiben. Mit Schreibtipps zu deinem eigenen Buch!">Schreibtipps</a> (62)
+</li>
+	<li class="cat-item cat-item-1"><a href="https://schreiben-und-leben.de/category/schriftsteller-werden/" title="Schriftsteller werden: Hierzu gehören nicht nur die richtigen Schreibtipps sondern auch Disziplin und Durchhaltevermögen. Möchtest du Autor werden, brauchst du Ideen und praktische Ratschläge, wie sich Schreiben und Leben miteinander verbinden lassen. Die perfekte Begleitung für deinen Schreibweg zum eigenen Buch!">Schriftsteller werden</a> (66)
+</li>
+			</ul>
+
+			</section>		
+	</aside><!-- .sidebar .widget-area -->
+
+
+	
+</div><!-- .content-area -->
+
+	
+	<div id="bloggo-hero-footer" class="bloggo-hero-footer">
+			
+		<div class="wrap">
+
+			<div class="action-bereiche"><div class="action-bereich action-bereich-1"></div></div>
+		</div>
+
+	</div>
+
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+
+		
+		<div class="bloggo-site-info">
+
+			<div class="wrap">
+
+				
+				<p><a href="https://schreiben-und-leben.de/impressum">Impressum</a> &#8211; <a href="https://schreiben-und-leben.de/datenschutzerklaerung">Datenschutz</a> &#8211; <a href="https://schreiben-und-leben.de/impressum">Kontakt</a></p>
+<p>Copyright Schreiben und Leben 2016-2024</p>
+
+				<a class="bloggo-theme-info" href="http://bloggo-theme.de/?utm_source=bloggo3-footer&utm_medium=bloggo3-footer&utm_campaign=bloggo3-footer" target="_blank" title="Bloggo 3 - Das WordPress-Theme für Selbständige & Blogger"><img src="https://schreiben-und-leben.de/wp-content/themes/bloggo-3/images/bloggo.png" alt="Bloggo - Das WordPress-Theme für Selbständige & Blogger" width="104" /></a></span>
+
+				</a>
+
+			</div><!-- .wrap -->
+
+		</div><!-- .bloggo-site-info -->
+
+	</footer><!-- .site-footer -->
+
+</div>
+
+	<!--googleoff: all--><div data-nosnippet><script id="BorlabsCookieBoxWrap" type="text/template"><div
+    id="BorlabsCookieBox"
+    class="BorlabsCookie"
+    role="dialog"
+    aria-labelledby="CookieBoxTextHeadline"
+    aria-describedby="CookieBoxTextDescription"
+    aria-modal="true"
+>
+    <div class="top-center" style="display: none;">
+        <div class="_brlbs-box-wrap">
+            <div class="_brlbs-box _brlbs-box-advanced">
+                <div class="cookie-box">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="_brlbs-flex-center">
+                                    
+                                    <span role="heading" aria-level="3" class="_brlbs-h3" id="CookieBoxTextHeadline">Datenschutzeinstellungen</span>
+                                </div>
+
+                                <p id="CookieBoxTextDescription"><span class="_brlbs-paragraph _brlbs-text-description">Wir nutzen Cookies auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern.</span> <span class="_brlbs-paragraph _brlbs-text-confirm-age">Wenn Sie unter 16 Jahre alt sind und Ihre Zustimmung zu freiwilligen Diensten geben möchten, müssen Sie Ihre Erziehungsberechtigten um Erlaubnis bitten.</span> <span class="_brlbs-paragraph _brlbs-text-technology">Wir verwenden Cookies und andere Technologien auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern.</span> <span class="_brlbs-paragraph _brlbs-text-personal-data">Personenbezogene Daten können verarbeitet werden (z. B. IP-Adressen), z. B. für personalisierte Anzeigen und Inhalte oder Anzeigen- und Inhaltsmessung.</span> <span class="_brlbs-paragraph _brlbs-text-more-information">Weitere Informationen über die Verwendung Ihrer Daten finden Sie in unserer  <a class="_brlbs-cursor" href="https://schreiben-und-leben.de/datenschutzerklaerung/">Datenschutzerklärung</a>.</span> <span class="_brlbs-paragraph _brlbs-text-revoke">Sie können Ihre Auswahl jederzeit unter <a class="_brlbs-cursor" href="#" data-cookie-individual>Einstellungen</a> widerrufen oder anpassen.</span></p>
+
+                                                                    <fieldset>
+                                        <legend class="sr-only">Datenschutzeinstellungen</legend>
+                                        <ul>
+                                                                                                <li>
+                                                        <label class="_brlbs-checkbox">
+                                                            Essenziell                                                            <input
+                                                                id="checkbox-essential"
+                                                                tabindex="0"
+                                                                type="checkbox"
+                                                                name="cookieGroup[]"
+                                                                value="essential"
+                                                                 checked                                                                 disabled                                                                data-borlabs-cookie-checkbox
+                                                            >
+                                                            <span class="_brlbs-checkbox-indicator"></span>
+                                                        </label>
+                                                    </li>
+                                                                                                    <li>
+                                                        <label class="_brlbs-checkbox">
+                                                            Marketing                                                            <input
+                                                                id="checkbox-marketing"
+                                                                tabindex="0"
+                                                                type="checkbox"
+                                                                name="cookieGroup[]"
+                                                                value="marketing"
+                                                                 checked                                                                                                                                data-borlabs-cookie-checkbox
+                                                            >
+                                                            <span class="_brlbs-checkbox-indicator"></span>
+                                                        </label>
+                                                    </li>
+                                                                                                    <li>
+                                                        <label class="_brlbs-checkbox">
+                                                            Externe Medien                                                            <input
+                                                                id="checkbox-external-media"
+                                                                tabindex="0"
+                                                                type="checkbox"
+                                                                name="cookieGroup[]"
+                                                                value="external-media"
+                                                                 checked                                                                                                                                data-borlabs-cookie-checkbox
+                                                            >
+                                                            <span class="_brlbs-checkbox-indicator"></span>
+                                                        </label>
+                                                    </li>
+                                                                                        </ul>
+                                    </fieldset>
+
+                                    
+                                                                    <p class="_brlbs-accept">
+                                        <a
+                                            href="#"
+                                            tabindex="0"
+                                            role="button"
+                                            class="_brlbs-btn _brlbs-btn-accept-all _brlbs-cursor"
+                                            data-cookie-accept-all
+                                        >
+                                            Alle akzeptieren                                        </a>
+                                    </p>
+
+                                    <p class="_brlbs-accept">
+                                        <a
+                                            href="#"
+                                            tabindex="0"
+                                            role="button"
+                                            id="CookieBoxSaveButton"
+                                            class="_brlbs-btn _brlbs-cursor"
+                                            data-cookie-accept
+                                        >
+                                            Speichern                                        </a>
+                                    </p>
+                                
+                                
+                                <p class="_brlbs-manage-btn ">
+                                    <a href="#" class="_brlbs-cursor _brlbs-btn " tabindex="0" role="button" data-cookie-individual>
+                                        Individuelle Datenschutzeinstellungen                                    </a>
+                                </p>
+
+                                <p class="_brlbs-legal">
+                                    <a href="#" class="_brlbs-cursor" tabindex="0" role="button" data-cookie-individual>
+                                        Cookie-Details                                    </a>
+
+                                                                            <span class="_brlbs-separator"></span>
+                                        <a href="https://schreiben-und-leben.de/datenschutzerklaerung/" tabindex="0" role="button">
+                                            Datenschutzerklärung                                        </a>
+                                    
+                                                                            <span class="_brlbs-separator"></span>
+                                        <a href="https://schreiben-und-leben.de/impressum/" tabindex="0" role="button">
+                                            Impressum                                        </a>
+                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div
+    class="cookie-preference"
+    aria-hidden="true"
+    role="dialog"
+    aria-describedby="CookiePrefDescription"
+    aria-modal="true"
+>
+    <div class="container not-visible">
+        <div class="row no-gutters">
+            <div class="col-12">
+                <div class="row no-gutters align-items-top">
+                    <div class="col-12">
+                        <div class="_brlbs-flex-center">
+                                                    <span role="heading" aria-level="3" class="_brlbs-h3">Datenschutzeinstellungen</span>
+                        </div>
+
+                        <p id="CookiePrefDescription">
+                            <span class="_brlbs-paragraph _brlbs-text-confirm-age">Wenn Sie unter 16 Jahre alt sind und Ihre Zustimmung zu freiwilligen Diensten geben möchten, müssen Sie Ihre Erziehungsberechtigten um Erlaubnis bitten.</span> <span class="_brlbs-paragraph _brlbs-text-technology">Wir verwenden Cookies und andere Technologien auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern.</span> <span class="_brlbs-paragraph _brlbs-text-personal-data">Personenbezogene Daten können verarbeitet werden (z. B. IP-Adressen), z. B. für personalisierte Anzeigen und Inhalte oder Anzeigen- und Inhaltsmessung.</span> <span class="_brlbs-paragraph _brlbs-text-more-information">Weitere Informationen über die Verwendung Ihrer Daten finden Sie in unserer  <a class="_brlbs-cursor" href="https://schreiben-und-leben.de/datenschutzerklaerung/">Datenschutzerklärung</a>.</span> <span class="_brlbs-paragraph _brlbs-text-description">Hier finden Sie eine Übersicht über alle verwendeten Cookies. Sie können Ihre Einwilligung zu ganzen Kategorien geben oder sich weitere Informationen anzeigen lassen und so nur bestimmte Cookies auswählen.</span>                        </p>
+
+                        <div class="row no-gutters align-items-center">
+                            <div class="col-12 col-sm-7">
+                                <p class="_brlbs-accept">
+                                                                            <a
+                                            href="#"
+                                            class="_brlbs-btn _brlbs-btn-accept-all _brlbs-cursor"
+                                            tabindex="0"
+                                            role="button"
+                                            data-cookie-accept-all
+                                        >
+                                            Alle akzeptieren                                        </a>
+                                        
+                                    <a
+                                        href="#"
+                                        id="CookiePrefSave"
+                                        tabindex="0"
+                                        role="button"
+                                        class="_brlbs-btn _brlbs-cursor"
+                                        data-cookie-accept
+                                    >
+                                        Speichern                                    </a>
+
+                                                                    </p>
+                            </div>
+
+                            <div class="col-12 col-sm-5">
+                                <p class="_brlbs-refuse">
+                                    <a
+                                        href="#"
+                                        class="_brlbs-cursor"
+                                        tabindex="0"
+                                        role="button"
+                                        data-cookie-back
+                                    >
+                                        Zurück                                    </a>
+
+                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div data-cookie-accordion>
+                                            <fieldset>
+                            <legend class="sr-only">Datenschutzeinstellungen</legend>
+
+                                                                                                <div class="bcac-item">
+                                        <div class="d-flex flex-row">
+                                            <label class="w-75">
+                                                <span role="heading" aria-level="4" class="_brlbs-h4">Essenziell (2)</span>
+                                            </label>
+
+                                            <div class="w-25 text-right">
+                                                                                            </div>
+                                        </div>
+
+                                        <div class="d-block">
+                                            <p>Essenzielle Cookies ermöglichen grundlegende Funktionen und sind für die einwandfreie Funktion der Website erforderlich.</p>
+
+                                            <p class="text-center">
+                                                <a
+                                                    href="#"
+                                                    class="_brlbs-cursor d-block"
+                                                    tabindex="0"
+                                                    role="button"
+                                                    data-cookie-accordion-target="essential"
+                                                >
+                                                    <span data-cookie-accordion-status="show">
+                                                        Cookie-Informationen anzeigen                                                    </span>
+
+                                                    <span data-cookie-accordion-status="hide" class="borlabs-hide">
+                                                        Cookie-Informationen ausblenden                                                    </span>
+                                                </a>
+                                            </p>
+                                        </div>
+
+                                        <div
+                                            class="borlabs-hide"
+                                            data-cookie-accordion-parent="essential"
+                                        >
+                                                                                            <table>
+                                                    
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                Borlabs Cookie                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Eigentümer dieser Website<span>, </span><a href="https://schreiben-und-leben.de/impressum/">Impressum</a></td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Speichert die Einstellungen der Besucher, die in der Cookie Box von Borlabs Cookie ausgewählt wurden.</td>
+                                                        </tr>
+                                                        
+                                                    
+                                                    
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>borlabs-cookie</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Laufzeit</th>
+                                                            <td>1 Jahr</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                                <table>
+                                                    
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                VG Wort                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Verwertungsgesellschaft WORT (VG WORT), Rechtsfähiger Verein kraft Verleihung, Untere Weidenstraße 5, 81543 München, Deutschland</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Das Cookie der VG Wort hilft die Kopierwahrscheinlichkeit unserer Texte zu ermitteln und stellt die Vergütung von gesetzlichen Ansprüchen von Autoren und Verlagen sicher. IP-Adressen werden nur in anonymisierter Form verarbeitet. Datenschutzerklärung URL</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Datenschutzerklärung</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://www.vgwort.de/hilfsseiten/datenschutz.html"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://www.vgwort.de/hilfsseiten/datenschutz.html                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>*.vgwort.de</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>srp</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Laufzeit</th>
+                                                            <td>Sitzung</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                        </div>
+                                    </div>
+                                                                                                                                        <div class="bcac-item">
+                                        <div class="d-flex flex-row">
+                                            <label class="w-75">
+                                                <span role="heading" aria-level="4" class="_brlbs-h4">Marketing (1)</span>
+                                            </label>
+
+                                            <div class="w-25 text-right">
+                                                                                                    <label class="_brlbs-btn-switch">
+                                                        <span class="sr-only">Marketing</span>
+                                                        <input
+                                                            tabindex="0"
+                                                            id="borlabs-cookie-group-marketing"
+                                                            type="checkbox"
+                                                            name="cookieGroup[]"
+                                                            value="marketing"
+                                                             checked                                                            data-borlabs-cookie-switch
+                                                        />
+                                                        <span class="_brlbs-slider"></span>
+                                                        <span
+                                                            class="_brlbs-btn-switch-status"
+                                                            data-active="An"
+                                                            data-inactive="Aus">
+                                                        </span>
+                                                    </label>
+                                                                                                </div>
+                                        </div>
+
+                                        <div class="d-block">
+                                            <p>Marketing-Cookies werden von Drittanbietern oder Publishern verwendet, um personalisierte Werbung anzuzeigen. Sie tun dies, indem sie Besucher über Websites hinweg verfolgen.</p>
+
+                                            <p class="text-center">
+                                                <a
+                                                    href="#"
+                                                    class="_brlbs-cursor d-block"
+                                                    tabindex="0"
+                                                    role="button"
+                                                    data-cookie-accordion-target="marketing"
+                                                >
+                                                    <span data-cookie-accordion-status="show">
+                                                        Cookie-Informationen anzeigen                                                    </span>
+
+                                                    <span data-cookie-accordion-status="hide" class="borlabs-hide">
+                                                        Cookie-Informationen ausblenden                                                    </span>
+                                                </a>
+                                            </p>
+                                        </div>
+
+                                        <div
+                                            class="borlabs-hide"
+                                            data-cookie-accordion-parent="marketing"
+                                        >
+                                                                                            <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Akzeptieren</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">GetResponse</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-getresponse"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="marketing"
+                                                                        name="cookies[marketing][]"
+                                                                        value="getresponse"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="An"
+                                                                        data-inactive="Aus"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                GetResponse                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>GetResponse GmbH</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>E-Mail Marketing</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Datenschutzerklärung</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://www.getresponse.com/de/legal/datenschutz"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://www.getresponse.com/de/legal/datenschutz                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>app.getresponse.com, getresponse.com</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>getresponse.com, app.getresponse.com</td>
+                                                        </tr>
+                                                        
+                                                                                                    </table>
+                                                                                        </div>
+                                    </div>
+                                                                                                                                        <div class="bcac-item">
+                                        <div class="d-flex flex-row">
+                                            <label class="w-75">
+                                                <span role="heading" aria-level="4" class="_brlbs-h4">Externe Medien (7)</span>
+                                            </label>
+
+                                            <div class="w-25 text-right">
+                                                                                                    <label class="_brlbs-btn-switch">
+                                                        <span class="sr-only">Externe Medien</span>
+                                                        <input
+                                                            tabindex="0"
+                                                            id="borlabs-cookie-group-external-media"
+                                                            type="checkbox"
+                                                            name="cookieGroup[]"
+                                                            value="external-media"
+                                                             checked                                                            data-borlabs-cookie-switch
+                                                        />
+                                                        <span class="_brlbs-slider"></span>
+                                                        <span
+                                                            class="_brlbs-btn-switch-status"
+                                                            data-active="An"
+                                                            data-inactive="Aus">
+                                                        </span>
+                                                    </label>
+                                                                                                </div>
+                                        </div>
+
+                                        <div class="d-block">
+                                            <p>Inhalte von Videoplattformen und Social-Media-Plattformen werden standardmäßig blockiert. Wenn Cookies von externen Medien akzeptiert werden, bedarf der Zugriff auf diese Inhalte keiner manuellen Einwilligung mehr.</p>
+
+                                            <p class="text-center">
+                                                <a
+                                                    href="#"
+                                                    class="_brlbs-cursor d-block"
+                                                    tabindex="0"
+                                                    role="button"
+                                                    data-cookie-accordion-target="external-media"
+                                                >
+                                                    <span data-cookie-accordion-status="show">
+                                                        Cookie-Informationen anzeigen                                                    </span>
+
+                                                    <span data-cookie-accordion-status="hide" class="borlabs-hide">
+                                                        Cookie-Informationen ausblenden                                                    </span>
+                                                </a>
+                                            </p>
+                                        </div>
+
+                                        <div
+                                            class="borlabs-hide"
+                                            data-cookie-accordion-parent="external-media"
+                                        >
+                                                                                            <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Akzeptieren</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">Facebook</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-facebook"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="external-media"
+                                                                        name="cookies[external-media][]"
+                                                                        value="facebook"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="An"
+                                                                        data-inactive="Aus"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                Facebook                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Wird verwendet, um Facebook-Inhalte zu entsperren.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Datenschutzerklärung</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://www.facebook.com/privacy/explanation"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://www.facebook.com/privacy/explanation                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>.facebook.com</td>
+                                                        </tr>
+                                                        
+                                                    
+                                                                                                    </table>
+                                                                                                <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Akzeptieren</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">Google Maps</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-googlemaps"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="external-media"
+                                                                        name="cookies[external-media][]"
+                                                                        value="googlemaps"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="An"
+                                                                        data-inactive="Aus"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                Google Maps                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Wird zum Entsperren von Google Maps-Inhalten verwendet.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Datenschutzerklärung</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://policies.google.com/privacy"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://policies.google.com/privacy                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>.google.com</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>NID</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Laufzeit</th>
+                                                            <td>6 Monate</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                                <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Akzeptieren</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">Instagram</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-instagram"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="external-media"
+                                                                        name="cookies[external-media][]"
+                                                                        value="instagram"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="An"
+                                                                        data-inactive="Aus"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                Instagram                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Wird verwendet, um Instagram-Inhalte zu entsperren.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Datenschutzerklärung</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://www.instagram.com/legal/privacy/"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://www.instagram.com/legal/privacy/                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>.instagram.com</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>pigeon_state</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Laufzeit</th>
+                                                            <td>Sitzung</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                                <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Akzeptieren</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">OpenStreetMap</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-openstreetmap"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="external-media"
+                                                                        name="cookies[external-media][]"
+                                                                        value="openstreetmap"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="An"
+                                                                        data-inactive="Aus"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                OpenStreetMap                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Openstreetmap Foundation, St John’s Innovation Centre, Cowley Road, Cambridge CB4 0WS, United Kingdom</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Wird verwendet, um OpenStreetMap-Inhalte zu entsperren.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Datenschutzerklärung</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://wiki.osmfoundation.org/wiki/Privacy_Policy"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://wiki.osmfoundation.org/wiki/Privacy_Policy                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>.openstreetmap.org</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>_osm_location, _osm_session, _osm_totp_token, _osm_welcome, _pk_id., _pk_ref., _pk_ses., qos_token</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Laufzeit</th>
+                                                            <td>1-10 Jahre</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                                <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Akzeptieren</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">Twitter</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-twitter"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="external-media"
+                                                                        name="cookies[external-media][]"
+                                                                        value="twitter"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="An"
+                                                                        data-inactive="Aus"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                Twitter                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Wird verwendet, um Twitter-Inhalte zu entsperren.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Datenschutzerklärung</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://twitter.com/privacy"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://twitter.com/privacy                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>.twimg.com, .twitter.com</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>__widgetsettings, local_storage_support_test</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Laufzeit</th>
+                                                            <td>Unbegrenzt</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                                <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Akzeptieren</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">Vimeo</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-vimeo"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="external-media"
+                                                                        name="cookies[external-media][]"
+                                                                        value="vimeo"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="An"
+                                                                        data-inactive="Aus"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                Vimeo                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Vimeo Inc., 555 West 18th Street, New York, New York 10011, USA</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Wird verwendet, um Vimeo-Inhalte zu entsperren.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Datenschutzerklärung</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://vimeo.com/privacy"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://vimeo.com/privacy                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>player.vimeo.com</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>vuid</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Laufzeit</th>
+                                                            <td>2 Jahre</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                                <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Akzeptieren</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">YouTube</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-youtube"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="external-media"
+                                                                        name="cookies[external-media][]"
+                                                                        value="youtube"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="An"
+                                                                        data-inactive="Aus"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                YouTube                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Wird verwendet, um YouTube-Inhalte zu entsperren.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Datenschutzerklärung</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://policies.google.com/privacy"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://policies.google.com/privacy                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>google.com</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>NID</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Laufzeit</th>
+                                                            <td>6 Monate</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                        </div>
+                                    </div>
+                                                                                                </fieldset>
+                                        </div>
+
+                <div class="d-flex justify-content-between">
+                    <p class="_brlbs-branding flex-fill">
+                                            </p>
+
+                    <p class="_brlbs-legal flex-fill">
+                                                    <a href="https://schreiben-und-leben.de/datenschutzerklaerung/">
+                                Datenschutzerklärung                            </a>
+                            
+                                                    <span class="_brlbs-separator"></span>
+                            
+                                                    <a href="https://schreiben-und-leben.de/impressum/">
+                                Impressum                            </a>
+                                                </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+</script></div><!--googleon: all-->    <script>
+        var snp_f = [];
+        var snp_hostname = new RegExp(location.host);
+        var snp_http = new RegExp("^(http|https)://", "i");
+        var snp_cookie_prefix = '';
+        var snp_separate_cookies = true;
+        var snp_ajax_url = 'https://schreiben-und-leben.de/wp-admin/admin-ajax.php';
+        var snp_domain_url = 'https://schreiben-und-leben.de';
+		var snp_ajax_nonce = '165bc7cd8b';
+		var snp_ajax_ping_time = 1000;
+        var snp_ignore_cookies = false;
+        var snp_enable_analytics_events = false;
+        var snp_is_mobile = false;
+        var snp_enable_mobile = true;
+        var snp_use_in_all = false;
+        var snp_excluded_urls = [];
+        var snp_close_on_esc_key = false;
+        snp_excluded_urls.push('');    </script>
+    <div class="snp-root">
+        <input type="hidden" id="snp_popup" value="" />
+        <input type="hidden" id="snp_popup_id" value="" />
+        <input type="hidden" id="snp_popup_theme" value="" />
+        <input type="hidden" id="snp_exithref" value="" />
+        <input type="hidden" id="snp_exittarget" value="" />
+                	<div id="snppopup-welcome" class="snp-pop-3443 snppopup"><input type="hidden" class="snp_open" value="spend_time" /><input type="hidden" class="snp_close" value="manual" /><input type="hidden" class="snp_show_on_exit" value="3" /><input type="hidden" class="snp_exit_js_alert_text" value="" /><input type="hidden" class="snp_exit_scroll_down" value="10" /><input type="hidden" class="snp_exit_scroll_up" value="10" /><input type="hidden" class="snp_open_scroll" value="10" /><input type="hidden" class="snp_open_spend_time" value="18" /><input type="hidden" class="snp_optin_redirect_url" value="https://schreiben-und-leben.de/post-2255" /><input type="hidden" class="snp_optin_form_submit" value="single" /><input type="hidden" class="snp_show_cb_button" value="yes" /><input type="hidden" class="snp_popup_id" value="3443" /><input type="hidden" class="snp_popup_theme" value="builder" /><input type="hidden" class="snp_overlay" value="default" /><input type="hidden" class="snp_cookie_conversion" value="60" /><input type="hidden" class="snp_cookie_close" value="8" />
+<div class="snp-builder">
+            <div class="snp-bld-step-cont snp-bld-step-cont-1 snp-bld-center">
+            <div id="snp-bld-step-1" data-width="800" data-height="530"  class="snp-bld-step snp-bld-step-1  animated fadeInDownBig " data-animation="fadeInDownBig" data-animation-close="bounceOut"><form action="#" method="post" class=" snp-subscribeform snp_subscribeform"><input type="hidden" name="np_custom_name1" value="" /><input type="hidden" name="np_custom_name2" value="" />                <div class="bld-el-cont bld-el-box bld-step-1-el-0  animated flipInX" data-animation="flipInX"><div   class="bld-el  "></div></div><div class="bld-el-cont bld-el-text bld-step-1-el-1  animated fadeInRight" data-animation="fadeInRight"><div class="bld-el  " ><h1 class="fl-heading" style="text-align: center;"><span style="font-size: 38px;"><span class="fl-heading-text">6 magische Zutaten f&uuml;r deinen <span style="font-size: 48px;">Roman!</span></span></span></h1></div></div><div class="bld-el-cont bld-el-input bld-step-1-el-2  animated fadeIn" data-animation="fadeIn"><div class="bld-table-cont"><input   placeholder="Name" required name="name"  value=""  class="bld-el  " /></div></div><div class="bld-el-cont bld-el-input bld-step-1-el-3  animated fadeIn" data-animation="fadeIn"><div class="bld-table-cont"><input   placeholder="Email-Adresse" required name="email"  value=""  class="bld-el  " /></div></div><div class="bld-el-cont bld-el-button bld-step-1-el-4  animated bounceIn" data-animation="bounceIn"><button class="bld-el   snp-submit snp-cursor-pointer"  name="" data-step="2" data-loading="Sending... &lt;i class=&quot;fa fa-circle-o-notch fa-spin&quot;&gt;&lt;/i&gt;" data-redirect-rules='{"":""}' type="submit">Für 0€ abonnieren und Geschenk erhalten!  <i  style="margin-left: 15px;" class="fa fa-chevron-right"></i></button></div><div class="bld-el-cont bld-el-text bld-step-1-el-5  animated fadeIn" data-animation="fadeIn"><div class="bld-el  " ><div class="fl-module fl-module-heading fl-node-661909c686b31" data-node="661909c686b31">
+<div class="fl-module-content fl-node-content">
+<h2 class="fl-heading"><span class="fl-heading-text" style="font-size: 20px;">&nbsp;</span></h2>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-5a0058c278e83" data-node="5a0058c278e83">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p><span style="font-size: 20px;">&bull; was wirklich effektiv ist, um erfolgreich deinen Roman zu schreiben (und was du getrost weglassen kannst)</span><br /><span style="font-size: 20px;">&bull; worauf Erfolgsautoren wie Stephen King oder Juli Zeh schw&ouml;ren</span><br /><span style="font-size: 20px;">&bull; wie du deine Produktivit&auml;t beim Schreiben ab sofort um ein Vielfaches steigerst.</span></p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<p style="text-align: center;"><span style="font-size: 16px; color: #808080;"><strong>(Du wirst damit Teil meiner exklusiven E-Mail-Liste und erh&auml;ltst gratis ein E-Book. Abmeldung jederzeit m&ouml;glich.)</strong></span></p></div></div><div class="bld-el-cont bld-el-button bld-step-1-el-6 "><button class="bld-el   snp-close-link snp-cursor-pointer"  name="" data-loading="&lt;i class=&quot;fa fa-spinner fa-spin&quot;&gt;&lt;/i&gt;" data-redirect-rules='{"":""}' type="button">X <i style="margin-left: 15px;" class="fa fa-arrow-right"></i></button></div>
+            </form></div>        </div>
+                <div class="snp-bld-step-cont snp-bld-step-cont-2 snp-bld-center">
+            <div id="snp-bld-step-2" data-width="800" data-height="500"  class="snp-bld-step snp-bld-step-2   " data-animation="fadeInUp" data-animation-close="bounceOutUp"><form action="#" method="post" class=" snp-subscribeform snp_subscribeform"><input type="hidden" name="np_custom_name1" value="" /><input type="hidden" name="np_custom_name2" value="" />                <div class="bld-el-cont bld-el-img bld-step-2-el-0  animated fadeIn" data-animation="fadeIn"><img class="bld-el   snp-close-link snp-cursor-pointer"  data-redirect-rules='{"":""}' src="https://schreiben-und-leben.de/wp-content/uploads/ninja-popups/close_10a.png" alt="" /></div><div class="bld-el-cont bld-el-text bld-step-2-el-1  animated fadeIn" data-animation="fadeIn"><div class="bld-el  " ><p style="text-align: center;"><span style="font-size: 18px; color: #ffffff;">CLOSE</span></p></div></div><div class="bld-el-cont bld-el-box bld-step-2-el-2 "><div   class="bld-el  "></div></div><div class="bld-el-cont bld-el-text bld-step-2-el-3  animated fadeInDown" data-animation="fadeInDown"><div class="bld-el  " ><p style="text-align: center;"><span style="font-size: 36px; color: #339966;">Nur noch </span><span style="font-size: 36px; color: #339966;">ein Klick ... </span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 62px; color: #339966;">Schau jetzt in deinen Posteingang!</span></p>
+<p style="text-align: center;"><em><span style="font-size: 28px; color: #808080;">(Falls dort keine Email ist,</span></em></p>
+<p style="text-align: center;"><em><span style="font-size: 28px; color: #808080;"> &uuml;berpr&uuml;fe bitte deinen Spam-Ordner ...)</span></em></p></div></div><div class="bld-el-cont bld-el-button bld-step-2-el-4 "><button class="bld-el  "  name="">Button Text</button></div>
+            </form></div>        </div>
+        </div>
+<div class="snp-overlay" id="snp-pop-3443-overlay" data-close="yes"></div><script>
+    var snp_bld_open3443=function(){_snp_bld_open(3443);};
+    var snp_bld_close3443=function(){_snp_bld_close(3443);};
+</script>
+<style>
+.snp-pop-3443 .snp-bld-step-cont-1 {}.snp-pop-3443 .snp-bld-step-1 {width: 800px;height: 530px;background-color: #f4eded;background-position: center center;background-repeat: repeat;}.snp-pop-3443 .bld-step-1-el-0 {   border: 1px solid transparent;width: 342.167px;height: 462.167px;top: 67.91666124707035px;left: -2.083354011718768px;z-index: 100;-webkit-animation-delay: 800ms;animation-delay: 800ms;}.snp-pop-3443 .bld-step-1-el-0 .bld-el,.snp-pop-3443 .bld-step-1-el-0 .bld-el p,.snp-pop-3443 .bld-step-1-el-0 .bld-el:focus,.snp-pop-3443 .bld-step-1-el-0 .bld-el:active,.snp-pop-3443 .bld-step-1-el-0 .bld-el:hover{outline: 0;border-width: 0px;background-color: #ffffff !important;background-image: url(' https://schreiben-und-leben.de/wp-content/uploads/2015/10/Roman-gebacken-bekommen-klein2.jpg');background-position: center center;background-repeat: no-repeat;}.snp-pop-3443 .bld-step-1-el-1 {   border: 1px solid transparent;width: 800px;height: 26px;top: -14px;left: 1px;z-index: 100;-webkit-animation-delay: 1200ms;animation-delay: 1200ms;}.snp-pop-3443 .bld-step-1-el-1 .bld-el,.snp-pop-3443 .bld-step-1-el-1 .bld-el p,.snp-pop-3443 .bld-step-1-el-1 .bld-el:focus,.snp-pop-3443 .bld-step-1-el-1 .bld-el:active,.snp-pop-3443 .bld-step-1-el-1 .bld-el:hover{outline: 0;font-family: 'Marcellus SC';border-width: 0px;background-position: center center;background-repeat: repeat;}.snp-pop-3443 .bld-step-1-el-2 {   border: 1px solid transparent;width: 410px;height: 50px;top: 347.79998779296875px;left: 350.79998779296875px;z-index: 101;-webkit-animation-delay: 3000ms;animation-delay: 3000ms;}.snp-pop-3443 .bld-step-1-el-2 .bld-el,.snp-pop-3443 .bld-step-1-el-2 .bld-el p,.snp-pop-3443 .bld-step-1-el-2 .bld-el:focus,.snp-pop-3443 .bld-step-1-el-2 .bld-el:active,.snp-pop-3443 .bld-step-1-el-2 .bld-el:hover{outline: 0;height: 48px;color: #9e1e4c;font-family: 'Open Sans';font-size: 14px;font-weight: bold;border-style: solid;border-width: 2px;border-color: #9e1e4c;background-color: #f4eded !important;background-position: center center;background-repeat: repeat;padding-left: 15px;}.snp-pop-3443 .bld-step-1-el-2 .bld-el::-webkit-input-placeholder { color: #9e1e4c; }.snp-pop-3443 .bld-step-1-el-2 .bld-el::-moz-placeholder { color: #9e1e4c; }.snp-pop-3443 .bld-step-1-el-3 {   border: 1px solid transparent;width: 411px;height: 50px;top: 400.6000061035156px;left: 350.5999755859375px;z-index: 100;-webkit-animation-delay: 3200ms;animation-delay: 3200ms;}.snp-pop-3443 .bld-step-1-el-3 .bld-el,.snp-pop-3443 .bld-step-1-el-3 .bld-el p,.snp-pop-3443 .bld-step-1-el-3 .bld-el:focus,.snp-pop-3443 .bld-step-1-el-3 .bld-el:active,.snp-pop-3443 .bld-step-1-el-3 .bld-el:hover{outline: 0;height: 48px;color: #9e1e4c;font-family: 'Open Sans';font-size: 14px;font-weight: bold;border-style: solid;border-width: 2px;border-color: #9e1e4c;background-color: #f4eded !important;background-position: center center;background-repeat: repeat;padding-left: 15px;}.snp-pop-3443 .bld-step-1-el-3 .bld-el::-webkit-input-placeholder { color: #9e1e4c; }.snp-pop-3443 .bld-step-1-el-3 .bld-el::-moz-placeholder { color: #9e1e4c; }.snp-pop-3443 .bld-step-1-el-4 {   border: 1px solid transparent;width: 437px;height: 70px;top: 455px;left: 344px;z-index: 100;-webkit-animation-delay: 3400ms;animation-delay: 3400ms;}.snp-pop-3443 .bld-step-1-el-4 .bld-el,.snp-pop-3443 .bld-step-1-el-4 .bld-el p,.snp-pop-3443 .bld-step-1-el-4 .bld-el:focus,.snp-pop-3443 .bld-step-1-el-4 .bld-el:active,.snp-pop-3443 .bld-step-1-el-4 .bld-el:hover{outline: 0;color: #ffffff;font-family: 'Open Sans';font-size: 22px;font-weight: bold;border-style: none;border-width: 0px;background-color: #2fe00f !important;background-position: center center;background-repeat: repeat;padding-left: 10px;}.snp-pop-3443 .bld-step-1-el-5 {   border: 1px solid transparent;width: 448px;height: 72px;top: 46px;left: 341px;z-index: 110;-webkit-animation-delay: 2800ms;animation-delay: 2800ms;}.snp-pop-3443 .bld-step-1-el-5 .bld-el,.snp-pop-3443 .bld-step-1-el-5 .bld-el p,.snp-pop-3443 .bld-step-1-el-5 .bld-el:focus,.snp-pop-3443 .bld-step-1-el-5 .bld-el:active,.snp-pop-3443 .bld-step-1-el-5 .bld-el:hover{outline: 0;font-family: 'Marcellus SC';border-width: 0px;background-position: center center;background-repeat: repeat;}.snp-pop-3443 .bld-step-1-el-6 {   border: 1px solid transparent;width: 24px;height: 28px;top: -15px;left: -5px;z-index: 100;}.snp-pop-3443 .bld-step-1-el-6 .bld-el,.snp-pop-3443 .bld-step-1-el-6 .bld-el p,.snp-pop-3443 .bld-step-1-el-6 .bld-el:focus,.snp-pop-3443 .bld-step-1-el-6 .bld-el:active,.snp-pop-3443 .bld-step-1-el-6 .bld-el:hover{outline: 0;color: #ffffff;font-family: 'Open Sans';font-size: 17px;font-weight: bold;border-style: none;border-width: 0px;background-color: #197FD2 !important;background-position: center center;background-repeat: repeat;padding-left: 10px;}.snp-pop-3443 .snp-bld-step-cont-2 {}.snp-pop-3443 .snp-bld-step-2 {width: 800px;height: 500px;background-image: url('https://schreiben-und-leben.de/wp-content/uploads/2018/01/Gründe-fürs-Romanschreiben.jpg');background-position: center center;background-repeat: repeat;}.snp-pop-3443 .bld-step-2-el-0 {   border: 1px solid transparent;width: 144px;height: 39px;top: -38px;left: 657px;z-index: 100;-webkit-animation-delay: 2500ms;animation-delay: 2500ms;}.snp-pop-3443 .bld-step-2-el-0 .bld-el,.snp-pop-3443 .bld-step-2-el-0 .bld-el p,.snp-pop-3443 .bld-step-2-el-0 .bld-el:focus,.snp-pop-3443 .bld-step-2-el-0 .bld-el:active,.snp-pop-3443 .bld-step-2-el-0 .bld-el:hover{outline: 0;}.snp-pop-3443 .bld-step-2-el-1 {   border: 1px solid transparent;width: 96px;height: 30px;top: -34px;left: 670px;z-index: 105;-webkit-animation-delay: 2500ms;animation-delay: 2500ms;}.snp-pop-3443 .bld-step-2-el-1 .bld-el,.snp-pop-3443 .bld-step-2-el-1 .bld-el p,.snp-pop-3443 .bld-step-2-el-1 .bld-el:focus,.snp-pop-3443 .bld-step-2-el-1 .bld-el:active,.snp-pop-3443 .bld-step-2-el-1 .bld-el:hover{outline: 0;font-family: 'Open Sans';border-width: 0px;background-position: center center;background-repeat: repeat;letter-spacing:3px;}.snp-pop-3443 .bld-step-2-el-2 {   border: 1px solid transparent;width: 802px;height: 502px;top: -1px;left: -1px;z-index: 101;}.snp-pop-3443 .bld-step-2-el-2 .bld-el,.snp-pop-3443 .bld-step-2-el-2 .bld-el p,.snp-pop-3443 .bld-step-2-el-2 .bld-el:focus,.snp-pop-3443 .bld-step-2-el-2 .bld-el:active,.snp-pop-3443 .bld-step-2-el-2 .bld-el:hover{outline: 0;border-width: 0px;background-color: #ffffff !important;background-position: center center;background-repeat: repeat;opacity: 0.7;}.snp-pop-3443 .bld-step-2-el-3 {   border: 1px solid transparent;width: 965.167px;height: 106.167px;top: 47.000004752929726px;left: -44.79999829882814px;z-index: 105;-webkit-animation-delay: 1200ms;animation-delay: 1200ms;}.snp-pop-3443 .bld-step-2-el-3 .bld-el,.snp-pop-3443 .bld-step-2-el-3 .bld-el p,.snp-pop-3443 .bld-step-2-el-3 .bld-el:focus,.snp-pop-3443 .bld-step-2-el-3 .bld-el:active,.snp-pop-3443 .bld-step-2-el-3 .bld-el:hover{outline: 0;font-family: 'Montserrat Alternates';border-width: 0px;background-position: center center;background-repeat: repeat;}.snp-pop-3443 .bld-step-2-el-4 {   border: 1px solid transparent;width: 50px;height: px;top: px;left: px;}.snp-pop-3443 .bld-step-2-el-4 .bld-el,.snp-pop-3443 .bld-step-2-el-4 .bld-el p,.snp-pop-3443 .bld-step-2-el-4 .bld-el:focus,.snp-pop-3443 .bld-step-2-el-4 .bld-el:active,.snp-pop-3443 .bld-step-2-el-4 .bld-el:hover{outline: 0;font-family: 'Open Sans';font-size: 14px;border-width: 0px;background-position: center center;background-repeat: repeat;}#snp-pop-3443-overlay {opacity: 0.5;background-color: #ff1168;}    
+</style><script>
+snp_f['snppopup-welcome-open']=snp_bld_open3443;
+snp_f['snppopup-welcome-close']=snp_bld_close3443;
+</script>
+</div>            </div>
+    <link rel='stylesheet' id='font-Marcellus+SC-css'  href='//fonts.googleapis.com/css?family=Marcellus+SC&#038;ver=5.8.12' type='text/css' media='all' />
+<link rel='stylesheet' id='font-Open+Sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans&#038;ver=5.8.12' type='text/css' media='all' />
+<link rel='stylesheet' id='font-Montserrat+Alternates-css'  href='//fonts.googleapis.com/css?family=Montserrat+Alternates&#038;ver=5.8.12' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=2.2.1.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.12.1' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Schlie\u00dfen","currentText":"Heute","monthNames":["Januar","Februar","M\u00e4rz","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"monthNamesShort":["Jan.","Feb.","M\u00e4rz","Apr.","Mai","Juni","Juli","Aug.","Sep.","Okt.","Nov.","Dez."],"nextText":"Weiter","prevText":"Zur\u00fcck","dayNames":["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"],"dayNamesShort":["So.","Mo.","Di.","Mi.","Do.","Fr.","Sa."],"dayNamesMin":["S","M","D","M","D","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/plugins/arscode-ninja-popups/assets/js/cookie.js?ver=5.8.12' id='js-cookie-js'></script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/plugins/arscode-ninja-popups/assets/js/tooltipster.bundle.min.js?ver=5.8.12' id='jquery-np-tooltipster-js'></script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/plugins/arscode-ninja-popups/assets/js/jquery.material.form.min.js?ver=5.8.12' id='material-design-js-js'></script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/plugins/arscode-ninja-popups/assets/vendor/intl-tel-input/js/intlTelInput-jquery.min.js?ver=5.8.12' id='jquery-intl-phone-input-js-js'></script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/plugins/arscode-ninja-popups/assets/js/dialog_trigger.js?ver=5.8.12' id='js-dialog_trigger-js'></script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/plugins/arscode-ninja-popups/assets/js/ninjapopups.min.js?ver=5.8.12' id='js-ninjapopups-js'></script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/schreiben-und-leben.de\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6' id='contact-form-7-js'></script>
+<script type='text/javascript' id='ez-toc-scroll-scriptjs-js-extra'>
+/* <![CDATA[ */
+var eztoc_smooth_local = {"scroll_offset":"30","add_request_uri":"","add_self_reference_link":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/plugins/easy-table-of-contents/assets/js/smooth_scroll.min.js?ver=2.0.78' id='ez-toc-scroll-scriptjs-js'></script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/js.cookie.min.js?ver=2.2.1' id='ez-toc-js-cookie-js'></script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/plugins/easy-table-of-contents/vendor/sticky-kit/jquery.sticky-kit.min.js?ver=1.9.2' id='ez-toc-jquery-sticky-kit-js'></script>
+<script type='text/javascript' id='ez-toc-js-js-extra'>
+/* <![CDATA[ */
+var ezTOC = {"smooth_scroll":"1","visibility_hide_by_default":"","scroll_offset":"30","fallbackIcon":"<span class=\"\"><span class=\"eztoc-hide\" style=\"display:none;\">Toggle<\/span><span class=\"ez-toc-icon-toggle-span\"><svg style=\"fill: #999;color:#999\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" class=\"list-377408\" width=\"20px\" height=\"20px\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\" fill=\"currentColor\"><\/path><\/svg><svg style=\"fill: #999;color:#999\" class=\"arrow-unsorted-368013\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"10px\" height=\"10px\" viewBox=\"0 0 24 24\" version=\"1.2\" baseProfile=\"tiny\"><path d=\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\"\/><\/svg><\/span><\/span>","chamomile_theme_is_on":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/plugins/easy-table-of-contents/assets/js/front.min.js?ver=2.0.78-1764487378' id='ez-toc-js-js'></script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-includes/js/comment-reply.min.js?ver=5.8.12' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/themes/bloggo-3/js/script-min.js?ver=5.8.12' id='bloggo-script-js'></script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/themes/bloggo-3/js/jquery.sharrre-min.js?ver=5.8.12' id='bloggo-sharrre-js'></script>
+<!--[if IE]>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/themes/bloggo-3/js/flexibility.js?ver=5.8.12' id='bloggo-flexibility-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/plugins/crazy-lazy/js/jquery.unveil.min.js?ver=1.0.4' id='unveil.js-js'></script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-includes/js/wp-embed.min.js?ver=5.8.12' id='wp-embed-js'></script>
+<script type='text/javascript' id='borlabs-cookie-js-extra'>
+/* <![CDATA[ */
+var borlabsCookieConfig = {"ajaxURL":"https:\/\/schreiben-und-leben.de\/wp-admin\/admin-ajax.php","language":"de","animation":"1","animationDelay":"","animationIn":"_brlbs-fadeInDown","animationOut":"_brlbs-flipOutX","blockContent":"1","boxLayout":"box","boxLayoutAdvanced":"1","automaticCookieDomainAndPath":"","cookieDomain":"schreiben-und-leben.de","cookiePath":"\/","cookieSameSite":"Lax","cookieSecure":"1","cookieLifetime":"365","cookieLifetimeEssentialOnly":"182","crossDomainCookie":[],"cookieBeforeConsent":"","cookiesForBots":"1","cookieVersion":"1","hideCookieBoxOnPages":[],"respectDoNotTrack":"","reloadAfterConsent":"","reloadAfterOptOut":"1","showCookieBox":"1","cookieBoxIntegration":"javascript","ignorePreSelectStatus":"1","cookies":{"essential":["borlabs-cookie","vg-wort"],"marketing":["getresponse"],"external-media":["facebook","googlemaps","instagram","openstreetmap","twitter","vimeo","youtube"]}};
+var borlabsCookieCookies = {"essential":{"borlabs-cookie":{"cookieNameList":{"borlabs-cookie":"borlabs-cookie"},"settings":{"blockCookiesBeforeConsent":"0"}},"vg-wort":{"cookieNameList":{"srp":"srp"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0","asyncOptOutCode":"0"}}},"marketing":{"getresponse":{"cookieNameList":{"getresponse.com":"getresponse.com","app.getresponse.com":"app.getresponse.com"},"settings":{"blockCookiesBeforeConsent":"1"}}},"external-media":{"facebook":{"cookieNameList":[],"settings":{"blockCookiesBeforeConsent":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoImZhY2Vib29rIik7IH08L3NjcmlwdD4=","optOutJS":""},"googlemaps":{"cookieNameList":{"NID":"NID"},"settings":{"blockCookiesBeforeConsent":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoImdvb2dsZW1hcHMiKTsgfTwvc2NyaXB0Pg==","optOutJS":""},"instagram":{"cookieNameList":{"pigeon_state":"pigeon_state"},"settings":{"blockCookiesBeforeConsent":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoImluc3RhZ3JhbSIpOyB9PC9zY3JpcHQ+","optOutJS":""},"openstreetmap":{"cookieNameList":{"_osm_location":"_osm_location","_osm_session":"_osm_session","_osm_totp_token":"_osm_totp_token","_osm_welcome":"_osm_welcome","_pk_id.":"_pk_id.","_pk_ref.":"_pk_ref.","_pk_ses.":"_pk_ses.","qos_token":"qos_token"},"settings":{"blockCookiesBeforeConsent":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoIm9wZW5zdHJlZXRtYXAiKTsgfTwvc2NyaXB0Pg==","optOutJS":""},"twitter":{"cookieNameList":{"__widgetsettings":"__widgetsettings","local_storage_support_test":"local_storage_support_test"},"settings":{"blockCookiesBeforeConsent":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoInR3aXR0ZXIiKTsgfTwvc2NyaXB0Pg==","optOutJS":""},"vimeo":{"cookieNameList":{"vuid":"vuid"},"settings":{"blockCookiesBeforeConsent":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoInZpbWVvIik7IH08L3NjcmlwdD4=","optOutJS":""},"youtube":{"cookieNameList":{"NID":"NID"},"settings":{"blockCookiesBeforeConsent":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoInlvdXR1YmUiKTsgfTwvc2NyaXB0Pg==","optOutJS":""}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://schreiben-und-leben.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.3.5' id='borlabs-cookie-js'></script>
+<script type='text/javascript' id='borlabs-cookie-js-after'>
+document.addEventListener("DOMContentLoaded", function (e) {
+var borlabsCookieContentBlocker = {"getresponse": {"id": "getresponse","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"unblockAll":"0","executeGlobalCodeBeforeUnblocking":"0"}},"facebook": {"id": "facebook","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) { if(typeof FB === "object") { FB.XFBML.parse(el.parentElement); } },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"default": {"id": "default","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"googlemaps": {"id": "googlemaps","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"instagram": {"id": "instagram","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) { if (typeof instgrm === "object") { instgrm.Embeds.process(); } },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"openstreetmap": {"id": "openstreetmap","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"twitter": {"id": "twitter","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"vimeo": {"id": "vimeo","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false,"saveThumbnails":false,"videoWrapper":false}},"youtube": {"id": "youtube","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false,"changeURLToNoCookie":true,"saveThumbnails":false,"thumbnailQuality":"maxresdefault","videoWrapper":false}}};
+    var BorlabsCookieInitCheck = function () {
+
+    if (typeof window.BorlabsCookie === "object" && typeof window.jQuery === "function") {
+
+        if (typeof borlabsCookiePrioritized !== "object") {
+            borlabsCookiePrioritized = { optInJS: {} };
+        }
+
+        window.BorlabsCookie.init(borlabsCookieConfig, borlabsCookieCookies, borlabsCookieContentBlocker, borlabsCookiePrioritized.optInJS);
+    } else {
+        window.setTimeout(BorlabsCookieInitCheck, 50);
+    }
+};
+
+BorlabsCookieInitCheck();});
+</script>
+<img src="https://vg07.met.vgwort.de/na/eb4725d75c154108b65e3dc15b471aaf" width="1" height="1" alt="" class="wpvgw-marker-image" loading="eager" data-no-lazy="1" referrerpolicy="no-referrer-when-downgrade" style="display:none;" />
+</body>
+</html>

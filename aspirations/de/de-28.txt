@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html translate="no">
+<head>
+<!-- Google tag (gtag.js) --><!-- Google Analytics 4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QGHHZZFXXG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QGHHZZFXXG');
+</script>
+<title>dict.cc | Fantasie | &Uuml;bersetzung Deutsch-Englisch</title>
+<meta name="description" content="&Uuml;bersetzungen f&uuml;r den Begriff 'Fantasie' im Englisch-Deutsch-W&ouml;rterbuch">
+<meta name="google" value="notranslate">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2, user-scalable=yes">
+<link href="/imgm/favicon-android-192.png" rel="icon" sizes="192x192" />
+<link href="/imgm/favicon-ios-180.png" rel="apple-touch-icon" sizes="180x180" />
+<link type="application/opensearchdescription+xml" rel="search" href="/opensearch_responsive.xml" />
+<meta name="mobile-web-app-capable" content="yes">
+
+<!-- ads header start -->
+<script type="text/javascript">
+function get_active_ad_type() {
+    if (window.innerWidth>1070) return "halfpage_multi"; //halfpage
+    if (window.innerWidth>728) return "top_listing"; //leaderboard
+    return "in-content_detail"; //rectangle
+}
+var ad_type = get_active_ad_type();
+window.onresize = function() {
+	if (!document.getElementById("adslot_top")) return;
+	if (ad_type=="halfpage_multi") {
+		getel("adslot_top").style.display = "none";
+		getel("adslot_rect").style.display = "none";
+	}
+	if (ad_type=="top_listing") {
+		getel("adslot_top").style.display = (window.innerWidth<=728) ? "none" : "block";
+		getel("adslot_left").style.display = "none";
+		getel("adslot_rect").style.display = "none";
+		if (window.innerWidth<=728) for (var i=0; i<3; i++) document.getElementsByClassName("content-column")[i].style.marginLeft = "0";
+		else for (var i=0; i<3; i++) document.getElementsByClassName("content-column")[i].style.marginLeft = "calc((100% - 728px) / 2 )";
+	}
+	if (ad_type=="in-content_detail") {
+		getel("adslot_top").style.display = "none";
+		getel("adslot_left").style.display = "none";
+		if (window.innerWidth<=728) for (var i=0; i<3; i++) document.getElementsByClassName("content-column")[i].style.marginLeft = "0";
+		else for (var i=0; i<3; i++) document.getElementsByClassName("content-column")[i].style.marginLeft = "calc((100% - 728px) / 2 )";
+	}
+}	
+if (ad_type=="halfpage_multi") {
+	if (window.innerHeight>791) document.addEventListener('scroll', function() {
+		if (!document.getElementById("adslot_left")) return;
+		if (window.scrollY>160) {
+			document.getElementById("adslot_left").style.position = "fixed";
+			document.getElementById("adslot_left").style.top = "20px";
+		}
+		else document.getElementById("adslot_left").style.position = "static";
+	}, { passive: true });
+}
+window.snigelPubConf = {"adengine": {"activeAdUnits": [ad_type] }};
+//d console.log(window.snigelPubConf.adengine.activeAdUnits);
+</script>
+<script data-cfasync="false" async src="https://cdn.snigelweb.com/adengine/dict.cc/loader.js" type="text/javascript"></script>
+<style type="text/css">#snigel-cmp-framework .sn-b-def, #snigel-cmp-framework .sn-footer-tab .sn-privacy a { font-size: 13px; white-space:nowrap; padding:5px 0; }</style>
+<!-- ads header end -->
+<style type="text/css">
+
+/*============================ STANDARD TAGS ============================*/
+
+html 				{ -webkit-text-size-adjust:100%; -webkit-tap-highlight-color:transparent; }
+button:focus, textarea:focus, input:focus 
+					{ outline:none; }
+body 				{ font-family:arial, helvetica, -apple-system, sans-serif; font-size:14px; margin:0; background-color:#fff; }
+hr   				{ background-color:#ddd; height:1px; border:0; margin:19px 0 0 0; }
+table				{ border-spacing:1px; }
+dt   				{ font-weight:bold; margin:30px 10px 0 55px; text-indent: -40px; }
+dd   				{ margin:1px 10px 1px 55px; line-height:21px; }
+kbd 	 			{ color:#039; font-size:96%; font-family:serif,arial,helvetica; }
+var  				{ color:#36c; font-size:96%; font-style:normal; } 
+abbr 				{ color:#039; font-size:96%; border-bottom:0; text-decoration:auto; }
+
+/*k
+dt kbd, dt var, dt abbr { color:#000; font-size:100%; }
+dd kbd, dd var, dd abbr { color:#999; font-size:100%; }
+dd dfn { background-color:#ccc; font-size:80%; }
+.dm dd dfn { border:none; }
+.dm dt kbd, .dm dt var, .dm dt abbr { color:#fff; }
+*/
+dd dfn { background-color:#ccc; font-size:80%; }
+
+
+dfn  		
+					{ color:#fff; font-size:90%; background-color:#aaa; font-style:normal; padding:0 4px 0 4px; margin:0 0 0 4px; border-radius:2px; cursor:pointer; display:inline-block; line-height:115%; user-select: none; }
+a    				{ color:#000; text-decoration:none; }
+a.hover1, .bgmaincontent a.hover1			{ text-decoration:none; }
+a.hover1:hover		{ text-decoration:underline; }
+a.white				{ color:white; }
+a.underline			{ text-decoration:underline; }
+
+.button1, .button2	{ display:inline-block; border-radius:5px; color:#fff; padding:6px 10px; margin:2px; cursor:pointer; text-align:center; }
+.button1			{ background-color:#999; }
+.button2			{ background-color:transparent; border:1px solid #fff; }
+.button2:hover		{ background-color:rgba(255,255,255,0.4); }
+
+/*============================ FLOATING VIEWS ============================*/
+
+#sugview, #langlistview 		
+					{ display:none; background-color:#fff; color:#000; max-height:439px; overflow-y:scroll; box-shadow: 0 6px 10px 2px rgba(0, 0, 0, 0.4); z-index:10; position:absolute; width:500px; margin:3px 0px; border-radius:4px; }
+#langlistview		{ top:42px; max-height:605px; }
+.sugviewspacer		{ height:32px; }
+.sugviewentry, .sugviewentryactive 
+					{ height:43px; line-height:43px; border-bottom:0.5px solid #fff; overflow:hidden; white-space:nowrap; }
+.nobobo				{ border-bottom:0 }
+.sugviewentryactive a, .sugviewentry a
+					{ padding-left:65px; display:block; }
+.sugviewentry a:focus, .sugviewentry a:hover, .sugviewentry a:active, .sugviewentryactive a, .sugviewtab:hover, .sugviewbutright:hover, .sugviewbut:hover,
+.sugviewbutactive	{ background-color:#eee; }
+.sugviewtabbar 		{ padding-top:5px; border-bottom:1px solid #ccc; }
+.sugviewtab 		{ cursor:pointer; padding:10px; display:inline-block; border:1px solid white; border-bottom-color:#ccc; position:relative; top:1px; }
+.sugviewtabactive 	{ cursor:pointer; padding:10px; display:inline-block; border:1px solid #ccc; border-bottom-color:white; position:relative;top:1px; }
+.sugviewbut 		{ display:inline-block; cursor:pointer; margin:6px; padding:6px; line-height:18px; border-radius:4px; border:0.5px solid #ccc; }
+.sugviewbutright 	{ position:absolute; right:6px; top:5px; border:0.5px solid #ccc; border-radius:4px; padding:6px; cursor:pointer; }
+#menuview 			{ display:none; }
+
+.cm-backdrop		{z-index:100; background-color:rgba(0,0,0,0.1); position:fixed; top:0; left:0; width:100%; height:100%;}
+.cm-box		{ background-color:#fff; border:5px solid #fff; border-radius:5px; box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.3); overflow:auto; position:absolute; }
+.cm-entry a			{ display:block; padding:8px; cursor:pointer; font-size:15px; }
+.cm-entry a:hover	{ background-color:#ddd; }
+.cm-box hr			{ margin:5px 0; }
+
+/*============================ PAGE/HEADER ============================*/
+
+#page-wrapper		{ min-height:100vh; background-color:white; }
+#header1-wrapper	{ width:100%; background-color:#ff9f09; color:#ffffff; font-size:16px; -webkit-user-select: none;} /*#ff9900*/
+#h1-logo-and-search { display:table; padding:10px 0 5px; }
+#h1-logo			
+					{ display:table-cell; vertical-align:bottom; font-size:45px; font-family:verdana; font-weight:bold; font-style:italic; width:210px; position:relative; left:10px; bottom:-5px; }
+#h1-logo a			{ color:#fff; }
+#h1-logo-mobile		{ display:none; }
+#h1-searchtools		{ display:table-cell; width:500px; }
+#h1-mobile-header-top
+					{ display:none; }
+#h1-clearbutton 	{ float:right; margin-top:-1px; margin-right:5px; padding:0 10px; color:#666; font-size:30px; cursor:pointer; }
+#h1-kbbutton 		{ float:right; margin-top:7px; margin-right:1px; color:#666; cursor:pointer; }
+#h1-magnisubmit 	{ position:absolute; top:50px; display:inline-block; height:25px; width:20px; cursor:pointer; }
+#h1-searchform		{ padding:0; background-color:white; border-radius:5px; }
+#h1-langmenubut		
+					{ display:inline-block; cursor:pointer; border-radius:5px; border:1px solid white; padding:5px 27px 5px 5px; background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAQAQMAAAA26i3WAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAEBJREFUCB0FwbENQFAUAMATBR2lQmINhbCY+GwmsYhOq1SI506t1GvNRp8k+Uzbqzse1XUr4pTHLouVwIIBDfgBPkoQlrQONM4AAAAASUVORK5CYII=') no-repeat; background-position: right 7px center; background-size: 12px 8px; }
+#h1-langdirbut		{ display:inline-block; cursor:pointer; border-radius:5px; font-size:20px; padding:1px 13px; margin:0 0 0 3px; vertical-align:bottom; }
+
+.sc-letter			
+					{ display:inline-block; padding:4px 9px; margin:0 3px 3px 0; border-radius:3px; background-color:#fff; color:#000; cursor:default; font-size:16px;}
+.sc-letter:hover	{ background-color:#ffe2b3; }
+#searchfield 		
+					{ font-size:16px; background-color:transparent; padding:7px; padding-left:30px; margin:0; border:0; width:70%; background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANVQTFRFAAAAjY6Tjo6Tjo6Ujo+UkJCVkJGWkZGWkpKWkpKXkpKYkpOYk5SZmpugm5yhnJygnZ2hnp6inp6jnp+kn6CkoKCkoKCloqKmoqKnoqKooqOno6OntLS3tbW4tra6t7e6uLi7v7/Cv8DDwsPFw8PFxsfKx8fJx8fKx8fLycnLy8zOzs7Qzs/R0NDS0NDT0NHT0dHT2Nja2dnb2trb2trc29vc29vd29ze3N3f3d3e3d3f4ODh4ODi4uLj4uLl7Ozt7e3u7u7v+vr6/Pz8/f39/v7+////RjH9xAAAAAF0Uk5TAEDm2GYAAAEjSURBVEjH7dVJU4NAEIbh9NcqxJXgglsSVwZFNEYlbgiyzP//SV6shLlYHaq8zXvmqaGYnqHXs9lsovQfSWD9PPKcdW84rZeDMx8MZgJ20mXgJfFxnJdlHgfAhRxesZM0vw9P+jiXwldyssX7fbn0IoP1AEn7W05oqxbBJw4aYxeO8CiCI4rN7bvHqQhuU2HCAp4IOihNWMEVwT4qE5bYFEGPv02YY08Eh3gwYcxjEZzixHBNgFQ2APt824YJ+41s5DJ2PhYuW8O7dMhvsHo3X88hhOJjFa7gMCmqsogDZgIi8UH+PAAYIMB/C0GsxFeHnp3tbriDcdpoHRKgxLCdAkF1gToCoLpArQCoLlBfg6E6XcgKCLvd5FGo/+cXYLPZ5v0At6qyTHGsA1kAAAAASUVORK5CYII=') no-repeat left; background-size: 28px 28px; }
+
+#header2-wrapper 	{ width:100%; background-color:#ffe2b3; color:#000000; font-size:16px; box-shadow:0 6px 10px rgb(0 0 0 / 20%); }
+#subnav 			{ white-space:nowrap; padding-left:4px; line-height:18px; }
+#mainnav			{ margin-top:-3px; }
+#mainnav a, #subnav a	{ display:inline-block; padding:8px 10px; cursor:pointer; }
+#subnav a			{ padding:8px 6px; }
+#mainnav a			{ color:white }
+#h1-langmenubut:hover, #h1-langdirbut:hover, #mainnav a:hover, #subnav a:hover	{ background-color:rgba(255,255,255,0.4); }
+
+/*============================ MAIN CONTENT ============================*/
+
+#maincontent-wrapper{ width:100%; background-color:#fff; padding-bottom:36px; }
+#maincontent 		{ position:relative;}
+.bgmaincontent a	{ text-decoration:underline; }
+.bgmaincontent		{ margin-top:36px; background-color:#eee; }
+.nobgmaincontent	{ margin-top:36px; }
+.content-column		{ margin-left:calc((100% - 728px) / 2 ); width:728px; }
+#content_left		{ position:absolute; left:-320px; top:0px; }
+#content_right		{ position:absolute; left:748px; top:0; min-width:150px; }
+#content_right .hl	{ color:darkorange; font-weight:bold; text-transform:uppercase; margin:15px 0 3px; }
+#content_right a	{ color:#666; } 
+#content_right a:hover	{ text-decoration:underline; }
+.hidden-on-desktop		{ display:none; }
+
+#infl-wrapper, .msg	{ background-color:#d3d3d3; padding:2px 8px; border-top:1px solid #fff; border-bottom:1px solid #bbb; }
+.msg				{ padding:4px 10px; }
+#infltable			{ cursor:pointer; }
+.infl-padding-left	{ padding-left:361px; }
+.infl-padding-right	{ padding-right:361px; }
+.gendatakk			{ font-style:italic; font-size:9px; color:#039; }
+.bluebar			{ color:white; background-color:#37d; padding:4px 10px; }
+.bluebar a			{ color:white; }
+.bluebar_right		{ float:right; }
+#choose_image a		{ color:darkorange; border:1px solid darkorange; border-radius:4px; padding:3px 8px; text-align:center; cursor:pointer;}
+
+#nosearchres		{ padding:20px 20px 20px; background-color:#ddd; }
+#searchres_compact, #searchres_compact_footer, #searchres_compact_footer_cprt	{ display:none; }
+#searchres_footer_block, #searchres_example_block, #searchres_otherdir_block
+					{ padding:15px; margin-top:22px; background-color:#CFE7FE; border:1px solid #37d; color:black; overflow:auto; }
+#moreexampleslink	
+					{ position:absolute; bottom:0px; width:100%; left:0px; padding:12px; margin:0; cursor:pointer; background-color:#CFE7FE; box-shadow: 0px -8px 4px 0px #CFE7FE; text-decoration:underline; } /*font-size:16px; font-weight:bold;*/
+#searchres_footer_block .hl, #searchres_example_block .hl, #searchres_otherdir_block .hl
+					{ font-size:16px;font-weight:bold;margin-bottom:10px; }
+#srfb_similar_terms	{ float:right; width:157px; margin-left:27px; }
+#srfb_otherlangs	{ float:right; width:160px; margin-left:30px; min-height:420px }
+
+/*------------ search results table ------------*/
+
+#searchres_table	{ border-spacing:1px; position:relative; left:-1px; }
+#searchres_table tr, .historytable tr, #searchres_table tr.nohover:hover { background-color:#eaeaea; }
+#searchres_table tr:hover	{ background-color:#ffc; }
+#searchres_table tr.clicked	{ background-color:#fc9; }
+
+.srhl				{ background-color:#fff; color:darkorange; font-weight:bold; font-size:90%; border-top:2px solid darkorange; border-bottom:2px solid darkorange; padding:12px 0 0 4px;  }
+.srtd1, .srtd4		{ width:28px; text-align:center; }
+.srtd2, .srtd3		{ width:319px; max-width:319px; padding:3px 6px; text-overflow: ellipsis; white-space: nowrap; overflow: hidden; }
+.srtd2				{ width:320px; max-width:320px; }
+.srtd1, .srtd2, .srtd3, .srtd4	{ border-bottom:1px solid #d6d6d6; }
+.freq				{ float:right; color:#999; user-select:none;}
+.aftertable			{ margin:4px; font-size:11px; color:#999; font-style:italic; }
+.aftertable a, a.aftertable	{ color:#999; }
+
+/*------------ audio buttons ------------*/
+
+.audiobut 			
+					{ background-color:#666; padding:1px 9px; margin-right:10px; border-radius:8px; cursor:pointer; width:11px; height:19px; display:inline-block; vertical-align:top; background-repeat:no-repeat; background-size: 11px 12px; background-position: 9px 5px; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAYCAYAAAD+vg1LAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAcZJREFUeNqslU8og2Ecxx8zf1pmZTLJnBxEyrhxoJSUJGknB5cdceUiNeWkSOLi4oJo9R6clFKKKbmIYohCirLFdpD1+j58Z6+32bvt9a1P3/f3e9v3fd5nvb9HqKoqTJAPNsEV8GjvCZPBBSCkfusU2LMN7gdDusAqXneDOMMnsgmuA69gW9NbA2HgZT3P4BdQnUlwBbjgjxRNf4e9Z+AEDvDA3oxRcBHYV5PSBjfwLaT87PlZyweUpgveUH9L0d2fZv+Rf1oNiLHXZxVClIFmkCeS6gVekV5LYAS4QA9YB2egBXTJJ8+qmUlJ8VZbvLfCeoH1oQXpDpG7dulN9CO6WwbHTQSf0yuB3NYb1iUWYU5hug3YQYy11WxwQir5kdlgJz0K3rhqqQ8L9yZXNdLvZBioZR2RwU8mgjvox/QW+q1c7RQIcFsS+zQIhg1C60EbrxV6Kz2Y7pMOGHwgy+xfg0JOwXf2OtMFF4PgH8HtmpBR9uZYy9PEZjQ2XeAyRfABeyEuwA0i7I1nOujliIzqBv0kOOHKZb2qmXTl2RxNA7qjSWKl+zTb5fuvw1SG3zN0j6f21z2ryS9PDrBF4AFj2oH2KcAAA7oUDJYozdAAAAAASUVORK5CYII=');}
+.audiobut2, #searchres_table .audiobut
+					{ background-color:transparent; margin:0 2px; padding:0px 6px; border-radius:6px; cursor:pointer; width:11px; height:18px; display:inline-block; vertical-align:middle; background-repeat:no-repeat; background-size: 11px 12px; background-position: 5px 3px; background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAYCAYAAAD+vg1LAAAACXBIWXMAAAsTAAALEwEAmpwYAAABvElEQVRIiaXV208TURDA4a83ikoAJSim4i3RYDRGjMb//9kHE6IPxgdiFeMFKCpU0NL6cOaEzUa2yE7SzJ45O7+ZMztz2lJfnmINuzjKxmZNaAPzuIh1tPJG6zSPkqxgET8KwC5GOEAPMxhLmZ8JfAkv0MFW2NbxEEN8CehiZL+F0bRSzOB5JHBcsHfRxqMI+Faqbwd3qK5xE88i47K8jkAzARqhH3s9tKvAT3D5lL19bMbzzThRP4J1sdSO9BdKjtdwvSIovI9su/H+pwi4gOU27sUL/yuH2MFVLAd4EOCFpvQRzis7oedDfw99oYlJDfB+6Fmpt4exbtWdvFEGSScfx7pRF5xlonTyuuBO6OP45UmeNGvC80c7lDLOwzRqKlx155Cl0Lkb8jz8auMdPpccerg9BTrnZDKzf14P2lJt9kpOe1ILrVSA70plHGJbKsNc7H2tqu+rfwTMcgU34nlTqu8tJ708qAKP8dJJ0xdlLSAH0uUzi9XY62M8rSN+B7zYSvANP7ERCTyQBuQowBpTwFlWwvFjwdaQSrCKx2HbwAfOfgGVu0ZAG7gf690M5ex/plXSwh+8CQ3+AuvHXJnbrqlDAAAAAElFTkSuQmCC');}
+#searchres_table .audiobut
+					{ background-color:#cccccc; border:2px outset #cccccc; border-top:2px solid #cccccc; border-left:2px solid #cccccc; border-radius:2px; height:16px; width:9px; background-position: 4px 2px;  }
+#searchres_table .audioplaying	{ background-color:#ff9c00; border:2px inset #ff9c00; background-position: 6px 3px; }
+.audioplaying 		{ background-color:#ff9c00; }
+.audio_na, #searchres_table .audio_na	{ background-color:#ccc; }
+#audio_menu			{ font-size:15px; }
+.audiomenubutton	
+					{ background-color:#ccc; border:2px outset #ccc; border-top:2px solid #ccc; border-left:2px solid #ccc; border-radius:2px; color:#000; padding:2px 4px; margin:1px 6px 1px 0; text-align:center; display:inline-block; cursor:pointer; font-size:12px; height:16px; width:60px; }
+.audiomenubutton:hover { background-color:#e3e3e3; border:2px outset #e3e3e3; border-top:2px solid #e3e3e3; border-left:2px solid #e3e3e3; }
+.audiomenubutton:active { background-color:#ff9c00; border:2px inset #ff9c00; padding:3px 3px 1px 5px;  }
+
+/*------------ quiz game ------------*/
+
+#game_message 		{ padding:12px 5px; text-align:center; background-color:#999; color:white; transition:background-color 0.1s; }
+#game_question		{ padding:15px 0px; width:100%; text-align:center; font-size:25px; font-weight:bold; cursor:pointer; }
+#quiz_game button
+					{ width:90%; background-color:#007bff; border-width:0; color:white; text-align:center; border-radius:8px; padding:12px; margin:2px; font-size:1rem; cursor:pointer; }
+
+/*------------ ads ------------*/
+#adslot_top			{ display:none; width:728px; height:90px; margin-bottom:28px; position:relative; top:-13px; }
+#adslot_left		{ display:block; width:300px; height:600px; position:relative; top:-11px; }
+#adslot_rect		{ display:none; width:300px; height:275px; margin:35px 0 80px 18px; }
+/* 80vw */
+/*============================ DARK MODE ============================*/
+
+.dm kbd, .dm abbr, .dm var, .dm .gendatakk	{ color:#888; }
+.dm dfn 			{ color:#222; background-color:#666; }
+.dm, .dm a			{ color:#ccc; }
+.dm #subnav a		{ color:#000; }
+.dm #h1-langmenubut, .dm #mainnav, .dm #h1-logo, .dm #h1-langdirbut, .dm #subnav { filter:contrast(60%); }
+.dm hr 				{ background-color:#333; }
+
+.dm #sugview, .dm #langlistview, .dm #menuview	{ background-color:#333; color:#fff; }
+.dm .sugviewentry, .dm .sugviewentryactive 		{ border-color:#333; } 
+.dm .sugviewbut, .dm .sugviewbutright			{ border-color:#666; }
+.dm .sugviewentry a:focus, .dm .sugviewentry a:hover, .dm .sugviewentry a:active, .dm .sugviewentryactive a, .dm .sugviewtab:hover, .dm .sugviewbut:hover, .dm .sugviewbutactive, .dm .sugviewbutright:hover 	{ background-color:#666; }
+.dm .sugviewtabbar 	{ border-bottom:1px solid #666; }
+.dm .sugviewtab 	{ border:1px solid #333; border-bottom-color:#666; }
+.dm .sugviewtabactive	{ border:1px solid #666; border-bottom-color:#333; }
+
+.dm .cm-box			{ background-color:#666; border:5px solid #666;  }
+.dm .cm-box hr		{ background-color:#ddd; }
+.dm .cm-entry a:hover	{ background-color:#999; }
+
+#page-wrapper.dm, .dm #maincontent-wrapper	{ background-color:#111; }
+.dm #header1-wrapper						{ background-color:#666; }
+.dm #header2-wrapper						{ background-color:#999; }
+.dm .sc-letter:hover						{ background-color:#ccc; }
+
+.dm .bgmaincontent	{ background-color:#222; }
+.dm #content_right .hl	{ color:#666; }
+.dm #choose_image a	{ color:#666; border:1px solid #666; }
+
+.dm .bluebar, .dm .bluebar a	{ background-color:#222; color:#666; }
+.dm #infl-wrapper, .dm .msg	{ border-top:1px solid #111; border-bottom:none; background-color:#222; }
+.dm #infl-wrapper, .dm #infl-wrapper a, .dm .msg, .dm .msg a	{color:#666; }
+
+.dm #searchres_table	{ background-color:#222; }
+.dm #searchres_table tr, .dm .historytable tr, .dm #searchres_table tr.nohover:hover { background-color:#333; }
+.dm #searchres_table a	{ color:#ccc; }
+.dm #searchres_table tr:hover	{ background-color:#444; }
+.dm #searchres_table tr.clicked	{ background-color:#555; }
+
+.dm .srhl			{ background-color:#222; border-color:#222; color:#555; }
+.dm .srtd1, .dm .srtd2, .dm .srtd3, .dm .srtd4	{ border-bottom:1px solid #333; }
+.dm .audiobut2 		{ filter: invert(1) grayscale(1) }
+.dm  #searchres_table .audiobut	{ background-color:#888; border:2px solid #888; }
+.dm #searchres_table .audioplaying	{ background-color:#ddd; border:2px solid #ccc; background-position: 4px 2px; }
+.dm .audiomenubutton{ background-color:#ccc; border:2px solid #ccc; }
+.dm .freq			{ color:#666; }
+
+.dm #nosearchres	{ background-color:#333; }
+.dm .button1		{ background-color:#666; color:#ccc;  }
+.dm #searchres_footer_block, .dm #searchres_example_block, .dm #searchres_otherdir_block		
+					{ color:#666; background-color:#333; border:1px solid #555; } /* border:1px solid #333;border-bottom-color:#000;*/
+.dm #searchres_otherdir_block a
+					{ color:#666; }					
+.dm #searchres_footer_block	a	{ color:#666; }
+.dm .aftertable, .dm .aftertable a, .dm a.aftertable	{ color:#444; }
+.dm #moreexampleslink	{ background-color:#333; box-shadow: 0px -8px 4px 0px #333; }
+
+/*============================ SMALLER SCREENS / MOBILE ============================*/
+@media screen and (max-height: 790px) {
+	#adslot_left			{ position:fixed; top:9px; bxxox-shadow:0 10px 10px rgb(0 0 0 / 20%);  }
+	#langlistview			{ max-height:473px; }
+}
+@media screen and (max-width: 1400px) {
+	.content-column			{ margin-left:338px; }
+}
+@media screen and (max-width: 1200px) {
+	#content_right			{ display:none; }
+}
+@media screen and (max-width: 1070px) {
+	#adslot_top				{ display:block; }
+	#adslot_left			{ display:none; }
+	#adslot_rect			{ display:none; }
+	
+	#content_left			{ display:none; }
+	.content-column			{ margin-left:calc((100% - 728px) / 2 ); }
+}
+
+@media screen and (max-width: 728px) {
+	.hidden-on-mobile		{ display:none; }
+	.hidden-on-desktop		{ display:inline-block; }
+	#adslot_top				{ display:none; }
+	#adslot_left			{ display:none; }
+	#adslot_rect			{ display:block; }
+
+	#h1-logo, #h1-magnisubmit, #h1-choose-lang, #mainnav, #header2-wrapper, #content_left, #content_right, #searchres_table, #searchres_footer_block, .aftertable, .bluebar	{ display:none; }
+	body, .button1 			{ font-size:16px; }	
+	#h1-mobile-header-top 	{ display:table; width:100%; }
+	#h1-mobile-menuicon 	{ display:table-cell; cursor:pointer; width:38px; vertical-align:top; cursor:pointer; padding:6px; }
+	#h1-mobile-logo			{ display:table-cell; cursor:pointer; width:100px; font-size:22px; font-family:verdana; font-weight:bold; font-style:italic; }
+	#h1-mobile-choose-lang	{ display:table-cell; text-align:right; cursor:pointer; }
+	#h1-mobile-langmenubut	{ display:inline-block; padding:10px 0px; width:60px; }
+	#h1-mobile-langdirbut	{ display:inline-block; font-size:22px; padding:0 16px 6px 16px; vertical-align:bottom; }
+	#h1-specialchars		{ padding:2px 6px; }
+	#h1-searchform 			{ width:calc(100vw - 10px); min-width:270px; margin-left:5px; }
+	#searchfield			{ width:calc(100% - 135px); }
+
+	#sugview, #langlistview	{ border-radius:0; box-shadow:none; width:100%; margin:5px 0; max-height:none; min-height:100%; }
+	.sugviewentry a:hover, .dm .sugviewentry a:hover	
+							{ background-color:transparent; }
+	#langlistview 			{ top:85px; }
+	#menuview 		
+							{ display:block; background-color:#fff; position:absolute; margin-top:5px; left:-110%; width:100%; min-height:100%; z-index:11; transition:0.25s;}
+	.menuvisible		 	{ -webkit-transform: translate(110%, 0px); transform: translate(110%, 0px); }
+	.micb1, .micb2, .micb3	{ width:18px; height:3px; background-color:#fff; margin:3px 5px; transition:0.15s;}
+	.xshape .micb1 			{ -webkit-transform: rotate(-45deg) translate(-4px, 5px); transform: rotate(-45deg) translate(-4px, 5px); }
+	.xshape .micb2 			{ opacity:0; }
+	.xshape .micb3			{ -webkit-transform: rotate(45deg) translate(-3px, -5px); transform: rotate(45deg) translate(-3px, -5px); }
+	.cm-entry a				{ font-size:16px; }
+	.audiomenubutton		{ padding:2px 4px; border-top:2px solid #ccc; border-left:2px solid #ccc; border-radius:6px; margin:1px 6px 1px 0; font-size:15px; height:22px; width:70px; }
+	
+	.content-column			{ margin:0; margin-left:0; width:100%; min-width:280px; }
+	.bgmaincontent			{ margin-top:0; background-color:#fff; }
+	.nobgmaincontent		{ margin-top:0; }
+	.dm .bgmaincontent		{ background-color:#111; }
+	.sc-letter 				{ background-color:#ffe2b3;}
+	.dm .sc-letter 			{ background-color:#ccc; }
+	#infl-wrapper			{ padding:5px 8px; border:none; }
+	.infl-padding-left		{ padding-left:0; }
+	.infl-padding-right		{ padding-right:0; }
+	#searchres_compact		{ display:block; }
+	#searchres_compact_footer	{ display:flex; text-align:left; padding:6px 4px 0px; margin-top:30px; border-top: 1px solid #666; }
+	#searchres_compact_footer div	{ display:inline-block; text-align:center; border-radius:6px; padding:8px 10px; margin:0 2px; cursor:pointer; }
+	#searchres_compact_footer .but1	{ border:1px solid #666; color:#fff; background-color:#666; }
+	#searchres_compact_footer .but2	{ border:1px solid #666; color:#666; }
+	#searchres_compact_footer_cprt	{ display:block; font-size:11px; color:#666; font-style:italic; margin:4px 15px 50px; }
+	#searchres_compact_footer_cprt a	{ color:#666; }
+	#nosearchres			{ padding:13px 20px 20px; background-color:transparent; }
+	#searchres_example_block, #searchres_otherdir_block	{ margin-top:36px; margin-bottom:-31px; background-color:#ddd; border:none; border-radius:0; }
+	.dm #searchres_example_block, .dm #searchres_otherdir_block	{ border:none; }
+	#moreexampleslink		{ background-color:#ddd; box-shadow: 0px -8px 4px 0px #ddd; }
+}
+/*============================ PRINT ============================*/
+@media print {
+	.hide_print, #searchres_footer_block, .audiobut, #searchres_table .audiobut, #content_left, #content_right, #h1-choose-lang, #h1-kbbutton, #mainnav, #subnav, .freq, .bluebar_right, #stf_more { display:none; }
+	#header1-wrapper {background-color:transparent; }
+	#h1-logo a { color: #666; font-size: 48px; }
+	#h1-searchform { border: 1px solid #666; margin-top:20px; }
+	#searchfield { margin:1px; }
+	#h1-clearbutton { margin-top:21px; }
+	.bluebar { padding:3px 8px; }
+	.bluebar, .bluebar a { color:black; background-color:#ccc; }
+	#infl-wrapper { border-bottom:1px solid #ccc; border-top:none; padding-bottom:4px; }
+	.infl-padding-left, .infl-padding-right { padding:1px; }
+	table { border-spacing:0; }
+	kbd, var, abbr, .gendatakk { color:#000; font-size:100%; }
+	.srtd4 { width:61px; }
+	.srtd1 { width:1px; }
+	.srhl { padding-left:9px; }
+	
+	.dm #header1-wrapper { background-color:transparent; }
+	.dm #infl-wrapper { border-bottom:1px solid #333; border-top:none; }
+	.dm #h1-logo a { color:white; }
+	.dm .srtd1, .dm .srtd2, .dm .srtd3, .dm .srtd4	{ border-bottom:1px solid #222; }
+}
+/*============================ CONTRIB STUFF ============================*/
+.hl1, h1 			{ color: darkorange; font-size: 16px; font-weight: bold; margin: 25px 0px 3px 0px; }
+.dm .hl1, .dm h1	{ color:#666; }
+
+.hl3, h3 			{ color: #36c; font-size: 14px; font-weight: bold; margin: 13px 0px 0px 0px; }
+.dm h3 				{ color: darkorange; }
+
+.inp1 				{ border-width: 1px; background-color: darkorange; color: white; }
+.inp2				{ border-width:1px; background-color:#ddd; padding:2px; }
+.inp3 				{ background-color:#ccc; border-width:1px; width: 42px; font-size:10px; }
+.inp4				{ border-width:1px; background-color:#ccc; width:85px; font-size:10px; }
+
+.dm .inp3			{ background-color:#666; border:1px solid #333; bordsder-radius:3px; }
+
+.td1, .td1nl		{ color:white; background-color:#37d; padding:4px 10px; }
+.dm .td1, .dm .td1 a, .dm .td1nl, .dm .td1nl a	{ background-color:#222; color:#666; }
+.td2, .td2nl		{ color:white; padding: 2px 7px; background-color:#666;}
+.td2 a, .td2nl a, .td1 a, .td1nl a	{ color:white; }
+.td2 a	{ text-decoration:underline; }
+
+.td3, .td3nl, .td3cml, .td3cmr { background-color:#ddd; padding: 2px 6px; word-wrap:break-word; overflow:hidden; max-width:320px; color:black; }
+.td4, .td4nl, .td4cml, .td4cmr { background-color:#eee; padding: 2px 6px; word-wrap:break-word; overflow:hidden; max-width:320px; color:black; }
+.td3 a, .td3nl a, .td3cml a, .td3cmr a { color:black; }
+.td4 a, .td4nl a, .td4cml a, .td4cmr a { color:black; }
+
+.dm .td3, .dm .td3nl, .dm .td3cml, .dm .td3cmr { background-color:#333333; color:#ccc; }
+.dm .td4, .dm .td4nl, .dm .td4cml, .dm .td4cmr { background-color:#333333; color:#ccc; }
+.dm .td3 a, .dm .td3nl a, .dm .td3cml a, .dm .td3cmr a { color:#ccc; }
+.dm .td4 a, .dm .td4nl a, .dm .td4cml a, .dm .td4cmr a { color:#ccc; }
+.dm .td3nl a b, .dm .td4nl a b { color:#eee; }
+
+</style><script type="text/javascript">
+var ui_lang="de";
+var relink1="/deutsch-englisch/{kw}.html";
+var relink2="/englisch-deutsch/{kw}.html";
+var lpp1="DE"; 
+var lpp2="EN";
+var lpp1_lc="de"; 
+var lpp2_lc="en"; 
+var langid1=2;
+var langid2=1;
+var lp_id=1;
+var kw="Fantasie";
+var found_sth=1;
+var searchdir=1;
+var debug_mode="";
+var is_responsive = true;
+var nres_total=43;
+var my_vocab_lists = [];
+my_vocab_lists['xtemplist']='Meine tempor&auml;re Vokabelliste';
+</script><script async type="text/javascript" src="https://m.dict.cc/main.js?version=37"></script></head>
+<body  onload="body_onload()">
+
+<div id="page-wrapper"  onclick="dcc_onmouseclick()">
+
+<div id="header1-wrapper">
+	<div id="header1" class="content-column">
+		<div id="h1-logo-and-search">
+			<div id="h1-logo"><a href="https://m.dict.cc/deen/">dict.cc</a></div>
+			<div id="h1-searchtools">
+				<div id="h1-mobile-header-top">
+					<div id="h1-mobile-menuicon" onclick="menuiconclick()"><div class="micb1"></div><div class="micb2"></div><div class="micb3"></div></div>
+					<div id="h1-mobile-logo" onclick="location.href='https://m.dict.cc/deen/'">dict.cc</div>
+					<div id="h1-mobile-choose-lang">
+						<div id="h1-mobile-langmenubut" onclick="show_langlist()">DE/EN</div><div id="h1-mobile-langdirbut" onclick="langdirbuttonclick()">&rlarr;</div>
+					</div>
+				</div>
+				<div id="h1-choose-lang" style="padding-bottom:3px">
+					<div id="h1-langmenubut" onclick="show_langlist()">Übersetzung <span id="h1-langdirtext">Deutsch / Englisch</span></div><div id="h1-langdirbut" onclick="langdirbuttonclick()">&rlarr;</div>
+				</div>
+				<div id="h1-specialchars" style="display:none"></div>
+				<div id="h1-clearbutton" onclick="clearbuttonclick()">&times;</div>
+				<div id="h1-kbbutton" onclick="show_specialchars()">äöüß...</div>
+				<form id="h1-searchform" action="https://m.dict.cc/deen/" onsubmit=""><input type="text" name="s" id="searchfield" autocomplete="off" value="Fantasie" placeholder="DE/EN"></form><div id="h1-magnisubmit" onclick="getel('h1-searchform').submit()"></div>
+				<div id="sugview"></div><div id="langlistview"></div>
+				<div id="menuview">
+					<div class="sugviewspacer"></div>
+					<div class="sugviewentry"><a class="ic ic-clock" href="javascript:;" onclick="show_recent_searches()">Zuletzt gesucht</a></div>
+					<div class="sugviewentry"><a class="ic ic-shuffle" id="link_shuffle1" href="/shuffle/">Shuffle</a></div><div class="sugviewentry"><a class="ic ic-gamepad" id="link_quiz1" href="#quiz">Quiz Game</a></div>
+					<div class="sugviewentry"><a class="ic ic-trainer" href="https://m.dict.cc/deen/trainer/">Vokabeltrainer</a></div>
+					<div class="sugviewentry nobobo"><a class="ic ic-user" href="https://secure.dict.cc/users/urc_logn.php?app_lang=de&next=goto%3Ahttps%3A%2F%2Fm.dict.cc%2Fdeutsch-englisch%2FFantasie.html">Login</a></div>
+					<div class="sugviewspacer"></div>
+					<div class="sugviewentry bgfff"><a class="flag flag-EN" href="/deen/?s=Fantasie">Englisch - Deutsch<b>&nbsp; ✔ </b></a></div>
+					<div class="sugviewentry nobobo"><a href="javascript:;" onclick="show_langlist()">Weitere Sprachen ...</a></div>
+					<div class="sugviewspacer"></div>
+					<div class="sugviewentry"><a class="ic ic-darkmode" href="javascript:;" onclick="dark_mode()">Dark Mode</a></div>
+					<div class="sugviewentry"><a class="ic ic-desktop" href="javascript:go_desktop('https://www.dict.cc/deutsch-englisch/Fantasie.html')">Zur Vollversion (Desktop-PC)</a></div>
+					<div class="sugviewentry nobobo"><a class="ic ic-info" id="link_legal1" href="#legal">Impressum</a></div>
+					<div class="sugviewspacer nobobo"></div>
+				</div>
+			</div>
+		</div>
+		<div id="mainnav">
+			<a href="javascript:go_desktop('https://www.dict.cc/deutsch-englisch/Fantasie.html')">Alte Version</a><a href="javascript:dark_mode()">Dark Mode</a><a href="javascript:show_recent_searches()">Zuletzt gesucht</a><a id="link_shuffle2" href="/shuffle/">Shuffle</a><a id="link_quiz2" href="#quiz">Quiz</a><a href="https://m.dict.cc/deen/trainer/">Trainer</a><a href="https://secure.dict.cc/users/urc_logn.php?app_lang=de&next=goto%3Ahttps%3A%2F%2Fm.dict.cc%2Fdeutsch-englisch%2FFantasie.html">Login</a>
+		</div>
+	</div>
+</div>
+<div id="header2-wrapper">
+	<div id="header2" class="content-column">
+		<div id="subnav"><a href="/englisch-deutsch/browse/A-1.html"> A </a><a href="/englisch-deutsch/browse/B-1.html"> B </a><a href="/englisch-deutsch/browse/C-1.html"> C </a><a href="/englisch-deutsch/browse/D-1.html"> D </a><a href="/englisch-deutsch/browse/E-1.html"> E </a><a href="/englisch-deutsch/browse/F-1.html"> F </a><a href="/englisch-deutsch/browse/G-1.html"> G </a><a href="/englisch-deutsch/browse/H-1.html"> H </a><a href="/englisch-deutsch/browse/I-1.html"> I </a><a href="/englisch-deutsch/browse/J-1.html"> J </a><a href="/englisch-deutsch/browse/K-1.html"> K </a><a href="/englisch-deutsch/browse/L-1.html"> L </a><a href="/englisch-deutsch/browse/M-1.html"> M </a><a href="/englisch-deutsch/browse/N-1.html"> N </a><a href="/englisch-deutsch/browse/O-1.html"> O </a><a href="/englisch-deutsch/browse/P-1.html"> P </a><a href="/englisch-deutsch/browse/Q-1.html"> Q </a><a href="/englisch-deutsch/browse/R-1.html"> R </a><a href="/englisch-deutsch/browse/S-1.html"> S </a><a href="/englisch-deutsch/browse/T-1.html"> T </a><a href="/englisch-deutsch/browse/U-1.html"> U </a><a href="/englisch-deutsch/browse/V-1.html"> V </a><a href="/englisch-deutsch/browse/W-1.html"> W </a><a href="/englisch-deutsch/browse/X-1.html"> X </a><a href="/englisch-deutsch/browse/Y-1.html"> Y </a><a href="/englisch-deutsch/browse/Z-1.html"> Z </a></div>
+	</div>
+</div>
+<div id="maincontent-wrapper">
+	<div id="maincontent" class="content-column"><div class="nobgmaincontent"><div id="adslot_top"><div style="font-size:10px;color:#808080;text-align:center;">Werbung</div><div id="adngin-top_listing-0"></div></div><div class="bluebar"><div class="flag3 flag3-DE"></div>&nbsp;Übersetzung für '<a href="/deutsch-englisch/Fantasie.html" class="hover1">Fantasie</a>' von Deutsch nach Englisch</div>
+<!-- infl -->
+<div id="infl-wrapper"><div class="infl-padding-left"><div id="infltable" onclick="inflclick(' die&amp;nbsp;Fantasie 	Fantasie	;	 die&amp;nbsp;Fantasien 	Fantasien	;	')" style=""><table class="nopad" width="100%" cellpadding="0" cellspacing="0"><tr title="article sg | article pl"><td valign="top"><b style="cursor:help">NOUN</b><!-- it112346 -->&nbsp;&nbsp;</td><td width="95%" > die&nbsp;Fantasie <span style="color:#666">|</span> die&nbsp;Fantasien </td><td valign="top" align="right"></td></tr><tr><td valign="top"><b>SYNO&nbsp;</b></td><td id="synotext">Einbildungskraft <span style="color:#666">|</span> Fantasie <span style="color:#666">|</span> Phantasie</td></tr></table><script type="text/javascript"> var syntext_full = "<a class=\"underline\" href=\"/deen/?s=Einbildungskraft\">Einbildungskraft</a> <span style=\"color:#666\">|</span> <a class=\"underline\" href=\"/deen/?s=Fantasie\">Fantasie</a> <span style=\"color:#666\">|</span> <a class=\"underline\" href=\"/deen/?s=Phantasie\">Phantasie</a>"; </script><div id="inflexpl" style="color:#666;display:none"><br><b>NOUN</b> &nbsp; article sg | article pl</div></div></div></div>
+<!-- /infl -->
+<table id="searchres_table"><tr id="srtr765750" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,765750,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/imagination.html">imagination</a></td><td class="srtd3" dir="ltr" data-term="Fantasie {f} [Vorstellungskraft]"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/Fantasie.html"><b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var> <kbd>[Vorstellungs&shy;kraft]</kbd></a> <div class="freq">259</div></td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,765750,'DE',event)"></a></td></tr><tr id="srtr765855" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,765855,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="fantasy"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/fantasy.html">fantasy</a></td><td class="srtd3" dir="ltr" data-term="Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/Fantasie.html"><b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> <div class="freq">162</div></td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,765855,'DE',event)"></a></td></tr><tr id="srtr970118" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,970118,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="fancy [imagination]"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/fancy.html">fancy <kbd>[imagination]</kbd></a></td><td class="srtd3" dir="ltr" data-term="Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/Fantasie.html"><b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> <div class="freq">70</div></td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,970118,'DE',event)"></a></td></tr><tr id="srtr656032" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,656032,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="fantasia"><div style="float:right;"><dfn onclick="display_subject('mus.', this.title)" title="Music / Musik">mus.</dfn></div> <a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/fantasia.html">fantasia</a></td><td class="srtd3" dir="ltr" data-term="Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/Fantasie.html"><b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> <div class="freq">34</div></td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,656032,'DE',event)"></a></td></tr><tr><td colspan="4" class="srhl">2 Wörter: Andere</td></tr><tr id="srtr276876" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,276876,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="unimaginative"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/unimaginative.html">unimaginative&nbsp;<var><span title="adjective">{adj}</span></var></a></td><td class="srtd3" dir="ltr" data-term="ohne Fantasie [nachgestellt]"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/ohne+Fantasie.html">ohne <b>Fantasie</b> <kbd>[nachgestellt]</kbd></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,276876,'DE',event)"></a></td></tr><tr><td colspan="4" class="srhl">2 Wörter: Verben</td></tr><tr id="srtr1408914" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408914,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="to stimulate imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/to+stimulate+imagination.html"><span title="for verbs">to </span>stimulate imagination</a></td><td class="srtd3" dir="ltr" data-term="Fantasie anregen"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/Fantasie+anregen.html"><b>Fantasie</b> anregen</a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408914,'DE',event)"></a></td></tr><tr id="srtr1225582" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1225582,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="to tickle sb.&#039;s fancy"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/to+tickle+sb+%27s+fancy.html"><span title="for verbs">to </span>tickle <abbr title="somebody">sb.</abbr>'s fancy</a></td><td class="srtd3" dir="ltr" data-term="jds. Fantasie anregen [reizen]"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/jds+Fantasie+anregen.html"><abbr title="jemandes">jds.</abbr> <b>Fantasie</b> anregen <kbd>[reizen]</kbd></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1225582,'DE',event)"></a></td></tr><tr><td colspan="4" class="srhl">2 Wörter: Substantive</td></tr><tr id="srtr162354" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,162354,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="excited fantasy"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/excited+fantasy.html">excited fantasy</a></td><td class="srtd3" dir="ltr" data-term="angeregte Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/angeregte+Fantasie.html">angeregte <b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,162354,'DE',event)"></a></td></tr><tr id="srtr1494753" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1494753,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="fancifulness"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/fancifulness.html">fancifulness</a></td><td class="srtd3" dir="ltr" data-term="blühende Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/bl%C3%BChende+Fantasie.html">blühende <b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1494753,'DE',event)"></a></td></tr><tr id="srtr1408917" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408917,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="wild imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/wild+imagination.html">wild imagination</a></td><td class="srtd3" dir="ltr" data-term="blühende Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/bl%C3%BChende+Fantasie.html">blühende <b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408917,'DE',event)"></a></td></tr><tr id="srtr1408912" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408912,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="vivid imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/vivid+imagination.html">vivid imagination</a></td><td class="srtd3" dir="ltr" data-term="blühende Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/bl%C3%BChende+Fantasie.html">blühende <b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408912,'DE',event)"></a></td></tr><tr id="srtr183876" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,183876,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="wanton imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/wanton+imagination.html">wanton imagination</a></td><td class="srtd3" dir="ltr" data-term="blühende Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/bl%C3%BChende+Fantasie.html">blühende <b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,183876,'DE',event)"></a></td></tr><tr id="srtr256150" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,256150,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="perverse fancy"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/perverse+fancy.html">perverse fancy</a></td><td class="srtd3" dir="ltr" data-term="krankhafte Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/krankhafte+Fantasie.html">krankhafte <b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,256150,'DE',event)"></a></td></tr><tr id="srtr256792" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,256792,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="powerful imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/powerful+imagination.html">powerful imagination</a></td><td class="srtd3" dir="ltr" data-term="kräftige Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/kr%C3%A4ftige+Fantasie.html">kräftige <b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,256792,'DE',event)"></a></td></tr><tr id="srtr259881" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,259881,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="vivid fantasy"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/vivid+fantasy.html">vivid fantasy</a></td><td class="srtd3" dir="ltr" data-term="lebhafte Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/lebhafte+Fantasie.html">lebhafte <b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,259881,'DE',event)"></a></td></tr><tr id="srtr259880" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,259880,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="vivacious imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/vivacious+imagination.html">vivacious imagination</a></td><td class="srtd3" dir="ltr" data-term="lebhafte Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/lebhafte+Fantasie.html">lebhafte <b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,259880,'DE',event)"></a></td></tr><tr id="srtr1013772" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1013772,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="active imagination"><div style="float:right;"><dfn onclick="display_subject('psych.', this.title)" title="Psychology / Psychologie">psych.</dfn></div> <a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/active+imagination.html">active imagination</a></td><td class="srtd3" dir="ltr" data-term="lebhafte Fantasie {f} [Vorstellungskraft]"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/lebhafte+Fantasie.html">lebhafte <b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var> <kbd>[Vorstellungs&shy;kraft]</kbd></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1013772,'DE',event)"></a></td></tr><tr id="srtr283820" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,283820,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="fertile imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/fertile+imagination.html">fertile imagination</a></td><td class="srtd3" dir="ltr" data-term="rege Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/rege+Fantasie.html">rege <b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,283820,'DE',event)"></a></td></tr><tr id="srtr1434391" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1434391,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="dirty mind"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/dirty+mind.html">dirty mind</a></td><td class="srtd3" dir="ltr" data-term="schmutzige Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/schmutzige+Fantasie.html">schmutzige <b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1434391,'DE',event)"></a></td></tr><tr id="srtr369140" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,369140,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="sexual fantasy"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/sexual+fantasy.html">sexual fantasy</a></td><td class="srtd3" dir="ltr" data-term="sexuelle Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/sexuelle+Fantasie.html">sexuelle <b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,369140,'DE',event)"></a></td></tr><tr id="srtr1408927" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408927,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="wild imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/wild+imagination.html">wild imagination</a></td><td class="srtd3" dir="ltr" data-term="wilde Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/wilde+Fantasie.html">wilde <b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408927,'DE',event)"></a></td></tr><tr id="srtr953527" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,953527,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="overactive imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/overactive+imagination.html">overactive imagination</a></td><td class="srtd3" dir="ltr" data-term="wilde Fantasie {f}"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/wilde+Fantasie.html">wilde <b>Fantasie</b>&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,953527,'DE',event)"></a></td></tr><tr><td colspan="4" class="srhl">3 Wörter: Andere</td></tr><tr id="srtr63478" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,63478,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="without imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/without+imagination.html">without imagination&nbsp;<var><span title="adverb/adverbial">{adv}</span></var></a></td><td class="srtd3" dir="ltr" data-term="ohne Fantasie / Phantasie"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/ohne+Fantasie+Phantasie.html">ohne <b>Fantasie</b> / Phantasie</a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,63478,'DE',event)"></a></td></tr><tr><td colspan="4" class="srhl">3 Wörter: Verben</td></tr><tr id="srtr191787" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,191787,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="to preoccupy the imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/to+preoccupy+the+imagination.html"><span title="for verbs">to </span>preoccupy the imagination</a></td><td class="srtd3" dir="ltr" data-term="die Fantasie beherrschen"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/die+Fantasie+beherrschen.html">die <b>Fantasie</b> beherrschen</a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,191787,'DE',event)"></a></td></tr><tr id="srtr191788" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,191788,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="to quicken the imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/to+quicken+the+imagination.html"><span title="for verbs">to </span>quicken the imagination</a></td><td class="srtd3" dir="ltr" data-term="die Fantasie beleben"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/die+Fantasie+beleben.html">die <b>Fantasie</b> beleben</a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,191788,'DE',event)"></a></td></tr><tr id="srtr1408922" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408922,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="to play unimaginatively [without any imagination]"><div style="float:right;"><dfn onclick="display_subject('mus.', this.title)" title="Music / Musik">mus.</dfn><dfn onclick="display_subject('sports', this.title)" title="Sports / Sport">sports</dfn></div> <a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/to+play+unimaginatively.html"><span title="for verbs">to </span>play unimaginatively <kbd>[without any imagination]</kbd></a></td><td class="srtd3" dir="ltr" data-term="ohne Fantasie spielen"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/ohne+Fantasie+spielen.html">ohne <b>Fantasie</b> spielen</a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408922,'DE',event)"></a></td></tr><tr id="srtr1408921" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408921,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="to have plenty of imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/to+have+plenty+of+imagination.html"><span title="for verbs">to </span>have plenty of imagination</a></td><td class="srtd3" dir="ltr" data-term="viel Fantasie haben"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/viel+Fantasie+haben.html">viel <b>Fantasie</b> haben</a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408921,'DE',event)"></a></td></tr><tr id="srtr1408920" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408920,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="to have little imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/to+have+little+imagination.html"><span title="for verbs">to </span>have little imagination</a></td><td class="srtd3" dir="ltr" data-term="wenig Fantasie haben"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/wenig+Fantasie+haben.html">wenig <b>Fantasie</b> haben</a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408920,'DE',event)"></a></td></tr><tr><td colspan="4" class="srhl">3 Wörter: Substantive</td></tr><tr id="srtr765856" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,765856,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="product of one&#039;s imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/product+of+one%27s+imagination.html">product of one's imagination</a></td><td class="srtd3" dir="ltr" data-term="Produkt {n} seiner Fantasie"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/Produkt+seiner+Fantasie.html">Produkt&nbsp;<var><span title="das - sächlich (Neutrum)">{n}</span></var> seiner <b>Fantasie</b></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,765856,'DE',event)"></a></td></tr><tr><td colspan="4" class="srhl">4 Wörter: Verben</td></tr><tr id="srtr1408918" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408918,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="to have a sick mind [imagination]"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/to+have+a+sick+mind.html"><span title="for verbs">to </span>have a sick mind <kbd>[imagination]</kbd></a></td><td class="srtd3" dir="ltr" data-term="eine krankhafte Fantasie haben"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/eine+krankhafte+Fantasie+haben.html">eine krankhafte <b>Fantasie</b> haben</a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408918,'DE',event)"></a></td></tr><tr id="srtr959431" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,959431,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="to have a nasty mind"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/to+have+a+nasty+mind.html"><span title="for verbs">to </span>have a nasty mind</a></td><td class="srtd3" dir="ltr" data-term="eine schmutzige Fantasie haben"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/eine+schmutzige+Fantasie+haben.html">eine schmutzige <b>Fantasie</b> haben</a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,959431,'DE',event)"></a></td></tr><tr id="srtr1282507" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1282507,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="to have a filthy mind"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/to+have+a+filthy+mind.html"><span title="for verbs">to </span>have a filthy mind</a></td><td class="srtd3" dir="ltr" data-term="eine schmutzige Fantasie haben"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/eine+schmutzige+Fantasie+haben.html">eine schmutzige <b>Fantasie</b> haben</a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1282507,'DE',event)"></a></td></tr><tr id="srtr1408913" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408913,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="to have a dirty mind [coll.] [idiom]"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/to+have+a+dirty+mind.html"><span title="for verbs">to </span>have a dirty mind <kbd><span title="colloquial">[coll.]</span></kbd> <kbd><span title="idiom">[idiom]</span></kbd></a></td><td class="srtd3" dir="ltr" data-term="eine schmutzige Fantasie haben [ugs.] [Redewendung]"> <a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/eine+schmutzige+Fantasie+haben.html">eine schmutzige <b>Fantasie</b> haben <kbd><span title="umgangssprachlich">[ugs.]</span></kbd> <kbd><span title="Redewendung">[Redewendung]</span></kbd></a></td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408913,'DE',event)"></a></td></tr><tr id="srtr215872" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,215872,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="to vision"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/to+vision.html"><span title="for verbs">to </span>vision</a></td><td class="srtd3" dir="ltr" data-term="in der Fantasie erleben"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/in+der+Fantasie+erleben.html">in der <b>Fantasie</b> erleben</a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,215872,'DE',event)"></a></td></tr><tr id="srtr906107" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,906107,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="to use one&#039;s imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/to+use+one%27s+imagination.html"><span title="for verbs">to </span>use one's imagination</a></td><td class="srtd3" dir="ltr" data-term="seine Fantasie spielen lassen"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/seine+Fantasie+spielen+lassen.html">seine <b>Fantasie</b> spielen lassen</a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,906107,'DE',event)"></a></td></tr><tr><td colspan="4" class="srhl">4 Wörter: Substantive</td></tr><tr id="srtr693607" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,693607,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="figment of the imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/figment+of+the+imagination.html">figment of the imagination</a></td><td class="srtd3" dir="ltr" data-term="Ausgeburt {f} der Phantasie / Fantasie"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/Ausgeburt+der+Phantasie+Fantasie.html">Ausgeburt&nbsp;<var><span title="die - weiblich (Femininum)">{f}</span></var> der Phantasie / <b>Fantasie</b></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,693607,'DE',event)"></a></td></tr><tr id="srtr1455020" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1455020,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="realm of fantasy"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/realm+of+fantasy.html">realm of fantasy</a></td><td class="srtd3" dir="ltr" data-term="Reich {n} der Fantasie / Phantasie"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/Reich+der+Fantasie+Phantasie.html">Reich&nbsp;<var><span title="das - sächlich (Neutrum)">{n}</span></var> der <b>Fantasie</b> / Phantasie</a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1455020,'DE',event)"></a></td></tr><tr id="srtr301609" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,301609,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="scope for the imagination"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/scope+for+the+imagination.html">scope for the imagination</a></td><td class="srtd3" dir="ltr" data-term="Spielraum {m} für die Fantasie"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/Spielraum+f%C3%BCr+die+Fantasie.html">Spielraum&nbsp;<var><span title="der - männlich (Maskulinum)">{m}</span></var> für die <b>Fantasie</b></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,301609,'DE',event)"></a></td></tr><tr><td colspan="4" class="srhl">5+ Wörter: Andere</td></tr><tr id="srtr857522" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,857522,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="Let your imagination run free."><div style="float:right;"><dfn onclick="display_subject('idiom', this.title)" title="Idiom / Idiom, Redewendung">idiom</dfn></div> <a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/Let+your+imagination+run+free.html">Let your imagination run free.</a></td><td class="srtd3" dir="ltr" data-term="Lass deiner Fantasie freien Lauf."><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/Lass+deiner+Fantasie+freien+Lauf.html">Lass deiner <b>Fantasie</b> freien Lauf.</a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,857522,'DE',event)"></a></td></tr><tr id="srtr110453" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,110453,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="She gives her fancy full scope."><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/She+gives+her+fancy+full+scope.html">She gives her fancy full scope.</a></td><td class="srtd3" dir="ltr" data-term="Sie lässt ihrer Fantasie freien Lauf."><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/Sie+l%C3%A4sst+ihrer+Fantasie+freien+Lauf.html">Sie lässt ihrer <b>Fantasie</b> freien Lauf.</a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,110453,'DE',event)"></a></td></tr><tr><td colspan="4" class="srhl">5+ Wörter: Verben</td></tr><tr id="srtr697525" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,697525,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="to be in the realm / realms of fancy [Br.]"><div style="float:right;"><dfn onclick="display_subject('idiom', this.title)" title="Idiom / Idiom, Redewendung">idiom</dfn></div> <a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/to+be+in+the+realm+realms+of+fancy.html"><span title="for verbs">to </span>be in the realm / realms of fancy <kbd><span title="(esp.) British English">[Br.]</span></kbd></a></td><td class="srtd3" dir="ltr" data-term="ins Reich der Fantasie gehören"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/ins+Reich+der+Fantasie+geh%C3%B6ren.html">ins Reich der <b>Fantasie</b> gehören</a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,697525,'DE',event)"></a></td></tr><tr id="srtr1486094" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1486094,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="to let one&#039;s imagination run wild [idiom]"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/to+let+one%27s+imagination+run+wild.html"><span title="for verbs">to </span>let one's imagination run wild <kbd><span title="idiom">[idiom]</span></kbd></a></td><td class="srtd3" dir="ltr" data-term="seiner Fantasie freien Lauf lassen [Redewendung]"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/seiner+Fantasie+freien+Lauf+lassen.html">seiner <b>Fantasie</b> freien Lauf lassen <kbd><span title="Redewendung">[Redewendung]</span></kbd></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1486094,'DE',event)"></a></td></tr><tr id="srtr1408923" onclick="trbg(this)"><td class="srtd1" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408923,'EN',event)"></a></td><td class="srtd2" dir="ltr" data-term="to give free rein to one&#039;s imagination [idiom]"><a onclick="cm(this, event, 2);return false;" dir="ltr" href="/englisch-deutsch/to+give+free+rein+to+one%27s+imagination.html"><span title="for verbs">to </span>give free rein <span title="for verbs">to </span>one's imagination <kbd><span title="idiom">[idiom]</span></kbd></a></td><td class="srtd3" dir="ltr" data-term="seiner Fantasie freien Lauf lassen [Redewendung]"><a onclick="cm(this, event, 1);return false;" dir="ltr" href="/deutsch-englisch/seiner+Fantasie+freien+Lauf+lassen.html">seiner <b>Fantasie</b> freien Lauf lassen <kbd><span title="Redewendung">[Redewendung]</span></kbd></a> </td><td class="srtd4" style="user-select:none"><a class="audiobut" onclick="audiobutclick(this,1408923,'DE',event)"></a></td></tr></table><div class="bluebar"><div style="float:right" class="hide_print"><a href="%5BFantasie%5D.html" class="underline">Suche in Kommentaren</a> (7)</div>43 Übersetzungen</div><div id="aftertable1" class="aftertable hide_print">Neue W&ouml;rterbuch-Abfrage: Einfach jetzt tippen!<br><br></div><div id="searchres_compact"><h2 style="margin:6px 9px;"><div class="flag2 flag2-DE" style="margin-left:4px; width:40px; height:20px; display:inline-block"></div>Übersetzung für '<a href="/deutsch-englisch/Fantasie.html" class="hover1">Fantasie</a>' von Deutsch nach Englisch</h2><dl>
+<dt><a class="audiobut" id="aba765750" onclick="audiobutclick(this,765750,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="Fantasie {f} [Vorstellungskraft]" dir="ltr" href="/deutsch-englisch/Fantasie.html">Fantasie&nbsp;<var>{f}</var> <kbd>[Vorstellungs&shy;kraft]</kbd></a></dt>
+<dd><a id="srcb765750" onclick="cm(this, event, 2);return false;" data-term="imagination" dir="ltr" href="/englisch-deutsch/imagination.html">imagination</a><div class="audiobut2" id="abb765750" onclick="audiobutclick(this,765750,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba656032" onclick="audiobutclick(this,656032,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="Fantasie {f}" dir="ltr" href="/deutsch-englisch/Fantasie.html">Fantasie&nbsp;<var>{f}</var></a></dt>
+<dd><a id="srcb765855" onclick="cm(this, event, 2);return false;" data-term="fantasy" dir="ltr" href="/englisch-deutsch/fantasy.html">fantasy</a><div class="audiobut2" id="abb765855" onclick="audiobutclick(this,765855,'EN')"></div><br><a id="srcb970118" onclick="cm(this, event, 2);return false;" data-term="fancy [imagination]" dir="ltr" href="/englisch-deutsch/fancy.html">fancy <kbd>[imagination]</kbd></a><div class="audiobut2" id="abb970118" onclick="audiobutclick(this,970118,'EN')"></div><br><a id="srcb656032" onclick="cm(this, event, 2);return false;" data-term="fantasia" dir="ltr" href="/englisch-deutsch/fantasia.html">fantasia</a><dfn onclick="display_subject('mus.', this.title)" title="Music / Musik">mus.</dfn><div class="audiobut2" id="abb656032" onclick="audiobutclick(this,656032,'EN')"></div></dd>
+<hr>
+<dt style="font-weight:normal; margin:0; text-indent:0;"><div id="adslot_rect"><div style="font-size:10px;color:#808080;text-align:center;">Werbung</div><div id="adngin-in-content_detail-0"></div></div></dt>
+
+<dt><a class="audiobut" id="aba276876" onclick="audiobutclick(this,276876,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="ohne Fantasie [nachgestellt]" dir="ltr" href="/deutsch-englisch/ohne+Fantasie.html">ohne Fantasie <kbd>[nachgestellt]</kbd></a></dt>
+<dd><a id="srcb276876" onclick="cm(this, event, 2);return false;" data-term="unimaginative" dir="ltr" href="/englisch-deutsch/unimaginative.html">unimaginative&nbsp;<var>{adj}</var></a><div class="audiobut2" id="abb276876" onclick="audiobutclick(this,276876,'EN')"></div></dd>
+<hr>
+<dt><a class="audiobut" id="aba1408914" onclick="audiobutclick(this,1408914,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="Fantasie anregen" dir="ltr" href="/deutsch-englisch/Fantasie+anregen.html">Fantasie anregen</a></dt>
+<dd><a id="srcb1408914" onclick="cm(this, event, 2);return false;" data-term="to stimulate imagination" dir="ltr" href="/englisch-deutsch/to+stimulate+imagination.html">to stimulate imagination</a><div class="audiobut2" id="abb1408914" onclick="audiobutclick(this,1408914,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba1225582" onclick="audiobutclick(this,1225582,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="jds. Fantasie anregen [reizen]" dir="ltr" href="/deutsch-englisch/jds+Fantasie+anregen.html">jds. Fantasie anregen <kbd>[reizen]</kbd></a></dt>
+<dd><a id="srcb1225582" onclick="cm(this, event, 2);return false;" data-term="to tickle sb.&#039;s fancy" dir="ltr" href="/englisch-deutsch/to+tickle+sb+%27s+fancy.html">to tickle sb.'s fancy</a><div class="audiobut2" id="abb1225582" onclick="audiobutclick(this,1225582,'EN')"></div></dd>
+<hr>
+<dt><a class="audiobut" id="aba162354" onclick="audiobutclick(this,162354,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="angeregte Fantasie {f}" dir="ltr" href="/deutsch-englisch/angeregte+Fantasie.html">angeregte Fantasie&nbsp;<var>{f}</var></a></dt>
+<dd><a id="srcb162354" onclick="cm(this, event, 2);return false;" data-term="excited fantasy" dir="ltr" href="/englisch-deutsch/excited+fantasy.html">excited fantasy</a><div class="audiobut2" id="abb162354" onclick="audiobutclick(this,162354,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba183876" onclick="audiobutclick(this,183876,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="blühende Fantasie {f}" dir="ltr" href="/deutsch-englisch/bl%C3%BChende+Fantasie.html">blühende Fantasie&nbsp;<var>{f}</var></a></dt>
+<dd><a id="srcb1494753" onclick="cm(this, event, 2);return false;" data-term="fancifulness" dir="ltr" href="/englisch-deutsch/fancifulness.html">fancifulness</a><div class="audiobut2" id="abb1494753" onclick="audiobutclick(this,1494753,'EN')"></div><br><a id="srcb1408917" onclick="cm(this, event, 2);return false;" data-term="wild imagination" dir="ltr" href="/englisch-deutsch/wild+imagination.html">wild imagination</a><div class="audiobut2" id="abb1408917" onclick="audiobutclick(this,1408917,'EN')"></div><br><a id="srcb1408912" onclick="cm(this, event, 2);return false;" data-term="vivid imagination" dir="ltr" href="/englisch-deutsch/vivid+imagination.html">vivid imagination</a><div class="audiobut2" id="abb1408912" onclick="audiobutclick(this,1408912,'EN')"></div><br><a id="srcb183876" onclick="cm(this, event, 2);return false;" data-term="wanton imagination" dir="ltr" href="/englisch-deutsch/wanton+imagination.html">wanton imagination</a><div class="audiobut2" id="abb183876" onclick="audiobutclick(this,183876,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba256150" onclick="audiobutclick(this,256150,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="krankhafte Fantasie {f}" dir="ltr" href="/deutsch-englisch/krankhafte+Fantasie.html">krankhafte Fantasie&nbsp;<var>{f}</var></a></dt>
+<dd><a id="srcb256150" onclick="cm(this, event, 2);return false;" data-term="perverse fancy" dir="ltr" href="/englisch-deutsch/perverse+fancy.html">perverse fancy</a><div class="audiobut2" id="abb256150" onclick="audiobutclick(this,256150,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba256792" onclick="audiobutclick(this,256792,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="kräftige Fantasie {f}" dir="ltr" href="/deutsch-englisch/kr%C3%A4ftige+Fantasie.html">kräftige Fantasie&nbsp;<var>{f}</var></a></dt>
+<dd><a id="srcb256792" onclick="cm(this, event, 2);return false;" data-term="powerful imagination" dir="ltr" href="/englisch-deutsch/powerful+imagination.html">powerful imagination</a><div class="audiobut2" id="abb256792" onclick="audiobutclick(this,256792,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba259880" onclick="audiobutclick(this,259880,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="lebhafte Fantasie {f}" dir="ltr" href="/deutsch-englisch/lebhafte+Fantasie.html">lebhafte Fantasie&nbsp;<var>{f}</var></a></dt>
+<dd><a id="srcb259881" onclick="cm(this, event, 2);return false;" data-term="vivid fantasy" dir="ltr" href="/englisch-deutsch/vivid+fantasy.html">vivid fantasy</a><div class="audiobut2" id="abb259881" onclick="audiobutclick(this,259881,'EN')"></div><br><a id="srcb259880" onclick="cm(this, event, 2);return false;" data-term="vivacious imagination" dir="ltr" href="/englisch-deutsch/vivacious+imagination.html">vivacious imagination</a><div class="audiobut2" id="abb259880" onclick="audiobutclick(this,259880,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba1013772" onclick="audiobutclick(this,1013772,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="lebhafte Fantasie {f} [Vorstellungskraft]" dir="ltr" href="/deutsch-englisch/lebhafte+Fantasie.html">lebhafte Fantasie&nbsp;<var>{f}</var> <kbd>[Vorstellungs&shy;kraft]</kbd></a></dt>
+<dd><a id="srcb1013772" onclick="cm(this, event, 2);return false;" data-term="active imagination" dir="ltr" href="/englisch-deutsch/active+imagination.html">active imagination</a><dfn onclick="display_subject('psych.', this.title)" title="Psychology / Psychologie">psych.</dfn><div class="audiobut2" id="abb1013772" onclick="audiobutclick(this,1013772,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba283820" onclick="audiobutclick(this,283820,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="rege Fantasie {f}" dir="ltr" href="/deutsch-englisch/rege+Fantasie.html">rege Fantasie&nbsp;<var>{f}</var></a></dt>
+<dd><a id="srcb283820" onclick="cm(this, event, 2);return false;" data-term="fertile imagination" dir="ltr" href="/englisch-deutsch/fertile+imagination.html">fertile imagination</a><div class="audiobut2" id="abb283820" onclick="audiobutclick(this,283820,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba1434391" onclick="audiobutclick(this,1434391,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="schmutzige Fantasie {f}" dir="ltr" href="/deutsch-englisch/schmutzige+Fantasie.html">schmutzige Fantasie&nbsp;<var>{f}</var></a></dt>
+<dd><a id="srcb1434391" onclick="cm(this, event, 2);return false;" data-term="dirty mind" dir="ltr" href="/englisch-deutsch/dirty+mind.html">dirty mind</a><div class="audiobut2" id="abb1434391" onclick="audiobutclick(this,1434391,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba369140" onclick="audiobutclick(this,369140,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="sexuelle Fantasie {f}" dir="ltr" href="/deutsch-englisch/sexuelle+Fantasie.html">sexuelle Fantasie&nbsp;<var>{f}</var></a></dt>
+<dd><a id="srcb369140" onclick="cm(this, event, 2);return false;" data-term="sexual fantasy" dir="ltr" href="/englisch-deutsch/sexual+fantasy.html">sexual fantasy</a><div class="audiobut2" id="abb369140" onclick="audiobutclick(this,369140,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba953527" onclick="audiobutclick(this,953527,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="wilde Fantasie {f}" dir="ltr" href="/deutsch-englisch/wilde+Fantasie.html">wilde Fantasie&nbsp;<var>{f}</var></a></dt>
+<dd><a id="srcb1408927" onclick="cm(this, event, 2);return false;" data-term="wild imagination" dir="ltr" href="/englisch-deutsch/wild+imagination.html">wild imagination</a><div class="audiobut2" id="abb1408927" onclick="audiobutclick(this,1408927,'EN')"></div><br><a id="srcb953527" onclick="cm(this, event, 2);return false;" data-term="overactive imagination" dir="ltr" href="/englisch-deutsch/overactive+imagination.html">overactive imagination</a><div class="audiobut2" id="abb953527" onclick="audiobutclick(this,953527,'EN')"></div></dd>
+<hr>
+<dt><a class="audiobut" id="aba63478" onclick="audiobutclick(this,63478,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="ohne Fantasie / Phantasie" dir="ltr" href="/deutsch-englisch/ohne+Fantasie+Phantasie.html">ohne Fantasie / Phantasie</a></dt>
+<dd><a id="srcb63478" onclick="cm(this, event, 2);return false;" data-term="without imagination" dir="ltr" href="/englisch-deutsch/without+imagination.html">without imagination&nbsp;<var>{adv}</var></a><div class="audiobut2" id="abb63478" onclick="audiobutclick(this,63478,'EN')"></div></dd>
+<hr>
+<dt><a class="audiobut" id="aba191787" onclick="audiobutclick(this,191787,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="die Fantasie beherrschen" dir="ltr" href="/deutsch-englisch/die+Fantasie+beherrschen.html">die Fantasie beherrschen</a></dt>
+<dd><a id="srcb191787" onclick="cm(this, event, 2);return false;" data-term="to preoccupy the imagination" dir="ltr" href="/englisch-deutsch/to+preoccupy+the+imagination.html">to preoccupy the imagination</a><div class="audiobut2" id="abb191787" onclick="audiobutclick(this,191787,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba191788" onclick="audiobutclick(this,191788,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="die Fantasie beleben" dir="ltr" href="/deutsch-englisch/die+Fantasie+beleben.html">die Fantasie beleben</a></dt>
+<dd><a id="srcb191788" onclick="cm(this, event, 2);return false;" data-term="to quicken the imagination" dir="ltr" href="/englisch-deutsch/to+quicken+the+imagination.html">to quicken the imagination</a><div class="audiobut2" id="abb191788" onclick="audiobutclick(this,191788,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba1408922" onclick="audiobutclick(this,1408922,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="ohne Fantasie spielen" dir="ltr" href="/deutsch-englisch/ohne+Fantasie+spielen.html">ohne Fantasie spielen</a></dt>
+<dd><a id="srcb1408922" onclick="cm(this, event, 2);return false;" data-term="to play unimaginatively [without any imagination]" dir="ltr" href="/englisch-deutsch/to+play+unimaginatively.html">to play unimaginatively <kbd>[without any imagination]</kbd></a><dfn onclick="display_subject('mus.', this.title)" title="Music / Musik">mus.</dfn><dfn onclick="display_subject('sports', this.title)" title="Sports / Sport">sports</dfn><div class="audiobut2" id="abb1408922" onclick="audiobutclick(this,1408922,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba1408921" onclick="audiobutclick(this,1408921,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="viel Fantasie haben" dir="ltr" href="/deutsch-englisch/viel+Fantasie+haben.html">viel Fantasie haben</a></dt>
+<dd><a id="srcb1408921" onclick="cm(this, event, 2);return false;" data-term="to have plenty of imagination" dir="ltr" href="/englisch-deutsch/to+have+plenty+of+imagination.html">to have plenty of imagination</a><div class="audiobut2" id="abb1408921" onclick="audiobutclick(this,1408921,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba1408920" onclick="audiobutclick(this,1408920,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="wenig Fantasie haben" dir="ltr" href="/deutsch-englisch/wenig+Fantasie+haben.html">wenig Fantasie haben</a></dt>
+<dd><a id="srcb1408920" onclick="cm(this, event, 2);return false;" data-term="to have little imagination" dir="ltr" href="/englisch-deutsch/to+have+little+imagination.html">to have little imagination</a><div class="audiobut2" id="abb1408920" onclick="audiobutclick(this,1408920,'EN')"></div></dd>
+<hr>
+<dt><a class="audiobut" id="aba765856" onclick="audiobutclick(this,765856,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="Produkt {n} seiner Fantasie" dir="ltr" href="/deutsch-englisch/Produkt+seiner+Fantasie.html">Produkt&nbsp;<var>{n}</var> seiner Fantasie</a></dt>
+<dd><a id="srcb765856" onclick="cm(this, event, 2);return false;" data-term="product of one&#039;s imagination" dir="ltr" href="/englisch-deutsch/product+of+one%27s+imagination.html">product of one's imagination</a><div class="audiobut2" id="abb765856" onclick="audiobutclick(this,765856,'EN')"></div></dd>
+<hr>
+<dt><a class="audiobut" id="aba1408918" onclick="audiobutclick(this,1408918,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="eine krankhafte Fantasie haben" dir="ltr" href="/deutsch-englisch/eine+krankhafte+Fantasie+haben.html">eine krankhafte Fantasie haben</a></dt>
+<dd><a id="srcb1408918" onclick="cm(this, event, 2);return false;" data-term="to have a sick mind [imagination]" dir="ltr" href="/englisch-deutsch/to+have+a+sick+mind.html">to have a sick mind <kbd>[imagination]</kbd></a><div class="audiobut2" id="abb1408918" onclick="audiobutclick(this,1408918,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba1282507" onclick="audiobutclick(this,1282507,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="eine schmutzige Fantasie haben" dir="ltr" href="/deutsch-englisch/eine+schmutzige+Fantasie+haben.html">eine schmutzige Fantasie haben</a></dt>
+<dd><a id="srcb959431" onclick="cm(this, event, 2);return false;" data-term="to have a nasty mind" dir="ltr" href="/englisch-deutsch/to+have+a+nasty+mind.html">to have a nasty mind</a><div class="audiobut2" id="abb959431" onclick="audiobutclick(this,959431,'EN')"></div><br><a id="srcb1282507" onclick="cm(this, event, 2);return false;" data-term="to have a filthy mind" dir="ltr" href="/englisch-deutsch/to+have+a+filthy+mind.html">to have a filthy mind</a><div class="audiobut2" id="abb1282507" onclick="audiobutclick(this,1282507,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba1408913" onclick="audiobutclick(this,1408913,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="eine schmutzige Fantasie haben [ugs.] [Redewendung]" dir="ltr" href="/deutsch-englisch/eine+schmutzige+Fantasie+haben.html">eine schmutzige Fantasie haben <kbd>[ugs.]</kbd> <kbd>[Redewendung]</kbd></a></dt>
+<dd><a id="srcb1408913" onclick="cm(this, event, 2);return false;" data-term="to have a dirty mind [coll.] [idiom]" dir="ltr" href="/englisch-deutsch/to+have+a+dirty+mind.html">to have a dirty mind <kbd>[coll.]</kbd> <kbd>[idiom]</kbd></a><div class="audiobut2" id="abb1408913" onclick="audiobutclick(this,1408913,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba215872" onclick="audiobutclick(this,215872,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="in der Fantasie erleben" dir="ltr" href="/deutsch-englisch/in+der+Fantasie+erleben.html">in der Fantasie erleben</a></dt>
+<dd><a id="srcb215872" onclick="cm(this, event, 2);return false;" data-term="to vision" dir="ltr" href="/englisch-deutsch/to+vision.html">to vision</a><div class="audiobut2" id="abb215872" onclick="audiobutclick(this,215872,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba906107" onclick="audiobutclick(this,906107,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="seine Fantasie spielen lassen" dir="ltr" href="/deutsch-englisch/seine+Fantasie+spielen+lassen.html">seine Fantasie spielen lassen</a></dt>
+<dd><a id="srcb906107" onclick="cm(this, event, 2);return false;" data-term="to use one&#039;s imagination" dir="ltr" href="/englisch-deutsch/to+use+one%27s+imagination.html">to use one's imagination</a><div class="audiobut2" id="abb906107" onclick="audiobutclick(this,906107,'EN')"></div></dd>
+<hr>
+<dt><a class="audiobut" id="aba693607" onclick="audiobutclick(this,693607,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="Ausgeburt {f} der Phantasie / Fantasie" dir="ltr" href="/deutsch-englisch/Ausgeburt+der+Phantasie+Fantasie.html">Ausgeburt&nbsp;<var>{f}</var> der Phantasie / Fantasie</a></dt>
+<dd><a id="srcb693607" onclick="cm(this, event, 2);return false;" data-term="figment of the imagination" dir="ltr" href="/englisch-deutsch/figment+of+the+imagination.html">figment of the imagination</a><div class="audiobut2" id="abb693607" onclick="audiobutclick(this,693607,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba1455020" onclick="audiobutclick(this,1455020,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="Reich {n} der Fantasie / Phantasie" dir="ltr" href="/deutsch-englisch/Reich+der+Fantasie+Phantasie.html">Reich&nbsp;<var>{n}</var> der Fantasie / Phantasie</a></dt>
+<dd><a id="srcb1455020" onclick="cm(this, event, 2);return false;" data-term="realm of fantasy" dir="ltr" href="/englisch-deutsch/realm+of+fantasy.html">realm of fantasy</a><div class="audiobut2" id="abb1455020" onclick="audiobutclick(this,1455020,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba301609" onclick="audiobutclick(this,301609,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="Spielraum {m} für die Fantasie" dir="ltr" href="/deutsch-englisch/Spielraum+f%C3%BCr+die+Fantasie.html">Spielraum&nbsp;<var>{m}</var> für die Fantasie</a></dt>
+<dd><a id="srcb301609" onclick="cm(this, event, 2);return false;" data-term="scope for the imagination" dir="ltr" href="/englisch-deutsch/scope+for+the+imagination.html">scope for the imagination</a><div class="audiobut2" id="abb301609" onclick="audiobutclick(this,301609,'EN')"></div></dd>
+<hr>
+<dt><a class="audiobut" id="aba857522" onclick="audiobutclick(this,857522,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="Lass deiner Fantasie freien Lauf." dir="ltr" href="/deutsch-englisch/Lass+deiner+Fantasie+freien+Lauf.html">Lass deiner Fantasie freien Lauf.</a></dt>
+<dd><a id="srcb857522" onclick="cm(this, event, 2);return false;" data-term="Let your imagination run free." dir="ltr" href="/englisch-deutsch/Let+your+imagination+run+free.html">Let your imagination run free.</a><dfn onclick="display_subject('idiom', this.title)" title="Idiom / Idiom, Redewendung">idiom</dfn><div class="audiobut2" id="abb857522" onclick="audiobutclick(this,857522,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba110453" onclick="audiobutclick(this,110453,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="Sie lässt ihrer Fantasie freien Lauf." dir="ltr" href="/deutsch-englisch/Sie+l%C3%A4sst+ihrer+Fantasie+freien+Lauf.html">Sie lässt ihrer Fantasie freien Lauf.</a></dt>
+<dd><a id="srcb110453" onclick="cm(this, event, 2);return false;" data-term="She gives her fancy full scope." dir="ltr" href="/englisch-deutsch/She+gives+her+fancy+full+scope.html">She gives her fancy full scope.</a><div class="audiobut2" id="abb110453" onclick="audiobutclick(this,110453,'EN')"></div></dd>
+<hr>
+<dt><a class="audiobut" id="aba697525" onclick="audiobutclick(this,697525,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="ins Reich der Fantasie gehören" dir="ltr" href="/deutsch-englisch/ins+Reich+der+Fantasie+geh%C3%B6ren.html">ins Reich der Fantasie gehören</a></dt>
+<dd><a id="srcb697525" onclick="cm(this, event, 2);return false;" data-term="to be in the realm / realms of fancy [Br.]" dir="ltr" href="/englisch-deutsch/to+be+in+the+realm+realms+of+fancy.html">to be in the realm / realms of fancy <kbd>[Br.]</kbd></a><dfn onclick="display_subject('idiom', this.title)" title="Idiom / Idiom, Redewendung">idiom</dfn><div class="audiobut2" id="abb697525" onclick="audiobutclick(this,697525,'EN')"></div></dd>
+
+<dt><a class="audiobut" id="aba1408923" onclick="audiobutclick(this,1408923,'DE')"></a><a onclick="cm(this, event, 1);return false;" data-term="seiner Fantasie freien Lauf lassen [Redewendung]" dir="ltr" href="/deutsch-englisch/seiner+Fantasie+freien+Lauf+lassen.html">seiner Fantasie freien Lauf lassen <kbd>[Redewendung]</kbd></a></dt>
+<dd><a id="srcb1486094" onclick="cm(this, event, 2);return false;" data-term="to let one&#039;s imagination run wild [idiom]" dir="ltr" href="/englisch-deutsch/to+let+one%27s+imagination+run+wild.html">to let one's imagination run wild <kbd>[idiom]</kbd></a><div class="audiobut2" id="abb1486094" onclick="audiobutclick(this,1486094,'EN')"></div><br><a id="srcb1408923" onclick="cm(this, event, 2);return false;" data-term="to give free rein to one&#039;s imagination [idiom]" dir="ltr" href="/englisch-deutsch/to+give+free+rein+to+one%27s+imagination.html">to give free rein to one's imagination <kbd>[idiom]</kbd></a><div class="audiobut2" id="abb1408923" onclick="audiobutclick(this,1408923,'EN')"></div></dd>
+</dl>
+<div style="padding:10px 0 0 55px" id="search_comm_link_c"" class="hide_print"><a href="%5BFantasie%5D.html" class="underline">Suche in Kommentaren</a> (7)</div></div><div id="searchres_example_block"  onclick="this.style.maxHeight='none';getel('moreexampleslink').style.display='none'"><div class="hl">Anwendungsbeispiele Deutsch</div><ul><li id="wpsnip9409740" style="list-style-type:disc; padding:8px 0;"><span style="cursor:pointer;" onclick="document.getElementById('wpsnip9409740').innerHTML='Irma von Drygalski verbrachte die Hälfte ihres Lebens in Heidelberg. Sie war als gelernte Schauspielerin <b>fantasie</b>- und sprachbegabt. Diese Tätigkeit wurde 1916 unterbrochen, als sie im 1. Weltkrieg bis 1918 als Krankenschwester des Roten Kreuzes in Lazaretten sowohl im besetzten Rumänien als auch in Galizien arbeitete. 1919 zog sie der Ehe wegen nach Heidelberg. Hier begann sie ihr schriftstellerisches Werk. Als Schriftstellerin verarbeitete sie vor allem heimatkundliche und historische Stoffe. Daneben war sie freie Mitarbeiterin bei der Heidelberger Rhein-Neckar-Zeitung. Drygalski war mit dem bekannten Heidelberger Stadtarchivar und Volkskundler Herbert Derwein verheiratet. Das Ehepaar ist auf dem Heidelberger Bergfriedhof begraben.&nbsp; <a href=&quot;https://de.wikipedia.org/wiki/Irma_von_Drygalski&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; style=&quot;text-decoration:underline&quot;>Wikipedia</a> <span style=&quot;color:rgba(0,0,0,0.5)&quot;>[9409740]</span>';document.getElementById('wpsnip9409740').style='cursor:auto; background-color:rgba(0,0,0,0.1); padding:6px 10px; margin:1em 0 1em 0';"> Sie war als gelernte Schauspielerin <b>fantasie</b>- und sprachbegabt. </span></li><li id="wpsnip9400545" style="list-style-type:disc; padding:8px 0;"><span style="cursor:pointer;" onclick="document.getElementById('wpsnip9400545').innerHTML='Berchet verbrachte die meiste Zeit seines Exils in Belgien, wo er den Großteil seiner poetischen Werke schrieb: &quot;I profughi di Parga&quot; (1821), die &quot;Romanze&quot; (1822–1824) und &quot;Le <b>fantasie</b>&quot; (1829). 1845 konnte er nach Italien zurückkehren und setzte sich weiter für die politische Einigung Italiens ein. Er starb wenige Jahre später, 1851, und wurde auf dem Cimitero monumentale in Turin begraben.&nbsp; <a href=&quot;https://de.wikipedia.org/wiki/Giovanni_Berchet&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; style=&quot;text-decoration:underline&quot;>Wikipedia</a> <span style=&quot;color:rgba(0,0,0,0.5)&quot;>[9400545]</span>';document.getElementById('wpsnip9400545').style='cursor:auto; background-color:rgba(0,0,0,0.1); padding:6px 10px; margin:1em 0 1em 0';">Berchet verbrachte die meiste Zeit seines Exils in Belgien, wo er den Großteil seiner poetischen Werke schrieb: "I profughi di Parga" (1821), die "Romanze" (1822–1824) und "Le <b>fantasie</b>" (1829). </span></li><li id="wpsnip8732223" style="list-style-type:disc; padding:8px 0;"><span style="cursor:pointer;" onclick="document.getElementById('wpsnip8732223').innerHTML='Die Entdeckung des Nordpols, Untertitel: eine aviatische <b>fantasie</b> Reise über das nördliche Eismeer zum Nordpol (Originaltitel &quot;À la conquête du pôle&quot;) ist ein französischer Science-Fiction-Spielfilm aus dem Jahre 1912 von Georges Méliès, der besonders durch seine Trickgestaltung Aufsehen erregte. Die deutsche Fassung war nach Angaben im Vorspann einer nur schwarzweiß überlieferten Kopie koloriert. Die Handlung orientiert sich grob an Jules Vernes Roman &quot;Abenteuer des Kapitän Hatteras&quot;.&nbsp; <a href=&quot;https://de.wikipedia.org/wiki/Die_Entdeckung_des_Nordpols&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; style=&quot;text-decoration:underline&quot;>Wikipedia</a> <span style=&quot;color:rgba(0,0,0,0.5)&quot;>[8732223]</span>';document.getElementById('wpsnip8732223').style='cursor:auto; background-color:rgba(0,0,0,0.1); padding:6px 10px; margin:1em 0 1em 0';">Die Entdeckung des Nordpols, Untertitel: eine aviatische <b>fantasie</b> Reise über das nördliche Eismeer zum Nordpol (Originaltitel "À la conquête du pôle") ist ein französischer Science-Fiction-Spielfilm aus dem Jahre 1912 von Georges Méliès, der besonders durch seine Trickgestaltung Aufsehen erregte. </span></li><li id="wpsnip8419118" style="list-style-type:disc; padding:8px 0;"><span style="cursor:pointer;" onclick="document.getElementById('wpsnip8419118').innerHTML='Seit 2005 ist Dijkema auf den Opernbühnen Europas als Regisseur präsent. Bereits mehrfach wurden seine <b>fantasie</b>- und trickreichen Inszenierungen ausgezeichnet, zu denen er meist auch das Bühnenbild entwirft. Regelmäßig arbeitet er bei den Produktionen mit der Kostümbildnerin Claudia Damm zusammen.&nbsp; <a href=&quot;https://de.wikipedia.org/wiki/Michiel_Dijkema&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; style=&quot;text-decoration:underline&quot;>Wikipedia</a> <span style=&quot;color:rgba(0,0,0,0.5)&quot;>[8419118]</span>';document.getElementById('wpsnip8419118').style='cursor:auto; background-color:rgba(0,0,0,0.1); padding:6px 10px; margin:1em 0 1em 0';"> Bereits mehrfach wurden seine <b>fantasie</b>- und trickreichen Inszenierungen ausgezeichnet, zu denen er meist auch das Bühnenbild entwirft. </span></li><li id="wpsnip7924686" style="list-style-type:disc; padding:8px 0;"><span style="cursor:pointer;" onclick="document.getElementById('wpsnip7924686').innerHTML='Maffei selbst schrieb Gedichte, darunter &quot;Arte, affetti, <b>fantasie</b>&quot; (1864) und Opernlibretti, darunter 1847 die Texte zu &quot;Macbeth&quot; und &quot;I masnadieri&quot; für Giuseppe Verdi.&nbsp; <a href=&quot;https://de.wikipedia.org/wiki/Andrea_Maffei&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; style=&quot;text-decoration:underline&quot;>Wikipedia</a> <span style=&quot;color:rgba(0,0,0,0.5)&quot;>[7924686]</span>';document.getElementById('wpsnip7924686').style='cursor:auto; background-color:rgba(0,0,0,0.1); padding:6px 10px; margin:1em 0 1em 0';">Maffei selbst schrieb Gedichte, darunter "Arte, affetti, <b>fantasie</b>" (1864) und Opernlibretti, darunter 1847 die Texte zu "Macbeth" und "I masnadieri" für Giuseppe Verdi.</ul><hr style="border-top:2px solid black; margin:20px 0 20px 0"><ul></span></li><li id="wpsnip6711806" style="list-style-type:disc; padding:8px 0;"><span style="cursor:pointer;" onclick="document.getElementById('wpsnip6711806').innerHTML='Als frühe Verfechterin der Frauenemanzipation beteiligte sich Olha in jener Zeit an der Organisation des &quot;Vereins der ruthenischen Frauen der Bukowina&quot;. Ihren Niederschlag findet diese Haltung in ihren literarischen Gestalten, z. B. in &quot;Valse mélancholique&quot; (1894), &quot;Der Mensch&quot;, &quot;Impromptu <b>fantasie</b>&quot;, &quot;Die Prinzessin&quot; und &quot;Die Natur&quot; (alle 1895), &quot;Die Aristokratin&quot; (1898) und &quot;Niobe&quot; (1905). Mit diesen Werken gilt sie in der ukrainischen Literatur als Vorkämpferin der neuromantischen Moderne.&nbsp; <a href=&quot;https://de.wikipedia.org/wiki/Olha_Kobyljanska&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; style=&quot;text-decoration:underline&quot;>Wikipedia</a> <span style=&quot;color:rgba(0,0,0,0.5)&quot;>[6711806]</span>';document.getElementById('wpsnip6711806').style='cursor:auto; background-color:rgba(0,0,0,0.1); padding:6px 10px; margin:1em 0 1em 0';"> in "Valse mélancholique" (1894), "Der Mensch", "Impromptu <b>fantasie</b>", "Die Prinzessin" und "Die Natur" (alle 1895), "Die Aristokratin" (1898) und "Niobe" (1905). </span></li><li id="wpsnip5841267" style="list-style-type:disc; padding:8px 0;"><span style="cursor:pointer;" onclick="document.getElementById('wpsnip5841267').innerHTML='Als Gewaltfantasie bezeichnet man eine besondere Form von <b>Fantasie</b> (ein Vorstellungsbild oder Gedanken allgemein) über die absichtliche und zielgerichtete Schädigung, Verletzung oder Tötung anderer Personen oder Tiere. Tötungsfantasien können dabei als besondere Form von Gewaltfantasien angesehen werden. Gewaltfantasien werden häufig als Risikofaktor im Zusammenhang mit zielgerichteter Gewalt, wie zum Beispiel School Shootings, diskutiert. Ebenfalls sind Gewaltfantasien mit sexuellem Inhalt zu unterscheiden.&nbsp; <a href=&quot;https://de.wikipedia.org/wiki/Gewaltfantasie&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; style=&quot;text-decoration:underline&quot;>Wikipedia</a> <span style=&quot;color:rgba(0,0,0,0.5)&quot;>[5841267]</span>';document.getElementById('wpsnip5841267').style='cursor:auto; background-color:rgba(0,0,0,0.1); padding:6px 10px; margin:1em 0 1em 0';">Als Gewaltfantasie bezeichnet man eine besondere Form von <b>Fantasie</b> (ein Vorstellungsbild oder Gedanken allgemein) über die absichtliche und zielgerichtete Schädigung, Verletzung oder Tötung anderer Personen oder Tiere. </span></li><li id="wpsnip4644410" style="list-style-type:disc; padding:8px 0;"><span style="cursor:pointer;" onclick="document.getElementById('wpsnip4644410').innerHTML='„Dank der <b>fantasie</b>- und ideenreichen Gestaltung ist der Film besser als alle späteren Filme des Genres“, urteilte das &quot;Lexikon des internationalen Films&quot;. &quot;Cinema&quot; fand den Film „prächtig inszeniert, die Darsteller geben ihr Bestes“ und schrieb: „Der erste Tonfilm-Tarzan schlug ein wie eine Bombe, obgleich die Dialoge eher karg ausfielen. Dafür geizte der Schwimm-Superstar Johnny Weismuller nicht mit nackter Haut und tollen Stunts. Publikum und Kritik waren begeistert, wie der Herr des Dschungels im Handumdrehen aus einer wilden Elefantenhorde einen Flohzirkus machte.“ Für die Fernsehzeitschrift &quot;Prisma&quot; war der Film „[...]in unverwüstlicher Klassiker des Abenteuerfilms“. Obwohl es bereits in der Stummfilm-Ära eine Reihe von Tarzan-Verfilmungen gegeben habe, sei „dies zumindest die definitive Tonfilmfassung“.&nbsp; <a href=&quot;https://de.wikipedia.org/wiki/Tarzan,_der_Affenmensch&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; style=&quot;text-decoration:underline&quot;>Wikipedia</a> <span style=&quot;color:rgba(0,0,0,0.5)&quot;>[4644410]</span>';document.getElementById('wpsnip4644410').style='cursor:auto; background-color:rgba(0,0,0,0.1); padding:6px 10px; margin:1em 0 1em 0';">„Dank der <b>fantasie</b>- und ideenreichen Gestaltung ist der Film besser als alle späteren Filme des Genres“, urteilte das "Lexikon des internationalen Films". </span></li><li id="wpsnip2394078" style="list-style-type:disc; padding:8px 0;"><span style="cursor:pointer;" onclick="document.getElementById('wpsnip2394078').innerHTML='Bekannt geworden ist sein Filmdrehbuch &quot;Surovost života a cynismus <b>fantasie</b>&quot; (Rohheit des Lebens und der Zynismus der Phantasie), (Toronto 1984), Praha 1991.&nbsp; <a href=&quot;https://de.wikipedia.org/wiki/Vratislav_Effenberger&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; style=&quot;text-decoration:underline&quot;>Wikipedia</a> <span style=&quot;color:rgba(0,0,0,0.5)&quot;>[2394078]</span>';document.getElementById('wpsnip2394078').style='cursor:auto; background-color:rgba(0,0,0,0.1); padding:6px 10px; margin:1em 0 1em 0';">Bekannt geworden ist sein Filmdrehbuch "Surovost života a cynismus <b>fantasie</b>" (Rohheit des Lebens und der Zynismus der Phantasie), (Toronto 1984), Praha 1991.</span></li><li id="wpsnip1512939" style="list-style-type:disc; padding:8px 0;"><span style="cursor:pointer;" onclick="document.getElementById('wpsnip1512939').innerHTML='Thalbergs &quot;Norma-<b>Fantasie</b>&quot; war als Konzertstück bald sehr beliebt, doch hatte die Verwendung ernsthafter Satztechniken in einer Opernfantasie zuerst Irritation bei den Zeitgenossen ausgelöst. In einer Rezension Schumanns in der &quot;Neuen Zeitschrift für Musik&quot; wurde die <b>Fantasie</b> mit spöttelnden Kommentaren bedacht. Auch in Paris, wo die <b>Fantasie</b> im Sommer 1834 im Verlag Farrenc erschien, wurde sie in der Zeitschrift &quot;Le Pianiste&quot; mit abwartender Skepsis rezensiert. Thalberg komponierte daraufhin neue Werke in einem anderen Stil. Als er im November 1835 in Paris erschien, wurde er in kometenhaftem Aufstieg von Kennern als hervorragender Komponist und führender Pianist seiner Zeit anerkannt.&nbsp; <a href=&quot;https://de.wikipedia.org/wiki/Sigismund_Thalberg&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; style=&quot;text-decoration:underline&quot;>Wikipedia</a> <span style=&quot;color:rgba(0,0,0,0.5)&quot;>[1512939]</span>';document.getElementById('wpsnip1512939').style='cursor:auto; background-color:rgba(0,0,0,0.1); padding:6px 10px; margin:1em 0 1em 0';">Thalbergs "Norma-<b>Fantasie</b>" war als Konzertstück bald sehr beliebt, doch hatte die Verwendung ernsthafter Satztechniken in einer Opernfantasie zuerst Irritation bei den Zeitgenossen ausgelöst. </ul><hr style="border-top:2px solid black; margin:20px 0 20px 0"><ul></span></li><li id="wpsnip1095722" style="list-style-type:disc; padding:8px 0;"><span style="cursor:pointer;" onclick="document.getElementById('wpsnip1095722').innerHTML='Der <b>Fantasie</b> waren keine Grenzen gesetzt: so sind die Wände eines Kabinetts in Schloss Favorite bei Rastatt mit asiatischen Figuren aus Pappmaché geschmückt, und für Friedrich den Großen wurden in Sanssouci ebenfalls einige Räume mit einem fantasievollen Chinoiseriedekor ausgestattet, neben chinesischen Tapeten im 1. Gästezimmer u. a. auch geschnitzte und lackierte Ranken, Früchte und Tiere im sogenannten &quot;Voltairezimmer&quot;.&nbsp; <a href=&quot;https://de.wikipedia.org/wiki/Chinoiserie&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; style=&quot;text-decoration:underline&quot;>Wikipedia</a> <span style=&quot;color:rgba(0,0,0,0.5)&quot;>[1095722]</span>';document.getElementById('wpsnip1095722').style='cursor:auto; background-color:rgba(0,0,0,0.1); padding:6px 10px; margin:1em 0 1em 0';">Der <b>Fantasie</b> waren keine Grenzen gesetzt: so sind die Wände eines Kabinetts in Schloss Favorite bei Rastatt mit asiatischen Figuren aus Pappmaché geschmückt, und für Friedrich den Großen wurden in Sanssouci ebenfalls einige Räume mit einem fantasievollen Chinoiseriedekor ausgestattet, neben chinesischen Tapeten im 1. </span></li><li id="wpsnip646162" style="list-style-type:disc; padding:8px 0;"><span style="cursor:pointer;" onclick="document.getElementById('wpsnip646162').innerHTML='Er schrieb unter anderem ein weiteres Hornkonzert (Nr. 2 op. 14) sowie so genannte „Charakterstücke“ und „Unterhaltungsmusik“ für sein Münchner Hausorchester: <b>Fantasie</b> über den Sehnsuchtswalzer für Horn &amp; Orch., Les Adieux f. Horn &amp; Orch. op. 2, Originalfantasie op. 6 für Horn &amp; Orch., weitere Stücke für Horn &amp; Klavier und Hornquartette.&nbsp; <a href=&quot;https://de.wikipedia.org/wiki/Franz_Strauss&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; style=&quot;text-decoration:underline&quot;>Wikipedia</a> <span style=&quot;color:rgba(0,0,0,0.5)&quot;>[646162]</span>';document.getElementById('wpsnip646162').style='cursor:auto; background-color:rgba(0,0,0,0.1); padding:6px 10px; margin:1em 0 1em 0';">...  14) sowie so genannte „Charakterstücke“ und „Unterhaltungsmusik“ für sein Münchner Hausorchester: <b>Fantasie</b> über den Sehnsuchtswalzer für Horn &amp; Orch., Les Adieux f. </span></li><li id="wpsnip9923390" style="list-style-type:circle; padding:8px 0;"><span style="cursor:pointer;" onclick="document.getElementById('wpsnip9923390').innerHTML='Neben Liedtexten verfasste Käo frühzeitig auch Kinderbücher, die er meist selbst illustrierte. Hierin behandelte er ausdrucksstark die Psyche und Einbildungskraft von Kindern und konzentrierte sich zusehends auf fantasiereiche und komische Gespenstergeschichten. In der Kritik wurde er als der „konsequenteste Kinderbuchautor im Bereich der <b>Fantasie</b>“ bezeichnet, da er im Gegensatz zu vielen Kollegen sich kaum um eine realistische Darstellung bemühte. Dagegen begab er sich teilweise sogar ins Genre der Science-Fiction.&nbsp; <a href=&quot;https://de.wikipedia.org/wiki/Henno_Käo&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; style=&quot;text-decoration:underline&quot;>Wikipedia</a> <span style=&quot;color:rgba(0,0,0,0.5)&quot;>[9923390]</span>';document.getElementById('wpsnip9923390').style='cursor:auto; background-color:rgba(0,0,0,0.1); padding:6px 10px; margin:1em 0 1em 0';"> Hierin behandelte er ausdrucksstark die Psyche und Einbildungskraft von Kindern und konzentrierte sich zusehends auf fantasiereiche und komische Gespenstergeschichten. </span></li><li id="wpsnip6372688" style="list-style-type:circle; padding:8px 0;"><span style="cursor:pointer;" onclick="document.getElementById('wpsnip6372688').innerHTML='Die Drei Choralfantasien für Orgel komponierte Max Reger als Opus 52 in der zweiten Septemberhälfte des Jahres 1900. Im Einzelnen sind diese die &quot;<b>Fantasie</b> über den Choral „Alle Menschen müssen sterben“&quot; (op. 52 Nr. 1), &quot;<b>Fantasie</b> über den Choral „Wachet auf, ruft uns die Stimme“&quot; (op. 52 Nr. 2) sowie die &quot;<b>Fantasie</b> über den Choral „Halleluja! Gott zu loben bleibe meine Seelenfreud“&quot; (op. 52 Nr. 3).&nbsp; <a href=&quot;https://de.wikipedia.org/wiki/Drei_Choralfantasien_(Max_Reger)&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; style=&quot;text-decoration:underline&quot;>Wikipedia</a> <span style=&quot;color:rgba(0,0,0,0.5)&quot;>[6372688]</span>';document.getElementById('wpsnip6372688').style='cursor:auto; background-color:rgba(0,0,0,0.1); padding:6px 10px; margin:1em 0 1em 0';">Die Drei Choralfantasien für Orgel komponierte Max Reger als Opus 52 in der zweiten Septemberhälfte des Jahres 1900. </span></li><li id="wpsnip4899373" style="list-style-type:circle; padding:8px 0;"><span style="cursor:pointer;" onclick="document.getElementById('wpsnip4899373').innerHTML='Zurück zu Hause feiert Dyanna ihren sechsunddreißigsten Geburtstag mit ihrem Ehemann, gespielt von Jon Dough, und ihren besten Freunden, gespielt von Melissa Hill und Tony Tedeschi. Dyanna und Melissa enden in dem Laden wo Dyanna wieder beim Cookiediebstahl entdeckt wird. Dieses Mal gibt Steven das Verbrechen über die Lautsprecher bekannt und die beiden fliehen in Scham. Melissa hat sich jedoch Steven genau angeschaut und sie fantasiert später darüber, mit ihm zusammen zu sein. Ihre <b>Fantasie</b> beinhaltet auch den anderen Ladenangestellten, gespielt von Stephanie Swift.&nbsp; <a href=&quot;https://de.wikipedia.org/wiki/Bad_Wives&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; style=&quot;text-decoration:underline&quot;>Wikipedia</a> <span style=&quot;color:rgba(0,0,0,0.5)&quot;>[4899373]</span>';document.getElementById('wpsnip4899373').style='cursor:auto; background-color:rgba(0,0,0,0.1); padding:6px 10px; margin:1em 0 1em 0';"> Melissa hat sich jedoch Steven genau angeschaut und sie fantasiert später darüber, mit ihm zusammen zu sein. </ul><hr style="border-top:2px solid black; margin:20px 0 20px 0"><ul></span></li></ul></div><div id="searchres_compact_footer"><div class="but2" onclick="scroll_up()">nach oben</div><div class="but2" onclick="getel('searchfield').value = ''; getel('searchfield').focus();">neue Suche</div></div><div id="searchres_compact_footer_cprt">© dict.cc English-German dictionary 2025<br><a href="#legal"><u>Impressum</u></a> | <a href="javascript:void(0);" onclick="adconsent('showGUI');"><u>Cookie-Einstellungen</u></a></div><div id="content_left"><div id="adslot_left"><div style="font-size:10px;color:#808080;text-align:center;">Werbung</div><div id="adngin-halfpage_multi-0" style="height:600px; width:300px; text-align:right"></div></div></div><div id="content_right"><!-- shst_kw:Fantasie: --><div id="shst" onmouseover="getel('shst_over').style.display='block'; getel('shst').style.display='none'; getel('content_right_part2').style.display='none';" style="display:block; overflow:hidden; width:119px; height:90px"><a rel="nofollow" href="http://shutterstock.7eer.net/c/95627/42119/1305?u=http%3A%2F%2Fwww.shutterstock.com%2Fpic.mhtml%3Fid%3D31005118"><img src="https://www.dict.cc/img/illus/31/31005118.jpg" width="119" height="104" title="fantasy castle in clouds" border="0"></a></div><div id="shst_over" onmouseover="if (gv.shst_over_to) clearTimeout(gv.shst_over_to)" onmouseout="gv.shst_over_to = setTimeout(function() { getel('shst_over').style.display='none'; getel('shst').style.display='block'; getel('content_right_part2').style.display='block'; }, 100)" style="z-index:10; display:none; "><div style="border:1px solid #ccc;overflow:hidden; margin-bottom:10px; width:150px; height:113px"><a rel="nofollow" href="http://shutterstock.7eer.net/c/95627/42119/1305?u=http%3A%2F%2Fwww.shutterstock.com%2Fpic.mhtml%3Fid%3D31005118"><img src="https://www.dict.cc/img/illus/31/31005118.jpg" width="150" height="130" border="0"></a></div><div><a rel="nofollow" href="https://contribute.dict.cc/image_assign.php?kw=Fantasie&lang=DE">Bildauswahl korrigieren</a><br><br><br></div></div><!-- /shst_over --><div id="content_right_part2"><div class="hl">Siehe auch:</div><a href="https://www.google.de/search?hl=de&q=Fantasie%20-dict.cc" rel="nofollow">Google</a><br><a href="https://de.wikipedia.org/w/wiki.phtml?search=Fantasie" rel="nofollow">Wikipedia</a><br><a href="https://de.wiktionary.org/wiki/Special:Search?search=Fantasie" rel="nofollow">Wiktionary</a><br><a href="https://dict.leo.org/ende?lang=de&lp=ende&search=Fantasie" rel="nofollow">Leo</a><br><a href="https://de.pons.com/%C3%BCbersetzung?q=Fantasie&l=deen" rel="nofollow">PONS</a><br><a href="https://de.langenscheidt.com/deutsch-englisch/Fantasie" rel="nofollow">Langenscheidt</a><br><a href="https://www.duden.de/suchen/dudenonline/Fantasie" rel="nofollow">Duden</a><br><a href="https://www.verbformen.de/?w=Fantasie" rel="nofollow">Netzverb</a><br><a href="https://www.dwds.de/wb/Fantasie" rel="nofollow">DWDS</a><br><a href="https://de.thefreedictionary.com/_/partner.aspx?pid=dictcc&set=de&word=Fantasie" rel="nofollow">TheFreeDictionary</a><br><a href="https://dictionary.reverso.net/german-english/Fantasie" rel="nofollow">Reverso</a><br><a href="https://www.google.com/search?q=Fantasie&hl=de&gl=DE&source=lnms&tbm=nws" rel="nofollow">Google News</a><br><a href="https://corpora.uni-leipzig.de/de/res?word=Fantasie" rel="nofollow">Leipzig</a><br><a href="https://www.onelook.com/?ls=b&w=Fantasie" rel="nofollow">Onelook</a><br></div><!-- /content_right_part2 --></div><div id="searchres_footer_block"><div id="srfb_similar_terms" style="overflow:hidden;text-overflow:ellipsis;"><div class="hl">Ähnliche Begriffe</div><a class="hover1" href="./?s=Fanschaft">Fanschaft</a><br><a class="hover1" href="./?s=Fanschal">Fanschal</a><br><a class="hover1" href="./?s=Fanschar">Fanschar</a><br><a class="hover1" href="./?s=Fanseite">Fanseite</a><br><a class="hover1" href="./?s=Fanshop">Fanshop</a><br><a class="hover1" href="./?s=Fansynchronisation">Fansynchronisation</a><br><a class="hover1" href="./?s=Fanszene">Fanszene</a><br><a class="hover1" href="./?s=Fant">Fant</a><br><a class="hover1" href="./?s=Fan+Tan">Fan Tan</a><br><a class="hover1" href="./?s=Fantappi%C3%A8it">Fantappièit</a><br><a href="./?s=Fantasie">&bull; Fantasie</a><br><a class="hover1" href="./?s=Fantasie+anregen">Fantasie anregen</a><br><a class="hover1" href="./?s=Fantasiebild">Fantasiebild</a><br><a class="hover1" href="./?s=Fantasiefreunde">Fantasiefreunde</a><br><a class="hover1" href="./?s=Fantasiegebilde">Fantasiegebilde</a><br><a class="hover1" href="./?s=Fantasiegeschichte">Fantasiegeschichte</a><br><a class="hover1" href="./?s=Fantasiegestalt">Fantasiegestalt</a><br><a class="hover1" href="./?s=Fantasiegewand">Fantasiegewand</a><br><a class="hover1" href="./?s=Fantasielandschaft">Fantasielandschaft</a><br><a class="hover1" href="./?s=fantasielos">fantasielos</a><br><a class="hover1" href="./?s=Fantasielosigkeit">Fantasielosigkeit</a></div><div id="srfb_otherlangs" style="overflow:hidden;text-overflow:ellipsis;"><div class="hl">Andere Sprachen</div>Wörterbücher mit Übersetzungen für &quot;Fantasie&quot;:<br><br><a href="/uebersetzung/Fantasie" class="hover1">Deutsch - alle Sprachen</a><br><br><a href="/desq/?s=Fantasie" class="hover1">Deutsch - Albanisch</a><br><a href="/bsde/?s=Fantasie" class="hover1">Deutsch - Bosnisch</a><br><a href="/bgde/?s=Fantasie" class="hover1">Deutsch - Bulgarisch</a><br><a href="/dade/?s=Fantasie" class="hover1">Deutsch - Dänisch</a><br><a href="/deeo/?s=Fantasie" class="hover1">Deutsch - Esperanto</a><br><a href="/defi/?s=Fantasie" class="hover1">Deutsch - Finnisch</a><br><a href="/defr/?s=Fantasie" class="hover1">Deutsch - Französisch</a><br><a href="/deel/?s=Fantasie" class="hover1">Deutsch - Griechisch</a><br><a href="/deis/?s=Fantasie" class="hover1">Deutsch - Isländisch</a><br><a href="/deit/?s=Fantasie" class="hover1">Deutsch - Italienisch</a><br><a href="/dehr/?s=Fantasie" class="hover1">Deutsch - Kroatisch</a><br><a href="/dela/?s=Fantasie" class="hover1">Deutsch - Latein</a><br><a href="/denl/?s=Fantasie" class="hover1">Deutsch - Niederländisch</a><br><a href="/ennl/?s=Fantasie" class="hover1">Englisch - Niederländisch</a><br><a href="/deno/?s=Fantasie" class="hover1">Deutsch - Norwegisch</a><br><a href="/depl/?s=Fantasie" class="hover1">Deutsch - Polnisch</a><br><a href="/dept/?s=Fantasie" class="hover1">Deutsch - Portugiesisch</a><br><a href="/dero/?s=Fantasie" class="hover1">Deutsch - Rumänisch</a><br><a href="/deru/?s=Fantasie" class="hover1">Deutsch - Russisch</a><br><a href="/desv/?s=Fantasie" class="hover1">Deutsch - Schwedisch</a><br><a href="/desr/?s=Fantasie" class="hover1">Deutsch - Serbisch</a><br><a href="/desk/?s=Fantasie" class="hover1">Deutsch - Slowakisch</a><br><a href="/dees/?s=Fantasie" class="hover1">Deutsch - Spanisch</a><br><a href="/csde/?s=Fantasie" class="hover1">Deutsch - Tschechisch</a><br><a href="/detr/?s=Fantasie" class="hover1">Deutsch - Türkisch</a><br><a href="/deuk/?s=Fantasie" class="hover1">Deutsch - Ukrainisch</a><br><a href="/dehu/?s=Fantasie" class="hover1">Deutsch - Ungarisch</a><br><br></div><div id="srfb_contrib_info"><div class="hl">Mitmachen!</div>
+	Alle Inhalte dieses Wörterbuchs werden direkt von Nutzern vorgeschlagen, geprüft und verbessert.<br>
+	Eine Registrierung ist für die meisten Beiträge nicht erforderlich, bringt aber mehr Rechte und als Dankeschön auch eine werbefreie Wörterbuchnutzung. <br>
+	<br>
+	Einfache Teilnahmemöglichkeiten:<br>
+	<!-- div class="ic ic2 ic2-img"></div -->&bull; <a class="hover1" rel="nofollow" href="https://contribute.dict.cc/?action=image-history&f=TODO---">Bilder durchsehen</a><br>
+	<!-- div class="ic ic2 ic2-play"></div -->&bull; <a class="hover1" rel="nofollow" href="https://contribute.dict.cc/?action=audio-history&f=--PENDING">Sprachaufnahmen anhören</a><br>
+	<!-- div class="ic ic2 ic2-rec"></div -->&bull; <a class="hover1" rel="nofollow" href="https://contribute.dict.cc/?action=audio-rec">Sprachaufnahmen einsprechen</a><br>
+	<br>
+	Schwieriger:<br>
+	<!-- div class="ic ic2 ic2-check"></div -->&bull; <a class="hover1" rel="nofollow" href="https://contribute.dict.cc/?action=inflections-history&f=--PENDING">Beugungsformen prüfen</a><br>
+	<!-- div class="ic ic2 ic2-check"></div -->&bull; <a class="hover1" rel="nofollow" href="https://contribute.dict.cc/">Übersetzungsvorschläge prüfen</a><br>
+	<!-- div class="ic ic2 ic2-plus"></div -->&bull; <a class="hover1" rel="nofollow" href="https://contribute.dict.cc/#inputform">Neue Übersetzungen vorschlagen</a><br>
+	<br>
+	Für die Korrektur einer bestimmten Übersetzung diese bitte anklicken und den Menüpunkt &quot;Bearbeiten&quot; verwenden. Danach direkt im Formular die Korrektur eintragen und das Formular absenden. Der Änderungsvorschlag wird dann von anderen Beitragenden geprüft.</div></div><div class="bluebar"><div class="bluebar_right"><a href="javascript:scroll_up()">nach oben</a> | <a href="#legal">Impressum</a> | <a href="javascript:void(0);" onclick="adconsent('showGUI');">Cookie-Einstellungen</a></div>© dict.cc English-German dictionary 2025</div><div class="aftertable hide_print">Enthält Übersetzungen von der TU Chemnitz sowie aus Mr Honey's Business Dictionary (nur Englisch/Deutsch).<br>
+Links auf das Wörterbuch oder auch auf einzelne Übersetzungen sind immer herzlich willkommen!</div></div><div class="hidden-on-desktop" style="position:fixed; bottom:14px; right:14px; z-index:10; background-color:white; border:2px solid #999; border-radius:25px; padding:21px; background-image: url(/imgm/sprite_icons_darkmode_05.png?v=3); background-repeat: no-repeat; background-size: 50px 900px; background-position: -5px -54px;" onclick="getel('searchfield').focus();getel('searchfield').select();"></div></div>
+</div>
+
+<link rel="stylesheet" href="https://m.dict.cc/sprites.css?v=22">
+<script type="text/javascript">
+if (!navigator.userAgent.match(/iPhone/i) && document.getElementById("searchfield") && location.pathname.indexOf("/trainer/")==-1 && location.pathname.indexOf("/guidelines/")==-1 && location.pathname.indexOf("/shuffle/")==-1 && location.href.indexOf("c.dict.cc")==-1) {
+	document.getElementById("searchfield").focus();
+	document.getElementById("searchfield").select();
+}
+document.getElementById("searchfield").onclick = function() { autosug_ku(this.value, event); hide_menuview_layer(); }
+document.getElementById("searchfield").onkeyup = function() { autosug_ku(this.value, event); }
+document.getElementById("searchfield").onkeydown = function() { autosug_kd(event); }
+</script>
+</div>
+<script>var exec_time=18.53;</script>
+</body>
+</html>

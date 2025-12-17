@@ -1,0 +1,314 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="de-x-formal" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Fantasie – RDK Labor</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgRequestId":"a34547cb4c6dc45e7140e71f","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Fantasie","wgTitle":"Fantasie","wgCurRevisionId":88839,"wgRevisionId":88839,"wgArticleId":889,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Profane Ikonographie"],"wgPageContentLanguage":"de-formal","wgPageContentModel":"wikitext","wgRelevantPageName":"Fantasie","wgRelevantArticleId":889,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":
+!0,"wgVisualEditor":{"pageLanguageCode":"de-x-formal","pageLanguageDir":"ltr","pageVariantFallbacks":"de-formal"},"srfFilteredConfig":null,"wgEditSubmitButtonLabelPublish":!1};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready"};RLPAGEMODULES=["ext.smw.style","ext.smw.tooltips","smw.entityexaminer","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"de-formal"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=de-formal&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=de-formal&amp;modules=ext.srf.styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=de-formal&amp;modules=ext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=de-formal&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<link rel="stylesheet" href="/w/images/local/rdk_labor.css"/><link rel="stylesheet" href="/w/images/local/rdk_labor-anon.css"/><style>#mw-indicator-mw-helplink {display:none;}</style>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=de-formal&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0"/>
+<link rel="alternate" type="application/rdf+xml" title="Fantasie" href="/w/index.php?title=Spezial:RDF_exportieren/Fantasie&amp;xmlmime=rdf"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="RDK Labor (de-formal)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://www.rdklabor.de/w/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/de/"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr capitalize-all-nouns mw-hide-empty-elt ns-0 ns-subject page-Fantasie rootpage-Fantasie skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	<div id="mw-indicator-smw-entity-examiner" class="mw-indicator"><div class="smw-entity-examiner smw-indicator-vertical-bar-loader" data-subject="Fantasie#0##" data-dir="ltr" data-uselang="" title="Running an examiner in the background"></div></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="de-x-formal">Fantasie</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Aus RDK Labor</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Zur Navigation springen</a>
+		<a class="mw-jump-link" href="#searchInput">Zur Suche springen</a>
+		<div id="mw-content-text" lang="de-x-formal" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>englisch: <i>Imagination</i>; französisch: <i>Fantaisie</i>, <i>imagination</i>; italienisch: <i>Fantasia</i>.
+</p><p><br />
+<big>Hans-Ernst Mittig</big> (1974)
+</p><p>RDK VI, 1451–1461
+</p><p><br />
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/Datei:06-1451-1.jpg" class="image"><img alt="" src="/w/images/thumb/f/fa/06-1451-1.jpg/180px-06-1451-1.jpg" decoding="async" width="180" height="218" class="thumbimage" srcset="/w/images/thumb/f/fa/06-1451-1.jpg/270px-06-1451-1.jpg 1.5x, /w/images/thumb/f/fa/06-1451-1.jpg/360px-06-1451-1.jpg 2x" data-file-width="661" data-file-height="800" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Datei:06-1451-1.jpg" class="internal" title="vergrößern"></a></div>RDK VI, 1451, Abb. 1. Padua 1618.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/Datei:06-1453-1.jpg" class="image"><img alt="" src="/w/images/thumb/8/89/06-1453-1.jpg/180px-06-1453-1.jpg" decoding="async" width="180" height="247" class="thumbimage" srcset="/w/images/thumb/8/89/06-1453-1.jpg/270px-06-1453-1.jpg 1.5x, /w/images/thumb/8/89/06-1453-1.jpg/360px-06-1453-1.jpg 2x" data-file-width="583" data-file-height="800" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Datei:06-1453-1.jpg" class="internal" title="vergrößern"></a></div>RDK VI, 1453, Abb. 2. Nürnberg 1744, nach Frankfurt a. M. und Leipzig 1679.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/Datei:06-1455-1.jpg" class="image"><img alt="" src="/w/images/thumb/9/9f/06-1455-1.jpg/180px-06-1455-1.jpg" decoding="async" width="180" height="133" class="thumbimage" srcset="/w/images/thumb/9/9f/06-1455-1.jpg/270px-06-1455-1.jpg 1.5x, /w/images/thumb/9/9f/06-1455-1.jpg/360px-06-1455-1.jpg 2x" data-file-width="800" data-file-height="593" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Datei:06-1455-1.jpg" class="internal" title="vergrößern"></a></div>RDK VI, 1455, Abb. 3. Carlo Grandi, Perugia 1765.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/Datei:06-1457-1.jpg" class="image"><img alt="" src="/w/images/thumb/6/61/06-1457-1.jpg/180px-06-1457-1.jpg" decoding="async" width="180" height="306" class="thumbimage" srcset="/w/images/thumb/6/61/06-1457-1.jpg/270px-06-1457-1.jpg 1.5x, /w/images/thumb/6/61/06-1457-1.jpg/360px-06-1457-1.jpg 2x" data-file-width="471" data-file-height="800" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Datei:06-1457-1.jpg" class="internal" title="vergrößern"></a></div>RDK VI, 1457, Abb. 4. Hubert-Franç. Gravelot (Entw.) und Delongnait (Robert Delaunay?, Ausf.), Paris o. J. (um 1790&#160;?).</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/Datei:06-1457-2.jpg" class="image"><img alt="" src="/w/images/thumb/1/1a/06-1457-2.jpg/180px-06-1457-2.jpg" decoding="async" width="180" height="178" class="thumbimage" srcset="/w/images/thumb/1/1a/06-1457-2.jpg/270px-06-1457-2.jpg 1.5x, /w/images/thumb/1/1a/06-1457-2.jpg/360px-06-1457-2.jpg 2x" data-file-width="800" data-file-height="790" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Datei:06-1457-2.jpg" class="internal" title="vergrößern"></a></div>RDK VI, 1457, Abb. 5. E. T. A. Hoffmann, 1794.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/Datei:06-1459-1.jpg" class="image"><img alt="" src="/w/images/thumb/0/09/06-1459-1.jpg/180px-06-1459-1.jpg" decoding="async" width="180" height="193" class="thumbimage" srcset="/w/images/thumb/0/09/06-1459-1.jpg/270px-06-1459-1.jpg 1.5x, /w/images/thumb/0/09/06-1459-1.jpg/360px-06-1459-1.jpg 2x" data-file-width="745" data-file-height="800" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Datei:06-1459-1.jpg" class="internal" title="vergrößern"></a></div>RDK VI, 1459, Abb. 6. Ernst Julius Hähnel, 1840-45, Bonn.</div></div></div>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="de-x-formal" dir="ltr"><h2 id="mw-toc-heading">Inhaltsverzeichnis</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#I._Begriff"><span class="tocnumber">1</span> <span class="toctext">I. Begriff</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#II._Werkname"><span class="tocnumber">2</span> <span class="toctext">II. Werkname</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#III._Darstellungen"><span class="tocnumber">3</span> <span class="toctext">III. Darstellungen</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Zu_den_Abbildungen"><span class="tocnumber">4</span> <span class="toctext">Zu den Abbildungen</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Literatur"><span class="tocnumber">5</span> <span class="toctext">Literatur</span></a></li>
+</ul>
+</div>
+
+<h1><span class="mw-headline" id="I._Begriff">I. Begriff</span></h1>
+<p>F. (ϕαντασία, <i>imaginatio) </i>„bedeutet (ursprünglich) Vorstellung, Vorstellungskraft, dann (auch) Einbildungsvorstellung, Einbildungskraft nicht bloß im Sinne der reproduktiven Vorstellungstätigkeit, sondern in dem der gestaltenden, gegebenes Vorstellungsmaterial, Vorstellungselemente zu neuen, nicht gegebenen Gebilden anschaulich (nicht begrifflich) verarbeitenden, synthetischen Tätigkeit des Geistes ...“ <i>(Rud. Eisler, </i>Wb. der philos. Begriffe, Wien 1929<sup>4</sup>, S. 424; zur Begriffsgeschichte und für Lit.angaben s. <i>ebd. </i>S. 424–33; s. auch <i>Heinz Ladendorf, </i>Zur Frage der künstler. Phantasie, in: „Museion. Stud. aus K. und Gesch. für Otto H. Förster“, Köln 1960, bes. Anm. 90–93).
+</p><p>Zur Etymologie vgl. <i>Henry George Liddel </i>und <i>Rob. Scott, </i>A Greek-Engl. Lex., Oxford 1940<sup>9</sup>, S. 1915, zur Gleichsetzung des lat. Begriffs Imaginatio mit F. insbesondere Laur. Beyerlinck, Magnum Theatrum Vitae Humanae, Köln 1631, Bd. 4, S. 38 bis 43. Ins Deutsche wurde F. bzw. Imagination von Joh. Amos Comenius, Janua lingvarum ..., Hbg. 1638<sup>7</sup>, Kap. XXVII, mit <i>Einbildungskraft </i>übersetzt (die Übersetzung mit <i>Bildungskraft </i>durch Gg. Phil. Harsdörffer offenbar von geringerer Wirkung, vgl. <i>Hans Peter Herrmann, </i>Naturnachahmung und Einbildungskraft [= Ars poetica, Stud., 9], Bad Homburg v. d. H., Bln. und Zürich 1970, S. 86ff.).
+</p><p>Eine ausführliche Untersuchung der Begriffe Imaginatio und Phantasia in Antike und MA gibt <i>Murray Wright Bundy, </i>The Theory of Imagination in Classical and Mediaeval Thought, Univ. of Illinois Stud. in Language and Lit. 12, 1927, 183–471.
+</p><p>Die F. ist nicht nur auf Material in der Wirklichkeit angewiesen, sondern ihre Betätigung kann, von individuellen <i>(Sigmund Freud, </i>Der Dichter und das Phantasieren, in: Stud.-Ausg., Bd. 10, Ffm. 1969, S. 173f.) und mittelbar gesellschaftlichen (vgl. <i>Gg. Lukács, </i>Probleme der Ästhetik [= Werke Bd. 10], Neuwied und Bln. 1969, S. 285f., 294) Bedürfnissen ausgelöst, auf Veränderung dieser Wirklichkeit zielen, insbesondere auf gesellschaftlichen Fortschritt <i>(Ernst Bloch, </i>Das Prinzip Hoffnung, Ffm. 1969, S. 9, 106f., 226 u. a., mit vielen Hinweisen auf die Rolle der Kunst). Die F.-Tätigkeit ist Grundelement der Arbeit, insbesondere der künstlerischen <i>(Karl Marx, </i>Das Kapital, Bd. 1, Ausg. Bln. 1969, S. 193; <i>Jos. Clemens Kreibig, </i>Beitr. zur Psychologie des K.schaffens, Zs. für Ästhetik und allg. Kw. 4, 1909, 532–58; <i>Theod. W. Adorno, </i>Ästhetische Theorie, Ffm. 1970, S. 258–60; als Beispiel der Äußerungen eines Künstlers vgl. Mantegnas Brief an Isabella Gonzaga 1506: <i>Rich. Foerster, </i>Stud. zu M. ..., Jb. d. preuß. K.slgn. 22, 1901, 172f.). Insofern drückt jedes Kunstwerk F. aus. Wo dies ostentativ geschieht, kann „F.“ Werkname werden.
+</p>
+<h1><span class="mw-headline" id="II._Werkname">II. Werkname</span></h1>
+<p>Im Italienischen und davon abgeleitet im Französischen kommt <i>Fantasia </i>bzw. <i>Fantaisie </i>als Synonym für <a href="/wiki/Capriccio" title="Capriccio">Capriccio</a> (RDK III 329–35) vor und wurde in dieser Bedeutung zum Namen von Werkgattungen und zum Titel einzelner Werke.
+</p><p>„Belle e capricciose fantasie“ nannte Vasari perspektivische Architekturdarstellungen des Jacopo Barozzi da Vignola (V<i>asari-Milanesi, </i>Bd. 7, S. 105). Filippo Baldinucci charakterisierte diese Werkgattung: „I nostri Artifici dicono far di fantasia o di capriccio, quando senza esemplo vanno operando di propria invenzione, ed opponesi al ricavare o fare dal naturale“ (Vocabulario Toscano dell’arte del disegno, Florenz 1681, S. 59). Eine ähnliche Definition findet sich im Text zu „Fantaisie“ der franz. Ripa-Ausg. Amst. 1698 [4, S. 539], wo unter diesem Lemma eine – allerdings weibliche – Personifikation mit den Attributen von „Capriccio“ beschrieben und abgebildet wird. Die Ripa-Ausg. von Cornelis Danckerts, Iconologia of uytbeeldinge des Verstands, Amst. o. J., S. 57, Abb. 229 neben S. 42, beschreibt und illustriert die Personifikation von „Fantasyen, vreemde Invallen“ ebenfalls durch die herkömmliche Personifikation von „Capriccio“.
+</p><p>Seit dem 18. Jh. läßt sich „F.“, besonders in der franz. Wortform, als Titel graphischer Folgen belegen (vgl. <i>Kat. Orn. Bln., </i>Nr. 397, 409, 411, 414).
+</p><p>Ein Einzelfall scheint die Benennung des Lustschlosses und Landschaftsgartens „Fantaisie“ bei Bayreuth durch die Hzgn. Elisabeth Friederike Sophie von Württemberg zu sein, die die unvollendete Anlage (Grundstein 1758) 1763 übernahm und bis 1765 fertigstellen ließ.
+</p><p>Die neuere Kunstgeschichtsschreibung verwendet den Begriff gelegentlich im übertragenen Sinn. Z. B. werden als „architektonische F.“ Werke bezeichnet, die unkonventionelle Baugedanken ohne Rücksicht auf gegenwärtige Realisierbarkeit vortragen.
+</p><p>Als Gattungsbezeichnung in der Musik kommt F. seit dem 16. Jh. vor; vgl. <i>Die Musik in Gesch. und</i> <i>Gegenwart, </i>Bd. 3, Kassel und Basel 1954, Sp. 1762 bis 1800; s. a. RDK III 330f. Seltener erscheint das Wort als Titel einzelner literarischer Werke (z. B. Schiller, Phantasie an Laura, 1782), manchmal solcher, die Eindrücke aus der bildenden Kunst verarbeiten (E. T. A. Hoffmann, Phantasiestücke in Callots Manier, 1814ff.; Wilh. Hauff, Phantasien im Bremer Ratskeller, 1826–27; vgl. <i>Reinhold Grimm, </i>Die Formbezeichnung „Capriccio“ in der dt. Lit. des 19. Jh., in: <i>Heinz Otto Burger </i>[Hrsg.], Stud. zur Triviallit. [= Stud. zur Philos. und Lit. des 19. Jh., 1], Ffm. 1968, S. 101–116).
+</p>
+<h1><span class="mw-headline" id="III._Darstellungen">III. Darstellungen</span></h1>
+<p>Der Begriff F. wurde bis zum 19. J h. im allgemeinen durch die von Ripa beschriebene Personifikation veranschaulicht.
+</p><p>Älter als die Darstellung der F. ist ihre Behandlung in Künstlertraktaten. Der Hinweis auf die F.-Tätigkeit diente Cennini und Leonardo als Argument für den Rang der Malerei <i>(Jean Paul Richter, </i>The Literary Works of Leonardo da Vinci, 1. Bd., New York 1970<sup>3</sup>, S. 52f. und 57), mittelbar für die soziale Geltung des bildenden Künstlers <i>(ebd. </i>S. 14).
+</p><p>Darstellung und Beschreibung der F. findet sich erstmals bei Ripa im Nachtrag der Ausg. Padua 1618 [1, S. 602-04]. Er entwarf das Bild einer „Imaginatione“, die – unter Berufung auf Aristoteles, De anima III, 3, 428 a – zunächst als eine reproduktive menschliche Fähigkeit verstanden wurde.
+</p><p>Sie wird dargestellt als eine stehende Frau in vielfarbigem Gewand, das – so Ripa – die Vielfalt der äußeren Erscheinungen bedeutet, die auf die F. einwirken. Ihr struppiges Haar und die Flügel an den Schläfen zeigen die „presta anzi subita operatione“, mit der die F. ununterbrochen arbeitet. Sie trägt eine Krone mit vielen kleinen Figuren, die, außer durch einen medizinischen Exkurs, als Darstellung der Vielfalt der Fantasmen interpretiert wird. Die über der Brust gekreuzten Hände und der nach oben gerichtete Blick sollen veranschaulichen, daß die F. immer in Tätigkeit ist, oft auch im Schlaf, wofür Ripa histor. Beispiele nennt <i>(Abb. 1; </i>auf den Abbildungen einiger späterer Ausgaben weist statt des Blicks die Rechte nach oben, z. B. 1644: [2] 1. Teil, S. 91).
+</p><p>Dieses Bild wurde durch Ripa-Ausgaben bis M. 18. Jh. nahezu unverändert tradiert (Ausnahme: Padua 1630, S. 328, wo fälschlich statt des „Imaginatio“-Holzschnitts der zu „Intelletto“ gehörende wiederholt ist); deutsche Ausgaben: Gottfried Rogg, Encyclopaedia oder Schau-Bühne Curieuser Vorstellungen ..., Augsburg 1726, S. 10, Kupfer I, 8; Christ. Weigel, Viel nützende und Erfindungen reichende Sinnbild-Kunst ..., Nürnberg o. J., S. 25, Taf. XIII.
+</p><p>Bei Hertel-Ripa ([6] Taf. 185: „Imaginatio“ – „Einbildung“) bleiben von den Attributen nur die kleinen, nun am Nacken angewachsenen Flügel übrig. Statt Figurenkrone trägt die F. eine Feder im Haar. Ein Bienenkorb (?) im Hintergrund und ein Page, der einen Spiegel hält, in dem die F. sich sieht, sind neue, bisher nicht begründbare Zutaten. Ebenso neu ist der zugefügte Fatto: die Schilderung eines tödliche Furcht auslösenden Traumbildes.
+</p><p>Orlandi-Ripa ([7] Bd. 3, Perugia 1765, S. 251f.) behielt zu „Immaginazione“ den Ripa-Text von 1618 nahezu unverändert, jedoch ohne Abbildung, bei. Im gleichen Band (S. 12– 18) ist außerdem eine „Fantasia“ beschrieben, die nun als produktive Fähigkeit (des Poeten) gilt (entsprechend der Unterscheidung zwischen „Einbildungskraft“ und „Dichtungskraft“ bei Joh. Gg. Sulzer [9], Teil 1, S. 683–85, bzw. Teil 2, S. 10–15; „Einbildungskraft“ und „F.“ bei Le Brun, Handwb. der Seelenmahlerei, Lpz. 1802, S. 168, 169f.).
+</p><p>Orlandi schildert die F. als eine kräftige Frau mit lebhaften Augen, die in einem Theaterprospekt thront, neben sich einen Luchs. Ein Sklave hält die Figurenkrone über ihrem Kopf und reicht ihr einen aus Schemen, darunter Chimäre und Sphinx, geballten Klumpen, den sie mit der Linken zurückweist. In der Rechten hält sie ein Zepter mit einem Auge an der Spitze. Außer an den Schläfen hat sie nun auch Flügel an den Schultern, Handgelenken und Füßen. Die Schemen weisen hin auf die durch die F. dargebotenen „cose erronee, incomposte e strane“, die Figürchen der Krone im Gegensatz dazu auf die „rette idee“. Die Fähigkeit, das Richtige zu wählen, ist durch das Zepter – ein Hinweis auf „Intelletto“ – ins Bild gebracht <i>(Abb. 3).</i>
+</p><p>Als „Fatto storico profano“ führt Orlandi eine schreckenerregende Erscheinung an, die Dion von Syrakus begegnete (Plutarch, Vitae, Dion 55), als „Fatto favoloso“ Kg. Athamas von Theben, der im Wahnsinn in seiner Gattin Ino und seinen Kindern Löwen sah (Ovid, Metam. IV, 511ff.).
+</p><p>Die von Orlandi formulierte Variante der Ripa-Personifikation wurde bis ins 19. Jh. weiter benutzt, wenn auch variiert. Nur vereinzelt begegnet sie außerhalb der Ikonologien.
+</p><p>In der gegen 1790 in Paris veröffentlichten „Iconologie“ von H. F. Gravelot und Ch. N. Cochin wird die Interpretation der F. als einer besonders dem Künstler eigenen Fähigkeit im Bild sichtbar ([8] Bd. 3, S. 1, Kupfer vor S. 1). Die „Imagination“ – eine junge Frau mit Flügeln am Kopf und mit Figurenkrone – hält Schreibtafel und Feder, um die Bilder der F. aufzeichnen zu können. Neben ihr liegen die Attribute des Malers und des Dichters, Palette und Leier. Die bei Orlandi zum Klumpen geballten Schemen haben sich nun gesondert und stehen als Kentaur, Sirene und Harpyen im Bildhintergrund <i>(Abb. 4).</i>
+</p><p>Diesem Bild entspricht bis ins einzelne der 1830 von Adam Breysig zu „Einbildungskraft“ gegebene Text [10, S. 191]. Nur werden statt der Figurenkrone Chimären beschrieben, die auf dem Kopf der F. tanzen. Zu Einbildung (ebd.) schildert Breysig u. a. die Ripa-Personifikation. Als Attribute der „Phantasie“ (ebd. S. 654) bzw. „F.“ (ebd. S. 231) werden Pegasus, Chimäre (für die „ungezügelte“ F.) u. a. genannt.
+</p><p>Eine andere Variante der Ripa-Tradition gibt Honoré Lacombe de Prezel, Dict. iconologique, Paris 1779, S. 21: die „Imagination“ wird durch eine Nymphe mit Blumengirlanden, kristallenem Zepter und einer bunten Federkrone verkörpert.
+</p><p>Auf einer „Erscheinung der F.“ betitelten Gouache (1794, heute verschollen) von E. T. A. Hoffmann tritt die „Göttin Phantasie“ (so Hoffmann selbst) dem Dichter gegenüber <i>(Abb. 5; Rob. Mühlher, </i>Jb. des khist. Inst. Graz 1, 1965, 91f., Taf. 147 Abb. 4). Sie trägt ein weites Gewand, die Flügel am Kopf sind mit der Krone verschmolzen; kleine Figuren stehen nicht mehr auf der Krone, sondern scheinen sie zu umschwärmen. Die Umdeutung der übrigen Motive hat autobiographischen Bezug: die F. läßt den Dichter in einem Spiegel statt des eigenen Abbilds (vgl. Hertel-Ripa) das Bild zweier Freundinnen sehen. Fratzenhafte Gestalten im Gefolge der F., unter denen Verwandte Hoffmanns zu erkennen sein sollen, nehmen die Stelle der schemenhaften Fabeltiere ein, die Orlandi dem Bild der F. beigefügt hatte.
+</p><p>Außerhalb der geschilderten Tradition steht die Wiedergabe der F. auf dem Titelkupfer zu Joh. Kunckel (von Löwenstern), Ars vitraria experimentalis..., Ffm. und Lpz. 1679 (vgl. <i>Abb. 2, </i>mit weiteren erklärenden Beischriften, aus der Ausg. Nürnberg 1743: <i>Aukt. Kat. </i>Venator, Köln, 2.–4.10.1973 [= Aukt. 41], S. 57 Nr. 705, Taf. 8). Aus dem Bildzusammenhang geht hervor, daß F. in negativer Bewertung, als Abbild von „speculationes“, verstanden wird.
+</p><p>Die Darstellung ist antithetisch: Kunckel lobt sein Werk als Ergebnis der Erfahrung und verurteilt „unbegründete Dinge“ in den Werken von Giov. Batt. Porta und Gabr. Falloppio (vgl. Bl. Bii<sup>v</sup>), „Lux Veritatis“ gegen „Tenebrae incertitudinis“. Auf der Nachtseite sitzt die modisch gekleidete F. zu Füßen des Unverstandes (Amentia) und bläst in als Windsack gebildete leere Brüste in dessen Schoß. Zugleich taucht sie die Feder in ein von Amentia gehaltenes Tintenfaß, um die Namen derer, die „errores“ verbreiten, in das Buch auf ihren Knien zu schreiben. F. zerrt am Kleid der Amentia (1743: „Vanitas“) und „Labor vanus“, ein Knabe, zwickt sie in den Fuß. In einer Berglandschaft im Hintergrund sieht man „Temeritas“ als eselohrigen Pegasus. Auf der Tagseite findet leder dieser Begriffe seine positive Entsprechung. Zwei Embleme verknüpfen das in allgemeiner Form Dargestellte mit dem speziellen Problem des Lehrbuches.
+</p><p>Erst im 19. Jh. finden sich Darstellungen der F. in Bildprogrammen öffentlicher Kunstwerke. Die F. wurde als eine den Künstler auszeichnende Fähigkeit dargestellt. Insbesondere als Denkmalsockelmotiv gehörte sie zu den bürgerlichen Gegenbildern der Herrschertugenden an dynastischen Denkmälern. Die Darstellungen weichen nunmehr von der Ripa-Tradition ab.
+</p><p>Unter den 1827–38 von Peter von Cornelius entworfenen, auf die Geschichte der Malerei bezogenen Fresken in den Loggien der A. Pin. in München (1944 zerst.) waren zwei szenische Allegorien, die in der „Beschreibung ...“ von 1840 [11] als Darstellungen der F. bezeichnet werden (anders die 1875 von <i>Förster </i>veröffentlichte Erklärung [12]).
+</p><p>So bedeutet nach [11], S. 22, die „Bacchische Szene“ in der Rubens-Loggia die „sinnlich regsame Phantasie“ des Rubens (nach <i>Förster: </i>„Sinnengenuß“: [12] Taf. 28, S. 54). Die Darstellung des Pegasus in der Lünette „Apotheose der Kunst“ wurde 1840 als „geflügelte Phantasie“ bezeichnet ([11] S. 38; vgl. auch A. Breysig [10], S. 231, wo Pegasus der F. zugeordnet wird; nach <i>Förster: </i>„Flügelroß der Poesie“: [12] Taf. 46, S. 41). Bei der Interpretation der „Jakobsleiter“ in der Masaccio-Loggia nannte erst Försters Text den Begriff F. ([12] Taf. 12, S. 27; anders der Text von 1840: [11] S. 9f.).
+</p><p>Ein anderes Motiv der Pinakotheks-Fresken wurde grundlegend für eine neue personifizierende Darstellung der F., deren Tradition bis ans E. 19. Jh. reicht. In der Michelangelo- und der Rubens-Loggia ist abgebildet „die Begeisterung; unter dem Gleichnisse einer weiblichen Gestalt mit Sternenkranz, Lyra und Fackel. Eine geflügelte Sphinx (Sinnbild des göttlichen Tiefsinns) trägt sie empor, begleitet von einem Genius mit der Lorbeerkrone“ ([11] S. 18; [12] Taf. 23). Das gleiche Grundmotiv findet sich wenig später mit der in zeitgenössischen Quellen zu belegenden Bezeichnung „F.“: Ernst Julius Hähneis Sockelrelief an der Vorderseite des Beethoven-Denkmals in Bonn, 1840–45 <i>(Abb.</i> <i>6), </i>und Carl Kundmanns Sockelrelief an der Vorderseite des Schubert-Denkmals in Wien, 1867–72, stellen die F. als begeistert aufblickende, liebreizende, lorbeerbekränzte Harfen- oder Leierspielerin dar, die auf einer lauschenden Sphinx reitet. Anton Paul Wagner plante 1874 für das Wiener Beethoven-Denkmal „die Phantasie ... mit Leier und Fackel auf einer menschenköpfigen Sphinx“ als Sockelfigur (ähnlich nochmals im Entwurf 1888 für das Wiener Mozart-Denkmal: [13] S. 28–30, Abb. 18f., 24f.).
+</p><p>Eine sonst nicht nachweisbare Bildformulierung fand Moritz von Schwind in einer Treppenhaus-Lünette der Kunsthalle Karlsruhe; er stellte die F. als halbbekleidete, kniende Frau mit Schmetterlingsflügeln dar, die aufblickend einen Adler mit Girlanden bekränzt (Entw. 1840, Ausf. 1843–44: <i>Otto Weigmann, </i>M. v. Sch. [= Klass. der K., Bd. 9], Stg. und Lpz. 1906, S. 210).
+</p><p>Die traditionellen Attribute Lorbeerkranz und Leier gab Hähnel seiner Standfigur der F., die auch spätere Nachfolge fand, in der Loggia der Wiener Hofoper als Kennzeichen (Modell 1872 vorhanden: <i>Carl Clauß, </i>Die Dresdner Bildhauerschule, Zs. f. bild. K. 7, 1872, 191; <i>Sculpturen an dem Kgl. Mus. und dem alten Kgl. Hoftheater zu Dresden, ferner Denkmäler, Statuen, Entwürfe, Reliefs etc. von Ernst Jul. Hähnel, </i>Dresden 1882, Nr. 87).
+</p><p>Ohne nähere Begründung deutete <i>Rave </i>die sechs 1832 von Schinkel entworfenen Tonreliefs am rechten Portal der Berliner Bauakademie als „Sinnbilder der Tugenden des Baumeisters“ und sah in der unteren linken Platte, auf der ein Adler einen Harfe spielenden Jüngling emporträgt, das „Sinnbild der himmlischen Phantasie“ <i>(Paul Ortwin R., </i>Genius der Bauk., Bln. o. J. [1942], Taf. 1, S. 45, 79f.). Ihre Verkörperung durch eine männliche Figur wäre eine Ausnahme.
+</p>
+<h1><span class="mw-headline" id="Zu_den_Abbildungen">Zu den Abbildungen</span></h1>
+<p>1. Personifikation der Imaginatione. Holzschnitt (9,7 × 8,0 cm) aus Ripa [1], S. 603. 1618. Nach dem Original.
+</p><p>2. F. in einem Begriffssystem. Titelkupfer in Joh. Kunckel, Ars vitraria experimentalis ..., Nürnberg 1744. Nach dem Original.
+</p><p>3. Carlo Grandi, Personifikation der F. Kupferstich (9,6 × 12,5 cm) aus Orlandi-Ripa Bd. 3 S. 12. 1765. Nach dem Original.
+</p><p>4. Hubert-Franç. Gravelot (Entw.) und Delongnait (Rob. Delaunay?, Ausf.), Personifikation der Imagination. Kupferstich (10,9 × 5,9 cm) aus Gravelot und Cochin [8], Bd. 3, Kupfer vor S. 1. Vor 1790. Nach dem Original.
+</p><p>5. E. T. A. Hoffmann, Erscheinung der F.Gouache, Maße und Aufbewahrungsort unbekannt. 1794. Nach <i>R. Mühlher </i>a.a.O. (Sp. 1457).
+</p><p>6. Ernst Julius Hähnel, Personifikation der F. Sockelrelief am Beethoven-Denkmal in Bonn. Bronze, ca. 80 × 80 cm. 1840–45. Fot. L.-Konservator Rheinland, Bonn, Neg.-Nr. 30 838.
+</p>
+<h1><span class="mw-headline" id="Literatur">Literatur</span></h1>
+<p>1. Cesare Ripa, Nova Iconologia, Padua 1618. – 2. Jean Baudoin, Iconologie ou, Explication nouvelle de plusieurs images, emblemes, et autres figures Hyerogliphiques ..., Paris 1644. – 3. Giov. Zaratino Castellini (Hrsg.), Iconologia di C. Ripa, Venedig 1645. – 4. C. Ripa, Iconologie ou la science des emblèmes, Amsterdam 1698. – 5. Hubert Korneliszoon Poot, Het Groot Natuur- en zedekundigh Werelttoneel of Woordenboek ..., Teil 2, Delft 1743, S. 57f. („Inbeelding“) und S. 60 („Invallen. [Vreemde] Fantazyen“). – 6. Hertel-Ripa; Neudruck ed. <i>Ilse Wirth, </i>Mchn. 1972. – 7. Orlandi-Ripa. – 8. Hubert-Franç. Bourguignon gen. Gravelot und Charles Nic. Cochin, Iconologie par figures, Paris o. J. (um 1790, Neudruck Genf 1972). – 9. Gg. Sulzer, Allgemeine Theorie der schönen Künste, Lpz. 1792<sup>2</sup>. – 10. Adam Breysig, Wörterbuch der Bildersprache, Lpz. 1830.– 11. Beschreibung der Fresko-Malereien in den Loggien der königl. Pinakothek zu München, Mchn. 1840. – 12. Peter von Cornelius, Entwürfe zu den kunstgeschichtlichen Fresken in den Loggien der Kgl. Pinakothek zu München, gestochen von H. Merz, mit erklärendem Text von <i>Ernst Förster, </i>Lpz. 1875. – 13. <i>Hans-Ernst Mittig, </i>Das Wiener Beethoven-Denkmal von Zumbusch und die Wende der Beethoven-Darstellung, Alte und moderne K. 14, H. 104, 1969, 25–33.
+</p><p>Hinweise gab <i>Ingrid Haug, </i>Mchn.
+</p><p><br />
+</p>
+<div id="license-info" class="plainlinks catlinks" style="display: block;">
+<p><span class="noprint" style="float: right">
+<a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by-nc-nd/3.0/de/"><img src="https://www.rdklabor.de/w/images/local/cc-by-nc-nd.png" alt="cc-by-nc-nd.png" /></a></span>
+</p><p>Dieser Text wird veröffentlicht gemäß der "Creative Commons Namensnennung - Nicht-kommerziell - Keine Bearbeitung 3.0 Deutschland Lizenz".
+Eine Nachnutzung ist für nichtkommerzielle Zwecke in unveränderter Form
+unter Angabe des Autors bzw. der Autorin und der Quelle gemäß dem obigen
+Zitationsvermerk zulässig. Bitte beachten Sie dazu die detaillierten
+Angaben unter <a rel="nofollow" class="external free" href="http://creativecommons.org/licenses/by-nc-nd/3.0/de/">http://creativecommons.org/licenses/by-nc-nd/3.0/de/</a>.
+</p>
+</div>
+<!-- 
+NewPP limit report
+Cached time: 20241120191437
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+[SMW] In‐text annotation parser time: 0.028 seconds
+CPU time usage: 0.045 seconds
+Real time usage: 0.050 seconds
+Preprocessor visited node count: 155/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key rdk_lab:pcache:idhash:889-0!canonical and timestamp 20241120191437 and revision id 88839
+ -->
+</div></div><div class="printfooter">Abgerufen von „<a dir="ltr" href="https://www.rdklabor.de/w/index.php?title=Fantasie&amp;oldid=88839">https://www.rdklabor.de/w/index.php?title=Fantasie&amp;oldid=88839</a>“</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Spezial:Kategorien" title="Spezial:Kategorien">Kategorie</a>: <ul><li><a href="/wiki/Kategorie:Profane_Ikonographie" title="Kategorie:Profane Ikonographie">Profane Ikonographie</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigationsmenü</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Meine Werkzeuge</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Fantasie" title="Sich anzumelden wird gerne gesehen, ist jedoch nicht zwingend erforderlich. [o]" accesskey="o">Anmelden</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namensräume</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Fantasie" title="Seiteninhalt anzeigen [c]" accesskey="c">Artikel</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Varianten</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu-empty emptyPortlet vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Ansichten</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Mehr</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Suche</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="RDK Labor durchsuchen" title="RDK Labor durchsuchen [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Spezial:Suche">
+			<input type="submit" name="fulltext" value="Suchen" title="Suche nach Seiten, die diesen Text enthalten" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Seite" title="Gehe direkt zu der Seite mit genau diesem Namen, falls sie vorhanden ist." id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Hauptseite" class="mw-wiki-logo" href="/wiki/Hauptseite"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Hauptseite" title="Besuchen Sie die Hauptseite [z]" accesskey="z">Hauptseite</a></li><li id="n-Artikel"><a href="/wiki/Spezial:Alle_Seiten">Artikel</a></li><li id="n-Suche"><a href="/wiki/Spezial:Suche">Suche</a></li><li id="n-Abk.C3.BCrzungen"><a href="/wiki/RDK_Labor:Abk%C3%BCrzungsverzeichnis">Abkürzungen</a></li><li id="n-Kategorien"><a href="/wiki/RDK_Labor:Kategorien">Kategorien</a></li><li id="n-Publizieren"><a href="/wiki/RDK_Labor:Publizieren">Publizieren</a></li><li id="n-Quellen-und-Materialien"><a href="/wiki/RDK_Labor:Quellen_und_Materialien">Quellen und Materialien</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Werkzeuge</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Fantasie" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j">Links auf diese Seite</a></li><li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Fantasie" rel="nofollow" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li><li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Druckansicht dieser Seite [p]" accesskey="p">Druckversion</a></li><li id="t-permalink"><a href="/w/index.php?title=Fantasie&amp;oldid=88839" title="Dauerhafter Link zu dieser Seitenversion">Permanenter Link</a></li><li id="t-info"><a href="/w/index.php?title=Fantasie&amp;action=info" title="Weitere Informationen über diese Seite">Seiten­informationen</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> </li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-disclaimer"><a href="/wiki/RDK_Labor:Impressum_%26_Datenschutz" title="RDK Labor:Impressum &amp; Datenschutz">Impressum &amp; Datenschutz</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-nc-nd/3.0/de/"><img src="/w/images/local/cc-by-nc-nd.png" alt="Creative Commons Namensnennung - Nicht-kommerziell - Keine Bearbeitung 3.0 Deutschland" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAfCAMAAABUFvrSAAACJVBMVEXe3t62trbLy8vGxsbAwMDX19e6urqsrKxHcEzQ0NC2tratra2oqKixsbHd3eDFxcXe3t7U1NTa2trX19fQ0NDV1dWNjY2dnZ2UlJSUlJTS0tKUlJSWlpbR0dGenp79/f38/Pz+/v7t7e3v7+/u7u7s7Oz19fX29vb6+vr7+/vz8/Pz8/P4+fnw8PD39/gWTq/09PX6+vktX7b/sg8XT7F6mc/f5OwhVrNvkMthhsfT2+j7rQ/M1eZqjcmFotPs7e9Cb722xuFResK/zOObstnu7/Grvd3M1+mNqNY6aLoaUbEaUbZWfsTk6fE2Zrnp7O8bTq0kWLQuYcpcg8Xh5/Byk83a4eukud1/nM+6yeQkWcGwwuDxnRQyYrigttvI0+gpW7XGyttLdsBni8geVLo0Z9XlkCPb4u+QqtcfVLLo7PNHcr73phFGX6HsmBnpkxg6bNwnXcbX3er19vnr7/SVrdhuhLl+j70vVqY6Xqv0oxJVcbQhV76DjKTz9ffQ2evE0OZAbbzu7/PS1uFufrDnrGgpSZjy8/SQnMFddrKuekXSiCsgTKRaaZHejy9yang3VptNaqspWbnmliy3j2/m6OzT3e7x8fL4+v3p6uwaN2re0cifqLiLiZWYhYGYb0xXYn+5g0xwiMKYpc2BcHZmW2srRXpGWIhecKfilz4+WID2+PyosMywqbGqss1aVnLZq33p1sGklZqrp7dkfr7CpY9yg59Ud6QZAAAAH3RSTlPfBN/f39/f2wDf39vV3/7N2rrEz5D5c8ONuHaPuXXDImoxqwAABO1JREFUSMe1kQdz01gQgBXaBS4w9OtHwMFSdPKTUNxkW+61xN2Je4tLHJNOGukkAUINJTzaUIbO9fr7TpLtS44DZiC5b6Sn3dW+TysJaWz4cv9eZFPZu/+bhkakYR88WqP59u3vjxzdDCT7GpCD4qNH3sEGzOhB5MCR/4PmA8j25uZ33t0A23lxff5hZTIzOrz2Ph8qK936l7i1tT7hk8DAoHNsbeLWKjPdQcZ+qvX9tHMNXca1XBDXHtL6x2Bh0HWtuXUo8oTgC1gVpcdsdpew92PUYtjwzFq+E9mJYfXxx1x5l2/l5Vhy0DW6TuyQCZcR2hnswXJM0h+203471u5WKMIE5mDpspIIO8sZTMZiIbczY6+JCaI+/sJZ38qjP28+nQjkx/mcqGJ26rW3iKg/fYphCL1jNk5WbqXI0nBnu00RJ2j9bNRp6MmFS0SYIXLuUlQ5w22qizHr5MTyy2u/3XxVvHHlwtWVa/xTCQIIlEaMzrgswzA5P9BrAciYASqNoiNdjL8b0GYAHN3AGAEgzPSQc9UtYCeyBQAMO2G9PhhzXfp9qdifSCT6Lj788QQnrvWEuNPI2um0LW0D+m4A6E4AnIZOeq7ksQuJvi6eUXRW+8EWXsxNPhkYGJiSXr7Rd1qtVp9MXHkgIurzAkdFxjrj7cmKbN4K5v8RGxT2sJMTpwBflNHhUJgBdoUylzy3TuwIDBRi0hf9p9VtbW3qk30X7q2Je1IybZq7mLVWFKTSADXPoqi9AzVorda0kKTS6KkRbSgaR1GT1h5CObYiW1GU27yc5z6F9Fn/yTYedeLi9AIA6AbgxGIxAMPZcZeUHH9cFavVfY97FaNA/DbazRZVV89/61at2BTlg1JXiFtrYoBmRyd7p6/UP0XxaSDmy4pt0jmuh8qx6wQ2MmRz18TaJCUWO9xisUVhMMsoZZDiGHLLuXUbso2iatP/1HvhYu3n3bh6Pe/LUjZSj1NUJ8lSlNwahRRlMRjmyFDICikVn8+SacomdbZTVj+0mQSxweS1WqpiHK/Ncubs858f9idOJ/qKS1cv+RbFuIbMmHEvTbO4QeF25CxyD62nSbmJ1MUzRrpiwR0RPBJMpnCGxWVGXBn8TkarNGQHjuPrxOeWY4GY9FmxWHy19Gvv+ayYF6f8oYi7i8U93bjFkYokvbhWEFu8Og2ZxrUe3NMpc3vLhqqYpVV4XbwDQkpgoVwYKOR9N5d+eXB5vJevQA0pD7oVqi4WOj16vX6EYSA08WKvyeOZJw1cQ6rsnXOa/RYoM0Kls0zLuVoHhHAHL8YFXkwVCoE8uXhvMVCY8mW5Ci8eKkcgJ9azOl0UajNDFiUpj5JeloEqTgwd/iCUJP0sFMSejkpO96b4zl1fPuYiyd6Vs4GBmHSsJoYmLy/WeBTlis5rlJYrgjhe1s+XOXGEtHJOMl4VB2EHLauKdyG7JBLIc//uslRKkhOrcGJqyiU9z5UkOpVOwiGXSyQizRAfqlRc7Y5KJFnV6FReiWSV7xAWeQd/SOSq6qY18eVHq4vjlyazEJ73ScmJPVxJVKdF9MFwYpFIEL+ehvDOcSH8YXRsAa4XfwS7kd0tLfw7Sp7fl7xJywbYjTTVotfTb+849lEcb0K+2lMN/5o+tons+Rxp+PrQ8U3n0BcNSGPj4W+bPuX5ZLNo+uxwY+PfoLJHX1KXgyMAAAAASUVORK5CYII=" alt="Powered by Semantic MediaWiki" class="smw-footer" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-logosico"><a href="http://www.zikg.eu/"><img src="/w/images/local/zi_logo.svg" alt="Zentralinstitut für Kunstgeschichte in München" width="88" height="31" loading="lazy"/></a><a href="http://www.iws.th-koeln.de/"><img src="/w/images/local/fh_logo.png" alt="Institut für Informationswissenschaft der TH Köln" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0.028},"limitreport":{"cputime":"0.045","walltime":"0.050","ppvisitednodes":{"value":155,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20241120191437","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":128});});</script></body><!-- Cached 20241120191437 -->
+</html>

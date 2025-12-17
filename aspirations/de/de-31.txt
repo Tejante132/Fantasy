@@ -1,0 +1,196 @@
+<br><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+	<title>Fantasie C-Dur, op. 15 D 760 | Kammermusikführer - Villa Musica Rheinland-Pfalz</title>
+	<link rel="home" href="https://www.kammermusikfuehrer.de/" />
+
+	<link rel="alternate" type="application/atom+xml" title="Atom-Feed" href="https://www.kammermusikfuehrer.de/atom/?section=werke" />
+	<link rel="alternate" type="application/rss+xml" title="RSS-Feed" href="https://www.kammermusikfuehrer.de/rss/?section=werke" />
+
+	<link rel="stylesheet" href="/vm.css" type="text/css" media="screen" />	
+
+<!--[if IE]>
+<link rel="stylesheet" href="https://www.kammermusikfuehrer.de/css.php?n=default&amp;t=default" type="text/css" media="screen" />
+<![endif]-->
+<!--[if IE 6]>
+<link rel="stylesheet" href="https://www.kammermusikfuehrer.de/css.php?n=default&amp;t=default" type="text/css" media="screen" />
+<![endif]-->
+
+<link rel="stylesheet" href="https://www.kammermusikfuehrer.de/css.php?n=default&amp;t=default" type="text/css" media="print" />
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<script type="text/javascript" charset="utf-8">
+
+function shophinweis(){
+ nix = window.open('/shophinweis.html','shophinweis','width=300,height=200,resizable=no,scrollbars=no,toolbar=no,location=no,menubar=no,status=no')
+ return true;
+}
+	
+</script>
+<script type="text/javascript">
+var gaProperty = 'UA-5054882-9';
+var disableStr = 'ga-disable-' + gaProperty;
+if (document.cookie.indexOf(disableStr + '=true') > -1) {
+  window[disableStr] = true;
+}
+function gaOptout() {
+  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+  window[disableStr] = true;
+}
+  
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-5054882-9', 'kammermusikfuehrer.de');
+ga('set', 'anonymizeIp', true);
+ga('send', 'pageview');
+</script>
+
+</head>
+
+<body id="werke">
+
+<div id="kasten">
+
+
+	<div id="menuespalte">
+<ul>
+  <li><a href="/">Home</a></li>
+  <li><a href="/komponist">Komponist</a></li>
+  <li><a href="/besetzung">Besetzung</a></li>
+  <li><a href="/werksuche">Werke</a></li>
+  <li><a href="/kontakt">Kontakt</a></li>
+  <li><a href="/villamusica">Villa Musica</a></li>
+  <li><a href="/impressum">Impressum</a></li>
+  <li><a href="/datenschutz">Datenschutz</a></li>
+</ul>
+
+
+<form method="get" action="/">
+<input id="searchfield" type="text" name="q" value="Suchen" onclick="this.value='';" size="20" /><input id="searchbutton" type="submit" value="OK" />
+</form>
+
+
+<div id="menuecartmsg">
+<p>
+</p>
+</div>
+	</div><!-- /menuespalte -->
+
+
+	<div id="inhalt">
+	<img class="dekobild" src="/images/375.jpg" alt="" />
+	
+
+	<h2><a href="/komponist?name=Schubert&vname=Franz">Franz Schubert</a></h2>
+<div class="artikel volltext">
+
+  <h3>Fantasie C-Dur, op. 15 D&#160;760</h3>
+  <p>Fantasie C-Dur, op. 15 (D 760) „Wandererfantasie“</p>
+
+  <p style="margin-top: 2em;"><b>Besetzung: <a href="/besetzung/?c=&name=Schubert&vname=Franz"></a></b></p>
+
+  <p style="margin-top: 2em;"><b>Werkverzeichnisnummer:</b>  </p>
+
+
+  <h4>Satzbezeichnung</h4>
+
+<p>Allegro con fuoco, ma non troppo – Adagio – Presto – Allegro</p>
+
+
+<h4>Erläuterung</h4>
+
+<p>Franz Schubert ist Zeit seines Lebens gewandert. Obwohl er nur von einer seiner sommerlichen Wanderungen eine lange Reisebeschreibung für seine Eltern verfasst hat – anno 1825 aus dem Salzkammergut –, kann man sich die Intensität seines Naturerlebens leicht vorstellen, nämlich dank seiner Lieder. Dort wird der Wanderer immer wieder zum Symbol für den entfremdeten, verunsicherten Menschen des frühen 19. Jahrhunderts – nicht unähnlich Schubert selbst, der alles andere als ein beherzter, selbstbewusster Zeitgenosse war, vielmehr romantisch gebrochen in seinem Weltverständnis wie in seinen politischen und religiösen Ansichten – ein frustrierter Freigeist im Polizeistaat Metternichs. „Schuberts Wanderer ist der Einsame, Irrende, Heimatlose, Ausgestoßene, Fremde, der Außenseiter in innerer Emigration.“ (Ilija Dürrhammer) </p>
+
+<p>Diese Metapher prägt auch sein berühmtestes „Wandererlied“ und jene gewaltige Klavierfantasie, die aus dem Lied entstanden ist: Der Wanderer, komponiert 1816, und die C-Dur-Fantasie Opus 15, komponiert 1822. Da die Fantasie ohne die Liedvorlage nicht zu verstehen ist, sei hier zunächst von dem Lied Der Wanderer die Rede. Das Gedicht des Lübecker Poeten und Arztes Schmidt von Lübeck spürte Schubert in den Dichtungen für Kunstredner auf, die 1815 in Wien und Triest erschienen waren. Dank seiner Vertonung wurde es zum Symbol für die Entfremdung der Menschen im Österreich nach dem Wiener Kongress: Entfremdung vom Staat, der sie als Unmündige behandelte, Entfremdung voneinander in einer lieb- und verständnislosen Zeit. Indem das Lied ein Land beschwört, „wo meine Rosen blüh’n &#8230; das Land, das meine Sprache spricht“, öffnete es utopische Räume der Freiheit, die Schubert und seinen Landsleuten durch die gnadenlose Überwachung Metternichs verwehrt waren. Den Zeitgeist so genau getroffen zu haben, ist Schubert gerade in diesem Lied geglückt, ohne dass die Geheimpolizei dahinter mehr vermutet hätte als ein sehnsüchtiges Wandererlied in der Natur – eine perfekte Tarnung. Nach der Uraufführung 1821 und dem Erstdruck im gleichen Jahr fand es geradezu reißenden Absatz. Schuberts Freund Joseph Hüttenbrenner berechnete später, dass das Lied alleine dem Verleger „seit 1821 bis 1860 27.000 Gulden“ eingebracht habe. Selbstverständlich hat Schubert an diesem Geldsegen nicht partizipiert: Er wurde mit einem einmaligen, kleinen Honorar abgefunden.</p>
+
+<p>Der ursprüngliche Titel des Liedes lautete nur Der Wanderer. Als Schubert freilich die Originalhandschrift dem Grafen Esterházy schenkte, setzte er darauf einen dreifachen Titel: Der Wanderer oder: Der Fremdling oder: Der Unglückliche. Deutlicher hätte er den Inhalt der tragischen Verse und den Doppelsinn von Wanderer und Entfremdetem nicht bezeichnen können. Zum besseren Verständnis der Fantasie sollte man den gesamten Liedtext lesen:</p>
+
+<p>Ich komme vom Gebirge her, <br />
+Es dampft das Tal, es braust das Meer. <br />
+Ich wandle still, bin wenig froh, <br />
+Und immer fragt der Seufzer, wo? </p>
+
+<p>Die Sonne dünkt mich hier so kalt, <br />
+Die Blüte welk, das Leben alt, <br />
+Und was sie reden, leerer Schall; <br />
+Ich bin ein Fremdling überall. </p>
+
+<p>Wo bist du, mein geliebtes Land? <br />
+Gesucht, geahnt, und nie gekannt! <br />
+Das Land, das Land so hoffnungsgrün, <br />
+Das Land, wo meine Rosen blühn. </p>
+
+<p>Wo meine Freunde wandelnd gehn, <br />
+Wo meine Toten auferstehn, <br />
+Das Land, das meine Sprache spricht, <br />
+O Land, wo bist du?&#8230; </p>
+
+<p>Ich wandle still, bin wenig froh, <br />
+Und immer fragt der Seufzer, wo? <br />
+Im Geisterhauch tönt&#8217;s mir zurück: <br />
+„Dort, wo du nicht bist, ist das Glück.“</p>
+
+<p>In der Klavierfantasie hat Schubert das Lied in zweifacher Weise verarbeitet: als poetisches Programm für den Verlauf des Werkes und musikalisch, als Quelle für den schreitenden Rhythmus, der die gesamte Fantasie durchzieht. Komponiert wurde sie im November 1822, als Schubert noch mitten in der Arbeit an der h-Moll-Sinfonie steckte. Während er die Sinfonie nur für sich selbst schrieb, handelte es sich bei der Klavierfantasie um ein Auftragswerk: Ein gewisser Edler von Liebenberg de Zittin – „ein reicher Particulier“, wie Schubert ihn nannte – bestellte eine virtuose Klavierfantasie, denn er hatte sich bei Johann Nepomuk Hummel zum fähigen Pianisten ausbilden lassen. Der lukrative Auftrag verdrängte die h-Moll-Sinfonie, die schon bis zur Skizze des Scherzos vorangeschritten war. Unglücklicherweise schlossen sich weitere wichtige Aufträge an, so dass Schubert den Faden der Sinfonie nie mehr aufgegriffen hat. Etwas überspitzt könnte man sagen: Die „Wandererfantasie“ ist schuld daran, dass aus der h-Moll-Sinfonie die „Unvollendete“ wurde.</p>
+
+<p>Der erste Satz, Allegro con fuoco ma non troppo, beginnt mit dem „Schreitmotiv“ in mächtigen C-Dur-Akkorden, unterbrochen von hochfahrenden Arpeggi. Dieses „feurige, aber nicht zu schnelle“ Allegro erzählt von Heldenmut und jugendlicher Begeisterung. Sein optimistischer Tatendrang muss freilich bald im Adagio der totalen Desillusionierung weichen, um in den letzten beiden Sätzen – Scherzo und Fugenfinale – nurmehr als bittere, romantische Ironie wieder aufzuleben. Der Anfang erinnert in seiner Vollgriffigkeit nicht zufällig an den Beginn der „Hammerklaviersonate“ Opus 106, die Ludwig van Beethoven 1819 drucken ließ. Schubert kannte sie also beim Komponieren seiner Fantasie. Das kraftvolle Hauptthema verleiht dem Anfang eine Klangfülle ohne gleichen, erst im Seitenthema macht der orchestrale Klang zarteren Tönen in E-Dur Platz. Auch sie verarbeiten das „Schreitmotiv“, nun jedoch lyrisch weich, gleichsam scheu zurückgenommen. In der Durchführung erreichen die Turbulenzen um das heroische Hauptthema einen ungestümen Höhepunkt. Danach bleibt nur noch das Schreitmotiv in der einfachsten Form übrig, als purer Rhythmus auf dem Ton g, der ständig wiederholt wird, bedrängt von schreiend dissonanten Akkorden. In typisch Schubertschen Modulationen steuern die Harmonien nun nach cis-Moll – zur Tonart des Adagios, das sich unmittelbar anschließt.</p>
+
+<p>Das Adagio unterbricht die Entwicklung des Allegro genau vor der eigentlich zu erwartenden Reprise des Hauptthemas – ein Faden, den Schubert erst im Finale wieder aufgegriffen hat. Zunächst taucht der Hörer in die Trauertöne des Wanderers ein, dessen zweite Strophe das Motto zum Adagio abgab: „Die Sonne dünkt mich hier so kalt, / Die Blüte welk, das Leben alt, / Und was sie reden, leerer Schall; / Ich bin ein Fremdling überall.“ Anders als im Lied freilich hat Schubert der traurigen Melodie in cis-Moll hier eine Variante in E-Dur folgen lassen. Die Einsamkeit des Wanderers geht über in den tröstlichen Gesang der Natur. Der ganze langsame Satz schwankt zwischen der Moll- und der Durvariante des Themas. Am Ende bleibt, nach der wildesten Erregung in Moll, das tröstliche E-Dur übrig, getragen von bebenden Klavierklängen, wie sie nur Schubert erfinden konnte. </p>
+
+<p>Das Scherzo in As-Dur, der dritte der vier rudimentären Sätzen der Fantasie, wird zwischen dem zarten Ende des Adagios und dem Beginn der Schlussfuge eingeschoben. Im Presto-Hauptteil hört man deutlich eine Variante des Hauptthemas aus dem ersten Satz, nun verwandelt in einen brillanten Walzer in As-Dur. Im Trio werden lyrische Töne angeschlagen.</p>
+
+<p>Das Finale ist eine mehr als 120 Takte lange Schlussfuge, die mit dem Hauptthema des ersten Satzes in kräftigen Bassoktaven einsetzt. Die Rückkehr nach C-Dur wirkt hier wie die ausgesparte Reprise des ersten Satzes – eine Formidee, die Schubert von Carl Philipp Emanuel Bach übernahm und später auch in seiner f-Moll-Fantasie für Klavier zu vier Händen verwendet hat. Deshalb wird die strenge Fuge auch bald aufgegeben, um die Fantasie so zu Ende zu führen, wie der erste Satz eigentlich hätte enden sollen: mit einer rauschenden Coda. </p>
+
+<p>Karl Böhmer</p>
+
+</div> <!-- /.artikel -->
+
+
+	
+
+	</div><!-- /inhalt -->
+
+	<div id="fusszeile">
+		<ul id="navfooter">
+  <li><a href="/" style="margin-left: 10px;">Home</a></li>
+  <li><a href="/komponist">Komponist</a></li>
+  <li><a href="/besetzung">Besetzung</a></li>
+  <li><a href="/werksuche">Werke</a></li>
+  <li><a href="/kontakt">Kontakt</a></li>
+  <li><a href="/villamusica">Villa Musica</a></li>
+  <li><a href="/impressum">Impressum</a></li>
+  <li><a href="/datenschutz" style="border-right: 0px;">Datenschutz</a></li>
+</ul>
+
+                <div style="clear: both; margin-bottom: 18px;"> </div>
+	</div>
+
+</div>
+<!-- Start Cookie Plugin -->
+
+<script type="text/javascript">
+
+window.cookieconsent_options = {
+
+message: 'Diese Webseite verwendet Cookies. Cookies werden zur Benutzerführung und Webanalyse verwendet und helfen dabei, diese Webseite zu verbessern. Durch die weitere Nutzung dieser Webseite erklären Sie sich mit unserer Cookie-Police einverstanden.', dismiss: 'Ok, verstanden', learnMore: 'Mehr Infos hier: Datenschutzerklärung', link: '/datenschutz', theme: 'dark-top'
+
+};
+
+</script>
+
+<script type="text/javascript" src="/js/cookieconsent.min.js"></script>
+
+<!-- Ende Cookie Plugin -->
+
+
+</body>
+</html>
+

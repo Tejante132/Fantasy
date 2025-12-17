@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr">
+    <head>
+			
+			<!-- Reader Revenue Manager -->
+			<!--
+			<script async type="application/javascript"
+					src="https://news.google.com/swg/js/v1/swg-basic.js"></script>
+			<script>
+			  (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {
+				basicSubscriptions.init({
+				  type: "NewsArticle",
+				  isPartOfType: ["Product"],
+				  isPartOfProductId: "CAows5OxDA:openaccess",
+				  clientOptions: { theme: "light", lang: "de" },
+				});
+			  });
+			</script>
+			-->
+			<!-- Reader Revenue Manager -->
+		
+		    <!--
+			<script type="text/plain" data-cookiefirst-category="performance" async src="https://www.googletagmanager.com/gtag/js?id=UA-10841075-1">			</script>
+			-->
+	   <!--
+		  	<script type="text/plain" data-cookiefirst-category="performance">
+  			window.dataLayer = window.dataLayer || [];
+  			function gtag(){dataLayer.push(arguments);}
+  			gtag('js', new Date());
+			  gtag('config', 'UA-10841075-1', { 'anonymize_ip': true });
+		  	</script>
+		-->
+      <!-- <script src="https://medlexi.de/skins/medlexi/js/jquery-2.1.1.min.js"></script> -->
+		        
+		<title>Fantasie - Funktion, Aufgabe & Krankheiten | MedLexi.de</title>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	    <meta name="description" content="Die Fantasie ist die Schöpferkraft des denkenden Bewusstseins und dient als kreatives Element für Empathie, Künste und jegliche Art der Problemlösung. Sigmund Freud sah in der Fantasie seinerzeit ein Ventil zur Triebbefriedigung. Heute ist die Fantasie für die Psychologie vor allem eine alternative Verarbeitung der Realität." />
+		<meta name="keywords" content="Fantasie, Bewusstsein, Empathie, Gefühle, Gehirn, Geist, Kreativität, Neurowissenschaften, Psychologie, Reizbarkeit, Selbstwertgefühl" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		
+		
+        <!-- <link href="https://medlexi.de/" rel="canonical"/> -->
+		<link type="text/css" rel="stylesheet" href="/skins/medlexi/css/styles.css"/>
+        <link type="text/css" rel="stylesheet" href="/skins/medlexi/dist/mburger.css"/>
+        <link type="text/css" rel="stylesheet" href="/skins/medlexi/dist/mmenu.css"/>
+		<link type="text/css" rel="stylesheet" href="/skins/medlexi/fontawesome/css/all.min.css"/>
+
+
+
+		<!-- Taboola DatenScript -->
+		<!--
+		<script type="text/plain" data-cookiefirst-category="advertising" data-cookiefirst-script="taboola">
+			window._taboola = window._taboola || [];
+			_taboola.push({article:'auto'});
+			!function (e, f, u, i) {
+				if (!document.getElementById(i)){
+					e.async = 1;
+					e.src = u;
+					e.id = i;
+					f.parentNode.insertBefore(e, f);
+				}
+			}(document.createElement('script'),
+			  document.getElementsByTagName('script')[0],
+			  '//cdn.taboola.com/libtrc/med-lexi/loader.js',
+			  'tb_loader_script');
+			if(window.performance && typeof window.performance.mark == 'function')
+			{window.performance.mark('tbl_ic');}
+		</script>
+		-->
+		<!-- Taboola DatenScript -->
+
+		<!-- AdSense DatenScript -->
+
+		<!-- älteste <script type="text/plain" data-cookiefirst-category="advertising" data-ad-client="ca-pub-4398760167671672" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
+
+	<!-- alt <script type="text/plain" data-cookiefirst-category="advertising" data-ad-client="ca-pub-4398760167671672" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" crossorigin="anonymous"></script> -->
+
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4398760167671672" crossorigin="anonymous"></script>
+
+		<!-- AdSense DatenScript -->
+
+    </head>
+
+    <body>
+
+		<!-- <script src="https://consent.cookiefirst.com/banner.js" data-cookiefirst-key="20120f84-3d82-4697-be8a-99288faf46ab"></script> -->
+		<!--  <script src="https://consent.cookiefirst.com/sites/medlexi.de-20120f84-3d82-4697-be8a-99288faf46ab/consent.js"></script> -->
+
+            <div class="header">
+                <a href="#menu" class="mburger mburger--spin">
+                        <b></b>
+                        <b></b>
+                        <b></b>
+				</a>
+                <a href="../"><img class="medlexi-logo" src="/skins/medlexi/img/medlexi-logo.png"></a>
+                <span class="header-searchfield">
+                    <form action="https://medlexi.de/Suche">
+                    <div class="mm-navbar__searchfield">
+                        <div class="mm-searchfield">
+                            <div class="mm-searchfield__input">
+                                <input type="hidden" name="cx" value="008627951848171186033:bgepiw3nfkg" />
+                                <input type="hidden" name="cof" value="FORID:11" />
+							    <input type="hidden" name="ie" value="UTF-8" />
+                                <input type="text" autocomplete="off" name="q" id="q" autocomplete="off" placeholder="Suchen" />
+                                <button type="submit" class="suche-los-button-menu">Los</button>
+                            </div>
+                        </div>
+                    </div>
+                    </form>
+                </span>
+                <a href="#menu"><i class="lupe-icon-rechts fas fa-search fa-lg"></i></a>
+            </div>
+
+            <nav id="menu">
+                <span>
+                    <form action="https://medlexi.de/Suche">
+                    <div class="mm-navbar__searchfield">
+                        <div class="mm-searchfield">
+                            <div class="mm-searchfield__input">
+                                <input type="hidden" name="cx" value="008627951848171186033:bgepiw3nfkg" />
+                                <input type="hidden" name="cof" value="FORID:11" />
+							    <input type="hidden" name="ie" value="UTF-8" />
+                                <input type="text" autocomplete="off" name="q" id="q" autocomplete="off" placeholder="Suchen" />
+                                <button type="submit" class="suche-los-button-menu">Los</button>
+                            </div>
+                        </div>
+                    </div>
+                    </form>
+                </span>
+                <ul>
+                    <li><a href="../"><i class="fa-icon fas fa-home"></i>Startseite</a></li>
+                    <li>
+                        <span><i class="fa-icon fas fa-procedures"></i>Krankheiten & Symptome</span>
+                        <ul>
+                            <li><a href="../Kategorie:Symptome"><i class="fa-icon fas fa-head-side-cough"></i>Symptome A-Z</a></li>
+                            <li><a href="../Kategorie:Krankheiten"><i class="fa-icon fas fa-procedures"></i>Krankheiten A-Z</a></li>
+                            <li><a href="../Kategorie:Krankheitserreger"><i class="fa-icon fas fa-bacteria"></i>Krankheitserreger</a></li>
+                        </ul>
+                    </li>
+
+                    <li>
+                        <span><i class="fa-icon fas fa-stethoscope"></i>Behandlung & Therapie</span>
+                        <ul>
+                            <li><a href="../Kategorie:Behandlungen"><i class="fa-icon fas fa-stethoscope"></i>Behandlungen A-Z</a></li>
+                            <li><a href="../Kategorie:Arzt"><i class="fa-icon fas fa-user-md"></i>Ärzte & Therapeuten</a></li>
+                            <li><a href="../Kategorie:Medikamente"><i class="fa-icon fas fa-pills"></i>Medikamente</a></li>
+                            <li><a href="../Kategorie:Wirkstoffe"><i class="fa-icon fas fa-flask"></i>Wirkstoffe</a></li>
+                            <li><a href="../Kategorie:Heilpflanzen"><i class="fa-icon fas fa-leaf"></i>Heilpflanzen</a></li>
+                            <li><a href="../Kategorie:Hausmittel"><i class="fa-icon fas fa-coffee"></i>Hausmittel</a></li>
+                            <li><a href="../Kategorie:Medizinprodukte"><i class="fa-icon fas fa-wheelchair"></i>Medizinprodukte</a></li>
+                        </ul>
+                    </li>
+
+                     <li>
+                        <span><i class="fa-icon fas fa-lungs"></i>Anatomie & Organe</span>
+                        <ul>
+                            <li><a href="../Kategorie:Anatomie"><i class="fa-icon fas fa-lungs"></i>Anatomie & Organe</a></li>
+                            <li><a href="../Kategorie:Körperprozesse"><i class="fa-icon fas fa-heartbeat"></i>Körperprozesse</a></li>
+                            <li><a href="../Kategorie:Laborwerte"><i class="fa-icon fas fa-vial"></i>Blut- & Laborwerte</a></li>
+                        </ul>
+                    </li>
+
+                    <li>
+                        <span><i class="fa-icon fas fa-heart"></i>Gesundheit & Ernährung</span>
+                        <ul>
+                            <li><a href="../Kategorie:Lebensmittel"><i class="fa-icon fas fa-shopping-cart"></i>Lebensmittel</a></li>
+                            <li><a href="../Kategorie:Abnehmen_&_Diät"><i class="fa-icon fas fa-weight"></i>Abnehmen & Diät</a></li>
+                            <li><a href="../Kategorie:Ratgeber"><i class="fa-icon fas fa-plus-square"></i>Ratgeber</a></li>
+                        </ul>
+                    </li>
+
+                    <li><a href="../Kategorie:Schwangerschaft_&_Geburt"><i class="fa-icon fas fa-baby-carriage"></i>Schwangerschaft & Geburt</a></li>
+
+                    <li class="Divider"></li>
+
+                    <li><a href="../impressum/"><i class="fa-icon fas fa-at"></i>Impressum</a></li>
+					<!--
+                    <li><a href="../Datenschutz"><i class="fa-icon fas fa-lock"></i>Datenschutz</a></li>
+                    <li><a href="../Nutzungsbedingungen"><i class="fa-icon fas fa-layer-group"></i>Nutzungsbedingungen</a></li>
+					-->
+                </ul>
+            </nav>
+
+        <div id="wrapper">
+
+        <div id="toc-aside"></div> <!-- Dummy div für Inhaltsverzeichnis links vom Inhalt -->
+
+		<main>
+			<article>
+                <!-- Überschrift -->
+				<h1>Fantasie</h1>                <!-- Überschrift -->
+        <!-- quality control -->
+				<div class="quality-control-box" style="font-size: 0.8em; line-height: 1.7em;"><div class="quality-control-content"><img src="/skins/medlexi/img/dr-nonnenmacher.png"><i class="fa-icon fas fa-medal"></i>Medizinische Expertise: <a href="./impressum/#Medizinische_Leitung">Dr. med. Nonnenmacher</a><br><i class="fa-icon fas fa-marker"></i>Qualitätssicherung: <a href="./impressum/#Biologische_Leitung">Dipl.-Biol. Elke Löbel</a>, <a href="./impressum/#Chemische_Leitung">Dr. rer. nat. Frank Meyer</a><br><div style="margin-bottom: 15px; margin-top: 15px;"></div><i class="fa-icon fas fa-edit"></i>Letzte Aktualisierung am:  19. März 2024<div style="margin-bottom: 15px; margin-top: 15px;"></div><i class="fa-icon fas fa-check-circle"></i>Dieser Artikel wurde unter Maßgabe medizinischer Fachliteratur und  wissenschaftlicher Quellen geprüft.<br><div style="margin-bottom: -20px; margin-top: 10px; border-bottom: 1px solid #cccccc;"></div><br/><i class="fa-icon fas fa-sitemap fa-sm"></i>Sie sind hier: <a href="./">Startseite</a> <i class="fas fa-chevron-right fa-xs"></i> <a href="./Kategorie:Körperprozesse">Körperprozesse</a> <i class="fas fa-chevron-right fa-xs"></i> Fantasie</div></div>        <!-- quality control -->
+
+                <!-- start content -->
+				<p>Die <b>Fantasie</b> ist die Schöpferkraft des denkenden <a href="/Bewusstsein" title="Bewusstsein">Bewusstseins</a> und dient als kreatives Element für <a href="/Empathie" title="Empathie">Empathie</a>, Künste und jegliche Art der Problemlösung. Sigmund Freud sah in der Fantasie seinerzeit ein Ventil zur Triebbefriedigung. Heute ist die Fantasie für die <a href="/Psychologie" title="Psychologie">Psychologie</a> vor allem eine alternative Verarbeitung der Realität.
+</p>
+<ins class="adsbygoogle" style="display:block;" data-ad-client="ca-pub-4398760167671672" data-ad-slot="5775179129" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script><table id="toc" class="toc" summary="Inhaltsverzeichnis"><tr><td><div id="toctitle"><h2>Inhaltsverzeichnis</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Was_ist_die_Fantasie.3F"><span class="tocnumber">1</span> <span class="toctext">Was ist die Fantasie?</span></a></li>
+<li class="toclevel-1"><a href="#Funktion_.26_Aufgabe"><span class="tocnumber">2</span> <span class="toctext">Funktion &amp; Aufgabe</span></a></li>
+<li class="toclevel-1"><a href="#Krankheiten_.26_Beschwerden"><span class="tocnumber">3</span> <span class="toctext">Krankheiten &amp; Beschwerden</span></a></li>
+<li class="toclevel-1"><a href="#Quellen"><span class="tocnumber">4</span> <span class="toctext">Quellen</span></a></li>
+</ul>
+</td></tr><tr><td><div id="475815676"></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "Anzeigen"; var tocHideText = "Verbergen"; showTocToggle(); } </script>
+<a name="Was_ist_die_Fantasie.3F" id="Was_ist_die_Fantasie.3F"></a><h2> <span class="mw-headline"> Was ist die Fantasie? </span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a href="/Datei:Fantasie.jpg" class="image" title="Die Fantasie ist die Schöpferkraft des denkenden Bewusstseins und dient als kreatives Element für Empathie, Künste und jegliche Art der Problemlösung."><img alt="" src="/images/thumb/Fantasie.jpg/400px-Fantasie.jpg" width="400" height="267" border="0" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/Datei:Fantasie.jpg" class="internal" title="vergrößern"><img src="/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Die Fantasie ist die Schöpferkraft des denkenden Bewusstseins und dient als kreatives Element für Empathie, Künste und jegliche Art der Problemlösung.</div></div></div>
+<p>Das <a href="/Geist" title="Geist">Geist</a> des Menschen wird in der Psychologie als denkendes Bewusstsein bezeichnet und ist die Summe aller inneren Vorgänge. Neben Gedanken und <a href="/Gef%C3%BChle" title="Gefühle">Gefühlen</a> zählen bewertete Wahrnehmungen oder Erinnerungen dazu. 
+</p><p>Dem denkenden Bewusstsein wird eine eigene Schöpferkraft zugesprochen. So kann es Nachwirkungen einer Wahrnehmung produzieren, obwohl gerade keine Wahrnehmung stattgefunden hat. Diese Fähigkeit des Bewusstseins wird von der Psychologie als Fantasie bezeichnet. 
+</p><p>Laut Wilhelm Wundt ist Fantasie das Denken in sinnlichen Einzelvorstellungen oder Bildern. Die Fantasie ist damit eine kreative Fähigkeit, die sowohl mit Erinnerungsbildern, als auch Vorstellungsbildern assoziiert ist. Sie bezieht sich aber auch auf sprachliche oder logische Ideen, die eine gewisse Vorstellungskraft erfordern. 
+Durch Fantasie entsteht aus inneren Bildern eine Innenwelt, deren Resultat Phantasma genannt wird. 
+</p><p>In den <a href="/Neurowissenschaften" title="Neurowissenschaften">Neurowissenschaften</a> gelten Fantasie, <a href="/Kreativit%C3%A4t" title="Kreativität">Kreativität</a> und Ideenreichtum bislang als eher unerforschte Gebiete. Neuere Untersuchungen haben jedoch ergeben, dass die Fantasie im Rahmen von Kreativität den Gedächtnisspeicher des <a href="/Gehirn" title="Gehirn">Gehirns</a> beansprucht. Der präfrontale Cortex verhält sich währenddessen ruhig, damit die Informationen aus dem Gedächtnissystem neu kombiniert werden können. 
+</p>
+<a name="Funktion_.26_Aufgabe" id="Funktion_.26_Aufgabe"></a><h2> <span class="mw-headline"> Funktion &amp; Aufgabe </span></h2>
+<p><div><p style="float:right; margin:10px;">
+</p>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4398760167671672" data-ad-slot="3229934509" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<p></div>
+Als Produktionskraft des Bewusstseins ist die Fantasie eine besondere Form der Wirklichkeitsverarbeitung. Sie entwirft Alternativen zur Realität und kann dabei verschiedene Bedürfnisse erfüllen. Durch fantastische Alternativen lässt sich zum Beispiel der persönliche Erlebnisraum vergrößern. Fantasie lässt den Menschen andererseits auch zukünftige Konsequenzen vorwegnehmen. Zuletzt kann die schöpferische Kraft als eine Ersatzbefriedigung wirken. Ein beschädigtes <a href="/Selbstwertgef%C3%BChl" title="Selbstwertgefühl">Selbstbewusstsein</a> lässt sich in der Fantasie mit Tagträumen oder Utopien zum Beispiel ausgleichen. So stabilisiert die Fantasie das Wohlbehagen und das narzißtische Gleichgewicht. Beschämende Erfahrungen werden dabei gleichzeitig abgewehrt. 
+</p><p>Sigmund Freud vermutete hinter Phantasien Triebimpulse. Unausgelebte und unterdrückte Triebe werden seiner Überzeugung nach kompensatorisch in der Fantasie ausgelebt. Damit dient die Schöpferkraft des Bewusstseins also als Instrument zur Befriedigung von Lustwünschen und ist laut den psychodynamischen Vorstellungen sozusagen lediglich ein Ventil der Triebbefriedigung. 
+</p><p>In frühen Experimenten der Psychologie hatte sich diese Annahme scheinbar bestätigt. Studenten lebten ihre Aggressionen nach Beleidigungen zum Beispiel in der Fantasie aus. Neuere Forschung der Lernpsychologie zeigen allerdings gegenteilige Ergebnisse. 
+</p><p>Ein Konsens besteht mittlerweile über den hohen Nutzen der Fantasie für die zwischenmenschliche Empathie. So ist das Verständnis für eine andere Person weitestgehend von der Fantasie abhängig. Zugleich ist sich die Wissenschaft über das kreative Element der Fantasie einig. Fantasien gelten sogar als wesentliche Voraussetzung für Kunst und werden als Quelle der Kreativität verstanden. 
+</p><p>Auch für zweckgerichtetes Handeln spielt die Fantasie eine Rolle. Beim Problemlösen braucht der Mensch zum Beispiel eine Vorstellung, wie das Problem zu lösen ist. Das Handlungsziel wird als Zweck oder Wunsch visualisiert, sodass zweckgerichtetes Handeln möglich ist. In den Wissenschaften ermöglicht Fantasie außerdem Erkenntnis. Die Fähigkeit ist zum Beispiel für die Synthese von Befunden und empirischen Beobachtungen relevant, die nur durch Interpretationsarbeit eine bestimmte Aussagekraft liefern.
+</p><p><br />
+</p>
+<a name="Krankheiten_.26_Beschwerden" id="Krankheiten_.26_Beschwerden"></a><h2> <span class="mw-headline"> Krankheiten &amp; Beschwerden </span></h2>
+<p><div><p
+style="float:right; margin:10px;">
+</p>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4398760167671672" data-ad-slot="4912689444" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<p></div>
+Der Fantasieraum unterscheidet sich von Mensch zu Mensch. Die Fähigkeit zu ausgiebigen Fantasieren ist also nicht bei jedem Menschen gleich stark ausgeprägt und hängt vermutlich sowohl mit dem Intellekt, als auch mit der Selbstkontrolle und vor allem der Möglichkeit zu vielfältigen Erfahrungen zusammen.
+</p><p>Für die Psychologie spielt die Fantasie vor allem dann eine Rolle, wenn sie abnorme Ausmaße annimmt. Das ist zum Beispiel bei Gewaltfantasien oder sogar Tötungsfantasien der Fall. Regelmäßige Tötungsfantasien werden mittlerweile zum Beispiel mit den Amokläufen an Schulen in Verbindung gebracht. <a href="/Reizbarkeit" title="Reizbarkeit">Aggression</a> und Gewalt werden dabei als kognitives Skript betrachtet, das insbesondere durch Medieneinflüsse und negative zwischenmenschliche Erfahrungen aufrechterhalten wird. 
+</p><p>Insbesondere sind frühe Sozialisationserfahrungen für Gewaltfantasien relevant. Kinder mit Verhaltensauffälligkeiten zeigen zum Beispiel ein gewalttätigeres Fantasiespiel als ihre Altersgenossen. Vorwiegend sind Kinder mit einer geringen Selbstkontrolle von den abnormen Fantasien betroffen. Soziale Interaktionen scheinen die Fantasien auszulösen. Insbesondere gilt das für solche Interaktionen, die der Betroffene als bedrohlich oder demütigend erlebt. Die Gewaltfantasien sind dabei eine Art Reaktion auf einen wahrgenommenen Kontrollverlust in der sozialen Umwelt. Durch das Herbeifantasieren zukünftiger Gewalthandlungen empfinden die Betroffenen oft wieder Kontrolle und bauen so das <a href="/Stress" title="Stress">Stressempfinden</a> ab. 
+</p><p>Einige Autoren sprechen dabei von einer Umgangsstrategie mit aggressiven Impulsen, die dem Aggressionsabbau dienen. Andererseits zeigen Studien, dass die Fantasien aggressives Verhalten in der Zukunft eher steigern. Eine besondere Gefahr ist immer dann gegeben, wenn der Betroffene seine gewalttätigen Fantasien als regelmäßige Realitätsflucht missbraucht und sich zu einem fortschreitenden Realitätsverlust hinreißen lässt. 
+</p><p>Nicht nur Gewaltfantasien, sondern ausgiebige Fantasien jeder Art können einer Realitätsflucht entsprechen und fortschreitenden Realitätsverlust initiieren. Traumatisierende Erlebnisse können diesen Realitätsverlust begünstigen. Junge Vergewaltigungsopfer errichten sich zum Beispiel oft eine Fantasiewelt, in die sie sich zurückziehen können, um die traumatische Situation nicht bei vollem Bewusstsein miterleben zu müssen. 
+</p><p>Vermutlich können auch neurologische Erkrankungen oder Verletzungen abnorme, abnormal starke oder abnormal verminderte Fantasien hervorrufen. Wegen der geringen Forschungslage in diesem Bereich ist dieser Zusammenhang bislang jedoch vergleichsweise unklar.
+</p>
+<a name="Quellen" id="Quellen"></a><h2> <span class="mw-headline"> Quellen </span></h2>
+<p><div id="qualitaetssicherung">
+<ul>
+<li>Arolt, V., Reimer, C., Dilling, H.: Basiswissen Psychiatrie und Psychotherapie. Springer, Heidelberg 2007</li>
+<li>Gleixner, C., Müller, M., Wirth, S.: Neurologie und Psychiatrie. Für Studium und Praxis 2015/16. Medizinische Verlags- und Informationsdienste, Breisach 2015</li>
+<li>Mader, F., Weißgerber, H.: Allgemeinmedizin und Praxis. Springer, Heidelberg 2014</li>
+</ul>
+</div>
+<img src="https://vg09.met.vgwort.de/na/2318ad60d51b4f169a70b0ae950bed65" width="1" height="1" alt="">
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 32/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key d01067a4:pcache:idhash:7778-0!1!0!!de!2!edit=0 and timestamp 20251216185402 -->
+<div class="printfooter">
+Von „<a href="https://medlexi.de/Fantasie">https://medlexi.de/Fantasie</a>“</div>
+                <!-- end content -->
+
+                <!--
+				<div style="margin-left: 5px; font-size: 12px;">* Link führt zu einem Buchangebot auf Amazon.de | <a href="https://medlexi.de/Datenschutz#Amazon-Partnerprogramm" rel="nofollow">Mehr Infos</a></div>
+				-->
+
+                <!-- quality control -->
+                                <!-- quality control -->
+
+                <!-- Contentempfehlungen Adsense -->
+				<h2>Das könnte Sie auch interessieren</h2><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4398760167671672" data-ad-slot="3050490795" data-ad-format="autorelaxed"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>                <!-- Contentempfehlungen Adsense -->
+
+                <!-- Sie sind hier, Kategorie - entfällt -->
+				                <!-- Sie sind hier, Kategorie - entfällt -->
+
+			</article>
+             <!-- Footer -->
+             <footer>
+                <div id="footer-inline-container">
+                    <div id="ueber-uns">
+                        <span class="footer-headline">Über uns</span>
+                        <img id="medlexi-logo-white" src="/skins/medlexi/img/medlexi-logo-white.png">
+                        <p><i class="fas fa-book-reader fa-3x" style="float: left; margin-right: 15px; padding-top: 10px; padding-bottom: 10px; padding-right: 10px;"></i>MedLexi.de publiziert nicht nur über Gesundheit, Medizin und Wellness, sondern begeistert sich auch für die aktuelle medizinische Forschung und Medizintechnologie.
+                        Ärztliches Expertenwissen für unsere Themengebiete hilft uns, verständliches Wissen für Ihre Gesundheit aufzubereiten.</p>
+                        <span class="footer-headline">Hinweis</span>
+                        <p><i class="fas fa-exclamation fa-4x" style="float: left; margin-right: 15px; padding-top: 10px; padding-left: 20px; padding-right: 10px;"></i>MedLexi.de bietet keine medizinische Beratung, Diagnose, Behandlung oder Empfehlung an. Alle Inhalte sind nur zur Information gedacht. Konsultieren Sie immer einen Arzt! Die Nutzung von MedLexi.de darf nicht für eigene Diagnosen oder Behandlungsmethoden und dessen Auswahl, Anwendung oder Abbruch verwendet werden. Siehe Nutzungsbedingungen für weitere Informationen.</p>
+                    </div>
+                    <div id="legal-information">
+                        <span class="footer-headline">Rechtliches</span>
+                        <p><a href="../Sitemap">Sitemap</a> · <a href="../Nutzungsbedingungen">Nutzungsbedingungen · AGBs</a> · <a href="../datenschutz/">Datenschutz</a> <!-- · <a href="#" onclick="CookieFirst.withdrawConsent();">Widerruf Ihrer Einwilligung</a> --> · <a href="#" onclick="googlefc.callbackQueue.push(googlefc.showRevocationMessage);">Widerruf Ihrer Einwilligung</a> · <a href="../impressum/">Impressum</a></p>
+                    </div>
+                </div>
+              </footer>
+            <!-- Footer -->
+		</main>
+		<aside>
+            <!-- Adminpanel -->
+			<div id="adminpanel">
+		    	        </div>
+            <!-- Adminpanel -->
+            <!-- AdSense rechte Seite -->
+	        <div id="side-medium">
+				            </div>
+            <!-- AdSense rechte Seite -->
+		</aside>
+        <div style="clear: left;"></div> <!-- Dummy clear div - header ist sonst nicht sticky -->
+	</div><!-- /Container div wrapper -->
+
+        <!-- mmenu scripts -->
+        <script src="/skins/medlexi/dist/mmenu.js"></script>
+
+		<script>
+            	new Mmenu(
+                	document.querySelector('#menu'),
+            	{
+                	// "slidingSubmenus": false,
+                	"extensions": [ "pagedim-black"],
+
+            	}
+            	);
+        </script>
+        <!-- mmenu scripts -->
+
+        <!-- Buchquellen zu Amazon -->
+        <!-- <script src="https://medlexi.de/skins/medlexi/js/books.js"></script> -->
+        <!-- Buchquellen zu Amazon -->
+
+		<!-- Taboola -->
+		<!--
+		<script type="text/javascript">
+			window._taboola = window._taboola || [];
+			_taboola.push({flush: true});
+		</script>
+		-->
+		<!-- Taboola -->
+    </body>
+</html>

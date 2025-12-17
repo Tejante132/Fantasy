@@ -1,0 +1,1734 @@
+   #[1]Values Academy » Feed [2]Values Academy » Kommentar-Feed [3]Values
+   Academy » Phantasie / Fantasie-Kommentar-Feed [4]oEmbed (JSON)
+   [5]oEmbed (XML) [6]JSON
+
+   [7]Values Academy
+   [8]Login
+   [9]Logo VALUES ACADEMY
+   Search for: ____________________
+   [10]Logo VALUES ACADEMY
+
+     * [11]WELEX
+          + [12]Alle Werte (Liste)
+          + [13]Wertesysteme (begriffliche)
+          + [14]Werte-Wissen (Übersicht)
+          + [15]Glossar (Verzeichnis)
+          + [16]Personenverzeichnis
+          + [17]Downloads (kostenlos)
+          + [18]Logbuch
+          + [19]Die Entstehung der Werteliste
+     * [20]Magazin
+     * [21]Experts
+          + [22]Rainer Bachmann
+          + [23]Robert Berthold
+          + [24]Daniel Börnert
+          + [25]Janina Gebhard
+          + [26]Daniel Hebenstreit
+          + [27]Peter Heimböckel
+          + [28]Markus Leffin
+          + [29]Viktor Michel
+          + [30]Oliver Münch
+          + [31]Tom Reulein
+          + [32]Florian Sauer
+          + [33]Frank H. Sauer
+          + [34]Josefine Schubert
+          + [35]Karin Stauder
+          + [36]Thomas Stemmler
+          + [37]Rosi Thiedmann
+          + [38]Anna Werr
+     * [39]Partner
+          + [40]Mensch & Veränderung
+          + [41]ESG Innovations
+          + [42]curating corporate culture
+          + [43]Studio komplementaer
+          + [44]Projekt: #VALUESmatter
+     * [45]Portfolio
+          + [46]Sitemap (alle Inhalte)
+          + [47]Wertetest (WETE42)
+          + [48]Wertetest für Teams
+          + [49]Online-Werte-Schnupperkurs
+          + [50]Offener Werte-Workshop
+               o [51]Beschreibung und Inhalte des Werte-Workshops
+               o [52]Teilnehmerstimmen Werteworkshops
+               o [53]Anmeldeformular Werte-Workshops
+               o [54]Anfahrt Hürth (Köln) Office-Lounge
+               o [55]Anfahrt Linz – VA Austria bei cucocu.com
+               o [56]Anfahrt Zürich – VALUES ACADEMY Switzerland
+               o [57]Handout zum Workshops
+          + [58]WECO: Ausbildung zum Werte-Coach
+               o [59]Termine-WECO
+               o [60]WECO Details, Preise & FAQ
+          + [61]EIVA – Werteanalyse in Organisationen
+          + [62]Werte Supervision
+          + [63]Wertearbeit (alle Angebote)
+          + [64]WERTEtools
+          + [65]Produkte (Shop)
+          + [66]Anfrage Beratungstermin
+     * [67]Termine
+     * [68]Newsletter
+          + [69]WerteNews Anmeldung
+          + [70]WerteNews Archiv
+     * [71]Shop
+          + [72]Werte-Bücher
+          + [73]Werte-Spiele und Kartensets
+          + [74]Werte-Karten
+          + [75]Werte-Plakate
+          + [76]Werte-Objekte Kleinauflage
+          + [77]Downloads / eBooks
+     * [78]About
+          + [79]Das VA Team
+          + [80]Unsere EXPERTS
+          + [81]Unsere PARTNER
+          + [82]Mitgliedschaften & Engagement
+          + [83]Anfrage Beratungstermin
+          + [84]Unsere Spender
+          + [85]Sitemap
+
+   Search for: ____________________
+
+     * [86]WELEX
+          + [87]Alle Werte (Liste)
+          + [88]Wertesysteme (begriffliche)
+          + [89]Werte-Wissen (Übersicht)
+          + [90]Glossar (Verzeichnis)
+          + [91]Personenverzeichnis
+          + [92]Downloads (kostenlos)
+          + [93]Logbuch
+          + [94]Die Entstehung der Werteliste
+     * [95]Magazin
+     * [96]Experts
+          + [97]Rainer Bachmann
+          + [98]Robert Berthold
+          + [99]Daniel Börnert
+          + [100]Janina Gebhard
+          + [101]Daniel Hebenstreit
+          + [102]Peter Heimböckel
+          + [103]Markus Leffin
+          + [104]Viktor Michel
+          + [105]Oliver Münch
+          + [106]Tom Reulein
+          + [107]Florian Sauer
+          + [108]Frank H. Sauer
+          + [109]Josefine Schubert
+          + [110]Karin Stauder
+          + [111]Thomas Stemmler
+          + [112]Rosi Thiedmann
+          + [113]Anna Werr
+     * [114]Partner
+          + [115]Mensch & Veränderung
+          + [116]ESG Innovations
+          + [117]curating corporate culture
+          + [118]Studio komplementaer
+          + [119]Projekt: #VALUESmatter
+     * [120]Portfolio
+          + [121]Sitemap (alle Inhalte)
+          + [122]Wertetest (WETE42)
+          + [123]Wertetest für Teams
+          + [124]Online-Werte-Schnupperkurs
+          + [125]Offener Werte-Workshop
+               o [126]Beschreibung und Inhalte des Werte-Workshops
+               o [127]Teilnehmerstimmen Werteworkshops
+               o [128]Anmeldeformular Werte-Workshops
+               o [129]Anfahrt Hürth (Köln) Office-Lounge
+               o [130]Anfahrt Linz – VA Austria bei cucocu.com
+               o [131]Anfahrt Zürich – VALUES ACADEMY Switzerland
+               o [132]Handout zum Workshops
+          + [133]WECO: Ausbildung zum Werte-Coach
+               o [134]Termine-WECO
+               o [135]WECO Details, Preise & FAQ
+          + [136]EIVA – Werteanalyse in Organisationen
+          + [137]Werte Supervision
+          + [138]Wertearbeit (alle Angebote)
+          + [139]WERTEtools
+          + [140]Produkte (Shop)
+          + [141]Anfrage Beratungstermin
+     * [142]Termine
+     * [143]Newsletter
+          + [144]WerteNews Anmeldung
+          + [145]WerteNews Archiv
+     * [146]Shop
+          + [147]Werte-Bücher
+          + [148]Werte-Spiele und Kartensets
+          + [149]Werte-Karten
+          + [150]Werte-Plakate
+          + [151]Werte-Objekte Kleinauflage
+          + [152]Downloads / eBooks
+     * [153]About
+          + [154]Das VA Team
+          + [155]Unsere EXPERTS
+          + [156]Unsere PARTNER
+          + [157]Mitgliedschaften & Engagement
+          + [158]Anfrage Beratungstermin
+          + [159]Unsere Spender
+          + [160]Sitemap
+
+     * [161]WELEX
+          + [162]Alle Werte (Liste)
+          + [163]Wertesysteme (begriffliche)
+          + [164]Werte-Wissen (Übersicht)
+          + [165]Glossar (Verzeichnis)
+          + [166]Personenverzeichnis
+          + [167]Downloads (kostenlos)
+          + [168]Logbuch
+          + [169]Die Entstehung der Werteliste
+     * [170]Magazin
+     * [171]Experts
+          + [172]Rainer Bachmann
+          + [173]Robert Berthold
+          + [174]Daniel Börnert
+          + [175]Janina Gebhard
+          + [176]Daniel Hebenstreit
+          + [177]Peter Heimböckel
+          + [178]Markus Leffin
+          + [179]Viktor Michel
+          + [180]Oliver Münch
+          + [181]Tom Reulein
+          + [182]Florian Sauer
+          + [183]Frank H. Sauer
+          + [184]Josefine Schubert
+          + [185]Karin Stauder
+          + [186]Thomas Stemmler
+          + [187]Rosi Thiedmann
+          + [188]Anna Werr
+     * [189]Partner
+          + [190]Mensch & Veränderung
+          + [191]ESG Innovations
+          + [192]curating corporate culture
+          + [193]Studio komplementaer
+          + [194]Projekt: #VALUESmatter
+     * [195]Portfolio
+          + [196]Sitemap (alle Inhalte)
+          + [197]Wertetest (WETE42)
+          + [198]Wertetest für Teams
+          + [199]Online-Werte-Schnupperkurs
+          + [200]Offener Werte-Workshop
+               o [201]Beschreibung und Inhalte des Werte-Workshops
+               o [202]Teilnehmerstimmen Werteworkshops
+               o [203]Anmeldeformular Werte-Workshops
+               o [204]Anfahrt Hürth (Köln) Office-Lounge
+               o [205]Anfahrt Linz – VA Austria bei cucocu.com
+               o [206]Anfahrt Zürich – VALUES ACADEMY Switzerland
+               o [207]Handout zum Workshops
+          + [208]WECO: Ausbildung zum Werte-Coach
+               o [209]Termine-WECO
+               o [210]WECO Details, Preise & FAQ
+          + [211]EIVA – Werteanalyse in Organisationen
+          + [212]Werte Supervision
+          + [213]Wertearbeit (alle Angebote)
+          + [214]WERTEtools
+          + [215]Produkte (Shop)
+          + [216]Anfrage Beratungstermin
+     * [217]Termine
+     * [218]Newsletter
+          + [219]WerteNews Anmeldung
+          + [220]WerteNews Archiv
+     * [221]Shop
+          + [222]Werte-Bücher
+          + [223]Werte-Spiele und Kartensets
+          + [224]Werte-Karten
+          + [225]Werte-Plakate
+          + [226]Werte-Objekte Kleinauflage
+          + [227]Downloads / eBooks
+     * [228]About
+          + [229]Das VA Team
+          + [230]Unsere EXPERTS
+          + [231]Unsere PARTNER
+          + [232]Mitgliedschaften & Engagement
+          + [233]Anfrage Beratungstermin
+          + [234]Unsere Spender
+          + [235]Sitemap
+
+   [236]Login
+   [237]Logo VALUES ACADEMY
+   Search for: ____________________
+   [238]Logo VALUES ACADEMY
+
+     * [239]WELEX
+          + [240]Alle Werte (Liste)
+          + [241]Wertesysteme (begriffliche)
+          + [242]Werte-Wissen (Übersicht)
+          + [243]Glossar (Verzeichnis)
+          + [244]Personenverzeichnis
+          + [245]Downloads (kostenlos)
+          + [246]Logbuch
+          + [247]Die Entstehung der Werteliste
+     * [248]Magazin
+     * [249]Experts
+          + [250]Rainer Bachmann
+          + [251]Robert Berthold
+          + [252]Daniel Börnert
+          + [253]Janina Gebhard
+          + [254]Daniel Hebenstreit
+          + [255]Peter Heimböckel
+          + [256]Markus Leffin
+          + [257]Viktor Michel
+          + [258]Oliver Münch
+          + [259]Tom Reulein
+          + [260]Florian Sauer
+          + [261]Frank H. Sauer
+          + [262]Josefine Schubert
+          + [263]Karin Stauder
+          + [264]Thomas Stemmler
+          + [265]Rosi Thiedmann
+          + [266]Anna Werr
+     * [267]Partner
+          + [268]Mensch & Veränderung
+          + [269]ESG Innovations
+          + [270]curating corporate culture
+          + [271]Studio komplementaer
+          + [272]Projekt: #VALUESmatter
+     * [273]Portfolio
+          + [274]Sitemap (alle Inhalte)
+          + [275]Wertetest (WETE42)
+          + [276]Wertetest für Teams
+          + [277]Online-Werte-Schnupperkurs
+          + [278]Offener Werte-Workshop
+               o [279]Beschreibung und Inhalte des Werte-Workshops
+               o [280]Teilnehmerstimmen Werteworkshops
+               o [281]Anmeldeformular Werte-Workshops
+               o [282]Anfahrt Hürth (Köln) Office-Lounge
+               o [283]Anfahrt Linz – VA Austria bei cucocu.com
+               o [284]Anfahrt Zürich – VALUES ACADEMY Switzerland
+               o [285]Handout zum Workshops
+          + [286]WECO: Ausbildung zum Werte-Coach
+               o [287]Termine-WECO
+               o [288]WECO Details, Preise & FAQ
+          + [289]EIVA – Werteanalyse in Organisationen
+          + [290]Werte Supervision
+          + [291]Wertearbeit (alle Angebote)
+          + [292]WERTEtools
+          + [293]Produkte (Shop)
+          + [294]Anfrage Beratungstermin
+     * [295]Termine
+     * [296]Newsletter
+          + [297]WerteNews Anmeldung
+          + [298]WerteNews Archiv
+     * [299]Shop
+          + [300]Werte-Bücher
+          + [301]Werte-Spiele und Kartensets
+          + [302]Werte-Karten
+          + [303]Werte-Plakate
+          + [304]Werte-Objekte Kleinauflage
+          + [305]Downloads / eBooks
+     * [306]About
+          + [307]Das VA Team
+          + [308]Unsere EXPERTS
+          + [309]Unsere PARTNER
+          + [310]Mitgliedschaften & Engagement
+          + [311]Anfrage Beratungstermin
+          + [312]Unsere Spender
+          + [313]Sitemap
+
+   Search for: ____________________
+
+   [314]Werte-Lexikon
+
+   Rubrik: ALLE WERTE
+
+     * [315]Alle Werte
+     * [316]Wertesysteme
+     * [317]Werte-Wissen
+     * [318]Glossar
+     * [319]Download
+
+     * [320]Alle Werte
+     * [321]Wertesysteme
+     * [322]Werte-Wissen
+     * [323]Glossar
+     * [324]Download
+
+   Neu: [325]Zum Wertetest
+
+   [326]Zum Online-Schnupperkurs
+
+   [327]Das WELEX als Buch / [328]eBook
+
+   [329]Werte-Enzyklopädie als Buch
+
+   Neu: [330]Zum Wertetest
+
+   [331]Zum Online-Schnupperkurs
+
+   Inhaltsverzeichnis
+
+Alle Werte
+
+   A - B - C
+
+   [332]Abenteuer
+   [333]Achtsamkeit
+   [334]Agilität
+   [335]Aktivität
+   [336]Aktualität
+   [337]Akzeptanz
+   [338]Altruismus
+   [339]Andersartigkeit
+   [340]Anerkennung
+   [341]Anmut
+   [342]Ansehen
+   [343]Ästhetik
+   [344]Aufgeschlossenheit
+   [345]Aufmerksamkeit
+   [346]Ausdauer
+   [347]Ausgeglichenheit
+   [348]Ausgewogenheit
+   [349]Authentizität
+
+   [350]Begeisterung
+   [351]Beharrlichkeit
+   [352]Bescheidenheit
+   [353]Besonnenheit
+   D - E - F
+
+   [354]Dankbarkeit
+   [355]Demut
+   [356]Disziplin
+
+   [357]Effektivität
+   [358]Effizienz
+   [359]Ehrlichkeit
+   [360]Empathie
+   [361]Engagement
+   [362]Entscheidungsfreude
+
+   [363]Fairness
+   [364]Fleiß
+   [365]Flexibilität
+   [366]Freiheit
+   [367]Freude
+   [368]Freundlichkeit
+   [369]Frieden
+   [370]Fröhlichkeit
+   [371]Fürsorglichkeit
+   G - H - I - J
+
+   [372]Geduld
+   [373]Gelassenheit
+   [374]Gemütlichkeit
+   [375]Gerechtigkeit
+   [376]Gesundheit
+   [377]Glaubwürdigkeit
+   [378]Großzügigkeit
+   [379]Güte
+
+   [380]Harmonie
+   [381]Herzlichkeit
+   [382]Hilfsbereitschaft
+   [383]Hingabe
+   [384]Hoffnung
+   [385]Höflichkeit
+   [386]Humor
+
+   [387]Idealismus
+   [388]Individualität
+   [389]Innovation
+   [390]inspirierend
+   [391]Integrität
+   [392]intelligent
+   [393]Interesse
+   [394]Intuition
+   K - L - M - N
+
+   [395]Klarheit
+   [396]Klugheit
+   [397]konsequent
+   [398]konservativ
+   [399]Kontrolle
+   [400]Kreativität
+
+   [401]Leichtigkeit
+   [402]Leidenschaft
+   [403]Liebenswürdigkeit
+   [404]Loyalität
+
+   [405]Mitgefühl
+   [406]motivierend
+   [407]Mut
+
+   [408]Nachhaltigkeit
+   [409]Nächstenliebe
+   [410]Neugier
+   [411]Neutralität
+   O - P - Q - R
+
+   [412]Offenheit
+   [413]Optimismus
+   [414]Ordnungssinn
+
+   [415]Pflichtgefühl
+   [416]Phantasie
+   [417]Pragmatisch
+   [418]Präsenz
+   [419]Präzision
+   [420]Professionalität
+   [421]Pünktlichkeit
+
+   [422]Realismus
+   [423]Redlichkeit
+   [424]Resilienz
+   [425]Respekt
+   [426]Rücksichtnahme
+   [427]Ruhe
+   S - T
+
+   [428]Sanftmut
+   [429]Sauberkeit
+   [430]Selbstdisziplin
+   [431]Selbstvertrauen
+   [432]sensibel
+   [433]Seriosität
+   [434]Sicherheit
+   [435]Solidarität
+   [436]Sorgfalt
+   [437]Sparsamkeit
+   [438]Spaß
+   [439]Standfestigkeit
+   [440]Sympathie
+
+   [441]Tapferkeit
+   [442]Teamgeist
+   [443]Teilen
+   [444]Toleranz
+   [445]traditionell
+   [446]Transparenz
+   [447]Treue
+   [448]Tüchtigkeit
+   U - V - W
+
+   [449]Unabhängigkeit
+   [450]Unbestechlichkeit
+
+   [451]Verantwortung
+   [452]Verlässlichkeit
+   [453]Vertrauen
+   [454]verzeihen
+
+   [455]Wachsamkeit
+   [456]Weisheit
+   [457]Weitsicht
+   [458]Willenskraft
+   [459]Würde
+   X - Y - Z
+
+   [460]Zielstrebigkeit
+   [461]Zuneigung
+   [462]Zuverlässigkeit
+   [463]Zuversicht
+
+Phantasie / Fantasie
+
+   [464]Werte-Antonym: [465]Realismus
+
+   Wortformen: Fantast / Phantast, fantastisch / phantastisch,
+   fantasievoll / phantasievoll, fantasieren / phantasieren
+
+Synonyme
+
+   Vorstellungskraft, Vorstellungsvermögen, Erfindungsgabe,
+   Einfallsreichtum, Anschauungskraft, Vorstellungsgabe
+
+   Negierend oder neutral: Einbildung, Tagtraum, Traumbild, Trugbild,
+   Wunschtraum
+
+   Kunst: bildliche und/oder klangliche Schaffenskraft, welche dem
+   späteren Werk ursächlich vorausgeht
+
+   Musik (Fantasie): frei improvisiertes (zumeist formell
+   unstrukturiertes) Instrumentalstück
+
+   Plural: (meist) Ergebnis, Erzeugnis oder Gebilde einer vorausgegangenen
+   Phantasie
+
+   Medizin: Fieberträume, Wahnvorstellungen
+
+   Englisch: Imagination (Einbildungskraft), daydream (Tagtraum, Fantasy)
+     __________________________________________________________________
+
+Wortherkunft
+
+   Aus griechisch „phantasía“ und lateinisch „phantasia“ = Erscheinung,
+   Vorstellung, geistiges Bild, Einbildung
+
+   Der Begriff „fantasīe“ (mittelhochdeutsch) kommt in der deutschen
+   Sprache erstmals im 14. Jahrhundert vor.
+     __________________________________________________________________
+
+Definition
+
+     * Phantasie ist die kreative Fähigkeit, sich aus Erfahrungen,
+       Eindrücken und Wissensfragmenten heraus neue, bisher noch nicht
+       erlebte Vorstellungen zu bilden.
+     * (Noch) nicht der Wirklichkeit entsprechende Vorstellung
+     __________________________________________________________________
+
+Beschreibung
+
+   Phantasie ist im Sinne von [466]Wertvorstellungen die subjektiv
+   messbare (erkennbare) Fähigkeit eines einzelnen Menschen, sich mittels
+   Vorstellungskraft Bilder, Szenarien und/oder Produkte relativ konkret
+   vorstellen zu können, welche einen Sinn oder Wert haben (können).
+
+   Phantasie ist ein relativer Wert, der nur in Form
+   von [467]intuitiver und/oder konstruktiver Phantasie eine
+   [468]Wertvorstellung darstellt.
+
+   Konstruktive Phantasie ist deswegen eine [469]Wertvorstellung (ein
+   Wert), da sie in den meisten Fällen einen oder mehrere Aspekte von
+   Werten bzw. [470]Wertschöpfungen [471]inspiriert, erzeugt bzw.
+   ermöglicht.
+
+   Phantasie im Sinne von Vorstellungskraft ist eine wesentliche Bedingung
+   für [472]Empathie: sich jemand anderes Inneres vorstellen können.
+     __________________________________________________________________
+
+Zitate
+
+     “Phantasie muss grenzenlos sein dürfen. Denn gezähmt wäre sie keine
+     Phantasie.”
+     August Everding (1928 bis 1999); deutscher Theaterregisseur,
+     Generalintendant der Bayerischen Staatsoper
+
+     “Phantasie ist wichtiger als Wissen. Wissen ist begrenzt, Phantasie
+     aber umfasst die ganze Welt.”
+     Albert Einstein (1879 bis 1955); deutsch-amerikanischer Physiker
+     (Relativitätstheorie), erhielt 1921 den Nobel[473]preis
+
+     “Die [474]Freiheit der Phantasie ist keine Flucht in das
+     Unwirkliche, sie ist Kühnheit und Erfindung.”
+     Eugène Ionesco (1912 bis 1994); rumänisch-franzö[475]sicher
+     Schriftsteller
+
+     “Alles Ur[476]denken geschieht in Bildern: darum ist die Phantasie
+     ein so notwendiges Werkzeug desselben, und werden phantasielose
+     Köpfe nie etwas Großes leisten, – es sei denn in der Mathematik.”
+     Arthur Schopenhauer (1788 bis 1860); deutscher Philosoph
+
+   Quelle: Die Welt als [477]Wille und Vorstellung, 1819, ergänzt ab 1844
+   im zweiten Band, Kapitel 7: “Vom Verhältnis der anschauenden zur
+   abstrakten Erkenntnis”
+
+     “Phantasie ist die schönste Tochter der [478]Wahrheit, aber etwas
+     lebhafter als die Mama.”
+     Carl Spitteler (1845 bis 1924); schweizerischer Dichter
+
+     “Die Phantasie ist ein ewiger Frühling.”
+     Wird ihm zugeschrieben: Friedrich von Schiller (1759 bis 1805);
+     urspr. Johann Christoph Friedrich; deutscher Arzt, Dichter,
+     Philosoph und Historiker; gilt als einer der bedeutendsten
+     deutschsprachigen Dramatiker und Lyriker
+
+     “Die Phantasie ist gegenüber dem Schönen nicht bloß ein Schauen,
+     sondern ein Schauen mit Verstand, das ist Vorstellen und Urteilen,
+     letzteres natürlich mit solcher Schnelligkeit, dass die einzelnen
+     Vorgänge uns gar nicht zum Bewusstsein kommen.”
+     Eduard Hanslick (1825 bis 1904); österreichischer
+     Musikschriftsteller und Musikkritiker
+
+     “Ohne Phantasie hätte die Menschheit den [479]Mut zum
+     Weiterexistieren längst verloren.”
+     Christian Morgenstern (1871 bis 1914); deutscher Schriftsteller,
+     Dramaturg, Journalist und Übersetzer
+
+     “Phantasie ist düster oder frei, und unser guter Genius oder Dämon,
+     welcher die Herrschaft unserer Willkür verachtet und sich, ob sie
+     gleich [480]diszipliniert sein möchte, doch oft
+     in [481]Freiheit setzt und mit dem Menschen davon rennt.”
+     [482]Immanuel Kant (1724 bis 1804); deutscher Philosoph
+
+   Quelle: Erdmann (Hg.), Reflexionen [483]Kants zur Anthropologie. Aus
+   [484]Kants handschriftlichen Aufzeichnungen (in Reflexionen [485]Kants
+   zur kritischen Philosophie, Band 1), hrsg. von Benno Erdmann, 1882
+
+     “Durch die Phantasie sind wir fähig, höhere Gegenstände als die des
+     gemeinen Erkennens wahrzunehmen, Gegenstände, in denen wir die Ideen
+     selbst als wirklich erkennen. In der Kunst ist die Phantasie die
+     Fähigkeit, die Idee in Wirklichkeit zu verwandeln.”
+     Karl W. F. Solger (1780 bis 1819); deutscher Gelehrter
+     __________________________________________________________________
+
+   Letzte Bearbeitung am 24.11.2018
+
+Alle Werte
+
+   A - B - C
+
+   [486]Abenteuer
+
+   [487]Achtsamkeit
+
+   [488]Agilität
+
+   [489]Aktivität
+
+   [490]Aktualität
+
+   [491]Akzeptanz
+
+   [492]Altruismus
+
+   [493]Andersartigkeit
+
+   [494]Anerkennung
+
+   [495]Anmut
+
+   [496]Ansehen
+
+   [497]Anstand
+
+   [498]Ästhetik
+
+   [499]Aufgeschlossenheit
+
+   [500]Aufmerksamkeit
+
+   [501]Ausdauer
+
+   [502]Ausgeglichenheit
+
+   [503]Ausgewogenheit
+
+   [504]Authentizität
+
+
+   [505]Begeisterung
+
+   [506]Beharrlichkeit
+
+   [507]Bescheidenheit
+
+   [508]Besonnenheit
+   D - E - F
+
+   [509]Dankbarkeit
+
+   [510]Demut
+
+   [511]Disziplin
+
+
+   [512]Effektivität
+
+   [513]Effizienz
+
+   [514]Ehrlichkeit
+
+   [515]Empathie
+
+   [516]Engagement
+
+   [517]Entscheidungsfreude
+
+
+   [518]Fairness
+
+   [519]Fleiß
+
+   [520]Flexibilität
+
+   [521]Freiheit
+
+   [522]Freude
+
+   [523]Freundlichkeit
+
+   [524]Frieden
+
+   [525]Fröhlichkeit
+
+   [526]Fürsorglichkeit
+   G - H - I - J
+
+   [527]Geduld
+
+   [528]Gelassenheit
+
+   [529]Gemütlichkeit
+
+   [530]Gerechtigkeit
+
+   [531]Gesundheit
+
+   [532]Glaubwürdigkeit
+
+   [533]Großzügigkeit
+
+   [534]Güte
+
+
+   [535]Harmonie
+
+   [536]Herzlichkeit
+
+   [537]Hilfsbereitschaft
+
+   [538]Hingabe
+
+   [539]Hoffnung
+
+   [540]Höflichkeit
+
+   [541]Humor
+
+
+   [542]Idealismus
+
+   [543]Individualität
+
+   [544]Innovation
+
+   [545]inspirierend
+
+   [546]Integrität
+
+   [547]intelligent
+
+   [548]Interesse
+
+   [549]Intuition
+   K - L - M - N
+
+   [550]Klugheit
+
+   [551]konsequent
+
+   [552]konservativ
+
+   [553]Kontrolle
+
+   [554]Kreativität
+
+
+   [555]Leidenschaft
+
+   [556]Leichtigkeit
+
+   [557]Liebenswürdigkeit
+
+   [558]Loyalität
+
+
+   [559]Mitgefühl
+
+   [560]motivierend
+
+   [561]Mut
+
+
+   [562]Nachhaltigkeit
+
+   [563]Nächstenliebe
+
+   [564]Neutralität
+   O - P - Q - R
+
+   [565]Offenheit
+
+   [566]Optimismus
+
+   [567]Ordnungssinn
+
+
+   [568]Pflichtgefühl
+
+   [569]Phantasie
+
+   [570]Pragmatisch
+
+   [571]Präsenz
+
+   [572]Präzision
+
+   [573]Professionalität
+
+   [574]Pünktlichkeit
+
+
+   [575]Realismus
+
+   [576]Redlichkeit
+
+   [577]Resilienz
+
+   [578]Respekt
+
+   [579]Rücksichtnahme
+
+   [580]Ruhe
+   S - T
+
+   [581]Sanftmut
+
+   [582]Sauberkeit
+
+   Selbstbestimmtheit
+
+   [583]Selbstdisziplin
+
+   [584]Selbstvertrauen
+
+   [585]sensibel
+
+   [586]Seriosität
+
+   [587]Sicherheit
+
+   [588]Solidarität
+
+   [589]Sorgfalt
+
+   [590]Sparsamkeit
+
+   [591]Spaß
+
+   [592]Standfestigkeit
+
+   [593]Sympathie
+
+
+   [594]Tapferkeit
+
+   [595]Teamgeist
+
+   [596]Teilen
+
+   [597]Toleranz
+
+   [598]traditionell
+
+   [599]Transparenz
+
+   [600]Treue
+
+   [601]Tüchtigkeit
+   U - V - W
+
+   [602]Unabhängigkeit
+
+   [603]Unbestechlichkeit
+
+
+   [604]Verantwortung
+
+   [605]Verlässlichkeit
+
+   [606]Vertrauen
+
+   [607]verzeihen
+
+
+   [608]Wachsamkeit
+
+   [609]Weisheit
+
+   [610]Weitsicht
+
+   [611]Willenskraft
+
+   [612]Würde
+   X - Y - Z
+
+   [613]Zielstrebigkeit
+
+   [614]Zuneigung
+
+   [615]Zuverlässigkeit
+
+   [616]Zuversicht
+
+   [617]Zurück zur Werte-Liste
+
+Bleibe auf dem neusten Stand!
+
+   Trage dich dazu jetzt in unseren Newsletter ein!
+   [618]Werte-News Abonnieren
+
+Values Academy.
+
+   In jeder Beziehung unseres Lebens begegnen wir am Ende nur uns selbst.
+   Lernen wir unsere eigenen Werte kennen und verstehen, fällt es uns
+   leichter, auch andere Menschen und ihr Handeln besser einzuordnen.
+
+   Wir unterstützen Einzelpersonen, Teams und Unternehmen bei jeder Art
+   von Wertebildung und Wertearbeit mittels Beratung und Coaching.
+   Auch Schulen (Schulklassen, Lehrer) und staatliche Organisationen
+   gehören zu unseren Kunden.
+
+   Mit unseren Tools, Methoden, Spiele und Objekte können wir Werte
+   ermitteln, systemisch aufstellen und lebendig werden lassen.
+   [619]Instagram [620]Linkedin [621]Youtube [622]Facebook-f
+
+Navigation
+
+     * [623]Startseite
+     * [624]WELEX (Wertelexikon)
+     * [625]Termine
+     * [626]Portfolio
+     * [627]EXPERTS
+     * [628]SHOP
+     * [629]MAGAZIN
+     * [630]Werte-News
+
+     * [631]Zum Kontaktformular
+     * [632]Zum Online-Schnupperkurs
+
+ÜBER UNS
+
+     * [633]Das VA-Team
+     * [634]Unsere Geschichte
+     * [635]Unsere Mutter
+
+Rechtliches
+
+     * [636]Impressum
+     * [637]Datenschutz
+
+Values Academy.
+
+   In jeder Beziehung unseres Lebens begegnen wir am Ende nur uns selbst.
+   Lernen wir unsere eigenen Werte kennen und verstehen, fällt es uns
+   leichter, auch andere Menschen und ihr Handeln besser einzuordnen.
+
+   Wir unterstützen Einzelpersonen, Teams und Unternehmen bei jeder Art
+   von Wertebildung und Wertearbeit mittels Beratung und Coaching.
+
+   Mit unseren Tools und Methoden können wir Werte ermitteln, systemisch
+   aufstellen und lebendig werden lassen.
+
+Navigation
+
+     * [638]Startseite
+     * [639]WELEX (Wertelexikon)
+     * [640]Termine
+     * [641]Portfolio
+     * [642]EXPERTS
+     * [643]SHOP
+     * [644]MAGAZIN
+     * [645]Werte-News
+
+     * [646]Zum Kontaktformular
+     * [647]Zum Online-Schnupperkurs
+
+Über uns
+
+     * [648]Das VA-Team
+     * [649]Unsere Geschichte
+     * [650]Unsere Mutter
+
+Rechtliches
+
+     * [651]Impressum
+     * [652]Datenschutz
+
+   [653]Instagram [654]Linkedin [655]Youtube [656]Facebook-f
+
+   © 2020-2025 DA VINCI 3000 GmbH - Values Academy | Konzept, Design und
+   Umsetzung von [657]Florian Sauer
+
+Wertschätzung
+
+   Über 3.000 Stunden ehrenamtliche Arbeit sind in das kostenlose
+   Online-Wertelexikon geflossen. Wir freuen uns über jede Wertschätzung
+   für dieses Herzensprojekt. Hier kannst Du in nur einer Minute spenden
+   (jeder Betrag ist willkommen):
+
+   [658]SPENDEN (bei der EUWEA*) >>
+
+   * Die gemeinnützige EUWEA (Europäische Werte Akademie) fördert seit
+   einigen Jahren das kostenlose Online-Werte-Lexikon. Auf Wunsch bekommst
+   Du einen Spendenbeleg.
+
+   DANKE für Deine Unterstützung!
+   Gemeinsam machen wir die Welt wertevoller.
+
+   Alternativ oder zusätzlich kannst Du folgende Bücher in unserem Shop
+   kaufen:
+     * [659]Werte-Enzyklopädie (Hardcover, 936 Seiten)
+     * [660]Werte-Lexikon (Hardcover, 492 Seiten)
+     * [661]Werte-Lexikon als eBook im EPUB-Format
+     * [662]Werte-Lexikon als eBook im Kindle-Format
+
+   … oder ein [663]Wertespiel, [664]Wertekarten oder [665]Plakate?
+
+References
+
+   Visible links:
+   1. https://www.values-academy.de/feed/
+   2. https://www.values-academy.de/comments/feed/
+   3. https://www.values-academy.de/phantasie/feed/
+   4. https://www.values-academy.de/wp-json/oembed/1.0/embed?url=https://www.values-academy.de/phantasie/
+   5. https://www.values-academy.de/wp-json/oembed/1.0/embed?url=https://www.values-academy.de/phantasie/&format=xml
+   6. https://www.values-academy.de/wp-json/wp/v2/posts/49030
+   7. https://www.values-academy.de/
+   8. https://www.values-academy.de/wp-login.php
+   9. https://www.values-academy.de/
+  10. https://www.values-academy.de/
+  11. https://www.values-academy.de/werte-lexikon/
+  12. https://www.values-academy.de/werte-lexikon/alle-werte/
+  13. https://www.values-academy.de/werte-lexikon/wertesysteme/
+  14. https://www.values-academy.de/werte-lexikon/werte-wissen/
+  15. https://www.values-academy.de/werte-lexikon/glossar/
+  16. https://www.values-academy.de/werte-lexikon/personen-und-organisationen-verzeichnis/
+  17. https://www.values-academy.de/werte-lexikon/download/
+  18. https://www.values-academy.de/updates-historie/
+  19. https://www.values-academy.de/entstehung-der-werteliste/
+  20. https://www.values-academy.de/magazin/
+  21. https://www.values-academy.de/experts/
+  22. https://www.values-academy.de/wertebotschafter-rainer-bachmann/
+  23. https://www.values-academy.de/werte-coach-robert-berthold/
+  24. https://www.values-academy.de/werte-coach-daniel-boernert/
+  25. https://www.values-academy.de/werte-coach-janina-gebhard/
+  26. https://www.values-academy.de/werte-coach-daniel-hebenstreit/
+  27. https://www.values-academy.de/werte-coach-peter-heimboeckel/
+  28. https://www.values-academy.de/werte-coach-markus-leffin/
+  29. https://www.values-academy.de/werte-coach-viktor-michel/
+  30. https://www.values-academy.de/wertebotschafter-oliver-muench/
+  31. https://www.values-academy.de/werte-coach-tom-reulein/
+  32. https://www.values-academy.de/werte-coach-florian-sauer/
+  33. https://www.values-academy.de/werte-coach-frank-h-sauer/
+  34. https://www.values-academy.de/werte-coach-josefine-schubert/
+  35. https://www.values-academy.de/werte-coach-karin-stauder/
+  36. https://www.values-academy.de/wertebotschafter-thomas-stemmler/
+  37. https://www.values-academy.de/werte-coach-rosi-thiedmann/
+  38. https://www.values-academy.de/werte-coach-anna-werr/
+  39. https://www.values-academy.de/partner/
+  40. https://www.values-academy.de/partner-mensch-und-veraenderung/
+  41. https://www.values-academy.de/partner-esg-innovations/
+  42. https://www.values-academy.de/partner-curating-corporate-culture-cucocu/
+  43. https://www.values-academy.de/partner-studio-komplementaer/
+  44. https://www.values-academy.de/partnerprojekt-valuesmatter-euwea/
+  45. https://www.values-academy.de/portfolio/
+  46. https://www.values-academy.de/sitemap/
+  47. https://www.values-academy.de/wertetest/
+  48. https://www.values-academy.de/wertetest-team/
+  49. https://www.values-academy.de/online-werte-schnupperkurse/
+  50. https://www.values-academy.de/werte-workshop/
+  51. https://www.values-academy.de/beschreibung-und-inhalte-des-werte-workshops/
+  52. https://www.values-academy.de/teilnehmerstimmen-werteworkshops/
+  53. https://www.values-academy.de/anmeldeformular-werte-workshops/
+  54. https://www.values-academy.de/anfahrt-huerth-koeln-office-lounge/
+  55. https://www.values-academy.de/anfahrt-linz-values-akademy-austria/
+  56. https://www.values-academy.de/anfahrt-zuerich-values-academy-switzerland/
+  57. https://www.values-academy.de/handout-werte-workshops/
+  58. https://www.values-academy.de/ausbildung-zum-werte-coach/
+  59. https://www.values-academy.de/termine-weco/
+  60. https://www.values-academy.de/ausbildung-weco-details/
+  61. https://www.values-academy.de/eiva/
+  62. https://www.values-academy.de/?wertearbeit=werte-supervision
+  63. https://www.values-academy.de/wertearbeit/
+  64. https://www.values-academy.de/wertetools/
+  65. https://shop.values-academy.de/
+  66. https://www.values-academy.de/kontaktanfrage/
+  67. https://www.values-academy.de/termine/
+  68. https://www.values-academy.de/werte-news/
+  69. https://www.values-academy.de/werte-news/
+  70. https://www.values-academy.de/newsletter-archiv/
+  71. https://shop.values-academy.de/
+  72. https://shop.values-academy.de/collections/buecher
+  73. https://shop.values-academy.de/collections/spiel
+  74. https://shop.values-academy.de/collections/werte-karten
+  75. https://shop.values-academy.de/collections/plakat
+  76. https://shop.values-academy.de/collections/objekte-kleinauflage
+  77. https://shop.values-academy.de/collections/downloads
+  78. https://www.values-academy.de/ueber-uns/
+  79. https://www.values-academy.de/das-team/
+  80. https://www.values-academy.de/experts/
+  81. https://www.values-academy.de/partner/
+  82. https://www.values-academy.de/mitgliedschaften-engagement/
+  83. https://www.values-academy.de/kontaktanfrage/
+  84. https://www.values-academy.de/spender/
+  85. https://www.values-academy.de/sitemap/
+  86. https://www.values-academy.de/werte-lexikon/
+  87. https://www.values-academy.de/werte-lexikon/alle-werte/
+  88. https://www.values-academy.de/werte-lexikon/wertesysteme/
+  89. https://www.values-academy.de/werte-lexikon/werte-wissen/
+  90. https://www.values-academy.de/werte-lexikon/glossar/
+  91. https://www.values-academy.de/werte-lexikon/personen-und-organisationen-verzeichnis/
+  92. https://www.values-academy.de/werte-lexikon/download/
+  93. https://www.values-academy.de/updates-historie/
+  94. https://www.values-academy.de/entstehung-der-werteliste/
+  95. https://www.values-academy.de/magazin/
+  96. https://www.values-academy.de/experts/
+  97. https://www.values-academy.de/wertebotschafter-rainer-bachmann/
+  98. https://www.values-academy.de/werte-coach-robert-berthold/
+  99. https://www.values-academy.de/werte-coach-daniel-boernert/
+ 100. https://www.values-academy.de/werte-coach-janina-gebhard/
+ 101. https://www.values-academy.de/werte-coach-daniel-hebenstreit/
+ 102. https://www.values-academy.de/werte-coach-peter-heimboeckel/
+ 103. https://www.values-academy.de/werte-coach-markus-leffin/
+ 104. https://www.values-academy.de/werte-coach-viktor-michel/
+ 105. https://www.values-academy.de/wertebotschafter-oliver-muench/
+ 106. https://www.values-academy.de/werte-coach-tom-reulein/
+ 107. https://www.values-academy.de/werte-coach-florian-sauer/
+ 108. https://www.values-academy.de/werte-coach-frank-h-sauer/
+ 109. https://www.values-academy.de/werte-coach-josefine-schubert/
+ 110. https://www.values-academy.de/werte-coach-karin-stauder/
+ 111. https://www.values-academy.de/wertebotschafter-thomas-stemmler/
+ 112. https://www.values-academy.de/werte-coach-rosi-thiedmann/
+ 113. https://www.values-academy.de/werte-coach-anna-werr/
+ 114. https://www.values-academy.de/partner/
+ 115. https://www.values-academy.de/partner-mensch-und-veraenderung/
+ 116. https://www.values-academy.de/partner-esg-innovations/
+ 117. https://www.values-academy.de/partner-curating-corporate-culture-cucocu/
+ 118. https://www.values-academy.de/partner-studio-komplementaer/
+ 119. https://www.values-academy.de/partnerprojekt-valuesmatter-euwea/
+ 120. https://www.values-academy.de/portfolio/
+ 121. https://www.values-academy.de/sitemap/
+ 122. https://www.values-academy.de/wertetest/
+ 123. https://www.values-academy.de/wertetest-team/
+ 124. https://www.values-academy.de/online-werte-schnupperkurse/
+ 125. https://www.values-academy.de/werte-workshop/
+ 126. https://www.values-academy.de/beschreibung-und-inhalte-des-werte-workshops/
+ 127. https://www.values-academy.de/teilnehmerstimmen-werteworkshops/
+ 128. https://www.values-academy.de/anmeldeformular-werte-workshops/
+ 129. https://www.values-academy.de/anfahrt-huerth-koeln-office-lounge/
+ 130. https://www.values-academy.de/anfahrt-linz-values-akademy-austria/
+ 131. https://www.values-academy.de/anfahrt-zuerich-values-academy-switzerland/
+ 132. https://www.values-academy.de/handout-werte-workshops/
+ 133. https://www.values-academy.de/ausbildung-zum-werte-coach/
+ 134. https://www.values-academy.de/termine-weco/
+ 135. https://www.values-academy.de/ausbildung-weco-details/
+ 136. https://www.values-academy.de/eiva/
+ 137. https://www.values-academy.de/?wertearbeit=werte-supervision
+ 138. https://www.values-academy.de/wertearbeit/
+ 139. https://www.values-academy.de/wertetools/
+ 140. https://shop.values-academy.de/
+ 141. https://www.values-academy.de/kontaktanfrage/
+ 142. https://www.values-academy.de/termine/
+ 143. https://www.values-academy.de/werte-news/
+ 144. https://www.values-academy.de/werte-news/
+ 145. https://www.values-academy.de/newsletter-archiv/
+ 146. https://shop.values-academy.de/
+ 147. https://shop.values-academy.de/collections/buecher
+ 148. https://shop.values-academy.de/collections/spiel
+ 149. https://shop.values-academy.de/collections/werte-karten
+ 150. https://shop.values-academy.de/collections/plakat
+ 151. https://shop.values-academy.de/collections/objekte-kleinauflage
+ 152. https://shop.values-academy.de/collections/downloads
+ 153. https://www.values-academy.de/ueber-uns/
+ 154. https://www.values-academy.de/das-team/
+ 155. https://www.values-academy.de/experts/
+ 156. https://www.values-academy.de/partner/
+ 157. https://www.values-academy.de/mitgliedschaften-engagement/
+ 158. https://www.values-academy.de/kontaktanfrage/
+ 159. https://www.values-academy.de/spender/
+ 160. https://www.values-academy.de/sitemap/
+ 161. https://www.values-academy.de/werte-lexikon/
+ 162. https://www.values-academy.de/werte-lexikon/alle-werte/
+ 163. https://www.values-academy.de/werte-lexikon/wertesysteme/
+ 164. https://www.values-academy.de/werte-lexikon/werte-wissen/
+ 165. https://www.values-academy.de/werte-lexikon/glossar/
+ 166. https://www.values-academy.de/werte-lexikon/personen-und-organisationen-verzeichnis/
+ 167. https://www.values-academy.de/werte-lexikon/download/
+ 168. https://www.values-academy.de/updates-historie/
+ 169. https://www.values-academy.de/entstehung-der-werteliste/
+ 170. https://www.values-academy.de/magazin/
+ 171. https://www.values-academy.de/experts/
+ 172. https://www.values-academy.de/wertebotschafter-rainer-bachmann/
+ 173. https://www.values-academy.de/werte-coach-robert-berthold/
+ 174. https://www.values-academy.de/werte-coach-daniel-boernert/
+ 175. https://www.values-academy.de/werte-coach-janina-gebhard/
+ 176. https://www.values-academy.de/werte-coach-daniel-hebenstreit/
+ 177. https://www.values-academy.de/werte-coach-peter-heimboeckel/
+ 178. https://www.values-academy.de/werte-coach-markus-leffin/
+ 179. https://www.values-academy.de/werte-coach-viktor-michel/
+ 180. https://www.values-academy.de/wertebotschafter-oliver-muench/
+ 181. https://www.values-academy.de/werte-coach-tom-reulein/
+ 182. https://www.values-academy.de/werte-coach-florian-sauer/
+ 183. https://www.values-academy.de/werte-coach-frank-h-sauer/
+ 184. https://www.values-academy.de/werte-coach-josefine-schubert/
+ 185. https://www.values-academy.de/werte-coach-karin-stauder/
+ 186. https://www.values-academy.de/wertebotschafter-thomas-stemmler/
+ 187. https://www.values-academy.de/werte-coach-rosi-thiedmann/
+ 188. https://www.values-academy.de/werte-coach-anna-werr/
+ 189. https://www.values-academy.de/partner/
+ 190. https://www.values-academy.de/partner-mensch-und-veraenderung/
+ 191. https://www.values-academy.de/partner-esg-innovations/
+ 192. https://www.values-academy.de/partner-curating-corporate-culture-cucocu/
+ 193. https://www.values-academy.de/partner-studio-komplementaer/
+ 194. https://www.values-academy.de/partnerprojekt-valuesmatter-euwea/
+ 195. https://www.values-academy.de/portfolio/
+ 196. https://www.values-academy.de/sitemap/
+ 197. https://www.values-academy.de/wertetest/
+ 198. https://www.values-academy.de/wertetest-team/
+ 199. https://www.values-academy.de/online-werte-schnupperkurse/
+ 200. https://www.values-academy.de/werte-workshop/
+ 201. https://www.values-academy.de/beschreibung-und-inhalte-des-werte-workshops/
+ 202. https://www.values-academy.de/teilnehmerstimmen-werteworkshops/
+ 203. https://www.values-academy.de/anmeldeformular-werte-workshops/
+ 204. https://www.values-academy.de/anfahrt-huerth-koeln-office-lounge/
+ 205. https://www.values-academy.de/anfahrt-linz-values-akademy-austria/
+ 206. https://www.values-academy.de/anfahrt-zuerich-values-academy-switzerland/
+ 207. https://www.values-academy.de/handout-werte-workshops/
+ 208. https://www.values-academy.de/ausbildung-zum-werte-coach/
+ 209. https://www.values-academy.de/termine-weco/
+ 210. https://www.values-academy.de/ausbildung-weco-details/
+ 211. https://www.values-academy.de/eiva/
+ 212. https://www.values-academy.de/?wertearbeit=werte-supervision
+ 213. https://www.values-academy.de/wertearbeit/
+ 214. https://www.values-academy.de/wertetools/
+ 215. https://shop.values-academy.de/
+ 216. https://www.values-academy.de/kontaktanfrage/
+ 217. https://www.values-academy.de/termine/
+ 218. https://www.values-academy.de/werte-news/
+ 219. https://www.values-academy.de/werte-news/
+ 220. https://www.values-academy.de/newsletter-archiv/
+ 221. https://shop.values-academy.de/
+ 222. https://shop.values-academy.de/collections/buecher
+ 223. https://shop.values-academy.de/collections/spiel
+ 224. https://shop.values-academy.de/collections/werte-karten
+ 225. https://shop.values-academy.de/collections/plakat
+ 226. https://shop.values-academy.de/collections/objekte-kleinauflage
+ 227. https://shop.values-academy.de/collections/downloads
+ 228. https://www.values-academy.de/ueber-uns/
+ 229. https://www.values-academy.de/das-team/
+ 230. https://www.values-academy.de/experts/
+ 231. https://www.values-academy.de/partner/
+ 232. https://www.values-academy.de/mitgliedschaften-engagement/
+ 233. https://www.values-academy.de/kontaktanfrage/
+ 234. https://www.values-academy.de/spender/
+ 235. https://www.values-academy.de/sitemap/
+ 236. https://www.values-academy.de/wp-login.php
+ 237. https://www.values-academy.de/
+ 238. https://www.values-academy.de/
+ 239. https://www.values-academy.de/werte-lexikon/
+ 240. https://www.values-academy.de/werte-lexikon/alle-werte/
+ 241. https://www.values-academy.de/werte-lexikon/wertesysteme/
+ 242. https://www.values-academy.de/werte-lexikon/werte-wissen/
+ 243. https://www.values-academy.de/werte-lexikon/glossar/
+ 244. https://www.values-academy.de/werte-lexikon/personen-und-organisationen-verzeichnis/
+ 245. https://www.values-academy.de/werte-lexikon/download/
+ 246. https://www.values-academy.de/updates-historie/
+ 247. https://www.values-academy.de/entstehung-der-werteliste/
+ 248. https://www.values-academy.de/magazin/
+ 249. https://www.values-academy.de/experts/
+ 250. https://www.values-academy.de/wertebotschafter-rainer-bachmann/
+ 251. https://www.values-academy.de/werte-coach-robert-berthold/
+ 252. https://www.values-academy.de/werte-coach-daniel-boernert/
+ 253. https://www.values-academy.de/werte-coach-janina-gebhard/
+ 254. https://www.values-academy.de/werte-coach-daniel-hebenstreit/
+ 255. https://www.values-academy.de/werte-coach-peter-heimboeckel/
+ 256. https://www.values-academy.de/werte-coach-markus-leffin/
+ 257. https://www.values-academy.de/werte-coach-viktor-michel/
+ 258. https://www.values-academy.de/wertebotschafter-oliver-muench/
+ 259. https://www.values-academy.de/werte-coach-tom-reulein/
+ 260. https://www.values-academy.de/werte-coach-florian-sauer/
+ 261. https://www.values-academy.de/werte-coach-frank-h-sauer/
+ 262. https://www.values-academy.de/werte-coach-josefine-schubert/
+ 263. https://www.values-academy.de/werte-coach-karin-stauder/
+ 264. https://www.values-academy.de/wertebotschafter-thomas-stemmler/
+ 265. https://www.values-academy.de/werte-coach-rosi-thiedmann/
+ 266. https://www.values-academy.de/werte-coach-anna-werr/
+ 267. https://www.values-academy.de/partner/
+ 268. https://www.values-academy.de/partner-mensch-und-veraenderung/
+ 269. https://www.values-academy.de/partner-esg-innovations/
+ 270. https://www.values-academy.de/partner-curating-corporate-culture-cucocu/
+ 271. https://www.values-academy.de/partner-studio-komplementaer/
+ 272. https://www.values-academy.de/partnerprojekt-valuesmatter-euwea/
+ 273. https://www.values-academy.de/portfolio/
+ 274. https://www.values-academy.de/sitemap/
+ 275. https://www.values-academy.de/wertetest/
+ 276. https://www.values-academy.de/wertetest-team/
+ 277. https://www.values-academy.de/online-werte-schnupperkurse/
+ 278. https://www.values-academy.de/werte-workshop/
+ 279. https://www.values-academy.de/beschreibung-und-inhalte-des-werte-workshops/
+ 280. https://www.values-academy.de/teilnehmerstimmen-werteworkshops/
+ 281. https://www.values-academy.de/anmeldeformular-werte-workshops/
+ 282. https://www.values-academy.de/anfahrt-huerth-koeln-office-lounge/
+ 283. https://www.values-academy.de/anfahrt-linz-values-akademy-austria/
+ 284. https://www.values-academy.de/anfahrt-zuerich-values-academy-switzerland/
+ 285. https://www.values-academy.de/handout-werte-workshops/
+ 286. https://www.values-academy.de/ausbildung-zum-werte-coach/
+ 287. https://www.values-academy.de/termine-weco/
+ 288. https://www.values-academy.de/ausbildung-weco-details/
+ 289. https://www.values-academy.de/eiva/
+ 290. https://www.values-academy.de/?wertearbeit=werte-supervision
+ 291. https://www.values-academy.de/wertearbeit/
+ 292. https://www.values-academy.de/wertetools/
+ 293. https://shop.values-academy.de/
+ 294. https://www.values-academy.de/kontaktanfrage/
+ 295. https://www.values-academy.de/termine/
+ 296. https://www.values-academy.de/werte-news/
+ 297. https://www.values-academy.de/werte-news/
+ 298. https://www.values-academy.de/newsletter-archiv/
+ 299. https://shop.values-academy.de/
+ 300. https://shop.values-academy.de/collections/buecher
+ 301. https://shop.values-academy.de/collections/spiel
+ 302. https://shop.values-academy.de/collections/werte-karten
+ 303. https://shop.values-academy.de/collections/plakat
+ 304. https://shop.values-academy.de/collections/objekte-kleinauflage
+ 305. https://shop.values-academy.de/collections/downloads
+ 306. https://www.values-academy.de/ueber-uns/
+ 307. https://www.values-academy.de/das-team/
+ 308. https://www.values-academy.de/experts/
+ 309. https://www.values-academy.de/partner/
+ 310. https://www.values-academy.de/mitgliedschaften-engagement/
+ 311. https://www.values-academy.de/kontaktanfrage/
+ 312. https://www.values-academy.de/spender/
+ 313. https://www.values-academy.de/sitemap/
+ 314. https://www.values-academy.de/werte-lexikon/
+ 315. https://www.values-academy.de/werte-lexikon/alle-werte/
+ 316. https://www.values-academy.de/werte-lexikon/wertesysteme/
+ 317. https://www.values-academy.de/werte-lexikon/werte-wissen/
+ 318. https://www.values-academy.de/werte-lexikon/glossar/
+ 319. https://www.values-academy.de/werte-lexikon/download/
+ 320. https://www.values-academy.de/werte-lexikon/alle-werte/
+ 321. https://www.values-academy.de/werte-lexikon/wertesysteme/
+ 322. https://www.values-academy.de/werte-lexikon/werte-wissen/
+ 323. https://www.values-academy.de/werte-lexikon/glossar/
+ 324. https://www.values-academy.de/werte-lexikon/download/
+ 325. https://www.values-academy.de/wertetest/
+ 326. https://www.values-academy.de/online-werte-schnupperkurse/
+ 327. https://shop.values-academy.de/products/welex-buch-werte-lexikon-2024
+ 328. https://shop.values-academy.de/products/welex-werte-lexikon-2024-ebook
+ 329. https://shop.values-academy.de/products/das-grosse-buch-der-werte-2024
+ 330. https://www.values-academy.de/wertetest/
+ 331. https://www.values-academy.de/online-werte-schnupperkurse/
+ 332. https://www.values-academy.de/abenteuer/
+ 333. https://www.values-academy.de/achtsamkeit/
+ 334. https://www.values-academy.de/agilitaet/
+ 335. https://www.values-academy.de/aktivitaet/
+ 336. https://www.values-academy.de/aktualitaet/
+ 337. https://www.values-academy.de/akzeptanz/
+ 338. https://www.values-academy.de/altruismus/
+ 339. https://www.values-academy.de/andersartigkeit/
+ 340. https://www.values-academy.de/anerkennung/
+ 341. https://www.values-academy.de/anmut/
+ 342. https://www.values-academy.de/ansehen/
+ 343. https://www.values-academy.de/aesthetik/
+ 344. https://www.values-academy.de/aufgeschlossenheit/
+ 345. https://www.values-academy.de/aufmerksamkeit/
+ 346. https://www.values-academy.de/ausdauer/
+ 347. https://www.values-academy.de/ausgeglichenheit/
+ 348. https://www.values-academy.de/ausgewogenheit/
+ 349. https://www.values-academy.de/authentizitaet/
+ 350. https://www.values-academy.de/begeisterung/
+ 351. https://www.values-academy.de/beharrlichkeit/
+ 352. https://www.values-academy.de/bescheidenheit/
+ 353. https://www.values-academy.de/besonnenheit/
+ 354. https://www.values-academy.de/dankbarkeit/
+ 355. https://www.values-academy.de/demut/
+ 356. https://www.values-academy.de/disziplin/
+ 357. https://www.values-academy.de/effektivitaet/
+ 358. https://www.values-academy.de/effizienz/
+ 359. https://www.values-academy.de/ehrlichkeit/
+ 360. https://www.values-academy.de/empathie/
+ 361. https://www.values-academy.de/engagement/
+ 362. https://www.values-academy.de/entscheidungsfreude/
+ 363. https://www.values-academy.de/fairness/
+ 364. https://www.values-academy.de/fleiss/
+ 365. https://www.values-academy.de/flexibilitaet/
+ 366. https://www.values-academy.de/freiheit/
+ 367. https://www.values-academy.de/freude/
+ 368. https://www.values-academy.de/freundlichkeit/
+ 369. https://www.values-academy.de/frieden/
+ 370. https://www.values-academy.de/froehlichkeit/
+ 371. https://www.values-academy.de/fuersorglichkeit/
+ 372. https://www.values-academy.de/geduld/
+ 373. https://www.values-academy.de/gelassenheit/
+ 374. https://www.values-academy.de/gemuetlichkeit/
+ 375. https://www.values-academy.de/gerechtigkeit/
+ 376. https://www.values-academy.de/gesundheit/
+ 377. https://www.values-academy.de/glaubwuerdigkeit/
+ 378. https://www.values-academy.de/grosszuegigkeit/
+ 379. https://www.values-academy.de/guete/
+ 380. https://www.values-academy.de/harmonie/
+ 381. https://www.values-academy.de/herzlichkeit/
+ 382. https://www.values-academy.de/hilfsbereitschaft/
+ 383. https://www.values-academy.de/hingabe/
+ 384. https://www.values-academy.de/hoffnungsvoll/
+ 385. https://www.values-academy.de/hoeflichkeit/
+ 386. https://www.values-academy.de/humor/
+ 387. https://www.values-academy.de/idealistisch/
+ 388. https://www.values-academy.de/individualitaet/
+ 389. https://www.values-academy.de/innovativ/
+ 390. https://www.values-academy.de/inspirierend/
+ 391. https://www.values-academy.de/integritaet/
+ 392. https://www.values-academy.de/intelligent/
+ 393. https://www.values-academy.de/interesse/
+ 394. https://www.values-academy.de/intuition/
+ 395. https://www.values-academy.de/klarheit/
+ 396. https://www.values-academy.de/klugheit/
+ 397. https://www.values-academy.de/konsequent/
+ 398. https://www.values-academy.de/konservativ/
+ 399. https://www.values-academy.de/kontrolle/
+ 400. https://www.values-academy.de/kreativitaet/
+ 401. https://www.values-academy.de/leichtigkeit/
+ 402. https://www.values-academy.de/leidenschaft/
+ 403. https://www.values-academy.de/liebenswuerdigkeit/
+ 404. https://www.values-academy.de/loyalitaet/
+ 405. https://www.values-academy.de/mitgefuehl/
+ 406. https://www.values-academy.de/motivierend/
+ 407. https://www.values-academy.de/mut
+ 408. https://www.values-academy.de/nachhaltigkeit/
+ 409. https://www.values-academy.de/naechstenliebe/
+ 410. https://www.values-academy.de/neugier/
+ 411. https://www.values-academy.de/neutralitaet/
+ 412. https://www.values-academy.de/offenheit/
+ 413. https://www.values-academy.de/optimismus/
+ 414. https://www.values-academy.de/ordnungssinn/
+ 415. https://www.values-academy.de/pflichtgefuehl/
+ 416. https://www.values-academy.de/phantasie/
+ 417. https://www.values-academy.de/pragmatisch/
+ 418. https://www.values-academy.de/praesenz/
+ 419. https://www.values-academy.de/praezision/
+ 420. https://www.values-academy.de/professionalitaet/
+ 421. https://www.values-academy.de/puenktlichkeit/
+ 422. https://www.values-academy.de/realismus/
+ 423. https://www.values-academy.de/redlichkeit/
+ 424. https://www.values-academy.de/resilienz/
+ 425. https://www.values-academy.de/respekt/
+ 426. https://www.values-academy.de/ruecksichtnahme/
+ 427. https://www.values-academy.de/ruhe/
+ 428. https://www.values-academy.de/sanftmut/
+ 429. https://www.values-academy.de/sauberkeit/
+ 430. https://www.values-academy.de/selbstdisziplin/
+ 431. https://www.values-academy.de/selbstvertrauen/
+ 432. https://www.values-academy.de/sensibel/
+ 433. https://www.values-academy.de/seriositaet/
+ 434. https://www.values-academy.de/sicherheit/
+ 435. https://www.values-academy.de/solidaritaet/
+ 436. https://www.values-academy.de/sorgfalt/
+ 437. https://www.values-academy.de/sparsamkeit/
+ 438. https://www.values-academy.de/spass/
+ 439. https://www.values-academy.de/standfestigkeit/
+ 440. https://www.values-academy.de/sympathie/
+ 441. https://www.values-academy.de/tapferkeit/
+ 442. https://www.values-academy.de/teamgeist/
+ 443. https://www.values-academy.de/teilen/
+ 444. https://www.values-academy.de/toleranz/
+ 445. https://www.values-academy.de/traditionell/
+ 446. https://www.values-academy.de/transparenz/
+ 447. https://www.values-academy.de/treue/
+ 448. https://www.values-academy.de/tuechtigkeit/
+ 449. https://www.values-academy.de/unabhaengigkeit/
+ 450. https://www.values-academy.de/unbestechlichkeit/
+ 451. https://www.values-academy.de/verantwortung/
+ 452. https://www.values-academy.de/verlaesslichkeit/
+ 453. https://www.values-academy.de/vertrauen/
+ 454. https://www.values-academy.de/verzeihen/
+ 455. https://www.values-academy.de/wachsamkeit/
+ 456. https://www.values-academy.de/weisheit/
+ 457. https://www.values-academy.de/weitsicht/
+ 458. https://www.values-academy.de/willenskraft/
+ 459. https://www.values-academy.de/wuerde/
+ 460. https://www.values-academy.de/zielstrebigkeit/
+ 461. https://www.values-academy.de/zuneigung/
+ 462. https://www.values-academy.de/zuverlaessigkeit/
+ 463. https://www.values-academy.de/zuversicht/
+ 464. https://www.values-academy.de/antonyme-werte/
+ 465. https://www.values-academy.de/realismus/
+ 466. https://www.values-academy.de/was-sind-werte/
+ 467. https://www.values-academy.de/intuition/
+ 468. https://www.values-academy.de/was-sind-werte/
+ 469. https://www.values-academy.de/was-sind-werte/
+ 470. https://www.values-academy.de/wertschoepfung/
+ 471. https://www.values-academy.de/inspirierend/
+ 472. https://www.values-academy.de/empathie/
+ 473. https://www.values-academy.de/preis/
+ 474. https://www.values-academy.de/freiheit/
+ 475. https://www.values-academy.de/sicherheit/
+ 476. https://www.values-academy.de/denken/
+ 477. https://www.values-academy.de/willenskraft/
+ 478. https://www.values-academy.de/wahrheit/
+ 479. https://www.values-academy.de/mut/
+ 480. https://www.values-academy.de/disziplin/
+ 481. https://www.values-academy.de/freiheit/
+ 482. https://www.values-academy.de/immanuel-kant/
+ 483. https://www.values-academy.de/immanuel-kant/
+ 484. https://www.values-academy.de/immanuel-kant/
+ 485. https://www.values-academy.de/immanuel-kant/
+ 486. https://www.values-academy.de/abenteuer
+ 487. https://www.values-academy.de/achtsamkeit
+ 488. https://www.values-academy.de/agilitaet
+ 489. https://www.values-academy.de/aktivitaet
+ 490. https://www.values-academy.de/aktualitaet
+ 491. https://www.values-academy.de/akzeptanz
+ 492. https://www.values-academy.de/altruismus
+ 493. https://www.values-academy.de/andersartigkeit
+ 494. https://www.values-academy.de/anerkennung
+ 495. https://www.values-academy.de/anmut
+ 496. https://www.values-academy.de/ansehen
+ 497. https://www.values-academy.de/anstand
+ 498. https://www.values-academy.de/aesthetik
+ 499. https://www.values-academy.de/aufgeschlossenheit
+ 500. https://www.values-academy.de/aufmerksamkeit
+ 501. https://www.values-academy.de/ausdauer
+ 502. https://www.values-academy.de/ausgeglichenheit
+ 503. https://www.values-academy.de/ausgewogenheit
+ 504. https://www.values-academy.de/authentizitaet
+ 505. https://www.values-academy.de/begeisterung
+ 506. https://www.values-academy.de/beharrlichkeit
+ 507. https://www.values-academy.de/bescheidenheit
+ 508. https://www.values-academy.de/besonnenheit
+ 509. https://www.values-academy.de/dankbarkeit
+ 510. https://www.values-academy.de/demut
+ 511. https://www.values-academy.de/disziplin
+ 512. https://www.values-academy.de/effektivitaet
+ 513. https://www.values-academy.de/effizienz
+ 514. https://www.values-academy.de/ehrlichkeit
+ 515. https://www.values-academy.de/empathie
+ 516. https://www.values-academy.de/engagement
+ 517. https://www.values-academy.de/entscheidungsfreude
+ 518. https://www.values-academy.de/fairness
+ 519. https://www.values-academy.de/fleiss
+ 520. https://www.values-academy.de/flexibilitaet
+ 521. https://www.values-academy.de/freiheit
+ 522. https://www.values-academy.de/freude
+ 523. https://www.values-academy.de/freundlichkeit
+ 524. https://www.values-academy.de/frieden
+ 525. https://www.values-academy.de/froehlichkeit
+ 526. https://www.values-academy.de/fuersorglichkeit
+ 527. https://www.values-academy.de/geduld
+ 528. https://www.values-academy.de/gelassenheit
+ 529. https://www.values-academy.de/gemuetlichkeit
+ 530. https://www.values-academy.de/gerechtigkeit
+ 531. https://www.values-academy.de/gesundheit
+ 532. https://www.values-academy.de/glaubwuerdigkeit
+ 533. https://www.values-academy.de/grosszuegigkeit
+ 534. https://www.values-academy.de/guete
+ 535. https://www.values-academy.de/harmonie
+ 536. https://www.values-academy.de/herzlichkeit
+ 537. https://www.values-academy.de/hilfsbereitschaft
+ 538. https://www.values-academy.de/hingabe
+ 539. https://www.values-academy.de/hoffnungsvoll
+ 540. https://www.values-academy.de/hoeflichkeit
+ 541. https://www.values-academy.de/humor
+ 542. https://www.values-academy.de/idealistisch
+ 543. https://www.values-academy.de/individualitaet
+ 544. https://www.values-academy.de/innovativ
+ 545. https://www.values-academy.de/inspirierend
+ 546. https://www.values-academy.de/integritaet
+ 547. https://www.values-academy.de/intelligent
+ 548. https://www.values-academy.de/interesse
+ 549. https://www.values-academy.de/intuition
+ 550. https://www.values-academy.de/klugheit
+ 551. https://www.values-academy.de/konsequent
+ 552. https://www.values-academy.de/konservativ
+ 553. https://www.values-academy.de/kontrolle
+ 554. https://www.values-academy.de/kreativitaet
+ 555. https://www.values-academy.de/leidenschaft
+ 556. https://www.values-academy.de/leichtigkeit
+ 557. https://www.values-academy.de/liebenswuerdigkeit
+ 558. https://www.values-academy.de/loyalitaet
+ 559. https://www.values-academy.de/mitgefuehl
+ 560. https://www.values-academy.de/motivierend
+ 561. https://www.values-academy.de/mut
+ 562. https://www.values-academy.de/nachhaltigkeit
+ 563. https://www.values-academy.de/naechstenliebe
+ 564. https://www.values-academy.de/neutralitaet
+ 565. https://www.values-academy.de/offenheit
+ 566. https://www.values-academy.de/optimismus
+ 567. https://www.values-academy.de/ordnungssinn
+ 568. https://www.values-academy.de/pflichtgefuehl
+ 569. https://www.values-academy.de/phantasie
+ 570. https://www.values-academy.de/pragmatisch
+ 571. https://www.values-academy.de/praesenz
+ 572. https://www.values-academy.de/praezision
+ 573. https://www.values-academy.de/professionalitaet
+ 574. https://www.values-academy.de/puenktlichkeit
+ 575. https://www.values-academy.de/realismus
+ 576. https://www.values-academy.de/redlichkeit
+ 577. https://www.values-academy.de/resilienz
+ 578. https://www.values-academy.de/respekt
+ 579. https://www.values-academy.de/ruecksichtnahme
+ 580. https://www.values-academy.de/ruhe
+ 581. https://www.values-academy.de/sanftmut
+ 582. https://www.values-academy.de/sauberkeit
+ 583. https://www.values-academy.de/selbstdisziplin
+ 584. https://www.values-academy.de/selbstvertrauen
+ 585. https://www.values-academy.de/sensibel
+ 586. https://www.values-academy.de/seriositaet
+ 587. https://www.values-academy.de/sicherheit
+ 588. https://www.values-academy.de/solidaritaet
+ 589. https://www.values-academy.de/sorgfalt
+ 590. https://www.values-academy.de/sparsamkeit
+ 591. https://www.values-academy.de/spass
+ 592. https://www.values-academy.de/standfestigkeit
+ 593. https://www.values-academy.de/sympathie
+ 594. https://www.values-academy.de/tapferkeit
+ 595. https://www.values-academy.de/teamgeist
+ 596. https://www.values-academy.de/teilen
+ 597. https://www.values-academy.de/toleranz
+ 598. https://www.values-academy.de/traditionell
+ 599. https://www.values-academy.de/transparenz
+ 600. https://www.values-academy.de/treue
+ 601. https://www.values-academy.de/tuechtigkeit
+ 602. https://www.values-academy.de/unabhaengigkeit
+ 603. https://www.values-academy.de/unbestechlichkeit
+ 604. https://www.values-academy.de/verantwortung
+ 605. https://www.values-academy.de/verlaesslichkeit
+ 606. https://www.values-academy.de/vertrauen
+ 607. https://www.values-academy.de/verzeihen
+ 608. https://www.values-academy.de/wachsamkeit
+ 609. https://www.values-academy.de/weisheit
+ 610. https://www.values-academy.de/weitsicht
+ 611. https://www.values-academy.de/willenskraft
+ 612. https://www.values-academy.de/wuerde
+ 613. https://www.values-academy.de/zielstrebigkeit
+ 614. https://www.values-academy.de/zuneigung
+ 615. https://www.values-academy.de/zuverlaessigkeit
+ 616. https://www.values-academy.de/zuversicht
+ 617. https://www.values-academy.de/werte-lexikon/alle-werte/
+ 618. https://www.values-academy.de/newsletter/
+ 619. https://www.instagram.com/values_academy/?hl=de
+ 620. https://de.linkedin.com/company/values-academy-europe
+ 621. https://www.youtube.com/werteland
+ 622. https://www.facebook.com/valuesacademy.de
+ 623. https://www.values-academy.de/
+ 624. https://www.values-academy.de/werte-lexikon/
+ 625. https://www.values-academy.de/termine/
+ 626. https://www.values-academy.de/portfolio/
+ 627. https://www.values-academy.de/experts/
+ 628. https://www.values-academy.de/shop/
+ 629. https://www.values-academy.de/magazin/
+ 630. https://www.values-academy.de/newsletter/
+ 631. https://www.values-academy.de/kontakt/
+ 632. https://www.values-academy.de/online-werte-schnupperkurse/
+ 633. https://www.values-academy.de/das-team/
+ 634. https://www.values-academy.de/ueber-uns/
+ 635. https://davinci3000.de/
+ 636. https://www.values-academy.de/impressum
+ 637. https://www.values-academy.de/datenschutzerklaerung
+ 638. https://www.values-academy.de/
+ 639. https://www.values-academy.de/werte-lexikon/
+ 640. https://www.values-academy.de/termine/
+ 641. https://www.values-academy.de/portfolio/
+ 642. https://www.values-academy.de/experts/
+ 643. https://www.values-academy.de/shop/
+ 644. https://www.values-academy.de/magazin/
+ 645. https://www.values-academy.de/newsletter/
+ 646. https://www.values-academy.de/kontakt/
+ 647. https://www.values-academy.de/online-werte-schnupperkurse/
+ 648. https://www.values-academy.de/das-team/
+ 649. https://www.values-academy.de/ueber-uns/
+ 650. https://davinci3000.de/
+ 651. https://www.values-academy.de/impressum
+ 652. https://www.values-academy.de/datenschutzerklaerung
+ 653. https://www.instagram.com/values_academy/?hl=de
+ 654. https://de.linkedin.com/company/values-academy-europe
+ 655. https://www.youtube.com/werteland
+ 656. https://www.facebook.com/valuesacademy.de
+ 657. https://www.floriansauer.com/
+ 658. https://euwea.de/spenden/
+ 659. https://shop.values-academy.de/products/das-grosse-buch-der-werte-2024
+ 660. https://shop.values-academy.de/products/welex-buch-werte-lexikon-2024
+ 661. https://shop.values-academy.de/products/welex-werte-lexikon-2024-ebook
+ 662. https://amzn.to/3y5BXtu
+ 663. https://shop.values-academy.de/collections/spiel
+ 664. https://shop.values-academy.de/collections/werte-karten
+ 665. https://shop.values-academy.de/collections/plakat
+
+   Hidden links:
+ 667. https://www.values-academy.de/phantasie/
+ 668. https://www.values-academy.de/phantasie/
+ 669. https://www.values-academy.de/phantasie/
+ 670. https://www.values-academy.de/phantasie/
+ 671. https://www.values-academy.de/phantasie/
+ 672. https://www.values-academy.de/phantasie/
+ 673. https://www.values-academy.de/phantasie/
+ 674. https://www.values-academy.de/phantasie/
+ 675. https://www.values-academy.de/phantasie/
+ 676. https://www.values-academy.de/phantasie/
+ 677. https://www.values-academy.de/phantasie/
+ 678. https://www.values-academy.de/phantasie/

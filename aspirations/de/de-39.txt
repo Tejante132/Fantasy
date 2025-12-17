@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html class='no-js' data-lang='' lang='en-UK'>
+<head>
+<!-- philosophie.ch   (Thu, 04 Dec 2025 12:37:51 +0100) -->
+<link rel="stylesheet" media="all" href="/packs/css/application-0bc00fa7.css" />
+<script src="/packs/js/application-019bdbe59ac0059a4fcc.js"></script>
+<script src="//platform-api.sharethis.com/js/sharethis.js#property=6829e4bb7c84420012f1791d&amp;product=inline-share-buttons" async="async"></script>
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,bold,bolditalic|Droid+Sans:400,500,bold,bolditalic" rel="stylesheet">
+<link rel="canonical" href="https://www.philosophie.ch/2021-11-14-wels">
+<meta name="description" content="&lt;p&gt;Volkhard Wels&#39; Input zu einem Gedankenexperiment&lt;/p&gt;">
+<meta name="DC.title" content="Was nützt Fantasie?">
+<meta name="DC.creator" content="Volkhard Wels">
+<meta name="DC.type" content="Text.Article">
+<meta name="DC.format" content="text/html">
+<meta name="citation_title" content="Was nützt Fantasie?">
+<meta name="citation_author" content="Volkhard Wels">
+<meta name="citation_publisher" content="Philosophie.ch">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Was nützt Fantasie?">
+<meta property="og:description" content="&lt;p&gt;Volkhard Wels&#39; Input zu einem Gedankenexperiment&lt;/p&gt;">
+<meta property="og:url" content="https://www.philosophie.ch/2021-11-14-wels">
+<meta property="og:image" content="https://assets.philosophie.ch/logo-philosophieren-mit.png">
+<meta property="article:author" content="Volkhard Wels">
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "Was nützt Fantasie?",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Volkhard Wels"
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Philosophie.ch"
+  },
+  "image": "https://assets.philosophie.ch/logo-philosophieren-mit.png",
+  "url": "https://www.philosophie.ch/2021-11-14-wels",
+  "mainEntityOfPage": "https://www.philosophie.ch/2021-11-14-wels"
+}</script>
+
+<script src="/assets/tinymce-206303c7bf54178e31b6f6412618091cc1c09921da5974e6406f39e4c338ad04.js" data-turbolinks-track="reload"></script>
+<script>
+//<![CDATA[
+TinyMCERails.configuration.default = {
+  selector: "textarea.tinymce",
+  cache_suffix: "?v=5.4.1",
+  language: "en",
+  menubar: false,
+  toolbar: "undo redo | bold italic | superscript bullist numlist | removeformat | link unlink",
+  plugins: "lists,link,paste",
+  paste_as_text: true
+};
+TinyMCERails.initialize('default', {
+  
+});
+//]]>
+</script>
+<meta content='IXIE41493M3rU7RsVSGoiE8L1Ej_-vh0LB_NPU58L9I' name='google-site-verification'>
+<meta content='width=device-width, initial-scale=1, shrink-to-fit=no' name='viewport'>
+<meta content='ie=edge' http-equiv='x-ua-compatible'>
+<meta charset='utf-8'>
+<title>Philosophie.ch - Was nützt Fantasie?</title>
+<meta name="created" content="2025-10-29 19:18:07 +0100" />
+<meta name="robots" content="index, follow" />
+<meta property="og:type" content="website" />
+<meta name="twitter:title" property="og:title" content="Was nützt Fantasie?" />
+<meta name="twitter:url" property="og:url" content="https://www.philosophie.ch/2021-11-14-wels" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:domain" property="og:site_name" content="Philosophie.ch" />
+
+
+
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon-feb1124a9b169944c8bc22c1851eed85de698384a7b3f10788bee541f068afe3.png">
+<link rel="icon" type="image/png" href="/assets/favicon/favicon-32x32-78a9144b588c672a766ddef0f135f3c68a3cc973e2257d21f64ceedf98081ac8.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/favicon/favicon-16x16-f8013ab224b05e1545823f6b9784bae317acbd5be75797a8a1935b055d740135.png" sizes="16x16">
+<link rel="manifest" href="/assets/favicon/manifest-410dcbed360937eeea9edb120905be60d8ca01b936e52916c6d363435fb7068a.json">
+<link rel="mask-icon" href="/assets/favicon/safari-pinned-tab-da5652ad853f4814e3bc66102dc469b22d8696bed37f56491f3731a3065e1d03.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/assets/favicon/favicon-8d33b1d071c1892d01448461bbc5292978c2434efb1b0c9c324f5701ba3741ed.ico">
+<meta name="msapplication-config" content="/assets/favicon/browserconfig-22c5b819d390ad2518a1d12079c1f8f9cb8caaa10652ac83a7dc5c96e06819f4.xml">
+<meta name="theme-color" content="#ffffff">
+<meta content='yes' name='mobile-web-app-capable'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='black' name='apple-mobile-web-app-status-bar-style'>
+<meta content='Philosophie.ch' name='apple-mobile-web-app-title'>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="xfeKkqQUSbqMUOmywX2jG+RnC0MlLA/Kau+vPeYUQNWKTddPcnjYynKwiUZ/8jh3+n7kKQhnAHK3sXxHUigtTA==" />
+<!-- Google Tag Manager -->
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NL2GKHP');
+</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe height='0' src='https://www.googletagmanager.com/ns.html?id=GTM-NL2GKHP' style='display:none;visibility:hidden' width='0'></iframe>
+</noscript>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-88013822-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+</head>
+<body class='page page--article pages'>
+<!--[if lt IE 11]>
+<p class="browse-happy">
+Sie benutzen einen <strong>veralteten</strong> Browser. Bitte <a href="http://browsehappy.com/">aktualisieren Sie
+Ihren Browser</a>
+um diese Seite optimal darzustellen.
+</p>
+<![endif]-->
+<div class='text-center'><a class="sr-only sr-only-focusable" href="#main-content"><span class="translation_missing" title="translation missing: en.layouts.application.skip_to_content">Skip To Content</span></a></div>
+<div class='hidden-print'>  <div class="cookies-eu js-cookies-eu">
+    <span class="cookies-eu-content-holder">Cookies help us deliver our services. By using our services, you agree to our use of cookies.</span>
+    <span class="cookies-eu-button-holder">
+    <button class="cookies-eu-ok js-cookies-eu-ok"> OK </button>
+    </span>
+  </div>
+</div>
+
+<div class='navbar navbar-default navbar-static-top yamm' role='navigation'>
+<div class='container hidden-xs hidden-print'>
+<div class='row'>
+<div class='col-xs-12'>
+<ul class='list-inline pull-right'>
+<li class="l-additional-page"><a title="Job Offers" href="/job-offers">Job Offers</a>
+</li><li class="l-additional-page"><a title="Press Review" href="/press-review">Press Review</a>
+</li><li class="l-additional-page"><a title="" target="_blank" href="/dialectica">Dialectica</a>
+</li><li class="l-additional-page"><a title="Our Research" href="/en/our-research">Our Research</a>
+</li>
+<li class='l-locale-switch'>
+
+<a class="de" href="/de/willkommen">D</a>
+ | 
+<a class="en" href="/en/welcome">E</a>
+ | 
+<a class="fr" href="/fr/bienvenue">F</a>
+ | 
+<a class="it" href="/it/benvenuto">I</a>
+</li>
+<li class='pr-0'>
+<form class="search__form search__form--top form-inline" role="form" action="/en-UK/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><div class="form-group"><label class="sr-only control-label" for="query">Query</label><div class="input-group"><input placeholder="Search" class="form-control" name="query" id="query" type="search" /><span class="input-group-btn"><button class="btn btn-primary" type="submit"><i class="fa fa-search"></i></button></span></div></div>
+</form></li>
+</ul>
+
+</div>
+</div>
+</div>
+<div class='container'>
+<div class='row-flex py-5 py-sm-0'>
+<div class='col visible-xs pl-0 hidden-print'>
+<a class='toggle hc-nav-trigger'>
+<span></span>
+<div class='sr-only'>Menu</div>
+</a>
+</div>
+<div class='col p-0'>
+<a class="navbar-brand hidden-xs ml-0 hidden-print" href="/root"><svg viewbox="0 0 500 110" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="svg svg--logo"><title>philosophie.ch</title>
+<desc>swiss portal for philosophie</desc><defs><path id="a" d="M248.394 109H.06V.437h496.67V109z"></path></defs><g fill="none" fill-rule="evenodd"><path d="M18.097 50.88c5.76 0 8.64-4.16 8.64-9.842v-7.12c0-5.68-2.88-9.92-8.64-9.92-5.6 0-8.64 4.16-8.64 9.68v7.36c0 5.68 2.96 9.84 8.64 9.84zM7.617 73.44h-4.88c-1.04 0-1.84-.8-1.84-1.84V19.356c0-1.12.8-1.92 1.84-1.92h4.88c1.04 0 1.84.8 1.84 1.92v2.56c2.32-3.2 5.68-5.28 11.2-5.28 8.96 0 14.64 6.32 14.64 18.24v4.8c0 12.16-5.92 18.56-14.64 18.56-5.2 0-8.8-1.84-11.2-5.278V71.6c0 1.04-.8 1.84-1.84 1.84zm37.68-17.84V3.356c0-1.12.8-1.92 1.84-1.92h4.88c1.04 0 1.84.8 1.84 1.92v18.64c2.16-3.12 5.36-5.36 11.04-5.36 9.84 0 14.56 7.36 14.56 18.24V55.6c0 1.04-.8 1.838-1.84 1.838h-4.88c-1.04 0-1.84-.8-1.84-1.84V33.84c0-6.4-3.52-9.84-8.56-9.84-4.88 0-8.48 3.44-8.48 9.84V55.6c0 1.04-.8 1.84-1.84 1.84h-4.88c-1.04 0-1.84-.8-1.84-1.84m45.68 0V19.356c0-1.12.8-1.92 1.84-1.92h4.88c1.04 0 1.84.8 1.84 1.92V55.6c0 1.04-.8 1.838-1.84 1.838h-4.88c-1.04 0-1.84-.8-1.84-1.84zm9.52-49.443c0 3.04-2.16 5.2-5.28 5.2-3.04 0-5.2-2.16-5.2-5.2s2.16-5.2 5.2-5.2c3.12 0 5.28 2.16 5.28 5.2zM111.694 55.6V3.356c0-1.12.8-1.92 1.84-1.92h4.88c1.04 0 1.84.8 1.84 1.92V55.6c0 1.04-.8 1.838-1.84 1.838h-4.88c-1.04 0-1.84-.8-1.84-1.84m35.76-4.718c4.96 0 8.56-3.442 8.56-9.842v-7.2c0-6.4-3.6-9.84-8.56-9.84-4.96 0-8.64 3.44-8.64 9.84v7.2c0 6.4 3.68 9.84 8.64 9.84zm0-34.242c9.6 0 17.2 7.04 17.2 18.24v5.2c0 11.2-7.6 18.16-17.2 18.16-9.68 0-17.2-6.96-17.2-18.16v-5.2c0-11.2 7.52-18.24 17.2-18.24zm24.958 30.48c-.08-.32-.16-.8-.08-1.12 0-.8.56-1.28 1.36-1.28h4.96c.88 0 1.28.48 1.52 1.2.56 2.16 2.32 5.36 8.08 5.36 4.56 0 7.44-1.44 7.44-5.04 0-8.32-22.72-1.6-22.72-17.92 0-8.24 7.12-11.68 15.12-11.68 9.84 0 13.68 6 14.96 10.64.08.24.16.72.16 1.12-.08.8-.64 1.36-1.44 1.36h-4.96c-.96 0-1.2-.4-1.52-1.28-.8-2.24-2.16-4.88-7.52-4.88-3.44 0-6.56 1.04-6.56 4.32 0 8.8 22.64 2.08 22.64 18.08 0 9.04-7.36 12.24-15.68 12.24-9.76 0-14.88-5.76-15.76-11.12m56.48 3.762c4.96 0 8.56-3.442 8.56-9.842v-7.2c0-6.4-3.6-9.84-8.56-9.84-4.96 0-8.64 3.44-8.64 9.84v7.2c0 6.4 3.68 9.84 8.64 9.84zm0-34.242c9.6 0 17.2 7.04 17.2 18.24v5.2c0 11.2-7.6 18.16-17.2 18.16-9.68 0-17.2-6.96-17.2-18.16v-5.2c0-11.2 7.52-18.24 17.2-18.24zm44.16 34.242c5.76 0 8.64-4.16 8.64-9.842v-7.12c0-5.68-2.88-9.92-8.64-9.92-5.6 0-8.64 4.16-8.64 9.68v7.36c0 5.68 2.96 9.84 8.64 9.84zm-10.48 22.56h-4.88c-1.04 0-1.84-.8-1.84-1.84V19.356c0-1.12.8-1.92 1.84-1.92h4.88c1.04 0 1.84.8 1.84 1.92v2.56c2.32-3.2 5.68-5.28 11.2-5.28 8.96 0 14.64 6.32 14.64 18.24v4.8c0 12.16-5.92 18.56-14.64 18.56-5.2 0-8.8-1.84-11.2-5.278V71.6c0 1.04-.8 1.84-1.84 1.84zM300.25 55.6V3.356c0-1.12.8-1.92 1.84-1.92h4.88c1.042 0 1.84.8 1.84 1.92v18.64c2.16-3.12 5.362-5.36 11.042-5.36 9.84 0 14.56 7.36 14.56 18.24V55.6c0 1.04-.8 1.838-1.84 1.838h-4.88c-1.04 0-1.84-.8-1.84-1.84V33.84c0-6.4-3.52-9.84-8.56-9.84-4.88 0-8.48 3.44-8.48 9.84V55.6c0 1.04-.8 1.84-1.84 1.84h-4.88c-1.04 0-1.84-.8-1.84-1.84m45.678 0V19.356c0-1.12.8-1.92 1.84-1.92h4.88c1.04 0 1.842.8 1.842 1.92V55.6c0 1.04-.8 1.838-1.84 1.838h-4.88c-1.04 0-1.84-.8-1.84-1.84zm9.522-49.443c0 3.04-2.16 5.2-5.28 5.2-3.04 0-5.2-2.16-5.2-5.2s2.16-5.2 5.2-5.2c3.12 0 5.28 2.16 5.28 5.2zm35.038 27.12c0-5.84-3.68-9.28-8.64-9.28-4.96 0-8.64 3.44-8.64 9.28v.88h17.28v-.88zm-8.56 17.602c2.8 0 5.76-.563 7.84-4.803.32-.4.8-1.12 1.92-1.12h5.12c.8 0 1.28.56 1.28 1.28 0 .4-.16.96-.32 1.36-2.96 7.76-9.92 10.64-15.84 10.64-9.6 0-17.28-6.96-17.28-18.16v-5.2c0-11.2 7.6-18.24 17.2-18.24 9.52 0 17.04 7.28 17.04 18v3.76c0 1.04-.88 1.84-1.92 1.84h-23.76v1.12c0 5.76 3.76 9.52 8.72 9.52zm55.84 2c4.88 0 8.16-2.32 9.76-8.16.16-.722.48-.962 1.04-.962h3.84c.56 0 .88.4.88.96 0 .16 0 .56-.08.96-.88 4.96-5.44 12.56-15.44 12.56-9.2 0-16.32-6.56-16.32-17.76V34.4c0-11.2 7.04-17.76 16.32-17.76 9.52 0 14.32 6.88 15.52 13.12 0 .24.08.4.08.48 0 .56-.4.96-.88.96h-3.84c-.72 0-1.04-.56-1.12-1.04-1.28-5.04-4.24-8.16-9.76-8.16-6 0-10.4 4.32-10.4 12v6.88c0 7.76 4.48 12 10.4 12" fill="#1A1918"></path><g transform="translate(0 1)"><mask id="b" fill="#fff"><use xlink:href="#a"></use></mask><path d="M464.49 55.078V1.798c0-.72.558-1.36 1.36-1.36h3.358c.72 0 1.36.64 1.36 1.36v19.84c1.92-3.2 5.28-6 11.2-6 9.84 0 14.96 7.2 14.96 17.76v21.68c0 .8-.56 1.36-1.358 1.36h-3.36c-.8 0-1.28-.56-1.28-1.36v-22.08c0-7.68-4.16-12-10.16-12-5.92 0-10 4.32-10 12v22.08c0 .8-.64 1.36-1.362 1.36h-3.36c-.8 0-1.36-.56-1.36-1.36M11.57 92.916c-.212-1.453-.97-2.847-3.786-2.847-2.392 0-3.998.573-3.998 2.845 0 5.09 11.48 1.848 11.48 10.025 0 4.485-3.786 6.06-7.482 6.06C2.15 109 0 105.152 0 102.488c0-.394.303-.697.697-.697h1.817c.394 0 .636.335.667.64.09 1 .698 3.693 4.605 3.693 2.635 0 4.24-.85 4.24-3.18 0-4.998-11.48-1.817-11.48-10.026 0-3.725 2.667-5.725 7.3-5.725 5.09 0 6.998 3.09 6.998 5.665 0 .395-.334.698-.727.698h-1.818c-.393 0-.636-.213-.727-.637" fill="#1A1918" mask="url(#b)"></path></g><path d="M46.01 89.01c0 .09-.03.272-.12.514l-5.362 19.627c-.09.275-.333.548-.696.548H37.47c-.364 0-.607-.273-.697-.546l-4.09-15.78-4.028 15.78a.698.698 0 0 1-.697.547h-2.302a.7.7 0 0 1-.696-.547L19.568 89.68c-.06-.243-.15-.546-.15-.667 0-.303.21-.516.483-.516h2.244c.273 0 .636.12.757.697l3.938 15.66 4.09-15.628c.12-.486.363-.728.726-.728h2.15c.304 0 .607.152.758.728l4.09 15.63 3.908-15.63c.09-.333.272-.728.756-.728h2.182c.302 0 .514.213.514.516M51.464 109V89.222c0-.425.304-.728.697-.728h1.85c.393 0 .697.303.697.728V109a.686.686 0 0 1-.697.697h-1.85a.686.686 0 0 1-.696-.697m20.9-15.084c-.212-1.453-.97-2.847-3.786-2.847-2.393 0-3.998.573-3.998 2.845 0 5.09 11.48 1.848 11.48 10.025 0 4.485-3.787 6.06-7.482 6.06-5.634 0-7.784-3.848-7.784-6.512 0-.394.303-.697.696-.697h1.818c.393 0 .636.335.666.64.09 1 .696 3.693 4.604 3.693 2.635 0 4.24-.85 4.24-3.18 0-4.998-11.48-1.817-11.48-10.026 0-3.725 2.666-5.725 7.3-5.725 5.09 0 6.997 3.09 6.997 5.665 0 .395-.333.698-.727.698H73.09c-.393 0-.635-.213-.726-.637m20.206-.002c-.213-1.453-.97-2.847-3.788-2.847-2.392 0-3.998.573-3.998 2.845 0 5.09 11.48 1.848 11.48 10.025 0 4.485-3.786 6.06-7.482 6.06-5.633 0-7.784-3.848-7.784-6.512 0-.394.303-.697.697-.697h1.817c.394 0 .636.335.667.64.09 1 .694 3.693 4.6 3.693 2.637 0 4.24-.85 4.24-3.18 0-4.998-11.477-1.817-11.477-10.026 0-3.725 2.665-5.725 7.3-5.725 5.087 0 6.995 3.09 6.995 5.665 0 .395-.334.698-.727.698h-1.817c-.393 0-.635-.213-.726-.637m22.083-2.364v7.723h4.877c1.878 0 3.514-1.18 3.514-3.665v-.545c0-2.483-1.634-3.513-3.512-3.513h-4.876zm5.09 10.782h-5.09V109a.685.685 0 0 1-.696.697h-1.847a.685.685 0 0 1-.697-.697V89.222c0-.425.302-.728.697-.728h7.632c3.844 0 6.54 2.272 6.54 6.392v.757c0 4.12-2.696 6.693-6.542 6.693zm19.628 4.604c2.634 0 4.815-1.968 4.815-5.482v-4.694c0-3.514-2.18-5.513-4.815-5.513-2.665 0-4.785 2-4.785 5.515v4.694c0 3.513 2.15 5.48 4.785 5.48zm0-18.75c4.603 0 8.087 3.394 8.087 8.543v4.725c0 5.15-3.484 8.542-8.087 8.542-4.604 0-8.057-3.393-8.057-8.542v-4.725c0-5.15 3.455-8.542 8.06-8.542zm22.596 10.42c1.878 0 3.514-.968 3.514-3.27v-.454c0-2.484-1.636-3.332-3.514-3.332h-4.876v7.057h4.876zm-5.573 11.087h-1.845a.685.685 0 0 1-.697-.697V89.222c0-.425.303-.728.697-.728h7.632c3.847 0 6.543 2.09 6.543 6.21v.666c0 2.726-1.243 4.876-4.18 5.755l3.937 7.45c.15.243.242.425.242.637a.48.48 0 0 1-.486.485H165.9c-.393 0-.605-.273-.756-.576l-3.816-7.45h-4.242V109a.685.685 0 0 1-.697.697zm16.147-18.84v-1.635c0-.425.302-.728.697-.728h14.78c.394 0 .697.303.697.728v1.635a.686.686 0 0 1-.695.697h-5.755V109c0 .395-.334.697-.727.697h-1.848a.685.685 0 0 1-.696-.697V91.554h-5.757a.685.685 0 0 1-.697-.697m29.594 10.905l-3.27-9.48-3.303 9.48h6.573zm5.937 7.45c0 .272-.212.485-.516.485h-2.21c-.392 0-.574-.213-.634-.394L203.1 104.7h-8.572l-1.575 4.573a.608.608 0 0 1-.576.424h-2.12c-.303 0-.515-.213-.515-.485 0-.15.09-.363.18-.606l6.998-19.566c.09-.243.333-.546.727-.546h2.515c.393 0 .605.303.696.546l7.027 19.536c.03.12.182.485.182.636zm17.993.485h-11.934a.685.685 0 0 1-.697-.697V89.222c0-.425.3-.728.695-.728h1.847c.395 0 .697.303.697.728v17.416h9.39c.393 0 .695.333.695.727V109a.684.684 0 0 1-.696.697m24.656-18.143h-9.268v6.633h7.33c.393 0 .696.303.696.697v1.666a.685.685 0 0 1-.696.696h-7.33V109a.685.685 0 0 1-.698.697h-1.846a.685.685 0 0 1-.697-.697V89.222c0-.425.302-.728.697-.728h11.812c.394 0 .697.303.697.728v1.635a.686.686 0 0 1-.697.697m12.934 15.386c2.636 0 4.816-1.968 4.816-5.482v-4.694c0-3.514-2.18-5.513-4.815-5.513-2.663 0-4.783 2-4.783 5.515v4.694c0 3.513 2.15 5.48 4.785 5.48zm0-18.75c4.604 0 8.088 3.394 8.088 8.543v4.725c0 5.15-3.484 8.542-8.087 8.542s-8.055-3.393-8.055-8.542v-4.725c0-5.15 3.453-8.542 8.057-8.542zm22.598 10.42c1.877 0 3.513-.968 3.513-3.27v-.454c0-2.484-1.634-3.332-3.51-3.332h-4.877v7.057h4.876zm-5.574 11.087h-1.846a.685.685 0 0 1-.698-.697V89.222c0-.425.303-.728.698-.728h7.63c3.848 0 6.544 2.09 6.544 6.21v.666c0 2.726-1.242 4.876-4.18 5.755l3.938 7.45c.152.243.242.425.242.637 0 .272-.21.485-.484.485h-2.333c-.393 0-.605-.273-.757-.576l-3.816-7.45h-4.24V109a.685.685 0 0 1-.698.697zm29.473-18.143v7.723h4.876c1.878 0 3.514-1.18 3.514-3.665v-.545c0-2.483-1.636-3.513-3.514-3.513h-4.876zm5.088 10.782h-5.088V109a.685.685 0 0 1-.697.697h-1.847a.685.685 0 0 1-.697-.697V89.222c0-.425.302-.728.697-.728h7.632c3.847 0 6.543 2.272 6.543 6.392v.757c0 4.12-2.696 6.693-6.543 6.693zM339.8 109v-8.54h-8.874V109a.685.685 0 0 1-.697.697h-1.85a.685.685 0 0 1-.696-.697V89.222c0-.425.303-.728.697-.728h1.848c.394 0 .696.303.696.728V97.4h8.874v-8.18c0-.425.304-.728.698-.728h1.847c.394 0 .697.303.697.728V109a.685.685 0 0 1-.697.697h-1.847a.686.686 0 0 1-.698-.697m10.302 0V89.222c0-.425.304-.728.698-.728h1.847c.395 0 .697.303.697.728V109a.685.685 0 0 1-.697.697h-1.847a.685.685 0 0 1-.697-.697m22.93.697h-11.933a.685.685 0 0 1-.697-.697V89.222c0-.425.303-.728.697-.728h1.847c.394 0 .697.303.697.728v17.416h9.39c.395 0 .698.333.698.727V109a.685.685 0 0 1-.696.697m12.298-2.757c2.633 0 4.814-1.968 4.814-5.482v-4.694c0-3.514-2.18-5.513-4.815-5.513-2.667 0-4.788 2-4.788 5.515v4.694c0 3.513 2.15 5.48 4.786 5.48zm0-18.75c4.602 0 8.086 3.394 8.086 8.543v4.725c0 5.15-3.484 8.542-8.087 8.542-4.606 0-8.06-3.393-8.06-8.542v-4.725c0-5.15 3.454-8.542 8.058-8.542zm24.473 5.726c-.212-1.453-.97-2.847-3.786-2.847-2.393 0-3.998.573-3.998 2.845 0 5.09 11.48 1.848 11.48 10.025 0 4.485-3.79 6.06-7.484 6.06-5.634 0-7.784-3.848-7.784-6.512 0-.394.303-.697.696-.697h1.817c.393 0 .635.335.666.64.09 1 .698 3.693 4.605 3.693 2.635 0 4.24-.85 4.24-3.18 0-4.998-11.48-1.817-11.48-10.026 0-3.725 2.666-5.725 7.3-5.725 5.09 0 6.997 3.09 6.997 5.665 0 .395-.333.698-.727.698h-1.817c-.394 0-.636-.213-.727-.637m17.3 13.022c2.634 0 4.815-1.968 4.815-5.482v-4.694c0-3.514-2.18-5.513-4.816-5.513-2.667 0-4.788 2-4.788 5.515v4.694c0 3.513 2.15 5.48 4.786 5.48zm0-18.75c4.603 0 8.086 3.394 8.086 8.543v4.725c0 5.15-3.483 8.542-8.087 8.542-4.605 0-8.06-3.393-8.06-8.542v-4.725c0-5.15 3.455-8.542 8.058-8.542zm17.72 3.364v7.723h4.876c1.878 0 3.513-1.18 3.513-3.665v-.545c0-2.483-1.637-3.513-3.515-3.513h-4.876zm5.088 10.782h-5.088V109a.685.685 0 0 1-.697.697h-1.847a.685.685 0 0 1-.697-.697V89.222c0-.425.3-.728.695-.728h7.632c3.846 0 6.543 2.272 6.543 6.392v.757c0 4.12-2.696 6.693-6.542 6.693zM474.474 109v-8.54H465.6V109a.685.685 0 0 1-.697.697h-1.847a.685.685 0 0 1-.697-.697V89.222c0-.425.3-.728.695-.728h1.847c.394 0 .697.303.697.728V97.4h8.873v-8.18c0-.425.304-.728.697-.728h1.85c.393 0 .695.303.695.728V109a.684.684 0 0 1-.696.697h-1.85a.686.686 0 0 1-.697-.697m25.567-19.99c0 .212-.213.575-.334.787l-6.815 11.48V109c0 .395-.332.697-.725.697h-1.848a.684.684 0 0 1-.696-.697v-7.754l-6.754-11.48c-.06-.15-.333-.514-.333-.756 0-.303.212-.516.515-.516h2.393c.213 0 .425.12.576.425l5.33 9.296 5.332-9.328c.12-.183.273-.396.606-.396h2.27c.304 0 .486.213.486.516m-85-20.538c0 3.04-2.16 5.2-5.28 5.2-3.04 0-5.2-2.16-5.2-5.2s2.16-5.2 5.2-5.2c3.12 0 5.28 2.16 5.28 5.2" fill="#1A1918"></path></g></svg></a>
+<a class="navbar-brand visible-xs" href="/root"><svg viewbox="0 0 149 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="svg svg--logo-mobile">
+  <title>Philosophie.ch</title>
+  <image x="54" y="22" width="150" height="22" xlink:href="data:image/png;base64,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DdALR64CRUAEREAEREAEREAEREAEMhD4OtLsniFdsySzYeclzRJonwjEREAD9JiOhmIRAREQAREQAREQAREQARFICJySfPH8XBX5d/T0oewiUAgBDdALwaxCREAEREAEREAEREAEREAEHAhsgLSDHdK3Srp3qwTaLwIxENAAPYajoBhEQAREQAREQAREQAREQATSBLZN/zD4zv+9gu+ky0QgagIaoEd9eBScCIiACIiACIiACIiACHQkgaHGtZ4D/ur93+nGxcidCPgR0ADdj59yi4AIiIAIiIAIiIAIiIAI2BPob++y24AAPuVSBEwJaIBuilPOREAEREAEREAEREAEREAEDAj0MvBR6yKEz9oy9FsEvAhogO6FT5lFQAREQAREQAREQAREQAQCEJgYwOcbAXzKpQiYEtAA3RSnnImACIiACIiACIiACIiACBgQeMnAR9rFF/jxbHqDvotAjAQ0QI/xqCgmERABERABERABERABEehsAncaV/8x+HvL2KfciYA5AQ3QzZHKoQiIgAiIgAiIgAiIgAiIgCeBq5F/sqePdPaL0z/0XQRiJZAM0PUHE2I9QopLBERABERABERABERABDqPwHuo8plG1eZA/49GvuRGBIISSAbonxmUMit8dDfwIxciIAIiIAIiIAJhCcxi4J7tvkwEREAEQhI4Hs4t3kXfD37eDxmofIuAFYFkgP6ogUPOcn1o4EcuREAEREAEREAEwhKw+EvGkxDi52HDlHcREIEOJ/AJ6r8D5DO4PhX5L+hwjqp+lQhMnz6d4c4GXQLxR17tibwyERABERABERCBahD4J8LM2+Yzn9r9ahxnRSkC7UBgeVSCDxRd7llcIfzjdqi86tCeBDgOr6cZG7uqzKfp50JTIZeT/02kPxCSiYAIiIAIiIAIVIcAl7n/GeJTcJd2/zWkV6cXEGQiIAKFEuDfzDoMeg5qds/i++YjoRUgmQhES6De4Jzbus/4p/uXXh1fD7UYCPWBpkGNjBfJOxAvEv63BTIREAEREAEREIHqEVgfIS8OzQE1a/d7Yj/b/WegJyGZCIiACJRBYBAK3aBLi6QC4MD8bugu6J7Udn0VgSgJcBxez2YM0Ovt0DYREAEREAEREAEREAEREAEREAEREIHiCCR/JK64ElWSCIiACIiACIiACIiACIiACIiACIjATAT+HwICBT/+mbm/AAAAAElFTkSuQmCC" transform="translate(-54 -22)" fill="none" fill-rule="evenodd"></image>
+</svg>
+</a>
+</div>
+<div class='col-auto hidden-xs hidden-print'><ul class='nav nav-pills nav-justified l-main-navigation'>
+<li class=""><a class="" title="Agenda" href="/agenda">Agenda
+</a></li><li class=""><a class="" title="" href="/community">Community
+</a></li><li class=""><a class="" title="" href="/research">Research
+</a></li><li class=""><a class="" title="" href="/ausbildung-formation">Ausbildung / Formation
+</a></li><li class=""><a class="" title="" href="/content">Content
+</a></li>
+</ul>
+</div>
+<div class='col pr-0 hidden-print'>
+<a class="l-login-trigger btn btn-primary" href="/profil/login?locale=en">login</a>
+</div>
+</div>
+</div>
+</div>
+<div class='meta-nav hidden-print'>
+<div class='container hidden-xs'>
+<div class='row'>
+<div class='col-sm-6 col-sm-offset-6 text-right'>
+
+</div>
+</div>
+</div>
+<div class='container visible-xs'>
+<div class='row'>
+<div class='col-xs-6 col-xs-offset-6 text-right'>
+<div class='dropdown'>
+<button aria-expanded='false' aria-haspopup='true' class='btn btn-link dropdown-toggle pr-0' data-toggle='dropdown' id='ally-language-dropdown' type='button'>
+Language
+<i class="fa fa-language"></i>
+</button>
+<ul aria-labelledby='ally-language-dropdown' class='dropdown-menu dropdown-menu-right'>
+<li>
+<a class="de first" href="/de/willkommen">Deutsch</a>
+</li>
+<li>
+<a class="en" href="/en/welcome">Englisch</a>
+</li>
+<li>
+<a class="fr" href="/fr/bienvenue">Französisch</a>
+</li>
+<li>
+<a class="it" href="/it/benvenuto">Italienisch</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<main class='l-main' id='main-content' role='main'>
+<div class='container'>
+
+<article class='article' itemscope='' itemtype='https://schema.org/Article'>
+<meta content='https://www.philosophie.ch/en-UK/2021-11-14-wels' itemprop='url'>
+  <header id="intro_30852" class="intro mb-sm-5">
+
+        <div class="row">
+          <div class="col-xs-12 picture-block">
+
+            <div class="asset-content">
+              <div class="main-asset">
+
+                <img alt="" style="max-width: 100%; max-height: 335px; width: auto; height: auto;" src="https://assets.philosophie.ch/logo-philosophieren-mit.png" />
+                <div class='asset-report-wrapper'>
+<div class='report-button-wrapper'>
+<div class='report-tooltip'>
+Report this asset
+</div>
+<button class='report-button'>
+<div class='custom-icon'>
+!
+</div>
+</button>
+</div>
+<div class='report-options'>
+<div class='list-item'>
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%63%6f%70%79%72%69%67%68%74@%70%68%69%6c%6f%73%6f%70%68%69%65.%63%68?body=Dear%20Philosophie.ch%20team,%0D%0A%0D%0AI%20would%20like%20to%20report%20an%20asset%20for%20copyright%20infringement%20and%20request%20that%20it%20be%20taken%20down.%0D%0A%0D%0AAsset%20Identifier:%20Asset%20url:%20https://assets.philosophie.ch/logo-philosophieren-mit.png%0D%0APage%20URL:%20&#39;2021-11-14-wels&#39;%0D%0A%0D%0A1.%20My%20contact%20information:%0D%0A-%20Full%20name:%0D%0A-%20Address:%0D%0A-%20Email%20address:%0D%0A%0D%0A2.%20Why%20I%20am%20particularly%20affected%20by%20this%20content:%0D%0A%3C%3CYOUR%20EXPLANATION%20HERE%3E%3E%0D%0A%0D%0A3.%20Description%20of%20the%20allegedly%20infringing%20content:%0D%0A%3C%3CDESCRIBE%20THE%20CONTENT%20HERE%3E%3E%0D%0A%0D%0A4.%20Why%20I%20believe%20this%20content%20is%20illegal%20or%20unauthorized:%0D%0A%3C%3CYOUR%20LEGAL%20BASIS%20/%20COPYRIGHT%20REASON%20HERE%3E%3E%0D%0A%0D%0A5.%20Statement%20of%20good%20faith:%0D%0AI%20hereby%20declare%20that%20I%20believe,%20in%20good%20faith,%20that%20the%20use%20of%20the%20copyrighted%20material%20described%20above%20is%20not%20authorized%20by%20the%20copyright%20owner,%20its%20agent,%20or%20the%20law.%0D%0A%0D%0A6.%20Accuracy%20statement:%0D%0AI%20declare%20that%20the%20information%20in%20this%20report%20is%20accurate%20and%20that%20I%20am%20the%20copyright%20owner%20or%20authorized%20to%20act%20on%20behalf%20of%20the%20copyright%20owner.%0D%0A%0D%0A7.%20Supporting%20documentation:%0D%0APlease%20find%20attached%20documents%20that%20prove%20that%20the%20material%20is%20copyrighted%20and/or%20that%20I%20am%20the%20rightful%20copyright%20holder.%0D%0A%0D%0AI%20have%20read%20and%20understood%20the%20Philosophie.ch%20Copyright%20Policy%20(https://philosophie.ch/copyright-policy),%20and%20I%20understand%20that%20failure%20to%20provide%20a%20clear%20and%20complete%20report%20may%20result%20in%20my%20claim%20being%20disregarded.%0D%0A%0D%0ABest%20regards,%0D%0A&subject=Report%20for%20copyright%20infringement">I would like to report this asset for copyright infringement</a>
+</div>
+<div class='list-item'>
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%69%6e%66%6f@%70%68%69%6c%6f%73%6f%70%68%69%65.%63%68?body=Dear%20Philosophie.ch%20team,%0D%0A%0D%0AI%20would%20like%20to%20report%20an%20asset%20for%20illegal%20or%20inappropriate%20content.%0D%0AAsset%20url:%20https://assets.philosophie.ch/logo-philosophieren-mit.png%0D%0AFound%20in%20the%20page%20&#39;2021-11-14-wels&#39;.%0D%0A%0D%0AThe%20reason%20for%20this%20request%20is%20the%20following:%0D%0A%3C%3CYOUR%20REASON%20HERE%3E%3E%0D%0A%0D%0ABest%20regards,%0D%0A&subject=Report%20for%20illegal%20or%20inappropriate%20content">I would like to report this asset for illegal or inappropriate content</a>
+</div>
+</div>
+</div>
+
+
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+
+
+      <div class="row">
+        <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+          <div class="intro__pre-headline"><p>Ein Beitrag von Volkhard Wels zu einem Gedankenexperiment zur Fantasie von Silvan Imhof</p></div>
+        </div>
+      </div>
+
+    <div class="row">
+      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+        <h1 class="intro__headline" itemprop="name">
+          Was nützt Fantasie?
+        </h1>
+      </div>
+    </div>
+
+      <div class="row">
+        <div class="col-xs-12 col-sm-10 col-sm-offset-1">
+          <div class="intro__lead-text"><p>Volkhard Wels' Input zu einem Gedankenexperiment</p></div>
+        </div>
+      </div>
+
+</header>
+<div class='row mb-5'>
+<div class='col-xs-12 col-sm-8 text-center text-sm-left text-dimmed'>
+<div class='before-article-creation-wrapper'>
+<svg viewbox="0 0 27 1" xmlns="http://www.w3.org/2000/svg" class="svg svg--article-line article-line-svg"><path d="M1 .5h25.096" stroke="#666" fill="none" fill-rule="evenodd" stroke-linecap="square"></path></svg>
+<div class='before-article-creation'>
+<div class="article__author">By <strong itemprop="author"><a target="_blank" href="/profil/wels-v">Volkhard Wels</a></strong></div>
+<time datetime="2021-11-14" pubdate="true" itemprop="datePublished" class="article__published-at">November 14, 2021</time>
+</div>
+</div>
+</div>
+<div class='l-sidebar col-xs-12 col-sm-4'>
+<div class='rating-wrapper' id='rating-stars'>
+<div class='rating-stars-wrapper'>
+<span class='rating-star-disabled' data-value='6' title='Please log in to leave a rating.'>★</span>
+<span class='rating-star-disabled' data-value='5' title='Please log in to leave a rating.'>★</span>
+<span class='rating-star-disabled' data-value='4' title='Please log in to leave a rating.'>★</span>
+<span class='rating-star-disabled' data-value='3' title='Please log in to leave a rating.'>★</span>
+<span class='rating-star-disabled' data-value='2' title='Please log in to leave a rating.'>★</span>
+<span class='rating-star-disabled' data-value='1' title='Please log in to leave a rating.'>★</span>
+</div>
+<div class='rating-text'>
+No ratings yet.
+</div>
+</div>
+
+</div>
+
+</div>
+<div class='row' itemprop='articleBody'>
+<div class='col-xs-12 col-sm-8'>
+  <div id="title_block_78685" class="title_block">    <h2 class="title-block">Das Gedankenexperiment</h2>
+</div>  <section id="text_block_30858" class="text-block">
+      <div class="text-block">  
+        <div class="text-block__text"><p style=" padding-left: 30px;">Filipo hat viel Phantasie.</p>
+<p style=" padding-left: 30px;">Er findet die Welt zwar nicht schlecht, kann sich aber doch vorstellen, dass viele Dinge besser sein könnten. Weil er gerne malt, hält er seine Vorstellungen in Bildern fest: Er zeichnet eine Welt, in der er jeden Tag sein Lieblingsessen bekommt, in der er die besten Spielsachen hat, in der er mit seinen Eltern und Freund*innen nie Streit hat, in der er nur gute Noten bekommt, in der es keine Waffen gibt, in der alle Menschen genug zu essen haben, in der es keine Umweltzerstörung gibt usw.</p>
+<p style=" padding-left: 30px;">Eines Tages begegnet ihm ein Magier: «Du hast eine tolle Phantasie. Deshalb schenke ich dir diesen Zauberpinsel. Alles, was du damit malst, wird Wirklichkeit.» Filipo ist zuerst ganz begeistert: Jetzt kann er alle seine phantastischen Träume wirklich machen!</p>
+<p style=" padding-left: 30px;">Dann wird er aber nachdenklich und fragt sich: «Ist es wirklich gut, wenn meine Phantasie wirklich wird? Will ich das überhaupt und darf ich das?»</p>
+<p style=" padding-left: 30px;"> </p></div>
+      </div>
+
+
+</section>  <section id="text_block_30859" class="text-block">
+      <div class="text-block">  
+        <div class="text-block__text"><p > </p>
+<p >Zum Glück fragt Filipo sich das, denn das ist eine wirklich gute – und deshalb auch schwierige – Frage. Dass Phantasie nützlich ist, daran kann eigentlich kein Zweifel bestehen. Ohne Phantasie gäbe es keine Kunst, keine Literatur, keine Malerei und keine Musik. Mehr noch: ohne Phantasie gäbe es auch keine Wissenschaft und damit keinen Fortschritt in der Geschichte der Menschheit. Nur, weil die Menschen sich Dinge vorstellen können, die noch nicht existieren, können sie diese Dinge auch erschaffen. Hätte nicht irgendwann sich jemand vorgestellt, dass man mit einem Rad und einer Ladefläche einen Wagen konstruieren kann, dann gäbe es keinen Wagen. Nur, weil sich jemand vorgestellt hat, wie man einen Impfstoff erschaffen könnte, um Krankheiten zu verhindern, konnte jemand im Labor so lange forschen, bis er einen solchen Impfstoff entdeckt hatte.</p>
+<p >Phantasie ist das grundlegende Vermögen des Menschen, das Fortschritt möglich macht.</p>
+<p >Allerdings könnte man hier sofort etwas einwenden. Wenn sich nicht jemand vorgestellt hätte, dass man einen anderen Menschen mit einem Knüppel leichter umbringen kann als mit den eigenen Händen, dann hätte es auch diese Art von ‚Fortschritt‘ nicht gegeben. Und an diesem Beispiel sieht man auch gleich, dass die Phantasie eine höchst zwiespältige Sache ist.</p>
+<p >Früher, im Mittelalter, hat man geglaubt, dass es im Gehirn des Menschen drei verschiedene Vermögen gebe: das Gedächtnis, das Vorstellungsvermögen (die Phantasie) und die Vernunft. Diese Unterscheidung ist immer noch hilfreich, um zu verstehen, was in unserem Kopf passiert. Das Gedächtnis speichert alle Sinneseindrücke. Es merkt sich alles, was wir sehen und hören. Das Vorstellungsvermögen ist das eigentliche Vermögen des Sehens und Hörens, des Sich-Vorstellens von dem, was draußen außerhalb des Kopfes passiert oder passieren könnte. Es reproduziert die äußeren Sinneseindrücke im Inneren des Kopfes. Die Vernunft ist das Vermögen, diese Sinneseindrücke in Sprache umzusetzen und Schlussfolgerungen aus ihnen zu ziehen. Die Vernunft tut damit das, was wir „denken“ nennen. Sie ist die Herrscherin im Kopf und kontrolliert die beiden anderen Vermögen. Sie entscheidet, an was wir uns erinnern und was wir uns vorstellen möchten. Sie entscheidet, was daraus für das eigene Tun und Handeln folgt. Die Vernunft allein sagt uns deshalb auch, dass wir einen anderen Menschen nicht mit einem Knüppel umbringen sollten, nur weil er etwas hat, das wir haben wollen. Die Vernunft allein hat die moralischen, ethischen Maßstäbe, diese Entscheidung zu treffen. Die Phantasie dagegen stellt sich vor, wie schön es wäre, wenn wir das hätten, was der andere hat. Und wie einfach es wäre, das zu bekommen, wenn wir einen Knüppel nehmen.</p>
+<p >Was aber passiert, wenn die Vernunft keine Kontrolle mehr über die Phantasie hat? Wenn die Vernunft zum Beispiel schläft oder betäubt ist? – Wenn die Vernunft schläft, dann ist die Phantasie frei. Die Bilder und Vorstellungen bekommen ein Eigenleben, weil sie nicht mehr kontrolliert werden. Wir träumen und phantasieren. Wir stellen uns Dinge vor, die es nicht gibt und die nicht möglich sind – zum Beispiel, dass wir in der Schule gute Noten bekommen, ohne etwas dafür getan zu haben. Nur die Vernunft sagt uns, dass das nicht möglich ist.</p>
+<p >Noch schlimmer: Wenn die Phantasie nicht von der Vernunft kontrolliert wird, dann kann sie auch das erzeugen, was wir gar nicht wollen: Ungeheuer und Monstren, wie wir sie aus Albträumen kennen. Es gibt ein Bild von dem spanischen Maler Francisco de Goya aus dem Jahr 1799.[1] Es zeigt einen Mann, der den Kopf auf den Tisch gelegt hat und schläft. Links unten steht der Titel des Bildes, der (scheinbar eindeutig)[2] auch sagt, was auf dem Bild zu sehen ist: „Der Schlaf der Vernunft gebiert Ungeheuer“. Aus dem Dunkel hinter dem schlafenden Mann kommen unheimliche Wesen: Fledermäuse, Eulen, eine Katze, ein Luchs. Es sind Tiere der Nacht und der Dunkelheit, die immer dann kommen, wenn das Licht der Aufklärung verblasst. Wenn die Vernunft nicht wachsam ist, dann übernimmt die Phantasie die Macht. Alle Menschen kennen das, weil alle schon einmal einen Albtraum hatten.</p>
+<p >Albträume werden wahr, wenn die Vernunft die Kontrolle verliert.</p>
+<p >Genau das aber würde passieren, wenn Filipo den Zauberpinsel annimmt. Deswegen sollte er diesen Zauberpinsel auch besser gar nicht annehmen. Filipo sollte den Zauberer lieber um eine wachsame Vernunft bitten – damit nicht seine schlimmsten Albträume Wirklichkeit werden.</p>
+<hr>
+<p style="text-align: left;"><br>[1] <a href="https://de.wikipedia.org/wiki/Der_Schlaf_der_Vernunft_gebiert_Ungeheuer#/media/Datei:Goya-Capricho-43.jpg">Hier</a> gibt es eine Abbildung. <br>[2] Wer möchte, kann <a href="https://www.deutschlandfunk.de/abgruende-im-werk-von-francisco-de-goya-der-schlaf-der.2540.de.html?dram:article_id=483701">hier</a> nachlesen oder hören, warum das Bild nicht ganz so eindeutig ist, wie es scheint: </p></div>
+      </div>
+
+
+</section>  <div id="references_109362" class="references">
+
+</div>
+</div>
+<div class='l-sidebar col-xs-12 col-sm-4'>
+
+
+  <div id="aside_column_30853" class="aside_column">        <section id="text_block_30854" class="text-block">
+      <div class="text-block">  
+        <div class="text-block__text"><p><strong>Veranstaltung: </strong><a class="external" href="https://www.dampfzentrale.ch/event/philosophieren-was-nu%CC%88tzt-fantasie/">Was nützt Fantasie?</a></p>
+<p><strong>Ort</strong>: Dampfzentrale Bern</p>
+<p><strong>Datum</strong>: 14. November 2021</p>
+<p> </p>
+<p>Erfahren Sie mehr über den <a class="external" href="https://www.philosophie.ch/profil/wels-v">Autor</a></p></div>
+      </div>
+
+
+</section>
+        <div id="picture_block_30855" class="picture-block">
+
+      <div class="center">
+
+
+          <div class="asset-content">
+
+            <div class="main-asset">
+              <img alt="" src="https://assets.philosophie.ch/logo-philosophieren-mit-organisationen.png" />
+              <div class='asset-report-wrapper'>
+<div class='report-button-wrapper'>
+<div class='report-tooltip'>
+Report this asset
+</div>
+<button class='report-button'>
+<div class='custom-icon'>
+!
+</div>
+</button>
+</div>
+<div class='report-options'>
+<div class='list-item'>
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%63%6f%70%79%72%69%67%68%74@%70%68%69%6c%6f%73%6f%70%68%69%65.%63%68?body=Dear%20Philosophie.ch%20team,%0D%0A%0D%0AI%20would%20like%20to%20report%20an%20asset%20for%20copyright%20infringement%20and%20request%20that%20it%20be%20taken%20down.%0D%0A%0D%0AAsset%20Identifier:%20Asset%20url:%20https://assets.philosophie.ch/logo-philosophieren-mit-organisationen.png%0D%0APage%20URL:%20&#39;2021-11-14-wels&#39;%0D%0A%0D%0A1.%20My%20contact%20information:%0D%0A-%20Full%20name:%0D%0A-%20Address:%0D%0A-%20Email%20address:%0D%0A%0D%0A2.%20Why%20I%20am%20particularly%20affected%20by%20this%20content:%0D%0A%3C%3CYOUR%20EXPLANATION%20HERE%3E%3E%0D%0A%0D%0A3.%20Description%20of%20the%20allegedly%20infringing%20content:%0D%0A%3C%3CDESCRIBE%20THE%20CONTENT%20HERE%3E%3E%0D%0A%0D%0A4.%20Why%20I%20believe%20this%20content%20is%20illegal%20or%20unauthorized:%0D%0A%3C%3CYOUR%20LEGAL%20BASIS%20/%20COPYRIGHT%20REASON%20HERE%3E%3E%0D%0A%0D%0A5.%20Statement%20of%20good%20faith:%0D%0AI%20hereby%20declare%20that%20I%20believe,%20in%20good%20faith,%20that%20the%20use%20of%20the%20copyrighted%20material%20described%20above%20is%20not%20authorized%20by%20the%20copyright%20owner,%20its%20agent,%20or%20the%20law.%0D%0A%0D%0A6.%20Accuracy%20statement:%0D%0AI%20declare%20that%20the%20information%20in%20this%20report%20is%20accurate%20and%20that%20I%20am%20the%20copyright%20owner%20or%20authorized%20to%20act%20on%20behalf%20of%20the%20copyright%20owner.%0D%0A%0D%0A7.%20Supporting%20documentation:%0D%0APlease%20find%20attached%20documents%20that%20prove%20that%20the%20material%20is%20copyrighted%20and/or%20that%20I%20am%20the%20rightful%20copyright%20holder.%0D%0A%0D%0AI%20have%20read%20and%20understood%20the%20Philosophie.ch%20Copyright%20Policy%20(https://philosophie.ch/copyright-policy),%20and%20I%20understand%20that%20failure%20to%20provide%20a%20clear%20and%20complete%20report%20may%20result%20in%20my%20claim%20being%20disregarded.%0D%0A%0D%0ABest%20regards,%0D%0A&subject=Report%20for%20copyright%20infringement">I would like to report this asset for copyright infringement</a>
+</div>
+<div class='list-item'>
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%69%6e%66%6f@%70%68%69%6c%6f%73%6f%70%68%69%65.%63%68?body=Dear%20Philosophie.ch%20team,%0D%0A%0D%0AI%20would%20like%20to%20report%20an%20asset%20for%20illegal%20or%20inappropriate%20content.%0D%0AAsset%20url:%20https://assets.philosophie.ch/logo-philosophieren-mit-organisationen.png%0D%0AFound%20in%20the%20page%20&#39;2021-11-14-wels&#39;.%0D%0A%0D%0AThe%20reason%20for%20this%20request%20is%20the%20following:%0D%0A%3C%3CYOUR%20REASON%20HERE%3E%3E%0D%0A%0D%0ABest%20regards,%0D%0A&subject=Report%20for%20illegal%20or%20inappropriate%20content">I would like to report this asset for illegal or inappropriate content</a>
+</div>
+</div>
+</div>
+
+            </div>
+
+
+          </div>
+
+
+      </div>
+
+
+</div>
+        <div id="picture_block_30856" class="picture-block">
+
+      <div class="center">
+
+
+          <div class="asset-content">
+
+            <div class="main-asset">
+              <img alt="" src="https://assets.philosophie.ch/philosophieren-mit-pic2.png" />
+              <div class='asset-report-wrapper'>
+<div class='report-button-wrapper'>
+<div class='report-tooltip'>
+Report this asset
+</div>
+<button class='report-button'>
+<div class='custom-icon'>
+!
+</div>
+</button>
+</div>
+<div class='report-options'>
+<div class='list-item'>
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%63%6f%70%79%72%69%67%68%74@%70%68%69%6c%6f%73%6f%70%68%69%65.%63%68?body=Dear%20Philosophie.ch%20team,%0D%0A%0D%0AI%20would%20like%20to%20report%20an%20asset%20for%20copyright%20infringement%20and%20request%20that%20it%20be%20taken%20down.%0D%0A%0D%0AAsset%20Identifier:%20Asset%20url:%20https://assets.philosophie.ch/philosophieren-mit-pic2.png%0D%0APage%20URL:%20&#39;2021-11-14-wels&#39;%0D%0A%0D%0A1.%20My%20contact%20information:%0D%0A-%20Full%20name:%0D%0A-%20Address:%0D%0A-%20Email%20address:%0D%0A%0D%0A2.%20Why%20I%20am%20particularly%20affected%20by%20this%20content:%0D%0A%3C%3CYOUR%20EXPLANATION%20HERE%3E%3E%0D%0A%0D%0A3.%20Description%20of%20the%20allegedly%20infringing%20content:%0D%0A%3C%3CDESCRIBE%20THE%20CONTENT%20HERE%3E%3E%0D%0A%0D%0A4.%20Why%20I%20believe%20this%20content%20is%20illegal%20or%20unauthorized:%0D%0A%3C%3CYOUR%20LEGAL%20BASIS%20/%20COPYRIGHT%20REASON%20HERE%3E%3E%0D%0A%0D%0A5.%20Statement%20of%20good%20faith:%0D%0AI%20hereby%20declare%20that%20I%20believe,%20in%20good%20faith,%20that%20the%20use%20of%20the%20copyrighted%20material%20described%20above%20is%20not%20authorized%20by%20the%20copyright%20owner,%20its%20agent,%20or%20the%20law.%0D%0A%0D%0A6.%20Accuracy%20statement:%0D%0AI%20declare%20that%20the%20information%20in%20this%20report%20is%20accurate%20and%20that%20I%20am%20the%20copyright%20owner%20or%20authorized%20to%20act%20on%20behalf%20of%20the%20copyright%20owner.%0D%0A%0D%0A7.%20Supporting%20documentation:%0D%0APlease%20find%20attached%20documents%20that%20prove%20that%20the%20material%20is%20copyrighted%20and/or%20that%20I%20am%20the%20rightful%20copyright%20holder.%0D%0A%0D%0AI%20have%20read%20and%20understood%20the%20Philosophie.ch%20Copyright%20Policy%20(https://philosophie.ch/copyright-policy),%20and%20I%20understand%20that%20failure%20to%20provide%20a%20clear%20and%20complete%20report%20may%20result%20in%20my%20claim%20being%20disregarded.%0D%0A%0D%0ABest%20regards,%0D%0A&subject=Report%20for%20copyright%20infringement">I would like to report this asset for copyright infringement</a>
+</div>
+<div class='list-item'>
+<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%69%6e%66%6f@%70%68%69%6c%6f%73%6f%70%68%69%65.%63%68?body=Dear%20Philosophie.ch%20team,%0D%0A%0D%0AI%20would%20like%20to%20report%20an%20asset%20for%20illegal%20or%20inappropriate%20content.%0D%0AAsset%20url:%20https://assets.philosophie.ch/philosophieren-mit-pic2.png%0D%0AFound%20in%20the%20page%20&#39;2021-11-14-wels&#39;.%0D%0A%0D%0AThe%20reason%20for%20this%20request%20is%20the%20following:%0D%0A%3C%3CYOUR%20REASON%20HERE%3E%3E%0D%0A%0D%0ABest%20regards,%0D%0A&subject=Report%20for%20illegal%20or%20inappropriate%20content">I would like to report this asset for illegal or inappropriate content</a>
+</div>
+</div>
+</div>
+
+            </div>
+
+
+          </div>
+
+
+      </div>
+
+
+</div>
+        <div id="title_block_78686" class="title_block">    <h2 class="title-block">Gesprächsreihe «Philosophieren …»</h2>
+</div>
+        <section id="text_block_30857" class="text-block">
+      <div class="text-block">  
+        <div class="text-block__text"><p >Die Gesprächsreihe findet einmal im Monat, immer Sonntags abwechselnd im Alpinen Museum der Schweiz, in der Dampfzentrale Bern oder im Schlachthaus Theater Bern statt.</p>
+<p >Inspiriert von aktuellen Bühnenstücken oder Ausstellungen werden mithilfe einer Geschichte oder einem Gedankenexperiment Fragen aufgeworfen und Kontroversen eröffnet.</p>
+<p ><a class="internal" href="/veranstaltungsreihe">Mehr Informationen</a></p>
+<p> </p></div>
+      </div>
+
+
+</section>
+</div>
+<div class='thread'>
+</div>
+
+</div>
+</div>
+<footer class='article__footer hidden-print'>
+<!--
+<div class='row'>
+<div class='col-xs-12 col-sm-8'>
+<div class='article-navigation row row-v-align-center'>
+<div class='col col-auto pl-0'>
+<a class="btn btn-link pl-sm-0" title="Previous article" href="/en-UK/2018-05-24-martin"><i class="fa fa-arrow-left"></i>
+<div class='visible-sm-inline visible-md-inline visible-lg-inline'>Previous article</div>
+</a></div>
+<div class='col col-auto text-right pr-0'>
+<a class="btn btn-link pr-sm-0" title="Next article" href="/en-UK/2023-01-20-versant"><div class='visible-sm-inline visible-md-inline visible-lg-inline'>Next article</div>
+<i class="fa fa-arrow-right"></i>
+</a></div>
+</div>
+</div>
+</div>
+-->
+
+<div class='row'>
+<div class='col-xs-12 col-sm-8'>
+<div class='sharethis-inline-share-buttons hidden-print'></div>
+
+<div class='content-actions'>
+<a class="btn btn-primary content-actions__button" title="Scrolls up to the rating stars" href="#rating-stars">Rate</a>
+
+<a target="_blank" class="btn btn-primary content-actions__button" title="Creates a new article as a reply to this one" href="/user/articles/new?locale=en&amp;reply_target_id=5310">Reply</a>
+
+<a target="_blank" class="btn btn-primary content-actions__button" title="Add this article to your reading list" rel="nofollow" data-method="post" href="/user/reading_list?locale=en&amp;page_id=5310">Bookmark</a>
+
+<a class="btn btn-primary content-actions__button" title="Suggest this article to someone" href="/profil/login">Suggest</a>
+
+<a target="_blank" class="btn btn-warning content-actions__button" title="Report this content" href="/cdn-cgi/l/email-protection#234a4d454c63534b4a4f4c504c534b4a460d404b1c414c475a1e674642510611137746424e0611600613620613626a061113544c564f470611134f4a4846061113574c0611135146534c5157061113574b46061113404c4d57464d570611134c4d061113574b4606111353424446061113061114111311120e12120e12170e54464f500611140d061113774b46061113514642504c4d0611134a50061113574b46061113454c4f4f4c544a4d440610620613620613620610600610607a6c7671061113716662706c6d0611136b66716606106606106606136206136261465057061113514644425147500611600613620610600610607a6c76710611136d626e660611136b66716606106606106606136205424e5318505641494640571e7146534c5157061113404c4d57464d57">Report</a>
+
+</div>
+
+</div>
+<div class='col-xs-12 col-sm-8 article-comments'>
+<div class='article-comments__list'>
+<h2 class='h5 text-center text-sm-left'>
+No comments yet
+</h2>
+<div class='collapse' id='comments'>
+<ul class='list-unstyled article-comments__list__list'>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</footer>
+</article>
+
+
+</div>
+</main>
+<footer class='l-footer hidden-print'>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12'>
+<ul class='l-footer__nav list-inline pull-right'>
+        <li>  <div id="link_74834" class="link">    <a title="" target="_blank" data-link-target="blank" class="text-break" href="/en/legal">Legal Notice</a>
+</div></li>
+      <li>  <div id="link_89459" class="link">    <a title="Copyright Policy" target="_blank" data-link-target="blank" class="text-break" href="/copyright-policy">Copyright Policy</a>
+</div></li>
+      <li>  <div id="link_74835" class="link">    <a title="Contact" target="_blank" data-link-target="blank" class="text-break" href="/en/contact">Contact</a>
+</div></li>
+      <li>  <div id="link_74836" class="link">    <a title="" target="_blank" data-link-target="blank" class="text-break" href="https://www.instagram.com/philosophie.ch/">Instagram</a>
+</div></li>
+      <li>  <div id="link_74837" class="link">    <a title="" target="_blank" data-link-target="blank" class="text-break" href="https://www.facebook.com/philosophie.ch">Facebook</a>
+</div></li>
+      <li>  <div id="link_74838" class="link">    <a title="" target="_blank" data-link-target="blank" class="text-break" href="https://twitter.com/PhilosophieCH">Twitter</a>
+</div></li>
+      <li>  <div id="link_74839" class="link">    <a title="" data-link-target="" class="text-break" href="/cdn-cgi/l/email-protection#99f0f7fff6d9e9f1f0f5f6eaf6e9f1f0fcb7faf1">E-mail</a>
+</div></li>
+
+<li>&copy; Philosophie.ch</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<nav class='hidden-sm hidden-lg hidden-md hidden-print' id='mobile-nav'>
+<ul class='list-unstyled'>
+<li class="agenda"><a title="Agenda" href="/agenda">Agenda</a>
+</li><li class="community"><a title="" href="/community">Community</a>
+</li><li class="research"><a title="" href="/research">Research</a>
+</li><li class="ausbildung-formation"><a title="" href="/ausbildung-formation">Ausbildung / Formation</a>
+</li><li class="content"><a title="" href="/content">Content</a>
+</li>
+<li>
+<a href="/profil/random"><i class="fa fa-refresh"></i> Random article</a>
+</li>
+<li><a href="/en-UK/search"><i class="fa fa-search"></i> Search</a></li>
+</ul>
+
+</nav>
+
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9af6e5cadfe101b5',t:'MTc2NTk3OTUxMQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

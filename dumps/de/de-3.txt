@@ -1,0 +1,435 @@
+   (BUTTON)
+   [1]Dorsch - Lexikon der Psychologie
+   [2]Dorsch - Lexikon der Psychologie
+   (BUTTON) (BUTTON)
+     * [3]Gebiete
+     * [4]Dorsch-Testverzeichnis
+     * [5]Kontakt und Feedback
+     * [6]Hilfe
+     * [7]Dorsch Premium
+
+   Herausgeber
+   Markus Antonius Wirtz ,
+     * [8]Über den Dorsch
+     * [9]Impressum
+     * [10]Datenschutz
+     * [11]Nutzungsbedingungen
+     * [12]AGB
+     * [13]Barrierefreiheit
+     * [14]Newsletter
+     * [15]Stichwortregister
+
+   Copyright © 2025 Hogrefe. All rights, including for text and data
+   mining, AI training, and similar technologies, are reserved.
+   (BUTTON) (BUTTON)
+   (BUTTON) zurück
+     *
+     *
+     * [16]Gebiete
+     *
+     * [17]KOG / [18]PER
+     *
+     * Fantasie
+
+   (BUTTON)
+   Zitierhilfe
+   Die Zitierhilfe steht nur mit der Premium-Version zur Verfügung.
+   [19]Über die Premium-Version
+   Sie sind schon für die Premium-Version registriert?
+   (BUTTON) Zur Anmeldung
+
+Fantasie
+
+
+
+   [engl. fantasy, imagination; gr. φαντασία (phantasia) Vorstellung,
+   Erscheinung, Gespinst], gleichbedeutend mit [20]Vorstellungskraft,
+   [[21]KOG, [22]PER], ebenso die Vorstellungen, die neu in unser
+   Bewusstsein treten und sich mit den vorhandenen Bewusstseinsinhalten
+   verbinden. Entscheidend ist das Neuartige der Fantasiekombinationen.
+   Sie enthalten meist weder [23]Erinnerung noch Wiedererkennen, wenn sie
+   auch die Neuorganisation von Erfahrenem sein können. Die Fantasie kann
+   absichtlos schweifen (passiv) oder planvoll (aktiv), mehr
+   reproduzierend oder rein kombinatorisch geartet sein. Sie kann im
+   [24]Traum, durch [25]Drogen erzeugt, bei sensorischer [26]Deprivation,
+   im [27]Aberglauben und vor allem bei [28]Psychosen überhandnehmen und
+   die Persönlichkeit beeinträchtigen. Freud ordnete die Fantasie den
+   Primärprozessen ([29]Primärvorgang) zu.
+   (BUTTON)
+
+Inhaltsverzeichnis
+
+     * [30]Stichwort
+     * [31]Thematisch passende Hogrefe Webinare und Seminare
+     * [32]Thematisch passende Hogrefe eBooks
+     * [33]Thematisch passende Hogrefe Journal-Artikel
+     * [34]Thematisch passende Testverfahren
+
+   Zuletzt geändert
+   17.04.2021
+   (BUTTON)
+
+Benutzeranmeldung
+
+   Geben Sie Ihre E-Mail und Ihr Passwort ein, um sich anzumelden
+   E-Mail ____________________
+   Passwort: ____________________
+   Anmelden
+
+   [35]Anmelden via Shibboleth
+   Merkliste
+   Die Merkliste steht nur mit der Premium-Version zur Verfügung.
+   [36]Über die Premium-Version
+   Sie sind schon für die Premium-Version registriert?
+   (BUTTON) Zur Anmeldung
+   (BUTTON)
+
+   Datenschutzeinstellungen
+
+   Wir verwenden Cookies und Analysetools, um die Sicherheit und den
+   Betrieb sowie die Benutzerfreundlichkeit unserer Website
+   sicherzustellen und zu verbessern. Weitere Informationen finden Sie
+   unter [37]Datenschutz. Da wir Ihr Recht auf Datenschutz respektieren,
+   können Sie unter „Einstellungen” selbst entscheiden, welche
+   Cookie-Kategorien Sie zulassen möchten. Ihre Entscheidung können Sie
+   jederzeit widerrufen. Bitte beachten Sie, dass Ihnen durch das
+   Blockieren einiger Cookies möglicherweise nicht mehr alle
+   Funktionalitäten der Website vollumfänglich zur Verfügung stehen.
+   [38]Alle akzeptieren [39]nur Notwendige akzeptieren [40]Einstellungen
+     * [41]Impressum
+     * [42]Datenschutz
+
+Funktionelle Cookies
+
+   Diese Cookies sind für die Funktion der Website erforderlich und können
+   in unseren Systemen nicht deaktiviert werden. Sie werden in der Regel
+   nur als Reaktion auf eine Ihrer Aktionen gesetzt, die zu einer Anfrage
+   auf einen Service führen, wie etwa dem Festlegen ihrer
+   Datenschutzeinstellungen, dem Anmelden oder dem Ausfüllen von
+   Formularen.
+   [X] Funktionelle Cookies (immer aktiv)
+   Bezeichnung
+   Anbieter
+   Gültigkeitsdauer
+   Typ
+   [ ]
+   Bezeichnung
+   _id791
+   Anbieter
+   Hogrefe Verlag
+   Gültigkeitsdauer
+   30 Tage
+   Typ
+   Einsatzzweck und Inhalt
+
+   Dieser Cookie speichert die IPv4-Adresse des Nutzers für das
+   Institutions-Log-in.
+   [ ]
+   Bezeichnung
+   Fe_typo_user
+   Anbieter
+   Hogrefe Verlag
+   Gültigkeitsdauer
+   1 Woche
+   Typ
+   Einsatzzweck und Inhalt
+
+   Dieses Cookie ist ein Standard-Session-Cookie von TYPO3. Es speichert
+   im Falle eines Benutzer-Logins die Session-ID. So kann der eingeloggte
+   Benutzer wiedererkannt werden und es wird ihm Zugang zu geschützten
+   Bereichen gewährt.
+   [ ]
+   Bezeichnung
+   cookie_optin
+   Anbieter
+   Hogrefe Verlag
+   Gültigkeitsdauer
+   1 Jahr
+   Typ
+   Einsatzzweck und Inhalt
+
+   Dieser Cookie speichert, ob der Nutzer schon Cookie-Einstellungen
+   getroffen hat.
+   [ ]
+   Bezeichnung
+   cookies_functional
+   Anbieter
+   Hogrefe Verlag
+   Gültigkeitsdauer
+   1 Jahr
+   Typ
+   Einsatzzweck und Inhalt
+
+   Dieser Cookie speichert, ob Sie der Verwendung von Funktionellen
+   Cookies zugestimmt haben.
+   [ ]
+   Bezeichnung
+   cookies_performance
+   Anbieter
+   Hogrefe Verlag
+   Gültigkeitsdauer
+   1 Jahr
+   Typ
+   Einsatzzweck und Inhalt
+
+   Dieser Cookie speichert, ob Sie der Verwendung von Leistungs-Cookies
+   zugestimmt haben.
+   [ ]
+   Bezeichnung
+   srp
+   Anbieter
+   hogrefe.met.vgwort.de
+   Gültigkeitsdauer
+   1 Session
+   Typ
+   Einsatzzweck und Inhalt
+
+   Dies ist ein Session-Cookie, der von VG Wort eingesetzt wird. Er wird
+   zur Messung von Zugriffen auf Texten eingesetzt, um die
+   Kopierwahrscheinlichkeit zu erfassen. Session-Cookies sind kleine
+   Informationseinheiten, die ein Anbieter im Arbeitsspeicher des
+   Computers des Besuchers speichert. In einem Session-Cookie wird eine
+   zufällig erzeugte eindeutige Identifikationsnummer angelegt, eine
+   sogenannte Session-ID. Außerdem enthält ein Cookie die Angabe über
+   seien Herkunft und die Speicherfrist. Session-Cookies können keine
+   anderen Daten speichern. Diese Messungen werden von der Kantar GmbH
+   nach dem Skalierbaren Zentralen Messverfahren (SZM) durchgeführt. Sie
+   helfen dabei, die Kopierwahrscheinlichkeit einzelner Texte zur
+   Vergütung von gesetzlichen Ansprüchen von Autoren und Verlagen zu
+   ermitteln. Wir erfassen keine personenbezogenen Daten über Cookies.
+
+Leistungs-Cookies
+
+   Leistungs-Cookies erfassen Informationen darüber, wie Sie die Website
+   nutzen, z.B. welche Seiten Sie besuchen und ob Fehler auftreten. Diese
+   Cookies erfassen keine Informationen, die Sie identifizieren könnten
+   und werden nur dazu verwendet, dass wir die Funktionsfähigkeit unserer
+   Website verbessern und verstehen können.
+   [ ] Leistungs-Cookies deaktivieren Leistungs-Cookies aktivieren
+   Bezeichnung
+   Anbieter
+   Gültigkeitsdauer
+   Typ
+   [ ]
+   Bezeichnung
+   _ga_*
+   Anbieter
+   Google Analytics
+   Gültigkeitsdauer
+   1 Jahr
+   Typ
+   Einsatzzweck und Inhalt
+
+   Dies ist ein Cookie, der von Google Analytics eingesetzt wird. Er wird
+   zum Speichern und Zählen der Seitenaufrufe eingesetzt.
+   [ ]
+   Bezeichnung
+   _ga_
+   Anbieter
+   Google Analytics
+   Gültigkeitsdauer
+   2 Jahr
+   Typ
+   Einsatzzweck und Inhalt
+
+   Dies ist ein Cookie, der von Google Analytics eingesetzt wird. Er
+   ermöglicht, mittels einer zufällig generierten Zahl, anonyme Nutzer zu
+   unterscheiden.
+   [ ]
+   Bezeichnung
+   _gid
+   Anbieter
+   Google Analytics
+   Gültigkeitsdauer
+   1 Tag
+   Typ
+   Einsatzzweck und Inhalt
+
+   Dies ist ein Cookie, der von Google Analytics eingesetzt wird. Er wird
+   verwendet, um Seitenaufrufe anonym zu zählen und zu tracken.
+   [ ]
+   Bezeichnung
+   _gat_UA-102653297-19
+   Anbieter
+   Google Analytics
+   Gültigkeitsdauer
+   1 Minute
+   Typ
+   Einsatzzweck und Inhalt
+
+   Dies ist ein Cookie, der von Google Analytics eingesetzt wird. Mit
+   seiner Hilfe wird das Nutzerverhalten auf der Website anonym
+   analysiert.
+
+Iframe Cookies
+
+   Diese Cookies und Technologien sind zur Darstellung von Videoinhalten
+   von Drittanbieter-Plattformen (z. B. YouTube) notwendig. Im Portal
+   haben wir drei YouTube-Videos über den Dorsch verlinkt. Beim Abspielen
+   dieser Videos gelten die Datenschutzbestimmungen von YouTube.
+   [ ] Iframes deaktivieren Iframes aktivieren
+   Bezeichnung
+   Anbieter
+   Gültigkeitsdauer
+   Typ
+   [ ]
+   Bezeichnung
+   yt-remote-cast-installed
+   Anbieter
+   Youtube
+   Gültigkeitsdauer
+   Session
+   Typ
+   Einsatzzweck und Inhalt
+
+   Speichert die Benutzereinstellungen beim Abruf eines auf anderen
+   Webseiten integrierten Youtube-Videos.
+   [ ]
+   Bezeichnung
+   yt-remote-connected-devices
+   Anbieter
+   Youtube
+   Gültigkeitsdauer
+   Persistent
+   Typ
+   Einsatzzweck und Inhalt
+
+   Speichert die Benutzereinstellungen beim Abruf eines auf anderen
+   Webseiten integrierten Youtube-Videos.
+   [ ]
+   Bezeichnung
+   yt-remote-device-id
+   Anbieter
+   Youtube
+   Gültigkeitsdauer
+   Persistent
+   Typ
+   Einsatzzweck und Inhalt
+
+   Speichert die Benutzereinstellungen beim Abruf eines auf anderen
+   Webseiten integrierten Youtube-Videos.
+   [ ]
+   Bezeichnung
+   GPS
+   Anbieter
+   Youtube
+   Gültigkeitsdauer
+   1 Tag
+   Typ
+   Einsatzzweck und Inhalt
+
+   Registriert eine eindeutige ID auf mobilen Geräten, um Tracking
+   basierend auf dem geografischen GPS-Standort zu ermöglichen.
+   [ ]
+   Bezeichnung
+   VISITOR_INFO1_LIVE
+   Anbieter
+   Youtube
+   Gültigkeitsdauer
+   179 Tage
+   Typ
+   Einsatzzweck und Inhalt
+
+   Versucht, die Benutzerbandbreite auf Seiten mit integrierten
+   YouTube-Videos zu schätzen.
+   [ ]
+   Bezeichnung
+   YSC
+   Anbieter
+   Youtube
+   Gültigkeitsdauer
+   Session
+   Typ
+   Einsatzzweck und Inhalt
+
+   Registriert eine eindeutige ID, um Statistiken der Videos von YouTube,
+   die der Benutzer gesehen hat, zu behalten.
+   [ ]
+   Bezeichnung
+   yt-remote-fast-check-period
+   Anbieter
+   Youtube
+   Gültigkeitsdauer
+   Session
+   Typ
+   Einsatzzweck und Inhalt
+
+   Speichert die Benutzereinstellungen beim Abruf eines auf anderen
+   Webseiten integrierten Youtube-Videos.
+   [ ]
+   Bezeichnung
+   yt-remote-session-app
+   Anbieter
+   Youtube
+   Gültigkeitsdauer
+   Session
+   Typ
+   Einsatzzweck und Inhalt
+
+   Speichert die Benutzereinstellungen beim Abruf eines auf anderen
+   Webseiten integrierten Youtube-Videos.
+   [ ]
+   Bezeichnung
+   yt-remote-session-name
+   Anbieter
+   Youtube
+   Gültigkeitsdauer
+   Session
+   Typ
+   Einsatzzweck und Inhalt
+
+   Speichert die Benutzereinstellungen beim Abruf eines auf anderen
+   Webseiten integrierten Youtube-Videos.
+   [43]Auswahl speichern [44]Alle akzeptieren
+
+References
+
+   Visible links:
+   1. https://dorsch.hogrefe.com/
+   2. https://dorsch.hogrefe.com/
+   3. https://dorsch.hogrefe.com/gebiete
+   4. https://dorsch.hogrefe.com/testverzeichnis
+   5. https://dorsch.hogrefe.com/kontakt-und-feedback
+   6. https://dorsch.hogrefe.com/hilfe
+   7. https://dorsch.hogrefe.com/premium-version
+   8. https://dorsch.hogrefe.com/ueber-den-dorsch
+   9. https://dorsch.hogrefe.com/ueber-uns/impressum
+  10. https://dorsch.hogrefe.com/ueber-uns/datenschutz
+  11. https://dorsch.hogrefe.com/ueber-uns/nutzungsbedingungen
+  12. https://dorsch.hogrefe.com/agb
+  13. https://dorsch.hogrefe.com/erklaerung-zur-barrierefreiheit
+  14. https://dorsch.hogrefe.com/newsletter
+  15. https://dorsch.hogrefe.com/stichwortregister
+  16. https://dorsch.hogrefe.com/gebiete
+  17. https://dorsch.hogrefe.com/stichwort/fantasie
+  18. https://dorsch.hogrefe.com/stichwort/fantasie
+  19. https://dorsch.hogrefe.com/premium-version
+  20. https://dorsch.hogrefe.com/stichwort/vorstellung
+  21. https://dorsch.hogrefe.com/gebiet/kognitive-psychologie
+  22. https://dorsch.hogrefe.com/gebiet/persoenlichkeitspsychologie-und-differentielle-psychologie
+  23. https://dorsch.hogrefe.com/stichwort/erinnerung
+  24. https://dorsch.hogrefe.com/stichwort/traum-traeumen
+  25. https://dorsch.hogrefe.com/stichwort/droge
+  26. https://dorsch.hogrefe.com/stichwort/deprivation
+  27. https://dorsch.hogrefe.com/stichwort/aberglaube
+  28. https://dorsch.hogrefe.com/stichwort/psychose
+  29. https://dorsch.hogrefe.com/stichwort/primaervorgang
+  30. https://dorsch.hogrefe.com/stichwort/fantasie#detail__main-content
+  31. https://dorsch.hogrefe.com/stichwort/fantasie#found-seminars-recommendations
+  32. https://dorsch.hogrefe.com/stichwort/fantasie#book-recommendations
+  33. https://dorsch.hogrefe.com/stichwort/fantasie#journals-recommendations
+  34. https://dorsch.hogrefe.com/stichwort/fantasie#found-test-product-recommendations
+  35. https://dorsch.hogrefe.com/anmelden/shibboleth
+  36. https://dorsch.hogrefe.com/premium-version
+  37. https://dorsch.hogrefe.com/ueber-uns/datenschutz
+  38. https://dorsch.hogrefe.com/stichwort/fantasie
+  39. https://dorsch.hogrefe.com/stichwort/fantasie
+  40. https://dorsch.hogrefe.com/stichwort/fantasie
+  41. https://dorsch.hogrefe.com/ueber-uns/impressum
+  42. https://dorsch.hogrefe.com/ueber-uns/datenschutz
+  43. https://dorsch.hogrefe.com/stichwort/fantasie
+  44. https://dorsch.hogrefe.com/stichwort/fantasie
+
+   Hidden links:
+  46. https://dorsch.hogrefe.com/
+  47. https://dorsch.hogrefe.com/stichwort/fantasie

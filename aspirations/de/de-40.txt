@@ -1,0 +1,534 @@
+<!DOCTYPE html><!-- HTML5 -->
+<html prefix="og: http://ogp.me/ns#" lang="de-DE" dir="ltr">
+	<head>
+		<title>Warum wir Fantasie brauchen? - Mein Leben als Familienbegleiterin - FamiLIEnleBEn</title>
+		<meta charset="utf-8" />
+		<!--[if IE]><meta http-equiv="ImageToolbar" content="False" /><![endif]-->
+		<meta name="author" content="Sabine Lesch-Kaiser" />
+		<meta name="generator" content="Incomedia WebSite X5 Pro 2025.2.8 - www.websitex5.com" />
+		<meta name="description" content="Warum wir Fantasie brauchen und wie wir sie anregen können?" />
+		<meta name="keywords" content="Fantasie, Fantasieanregung, Phantasie, wie kann ich meine Fantasie anregen, Was ist Fantasie?, wie kann ich die Fantasie bei meinem Kind anregen" />
+		<meta property="og:locale" content="de" />
+		<meta property="og:url" content="http://familien-und-leben.de/blog/?warum-wir-fantasie-brauchen-" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="Warum wir Fantasie brauchen?" />
+		<meta property="og:description" content="Warum wir Fantasie brauchen und wie wir sie anregen können?" />
+		<meta property="og:updated_time" content="1657882800" />
+		<meta property="og:image" content="http://familien-und-leben.de/blog/files/large-9271140_og.jpg" />
+		<meta property="og:image" content="http://familien-und-leben.de/blog/files/large-9271140_og_small.jpg" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+		<link rel="stylesheet" href="../style/reset.css?2025-2-8-0" media="screen,print" />
+		<link rel="stylesheet" href="../style/print.css?2025-2-8-0" media="print" />
+		<link rel="stylesheet" href="../style/style.css?2025-2-8-0" media="screen,print" />
+		<link rel="stylesheet" href="../style/template.css?2025-2-8-0" media="screen" />
+		<link rel="stylesheet" href="../pluginAppObj/imHeader_pluginAppObj_08/cartStatus.css" media="screen, print" />
+		<link rel="stylesheet" href="../blog/style.css?2025-2-8-0-639012454046393798" media="screen,print" />
+		<script src="../res/jquery.js?2025-2-8-0"></script>
+		<script src="../res/x5engine.js?2025-2-8-0" data-files-version="2025-2-8-0"></script>
+		<script src="../res/pwa.js?2025-2-8-0" defer ></script>
+		<script src="../res/x5engine.elements.js?2025-2-8-0"></script>
+		<script src="../res/swiper-bundle.min.js?2025-2-8-0"></script>
+		<link rel="stylesheet" href="../res/swiper-bundle.min.css?2025-2-8-0" />
+		<script src="../res/handlebars-min.js?2025-2-8-0"></script>
+		<script src="../res/card-blog.js?2025-2-8-0"></script>
+		<script src="../blog/x5blog.js?2025-2-8-0"></script>
+		<script src="../appsresources/cartStatus.js"></script>
+		<script>
+			window.onload = function(){ checkBrowserCompatibility('Der von Ihnen verwendete Browser unterstützt nicht die die Funktionen, die für die Anzeige dieser Website benötigt werden.','Der von Ihnen verwendete Browser unterstützt möglicherweise nicht die die Funktionen, die für die Anzeige dieser Website benötigt werden.','[1]Browser aktualisieren[/1] oder [2]Vorgang fortsetzen[/2].','http://outdatedbrowser.com/'); };
+			x5engine.settings.currentPath = '../';
+			x5engine.utils.currentPagePath = 'blog/index.php';
+			x5engine.boot.push(function () { x5engine.utils.imCodeProtection('Sabine Lesch-Kaiser'); });
+			x5engine.boot.push(function () { x5engine.imPageToTop.initializeButton({}); });
+		</script>
+		<link rel="icon" href="../favicon.png?2025-2-8-0-639012454044172783" type="image/png" />
+		<link rel="alternate" type="application/rss+xml" title="Mein Leben als Familienbegleiterin" href="../blog/x5feed.php" />
+		<link rel="alternate" type="application/rss+xml" title="Aktuelles aus der Praxis famiLIEnleBEn" href="../x5feed.php" />
+		<link rel="manifest" href="../app.webmanifest?2025-2-8-0" />
+<link rel="canonical" href="http://familien-und-leben.de/blog/?warum-wir-fantasie-brauchen-"/>
+		<script type="application/ld+json">
+[
+    {
+        "@type": "BlogPosting",
+        "@context": "https:\/\/schema.org",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Praxis famiLIEnleBEn",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "http:\/\/familien-und-leben.de\/images\/Logo_bsv5f1sr.png",
+                "width": 1417,
+                "height": 1417
+            }
+        },
+        "datePublished": "2022-07-15T10:00:00",
+        "dateModified": "2022-07-15T10:00:00",
+        "author": {
+            "@type": "Person",
+            "name": "Sabine Lesch-Kaiser"
+        },
+        "headline": "Warum wir Fantasie brauchen?",
+        "description": "Warum wir Fantasie im Leben brauchen und wie wir sie anregen k\u00f6nnen.",
+        "mainEntityOfPage": "http:\/\/familien-und-leben.de\/blog\/?warum-wir-fantasie-brauchen-",
+        "image": [
+            "http:\/\/familien-und-leben.de\/images\\large-863418_yq3wke1n.jpg",
+            "http:\/\/familien-und-leben.de\/images\\large-3237644.jpg",
+            "http:\/\/familien-und-leben.de\/images\\large-5055011.jpg",
+            "http:\/\/familien-und-leben.de\/images\\large-6688951.jpg",
+            "http:\/\/familien-und-leben.de\/images\\large-3046494.jpg",
+            "http:\/\/familien-und-leben.de\/images\\large-1139397.jpg",
+            "http:\/\/familien-und-leben.de\/blog\\files\\large-9271140.jpg"
+        ],
+        "speakable": {
+            "@type": "SpeakableSpecification",
+            "xpath": [
+                "\/html\/head\/title",
+                "\/html\/head\/meta[@name='description']\/@content"
+            ]
+        }
+    },
+    {
+        "@type": "BreadcrumbList",
+        "@context": "https:\/\/schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "name": "Mein Leben als Familienbegleiterin",
+                "item": "http:\/\/familien-und-leben.de\/blog",
+                "position": 1
+            },
+            {
+                "@type": "ListItem",
+                "name": "Jul 2022",
+                "item": "http:\/\/familien-und-leben.de\/blog\/?month=202207",
+                "position": 2
+            },
+            {
+                "@type": "ListItem",
+                "name": "Warum wir Fantasie brauchen?",
+                "position": 3
+            }
+        ]
+    },
+    {
+        "@type": "BreadcrumbList",
+        "@context": "https:\/\/schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "name": "Mein Leben als Familienbegleiterin",
+                "item": "http:\/\/familien-und-leben.de\/blog",
+                "position": 1
+            },
+            {
+                "@type": "ListItem",
+                "name": "Leben",
+                "item": "http:\/\/familien-und-leben.de\/blog\/?category=Leben",
+                "position": 2
+            },
+            {
+                "@type": "ListItem",
+                "name": "Warum wir Fantasie brauchen?",
+                "position": 3
+            }
+        ]
+    },
+    {
+        "@type": "BreadcrumbList",
+        "@context": "https:\/\/schema.org",
+        "numberOfItems": 3,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "name": "Mein Leben als Familienbegleiterin",
+                "item": "http:\/\/familien-und-leben.de\/blog",
+                "position": 1
+            },
+            {
+                "@type": "ListItem",
+                "name": "Sabine Lesch-Kaiser",
+                "item": "http:\/\/familien-und-leben.de\/blog\/?author=Sabine Lesch-Kaiser",
+                "position": 2
+            },
+            {
+                "@type": "ListItem",
+                "name": "Warum wir Fantasie brauchen?",
+                "position": 3
+            }
+        ]
+    }
+]
+		</script>
+	</head>
+	<body>
+		<div id="imPageExtContainer">
+			<div id="imPageIntContainer">
+				<a class="screen-reader-only-even-focused" href="#imGoToCont" title="Überspringen Sie das Hauptmenü">Direkt zum Seiteninhalt</a>
+				<div id="imHeaderBg"></div>
+				<div id="imPage">
+					<header id="imHeader">
+						<h1 class="imHidden">Warum wir Fantasie brauchen?</h1>
+						<div id="imHeaderObjects"><div id="imHeader_imTextObject_01_wrapper" class="template-object-wrapper"><div id="imHeader_imTextObject_01">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imHeader_imTextObject_01_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<div class="imTACenter"><span class="fs12lh1-5">Ihre Familienpraxis in Alt-Hohenschönhausen</span></div>
+		</div>
+	</div>
+
+</div>
+</div><div id="imHeader_imTextObject_02_wrapper" class="template-object-wrapper"><div id="imHeader_imTextObject_02">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imHeader_imTextObject_02_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<div class="imTALeft"><span class="fs12lh1-5 cf1"><a href="../impressum.html" class="imCssLink" onclick="return x5engine.utils.location('../impressum.html', null, false)">Impressum</a></span></div>
+		</div>
+	</div>
+
+</div>
+</div><div id="imHeader_imMenuObject_03_wrapper" class="template-object-wrapper"><!-- UNSEARCHABLE --><a id="imHeader_imMenuObject_03_skip_menu" href="#imHeader_imMenuObject_03_after_menu" class="screen-reader-only-even-focused">Menü überspringen</a><div id="imHeader_imMenuObject_03"><nav id="imHeader_imMenuObject_03_container"><button type="button" class="clear-button-style hamburger-button hamburger-component" aria-label="Menü anzeigen"><span class="hamburger-bar"></span><span class="hamburger-bar"></span><span class="hamburger-bar"></span></button><div class="hamburger-menu-background-container hamburger-component">
+	<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
+		<button type="button" class="clear-button-style hamburger-menu-close-button" aria-label="Schließen"><span aria-hidden="true">&times;</span></button>
+	</div>
+</div>
+<ul class="menu-mobile-animated hidden">
+	<li class="imMnMnFirst imPage" data-link-paths=",/index.html,/">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="../index.html">
+Homepage		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/aktuelles.php">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="../aktuelles.php">
+Aktuelles		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/unsere-angebote.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="../unsere-angebote.html">
+Unsere Angebote		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imLevel" data-link-paths=",/ueber-uns.html" data-link-hash="-1004161978"><div class="label-wrapper"><div class="label-inner-wrapper"><a href="../ueber-uns.html" class="label" onclick="return x5engine.utils.location('../ueber-uns.html', null, false)">Über uns</a></div></div></li><li class="imMnMnMiddle imLevel" data-link-paths=",/index.html,/" data-link-anchor="Kontakt" data-link-hash="2142203298"><div class="label-wrapper"><div class="label-inner-wrapper"><a href="../index.html#Kontakt" class="label" onclick="return x5engine.utils.location('../index.html#Kontakt', null, false)">Kontakt</a></div></div></li><li class="imMnMnLast imLevel" data-link-paths=",/blog.php" data-link-hash="-1004161560"><div class="label-wrapper"><div class="label-inner-wrapper"><a href="../blog.php" class="label" onclick="return x5engine.utils.location('../blog.php', null, false)">Blog</a></div></div></li></ul></nav></div><a id="imHeader_imMenuObject_03_after_menu" class="screen-reader-only-even-focused"></a><!-- UNSEARCHABLE END --><script>
+var imHeader_imMenuObject_03_settings = {
+	'menuId': 'imHeader_imMenuObject_03',
+	'responsiveMenuEffect': 'push',
+	'responsiveMenuLevelOpenEvent': 'mouseover',
+	'animationDuration': 1000,
+}
+x5engine.boot.push(function(){x5engine.initMenu(imHeader_imMenuObject_03_settings)});
+$(function () {
+    $('#imHeader_imMenuObject_03_container ul li').not('.imMnMnSeparator').each(function () {
+        $(this).on('mouseenter', function (evt) {
+            if (!evt.originalEvent) {
+                evt.stopImmediatePropagation();
+                evt.preventDefault();
+                return;
+            }
+        });
+    });
+});
+$(function () {$('#imHeader_imMenuObject_03_container ul li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        if($(this).parents('#imHeader_imMenuObject_03_container-menu-opened').length > 0) return;         clearTimeout(timeout);        setTimeout(function () { $this.children('ul, .multiple-column').stop(false, false).fadeIn(); }, 250);    }).on('mouseleave', function () {        if($(this).parents('#imHeader_imMenuObject_03_container-menu-opened').length > 0) return;         timeout = setTimeout(function () { $this.children('ul, .multiple-column').stop(false, false).fadeOut(); }, 250);    });});});
+
+</script>
+</div><div id="imHeader_imTextObject_07_wrapper" class="template-object-wrapper"><div id="imHeader_imTextObject_07">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imHeader_imTextObject_07_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<div><span class="fs12lh1-5"><a href="../datenschutz.html" class="imCssLink" onclick="return x5engine.utils.location('../datenschutz.html', null, false)">Datenschutz</a></span></div>
+		</div>
+	</div>
+
+</div>
+</div><div id="imHeader_pluginAppObj_08_wrapper" class="template-object-wrapper"><!-- Cart Status v.2 --><div id="imHeader_pluginAppObj_08" style="direction: ltr;">
+<section id="objCartStatus_imHeader_pluginAppObj_08" class="cartstatus">
+  <div class="cartstatus__link cartstatus__iconwrapper"><div class="cartstatus__badge cartstatus__badge--icon" data-number="0"></div>  <img class="cartstatus__icon" src="../pluginAppObj/imHeader_pluginAppObj_08/Artboard-12.png" alt="icon"></div>
+</section>
+</div></div></div>
+					</header>
+					<div id="imStickyBarContainer">
+						<div id="imStickyBarGraphics"></div>
+						<div id="imStickyBar">
+							<div id="imStickyBarObjects"><div id="imStickyBar_imObjectTitle_02_wrapper" class="template-object-wrapper"><div id="imStickyBar_imObjectTitle_02"><span id ="imStickyBar_imObjectTitle_02_text" >Title</span></div></div><div id="imStickyBar_imMenuObject_03_wrapper" class="template-object-wrapper"><!-- UNSEARCHABLE --><a id="imStickyBar_imMenuObject_03_skip_menu" href="#imStickyBar_imMenuObject_03_after_menu" class="screen-reader-only-even-focused">Menü überspringen</a><div id="imStickyBar_imMenuObject_03"><nav id="imStickyBar_imMenuObject_03_container"><button type="button" class="clear-button-style hamburger-button hamburger-component" aria-label="Menü anzeigen"><span class="hamburger-bar"></span><span class="hamburger-bar"></span><span class="hamburger-bar"></span></button><div class="hamburger-menu-background-container hamburger-component">
+	<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
+		<button type="button" class="clear-button-style hamburger-menu-close-button" aria-label="Schließen"><span aria-hidden="true">&times;</span></button>
+	</div>
+</div>
+<ul class="menu-mobile-animated hidden">
+	<li class="imMnMnFirst imPage" data-link-paths=",/index.html,/">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="../index.html">
+Homepage		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/aktuelles.php">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="../aktuelles.php">
+Aktuelles		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/unsere-angebote.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="../unsere-angebote.html">
+Unsere Angebote		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imLevel" data-link-paths=",/ueber-uns.html" data-link-hash="-1004161978"><div class="label-wrapper"><div class="label-inner-wrapper"><a href="../ueber-uns.html" class="label" onclick="return x5engine.utils.location('../ueber-uns.html', null, false)">Über uns</a></div></div></li><li class="imMnMnMiddle imLevel" data-link-paths=",/index.html,/" data-link-anchor="Kontakt" data-link-hash="2142203298"><div class="label-wrapper"><div class="label-inner-wrapper"><a href="../index.html#Kontakt" class="label" onclick="return x5engine.utils.location('../index.html#Kontakt', null, false)">Kontakt</a></div></div></li><li class="imMnMnLast imLevel" data-link-paths=",/blog.php" data-link-hash="-1004161560"><div class="label-wrapper"><div class="label-inner-wrapper"><a href="../blog.php" class="label" onclick="return x5engine.utils.location('../blog.php', null, false)">Blog</a></div></div></li></ul></nav></div><a id="imStickyBar_imMenuObject_03_after_menu" class="screen-reader-only-even-focused"></a><!-- UNSEARCHABLE END --><script>
+var imStickyBar_imMenuObject_03_settings = {
+	'menuId': 'imStickyBar_imMenuObject_03',
+	'responsiveMenuEffect': 'slide',
+	'responsiveMenuLevelOpenEvent': 'mouseover',
+	'animationDuration': 1000,
+}
+x5engine.boot.push(function(){x5engine.initMenu(imStickyBar_imMenuObject_03_settings)});
+$(function () {
+    $('#imStickyBar_imMenuObject_03_container ul li').not('.imMnMnSeparator').each(function () {
+        $(this).on('mouseenter', function (evt) {
+            if (!evt.originalEvent) {
+                evt.stopImmediatePropagation();
+                evt.preventDefault();
+                return;
+            }
+        });
+    });
+});
+$(function () {$('#imStickyBar_imMenuObject_03_container ul li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0, subtimeout = 0, width = 'none', height = 'none';        var submenu = $this.children('ul').add($this.find('.multiple-column > ul'));    $this.on('mouseenter', function () {        if($(this).parents('#imStickyBar_imMenuObject_03_container-menu-opened').length > 0) return;         clearTimeout(timeout);        clearTimeout(subtimeout);        $this.children('.multiple-column').show(0);        submenu.stop(false, false);        if (width == 'none') {             width = submenu.width();        }        if (height == 'none') {            height = submenu.height();            submenu.css({ overflow : 'hidden', height: 0});        }        setTimeout(function () {         submenu.css({ overflow : 'hidden'}).fadeIn(1).animate({ height: height }, 300, null, function() {$(this).css('overflow', 'visible'); });        }, 250);    }).on('mouseleave', function () {        if($(this).parents('#imStickyBar_imMenuObject_03_container-menu-opened').length > 0) return;         timeout = setTimeout(function () {         submenu.stop(false, false);            submenu.css('overflow', 'hidden').animate({ height: 0 }, 300, null, function() {$(this).fadeOut(0); });            subtimeout = setTimeout(function () { $this.children('.multiple-column').hide(0); }, 300);        }, 250);    });});});
+
+</script>
+</div></div>
+						</div>
+					</div>
+					<div id="imSideBar">
+						<div id="imSideBarObjects"><div id="imSideBar_imObjectImage_01_wrapper" class="template-object-wrapper"><div id="imSideBar_imObjectImage_01"><div id="imSideBar_imObjectImage_01_container"><img src="../images/empty-GT_imagea-1-.png"  width="140" height="140" />
+</div></div></div></div>
+					</div>
+					<div id="imContentGraphics"></div>
+					<main id="imContent">
+						<a id="imGoToCont"></a>
+						<div id="imBlogPage" class="imBlogArticle"><article id="imBlogContent"><header>
+  <h2 class="imPgTitle" style="display: block;">Warum wir Fantasie brauchen?</h2>
+</header>
+<span style="display: none"><span >FamiLIEnleBEn</span><img src="http://familien-und-leben.de/favImage.png" alt="" /></span><div class="imBreadcrumb" style="display: block;"><span>Veröffentlicht von <a href="?author=Sabine_Lesch-Kaiser" target="_blank"><span><strong>Sabine Lesch-Kaiser</strong></span></a> in <a href="?category=Leben" target="_blank"><span>Leben</span></a> &middot; Freitag 15 Jul 2022 &middot; <svg aria-labelledby="blog_post_000000020_read_time" role="img" fill="none" stroke="currentColor" stroke-linecap="square" stroke-width="2px" color="currentColor" viewBox="0 0 24 24" width="1.2em" height="1.2em" style="vertical-align: text-top;"><title id="blog_post_000000020_read_time">Lesezeit</title><circle cx="12" cy="12" r="10"></circle><path d="M12 5v7l4 4"></path></svg>&nbsp;4:30</span></div>
+<img id="imBlogPostCover_000000020" class="imBlogPostCover" src="../blog/files/large-9271140.jpg" alt="" title=""/>
+<div class="imBlogPostBody">
+<div id="imBlogPost_000000020"><div><span class="fs12lh1-5">Eine wundervolle Gabe, die wir Menschen besitzen, ist unsere Fantasie. Die einen haben sie &nbsp;mehr, die anderen weniger. Es wird vermutet, dass sie mit unseren genetischen Wurzeln &nbsp;zusammenhängt. Doch wir haben sie alle in uns stecken – vielleicht muss sie nur in dir &nbsp;geweckt werden? </span></div><div><span class="fs12lh1-5"><br></span></div><div class="imTACenter"><img class="image-0" src="../images/large-863418_yq3wke1n.jpg"  width="639" height="399" /><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5"><br></span></div><div><b class="fs12lh1-5">Doch was ist Fantasie? </b></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5">Der Begriff „Fantasie“ kommt aus dem Griechischen „phantasia“ und bedeutet: Erscheinung, &nbsp;Aussehen, Vorstellung, geistiges Bild, Einbildung (siehe: www.dwds.de/wb/Fantasie). </span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5">Fantasie hilft uns in unserem Leben, denn durch sie haben wir die Fähigkeit unschöne &nbsp;Erlebnisse auszugleichen. Gedanklich arrangieren wir dadurch die Schattenseiten des Leben &nbsp;mit den Sonnenseiten und erzeugen uns somit eine (für den Moment) passende Welt. &nbsp;Dadurch können wir das reale Leben besser wahrnehmen und zum Teil Traurigkeites verarbeiten (je nach unseren Fähigkeiten). Sie hilft uns in Krisenzeit, diese zu überstehen, &nbsp;denn sie regt unsere Kreativität und schafft es, den Blick von außen auf einem selbst zu &nbsp;richten. Fantasie kann unser Schutz sein, um ab und zu den stressigen Alltag zu entfliehen. &nbsp;Natürlich funktioniert das nur im begrenzten Maße. Ein Zuviel kann nämlich auch bewirken, &nbsp;dass die Wirklichkeit nicht mehr richtig wahrgenommen wird und der Mensch komplett in &nbsp;Fantasiewelten flüchtet. Deshalb ist der stetige Wechsel von Realität und Fantasie im &nbsp;ausgewogenen Maß wichtig. </span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5">In früheren Zeiten war Fantasie oft negativ behaftet und mit Halluzinationen bzw. &nbsp;Nervenerkrankungen gleichgesetzt. In der heutigen Zeit wird sie in allen Bereich geschätzt, &nbsp;denn durch sie kann mehr Kreativität und Freude entstehen bzw. trägt sie mehr zu &nbsp;Abwechslung in unserem Leben bei.</span></div><div><span class="fs12lh1-5"><br></span></div><div class="imTACenter"><img class="image-1" src="../images/large-3237644.jpg"  width="650" height="335" /><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5"><b>Doch wie können wir unsere Fantasie anregen?</b></span><span class="fs12lh1-5"> </span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5">Eigentlich besitzen wir sie alle seit unserer Geburt. Es ist immer wieder faszinierend, wie Kinder ihre Fantasie ausleben (da gibt es zum Beispiel die „unsichtbaren“ Freunde und &nbsp;Lieblingstiere, es entstehen Bau- und Kunstwerke im überdimensionalen Maße). Und so &nbsp;werden aus den Jüngsten die größten Architekten und Künstler. Je älter wir werden, kann &nbsp;unsere Fantasie geringer werden und vielleicht ganz verloren gehen. Doch das muss nicht &nbsp;sein - mit folgenden Anregungen, können wir unsere Fantasie wieder anregen und die &nbsp;positiven Resultate daraus genießen. </span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5">Dabei hilft es uns, einmal die Welt aus der Sicht unserer Kinder zusehen. Probiert es doch &nbsp;gern einmal gemeinsam aus! </span></div><div><span class="fs12lh1-5"><br></span></div><div class="imTACenter"><img class="image-2" src="../images/large-5055011.jpg"  width="661" height="441" /><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5"><b>Träumen </b></span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5">Kind schaffen es oft, den Alltag durch Tagesträumen zu entfliehen. Wann hast du das letzte &nbsp;Mal einfach mal am Tag geträumt? Such dir am besten einmal einen entspannten Ort aus &nbsp;(vielleicht auch mit deinem Kind), leg dir Musik ein und fang an deinen Gedanken freien Lauf &nbsp;zu lassen. Wenn es dir schwer fällt, können dir / euch Fantasiereisen unterstützend zur Seite &nbsp;stehen. Dafür benötigst du nur eine angeleitete gesprochene Übung mit einer dir &nbsp;angenehmen Stimme, ein entspannter Ort und schon kann die Reise beginnen. Es gibt &nbsp;Fantasiereisen sowohl für Erwachsene und auch für Kinder. </span></div><div><span class="fs12lh1-5"><br></span></div><div class="imTACenter"><img class="image-3" src="../images/large-6688951.jpg"  width="638" height="425" /><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5"><b>Spielen </b></span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5">„</span><span class="fs12lh1-5"><b>Das Spielzeug an sich ist Nebensache, die phantasievolle Beschäftigung damit ist alles</b></span><span class="fs12lh1-5">.“ (</span><i class="fs12lh1-5">Peter </i><span class="fs12lh1-5"><i>Rosegger</i></span><span class="fs12lh1-5">) </span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5">Was für ein passendes Zitat! </span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5">Durchs Spielen können wir in andere Welten abtauchen und uns eigene Figuren schaffen. &nbsp;Wir erkennen wer wir sind bzw. was wir werden wollen. Dabei helfen einfache &nbsp;Gesellschaftsspiele, das gemeinsam Spiel mit unserem Kind oder Rollenspiele. </span></div><div><span class="fs12lh1-5"><br></span></div><div class="imTACenter"><img class="image-4" src="../images/large-3046494.jpg"  width="650" height="433" /><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5"><b>Lesen und Sprache</b></span><span class="fs12lh1-5"> </span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5">Wenn wir lesen, tauchen wir oft ab und lassen unseren Gedanken freien Lauf. Unser*e &nbsp;Held*in wird in unserer Fantasie erschaffen, aber auch die ganze Geschichte des Romans &nbsp;entwickelt sich, so wie du sie dir vorstellst. Lesen und Sprechen regen weiterhin ungemein &nbsp;die Entwicklung deines Kindes an. Was hältst du davon, wenn du nur den 1. Teil einer Geschichte vorliest und gemeinsam entwickelt ihr den 2. Teil? Lass dich von der Fantasie &nbsp;deines Kindes anstecken und bestimmt gemeinsam, wie die Geschichte enden soll. </span></div><div><span class="fs12lh1-5"><br></span></div><div class="imTACenter"><img class="image-5" src="../images/large-1139397.jpg"  width="656" height="437" /><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5"><br></span></div><div><b class="fs12lh1-5">Kreativ sein!</b></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5">Wie oft bekomme ich zu hören, „Ich kann nicht malen bzw. singen!“. Oft versteckt sich &nbsp;dahinter unser eigener Perfektionismus, denn tatsächlich kann jeder Mensch künstlerisch &nbsp;tätig sein. Ob nun gut oder schlecht- dass ist doch immer eine Frage des Blickwinkels. Ist dir &nbsp;eigentlich einmal aufgefallen, dass Kinder mit „nur“ ein paar gemalten Strichen eine ganze &nbsp;Geschichte erzählen? Nimm dir doch am besten gleich einmal ein Stück Papier und einen &nbsp;Stift. Leg dir passende Musik ein und lass deinen Gedanken und Händen freien Lauf. Zum &nbsp;Schluss kannst du dir dein „Kunstwerk“ betrachten. Was erkennst du? Wenn es dir &nbsp;schwerfällt, etwas aus dem Werk zu sehen, hilft dir bestimmt dein Kind und entdeckt &nbsp;fantasievolle Wesen. </span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5">Lass dich doch von der Fantasie deines Kindes beflügeln und begeistern. Deine &nbsp;Vorstellungskraft kennt keine Grenzen. Vielleicht wird aus deiner Fantasie eine Vision und &nbsp;wird dann irgendwann umgesetzt. </span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5">Denn schließlich: </span></div><div><span class="fs12lh1-5"><br></span></div><div class="imTACenter"><span class="fs12lh1-5"><b>Phantasie ist die Gabe, unsichtbare Dinge zu sehen. (Jonathan Swift).</b></span><span class="fs12lh1-5"> </span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5">Ach so – vielleicht wunderst du dich, dass im obengenannten Zitat Fantasie mit „Ph“ geschrieben wurde. Im Zuge der neuen Rechtschreibreform wurde aus „Phantasie“ das Wort &nbsp;„Fantasie“. Bis heute sind beide Schreibformen laut Duden zulässig. Nimm das Wort, &nbsp;welches dir gefällt! </span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5">Nun wünsche ich dir einen fantasievollen Alltag – deine Sabine </span></div><div><span class="fs12lh1-5"><br></span></div><div><span class="fs12lh1-5">PS. Hast du noch einen Tipp, wie du deine Fantasie anregst?</span><br></div><div style="clear: both;"><!-- clear floated images --></div></div><br /><br /></div>
+<img src="../images/large-863418_yq3wke1n.jpg" style="display: none" alt=""><div id="blog-topic">
+<div id="x5_pc000000020-topic-summary" class="topic-summary no-review comments">
+<div class="topic-total-review"><div class="topic-review-c"><div class="topic-number-review">0</div><div class="label-review">Rezensionen</div><div class="fill"></div></div>
+</div>
+<div class="topic-add-review"><input type="button" class="topic-add-review-btn" value="Schreiben Sie eine Rezension" /><div class="fill"></div></div><div class="topic-space"><div class="fill"></div></div></div>
+<div class="topic-form">
+              <form id="x5_pc000000020-topic-form" class="comments-and-ratings-topic-form" action="?warum-wir-fantasie-brauchen-&" method="post">
+                <input type="hidden" name="post_id" value="x5_pc000000020"/>
+                <div class="topic-form-row">
+                    <div class="topic-form-item">
+                        <label for="x5_pc000000020-topic-form-name">Name:<span aria-hidden="true">*</span></label> 
+                        <input type="text" id="x5_pc000000020-topic-form-name" name="name" class="imfield mandatory striptags trim" aria-required="true"/>
+                    </div>
+                    <div class="topic-form-item second-column">
+                        <label for="x5_pc000000020-topic-form-url">Website im Internet:</label>
+                        <input type="text" id="x5_pc000000020-topic-form-url" name="url" />
+                    </div>
+                </div>
+                <div class="topic-form-row">
+                    <div class="topic-form-item">
+                        <label for="x5_pc000000020-topic-form-email">E-Mail:<span aria-hidden="true">*</span></label>
+                        <input type="text" id="x5_pc000000020-topic-form-email" name="email" class="imfield mandatory valEmail" aria-required="true"/>
+                    </div>
+                    <div class="topic-form-item second-column empty-column">
+                    </div>
+                </div><div class="topic-form-row">
+                <div class="topic-form-item">
+                    <label for="x5_pc000000020-topic-form-body">Mitteilung:<span aria-hidden="true">*</span></label>
+                    <textarea maxlength="1500" id="x5_pc000000020-topic-form-body" name="body" class="imfield mandatory striptags trim" style="width: 100%; height: 100px;" aria-required="true"></textarea>
+                </div>
+        </div>		<div class="x5captcha-wrap">
+			<label for="x8zh36w5-imCpt">Wortprüfung:</label><br />
+			<input type="text" id="x8zh36w5-imCpt" class="imCpt" name="imCpt" maxlength="5" />
+		</div>
+<input type="hidden" value="x5_pc000000020" name="x5topicid"><input type="text" value="" name="prt" class="prt_field"><div class="topic-form-row">
+                <input type="submit" value="Rezension senden" />
+              </div>
+              </form>
+              <script>x5engine.boot.push( function () { x5engine.imForm.initForm('#x5_pc000000020-topic-form', false, { 'jsid': 'cc7f2a3962954a244ce2bc623636a970', showAll: true }); });</script>
+        </div>
+<div class="topic-comments one-columns">
+</div>
+</div><script>x5engine.boot.push('x5engine.topic({ target: \'#blog-topic\', scrollbar: false})', false, 6);</script>
+						</article>
+						<aside id="imBlogSidebar">
+							<a id="imSkipBlock0" href="#imSkipBlock1" class="screen-reader-only-even-focused">Block überspringen Letzte Posts</a>
+							<div class="imBlogBlock" id="imBlogBlock0" >
+								<div class="imBlogBlockTitle">Letzte Posts</div>
+								<div class="imBlogBlockContent">
+						<ul><li><a href="?unser-sommerfest-2025">Unser Sommerfest 2025</a></li><li><a href="?kindliche-perspektive">Kindliche Perspektive</a></li><li><a href="?auf-einmal-ist-alles-anders----">Auf einmal ist alles anders....</a></li><li><a href="?die-kraft-der-veraenderung">Die Kraft der Veränderung</a></li></ul>								</div>
+							</div>
+							<a id="imSkipBlock1" href="#imSkipBlock2" class="screen-reader-only-even-focused">Block überspringen Monatliche Posts</a>
+							<div class="imBlogBlock" id="imBlogBlock1" >
+								<div class="imBlogBlockTitle">Monatliche Posts</div>
+								<div class="imBlogBlockContent">
+						<ul><li><a href="?month=202507">Jul 2025</a></li><li><a href="?month=202506">Jun 2025</a></li><li><a href="?month=202505">Mai 2025</a></li><li><a href="?month=202502">Feb 2025</a></li></ul>								</div>
+							</div>
+							<a id="imSkipBlock2" href="#imSkipBlock3" class="screen-reader-only-even-focused">Block überspringen Kategorien</a>
+							<div class="imBlogBlock" id="imBlogBlock2" >
+								<div class="imBlogBlockTitle">Kategorien</div>
+								<div class="imBlogBlockContent">
+						<ul><li><a href="?category=1._Lebensjahr">1. Lebensjahr</a></li><li><a href="?category=Achtsamkeit">Achtsamkeit</a></li><li><a href="?category=Aus_dem_Praxisalltag">Aus dem Praxisalltag</a></li><li><a href="?category=Bastelideen">Bastelideen</a></li><li><a href="?category=|All|">Alle Kategorien</a></li></ul>								</div>
+							</div>
+							<a id="imSkipBlock3" href="#imSkipBlock4" class="screen-reader-only-even-focused">Block überspringen Clouds</a>
+							<div class="imBlogBlock" id="imBlogBlock3" >
+								<div class="imBlogBlockTitle">Clouds</div>
+								<div class="imBlogBlockContent">
+									<span class="imBlogCloudItem" style="font-size: 0.98em;">
+				<a href="?category=Kinderschlaf" style="font-size: 0.98em;">Kinderschlaf</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.03em;">
+				<a href="?category=Download" style="font-size: 1.03em;">Download</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.00em;">
+				<a href="?category=Partnerschaft" style="font-size: 1.00em;">Partnerschaft</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.25em;">
+				<a href="?category=Familienleben" style="font-size: 1.25em;">Familienleben</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.03em;">
+				<a href="?category=Aus_dem_Praxisalltag" style="font-size: 1.03em;">Aus dem Praxisalltag</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 0.98em;">
+				<a href="?category=Schulkind" style="font-size: 0.98em;">Schulkind</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 0.98em;">
+				<a href="?category=Schwangerschaft" style="font-size: 0.98em;">Schwangerschaft</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.03em;">
+				<a href="?category=Rezepte" style="font-size: 1.03em;">Rezepte</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.06em;">
+				<a href="?category=Erziehung" style="font-size: 1.06em;">Erziehung</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.09em;">
+				<a href="?category=Achtsamkeit" style="font-size: 1.09em;">Achtsamkeit</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 0.98em;">
+				<a href="?category=Bastelideen" style="font-size: 0.98em;">Bastelideen</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 0.98em;">
+				<a href="?category=Kreativ_mit_Kindern" style="font-size: 0.98em;">Kreativ mit Kindern</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.14em;">
+				<a href="?category=Gesundheit" style="font-size: 1.14em;">Gesundheit</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.11em;">
+				<a href="?category=Eindr%C3%BCcke" style="font-size: 1.11em;">Eindrücke</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.03em;">
+				<a href="?category=1._Lebensjahr" style="font-size: 1.03em;">1. Lebensjahr</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.17em;">
+				<a href="?category=Leben" style="font-size: 1.17em;">Leben</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 0.98em;">
+				<a href="?category=Lernen" style="font-size: 0.98em;">Lernen</a>
+			</span>
+								</div>
+							</div>
+						</aside>
+						<a id="imSkipBlock4" class="screen-reader-only-even-focused"></a>
+						<script>
+							x5engine.boot.push(function () { 
+								window.scrollTo(0, 0);
+							});
+						</script>
+						<script>
+							x5engine.boot.push(function () {
+								x5engine.blogSidebarScroll({ enabledBreakpoints: ['ea2f0ee4d5cbb25e1ee6c7c4378fee7b', 'd2f9bff7f63c0d6b7c7d55510409c19b', '72e5146e7d399bc2f8a12127e43469f1'] });
+								var postHeightAtDesktop = 400,
+									postWidthAtDesktop = 978;
+								if ($('#imBlogPage').hasClass('imBlogArticle')) {
+									$('#imPageExtContainer').addClass('imBlogExtArticle');
+									var coverResizeTo = null,
+										coverWidth = 0;
+									x5engine.utils.onElementResize($('.imBlogPostCover')[0], function (rect, target) {
+										if (coverWidth == rect.width) {
+											return;
+										}
+										coverWidth = rect.width;
+										if (!!coverResizeTo) {
+											clearTimeout(coverResizeTo);
+										}
+										coverResizeTo = setTimeout(function() {
+											$('.imBlogPostCover').height(postHeightAtDesktop * coverWidth / postWidthAtDesktop + 'px');
+										}, 50);
+									});
+								}
+							});
+						</script>
+						</div>
+						<script>
+						   x5engine.boot.push(
+						      function(){
+						         if ($('#imBlogPage').hasClass('imBlogArticle')) {
+						            if ($("meta[name='description']").length > 0) {
+						               if ($("meta[name='description']").attr("content").trim().length <= 0) {
+						                   $("meta[name='description']").attr("content", "" );
+						               }
+						            } else {
+						               $("meta[name='generator']").after("<meta name=\"description\" content=\"\">");
+						            }
+						            if ($("meta[name='keywords']").length > 0) {
+						               if ($("meta[name='keywords']").attr("content").trim().length <= 0) {
+						                  $("meta[name='keywords']").attr("content", "" );
+						               }
+						            } else {
+						               $("meta[name='description']").after("<meta name=\"keywords\" content=\"\">");
+						            }
+						            $("#imHeader .imHidden").html( $("#imHeader .imHidden").html().replace( "Mein Leben als Familienbegleiterin" , "Mein Leben als Familienbegleiterin" ) );
+						         }
+						      }
+						   );
+						</script>
+						
+					</main>
+					<div id="imFooterBg"></div>
+					<footer id="imFooter">
+						<div id="imFooterObjects"><div id="imFooter_imTextObject_01_wrapper" class="template-object-wrapper"><div id="imFooter_imTextObject_01">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTextObject_01_tab0" style="opacity: 1; " role="tabpanel" tabindex="0">
+		<div class="text-inner">
+			<div class="imTACenter"><span class="fs10lh1-5">Praxis fami<span class="cf1">LIE</span>nle<span class="cf1">BE</span>n * Friedhofstraße 2 *13053 Berlin</span></div>
+		</div>
+	</div>
+
+</div>
+</div></div>
+					</footer>
+				</div>
+				<span class="screen-reader-only-even-focused" style="bottom: 0;"><a href="#imGoToCont" title="Lesen Sie den Inhalt der Seite noch einmal durch">Zurück zum Seiteninhalt</a></span>
+			</div>
+		</div>
+		<div id="install_banner">
+			<div id="install_banner_inner">
+				<div id="install_siteicon_container">
+					<img id="install_siteicon" src="images/pwaIcon192.png" alt="App-Icon">
+				</div>
+				<div id="install_info_container">
+					<span id="install_title">FamiLIEnleBEn</span>
+					<span id="install_text_1">Installieren Sie diese Website auf Ihrem Startbildschirm für ein besseres Erlebnis</span>
+					<div id="install_button_container">
+						<button type="button" id="install_button">Installieren Sie</button>
+					</div>
+					<span id="install_text_2">Tippen Sie auf <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" style="vertical-align: text-bottom;" aria-labelledby="ios_install_button_title" role="img" viewBox="10 5 30 35" enable-background="new 0 0 50 50"><title id="ios_install_button_title">Installationsschaltfläche auf iOS</title><path d="M30.3 13.7L25 8.4l-5.3 5.3-1.4-1.4L25 5.6l6.7 6.7z"/><path d="M24 7h2v21h-2z"/><path d="M35 40H15c-1.7 0-3-1.3-3-3V19c0-1.7 1.3-3 3-3h7v2h-7c-.6 0-1 .4-1 1v18c0 .6.4 1 1 1h20c.6 0 1-.4 1-1V19c0-.6-.4-1-1-1h-7v-2h7c1.7 0 3 1.3 3 3v18c0 1.7-1.3 3-3 3z"/></svg> und dann auf „Zu Ihrem Bildschirm hinzufügen“</span>
+				</div>
+				<button type="button" id="install_close" aria-label="Schließen">X</button>
+			</div>
+		</div>
+		<script src="../cart/x5cart.js?2025-2-8-0-639012454046393798"></script>
+		<noscript class="imNoScript"><div class="alert alert-red">Um diese Website nutzen zu können, aktivieren Sie bitte JavaScript.</div></noscript>
+	</body>
+</html>

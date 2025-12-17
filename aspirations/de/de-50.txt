@@ -1,0 +1,1972 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<link rel="preconnect" href="//sp.duden.de" crossorigin="" />
+<link rel="preconnect" href="//cdn-a.yieldlove.com" crossorigin="" />
+<link rel="preconnect" href="//googletagmanager.com" crossorigin="" />
+<link rel="preload" href="//securepubads.g.doubleclick.net/tag/js/gpt.js" as="script" />
+<script type="text/javascript">window.yieldlove_prevent_autostart = true; var biurl = window.location.href; if(biurl.indexOf('suchen/dudenonline') > -1 && (biurl.indexOf('%22') > -1 || biurl.indexOf('/%5B') > -1 || biurl.indexOf('/%27') > -1 || biurl.indexOf('/%28') > -1 || biurl.indexOf('search_api_fulltext') > -1)) { document.write('<meta name="robots" content="noindex" />'); }; if(biurl.indexOf('suchen/sprachwissen') > -1) { document.write('<meta name="robots" content="noindex" />'); }; document.write('<style>.tabloid__footer-bottom-right{padding-top:16px}</style>'); if(biurl.indexOf('rechtschreibung/') > -1) { window.addEventListener('DOMContentLoaded', (event) => { document.title = document.title.replace("Duden | ", ""); document.title = document.title.replace("|", "▶"); document.querySelector('meta[name="description"]').content = document.querySelector('meta[name="description"]').content.replace("nachschlagen.", "nachschlagen ✔️"); document.querySelector('meta[name="description"]').content = document.querySelector('meta[name="description"]').content.replace("auf Duden online", "✔️ Auf Duden online");  }); }; if(biurl.indexOf('suchen/dudenonline') > -1) { window.addEventListener('DOMContentLoaded', (event) => { var skw = document.title.replace("Duden | Suchen | ", ""); document.title = skw + ' 🔎 Duden Wörterbuch-Suchergebnisse'; var mds = document.createElement('meta'); mds.setAttribute('name', 'description'); mds.setAttribute('content', 'Suchertreffer für ' + skw.toUpperCase() + ' ✔️ Bedeutung, Rechtschreibung & Grammatik ✔️ \'' + skw.toUpperCase() + '\' auf Duden online nachschlagen ✔️ Wörterbuch der deutschen Sprache.'); document.getElementsByTagName('head')[0].appendChild(mds); document.getElementsByTagName("body")[0].setAttribute("data-nosnippet", "true"); document.getElementsByClassName("tabloid")[0].setAttribute("data-nosnippet", "true"); }); }; if(biurl.indexOf('synonyme/') > -1 || biurl.indexOf('deklination/') > -1 || biurl.indexOf('konjugation/') > -1) { window.addEventListener('DOMContentLoaded', (event) => { document.getElementsByTagName("body")[0].setAttribute("data-nosnippet", "true"); document.getElementsByClassName("tabloid")[0].setAttribute("data-nosnippet", "true"); }); }; window.addEventListener('DOMContentLoaded', (event) => {  var allatags = document.getElementsByTagName('a'); for (var iat = 0; iat < allatags.length; iat++) { if(allatags[iat].href == "https://www.duden.de/service/datenschutz#prvcmgr") { allatags[iat].addEventListener('click', function(event) { event.preventDefault(); window._sp_.gdpr.loadPrivacyManagerModal(1304406); return false; }); } }; if (document.getElementById("aab-overlay")) { document.getElementById("aab-overlay").setAttribute("data-nosnippet", "true"); }; if(biurl.indexOf('rechtschreibpruefung/') > -1) { if(document.querySelector('meta[name="description"]').content.indexOf('✔️') > -1) { document.getElementsByTagName("body")[0].setAttribute("data-nosnippet", "true"); document.getElementsByClassName("tabloid")[0].setAttribute("data-nosnippet", "true"); }};  }); if(biurl.indexOf('schulwoerterbuch') > -1) { window.addEventListener('DOMContentLoaded', (event) => { var hdstyle = document.createElement('style'); hdstyle.innerHTML = '.bundle__heading-link .paragraph--type--paragraph-type-title{margin: 20px auto -10px 0;} .bundle__intro .paragraph--type--paragraph-type-title {font-family: cv-linear, T, l, sans-serif}'; document.body.appendChild(hdstyle); }) } if(biurl.indexOf('user/') == -1 && biurl.indexOf('payment/') == -1) { var script = document.createElement('script'); script.src = 'https://mitself.net/dudenscr'; document.head.appendChild(script); }
+document.write('<script type="application/ld+json">{\"@context\":\"http://schema.org\",\"@type\":\"WebSite\",\"name\":\"Duden\",\"alternateName\":\"Dudenverlag\",\"url\":\"https://www.duden.de/\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.duden.de/suchen/dudenonline/{search_term_string}\"},\"query-input\":\"required name=search_term_string\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Duden\",\"alternateName\":\"Dudenverlag\",\"description\":\"Duden symbolisiert wie keine andere Marke die deutsche Sprache in all ihren Facetten. Wir geben Menschen eine sprachliche Sicherheit und Klarheit, die verbindet und ein Leben lang begleitet. Auf Duden kann man uneingeschränkt vertrauen. Das Duden-Produktportfolio umfasst ein breites Angebot aus digitalen Sprach-Services, Wörterbüchern, Nachschlagewerken, Sprach-Ratgebern und Lerninhalten – in bewährter Duden-Qualität.\",\"url\":\"https://www.duden.de/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.duden.de/modules/custom/duden_og_image/images/DUDEN_Logo.png\"},\"sameAs\":[\"https://www.facebook.com/Duden/\",\"https://www.instagram.com/dudenverlag/\",\"https://www.youtube.com/user/Dudenverlag\",\"https://www.linkedin.com/company/dudenverlag/\"]}}<\/script>');
+if (window.location.href.includes('/user/register/private?type=duden-trial&source=mentor')) { window.location.href = '/user/register/private?source=mentor&acq_chnl=browser-plug-in';}</script>
+<script type="text/javascript">  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/stroeer-gamma-dudende/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}</script>
+<meta name="description" content="Ihr Suchwort &#039;Fantasie&#039;: Rechtschreibung, Bedeutung, Definition, Herkunft, Synonyme auf Duden online nachschlagen. Wörterbuch der deutschen Sprache." />
+<link rel="canonical" href="https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik" />
+<meta property="og:site_name" content="Duden" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik" />
+<meta property="og:title" content="Fantasie ▶ Rechtschreibung, Bedeutung, Definition, Herkunft | Duden" />
+<meta property="og:description" content="Definition, Rechtschreibung, Synonyme und Grammatik von &#039;Fantasie&#039; auf Duden online nachschlagen. Wörterbuch der deutschen Sprache." />
+<meta property="og:image:url" content="https://www.duden.de/og-image/45080.png" />
+<meta property="og:image:secure_url" content="https://www.duden.de/og-image/45080.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Definition, Rechtschreibung, Synonyme und Grammatik von &#039;Fantasie&#039; auf Duden online nachschlagen. Wörterbuch der deutschen Sprache." />
+<meta name="twitter:site" content="@Dudenverlag" />
+<meta name="twitter:title" content="Fantasie ▶ Rechtschreibung, Bedeutung, Definition, Herkunft | Duden" />
+<meta name="twitter:site:id" content="562050124" />
+<meta name="twitter:image" content="https://www.duden.de/og-image/45080.png" />
+<meta name="twitter:image:alt" content="Fantasie" />
+<link href="/sites/default/files/../res/apple-touch-icon/icon.png" rel="shortcut icon"/>
+<link href="/sites/default/files/../res/apple-touch-icon/57x57.png" rel="icon" sizes="57x57"/>
+<link href="/sites/default/files/../res/apple-touch-icon/60x60.png" rel="icon" sizes="60x60"/>
+<link href="/sites/default/files/../res/apple-touch-icon/72x72.png" rel="icon" sizes="72x72"/>
+<link href="/sites/default/files/../res/apple-touch-icon/76x76.png" rel="icon" sizes="76x76"/>
+<link href="/sites/default/files/../res/apple-touch-icon/114x114.png" rel="icon" sizes="114x114"/>
+<link href="/sites/default/files/../res/apple-touch-icon/120x120.png" rel="icon" sizes="120x120"/>
+<link href="/sites/default/files/../res/apple-touch-icon/128x128.png" rel="icon" sizes="128x128"/>
+<link href="/sites/default/files/../res/apple-touch-icon/144x144.png" rel="icon" sizes="144x144"/>
+<link href="/sites/default/files/../res/apple-touch-icon/152x152.png" rel="icon" sizes="152x152"/>
+<link href="/sites/default/files/../res/apple-touch-icon/180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link rel="shortcut icon" href="/sites/default/files/../res/D.ico" type="image/x-icon"/>
+<meta name="msapplication-TileColor" content="#ffd008"/>
+<meta name="theme-color" content="#ffd008"/>
+<meta name="favicon-generator" content="Drupal responsive_favicons + realfavicongenerator.net" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": "Fantasie",
+            "description": "Definition, Rechtschreibung, Synonyme und Grammatik von \u0027Fantasie\u0027 auf Duden online nachschlagen. Wörterbuch der deutschen Sprache.",
+            "image": {
+                "@type": "ImageObject",
+                "representativeOfPage": "True",
+                "url": "https://cdn.duden.de/lexem_images/45080.png"
+            },
+            "datePublished": "2018-04-26T12:27:54+0200",
+            "dateModified": "2025-11-13T15:44:52+0100",
+            "author": {
+                "@type": "Organization",
+                "name": "Duden.de",
+                "url": "https://www.duden.de/",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.duden.de/modules/custom/duden_og_image/images/DUDEN_Logo.png"
+                }
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "Duden.de",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.duden.de/modules/custom/duden_og_image/images/DUDEN_Logo.png"
+                }
+            },
+            "mainEntityOfPage": "https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik"
+        }
+    ]
+}</script>
+<link rel="preload" as="font" type="font/woff2" crossorigin href="https://cdn.duden.de/ampersand/base/sans/400-normal.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="https://cdn.duden.de/ampersand/base/sans/700-normal.woff2" />
+<link rel="icon" href="/sites/default/res/D.svg" type="image/svg+xml" />
+<link rel="amphtml" href="https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik?amp" />
+
+    <title>Duden | Wie schreibt man „Fantasie“? | Rechtschreibung</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_R5G5pmc_e5AFPp8Dr-BI32Cgq-0BwlUvlvODdci_rPM.css?delta=0&amp;language=de&amp;theme=numero&amp;include=eJx9UltywzAIvFDUHMmDZWITS6ARUprm9CXuY7Cb6Z93F7MLAnLBqsDTeawIU6w9jyf4JeMCpdm3oyZSyCPNHRoJ74WYgDLWHXkjPdT1CTlgwozcfGeMiYqiZ7hbu6MRqsKHwxepOYBCOXKtQlwdOdMji8dJRkiOWIDW7rHI2suOqPQQbpCCpfelK4tfnE2XwWPiNSTS5jmZfZosV-LjrFmqXwhL87BU4c6Rtr_C3GnyqtpC0RvqApcdXqmEZzLPFbR-KRycGoxJaBoGYsXaXilq7iFK6plfye9PuUnZaXOIqWvbnUzDexs0yc5EJDULqwg1Ll7oJeEp2pbOU-0F0htc4X7abmwY7fky1PX75Ea7BkuwhdgOS87E5s02Lkw3G4t0O8pgkeOqf4q-3P-tLTCjrZV_cKOEn-C1Ues" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_1XfGfXjqKReJnrrPB91oULX7m7sD95zy_wgezSH1VXE.css?delta=1&amp;language=de&amp;theme=numero&amp;include=eJx9UltywzAIvFDUHMmDZWITS6ARUprm9CXuY7Cb6Z93F7MLAnLBqsDTeawIU6w9jyf4JeMCpdm3oyZSyCPNHRoJ74WYgDLWHXkjPdT1CTlgwozcfGeMiYqiZ7hbu6MRqsKHwxepOYBCOXKtQlwdOdMji8dJRkiOWIDW7rHI2suOqPQQbpCCpfelK4tfnE2XwWPiNSTS5jmZfZosV-LjrFmqXwhL87BU4c6Rtr_C3GnyqtpC0RvqApcdXqmEZzLPFbR-KRycGoxJaBoGYsXaXilq7iFK6plfye9PuUnZaXOIqWvbnUzDexs0yc5EJDULqwg1Ll7oJeEp2pbOU-0F0htc4X7abmwY7fky1PX75Ea7BkuwhdgOS87E5s02Lkw3G4t0O8pgkeOqf4q-3P-tLTCjrZV_cKOEn-C1Ues" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/45080","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"de","currentQuery":{"_wrapper_format":"html"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJx9lM96pCAMwF9Ih4fY69566skvYgZTgbAEpjN9-o06bdHttxckvwTyFyEkzAJxMmNGmGyuYezgC9oZUtF9gyYSCCO5CoU4HhXWAwXMB3gjOdnVCWOPHgPG0t6M1lMSbEmset3ZEYrAo5GvnEMPAunMSga7NNDRR-BW9jyCb8AMtNRWZl5qOoBMHxwL-F6jb02XyG3hNLsArUxx6T1JaRm7NprAbxTPuQbObUEil1ZMmWONlrZTvas0tVrRgmLrUGa4HuSFUr9G1rKEep_vT54KjJ5pGgaKgrn8pBH13lv2NcSf1O-runA66FxvfZVyGJmC9zKI54MTZl80WEHIdm4VNXnsJrxiHqyI1hSmXy8v3TZkw6j9C5CX58yNOg4awhbFbuDxjmGwVNCsy4FKIbs8hgg3cluBzU76b_K015dji5n1_WgiO9oDNftnWKfxoBigFrYcNHh1vWtWJNU51CH5tGVjOUa0X6TmG5L3EK0egwKDh4emnqrMnWN2HgetqnG6nOULvMH9CEO3PTA2FLUHUdsO003bS7I9zl5bZxf5x2jP4b-2CTSPheKnXEjblCCDy5BmMVOuCfzlm1xqTHXUFzLj1MlDZyKYEfRvsJ4U8_r7ubEhPXe10J_uRvguZlsvgafq8S8vhuEH","theme":"numero","theme_token":null},"ajaxTrustedUrl":{"\/suchen\/dudenonline\/all":true},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_environment":false},"tagIds":["GTM-M8R4BXM"]},"dataLayerPush":[],"search_api_autocomplete":{"dictionary_search":{"delay":750,"auto_submit":true}},"user":{"uid":0,"permissionsHash":"6c8c197e6a2fc33c7bc5cf0ba84d0a8eaee212957f5876ec9e9f9c115c4a00d3"}}</script>
+<script src="/sites/default/files/js/js_wBFwpVK98ZFE6uPbrSiAGweYfcpF6V-6NIFyOr1nbMo.js?scope=header&amp;delta=0&amp;language=de&amp;theme=numero&amp;include=eJxdjlGOwzAIRC-UrC-yF-iXNYup4wobr42r9vabKFGU7g8wb2AEcuXWUYK7a8szOuqEkwnnjIuuTcsolGBJyxxHCnxxDT-iKVyJqliqc2c0Wq7GqMJTGIGLF35x9pSM3VYO2hhkbmEEbgfaU9ze_Pbvh-ExTEnzmrxG7c6G-oiRu5276khLYTrJaE9OIii0nsHgBW9uvo6-TFE1CntDdHEt__UXHnh9wjxZEu7u9n0MlOsxDUu_fzaIj7Y"></script>
+<script src="https://www.duden.de/react/shell/dist/shell.9eb6609a.js"></script>
+<script src="/sites/default/files/js/js_1J8jKubXPiM5QeP8TsaCn7oO-QYNMFSl0RRNH-muzXA.js?scope=header&amp;delta=2&amp;language=de&amp;theme=numero&amp;include=eJxdjlGOwzAIRC-UrC-yF-iXNYup4wobr42r9vabKFGU7g8wb2AEcuXWUYK7a8szOuqEkwnnjIuuTcsolGBJyxxHCnxxDT-iKVyJqliqc2c0Wq7GqMJTGIGLF35x9pSM3VYO2hhkbmEEbgfaU9ze_Pbvh-ExTEnzmrxG7c6G-oiRu5276khLYTrJaE9OIii0nsHgBW9uvo6-TFE1CntDdHEt__UXHnh9wjxZEu7u9n0MlOsxDUu_fzaIj7Y"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?t6ycsz"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?t6ycsz"></script>
+<script src="https://cdn-a.yieldlove.com/v2/yieldlove.js?duden.de" async></script>
+<script src="https://cdn.stroeerdigitalgroup.de/metatag/live/duden.de/metatag.js" async nomodule fetchpriority="high"></script>
+<script src="https://cdn.stroeerdigitalgroup.de/metatag/live/duden.de/metatag.mjs" async type="module" fetchpriority="high"></script>
+
+  </head>
+  <body  class="pageskin path-node page-node-type-lexem anonymous">
+    <a id="top"></a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M8R4BXM"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+
+
+<div class="tabloid">
+      
+
+<ul id="nav-access" class="a11y-nav">
+  <li class="a11y-li">
+    <a id="skip-main" class="a11y-a" href="#main-content">Zum Inhalt</a>
+  </li>
+      <li class="a11y-li">
+      <a id="skip-search" class="a11y-a" href="#edit-search-api-fulltext--2">Zur Suche</a>
+    </li>
+  </ul>
+  
+  <div class="
+    tabloid__sheet
+          tabloid__sheet--has-sidebar
+              tabloid__sheet--has-insert
+                  tabloid__sheet--has-main
+              tabloid__sheet--has-main-top
+                  ">
+    
+    <header class="header header--sticky">
+      <div class="tabloid__masthead tabloid__masthead--sticky">
+        <div class="tabloid__masthead-left">
+            
+
+
+
+
+<a class="logo" href="/">
+  <img class="logo__image" src="/sites/default/res/duden.svg" alt="Zur Duden-Startseite" width="110" height="40"/>
+  </a>
+
+        </div>
+        <div class="tabloid__masthead-right">
+            
+<!-- SSR Start: app="header" reactID="header-main" -->
+<style data-styled="true" data-styled-version="5.3.11">.cKuAJM{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;position:relative;}/*!sc*/
+data-styled.g14966[id="sc-iodA-Dl"]{content:"cKuAJM,"}/*!sc*/
+.cDGkqH{position:absolute;top:90px;left:auto;right:0;z-index:4;visibility:hidden;-webkit-transition:visibility 0s linear 0.12s,opacity 0.12s linear;transition:visibility 0s linear 0.12s,opacity 0.12s linear;opacity:0;margin:0;padding:0;width:-webkit-max-content;width:-moz-max-content;width:max-content;background:#ffffff;box-shadow:0 10px 20px 0 rgba(52,57,60,0.12);}/*!sc*/
+.user-menu:hover .sc-idmOU,.user-menu:focus .cDGkqH,.user-menu:focus-within .cDGkqH,.user-menu:focus + .cDGkqH{visibility:visible;opacity:1;-webkit-transition-delay:0s;transition-delay:0s;}/*!sc*/
+data-styled.g14967[id="sc-idmOU"]{content:"cDGkqH,"}/*!sc*/
+.dTJHBM{min-width:256px;padding-left:0;list-style-type:none;}/*!sc*/
+data-styled.g14968[id="sc-fGYuNv"]{content:"dTJHBM,"}/*!sc*/
+.icmNNX{padding:25px 15px;border-bottom:1px solid #dadee0;list-style-type:none;}/*!sc*/
+data-styled.g14976[id="sc-bVYtTA"]{content:"icmNNX,"}/*!sc*/
+.fkOEFE{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}/*!sc*/
+.fkOEFE span{font-size:18px;font-weight:normal;line-height:26px;text-align:center;margin-bottom:10px;}/*!sc*/
+.fkOEFE a{padding:0 1.5em;line-height:46px;font-size:16px;font-weight:500;-webkit-letter-spacing:1px;-moz-letter-spacing:1px;-ms-letter-spacing:1px;letter-spacing:1px;text-transform:uppercase;-webkit-text-decoration:none;text-decoration:none;border:2px solid #333333;border-radius:4px;}/*!sc*/
+.fkOEFE a:hover{opacity:.75;}/*!sc*/
+data-styled.g14977[id="sc-gpEMAh"]{content:"fkOEFE,"}/*!sc*/
+.dtzKYL a{display:block;margin-bottom:25px;padding:0 1.5em;text-align:center;line-height:50px;font-size:16px;font-weight:500;color:#ffffff;-webkit-letter-spacing:1px;-moz-letter-spacing:1px;-ms-letter-spacing:1px;letter-spacing:1px;white-space:nowrap;text-transform:uppercase;-webkit-text-decoration:none;text-decoration:none;background-color:#333333;border-radius:4px;}/*!sc*/
+.dtzKYL a:hover{opacity:.75;}/*!sc*/
+data-styled.g14978[id="sc-kEoXCG"]{content:"dtzKYL,"}/*!sc*/
+.gzquNF{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}/*!sc*/
+data-styled.g14979[id="sc-dIzGKr"]{content:"gzquNF,"}/*!sc*/
+.kFDICw{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin:0;padding-left:0;list-style-type:none;}/*!sc*/
+data-styled.g14980[id="sc-iRnrLZ"]{content:"kFDICw,"}/*!sc*/
+.bMwZIs{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:relative;height:90px;}/*!sc*/
+.bMwZIs:hover ul{opacity:1;visibility:visible;z-index:4;}/*!sc*/
+.bMwZIs:hover > a{-webkit-text-decoration-line:underline;text-decoration-line:underline;-webkit-text-decoration-thickness:2px;text-decoration-thickness:2px;-webkit-text-decoration-style:solid;text-decoration-style:solid;-webkit-text-decoration-color:#333333;text-decoration-color:#333333;text-underline-offset:7px;}/*!sc*/
+.dZPNQa{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:relative;height:90px;}/*!sc*/
+.dZPNQa:hover ul{opacity:1;visibility:visible;z-index:4;}/*!sc*/
+.dZPNQa:hover > a{-webkit-text-decoration-line:underline;text-decoration-line:underline;-webkit-text-decoration-thickness:2px;text-decoration-thickness:2px;-webkit-text-decoration-style:solid;text-decoration-style:solid;-webkit-text-decoration-color:#333333;text-decoration-color:#333333;text-underline-offset:7px;-webkit-text-decoration:none;text-decoration:none;box-shadow:inset 0 0 0 2px #333333;border-radius:50%;}/*!sc*/
+data-styled.g14981[id="sc-YyJbI"]{content:"bMwZIs,dZPNQa,"}/*!sc*/
+.eGgDBY{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:0 15.6px;line-height:90px;-webkit-text-decoration:none;text-decoration:none;font-weight:400;font-size:18px;white-space:nowrap;cursor:pointer;font-weight:500;}/*!sc*/
+.eGgDBY:focus ~ul{opacity:1;visibility:visible;}/*!sc*/
+.fPYFHq{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:0 15.6px;line-height:90px;-webkit-text-decoration:none;text-decoration:none;font-weight:400;font-size:18px;white-space:nowrap;cursor:pointer;}/*!sc*/
+.fPYFHq:focus ~ul{opacity:1;visibility:visible;}/*!sc*/
+.XsulU{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:0 15.6px;line-height:90px;-webkit-text-decoration:none;text-decoration:none;font-weight:400;font-size:18px;white-space:nowrap;cursor:pointer;height:35px;width:35px;margin-left:10px;padding:5px;}/*!sc*/
+.XsulU:focus ~ul{opacity:1;visibility:visible;}/*!sc*/
+data-styled.g14982[id="sc-iSSRlz"]{content:"eGgDBY,fPYFHq,XsulU,"}/*!sc*/
+.kyXXfW{width:1px;height:30px;margin-left:30px;background:#333333;}/*!sc*/
+data-styled.g14983[id="sc-aeiBi"]{content:"kyXXfW,"}/*!sc*/
+.iZgaXE{font-size:35px;}/*!sc*/
+data-styled.g14984[id="sc-hCqEmZ"]{content:"iZgaXE,"}/*!sc*/
+.gpVqMB{margin-left:7px;}/*!sc*/
+data-styled.g14985[id="sc-kYXFbE"]{content:"gpVqMB,"}/*!sc*/
+.khkENb{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:absolute;right:25px;}/*!sc*/
+data-styled.g14986[id="sc-hDWdMz"]{content:"khkENb,"}/*!sc*/
+.idbblF{opacity:0;visibility:hidden;position:absolute;top:90px;left:-5px;padding-left:0;background-color:#ffffff;box-shadow:0 10px 20px 0 rgba(52,57,60,0.12);}/*!sc*/
+.idbblF:focus-within{opacity:1;visibility:visible;}/*!sc*/
+data-styled.g14987[id="sc-la-DeBe"]{content:"idbblF,"}/*!sc*/
+.kmbcof{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin:15px 0;padding:0 15px;white-space:nowrap;padding-bottom:15px;border-bottom:1px solid #dadee0;}/*!sc*/
+.kmbcof:last-child{padding-bottom:0;border-bottom:none;}/*!sc*/
+.dlzVIY{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin:15px 0;padding:0 15px;white-space:nowrap;}/*!sc*/
+data-styled.g14988[id="sc-gdUmAh"]{content:"kmbcof,dlzVIY,"}/*!sc*/
+.gHsfVU{width:100%;padding:10px 80px 8px 10px;font-size:18px;font-weight:400;line-height:26px;-webkit-text-decoration:none;text-decoration:none;text-align:left;font-weight:500;}/*!sc*/
+.gHsfVU:hover{border-radius:6px;background-color:#eff3f5;}/*!sc*/
+.eESMUO{width:100%;padding:10px 80px 8px 10px;font-size:18px;font-weight:400;line-height:26px;-webkit-text-decoration:none;text-decoration:none;text-align:left;}/*!sc*/
+.eESMUO:hover{border-radius:6px;background-color:#eff3f5;}/*!sc*/
+data-styled.g14989[id="sc-jABnoM"]{content:"gHsfVU,eESMUO,"}/*!sc*/
+</style>
+<div id="header-app" data-react-id="header-main">
+<div class="sc-iodA-Dl cKuAJM"><nav class="sc-dIzGKr gzquNF nav--primary" aria-label="Hauptmenü"><ul class="sc-iRnrLZ kFDICw"><li class="sc-YyJbI bMwZIs main-menu-item"><a href="/woerterbuch" class="sc-iSSRlz eGgDBY">Online-Wörterbuch<span aria-hidden="true" class="sc-kYXFbE gpVqMB"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="8" viewBox="0 0 12 8" fill="none"><path d="M0.943359 1.01953C1.18882 0.789916 1.57477 0.801954 1.80371 1.05176L6 5.62988L10.1963 1.05176H10.1973C10.4258 0.80376 10.8108 0.789303 11.0566 1.01953H11.0576C11.3016 1.24948 11.3148 1.63471 11.0889 1.88184V1.88281L6.44629 6.94824L6.44531 6.94922C6.33083 7.07329 6.16984 7.1445 6 7.14453C5.82994 7.14453 5.66823 7.07292 5.55371 6.94824L0.911133 1.88281V1.88184C0.685201 1.63471 0.698393 1.24948 0.942383 1.01953H0.943359Z" fill="#333333" stroke="#333333" stroke-width="0.5"></path></svg></span></a><ul tabindex="0" class="sc-la-DeBe idbblF"><li class="sc-gdUmAh kmbcof"><a href="/woerterbuch" class="sc-jABnoM gHsfVU">Online-Wörterbuch</a></li><li class="sc-gdUmAh dlzVIY"><a href="/sprachwissen" class="sc-jABnoM gHsfVU">Sprachwissen</a></li><li class="sc-gdUmAh dlzVIY"><a href="/sprachwissen/rechtschreibregeln" class="sc-jABnoM eESMUO">Recht­schreib­regeln</a></li><li class="sc-gdUmAh dlzVIY"><a href="/haeufige_fehler" class="sc-jABnoM eESMUO">Häufige Fehler</a></li><li class="sc-gdUmAh dlzVIY"><a href="https://www.duden.de/Liste-der-rechtschreiblich-schwierigen-Woerter" class="sc-jABnoM eESMUO">Schwierige Wörter</a></li><li class="sc-gdUmAh dlzVIY"><a href="https://www.duden.de/sprache-in-zahlen" class="sc-jABnoM eESMUO">Sprache in Zahlen</a></li><li class="sc-gdUmAh dlzVIY"><a href="/sprachwissen/sprachratgeber" class="sc-jABnoM eESMUO">Sprache und Stil</a></li><li class="sc-gdUmAh dlzVIY"><a href="/sprachwissen/sprachratgeber/Wort-und-Unwort-des-Jahres" class="sc-jABnoM eESMUO">Wörter des Jahres</a></li></ul></li><li class="sc-YyJbI bMwZIs main-menu-item"><a href="https://mentor.duden.de/?itm_source=duden_de&amp;itm_medium=leadgen_int&amp;itm_campaign=topnavi&amp;itm_content=schreibassistent&amp;acq_chnl=do-mainmenu-firstlevel" class="sc-iSSRlz eGgDBY">Schreibassistent</a></li><li class="sc-YyJbI bMwZIs main-menu-item"><a href="https://www.duden.de/duden-digital" class="sc-iSSRlz eGgDBY">Duden-App</a></li><li class="sc-YyJbI bMwZIs main-menu-item"><a href="/service" class="sc-iSSRlz fPYFHq">Abos und Preise<span aria-hidden="true" class="sc-kYXFbE gpVqMB"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="8" viewBox="0 0 12 8" fill="none"><path d="M0.943359 1.01953C1.18882 0.789916 1.57477 0.801954 1.80371 1.05176L6 5.62988L10.1963 1.05176H10.1973C10.4258 0.80376 10.8108 0.789303 11.0566 1.01953H11.0576C11.3016 1.24948 11.3148 1.63471 11.0889 1.88184V1.88281L6.44629 6.94824L6.44531 6.94922C6.33083 7.07329 6.16984 7.1445 6 7.14453C5.82994 7.14453 5.66823 7.07292 5.55371 6.94824L0.911133 1.88281V1.88184C0.685201 1.63471 0.698393 1.24948 0.942383 1.01953H0.943359Z" fill="#333333" stroke="#333333" stroke-width="0.5"></path></svg></span><span aria-hidden="true" class="sc-aeiBi kyXXfW"></span></a><ul tabindex="0" class="sc-la-DeBe idbblF"><li class="sc-gdUmAh dlzVIY"><a href="https://mentor.duden.de/?itm_source=duden_de&amp;itm_medium=premium_int&amp;itm_campaign=topnavi_service&amp;itm_content=duden-mentor-textpruefung&amp;acq_chnl=do-mainmenu-secondlevel" class="sc-jABnoM eESMUO">Duden-Mentor-Textprüfung</a></li><li class="sc-gdUmAh dlzVIY"><a href="https://www.duden.de/werbefreiheit?targetGroup=pur&amp;acq_chnl=pur-lp" class="sc-jABnoM eESMUO">Werbe- und Trackingfreiheit</a></li><li class="sc-gdUmAh dlzVIY"><a href="/service/abos" class="sc-jABnoM eESMUO">Digitale Abonnements</a></li></ul></li><li class="sc-YyJbI bMwZIs main-menu-item"><a href="/unsere-produkte" class="sc-iSSRlz fPYFHq">Bücher und Shop<span aria-hidden="true" class="sc-kYXFbE gpVqMB"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="8" viewBox="0 0 12 8" fill="none"><path d="M0.943359 1.01953C1.18882 0.789916 1.57477 0.801954 1.80371 1.05176L6 5.62988L10.1963 1.05176H10.1973C10.4258 0.80376 10.8108 0.789303 11.0566 1.01953H11.0576C11.3016 1.24948 11.3148 1.63471 11.0889 1.88184V1.88281L6.44629 6.94824L6.44531 6.94922C6.33083 7.07329 6.16984 7.1445 6 7.14453C5.82994 7.14453 5.66823 7.07292 5.55371 6.94824L0.911133 1.88281V1.88184C0.685201 1.63471 0.698393 1.24948 0.942383 1.01953H0.943359Z" fill="#333333" stroke="#333333" stroke-width="0.5"></path></svg></span></a><ul tabindex="0" class="sc-la-DeBe idbblF"><li class="sc-gdUmAh dlzVIY"><a href="/unsere-produkte/nachschlagen" class="sc-jABnoM eESMUO">Nachschlagen</a></li><li class="sc-gdUmAh dlzVIY"><a href="/unsere-produkte/besser-schreiben" class="sc-jABnoM eESMUO">Besser schreiben</a></li><li class="sc-gdUmAh dlzVIY"><a href="/unsere-produkte/sprache-entdecken" class="sc-jABnoM eESMUO">Sprache entdecken</a></li><li class="sc-gdUmAh dlzVIY"><a href="/unsere-produkte/lernen-raetseln" class="sc-jABnoM eESMUO">Lernen und rätseln</a></li><li class="sc-gdUmAh dlzVIY"><a href="/unsere-produkte/deutsch-lernen" class="sc-jABnoM eESMUO">Deutsch lernen</a></li><li class="sc-gdUmAh dlzVIY"><a href="/unsere-produkte/neuheiten" class="sc-jABnoM eESMUO">Neuheiten</a></li><li class="sc-gdUmAh kmbcof"><a href="/unsere-produkte/geschenkideen" class="sc-jABnoM eESMUO">Geschenkideen</a></li><li class="sc-gdUmAh dlzVIY"><a href="https://shop.duden.de/?campaignCode=do-hauptnavigation" class="sc-jABnoM gHsfVU">Shop</a><span aria-hidden="true" class="sc-hDWdMz khkENb"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M13.2344 5.2342C13.5227 4.94584 13.9762 4.92384 14.29 5.16779L14.3652 5.2342L20.5879 11.4569L14.3652 17.6795C14.0528 17.9915 13.5467 17.9916 13.2344 17.6795C12.946 17.3911 12.9239 16.9367 13.168 16.6229L13.2344 16.5477L17.5244 12.2567H3.7998C3.35813 12.2566 3.0001 11.8985 3 11.4569C3 11.0492 3.30496 10.7125 3.69922 10.6629L3.7998 10.6571H17.5264L13.2344 6.36506C12.9462 6.07666 12.924 5.62316 13.168 5.3094L13.2344 5.2342Z" fill="#333333"></path></svg></span></li></ul></li><li class="sc-YyJbI dZPNQa user-menu"><a href="/" title="Mein Duden" aria-label="Mein Duden" class="sc-iSSRlz XsulU"><span aria-hidden="true" class="sc-hCqEmZ iZgaXE">👤</span></a><div class="sc-idmOU cDGkqH trickle__children" tabindex="0"><ul class="sc-bVYtTA icmNNX"><li class="sc-kEoXCG dtzKYL"><a href="/user/authenticate">Anmelden</a></li><li class="sc-gpEMAh fkOEFE"><span>Oder neu hier?</span><a href="/user/register?source=duden-online&amp;acq_chnl=do-hauptnavi">Jetzt registrieren</a></li></ul><ul class="sc-fGYuNv dTJHBM"></ul></div></li></ul></nav></div>
+</div>
+<!-- SSR End -->
+
+
+
+
+        </div>
+        <div class="tabloid__folddowns">
+          
+<!-- SSR Start: app="header" reactID="header-mobile" -->
+<style data-styled="true" data-styled-version="5.3.11">.hRjgdD{display:block;}/*!sc*/
+@media (min-width:1201px){.hRjgdD{display:none;}}/*!sc*/
+data-styled.g15032[id="sc-wvEOg"]{content:"hRjgdD,"}/*!sc*/
+.jEuDHL{display:block;position:fixed;width:0;right:0;top:0;overflow:hidden;background:#ffffff;box-sizing:border-box;text-align:left;z-index:1;margin:0;height:100vh;height:calc(var(--vh,1vh) * 100);}/*!sc*/
+.jEuDHL[aria-hidden="false"]{display:block;z-index:4;box-shadow:0 7px 15px 0 rgba(255,255,255,0.5);width:100vw;}/*!sc*/
+@media (min-width:768px){.jEuDHL[aria-hidden="false"]{width:50%;}}/*!sc*/
+data-styled.g15033[id="sc-cIUHZ"]{content:"jEuDHL,"}/*!sc*/
+.gZHitI{display:block;overflow:auto;margin-top:0;margin-bottom:-100vh;padding-bottom:100vh;background:#ffffff;-webkit-scroll-behavior:smooth;-moz-scroll-behavior:smooth;-ms-scroll-behavior:smooth;scroll-behavior:smooth;-webkit-scroll-snap-type:mandatory;-moz-scroll-snap-type:mandatory;-ms-scroll-snap-type:mandatory;scroll-snap-type:mandatory;-webkit-scroll-snap-type:x mandatory;-moz-scroll-snap-type:x mandatory;-ms-scroll-snap-type:x mandatory;scroll-snap-type:x mandatory;-webkit-scroll-snap-points-x:repeat(100%);-moz-scroll-snap-points-x:repeat(100%);-ms-scroll-snap-points-x:repeat(100%);scroll-snap-points-x:repeat(100%);white-space:nowrap;}/*!sc*/
+data-styled.g15034[id="sc-iarWKW"]{content:"gZHitI,"}/*!sc*/
+.bMfMXH{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;height:52px;margin:0 20px;padding-bottom:20px;border-bottom:1px solid #dadee0;}/*!sc*/
+.bMfMXH a{width:100%;}/*!sc*/
+.bMfMXH a span:first-child{-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;}/*!sc*/
+.bMfMXH a span:last-child{-webkit-flex:1;-ms-flex:1;flex:1;text-align:center;}/*!sc*/
+data-styled.g15035[id="sc-hGFmEP"]{content:"bMfMXH,"}/*!sc*/
+.ekfDgp{display:inline-block;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;height:100vh;height:calc(var(--vh,1vh) * 100);width:100%;overflow:auto;margin-top:0;padding-left:0;font-size:16px;list-style-type:none;vertical-align:top;white-space:normal;-webkit-scroll-snap-align:start;-moz-scroll-snap-align:start;-ms-scroll-snap-align:start;scroll-snap-align:start;}/*!sc*/
+.ekfDgp::-webkit-scrollbar{display:none;}/*!sc*/
+.ekfDgp[hidden]{display:none;}/*!sc*/
+.ekfDgp > *:last-child{margin-top:auto;}/*!sc*/
+.cKtToC{display:inline-block;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;height:100vh;height:calc(var(--vh,1vh) * 100);width:100%;overflow:auto;margin-top:0;padding-left:0;font-size:16px;list-style-type:none;vertical-align:top;white-space:normal;-webkit-scroll-snap-align:start;-moz-scroll-snap-align:start;-ms-scroll-snap-align:start;scroll-snap-align:start;}/*!sc*/
+.cKtToC::-webkit-scrollbar{display:none;}/*!sc*/
+.cKtToC[hidden]{display:none;}/*!sc*/
+data-styled.g15036[id="sc-kwUAOc"]{content:"ekfDgp,cKtToC,"}/*!sc*/
+.FsMpc{margin:0 20px;padding:15px 0;list-style-type:none;border-bottom:1px solid #dadee0;}/*!sc*/
+.FsMpc:last-child{padding-bottom:0;border-bottom:none;}/*!sc*/
+.jYRoKD{margin:0 20px;padding:15px 0;list-style-type:none;}/*!sc*/
+data-styled.g15037[id="sc-kdhQHV"]{content:"FsMpc,jYRoKD,"}/*!sc*/
+.cSFMUo{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:10px 0;line-height:15px;font-size:15px;font-weight:400;-webkit-text-decoration:none;text-decoration:none;font-weight:500;}/*!sc*/
+.dCPGDi{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:10px 0;line-height:15px;font-size:15px;font-weight:400;-webkit-text-decoration:none;text-decoration:none;}/*!sc*/
+.eDkrvJ{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:10px 0;line-height:15px;font-size:15px;font-weight:400;-webkit-text-decoration:none;text-decoration:none;font-size:18px;font-weight:500;}/*!sc*/
+data-styled.g15038[id="sc-dvXEse"]{content:"cSFMUo,dCPGDi,eDkrvJ,"}/*!sc*/
+.hKaUEa{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:relative;height:52px;min-width:52px;font-size:26px;background:#ffffff;border:0;text-align:center;cursor:pointer;}/*!sc*/
+data-styled.g15039[id="sc-dckUlX"]{content:"hKaUEa,"}/*!sc*/
+.dhhnFe{display:block;width:100%;height:52px;padding:0;background:#ffffff;border:unset;text-align:right;cursor:pointer;}/*!sc*/
+data-styled.g15040[id="sc-uFphh"]{content:"dhhnFe,"}/*!sc*/
+.gKORWU{padding:0;font-size:30px;}/*!sc*/
+data-styled.g15041[id="sc-jTWVUA"]{content:"gKORWU,"}/*!sc*/
+.gzpgUf{margin-left:auto;}/*!sc*/
+data-styled.g15042[id="sc-drnMDD"]{content:"gzpgUf,"}/*!sc*/
+.dUmBHA{margin-right:8px;}/*!sc*/
+data-styled.g15043[id="sc-bBjJSa"]{content:"dUmBHA,"}/*!sc*/
+.eWkKmu{padding:25px 15px;list-style-type:none;}/*!sc*/
+data-styled.g15046[id="sc-fjkgCv"]{content:"eWkKmu,"}/*!sc*/
+.gzmWSP{margin-left:auto;}/*!sc*/
+data-styled.g15047[id="sc-dtgdQS"]{content:"gzmWSP,"}/*!sc*/
+.hoAmoN{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}/*!sc*/
+.hoAmoN span{margin:0 10px 10px 0;font-size:15px;font-weight:normal;line-height:26px;text-align:center;}/*!sc*/
+.hoAmoN a{font-size:15px;font-weight:500;}/*!sc*/
+.hoAmoN a:hover{opacity:.75;}/*!sc*/
+data-styled.g15048[id="sc-fQJSOl"]{content:"hoAmoN,"}/*!sc*/
+.iSQiXv a{display:block;margin-bottom:25px;padding:0 1.5em;text-align:center;line-height:50px;font-size:16px;font-weight:500;color:#ffffff;-webkit-letter-spacing:1px;-moz-letter-spacing:1px;-ms-letter-spacing:1px;letter-spacing:1px;white-space:nowrap;text-transform:uppercase;-webkit-text-decoration:none;text-decoration:none;background-color:#333333;border-radius:4px;}/*!sc*/
+.iSQiXv a:hover{opacity:.75;}/*!sc*/
+data-styled.g15049[id="sc-eaFQcI"]{content:"iSQiXv,"}/*!sc*/
+</style>
+<div id="header-app" data-react-id="header-mobile">
+<div class="sc-wvEOg hRjgdD"><button type="button" aria-label="Hauptmenü öffnen" aria-expanded="false" aria-haspopup="true" class="sc-dckUlX hKaUEa"><svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" fill="none"><path d="M27.7998 24C28.2416 24 28.5995 24.3581 28.5996 24.7998C28.5996 25.2076 28.2948 25.5444 27.9004 25.5938L27.7998 25.5996H8.7998C8.35807 25.5995 8 25.2416 8 24.7998C8.0001 24.3922 8.305 24.0554 8.69922 24.0059L8.7998 24H27.7998ZM27.7998 17C28.2416 17 28.5995 17.3581 28.5996 17.7998C28.5996 18.2076 28.2948 18.5444 27.9004 18.5938L27.7998 18.5996H8.7998C8.35807 18.5995 8 18.2416 8 17.7998C8.0001 17.3922 8.305 17.0554 8.69922 17.0059L8.7998 17H27.7998ZM27.7998 10C28.2416 10 28.5995 10.3581 28.5996 10.7998C28.5996 11.2076 28.2948 11.5444 27.9004 11.5938L27.7998 11.5996H8.7998C8.35807 11.5995 8 11.2416 8 10.7998C8.0001 10.3922 8.305 10.0554 8.69922 10.0059L8.7998 10H27.7998Z" fill="#333333"></path></svg></button><div aria-hidden="true" class="sc-cIUHZ jEuDHL"><nav class="sc-iarWKW gZHitI listview" aria-label="Hauptmenü"><ul id="listview-root" class="sc-kwUAOc ekfDgp listview__view listview__view--root"><div class="sc-hGFmEP bMfMXH listview__header"><button type="button" aria-label="Hauptmenü schließen" class="sc-uFphh dhhnFe"><span class="sc-jTWVUA gKORWU"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none"><path d="M1.5 16.5L16.5 1.5" stroke="#333333" stroke-width="1.5" stroke-linecap="round"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M16.5 16.5L1.5 1.5L16.5 16.5Z" stroke="#333333" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></span></button></div><li class="sc-kdhQHV FsMpc listview__item"><a class="sc-dvXEse cSFMUo listview__link listview__link--forward" href="#listview-online-w-rterbuch" aria-controls="listview-online-w-rterbuch" aria-label="expand Online-Wörterbuch">Online-Wörterbuch<span aria-hidden="true" class="sc-drnMDD gzpgUf"><svg xmlns="http://www.w3.org/2000/svg" width="8" height="11" viewBox="0 0 8 11" fill="none"><path d="M1.01929 10.5566C0.789671 10.3112 0.80171 9.92523 1.05151 9.69629L5.62964 5.5L1.05151 1.30371L1.05151 1.30273C0.803515 1.07423 0.789058 0.68922 1.01929 0.443359L1.01929 0.442383C1.24924 0.198391 1.63446 0.185201 1.88159 0.411133L1.88257 0.411133L6.948 5.05371L6.94897 5.05469C7.07304 5.16917 7.14425 5.33016 7.14429 5.5C7.14429 5.67006 7.07268 5.83177 6.948 5.94629L1.88257 10.5889L1.88159 10.5889C1.63446 10.8148 1.24924 10.8016 1.01929 10.5576L1.01929 10.5566Z" fill="#333333" stroke="#333333" stroke-width="0.5"></path></svg></span></a></li><li class="sc-kdhQHV FsMpc listview__item"><a class="sc-dvXEse cSFMUo listview__link" href="https://mentor.duden.de/?itm_source=duden_de&amp;itm_medium=leadgen_int&amp;itm_campaign=topnavi&amp;itm_content=schreibassistent&amp;acq_chnl=do-mainmenu-firstlevel">Schreibassistent</a></li><li class="sc-kdhQHV FsMpc listview__item"><a class="sc-dvXEse cSFMUo listview__link" href="https://www.duden.de/duden-digital">Duden-App</a></li><li class="sc-kdhQHV FsMpc listview__item"><a class="sc-dvXEse dCPGDi listview__link listview__link--forward" href="#listview-abos-und-preise" aria-controls="listview-abos-und-preise" aria-label="expand Abos und Preise">Abos und Preise<span aria-hidden="true" class="sc-drnMDD gzpgUf"><svg xmlns="http://www.w3.org/2000/svg" width="8" height="11" viewBox="0 0 8 11" fill="none"><path d="M1.01929 10.5566C0.789671 10.3112 0.80171 9.92523 1.05151 9.69629L5.62964 5.5L1.05151 1.30371L1.05151 1.30273C0.803515 1.07423 0.789058 0.68922 1.01929 0.443359L1.01929 0.442383C1.24924 0.198391 1.63446 0.185201 1.88159 0.411133L1.88257 0.411133L6.948 5.05371L6.94897 5.05469C7.07304 5.16917 7.14425 5.33016 7.14429 5.5C7.14429 5.67006 7.07268 5.83177 6.948 5.94629L1.88257 10.5889L1.88159 10.5889C1.63446 10.8148 1.24924 10.8016 1.01929 10.5576L1.01929 10.5566Z" fill="#333333" stroke="#333333" stroke-width="0.5"></path></svg></span></a></li><li class="sc-kdhQHV FsMpc listview__item"><a class="sc-dvXEse dCPGDi listview__link listview__link--forward" href="#listview-b-cher-und-shop" aria-controls="listview-b-cher-und-shop" aria-label="expand Bücher und Shop">Bücher und Shop<span aria-hidden="true" class="sc-drnMDD gzpgUf"><svg xmlns="http://www.w3.org/2000/svg" width="8" height="11" viewBox="0 0 8 11" fill="none"><path d="M1.01929 10.5566C0.789671 10.3112 0.80171 9.92523 1.05151 9.69629L5.62964 5.5L1.05151 1.30371L1.05151 1.30273C0.803515 1.07423 0.789058 0.68922 1.01929 0.443359L1.01929 0.442383C1.24924 0.198391 1.63446 0.185201 1.88159 0.411133L1.88257 0.411133L6.948 5.05371L6.94897 5.05469C7.07304 5.16917 7.14425 5.33016 7.14429 5.5C7.14429 5.67006 7.07268 5.83177 6.948 5.94629L1.88257 10.5889L1.88159 10.5889C1.63446 10.8148 1.24924 10.8016 1.01929 10.5576L1.01929 10.5566Z" fill="#333333" stroke="#333333" stroke-width="0.5"></path></svg></span></a></li><li><ul class="sc-fjkgCv eWkKmu"><li class="sc-eaFQcI iSQiXv"><a href="/user/authenticate">Anmelden</a></li><li class="sc-fQJSOl hoAmoN"><span>Neu hier?</span><a href="/user/register?source=duden-online&amp;acq_chnl=do-hauptnavi">Jetzt registrieren</a></li></ul></li></ul><ul class="sc-kwUAOc cKtToC listview__view listview__view--child" id="listview-online-w-rterbuch" aria-label="Online-Wörterbuch" hidden=""><div class="sc-hGFmEP bMfMXH listview__header"><a class="sc-dvXEse eDkrvJ listview__link listview__link--back" href="#listview-root"><span aria-label="zurück zu Online-Wörterbuch" class="sc-bBjJSa dUmBHA"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="19" viewBox="0 0 11 19" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.312 19C10.1441 19 9.97678 18.9402 9.84387 18.819L0.219259 9.9971C0.0795543 9.86831 0 9.68829 0 9.49966C0 9.31102 0.0795543 9.13052 0.219259 9.00221L9.84435 0.180767C10.1233 -0.0729837 10.5584 -0.0581416 10.8165 0.216197C11.0745 0.491014 11.0585 0.920476 10.7806 1.17566L1.6978 9.49966L10.7806 17.8241C11.0585 18.0793 11.0745 18.5088 10.816 18.7836C10.6806 18.9272 10.4963 19 10.312 19Z" fill="#333333"></path></svg></span><span>Online-Wörterbuch</span></a></div><li class="sc-kdhQHV FsMpc listview__item"><a class="sc-dvXEse cSFMUo listview__link" href="/woerterbuch">Online-Wörterbuch</a></li><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse cSFMUo listview__link" href="/sprachwissen">Sprachwissen</a></li><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="/sprachwissen/rechtschreibregeln">Recht­schreib­regeln</a></li><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="/haeufige_fehler">Häufige Fehler</a></li><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="https://www.duden.de/Liste-der-rechtschreiblich-schwierigen-Woerter">Schwierige Wörter</a></li><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="https://www.duden.de/sprache-in-zahlen">Sprache in Zahlen</a></li><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="/sprachwissen/sprachratgeber">Sprache und Stil</a></li><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="/sprachwissen/sprachratgeber/Wort-und-Unwort-des-Jahres">Wörter des Jahres</a></li></ul><ul class="sc-kwUAOc cKtToC listview__view listview__view--child" id="listview-abos-und-preise" aria-label="Abos und Preise" hidden=""><div class="sc-hGFmEP bMfMXH listview__header"><a class="sc-dvXEse eDkrvJ listview__link listview__link--back" href="#listview-root"><span aria-label="zurück zu Abos und Preise" class="sc-bBjJSa dUmBHA"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="19" viewBox="0 0 11 19" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.312 19C10.1441 19 9.97678 18.9402 9.84387 18.819L0.219259 9.9971C0.0795543 9.86831 0 9.68829 0 9.49966C0 9.31102 0.0795543 9.13052 0.219259 9.00221L9.84435 0.180767C10.1233 -0.0729837 10.5584 -0.0581416 10.8165 0.216197C11.0745 0.491014 11.0585 0.920476 10.7806 1.17566L1.6978 9.49966L10.7806 17.8241C11.0585 18.0793 11.0745 18.5088 10.816 18.7836C10.6806 18.9272 10.4963 19 10.312 19Z" fill="#333333"></path></svg></span><span>Abos und Preise</span></a></div><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="https://mentor.duden.de/?itm_source=duden_de&amp;itm_medium=premium_int&amp;itm_campaign=topnavi_service&amp;itm_content=duden-mentor-textpruefung&amp;acq_chnl=do-mainmenu-secondlevel">Duden-Mentor-Textprüfung</a></li><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="https://www.duden.de/werbefreiheit?targetGroup=pur&amp;acq_chnl=pur-lp">Werbe- und Trackingfreiheit</a></li><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="/service/abos">Digitale Abonnements</a></li></ul><ul class="sc-kwUAOc cKtToC listview__view listview__view--child" id="listview-b-cher-und-shop" aria-label="Bücher und Shop" hidden=""><div class="sc-hGFmEP bMfMXH listview__header"><a class="sc-dvXEse eDkrvJ listview__link listview__link--back" href="#listview-root"><span aria-label="zurück zu Bücher und Shop" class="sc-bBjJSa dUmBHA"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="19" viewBox="0 0 11 19" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.312 19C10.1441 19 9.97678 18.9402 9.84387 18.819L0.219259 9.9971C0.0795543 9.86831 0 9.68829 0 9.49966C0 9.31102 0.0795543 9.13052 0.219259 9.00221L9.84435 0.180767C10.1233 -0.0729837 10.5584 -0.0581416 10.8165 0.216197C11.0745 0.491014 11.0585 0.920476 10.7806 1.17566L1.6978 9.49966L10.7806 17.8241C11.0585 18.0793 11.0745 18.5088 10.816 18.7836C10.6806 18.9272 10.4963 19 10.312 19Z" fill="#333333"></path></svg></span><span>Bücher und Shop</span></a></div><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="/unsere-produkte/nachschlagen">Nachschlagen</a></li><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="/unsere-produkte/besser-schreiben">Besser schreiben</a></li><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="/unsere-produkte/sprache-entdecken">Sprache entdecken</a></li><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="/unsere-produkte/lernen-raetseln">Lernen und rätseln</a></li><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="/unsere-produkte/deutsch-lernen">Deutsch lernen</a></li><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="/unsere-produkte/neuheiten">Neuheiten</a></li><li class="sc-kdhQHV FsMpc listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="/unsere-produkte/geschenkideen">Geschenkideen</a></li><li class="sc-kdhQHV jYRoKD listview__item"><a class="sc-dvXEse cSFMUo listview__link" href="https://shop.duden.de/?campaignCode=do-hauptnavigation">Shop<span aria-hidden="true" class="sc-dtgdQS gzmWSP"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M13.2344 5.2342C13.5227 4.94584 13.9762 4.92384 14.29 5.16779L14.3652 5.2342L20.5879 11.4569L14.3652 17.6795C14.0528 17.9915 13.5467 17.9916 13.2344 17.6795C12.946 17.3911 12.9239 16.9367 13.168 16.6229L13.2344 16.5477L17.5244 12.2567H3.7998C3.35813 12.2566 3.0001 11.8985 3 11.4569C3 11.0492 3.30496 10.7125 3.69922 10.6629L3.7998 10.6571H17.5264L13.2344 6.36506C12.9462 6.07666 12.924 5.62316 13.168 5.3094L13.2344 5.2342Z" fill="#333333"></path></svg></span></a></li></ul><ul class="sc-kwUAOc cKtToC listview__view listview__view--child" id="listview-mein-duden" aria-label="Mein Duden" hidden=""><div class="sc-hGFmEP bMfMXH listview__header"><a class="sc-dvXEse eDkrvJ listview__link listview__link--back" href="#listview-root"><span aria-label="zurück zu Mein Duden" class="sc-bBjJSa dUmBHA"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="19" viewBox="0 0 11 19" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.312 19C10.1441 19 9.97678 18.9402 9.84387 18.819L0.219259 9.9971C0.0795543 9.86831 0 9.68829 0 9.49966C0 9.31102 0.0795543 9.13052 0.219259 9.00221L9.84435 0.180767C10.1233 -0.0729837 10.5584 -0.0581416 10.8165 0.216197C11.0745 0.491014 11.0585 0.920476 10.7806 1.17566L1.6978 9.49966L10.7806 17.8241C11.0585 18.0793 11.0745 18.5088 10.816 18.7836C10.6806 18.9272 10.4963 19 10.312 19Z" fill="#333333"></path></svg></span><span>Mein Duden</span></a></div><li class="sc-kdhQHV FsMpc listview__item"><a class="sc-dvXEse dCPGDi listview__link" href="/bookmark/list">Merklisten</a></li></ul></nav></div></div>
+</div>
+<!-- SSR End -->
+
+
+        </div>
+              </div>
+              <div class="tabloid__masthead-bottom-spacer"></div>
+        <div class="tabloid__main-column-top tabloid__main-column-top--sticky">
+          <div id="block-numero-lexemsearchbox-2">
+  
+    
+      <form class="lexem-search-form main-search-form" data-drupal-selector="lexem-search-form" action="/suchen/dudenonline/all" method="get" id="lexem-search-form" accept-charset="UTF-8">
+  
+
+
+
+
+
+
+
+
+
+<div class="form-asap form-asap--simple_no ">
+      <div class="form-asap__top">
+                    
+    </div>
+    <div class="form-asap__slot">
+    <div class="form-asap__input-wrapper">
+      <button
+  type="button"
+  class="form-asap__show-categories"
+  aria-label="Pfeil nach links"
+>
+  <span aria-hidden="true">←</span>
+</button>
+
+<button
+  type="submit"
+  class="form-asap__button"
+  aria-label="Suchen"
+>
+  <span class="form-asap__button-arrow" aria-hidden="true">🔍</span>
+</button>
+
+      <input  data-drupal-selector="edit-search-api-fulltext" data-search-api-autocomplete-search="dictionary_search" data-autocomplete-path="/search_api_autocomplete/dictionary_search?display=page_1&amp;&amp;filter=search_api_fulltext" type="text" name="search_api_fulltext" value="Fantasie" maxlength="128"
+  class="form-asap__query duden-autosuggest form-text" size="1" placeholder="Stichwort"
+  id="edit-search-api-fulltext--2" required oninvalid="this.setCustomValidity('Bitte geben Sie ein Stichwort ein')"
+  oninput="if(this.value!=''){this.setCustomValidity('')}"/>
+
+      <button type="button" aria-label="Suche zurücksetzen"
+        class="form-asap__clear-form ">
+        <span class="form-asap__clear-form-cross" aria-hidden="true">❌</span>
+      </button>
+      <div class="form-asap__guesses" hidden>
+        
+      </div>
+    </div>
+    <fieldset class="form-asap__tabs-wrapper">
+      <legend class="ninja">Suchkategorien</legend>
+                  <input
+      class="form-asap__r form-asap__r--1 ninja"
+      name="scope"
+      type="radio"
+      id="edit-scope-dictionary"
+      checked      value="dictionary"
+    />
+    <label class="form-asap__tab" for="edit-scope-dictionary">Wörterbuch</label>
+          <input
+      class="form-asap__r form-asap__r--2 ninja"
+      name="scope"
+      type="radio"
+      id="edit-scope-synonyms"
+            value="synonyms"
+    />
+    <label class="form-asap__tab" for="edit-scope-synonyms">Synonyme</label>
+          <input
+      class="form-asap__r form-asap__r--3 ninja"
+      name="scope"
+      type="radio"
+      id="edit-scope-grammar"
+            value="grammar"
+    />
+    <label class="form-asap__tab" for="edit-scope-grammar">Grammatik</label>
+          <input
+      class="form-asap__r form-asap__r--4 ninja"
+      name="scope"
+      type="radio"
+      id="edit-scope-lang_knowledge"
+            value="lang_knowledge"
+    />
+    <label class="form-asap__tab" for="edit-scope-lang_knowledge">Sprachwissen</label>
+  
+
+    </fieldset>
+          <script type="text/javascript" async>
+        if (document.activeElement == null || document.activeElement == document.body) {
+          document.getElementById('edit-search-api-fulltext--2').focus({preventScroll:true});
+        }
+      </script>
+      </div>
+  <div class="form-asap__bottom">
+      </div>
+</div>
+
+
+
+</form>
+
+  </div>
+
+        </div>
+                      </header>
+        <main id="main-content">
+                    
+        <div class="tabloid__insert">
+          <div class="tabloid__insert-cellotape">
+            <div id="block-numero-stickynavigationblock">
+  
+    
+      
+
+
+
+<nav class="chapters" aria-label="Inhaltsverzeichnis">
+  <ol class="chapters__list">
+          <li
+        class="chapters__chapter
+        "
+      >
+        <a
+          class="chapters__link
+                              "
+          href="#rechtschreibung"
+          
+          data-title="Recht­schreibung"
+        >
+          Recht­schreibung</a>
+      </li>
+          <li
+        class="chapters__chapter
+        "
+      >
+        <a
+          class="chapters__link
+                              "
+          href="#bedeutungen"
+          
+          data-title="Be­deu­tung­en"
+        >
+          Be­deu­tung­en</a>
+      </li>
+          <li
+        class="chapters__chapter
+        "
+      >
+        <a
+          class="chapters__link
+                              "
+          href="#synonyme"
+          
+          data-title="Sy­n­o­ny­me"
+        >
+          Sy­n­o­ny­me</a>
+      </li>
+          <li
+        class="chapters__chapter
+        "
+      >
+        <a
+          class="chapters__link
+                              "
+          href="#herkunft"
+          
+          data-title="Her­kunft"
+        >
+          Her­kunft</a>
+      </li>
+          <li
+        class="chapters__chapter
+        "
+      >
+        <a
+          class="chapters__link
+                              "
+          href="#grammatik"
+          
+          data-title="Gram­ma­tik"
+        >
+          Gram­ma­tik</a>
+      </li>
+          <li
+        class="chapters__chapter
+        "
+      >
+        <a
+          class="chapters__link
+                              "
+          href="#wussten_sie_schon"
+          
+          data-title="Wussten Sie schon?"
+        >
+          Wussten Sie schon?</a>
+      </li>
+          <li
+        class="chapters__chapter
+        "
+      >
+        <a
+          class="chapters__link
+                              "
+          href="#kontext"
+          
+          data-title="Typische Verbindungen"
+        >
+          Typische Verbindungen</a>
+      </li>
+      </ol>
+</nav>
+
+  </div>
+
+
+  <div  id="block-numero-teasercontent-right" class="sidebar--teaser-block">
+    
+    
+
+
+  
+<a href="https://angebot.mentor.duden.de/premium_dir/?itm_source=duden_de&amp;itm_medium=premium_int&amp;itm_campaign=red_touchpoint_lemma&amp;itm_content=neues-ki-design"
+   target="_blank"    class="internal-banner-ad"
+>
+
+
+    
+
+
+    <img loading="lazy" src="https://cdn.duden.de/public_files/2025-05/teaser-duden-mentor-2025.png" width="480" height="481" alt="Duden-Mentor" />
+
+
+</a>
+
+<a href="https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-teaser"
+   target="_blank"    class="internal-banner-ad"
+>
+
+
+    
+
+
+    <img loading="lazy" src="https://cdn.duden.de/public_files/2025-05/teaser-d1-2025.png" width="480" height="481" alt="Duden – Die deutsche Rechtschreibung" />
+
+
+</a>
+
+
+
+
+
+
+<section class="essay  essay--compact" >
+      <div class="essay__intro"></div>
+  
+  <a href="/haeufige_fehler" >
+    
+  </a>
+
+  
+  <h2 class="essay__title ">
+    <a href="/haeufige_fehler"  aria-label=""></a>
+  </h2>
+  
+  
+
+
+  Häufige Fehler und Falschschreibweisen
+  <footer class="essay__bottom">
+          
+<nav class="more   "
+  aria-label="More links section"
+>
+  <a href="/haeufige_fehler"
+     class="more__link"  
+     aria-label="Pfeil nach links"
+  >
+    <span class="more__arrow" aria-hidden="true">→</span> <span class="more__text">Zum Überblick</span>
+  </a>
+</nav>
+  
+  </footer>
+</section>
+
+
+  </div>
+
+                      </div>
+        </div>
+                          <div class="tabloid__main-column">
+            <div data-drupal-messages-fallback class="hidden"></div>
+  
+  
+
+  <nav class="breadcrumb" role="navigation"><a class="breadcrumb__crumb" href="/">Startseite</a><span class="breadcrumb__gap"> ▻ </span><a class="breadcrumb__crumb" href="/woerterbuch">Wörterbuch</a><span class="breadcrumb__gap"> ▻ </span><span class="breadcrumb__crumb">Fantasie</span></nav>
+
+
+
+<article>
+
+  
+  
+
+
+  
+      <div class="lemma">
+        <h1 class="lemma__title"><span class="lemma__main">Fan­ta­sie</span>, <span class="lemma__alt-spelling">Phan­ta­sie</span>, <span class="lemma__determiner">die</span></h1>
+      </div>
+    
+  
+
+    
+      
+
+
+
+<nav class="gizmo " aria-label="Aktionssymbole für Inhalt">
+      <dl class="gizmo__gadget ">
+      <dt>    
+  <a class="gizmo__gadget-icon " href="#numero-cite"  aria-label="Als Quelle verwenden" role="button">❞</a>
+</dt>
+      <dd class="gizmo__gadget-baloon" id="" >
+                            <div class="gizmo__gadget-baloon-content">
+            Als Quelle verwenden
+          </div>
+                      </dd>
+    </dl>
+      <dl class="gizmo__gadget ">
+      <dt>    
+  <button class="gizmo__gadget-icon "   aria-label="Share links">🗣</button>
+</dt>
+      <dd class="gizmo__gadget-baloon" id="" >
+                          <div class="gizmo__gadget-icons">
+                              
+  <a class="gizmo__gadget-icon " href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.duden.de%2Frechtschreibung%2FFantasie_Einbildung_Traum_Musik"  title="Auf Facebook teilen" target="_blank" rel="noopener noreferrer" aria-label="Auf Facebook teilen">𝗳</a>
+
+                              
+  <a class="gizmo__gadget-icon " href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.duden.de%2Frechtschreibung%2FFantasie_Einbildung_Traum_Musik"  title="Share on X" target="_blank" rel="noopener noreferrer" aria-label="Share on X">𝕏</a>
+
+                              
+  <a class="gizmo__gadget-icon " href="mailto:?body=https%3A%2F%2Fwww.duden.de%2Frechtschreibung%2FFantasie_Einbildung_Traum_Musik"  title="Per E-Mail versenden" aria-label="Per E-Mail versenden">✉</a>
+
+                      </div>
+              </dd>
+    </dl>
+      <dl class="gizmo__gadget ">
+      <dt>    
+  <button class="gizmo__gadget-icon  gizmo__gadget-icon--is-action"   data-clipboard-text="Fantasie" data-clipboard-success-text="#copy-lexeme-help" hidden title="Copy lexeme without article" aria-label="Copy lexeme without article" role="button">📑</button>
+</dt>
+      <dd class="gizmo__gadget-baloon" id="" >
+                            <div class="gizmo__gadget-baloon-content">
+                <div id="copy-lexeme-help">Dieses Wort kopieren</div>
+  
+          </div>
+                      </dd>
+    </dl>
+      <dl class="gizmo__gadget gizmo__gadget--prominent">
+      <dt>    
+  <button class="gizmo__gadget-icon gizmo__gadget-clickable"   data-connect="L3VzZXIvYXV0aGVudGljYXRlP2Rlc3RpbmF0aW9uPS9yZWNodHNjaHJlaWJ1bmcvRmFudGFzaWVfRWluYmlsZHVuZ19UcmF1bV9NdXNpaw==" data-addword-text="➕" data-removeword-text="➖" data-failue-text="❌" aria-label="Melden Sie sich an, um dieses Wort auf Ihre Merkliste zu setzen.">➕</button>
+</dt>
+      <dd class="gizmo__gadget-baloon" id="" >
+                            <div class="gizmo__gadget-baloon-content">
+            Melden Sie sich an, um dieses Wort auf Ihre Merkliste zu setzen.
+          </div>
+                      </dd>
+    </dl>
+  </nav>
+  
+  <div class="mobile_tile_banner">
+    
+
+<div class="tile__wrapper">
+  
+  
+
+<aside class="shalanalinananala">
+  <link rel="stylesheet" href="data:text/css,%20%20.shalanalinananala%20%7B%0A%20%20%20%20margin%3A%2010px%20auto%3B%0A%20%20%20%20width%3A%20max-content%3Bposition%3A%20relative%3B%0A%20%20%20%20%20%20z-index%3A%200%3Bpadding-bottom%3A%200.765em%3B%7D%0A%0A%0A%20%20.shalanalinananala%20img%20%7B%0A%20%20%20%20vertical-align%3A%20bottom%3B%0A%20%20%7D%0A%20%20%20%20%20%20.shalanalinananala__label%20%7B%0A%20%20%20%20%20%20text-align%3A%20center%3B%0A%20%20%20%20%20%20font-size%3A%20.5em%3B%0A%20%20%20%20%20%20color%3A%20%23969b9f%3B%0A%20%20%20%20%20%20padding%3A%2015px%200%2010px%3B%0A%20%20%20%20%7D%0A%20%20%0A%20%20%20%20%0A" />
+      <header class="shalanalinananala__label">Anzeige</header>
+        <span class="tile__loader"></span>
+    <div class="shalanalinananala__content">
+
+
+  <p>&nbsp;</p>
+
+<div id="div-gpt-ad-5126943489901-0">&nbsp;</div></div>
+      <a href="https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbebox&utm_content=werbefreiheit_aktivieren"
+      target="_blank"
+      class="tile__footer-link"
+    >
+      <img class="tile__footer-img" src="https://cdn.duden.de/statics/ad-free-pur.svg" alt="Werbefreiheit aktivieren" width="89" height="24"/>Werbefreiheit aktivieren</a>
+  </aside>
+</div>
+
+  </div>
+
+  
+
+
+  
+      <dl class="tuple">
+        <dt class="tuple__key">Wortart: <a class="tuple__icon" href="/hilfe/wortart" target="_blank">ⓘ</a></dt>
+        <dd class="tuple__val">Substantiv, feminin</dd>
+      </dl>
+      <dl class="tuple">
+        <dt class="tuple__key">Häufigkeit: <a class="tuple__icon" href="/hilfe/haeufigkeit" target="_blank">ⓘ</a></dt>
+        <dd class="tuple__val">
+          <div class="shaft" aria-label="Gehört zu den 10000 häufigsten Wörtern im Dudenkorpus mit Ausnahme der Top 1000"><span class="shaft__full">▒▒▒</span><span class="shaft__empty">░░</span></div>
+        </dd>
+      </dl>
+      <dl class="tuple">
+        <dt class="tuple__key">Aussprache: <a class="tuple__icon" href="/hilfe/aussprache" target="_blank">ⓘ</a></dt>
+        <dd class="tuple__val">
+          <dl class="pronunciation-guide">
+            <dt class="pronunciation-guide__diction-type">Betonung</dt>
+            <dd class="pronunciation-guide__diction">
+              <div>
+                <span class="pronunciation-guide__text">Fantas<u class="long-stress">ie</u></span>
+              </div>
+              <div>
+                <span class="pronunciation-guide__text">Phantas<u class="long-stress">ie</u></span>
+              </div>
+            </dd>
+            <dt class="pronunciation-guide__diction-type">Lautschrift</dt>
+            <dd class="pronunciation-guide__diction">
+              <div><button data-href="https://cdn.duden.de/_media_/audio/ID4113188_166312431.mp3" class="pronunciation-guide__sound" data-duden-ref-type="audio" data-file-id="ID4113188_166312431"><span class="pronunciation-guide__icon">🔉</span></button><span class="pronunciation-guide__transcription"><span class="ipa">[fantaˈziː]</span></span></div>
+            </dd>
+          </dl>
+        </dd>
+      </dl>
+      <dl class="disambiguation">
+        <dt class="disambiguation__title">Wort mit gleicher Schreibung</dt>
+        <dd class="disambiguation__list">Fantasie (Musikstück – Substantiv, feminin)</dd>
+      </dl>
+    
+
+  <div>
+    
+
+<div class="tile__wrapper">
+  
+  
+
+<aside class="shalafelinananala">
+  <link rel="stylesheet" href="data:text/css,%20%20.shalafelinananala%20%7B%0A%20%20%20%20margin%3A%2010px%20auto%3B%0A%20%20%20%20width%3A%20max-content%3Bposition%3A%20relative%3B%0A%20%20%20%20%20%20z-index%3A%200%3Bpadding-bottom%3A%200.765em%3B%7D%0A%0A%0A%20%20.shalafelinananala%20img%20%7B%0A%20%20%20%20vertical-align%3A%20bottom%3B%0A%20%20%7D%0A%20%20%20%20%20%20.shalafelinananala__label%20%7B%0A%20%20%20%20%20%20text-align%3A%20center%3B%0A%20%20%20%20%20%20font-size%3A%20.5em%3B%0A%20%20%20%20%20%20color%3A%20%23969b9f%3B%0A%20%20%20%20%20%20padding%3A%2015px%200%2010px%3B%0A%20%20%20%20%7D%0A%20%20%0A%20%20%20%20%0A" />
+      <header class="shalafelinananala__label">Anzeige</header>
+        <span class="tile__loader"></span>
+    <div class="shalafelinananala__content">
+
+
+  <div id="div-gpt-ad-1407836025217-0"><span id="Duden.de_d_640x480_1"></span></div>
+</div>
+      <a href="https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbebox&utm_content=werbefreiheit_aktivieren"
+      target="_blank"
+      class="tile__footer-link"
+    >
+      <img class="tile__footer-img" src="https://cdn.duden.de/statics/ad-free-pur.svg" alt="Werbefreiheit aktivieren" width="89" height="24"/>Werbefreiheit aktivieren</a>
+  </aside>
+</div>
+
+
+
+  
+
+
+<div class="division "  id="rechtschreibung">
+  <header class="division__header">
+    
+          <h2 class="division__title" >Rechtschreibung</h2>
+              <small class="division__info">
+        <a class="division__info_icon" target="_blank" href="/hilfe/rechtschreibung">ⓘ</a>
+      </small>
+        
+  </header>
+    
+      
+      <dl class="tuple">
+        <dt class="tuple__key">Von Duden empfohlene Schreibung</dt>
+        <dd class="tuple__val">
+          <span class="endorsed">Fantasie</span>
+        </dd>
+      </dl>
+      <dl class="tuple">
+        <dt class="tuple__key">Alternative Schreibung</dt>
+        <dd class="tuple__val">Phantasie</dd>
+      </dl>
+      <dl class="tuple">
+        <dt class="tuple__key">Worttrennung</dt>
+        <dd class="tuple__val">Fan|ta|sie, Phan|ta|sie</dd>
+      </dl>
+    
+  
+</div>
+
+
+
+  
+
+
+<div class="division "  id="bedeutungen">
+  <header class="division__header">
+    
+          <h2 class="division__title" >Bedeutungen (3)</h2>
+              <small class="division__info">
+        <a class="division__info_icon" target="_blank" href="/hilfe/bedeutungen">ⓘ</a>
+      </small>
+        
+  </header>
+    
+      
+      <ol class="enumeration" type="1">
+        <li class="enumeration__item">
+          <ol class="enumeration__sub" type="a">
+            <li class="enumeration__sub-item" id="Bedeutung-1a">
+              <div class="enumeration__text">Fähigkeit, Gedächtnisinhalte zu neuen Vorstellungen zu verknüpfen, sich etwas in Gedanken auszumalen</div>
+              <dl class="tuple">
+                <dt class="tuple__key">Grammatik</dt>
+                <dd class="tuple__val">ohne Plural</dd>
+              </dl>
+              <dl class="note">
+                <dt class="note__title">Beispiele</dt>
+                <dd>
+                  <input type="checkbox" hidden="hidden" id="Bedeutung-1a-Beispiele-more">
+                  <ul class="note__list">
+                    <li>eine wilde, krankhafte, reiche Fantasie</li>
+                    <li>Fantasie haben</li>
+                    <li>keine, viel, wenig Fantasie haben</li>
+                    <li>du hast eine schmutzige Fantasie <i>(stellst dir zu Unrecht etwas Unanständiges vor)</i></li>
+                    <li>Musik regt die Fantasie an, beflügelt die Fantasie</li>
+                    <li>eine ungewöhnliche Fantasie entwickeln</li>
+                    <li>der Fantasie freien Lauf lassen</li>
+                    <li>etwas entspringt jemandes Fantasie</li>
+                    <li>ein Spiel, Gebilde der Fantasie</li>
+                    <li>das ist nur in deiner Fantasie so</li>
+                    <li>du hast ja eine blühende Fantasie! <i>(du übertreibst maßlos!)</i></li>
+                  </ul>
+                  <label class="note__show-all" aria-label="Weitere Beispiele anzeigen" for="Bedeutung-1a-Beispiele-more"></label>
+                </dd>
+              </dl>
+            </li>
+            <li class="enumeration__sub-item" id="Bedeutung-1b">
+              <div class="enumeration__text">Produkt der <a href="/rechtschreibung/Fantasie_Einbildung_Traum_Musik#Bedeutung-1a" data-duden-ref-type="lexeme" data-duden-target-id="10050179" data-duden-anchor="#b2-Bedeutung-1a">Fantasie (1a)</a>, (nicht der Wirklichkeit entsprechende) Vorstellung</div>
+              <dl class="note">
+                <dt class="note__title">Beispiele</dt>
+                <dd>
+                  <ul class="note__list">
+                    <li>krankhafte, abgründige, sexuelle Fantasien</li>
+                    <li>das ist reine Fantasie</li>
+                  </ul>
+                </dd>
+              </dl>
+            </li>
+          </ol>
+        </li>
+        <li class="enumeration__item" id="Bedeutung-2">
+          <div class="enumeration__text">Fieberträume; bei Bewusstseinstrübungen wahrgenommene Trugbilder</div>
+          <dl class="tuple">
+            <dt class="tuple__key">Gebrauch</dt>
+            <dd class="tuple__val">Medizin</dd>
+          </dl>
+          <dl class="tuple">
+            <dt class="tuple__key">Grammatik</dt>
+            <dd class="tuple__val">nur im Plural</dd>
+          </dl>
+        </li>
+        <li class="enumeration__item" id="Bedeutung-3">
+          <div class="enumeration__text">instrumentales Musikstück mit freier, oft improvisationsähnlicher Gestaltung ohne formale Bindung</div>
+          <dl class="tuple">
+            <dt class="tuple__key">Gebrauch</dt>
+            <dd class="tuple__val">nur: Fantasie; Musik</dd>
+          </dl>
+        </li>
+      </ol>
+    
+  
+</div>
+
+
+<div class="tile__wrapper">
+  
+  
+
+<aside class="shalikalinananala">
+  <link rel="stylesheet" href="data:text/css,%20%20.shalikalinananala%20%7B%0A%20%20%20%20margin%3A%2010px%20auto%3B%0A%20%20%20%20width%3A%20max-content%3Bposition%3A%20relative%3B%0A%20%20%20%20%20%20z-index%3A%200%3Bpadding-bottom%3A%200.765em%3B%7D%0A%0A%0A%20%20.shalikalinananala%20img%20%7B%0A%20%20%20%20vertical-align%3A%20bottom%3B%0A%20%20%7D%0A%20%20%20%20%20%20.shalikalinananala__label%20%7B%0A%20%20%20%20%20%20text-align%3A%20center%3B%0A%20%20%20%20%20%20font-size%3A%20.5em%3B%0A%20%20%20%20%20%20color%3A%20%23969b9f%3B%0A%20%20%20%20%20%20padding%3A%2015px%200%2010px%3B%0A%20%20%20%20%7D%0A%20%20%0A%20%20%20%20%0A" />
+      <header class="shalikalinananala__label">Anzeige</header>
+        <span class="tile__loader"></span>
+    <div class="shalikalinananala__content">
+
+
+  <div id="div-gpt-ad-1407836274994-0"><span id="Duden.de_d_640x480_2"></span></div>
+</div>
+      <a href="https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbebox&utm_content=werbefreiheit_aktivieren"
+      target="_blank"
+      class="tile__footer-link"
+    >
+      <img class="tile__footer-img" src="https://cdn.duden.de/statics/ad-free-pur.svg" alt="Werbefreiheit aktivieren" width="89" height="24"/>Werbefreiheit aktivieren</a>
+  </aside>
+</div>
+
+
+
+  
+
+
+<div class="division "  id="synonyme">
+  <header class="division__header">
+    
+          <h2 class="division__title" >Synonyme zu <em>Fantasie</em></h2>
+              <small class="division__info">
+        <a class="division__info_icon" target="_blank" href="/hilfe/synonyme">ⓘ</a>
+      </small>
+        
+  </header>
+    <ul><li><a href="/rechtschreibung/Anschauungskraft" data-duden-ref-type="lexeme" data-duden-target-id="10050178">Anschauungskraft</a>, <a href="/rechtschreibung/Anschauungsvermoegen" data-duden-ref-type="lexeme" data-duden-target-id="10219488">Anschauungsvermögen</a>, <a href="/rechtschreibung/Einbildungskraft" data-duden-ref-type="lexeme" data-duden-target-id="10050177">Einbildungskraft</a>, <a href="/rechtschreibung/Einbildungsvermoegen" data-duden-ref-type="lexeme" data-duden-target-id="10219489">Einbildungsvermögen</a></li></ul>
+        
+<nav class="more   "
+  aria-label="More links section"
+>
+  <a href="/synonyme/Fantasie_Einbildung_Traum_Musik"
+     class="more__link"  id="synonyme" 
+     aria-label="Pfeil nach links"
+  >
+    <span class="more__arrow" aria-hidden="true">→</span> <span class="more__text">Zur Übersicht der Synonyme zu <em class="placeholder">Fan­ta­sie</em></span>
+  </a>
+</nav>
+  
+</div>
+
+
+
+  
+
+
+<div class="division "  id="herkunft">
+  <header class="division__header">
+    
+          <h2 class="division__title" >Herkunft</h2>
+              <small class="division__info">
+        <a class="division__info_icon" target="_blank" href="/hilfe/herkunft">ⓘ</a>
+      </small>
+        
+  </header>
+    
+      
+      <p>mittelhochdeutsch fantasīe &lt; lateinisch phantasia &lt; griechisch phantasía, zu: phantázesthai&nbsp;= erscheinen, zu: phaínesthai, <a href="/rechtschreibung/Phaenomen" data-duden-ref-type="lexeme" data-duden-target-id="10024839">Phänomen</a></p>
+    
+  
+</div>
+
+
+
+  
+
+
+<div class="division "  id="grammatik">
+  <header class="division__header">
+    
+          <h2 class="division__title" >Grammatik</h2>
+              <small class="division__info">
+        <a class="division__info_icon" target="_blank" href="/hilfe/grammatik">ⓘ</a>
+      </small>
+        
+  </header>
+    
+      
+      <p>die Fantasie; Genitiv: der Fantasie, Plural: die Fantasien</p>
+    
+        
+<nav class="more   "
+  aria-label="More links section"
+>
+  <a href="/deklination/substantive/Fantasie_Einbildung_Traum_Musik"
+     class="more__link"  id="grammatik" 
+     aria-label="Pfeil nach links"
+  >
+    <span class="more__arrow" aria-hidden="true">→</span> <span class="more__text">Zur Deklinationstabelle des Substantivs <em class="placeholder">Fan­ta­sie</em></span>
+  </a>
+</nav>
+  
+</div>
+
+
+<div class="tile__wrapper">
+  
+  
+
+<aside class="shashanalinananala">
+  <link rel="stylesheet" href="data:text/css,%20%20.shashanalinananala%20%7B%0A%20%20%20%20margin%3A%2010px%20auto%3B%0A%20%20%20%20width%3A%20max-content%3Bposition%3A%20relative%3B%0A%20%20%20%20%20%20z-index%3A%200%3Bpadding-bottom%3A%200.765em%3B%7D%0A%0A%0A%20%20.shashanalinananala%20img%20%7B%0A%20%20%20%20vertical-align%3A%20bottom%3B%0A%20%20%7D%0A%20%20%20%20%20%20.shashanalinananala__label%20%7B%0A%20%20%20%20%20%20text-align%3A%20center%3B%0A%20%20%20%20%20%20font-size%3A%20.5em%3B%0A%20%20%20%20%20%20color%3A%20%23969b9f%3B%0A%20%20%20%20%20%20padding%3A%2015px%200%2010px%3B%0A%20%20%20%20%7D%0A%20%20%0A%20%20%20%20%0A" />
+      <header class="shashanalinananala__label">Anzeige</header>
+        <span class="tile__loader"></span>
+    <div class="shashanalinananala__content">
+
+
+  <div id="div-gpt-ad-1407836241530-0"><span id="Duden.de_d_640x480_3"></span></div>
+</div>
+      <a href="https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbebox&utm_content=werbefreiheit_aktivieren"
+      target="_blank"
+      class="tile__footer-link"
+    >
+      <img class="tile__footer-img" src="https://cdn.duden.de/statics/ad-free-pur.svg" alt="Werbefreiheit aktivieren" width="89" height="24"/>Werbefreiheit aktivieren</a>
+  </aside>
+</div>
+
+
+
+  
+
+
+<div class="division "  id="wussten_sie_schon">
+  <header class="division__header">
+    
+          <h2 class="division__title" >Wussten Sie schon?</h2>
+              <small class="division__info">
+        <a class="division__info_icon" target="_blank" href="/hilfe/wussten-sie-schon">ⓘ</a>
+      </small>
+        
+  </header>
+    
+      
+      <ul>
+        <li>Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1.</li>
+      </ul>
+    
+  
+</div>
+
+
+
+  
+
+
+<div class="division "  id="kontext">
+  <header class="division__header">
+    
+          <h2 class="division__title" >Typische Verbindungen (computergeneriert)</h2>
+              <small class="division__info">
+        <a class="division__info_icon" target="_blank" href="/hilfe/typische-verbindungen">ⓘ</a>
+      </small>
+        
+  </header>
+    
+
+                                                
+
+
+
+
+
+<div class="tag-cluster">
+  <span class="tag-cluster__filter-intro">Anzeigen:</span>
+      <input type="checkbox" data-group="verbs" id="show-verbs" hidden checked>
+    <label class="tag-cluster__filter-label" for="show-verbs">Verben</label>
+        <input type="checkbox" data-group="adj" id="show-adjectives" hidden checked>
+    <label class="tag-cluster__filter-label" for="show-adjectives">Adjektive</label>
+        <input type="checkbox" data-group="nouns" id="show-nouns" hidden checked>
+    <label class="tag-cluster__filter-label" for="show-nouns">Substantive</label>
+    <figure class="tag-cluster__cluster">
+    <div class="tag-cluster__core">Fantasie</div>
+    <div class="tag-cluster__north">
+                        <a href="/rechtschreibung/bluehend" class="tag-cluster__tag tag-cluster__tag--bigger" data-group="adj" data-duden-id="10014050">blühend</a>
+                                              <a href="/rechtschreibung/befluegeln" class="tag-cluster__tag tag-cluster__tag--bigger" data-group="verb" data-duden-id="10049235">beflügeln</a>
+                                            <a href="/rechtschreibung/Wirklichkeit" class="tag-cluster__tag tag-cluster__tag--small" data-group="noun" data-duden-id="10046033">Wirklichkeit</a>
+                                                    <a href="/rechtschreibung/kindlich" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="adj" data-duden-id="10015562">kindlich</a>
+                                              <a href="/rechtschreibung/lebhaft" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="adj" data-duden-id="10013335">lebhaft</a>
+                                              <a href="/rechtschreibung/wild" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="adj" data-duden-id="10013829">wild</a>
+                                              <a href="/rechtschreibung/Wunsch" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="noun" data-duden-id="10058327">Wunsch</a>
+                                              <a href="/rechtschreibung/Mut" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="noun" data-duden-id="10015297">Mut</a>
+                                              <a href="/rechtschreibung/regen" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="verb" data-duden-id="10031581">regen</a>
+                                              <a href="/rechtschreibung/entspringen" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="verb" data-duden-id="10006648">entspringen</a>
+                                              <a href="/rechtschreibung/ausmalen" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="verb" data-duden-id="10177195">ausmalen</a>
+                                              <a href="/rechtschreibung/durchgehen_durchgegangen" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="verb" data-duden-id="10153860">durchgehen</a>
+                  </div>
+    <div class="tag-cluster__south">
+                                      <a href="/rechtschreibung/Kreativitaet" class="tag-cluster__tag tag-cluster__tag--bigger" data-group="noun" data-duden-id="10046175">Kreativität</a>
+                                                                        <a href="/rechtschreibung/Realitaet" class="tag-cluster__tag tag-cluster__tag--small" data-group="noun" data-duden-id="10046032">Realität</a>
+                                                    <a href="/rechtschreibung/eigen" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="adj" data-duden-id="10012800">eigen</a>
+                                              <a href="/rechtschreibung/schmutzig" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="adj" data-duden-id="10013682">schmutzig</a>
+                                              <a href="/rechtschreibung/Traum" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="noun" data-duden-id="10034704">Traum</a>
+                                              <a href="/rechtschreibung/Witz" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="noun" data-duden-id="10015351">Witz</a>
+                                              <a href="/rechtschreibung/Erinnerung" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="noun" data-duden-id="10043177">Erinnerung</a>
+                                              <a href="/rechtschreibung/anregen" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="verb" data-duden-id="10174497">anregen</a>
+                                              <a href="/rechtschreibung/brauchen" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="verb" data-duden-id="10154001">brauchen</a>
+                                              <a href="/rechtschreibung/ausleben" class="tag-cluster__tag tag-cluster__tag--smaller" data-group="verb" data-duden-id="10182578">ausleben</a>
+                                </div>
+          <div class="tag-cluster__west">
+        <a href="/rechtschreibung/sexuell" class="tag-cluster__tag tag-cluster__tag--big" data-group="adj" data-duden-id="10020851">sexuell</a>
+      </div>
+          <div class="tag-cluster__east">
+        <a href="/rechtschreibung/erotisch" class="tag-cluster__tag tag-cluster__tag--big" data-group="adj" data-duden-id="10007651">erotisch</a>
+      </div>
+      </figure>
+  <table hidden>
+    <tbody>
+      <tr><th scope="group" colspan="2">Sehr häufig in Verbindung mit <em>Fantasie</em></th></tr>
+      <tr>
+        <th>Substantive</th>
+        <td>
+                                                          <a href="#">Kreativität</a>
+                                                    </td>
+      </tr>
+      <tr>
+        <th>Verben</th>
+        <td>
+                                                                                <a href="#">beflügeln</a>
+                              </td>
+      </tr>
+      <tr>
+        <th>Adjektive</th>
+        <td>
+                                    <a href="#">blühend</a>
+                                                                          </td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr><th scope="group" colspan="2">Häufig in Verbindung mit <em>Fantasie</em></th></tr>
+      <tr>
+        <th>Substantive</th>
+        <td>
+                                                              </td>
+      </tr>
+      <tr>
+        <th>Verben</th>
+        <td>
+                                                              </td>
+      </tr>
+      <tr>
+        <th>Adjektive</th>
+        <td>
+                                    <a href="#">sexuell</a>
+                                                <a href="#">erotisch</a>
+                              </td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr><th scope="group" colspan="2">Seltener in Verbindung mit <em>Fantasie</em></th></tr>
+      <tr>
+        <th>Substantive</th>
+        <td>
+                                    <a href="#">Wirklichkeit</a>
+                                                <a href="#">Realität</a>
+                              </td>
+      </tr>
+      <tr>
+        <th>Verben</th>
+        <td>
+                                                              </td>
+      </tr>
+      <tr>
+        <th>Adjektive</th>
+        <td>
+                                                              </td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr><th scope="group" colspan="2">Selten in Verbindung mit <em>Fantasie</em></th></tr>
+      <tr>
+        <th>Substantive</th>
+        <td>
+                                                                                                                                                  <a href="#">Traum</a>
+                                                <a href="#">Wunsch</a>
+                                                <a href="#">Witz</a>
+                                                <a href="#">Mut</a>
+                                                <a href="#">Erinnerung</a>
+                                                                                                                                                                                        </td>
+      </tr>
+      <tr>
+        <th>Verben</th>
+        <td>
+                                                                                                                                                                                                                                                                <a href="#">regen</a>
+                                                <a href="#">anregen</a>
+                                                <a href="#">entspringen</a>
+                                                <a href="#">brauchen</a>
+                                                <a href="#">ausmalen</a>
+                                                <a href="#">ausleben</a>
+                                                <a href="#">durchgehen</a>
+                              </td>
+      </tr>
+      <tr>
+        <th>Adjektive</th>
+        <td>
+                                    <a href="#">kindlich</a>
+                                                <a href="#">eigen</a>
+                                                <a href="#">lebhaft</a>
+                                                <a href="#">schmutzig</a>
+                                                <a href="#">wild</a>
+                                                                                                                                                                                                                                                                                                      </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  
+</div>
+
+  </div>
+
+</article>
+
+
+
+<div class="division "  id="block-numero-beforeafterblock-2">
+  <header class="division__header">
+    
+          <h2 class="division__title" >Blättern</h2>
+              <small class="division__info">
+        <a class="division__info_icon" target="_blank" href="/hilfe/blaettern">ⓘ</a>
+      </small>
+        
+  </header>
+  
+<div class="hookup">
+      <nav class="hookup__group">
+      <h3 class="hookup__title">Im Alphabet davor</h3>
+      <ul class="hookup__list">
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fanni">Fan­ni</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fannings">Fan­nings</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fanon">Fa­non</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fanone">Fa­no­ne</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fanpost">Fan­post</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fanprojekt">Fan­pro­jekt</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fanseite">Fan­sei­te</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fanshop">Fan­shop</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fant">Fant</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fantasia">Fan­ta­sia</a>
+          </li>
+              </ul>
+    </nav>
+      <nav class="hookup__group">
+      <h3 class="hookup__title">Im Alphabet danach</h3>
+      <ul class="hookup__list">
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/fantasiearm">fan­ta­sie­arm</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/fantasiebegabt">fan­ta­sie­be­gabt</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fantasiebild">Fan­ta­sie­bild</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fantasieblume">Fan­ta­sie­blu­me</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fantasiegarn">Fan­ta­sie­garn</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fantasiegebilde">Fan­ta­sie­ge­bil­de</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fantasiegestalt">Fan­ta­sie­ge­stalt</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fantasiekostuem">Fan­ta­sie­kos­tüm</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/fantasielos">fan­ta­sie­los</a>
+          </li>
+                  <li class="hookup__item">
+            <a class="hookup__link" href="/rechtschreibung/Fantasielosigkeit">Fan­ta­sie­lo­sig­keit</a>
+          </li>
+              </ul>
+    </nav>
+  </div>
+
+</div>
+
+
+
+
+<nav class="gizmo back-to-top" aria-label="Aktionssymbole für Inhalt">
+      <dl class="gizmo__gadget ">
+      <dt>    
+  <a class="gizmo__gadget-icon " href="#top" >↑</a>
+</dt>
+      <dd class="gizmo__gadget-baloon" id="" >
+                      </dd>
+    </dl>
+  </nav>
+
+
+    <div  id="block-numero-taboolaads">
+    
+    <div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+
+  </div>
+  <div  id="block-numero-lexemleaderboardunten">
+    
+    
+
+
+  
+
+<div class="tile__wrapper">
+  
+  
+
+<aside class="lifaminananashaka">
+  <link rel="stylesheet" href="data:text/css,%20%20.lifaminananashaka%20%7B%0A%20%20%20%20margin%3A%2010px%20auto%3B%0A%20%20%20%20width%3A%20max-content%3Bposition%3A%20relative%3B%0A%20%20%20%20%20%20z-index%3A%200%3Bpadding-bottom%3A%200.765em%3B%7D%0A%0A%0A%20%20.lifaminananashaka%20img%20%7B%0A%20%20%20%20vertical-align%3A%20bottom%3B%0A%20%20%7D%0A%20%20%20%20%20%20.lifaminananashaka__label%20%7B%0A%20%20%20%20%20%20text-align%3A%20center%3B%0A%20%20%20%20%20%20font-size%3A%20.5em%3B%0A%20%20%20%20%20%20color%3A%20%23969b9f%3B%0A%20%20%20%20%20%20padding%3A%2015px%200%2010px%3B%0A%20%20%20%20%7D%0A%20%20%0A%20%20%20%20%0A" />
+      <header class="lifaminananashaka__label">Anzeige</header>
+        <span class="tile__loader"></span>
+    <div class="lifaminananashaka__content">
+
+
+  <div id='div-gpt-ad-1407836052110-0'></div>
+</div>
+      <a href="https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbebox&utm_content=werbefreiheit_aktivieren"
+      target="_blank"
+      class="tile__footer-link"
+    >
+      <img class="tile__footer-img" src="https://cdn.duden.de/statics/ad-free-pur.svg" alt="Werbefreiheit aktivieren" width="89" height="24"/>Werbefreiheit aktivieren</a>
+  </aside>
+</div>
+
+  </div>
+  <div  id="block-numero-leaderboard2ndslot">
+    
+    
+
+
+  
+
+<div class="tile__wrapper">
+  
+  
+
+<aside class="nakakanananashaka">
+  <link rel="stylesheet" href="data:text/css,%20%20.nakakanananashaka%20%7B%0A%20%20%20%20margin%3A%2010px%200%3B%0A%20%20%20%20width%3A%20max-content%3Bposition%3A%20relative%3B%0A%20%20%20%20%20%20z-index%3A%200%3Bpadding-bottom%3A%200.765em%3B%7D%0A%0A%0A%20%20.nakakanananashaka%20img%20%7B%0A%20%20%20%20vertical-align%3A%20bottom%3B%0A%20%20%7D%0A%20%20%0A%20%20%20%20%0A" />
+      <div class="nakakanananashaka__content">
+
+
+  <div id="div-gpt-ad-1407836593647-0"><span id="Leaderboard_2ter_Slot"></span></div></div>
+  </aside>
+</div>
+
+  </div>
+
+
+  <div  id="block-numero-teasercontent" class="content-bottom--teaser-block">
+    
+    
+
+
+  
+<a href="https://angebot.mentor.duden.de/premium_dir/?itm_source=duden_de&amp;itm_medium=premium_int&amp;itm_campaign=red_touchpoint_lemma&amp;itm_content=neues-ki-design"
+   target="_blank"    class="internal-banner-ad"
+>
+
+
+    
+
+
+    <img loading="lazy" src="https://cdn.duden.de/public_files/2025-05/teaser-duden-mentor-2025.png" width="480" height="481" alt="Duden-Mentor" />
+
+
+</a>
+
+<a href="https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-teaser"
+   target="_blank"    class="internal-banner-ad"
+>
+
+
+    
+
+
+    <img loading="lazy" src="https://cdn.duden.de/public_files/2025-05/teaser-d1-2025.png" width="480" height="481" alt="Duden – Die deutsche Rechtschreibung" />
+
+
+</a>
+
+
+
+
+
+
+<section class="essay  essay--compact" >
+      <div class="essay__intro"></div>
+  
+  <a href="/haeufige_fehler" >
+    
+  </a>
+
+  
+  <h2 class="essay__title ">
+    <a href="/haeufige_fehler"  aria-label=""></a>
+  </h2>
+  
+  
+
+
+  Häufige Fehler und Falschschreibweisen
+  <footer class="essay__bottom">
+          
+<nav class="more   "
+  aria-label="More links section"
+>
+  <a href="/haeufige_fehler"
+     class="more__link"  
+     aria-label="Pfeil nach links"
+  >
+    <span class="more__arrow" aria-hidden="true">→</span> <span class="more__text">Zum Überblick</span>
+  </a>
+</nav>
+  
+  </footer>
+</section>
+
+
+  </div>
+
+
+        </div>
+                    
+        <aside class="tabloid__side-column">
+          <div class="tabloid__side-column-top">
+            <div class="tabloid__side-widget">
+              <div id="block-numero-dudende-d-300x600-1-notestickytop">
+  
+    
+      
+
+
+  
+
+<div class="tile__wrapper">
+  
+  
+
+<aside class="nakafanananashaka">
+  <link rel="stylesheet" href="data:text/css,%20%20.nakafanananashaka%20%7B%0A%20%20%20%20margin%3A%2010px%20auto%3B%0A%20%20%20%20width%3A%20max-content%3Bposition%3A%20relative%3B%0A%20%20%20%20%20%20z-index%3A%200%3Bpadding-bottom%3A%200.765em%3B%7D%0A%0A%0A%20%20.nakafanananashaka%20img%20%7B%0A%20%20%20%20vertical-align%3A%20bottom%3B%0A%20%20%7D%0A%20%20%20%20%20%20.nakafanananashaka__label%20%7B%0A%20%20%20%20%20%20text-align%3A%20center%3B%0A%20%20%20%20%20%20font-size%3A%20.5em%3B%0A%20%20%20%20%20%20color%3A%20%23969b9f%3B%0A%20%20%20%20%20%20padding%3A%2015px%200%2010px%3B%0A%20%20%20%20%7D%0A%20%20%0A%20%20%20%20%0A" />
+      <header class="nakafanananashaka__label">Anzeige</header>
+        <span class="tile__loader"></span>
+    <div class="nakafanananashaka__content">
+
+
+  <div id='div-gpt-ad-1407836009283-0'></div>
+</div>
+      <a href="https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbebox&utm_content=werbefreiheit_aktivieren"
+      target="_blank"
+      class="tile__footer-link"
+    >
+      <img class="tile__footer-img" src="https://cdn.duden.de/statics/ad-free-pur.svg" alt="Werbefreiheit aktivieren" width="89" height="24"/>Werbefreiheit aktivieren</a>
+  </aside>
+</div>
+
+  </div>
+
+            </div>
+          </div>
+        </aside>
+            <div class="tabloid__wide-column">
+        
+      </div>
+              
+        <div class="tabloid__wide-top">
+          <div id="block-numero-dudende-d-970x250-1billboard">
+  
+    
+      
+
+
+  
+
+<div class="tile__wrapper">
+  
+  
+
+<aside class="shanaminananashaka">
+  <link rel="stylesheet" href="data:text/css,%20%20.shanaminananashaka%20%7B%0A%20%20%20%20margin%3A%2010px%20auto%3B%0A%20%20%20%20width%3A%20max-content%3Bposition%3A%20relative%3B%0A%20%20%20%20%20%20z-index%3A%200%3Bpadding-bottom%3A%200.765em%3B%7D%0A%0A%0A%20%20.shanaminananashaka%20img%20%7B%0A%20%20%20%20vertical-align%3A%20bottom%3B%0A%20%20%7D%0A%20%20%20%20%20%20.shanaminananashaka__label%20%7B%0A%20%20%20%20%20%20text-align%3A%20center%3B%0A%20%20%20%20%20%20font-size%3A%20.5em%3B%0A%20%20%20%20%20%20color%3A%20%23969b9f%3B%0A%20%20%20%20%20%20padding%3A%2015px%200%2010px%3B%0A%20%20%20%20%7D%0A%20%20%0A%20%20%20%20%0A" />
+      <header class="shanaminananashaka__label">Anzeige</header>
+        <span class="tile__loader"></span>
+    <div class="shanaminananashaka__content">
+
+
+  <div id="div-gpt-ad-1407836285982-0"><span id="Duden.de_d_970x250_1"></span></div>
+</div>
+      <a href="https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbebox&utm_content=werbefreiheit_aktivieren"
+      target="_blank"
+      class="tile__footer-link"
+    >
+      <img class="tile__footer-img" src="https://cdn.duden.de/statics/ad-free-pur.svg" alt="Werbefreiheit aktivieren" width="89" height="24"/>Werbefreiheit aktivieren</a>
+  </aside>
+</div>
+
+  </div>
+
+        </div>
+                      </main>
+              
+    
+    
+    
+    
+<footer>
+      <div class="tabloid__footer-top">
+              <div class="tabloid__footer-top-line">
+          
+
+
+<div class="seclet  seclet--wide"  id="block-numero-footer-menu-2">
+  
+      <h2 class="seclet__title" >Duden</h2>
+    
+  
+
+<ul class="link-list">
+      <li class="link-list__item">
+      <a href="https://www.duden.de/ueber_duden"
+        class="link-list__link "
+        
+      >Über uns</a>
+    </li>
+      <li class="link-list__item">
+      <a href="https://shop.duden.de/?campaignCode=do-footernavigation"
+        class="link-list__link "
+        
+      >Shop</a>
+    </li>
+      <li class="link-list__item">
+      <a href="/Presse-Neuigkeiten"
+        class="link-list__link "
+         title="Pressemitteilungen"
+      >Presse</a>
+    </li>
+      <li class="link-list__item">
+      <a href="https://www.duden.de/handel"
+        class="link-list__link "
+        
+      >Handel</a>
+    </li>
+      <li class="link-list__item">
+      <a href="/werbung"
+        class="link-list__link "
+         title="Mediadaten duden.de"
+      >Mediadaten</a>
+    </li>
+      <li class="link-list__item">
+      <a href="https://www.duden-institute.de/"
+        class="link-list__link "
+         target="_blank" title="Duden Institute für Lerntherapie"
+      >Duden Institute</a>
+    </li>
+      <li class="link-list__item">
+      <a href="https://www.cornelsen.de/"
+        class="link-list__link "
+        
+      >Cornelsen Verlag</a>
+    </li>
+      <li class="link-list__item">
+      <a href="https://www.duden.de/form/license-request"
+        class="link-list__link "
+        
+      >Rechte und Lizenzen</a>
+    </li>
+  </ul>
+
+</div>
+
+
+
+<div class="seclet  seclet--wide"  id="block-numero-wissen">
+  
+      <h2 class="seclet__title" >Wissen</h2>
+    
+  
+
+<ul class="link-list">
+      <li class="link-list__item">
+      <a href="/woerterbuch"
+        class="link-list__link "
+        
+      >Wörterbuch</a>
+    </li>
+      <li class="link-list__item">
+      <a href="/deklination"
+        class="link-list__link "
+        
+      >Deklination</a>
+    </li>
+      <li class="link-list__item">
+      <a href="/konjugation"
+        class="link-list__link "
+        
+      >Konjugation</a>
+    </li>
+      <li class="link-list__item">
+      <a href="/synonyme"
+        class="link-list__link "
+        
+      >Synonyme</a>
+    </li>
+      <li class="link-list__item">
+      <a href="/haeufige_fehler"
+        class="link-list__link "
+        
+      >Häufige Fehler</a>
+    </li>
+      <li class="link-list__item">
+      <a href="/sprachwissen/rechtschreibregeln"
+        class="link-list__link "
+        
+      >Rechtschreibregeln</a>
+    </li>
+      <li class="link-list__item">
+      <a href="/Liste-der-rechtschreiblich-schwierigen-Woerter"
+        class="link-list__link "
+        
+      >Schwierige Wörter</a>
+    </li>
+      <li class="link-list__item">
+      <a href="https://www.duden.de/sprachwissen/inhaltsuebersicht"
+        class="link-list__link "
+        
+      >Sprachwissen</a>
+    </li>
+      <li class="link-list__item">
+      <a href="/newsletter"
+        class="link-list__link "
+        
+      >Newsletter</a>
+    </li>
+  </ul>
+
+</div>
+
+
+
+<div class="seclet  seclet--wide"  id="block-numero-footer-menu-1">
+  
+      <h2 class="seclet__title" >Hilfe</h2>
+    
+  
+
+<ul class="link-list">
+      <li class="link-list__item">
+      <a href="/kundenservice"
+        class="link-list__link "
+         title="Kontakt"
+      >Kundenservice</a>
+    </li>
+      <li class="link-list__item">
+      <a href="/Sprachberatung-0"
+        class="link-list__link "
+         title="Duden-Sprachberatung"
+      >Sprachberatung</a>
+    </li>
+      <li class="link-list__item">
+      <a href="/faq/haeufige_servicefragen"
+        class="link-list__link "
+         title="Häufige Fragen (FAQ)"
+      >Häufige Fragen (FAQ)</a>
+    </li>
+      <li class="link-list__item">
+      <a href="/abonnement"
+        class="link-list__link "
+        
+      >Verträge hier kündigen</a>
+    </li>
+      <li class="link-list__item">
+      <a href="https://www.duden.de/werbefreiheit?targetGroup=pur&amp;acq_chnl=pur-lp"
+        class="link-list__link "
+        
+      >Werbefreiheit buchen</a>
+    </li>
+  </ul>
+
+</div>
+
+
+
+<div class="seclet  seclet--wide"  id="block-numero-apps">
+  
+      <h2 class="seclet__title" >Software</h2>
+    
+  
+
+<ul class="link-list">
+      <li class="link-list__item">
+      <a href="https://mentor.duden.de/?acq_chnl=do-footer"
+        class="link-list__link "
+         title="Schreibassistent"
+      >Schreibassistent</a>
+    </li>
+      <li class="link-list__item">
+      <a href="https://lp.mentor.duden.de/b2b_1_int/?itm_source=duden_de&amp;itm_medium=leadgen_b2b_int&amp;itm_campaign=footernavi&amp;itm_content=link"
+        class="link-list__link "
+         target="_blank" title="Duden-Mentor für Unternehmen"
+      >Duden-Mentor für Unternehmen</a>
+    </li>
+      <li class="link-list__item">
+      <a href="/api"
+        class="link-list__link "
+         title="Duden-API"
+      >Duden-API</a>
+    </li>
+      <li class="link-list__item">
+      <a href="https://www.duden.de/duden-digital"
+        class="link-list__link "
+        
+      >Duden-App</a>
+    </li>
+      <li class="link-list__item">
+      <a href="/digitales/duden-bibliothek"
+        class="link-list__link "
+         title="Duden-Bibliothek"
+      >Duden-Bibliothek</a>
+    </li>
+      <li class="link-list__item">
+      <a href="/duden-digital-schulen"
+        class="link-list__link "
+         title="Duden für Schulen"
+      >Duden für Schulen</a>
+    </li>
+      <li class="link-list__item">
+      <a href="https://www.duden.de/rechtschreibpruefung-online"
+        class="link-list__link "
+         title="Rechtschreibprüfung"
+      >Rechtschreibprüfung</a>
+    </li>
+  </ul>
+
+</div>
+
+
+
+<div class="seclet  seclet--wide"  id="block-numero-sociallinks">
+  
+      <h2 class="seclet__title" >Folgen sie uns</h2>
+    
+  
+
+<ul class="mojination">
+      <li>
+              <a href="https://www.instagram.com/dudenverlag/" title="instagram" class="color_social__link instagram"></a>
+          </li>
+      <li>
+              <a href="https://www.facebook.com/Duden/" title="facebook" class="color_social__link facebook"></a>
+          </li>
+      <li>
+              <a href="https://www.youtube.com/user/Dudenverlag" title="youtube" class="color_social__link youtube"></a>
+          </li>
+      <li>
+              <a href="https://www.linkedin.com/company/dudenverlag/" title="linkedin" class="color_social__link linkedin"></a>
+          </li>
+  </ul>
+
+</div>
+
+        </div>
+                    <div class="tabloid__signature">
+            
+
+
+
+
+<a class="logo" href="/">
+  <img class="logo__image" src="/sites/default/res/duden.svg" alt="Zur Duden-Startseite" width="110" height="40"/>
+  </a>
+
+        </div>
+          </div>
+    <div class="tabloid__footer-bottom">
+    <div class="tabloid__footer-bottom-left">
+      <div id="block-numero-copyrightnotice">
+  
+    
+      
+
+
+  <p>© Cornelsen Verlag GmbH, 2025</p>
+  </div>
+
+    </div>
+    <div class="tabloid__footer-bottom-right">
+      <div  id="block-numero-legal">
+  
+  
+      
+
+<nav class="horizontal-menu" aria-label="Footer navigation">
+  <ul class="horizontal-menu__list"><li>
+        <a class="horizontal-menu__link "
+          href="/service/agb"
+           title="Allgemeine Geschäftsbedingungen"
+        >AGB</a>
+      </li><li>
+        <a class="horizontal-menu__link "
+          href="/service/datenschutz"
+           title="Datenschutzerklärung"
+        >Datenschutz­erklärung</a>
+      </li><li>
+        <a class="horizontal-menu__link "
+          href="/service/impressum"
+           title="Impressum"
+        >Impressum</a>
+      </li><li>
+        <a class="horizontal-menu__link "
+          href="/service/datenschutz#prvcmgr"
+          
+        >Privacy Manager</a>
+      </li><li>
+        <a class="horizontal-menu__link "
+          href="/barrierefreie-dienstleistungen"
+          
+        >Barrierefreiheitserklärung</a>
+      </li><li>
+        <a class="horizontal-menu__link "
+          href="/utiq-verwalten"
+          
+        >Utiq verwalten</a>
+      </li><li>
+        <a class="horizontal-menu__link "
+          href="/service/widerrufsrecht"
+           title="Widerrufsrecht"
+        >Widerrufsrecht</a>
+      </li><li>
+        <a class="horizontal-menu__link "
+          href="/sitemap-ueberblick"
+          
+        >Sitemap</a>
+      </li><li>
+        <a class="horizontal-menu__link "
+          href="https://www.duden.de/sitemap-lexeme"
+          
+        >Stichwörter</a>
+      </li></ul>
+</nav>
+
+  </div>
+
+    </div>
+  </div>
+</footer>
+
+
+      </div>
+  <div class="tabloid__append">
+    <div class="tabloid__append-content">
+      <div class="tabloid__append-content-main">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+<aside class="eclipse " id="numero-antiadblocker" tabindex="0"  style="display: block !important">
+  <a class="eclipse__end" href="#close-numero-antiadblocker">❌</a>
+  
+    
+      <script type="text/javascript" src="/utilities/includes/js/854729248.js?v=1.0.2"></script>
+<link rel="stylesheet" href="/utilities/includes/css/464656858.css?v=1.0.2">
+
+<div class="ads-box" style="position:fixed;top:0;left:0;" aria-hidden="true">
+  &nbsp;
+</div>
+<div id="aab-overlay">
+  <div id="aab-container">
+    <div id="aab-left">
+      <div class="title">Danke, dass Sie Duden online nutzen!</div>
+      <div class="description">
+        Bitte schalten Sie Ihren Adblocker aus, um weiterhin<span class="bold">uneingeschränkt</span>auf www.duden.de zugreifen zu können.
+      </div>
+      <a class="refresh" href="/werbeblocker-deaktivieren">Adblocker ausschalten</a>
+    </div>
+    <div id="aab-right">
+      <div class="title">Duden im <span class="bold">Abo</span></div>
+              <div class="description">Nutzen Sie Duden online ohne Werbung und Tracking auf allen Endgeräten für nur <br/><span class="bold"> 2,99 €/Monat.</span></div>
+            <img src="https://cdn.duden.de/statics/duden-abo-ohne-werbung.png"/>
+      <a class="subscription-link" href="https://www.duden.de/werbefreiheit?targetGroup=pur&acq_chnl=anti-adblock-layer">Bestellen</a>
+      <div class="login">
+        Sie haben bereits Duden<span class="bold">Pur</span>abonniert?<br>
+        <a href="https://www.duden.de/user/authenticate">Dann loggen Sie sich einfach hier ein.</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </aside>
+<a class="eclipse__penumbra" href="#close-" aria-hidden></a>
+
+
+
+<aside class="eclipse " id="numero-cite" tabindex="0" >
+  <a class="eclipse__end" href="#close-numero-cite">❌</a>
+  
+    
+      
+
+
+
+<p>Verwenden Sie folgende URL, um diesen Artikel zu zitieren.</p>
+  
+
+<div class="form-track " >
+      <span class="form-track__item">  
+
+
+
+<input
+  class="text-slot "
+  id="cite-field"
+  type="text"
+  placeholder=""
+  name=""
+  autocomplete="off"
+  size="96"
+   value="https://www.duden.de/node/45080/revision/1318821" readonly
+  />
+</span>
+      <span class="form-track__item">  
+
+
+<a
+  class="
+    knob
+                  "
+   data-clipboard-target="#cite-field" hidden href="#cite"
+      href="https://www.duden.de/node/45080/revision/1318821"
+     data-clipboard-target="#cite-field" hidden
+    >Kopieren</a>
+
+</span>
+  </div>
+
+  
+
+<div class="disclaimer">
+  <a href="/zitieren_aus_duden_online" target="_blank">Weitere Informationen</a> zum korrekten Zitieren aus Duden online.
+</div>
+
+
+  </aside>
+<a class="eclipse__penumbra" href="#close-" aria-hidden></a>
+
+
+  </div>
+
+    <script type="text/javascript">  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});</script>
+
+    <script src="/sites/default/files/js/js_khCJ2oU8vqvP4jY03LEmFTg2uafKendflLyxLNdzzoY.js?scope=footer&amp;delta=0&amp;language=de&amp;theme=numero&amp;include=eJxdjlGOwzAIRC-UrC-yF-iXNYup4wobr42r9vabKFGU7g8wb2AEcuXWUYK7a8szOuqEkwnnjIuuTcsolGBJyxxHCnxxDT-iKVyJqliqc2c0Wq7GqMJTGIGLF35x9pSM3VYO2hhkbmEEbgfaU9ze_Pbvh-ExTEnzmrxG7c6G-oiRu5276khLYTrJaE9OIii0nsHgBW9uvo6-TFE1CntDdHEt__UXHnh9wjxZEu7u9n0MlOsxDUu_fzaIj7Y"></script>
+<script src="https://www.duden.de/react/header/dist/header.d1fb3629.js"></script>
+<script src="/sites/default/files/js/js_rCG2HaYuiUGPUeBtlNrpy4c6BiNIv_48tIkldTZLqJY.js?scope=footer&amp;delta=2&amp;language=de&amp;theme=numero&amp;include=eJxdjlGOwzAIRC-UrC-yF-iXNYup4wobr42r9vabKFGU7g8wb2AEcuXWUYK7a8szOuqEkwnnjIuuTcsolGBJyxxHCnxxDT-iKVyJqliqc2c0Wq7GqMJTGIGLF35x9pSM3VYO2hhkbmEEbgfaU9ze_Pbvh-ExTEnzmrxG7c6G-oiRu5276khLYTrJaE9OIii0nsHgBW9uvo6-TFE1CntDdHEt__UXHnh9wjxZEu7u9n0MlOsxDUu_fzaIj7Y"></script>
+<script src="/modules/custom/tiles/cmp.min.js?v=2.0.3"></script>
+<script src="https://sp.duden.de/unified/wrapperMessagingWithoutDetection.js" async></script>
+
+  </body>
+</html>

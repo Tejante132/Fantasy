@@ -1,0 +1,567 @@
+   #[1]RSS Feed für www.psychologie-heute.de
+
+     * [2]Abo
+     * [3]Warenkorb 0
+          + Warenkorb
+               o Bisher ist der Warenkorb leer
+              _________________________________________________________
+
+            Gesamtsumme: 0,00 EUR
+            inkl. MwSt.
+            [4]Zum Warenkorb [5]Zur Kasse
+     *
+          + Will be filled by AJAX Either Login or Logout form
+
+   [6]Logo
+   [7]Aktuelles Heft [8]Aktuelles Heft [9]Aktuelles Heft
+
+   (BUTTON) close [10]Logo [11]Login
+   (BUTTON) Suchensearch
+
+   Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der
+   Psychologie Heute.
+   Suchbegriff ____________________ (BUTTON) Suchensearch
+
+   [12]Aktuelles Heft [13]Aktuelles Heft [14]Aktuelles Heft
+     * [15]"PH+ Artikel-Flatrate Logo" [16]ABO[17]Aktuelles
+       Heft[18]Warenkorb
+     * [19]Leben
+     * [20]Familie
+     * [21]Beziehung
+     * [22]Gesellschaft
+     * [23]Gesundheit
+     * [24]Beruf
+     * [25]Themen A-Z
+     * [26]Shopkeyboard_arrow_downkeyboard_arrow_up
+          + [27]Übersicht
+          + [28]Einzelhefte
+          + [29]Compacthefte
+          + [30]Audio
+          + [31]Jahrgänge
+          + [32]Dossiers
+          + [33]Lektüre-Pakete
+          + [34]Geschenke
+          + [35]Bücher
+
+   [36]Logo
+     * [37]Leben
+     * [38]Familie
+     * [39]Beziehung
+     * [40]Gesellschaft
+     * [41]Gesundheit
+     * [42]Beruf
+     * [43]Themen A-Z
+     * [44]Shop
+     * [45]PH+ Artikel-Flatrate Logo
+       (BUTTON) Suchensearch
+
+       Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der
+       Psychologie Heute.
+       Suchbegriff ____________________ (BUTTON) Suchensearch
+
+   Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der
+   Psychologie Heute.
+   Suchbegriff ____________________ (BUTTON) Suchensearch
+
+   Zeitraum [Zeitraum________]
+   Ressort [Ressort___________]
+   Inhaltstyp [Inhaltstyp________]
+
+   [46]Psychologie nach Zahlen
+
+Wenn Träume älter werden
+
+   Psychologie nach Zahlen: Träume im Lebenswandel. Wie sich unsere
+   nächtlichen Fantasien über vier Lebensphasen hinweg verändern
+
+          Von [47]Anna Gielas
+
+   event_note 13. Mär 2024 [48]file_download [49]print
+   [50]bookmark_outline
+   Die Illustration zeigt vier Personen, die im Kreis auf weißen Kissen
+   schlafen und eine gemeinsame runde Bettdecke teilen Die Illustration
+   zeigt vier Personen, die im Kreis auf weißen Kissen schlafen und eine
+   gemeinsame runde Bettdecke teilen
+   Unsere Träume wandeln sich nach Alter – sie reflektieren unseren
+   Entwicklungslauf. © Till Hafenbrak für Psychologie Heute
+     *
+     *
+     *
+     * [51]mail_outline
+
+   Träume begleiten uns ein Leben lang. Bereits Neugeborene driften
+   während ihres Schlummers in Fantasiewelten ab. Allerdings verändern
+   sich die Inhalte unserer [52]Träume im Laufe unseres Lebens – passend
+   zu den Eigenarten, Erfahrungen und Herausforderungen jeden Alters. Die
+   Forschung hat die Entwicklung unserer nächtlichen Traumwelten von der
+   [53]Kindheit bis ins hohe [54]Alter untersucht und Besonderheiten
+   dokumentiert, die jeder Lebensphase zu eigen sind.
+
+1 Kindheit
+
+   Kinder träumen wunderbar fantasievoll. Vom Fliegen, Zaubern, von
+   magischen Ereignissen und vielem mehr. Einer der größten Unterschiede
+   zwischen Kinder- und Erwachsenenträumen ist die Häufigkeit von
+   [55]Tieren in den Träumen von Kindern. Dabei schnurrt sich nicht nur
+   die eigene Hauskatze in die Nachtruhe der Kleinen ein. Ihre Träume sind
+   auch durch exotische Tierwelten geprägt. Die Abenteuer dort sind für
+   die kleinen Schlafmützen meist schön und aufregend.
+
+   Alle Mamas und Papas wissen jedoch: Kleinkinder haben auch immer wieder
+   Albträume, etwa dass eine geliebte Person stirbt. Dieser Angsttraum sei
+   zwar auffällig häufiger bei den Kleinen als bei Erwachsenen, so [56]ein
+   italienisches Forschungsteam, aber er sei normal im jungen Alter und
+   generell kein Grund zur Beunruhigung. Laut Forschenden wie dem
+   [57]amerikanischen Neurologen und Psychiater Patrick McNamara sind die
+   unschönen nächtlichen Szenarien gar nützlich – zumindest aus der
+   evolutionspsychologischen Perspektive.
+
+   Denn der Traum ist ein sicherer Ort, an dem Kinder den Umgang mit
+   allerhand Bedrohungen erproben – und dies animiert sie womöglich
+   tagsüber zu mehr Vorsicht und Zurückhaltung. So lautet einer von
+   mehreren Erklärungsversuchen, wieso Albträume ein häufiger
+   [58]Bestandteil der kindlichen Entwicklung sind. Ab dem elften
+   Lebensjahr werden die Kinderträume schließlich immer länger und
+   komplexer und folgen einem klaren Handlungsstrang – vergleichbar mit
+   den Träumen anderer Altersgruppen.
+
+2 Junge Jahre
+
+   Wenn ihre kleinen Geschwister noch von Tieren träumen, träumen
+   Jugendliche und junge Erwachsene schon hauptsächlich von anderen
+   Menschen. Dabei geht es sehr häufig um Geschehen in der [59]Schule und
+   um die Lehrerinnen und Lehrer. Bei jungen Erwachsenen sind die
+   Protagonisten oft Menschen aus ihrem Studium oder der Ausbildung. Oft
+   tauchen in ihren Träumen Szenarien wichtiger Ereignisse auf, [60]etwa
+   eines Universitätsexamens oder eines bedeutenden Sportwettbewerbs, auf
+   den sie intensiv zuarbeiten. Es geht also um Alltägliches, das die
+   Träumenden aber tief bewegt.
+
+   In den Nachtfantasien junger Erwachsener geht es generell friedfertiger
+   zu als in denen von Kindern. Gerade bei jungen Männern gehen
+   [61]aggressive oder gewaltsame Ereignisse in ihren Träumen ab dem Alter
+   von ungefähr 25 Jahren deutlich zurück. Allerdings tauchen in dieser
+   Altersgruppe wiederholt unschöne Träume von räumlicher Desorientierung
+   und Gefesseltsein auf.
+
+   Forschende interpretieren sie als einen Ausdruck der zahlreichen
+   Veränderungen im Leben der Träumenden: Im jungen Erwachsenenalter
+   fühlen sie sich bisweilen orientierungslos, überfordert und machtlos.
+   Das ist ein Teil der normalen Entwicklung, der in der Traumwelt
+   besonders zum Vorschein kommt. Allerdings sind verstörende Träume bei
+   jungen Erwachsenen viel seltener als Träume, in denen es um Lust und um
+   [62]Sexualität geht. Männer aller übrigen Altersgruppen haben laut
+   Studien mehr erotische Träume als Frauen. Aber im frühen
+   Erwachsenenalter haben junge Frauen vergleichbar viele.
+
+3 Erwachsenenalter
+
+   Im mittleren Alter berichten Frauen häufiger von farbenfrohen Träumen,
+   während Männer weniger oder gar keine Farben sehen. In diesem
+   Lebensalter steigt bei Männern die Zahl von Träumen mit aggressiven
+   Inhalten wieder leicht an, bei Frauen wiederum jene mit
+   Handlungssträngen rund um Freundschaft. So träumen sowohl Männer als
+   auch Frauen in dieser Altersgruppe häufig von komplexen
+   zwischenmenschlichen Situationen, meistens mit Nahestehenden oder
+   Bekannten. Ihre Träume handeln auffällig selten ausschließlich von
+   fremden Menschen.
+
+   Im mittleren Alter können sich [63]einzelne Trauminhalte wiederholen.
+   Diese spiegeln [64]laut amerikanischen Forschenden knifflige anhaltende
+   Herausforderungen, die die Betreffenden auch im Wachzustand über einen
+   längeren Zeitraum hinweg auf Trab halten. Im mittleren Alter heißt es
+   manchmal nachts noch immer: Nachsitzen! Dann träumen einige, zurück in
+   der Schule zu sein. Das passiert meistens denjenigen, die sich tagsüber
+   unsicher fühlen oder regelmäßig von einer Autoritätsperson beurteilt
+   werden, etwa auf der Arbeit.
+
+   Unschöne Träume in diesem Alter drehen sich häufig um Verspätungen,
+   Versagen und Hemmungen, beispielsweise etwas nicht tun zu können, das
+   unbedingt getan werden sollte. Diese Träume scheinen
+   [65]Verantwortungsgefühlen zu entspringen, sei es gegenüber den eigenen
+   Kindern, dem Partner oder der Partnerin oder Kollegen und Kolleginnen.
+   Im Vergleich zu jüngeren Altersgruppen träumen Personen in diesem Alter
+   seltener davon, dass ihnen etwas zustößt oder dass sie völlig machtlos
+   sind. Stattdessen spiegeln die Träume eher die Sorge um Nahestehende.
+
+4 Höheres Alter
+
+   Im höheren Alter neigen die Menschen zu reflektierenden Träumen, in
+   denen es beispielsweise um Lebenserkenntnisse und [66]lehrreiche
+   Erfahrungen geht. Ältere Menschen träumen sehr häufig von [67]Personen,
+   die verstorben sind. Das geht laut Forschungsergebnissen seltener auf
+   einen Realitätsverlust zurück, vielmehr spielen Freundschaft und
+   Gemeinschaft in den Träumen älterer Menschen die zentralen Rollen.
+   Befragte beschreiben diese Träume am häufigsten mit Begriffen wie
+   Vertrauen, Unterstützung oder Loyalität.
+
+   Darüber hinaus ist [68]das Reisen ein häufiges Traummotiv älterer
+   Frauen und Männer. Bei den Männern sind Träume mit aggressiven Inhalten
+   zwar weiterhin präsent, aber deutlich seltener. Auch scheinen Menschen
+   im höheren Alter weniger verstörende Träume zu haben als die jüngeren
+   Altersgruppen – wobei ältere Menschen laut Forschenden die Albträume
+   womöglich nicht mehr als so beängstigend wahrnehmen, [69]wie es jüngere
+   Generationen tun.
+
+   Frauen höheren Alters sind in ihren Träumen auffällig aktiv, sowohl im
+   Sinne der Fortbewegung als auch der Anstrengung. Eine Besonderheit, die
+   ältere Menschen mit anderen Gruppen wie etwa mit taubstummen Personen
+   gemein haben: Sie träumen nur selten [70]von ihren körperlichen
+   Einschränkungen. In ihren Träumen sind sie meist gesund und verfügen
+   über alle Fähigkeiten wie etwa ein einwandfrei funktionierendes Gehör.
+   Ähnliches gilt auch für Menschen, die Gliedmaßen verloren haben oder
+   die querschnittsgelähmt sind – im Schlaf laufen und fliegen sie sogar.
+   So bereichert uns die Traumwelt ein Leben lang.
+
+Quellen
+
+   Alfio Maggiolini u.a.: [71]The typical dreams in the life cycle.
+   International Journal of Dream Research, 13/1, 2020. DOI:
+   10.11588/ijodr.2020.1.61558
+
+   Aline Gauchat u.a.: [72]The content of recurrent dreams in young
+   adolescents. Conscious Cognition, 37, 103–111. DOI:
+   10.1016/j.concog.2015.08.009
+
+   Nicolas Pesant, Antonio Zadra: [73]Dream content and psychological
+   well-being: A longitudinal study of the continuity hypothesis. Journal
+   of Clinical Psychology, 62/1, 111–121. DOI: 10.1002/jclp.20212
+
+   Patrick McNamara: [74]The Neuroscience of Sleep and Dreams. Cambridge
+   University Press 2023 (2. Auflage)
+   Newsletter
+
+Aus der Redaktion
+
+   Mit Infos zu unseren Schwerpunktthemen und inhaltlichen Highlights.
+   E-Mail-Adresse
+   ____________________
+   Kostenlos anmelden
+
+   Ihre Daten nutzen wir, wie es in der [75]Datenschutzerklärung erläutert
+   ist
+   Bei der Newsletter-Registrierung ist ein Fehler aufgetreten. Bitte
+   versuchen Sie es später noch einmal.
+   Sie wurden erfolgreich für den Newsletter registriert.
+   [76]Ihr Feedback zu diesem Artikel an die Redaktion
+   keyboard_arrow_right
+   Mehr zum Thema
+     * [77]Alter
+     * [78]Träume
+     * [79]Zeit
+
+Artikel zum Thema
+
+   [80]Leben
+   [81]Wenn Tiere träumen
+   Winseln, strampeln, schlecken: Jeder Haustierbesitzer weiß, dass auch
+   Tiere träumen. Doch in welcherlei Hinsicht sind ihre Träume anders als
+   unsere?
+   [82]Leben
+   [83]Was Tiere in unseren Träumen bedeuten
+   Sind sie ein tierisches Abbild unserer Persönlichkeit oder verschecken
+   sie ein sexuelles Motiv? Was Hunde, Katzen und Co. in unseren Träumen
+   bedeuten
+   [84]Leben
+   [85]Zu viel der freien Zeit
+   Kann man zu viel Freizeit haben? Man kann, wie ein Forschungsteam
+   herausgefunden hat. Warum es auch bei unserer freien Zeit auf die Dosis
+   ankommt.
+   [86]Psychologie Heute 4/2024: Meine perfekt versteckte Depression
+   Dieser Artikel befindet sich in der Ausgabe: Psychologie Heute 4/2024:
+   Meine perfekt versteckte Depression
+   [87]Bestellen
+   Anzeige
+   [88]Beltz Wortmedizin
+   Anzeige
+   [89]Psychologie Heute Compact 83: Selbstbestimmt leben
+   Psychologie Heute Compact 83: Selbstbestimmt leben
+   [90]Bestellen
+   [91]file_download [92]print [93]bookmark_outline
+   Mehr zum Thema
+     * [94]Alter
+     * [95]Träume
+     * [96]Zeit
+
+   (BUTTON) ×
+
+Merkliste
+
+   Hier können Sie interessante Artikel speichern, um sie später zu lesen
+   und wiederzufinden.
+   [97]Registrieren
+   Sie haben schon ein Konto? [98]Hier anmelden
+   (BUTTON) ×
+
+Exklusiv für PH+ Abonnent:innen
+
+     * alle Artikel als praktisches PDF speichern
+     * Zugriff auf alle PH+ Inhalte
+     * Ab 1,99 € pro Monat
+
+   [99]Jetzt sichern
+   Sie haben schon ein PH+-Abo oder Print-Abo?
+   > [100]Hier anmelden und downloaden
+   (BUTTON) ×
+
+Exklusiv für PH+ Abonnent:innen
+
+     * Alle Artikel ausdrucken
+     * Zugriff auf alle PH+ Inhalte
+     * Ab 1,99 € pro Monat
+
+   [101]Jetzt sichern
+   Sie haben schon ein PH+-Abo oder Print-Abo?
+   > [102]Hier anmelden und ausdrucken
+     __________________________________________________________________
+
+Die Redaktion empfiehlt
+
+Meistgelesen
+
+    1. [103]Selbsttests
+       [104]Test: Bin ich hochsensibel?
+       Wir unterscheiden uns hinsichtlich unserer sensorischen Wahrnehmung
+       von Reizen. Dieser Online-Selbsttest ermittelt Ihren Grad von High
+       Sensitivity
+    2. [105]Das halbe Leben
+       [106]„Es hat mich umgehauen“
+       Ein selbstständiger Softwareentwickler arbeitet viel und verdient
+       viel. Er will leisten, frei sein, selbst entscheiden. Dann geht es
+       nicht mehr
+    3. [107]Beziehung
+       [108]Toxische Beziehung
+       Liebesbeziehung werden zunehmend als toxisch bezeichnet.
+       Psychologinnen sprechen eher von dysfunktionalen Beziehungen. Doch
+       was heißt das überhaupt?
+
+   [109]keyboard_arrow_up
+
+   Psychologie Heute ist das führende deutschsprachige Magazin für
+   Psychologie und die benachbarten Wissenschaften.
+
+   Folgen Sie uns
+     *
+     *
+     *
+     *
+
+   Newsletter
+
+   Immer informiert bleiben.
+   E-Mail-Adresse
+   ____________________
+   Kostenlos anmelden
+
+   Ihre Daten nutzen wir, wie es in der [110]Datenschutzerklärung
+   erläutert ist
+   Bei der Newsletter-Registrierung ist ein Fehler aufgetreten. Bitte
+   versuchen Sie es später noch einmal.
+   Sie wurden erfolgreich für den Newsletter registriert.
+
+   Inhalte
+     * [111]Leben
+     * [112]Familie
+     * [113]Beziehung
+     * [114]Gesellschaft
+     * [115]Gesundheit
+     * [116]Beruf
+     * [117]Themen A-Z
+
+   Service
+     * [118]Newsletter
+     * [119]Über uns
+     * [120]Kontakt
+     * [121]Rücksendung
+     * [122]SEPA-Umstellung
+     * [123]Mediadaten
+     * [124]Literatur
+     * [125]Hilfe/FAQ
+
+   Abo & Shop
+     * [126]Übersicht
+     * [127]Einzelhefte
+     * [128]Compacthefte
+     * [129]Audio
+     * [130]Jahrgänge
+     * [131]Dossiers
+     * [132]Lektüre-Pakete
+     * [133]Geschenke
+     * [134]Bücher
+
+   Aktuelles
+     * [135]Veranstaltungen
+     * [136]Studienteilnahme
+     * [137]Studierenden-Rabatt
+
+   © 2025  Verlagsgruppe Beltz
+     * [138]Impressum
+     * [139]AGB
+     * [140]Datenschutz
+     * [141]Barrierefreiheit
+     * [142]Vertrag kündigen
+
+     * [143]Cookie-Einstellungen
+
+   (BUTTON) ×
+   [144]Weihnachtsgeschenk mit Mehrwert: 12 Ausgaben Psychologie Heute
+   [145]Weihnachtsgeschenk mit Mehrwert: 12 Ausgaben Psychologie Heute
+
+References
+
+   Visible links:
+   1. https://www.psychologie-heute.de/feed.rss
+   2. https://www.psychologie-heute.de/abo-shop/abonnement.html
+   3. https://www.psychologie-heute.de/warenkorb.html
+   4. https://www.psychologie-heute.de/warenkorb.html
+   5. https://www.psychologie-heute.de/warenkorb.html?tx_saltshop_cart[action]=start&tx_saltshop_cart[controller]=Checkout
+   6. https://www.psychologie-heute.de/
+   7. https://www.psychologie-heute.de/abo-shop/detailseite/43704-psychologie-heute-12026-heute-geb-ich-mir-frei.html
+   8. https://www.psychologie-heute.de/abo-shop/detailseite/43704-psychologie-heute-12026-heute-geb-ich-mir-frei.html
+   9. https://www.psychologie-heute.de/abo-shop/detailseite/43704-psychologie-heute-12026-heute-geb-ich-mir-frei.html
+  10. https://www.psychologie-heute.de/
+  11. https://www.psychologie-heute.de/login.html
+  12. https://www.psychologie-heute.de/abo-shop/detailseite/43704-psychologie-heute-12026-heute-geb-ich-mir-frei.html
+  13. https://www.psychologie-heute.de/abo-shop/detailseite/43704-psychologie-heute-12026-heute-geb-ich-mir-frei.html
+  14. https://www.psychologie-heute.de/abo-shop/detailseite/43704-psychologie-heute-12026-heute-geb-ich-mir-frei.html
+  15. https://www.psychologie-heute.de/phplus.html
+  16. https://www.psychologie-heute.de/abo-shop/abonnement.html
+  17. https://www.psychologie-heute.de/abo-shop/abonnement.html
+  18. https://www.psychologie-heute.de/warenkorb.html
+  19. https://www.psychologie-heute.de/leben.html
+  20. https://www.psychologie-heute.de/familie.html
+  21. https://www.psychologie-heute.de/beziehung.html
+  22. https://www.psychologie-heute.de/gesellschaft.html
+  23. https://www.psychologie-heute.de/gesundheit.html
+  24. https://www.psychologie-heute.de/beruf.html
+  25. https://www.psychologie-heute.de/themen-a-z.html
+  26. https://www.psychologie-heute.de/abo-shop/uebersicht.html
+  27. https://www.psychologie-heute.de/abo-shop/uebersicht.html
+  28. https://www.psychologie-heute.de/abo-shop/einzelhefte.html
+  29. https://www.psychologie-heute.de/abo-shop/compacthefte.html
+  30. https://www.psychologie-heute.de/abo-shop/audio.html
+  31. https://www.psychologie-heute.de/abo-shop/jahrgaenge.html
+  32. https://www.psychologie-heute.de/abo-shop/dossiers.html
+  33. https://www.psychologie-heute.de/abo-shop/lektuere-pakete.html
+  34. https://www.psychologie-heute.de/abo-shop/geschenke.html
+  35. https://www.psychologie-heute.de/abo-shop/buecher.html
+  36. https://www.psychologie-heute.de/
+  37. https://www.psychologie-heute.de/leben.html
+  38. https://www.psychologie-heute.de/familie.html
+  39. https://www.psychologie-heute.de/beziehung.html
+  40. https://www.psychologie-heute.de/gesellschaft.html
+  41. https://www.psychologie-heute.de/gesundheit.html
+  42. https://www.psychologie-heute.de/beruf.html
+  43. https://www.psychologie-heute.de/themen-a-z.html
+  44. https://www.psychologie-heute.de/abo-shop/uebersicht.html
+  45. https://www.psychologie-heute.de/phplus.html
+  46. https://www.psychologie-heute.de/serien/psychologie-nach-zahlen.html
+  47. https://www.psychologie-heute.de/autor/anna-gielas.html
+  48. https://www.psychologie-heute.de/leben/artikel-detailansicht/43272-wenn-traeume-aelter-werden.html
+  49. https://www.psychologie-heute.de/leben/artikel-detailansicht/43272-wenn-traeume-aelter-werden.html
+  50. https://www.psychologie-heute.de/leben/artikel-detailansicht/43272-wenn-traeume-aelter-werden.html
+  51. mailto:?subject=Psychologie Heute Empfehlung&body=https://www.psychologie-heute.de/leben/artikel-detailansicht/43272-wenn-traeume-aelter-werden.html
+  52. https://www.psychologie-heute.de/themen-a-z/traeume.html
+  53. https://www.psychologie-heute.de/themen-a-z/kindheit.html
+  54. https://www.psychologie-heute.de/themen-a-z/alter.html
+  55. https://www.psychologie-heute.de/themen-a-z/tiere.html
+  56. https://psycnet.apa.org/record/2020-26255-002
+  57. https://www.cambridge.org/core/books/neuroscience-of-sleep-and-dreams/B115FEAAB5ADA06F6110BB05F3C95079
+  58. https://www.psychologie-heute.de/leben/artikel-detailansicht/42072-nicht-ohne-meinen-teddy.html
+  59. https://www.psychologie-heute.de/themen-a-z/schule.html
+  60. https://www.psychologie-heute.de/leben/artikel-detailansicht/42469-lernen-menschen-mit-pruefungsangst-schlecht.html
+  61. https://www.psychologie-heute.de/gesellschaft/artikel-detailansicht/42020-im-fokus-die-vielen-gesichter-von-gewalt.html
+  62. https://www.psychologie-heute.de/themen-a-z/sexualitaet.html
+  63. https://www.psychologie-heute.de/leben/artikel-detailansicht/42073-traumdeutung.html
+  64. https://pubmed.ncbi.nlm.nih.gov/16288448/
+  65. https://www.psychologie-heute.de/leben/artikel-detailansicht/39902-vom-glueck-verantwortung-zu-teilen.html
+  66. https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/43136-ueber-die-jahre-waechst-unsere-angst.html
+  67. https://www.psychologie-heute.de/leben/artikel-detailansicht/41134-heilung-finden.html
+  68. https://www.psychologie-heute.de/gesellschaft/artikel-detailansicht/38979-dahin-fahren-wo-man-sich-selbst-noch-nicht-kennt.html
+  69. https://www.psychologie-heute.de/gesellschaft/artikel-detailansicht/40404-ein-ausgleich-der-interessen-ist-bitter-noetig.html
+  70. https://www.psychologie-heute.de/leben/artikel-detailansicht/42817-keine-angst-vor-behinderung.html
+  71. https://psycnet.apa.org/record/2020-26255-002
+  72. https://pubmed.ncbi.nlm.nih.gov/26366465/
+  73. https://pubmed.ncbi.nlm.nih.gov/16288448/
+  74. https://www.cambridge.org/core/books/neuroscience-of-sleep-and-dreams/B115FEAAB5ADA06F6110BB05F3C95079
+  75. https://www.psychologie-heute.de/datenschutz.html
+  76. javascript:linkTo_UnCryptMailto('iwehpk6f:zwhaoowjznkWxahpv:za');
+  77. https://www.psychologie-heute.de/themen-a-z/alter.html
+  78. https://www.psychologie-heute.de/themen-a-z/traeume.html
+  79. https://www.psychologie-heute.de/themen-a-z/zeit.html
+  80. https://www.psychologie-heute.de/leben.html
+  81. https://www.psychologie-heute.de/leben/artikel-detailansicht/43420-wenn-tiere-traeumen.html
+  82. https://www.psychologie-heute.de/leben.html
+  83. https://www.psychologie-heute.de/leben/artikel-detailansicht/43419-was-tiere-in-unseren-traeumen-bedeuten.html
+  84. https://www.psychologie-heute.de/leben.html
+  85. https://www.psychologie-heute.de/leben/artikel-detailansicht/43084-zu-viel-der-freien-zeit.html
+  86. https://www.psychologie-heute.de/abo-shop/detailseite/42754-psychologie-heute-42024-meine-perfekt-versteckte-depression.html
+  87. https://www.psychologie-heute.de/warenkorb.html?tx_saltshop_cart[action]=addProduct&tx_saltshop_cart[product]=42754
+  88. https://www.beltz.de/sachbuch_ratgeber/produkte/details/55148-wortmedizin.html
+  89. https://www.psychologie-heute.de/abo-shop/detailseite/43817-psychologie-heute-compact-83-selbstbestimmt-leben.html
+  90. https://www.psychologie-heute.de/warenkorb.html?tx_saltshop_cart[action]=addProduct&tx_saltshop_cart[product]=43817
+  91. https://www.psychologie-heute.de/leben/artikel-detailansicht/43272-wenn-traeume-aelter-werden.html
+  92. https://www.psychologie-heute.de/leben/artikel-detailansicht/43272-wenn-traeume-aelter-werden.html
+  93. https://www.psychologie-heute.de/leben/artikel-detailansicht/43272-wenn-traeume-aelter-werden.html
+  94. https://www.psychologie-heute.de/themen-a-z/alter.html
+  95. https://www.psychologie-heute.de/themen-a-z/traeume.html
+  96. https://www.psychologie-heute.de/themen-a-z/zeit.html
+  97. https://www.psychologie-heute.de/registrierung.html
+  98. https://www.psychologie-heute.de/login.html?redirect_url=/leben/artikel-detailansicht/43272-wenn-traeume-aelter-werden.html&cHash=a253e6ef033ca95609a4c9d2fe071b91
+  99. https://www.psychologie-heute.de/abo-shop/abonnement/digital-abo/ph-plus-abo-1-monat.html?etcc_cmp_onsite=wenn-traeume-aelter-werden&etcc_cu=onsite&etcc_med_onsite=artikel-detailansicht
+ 100. https://www.psychologie-heute.de/login.html?redirect_url=/leben/artikel-detailansicht/43272-wenn-traeume-aelter-werden.html&cHash=a253e6ef033ca95609a4c9d2fe071b91
+ 101. https://www.psychologie-heute.de/abo-shop/abonnement/digital-abo/ph-plus-abo-1-monat.html?etcc_cmp_onsite=wenn-traeume-aelter-werden&etcc_cu=onsite&etcc_med_onsite=artikel-detailansicht
+ 102. https://www.psychologie-heute.de/login.html?redirect_url=/leben/artikel-detailansicht/43272-wenn-traeume-aelter-werden.html&cHash=a253e6ef033ca95609a4c9d2fe071b91
+ 103. https://www.psychologie-heute.de/serien/selbsttests.html
+ 104. https://www.psychologie-heute.de/leben/artikel-detailansicht/43389-test-bin-ich-hochsensibel.html
+ 105. https://www.psychologie-heute.de/serien/das-halbe-leben.html
+ 106. https://www.psychologie-heute.de/beruf/artikel-detailansicht/44618-es-hat-mich-umgehauen.html
+ 107. https://www.psychologie-heute.de/beziehung.html
+ 108. https://www.psychologie-heute.de/beziehung/artikel-detailansicht/42593-toxische-beziehung.html
+ 109. https://www.psychologie-heute.de/leben/artikel-detailansicht/43272-wenn-traeume-aelter-werden.html#linkToTop
+ 110. https://www.psychologie-heute.de/datenschutz.html
+ 111. https://www.psychologie-heute.de/leben.html
+ 112. https://www.psychologie-heute.de/familie.html
+ 113. https://www.psychologie-heute.de/beziehung.html
+ 114. https://www.psychologie-heute.de/gesellschaft.html
+ 115. https://www.psychologie-heute.de/gesundheit.html
+ 116. https://www.psychologie-heute.de/beruf.html
+ 117. https://www.psychologie-heute.de/themen-a-z.html
+ 118. https://www.psychologie-heute.de/service/newsletter.html
+ 119. https://www.psychologie-heute.de/service/ueber-uns.html
+ 120. https://www.psychologie-heute.de/service/kontakt.html
+ 121. https://www.psychologie-heute.de/service/retoure.html
+ 122. https://www.psychologie-heute.de/service/sepa-lastschriftmandat-formular.html
+ 123. https://www.psychologie-heute.de/service/mediadaten.html
+ 124. https://www.psychologie-heute.de/service/literatur.html
+ 125. https://www.psychologie-heute.de/service/hilfefaq.html
+ 126. https://www.psychologie-heute.de/abo-shop/uebersicht.html
+ 127. https://www.psychologie-heute.de/abo-shop/einzelhefte.html
+ 128. https://www.psychologie-heute.de/abo-shop/compacthefte.html
+ 129. https://www.psychologie-heute.de/abo-shop/audio.html
+ 130. https://www.psychologie-heute.de/abo-shop/jahrgaenge.html
+ 131. https://www.psychologie-heute.de/abo-shop/dossiers.html
+ 132. https://www.psychologie-heute.de/abo-shop/lektuere-pakete.html
+ 133. https://www.psychologie-heute.de/abo-shop/geschenke.html
+ 134. https://www.psychologie-heute.de/abo-shop/buecher.html
+ 135. https://www.psychologie-heute.de/aktuelles/veranstaltungen.html
+ 136. https://www.psychologie-heute.de/aktuelles/studienteilnahme.html
+ 137. https://www.psychologie-heute.de/studierendenrabatt.html
+ 138. https://www.psychologie-heute.de/impressum.html
+ 139. https://www.psychologie-heute.de/agb.html
+ 140. https://www.psychologie-heute.de/datenschutz.html
+ 141. https://www.psychologie-heute.de/navmeta/barrierefreiheit.html
+ 142. https://www.psychologie-heute.de/vertrag-kuendigen.html
+ 143. https://www.psychologie-heute.de/leben/artikel-detailansicht/43272-wenn-traeume-aelter-werden.html
+ 144. https://www.psychologie-heute.de/abo-shop/abonnement/geschenk-abo/weihnachts-abo.html
+ 145. https://www.psychologie-heute.de/abo-shop/abonnement/geschenk-abo/weihnachts-abo.html
+
+   Hidden links:
+ 147. https://www.psychologie-heute.de/login.html
+ 148. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.psychologie-heute.de%2Fleben%2Fartikel-detailansicht%2F43272-wenn-traeume-aelter-werden.html
+ 149. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.psychologie-heute.de%2Fleben%2Fartikel-detailansicht%2F43272-wenn-traeume-aelter-werden.html
+ 150. https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.psychologie-heute.de%2Fleben%2Fartikel-detailansicht%2F43272-wenn-traeume-aelter-werden.html
+ 151. https://www.facebook.com/psychologie.heute
+ 152. https://www.instagram.com/psyheu/
+ 153. https://www.youtube.com/channel/UChmVjZDa9fhA5arITzc9wiQ
+ 154. https://www.linkedin.com/company/psychologie-heute

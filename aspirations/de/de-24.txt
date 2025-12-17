@@ -1,0 +1,1215 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2023 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+
+<meta property="og:title" content="Rache: Geschichte und Fantasie" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.juedischesmuseum.de/besuch/detail/rache-geschichte-und-fantasie/" />
+<meta property="og:image" content="https://www.juedischesmuseum.de/fileadmin/_processed_/4/7/csm_rache-quadratisch-mit-laufzeit_fd19e37b80.jpg" />
+<meta property="og:image:width" content="1078" />
+<meta property="og:image:height" content="1078" />
+<meta property="twitter:image" content="https://www.juedischesmuseum.de/fileadmin/_processed_/4/7/csm_rache-quadratisch-mit-laufzeit_fd19e37b80.jpg" />
+<meta property="og:description" content="Die Wechselausstellung im Jüdischen Museum nimmt erstmals den Topos Rache in der jüdischen Kulturgeschichte in den Blick. Ab 18. März 2022!" />
+<meta name="keywords" content="Juden in Europa,jüdische Geschichte,jüdische Kulturgeschichte,Juden Deutschland,Jüdisches Museum Frankfurt,Jüdisches Museum" />
+<meta name="generator" content="TYPO3 CMS">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:site_name" content="Jüdisches Museum Frankfurt">
+<meta property="og:locale" content="de_DE">
+<title>Rache: Geschichte und Fantasie - Jüdisches Museum Frankfurt</title>
+<meta name="description" content="Die Wechselausstellung im Jüdischen Museum nimmt erstmals den Topos Rache in der jüdischen Kulturgeschichte in den Blick. Ab 18. März 2022!" />
+<meta name="robots" content="index,follow" />
+<meta name="twitter:card" content="summary" />
+
+
+<link rel="stylesheet" type="text/css" href="/typo3temp/assets/compressed/merged-721f571859fdcfcdcbc3101931b842fe.css" media="all">
+
+
+
+
+
+
+<script id="om-cookie-consent" type="application/json">{"group-1":{"gtm":""},"group-2":{"gtm":"","cookie-1":{"header":["<!-- Global site tag (gtag.js) - Google Ads: 873108775 -->\r\n\r\n<script async src=\"https:\/\/www.googletagmanager.com\/gtag\/js?id=AW-873108775\"><\/script>\r\n\r\n<script>\r\n\r\n  window.dataLayer = window.dataLayer || [];\r\n\r\n  function gtag(){dataLayer.push(arguments);}\r\n\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'AW-873108775');\r\n\r\n<\/script>"]},"cookie-2":{"header":["<!-- Google Tag Manager -->\r\n\r\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\n\r\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\n\r\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n\r\n'https:\/\/www.googletagmanager.com\/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n\r\n})(window,document,'script','dataLayer','GTM-PPCSD9F');<\/script>\r\n\r\n<!-- End Google Tag Manager -->"]}}}</script>
+<title> Detail </title>
+  <link rel="apple-touch-icon" sizes="180x180" href="/typo3conf/ext/website/Resources/Public/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/typo3conf/ext/website/Resources/Public/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/typo3conf/ext/website/Resources/Public/favicons/favicon-16x16.png">
+  <link rel="manifest" href="/typo3conf/ext/website/Resources/Public/favicons/manifest.json">
+  <link rel="mask-icon" href="/typo3conf/ext/website/Resources/Public/favicons/safari-pinned-tab.svg" color="#434343">
+  <link rel="shortcut icon" href="/typo3conf/ext/website/Resources/Public/favicons/favicon.ico">
+  <meta name="msapplication-config" content="/typo3conf/ext/website/Resources/Public/favicons/browserconfig.xml">
+  <meta name="theme-color" content="#434343">
+
+<meta name="google-site-verification" content="zQXXFMKhBobtsCkI-25sisInbCDwAC15ehxYnpT1TeI" /><!-- Matomo -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["disableCookies"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//matomo.juedischesmuseum.de/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+<style>
+
+.o-intro-stage__mask_video,
+.o-stage__video-container .o-stage__video{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 110%;
+    width: 110%;
+    object-fit: cover;
+}
+
+
+
+
+ .m-anchor-navigation__menu-wrapper {
+  z-index: 556!important;
+ }
+
+.o-media-copy__copy li {
+    list-style-position: inside;
+    position: relative;
+    padding-left: 10px;
+}
+.o-media-copy__copy ul>li:before {
+    content: "•";
+    margin-right: 10px;
+    color: #434343;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.o-footer__logo img {
+    width: 70px;
+    padding-bottom: 4px;
+}
+.kyrill {
+    font-size: 1.2rem;
+}
+
+.m-cookie-layer {
+z-index: 1001 !important;
+}
+
+.m-cookie-layer__button-link {
+    line-height: 60px;
+}
+
+li.o-record__share-list-item:nth-child(2) {
+    margin-left: 0;
+}
+
+a.a-link.o-record__share-list-item-twitter {
+    display: none;
+}
+
+a.o-blog-detail__social-media-link[aria-label="Twitter"] {
+    display: none;
+}
+
+@media (min-width: 64em) {
+    .o-main-navigation__slash{
+        margin: 0 15px;
+    }
+}
+
+</style>
+
+<style>
+.o-gallery-item__content-copy a.o-media-copy__copy-external-link {
+    color: #fff;
+}
+</style>
+</head>
+<body>
+
+
+
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PPCSD9F"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="t-default t-default--news t-default--revenge"><header role="banner"><section class="o-museum-toggle o-museum-toggle--is-jmffm " data-js-module="o-museum-toggle"><nav class="o-museum-toggle__nav" aria-label="Standort Auswahl" role="menubar"><a role="menuitem" class="o-museum-toggle__nav-item o-museum-toggle__nav-item--jmffm" href="/besuch/juedisches-museum-frankfurt/"><div class="o-museum-toggle__logo-wrapper"><img src="/typo3conf/ext/website/Resources/Public/images/logos/jmffm.svg" alt="Jüdische Museum Frankfurt" class="o-museum-toggle__logo" /></div><div class="o-museum-toggle__address"><span class="o-museum-toggle__address-item">
+    Heute 10 – 18 Uhr,&nbsp;
+  </span><span class="o-museum-toggle__address-item">
+    Bertha-Pappenheim-Platz 1
+  </span><p style="display: none;">Museum ist zur Zeit geschlossen.</p></div><svg
+  class="a-svg-icon a-svg-icon--links-mini-right o-museum-toggle__arrow"
+  role="img"
+  aria-labelledby="title-links-mini-right-563059 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-mini-right-563059">Jüdische Museum Frankfurt</title><use xlink:href="#links-mini-right"></use></svg></a><a role="menuitem" class="o-museum-toggle__nav-item o-museum-toggle__nav-item--mjf" href="/besuch/museum-judengasse/"><div class="o-museum-toggle__logo-wrapper"><img src="/typo3conf/ext/website/Resources/Public/images/logos/mjf.svg" alt="Museum Judengasse" class="o-museum-toggle__logo" /></div><div class="o-museum-toggle__address"><span class="o-museum-toggle__address-item">
+    Heute 10 – 18 Uhr,&nbsp;
+  </span><span class="o-museum-toggle__address-item">
+    Battonnstraße 47
+  </span><p style="display: none;">Museum ist zur Zeit geschlossen.</p></div><svg
+  class="a-svg-icon a-svg-icon--links-mini-right o-museum-toggle__arrow"
+  role="img"
+  aria-labelledby="title-links-mini-right-128445 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-mini-right-128445">Museum Judengasse</title><use xlink:href="#links-mini-right"></use></svg><svg class="o-museum-toggle__separator" viewBox="0 0 43 80"><polygon class="o-museum-toggle__separator-blue" points="0,0 34,0 0,80"/><polyline class="o-museum-toggle__separator-purple" points="43,80 10,80 43,0 	"/><polygon fill="#FFFFFF" points="33.9,0 0,80 10,80 43,0"/></svg></a></nav></section><section class="o-main-navigation" data-js-module="o-main-navigation"><button class="o-main-navigation__control" aria-expanded="false" data-js-element="o-main-navigation__control">Menü</button><nav hidden class="o-main-navigation__nav" aria-label="Hauptnavigation" data-js-element="o-main-navigation__navigation"><ul class="o-main-navigation__nav-main" role="menubar"><li class="o-main-navigation__nav-item" role="menuitem"><a aria-label="Homepage" class="o-main-navigation__link" href="/"><svg
+  class="a-svg-icon a-svg-icon--various-home o-main-navigation__home"
+  role="img"
+  aria-labelledby="title-various-home-598338 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  aria-hidden=true><title id="title-various-home-598338">Homepage</title><use xlink:href="#various-home"></use></svg></a><svg
+  class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  aria-hidden=true><use xlink:href="#various-slash"></use></svg></li><li class="o-main-navigation__nav-item" role="menuitem"><a href="/besuch/" class="o-main-navigation__link o-main-navigation__link--active">Besuch</a><svg class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash" role="img" aria-labelledby="" data-js-module="a-svg-icon" data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg" aria-hidden="true"><use xlink:href="#various-slash"></use></svg></li><li class="o-main-navigation__nav-item" role="menuitem"><a href="/museum/" class="o-main-navigation__link">Museum</a><svg class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash" role="img" aria-labelledby="" data-js-module="a-svg-icon" data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg" aria-hidden="true"><use xlink:href="#various-slash"></use></svg></li><li class="o-main-navigation__nav-item" role="menuitem"><a href="/bildung/" class="o-main-navigation__link">Bildung</a><svg class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash" role="img" aria-labelledby="" data-js-module="a-svg-icon" data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg" aria-hidden="true"><use xlink:href="#various-slash"></use></svg></li><li class="o-main-navigation__nav-item" role="menuitem"><a href="/sammlung/" class="o-main-navigation__link">Sammlung</a><svg class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash" role="img" aria-labelledby="" data-js-module="a-svg-icon" data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg" aria-hidden="true"><use xlink:href="#various-slash"></use></svg></li></ul><ul class="o-main-navigation__nav-meta" role="menubar"><li class="o-main-navigation__nav-item" role="menuitem"><a class="o-main-navigation__link" href="/onlineshop/"><svg
+  class="a-svg-icon a-svg-icon--square-ticket o-main-navigation__ticket"
+  role="img"
+  aria-labelledby="title-square-ticket-79915 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  ><title id="title-square-ticket-79915">Tickets</title><use xlink:href="#square-ticket"></use></svg>
+
+
+
+          Tickets
+        </a><svg
+  class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  aria-hidden=true><use xlink:href="#various-slash"></use></svg></li><li class="o-main-navigation__nav-item o-main-navigation__nav-item-presse" role="menuitem"><a class="o-main-navigation__link" href="/presse/"><svg
+  class="a-svg-icon a-svg-icon--square-presse o-main-navigation__presse"
+  role="img"
+  aria-labelledby="title-square-presse-7083 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  ><title id="title-square-presse-7083">Presse</title><use xlink:href="#square-presse"></use></svg>
+
+
+
+          PR
+        </a><svg
+  class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  aria-hidden=true><use xlink:href="#various-slash"></use></svg></li><div class="o-main-navigation__nav-item-break"></div><!-- break --><li class="o-main-navigation__nav-item o-main-navigation__nav-item-leichte-sprache" role="menuitem"><a class="o-main-navigation__link" href="/leichte-sprache/"><svg
+  class="a-svg-icon a-svg-icon--square-leichte-sprache o-main-navigation__leichte-sprache"
+  role="img"
+  aria-labelledby="title-square-leichte-sprache-575420 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  ><title id="title-square-leichte-sprache-575420">Leichte Sprache</title><use xlink:href="#square-leichte-sprache"></use></svg></a><svg
+  class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  aria-hidden=true><use xlink:href="#various-slash"></use></svg></li><li class="o-main-navigation__nav-item o-main-navigation__nav-item-language" role="menuitem"><a class="linked-language o-main-navigation__link" href="/en/visit/detail/revenge-history-and-fantasy/">EN</a><svg
+  class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  aria-hidden=true><use xlink:href="#various-slash"></use></svg></li><li class="o-main-navigation__nav-item" role="menuitem"><a class="o-main-navigation__link" href="/suche/"><svg
+  class="a-svg-icon a-svg-icon--square-search o-main-navigation__search"
+  role="img"
+  aria-labelledby="title-square-search-230349 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  ><title id="title-square-search-230349">Suche</title><use xlink:href="#square-search"></use></svg></a></li></ul></nav></section></header><main><!--TYPO3SEARCH_begin--><div class="o-stage  " data-js-location=jmffm><div class="o-stage__lottie-wrapper" data-js-module="o-stage-animation" data-json-path="/fileadmin/user_upload/animation/22_03_01_nk_Bodymovin.json"><div class="o-stage__lottie" id="lottie-animation"></div></div><div class="o-stage__teaser-container"><div class="o-stage__teaser-container-inner"><div class="o-stage__teaser"><div class="o-stage__teaser-contents"><span class="o-stage__category">Rückblick</span><h1 class="a-headline a-headline--main o-stage__headline"  >Rache</h1><div><span class="o-stage__subheadline">Geschichte und Fantasie</span><span class="o-stage__subheadline-extension">&nbsp;/ 18.03.2022 - 03.10.2022</span></div></div><div class="o-stage__teaser-bg" aria-hidden="true"><svg class="o-stage__teaser-bg-triangle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 350"><path d="M0 0h1000L853.4 350H0V0z"></path></svg></div></div></div></div></div><div class=" l-container"><div class="l-container__wrapper"><div class="t-default__intro-anchor-navigation-wrapper"><div aria-hidden="true" hidden style="height: 0; overflow: hidden;" class="m-anchor-navigation t-default__anchor-navigation" data-js-module="m-anchor-navigation"><script data-js-element="m-anchor-navigation__nav-list-item-template" type="text/template"><li class="m-anchor-navigation__nav-list-item"><a href="#" class="a-link  m-anchor-navigation__nav-list-item-link" data-js-element=m-anchor-navigation__nav-list-item-link><svg
+  class="a-svg-icon a-svg-icon--links-down a-link__icon"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  aria-hidden=true><use xlink:href="#links-down"></use></svg>
+
+
+
+                      
+                      #LABEL#
+                  </a></li></script><div class="m-anchor-navigation__menu-wrapper" data-js-element="m-anchor-navigation__menu-wrapper"><div class="m-anchor-navigation__menu"><button class="m-anchor-navigation__toggle-button" aria-expanded="true" data-js-element="m-anchor-navigation__toggle-button" aria-controls="m-anchor-navigation__nav-wrapper" id="m-anchor-navigation__toggle-button"><span class="m-anchor-navigation__toggle-button-icon"><svg
+  class="a-svg-icon a-svg-icon--square-arrow-burger a-link__icon"
+  role="img"
+  aria-labelledby="title-square-arrow-burger-332447 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  ><title id="title-square-arrow-burger-332447">Überblick</title><use xlink:href="#square-arrow-burger"></use></svg></span><span>Überblick</span></button><div class="m-anchor-navigation__nav-wrapper" data-js-element="m-anchor-navigation__nav-wrapper" aria-labelledby="m-anchor-navigation__toggle-button" id="m-anchor-navigation__nav-wrapper"><nav class="m-anchor-navigation__nav"><ul class="m-anchor-navigation__nav-list" data-js-element="m-anchor-navigation__nav-list"></ul></nav></div></div></div></div><p class="t-default__intro">
+              Von Gott zu Quentin Tarantino: Eine außergewöhnliche Ausstellung mit begleitendem Buch und Podcast nimmt erstmals den Topos "Rache" in der jüdischen Kulturgeschichte in den Blick. Eröffnet wird eine neue Perspektive, die einen Bogen von biblischen Geschichten über rabbinische Schriften, jüdische Legenden und judenfeindliche Mythen bis hin zu jüdischen Outlaws spannt. Ihren Ausgangspunkt bilden populärkulturelle Erzählungen, ihren Fluchtpunkt letzte Zeugnisse der Ermordeten und die Frage der Gerechtigkeit nach der Schoa.
+            </p></div><div class="o-media-copy t-default__copy" data-js-module="o-media-copy"><figure class="o-media-copy__figure" data-js-element="o-media-copy__figure"><a href="#" class="o-media-copy__figure-link" aria-label="zoom" 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+              
+                  
+                
+              
+              
+
+              
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+            
+
+        
+
+        
+                
+            
+
+        
+          
+          
+        
+
+        
+          
+          
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+
+  
+data-js-lightbox-config='[{&quot;mediumImage&quot;:{&quot;w&quot;:1000,&quot;h&quot;:667,&quot;src&quot;:&quot;/fileadmin/user_upload/_processed_/3/9/csm_019196__c__Lukas_Pichelmann__1__5bc49f1da4.jpg&quot;},&quot;originalImage&quot;:{&quot;w&quot;:1920,&quot;h&quot;:1280,&quot;src&quot;:&quot;/fileadmin/user_upload/_processed_/3/9/csm_019196__c__Lukas_Pichelmann__1__72b406f413.jpg&quot;},&quot;title&quot;:&quot;Baseballschl&amp;auml;ger des Bear Jew aus Inglourious Basterds, Originalrequisit, J&amp;uuml;disches Museum Wien, Foto &amp;copy; Lukas Pichelmann &quot;,&quot;titleAddition&quot;:&quot;&quot;,&quot;artist&quot;:&quot;&quot;,&quot;category&quot;:&quot;&quot;,&quot;location&quot;:&quot;&quot;,&quot;date&quot;:&quot;&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;description&quot;:&quot;&lt;p&gt;Baseballschläger des Bear Jew aus Inglourious Basterds, Originalrequisit, Jüdisches Museum Wien, Foto © Lukas Pichelmann &lt;/p&gt;&quot;}]'
+><img class="o-media-copy__figure-link-image lazyload" data-src="/fileadmin/_processed_/5/2/csm_019196__c__Lukas_Pichelmann__1__7347a301fe.jpg" data-srcset="/fileadmin/_processed_/5/2/csm_019196__c__Lukas_Pichelmann__1__7347a301fe.jpg 320w, /fileadmin/_processed_/5/2/csm_019196__c__Lukas_Pichelmann__1__74f1e9ed62.jpg 475w, /fileadmin/_processed_/5/2/csm_019196__c__Lukas_Pichelmann__1__60461483cb.jpg 950w" sizes="(min-width: 1440px) 475px, (min-width: 1280px) 33vw, (min-width: 768px) 42vw, 92vw" alt="Baseballschläger des Bear Jew aus Inglourious Basterds, Originalrequisit, Jüdisches Museum Wien, Foto © Lukas Pichelmann " title="Baseballschläger des Bear Jew aus Inglourious Basterds, Originalrequisit, Jüdisches Museum Wien, Foto © Lukas Pichelmann " /><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 60" class="o-media-copy__figure-link-icon-bg"><path fill="#434343" d="M25 0h53v60H0z"></path></svg><svg
+  class="a-svg-icon a-svg-icon--square-fullscreen o-media-copy__figure-link-icon"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  aria-hidden=true><use xlink:href="#square-fullscreen"></use></svg></a><figcaption class="o-media-copy__figure-caption">Baseballschläger des Bear Jew aus Inglourious Basterds, Originalrequisit, Jüdisches Museum Wien, Foto © Lukas Pichelmann </figcaption></figure><div class="o-media-copy__copy"><p>Rache ist ein schillernder Begriff. Er evoziert Gefühle, Assoziationen und Erinnerungen an kulturgeschichtliche Überlieferungen. Rachehandlungen üben Vergeltung für Demütigung, Entrechtung, Gewalt und Mord. Sie folgen einer Logik von Gerechtigkeit, die außerhalb der heute geltenden Rechtsordnung liegt. Das war nicht immer so. In der Antike galt gemeinhin das Rechtsprinzip, dass Gleiches mit Gleichem zu vergelten sei. Dieses Rechtsprinzip liegt auch der Wendung &quot;Auge um Auge, Zahn um Zahn&quot;&nbsp;in der Tora zugrunde, das die Aufforderung beinhaltet, Schadenersatz zu leisten.</p></div></div><div class="o-media-copy t-default__copy" data-js-module="o-media-copy"><h2 class="a-headline a-headline--sub o-media-copy__headline"  data-js-anchor-navigation-reference>Auge um Auge, Zahn um Zahn</h2><figure class="o-media-copy__figure" data-js-element="o-media-copy__figure"><a href="#" class="o-media-copy__figure-link" aria-label="zoom" 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+              
+                  
+                
+              
+              
+
+              
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+            
+
+        
+
+        
+                
+            
+
+        
+          
+          
+        
+
+        
+          
+          
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+        
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+            
+
+        
+
+        
+                
+            
+
+        
+          
+          
+        
+
+        
+          
+          
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+
+  
+data-js-lightbox-config='[{&quot;mediumImage&quot;:{&quot;w&quot;:644,&quot;h&quot;:1000,&quot;src&quot;:&quot;/fileadmin/user_upload/_processed_/f/5/csm_salomea-ochs_b8817598a0.jpg&quot;},&quot;originalImage&quot;:{&quot;w&quot;:901,&quot;h&quot;:1400,&quot;src&quot;:&quot;/fileadmin/user_upload/Bilder/ausstellungen/rache-geschichte-und-fantasie/salomea-ochs.jpg&quot;},&quot;title&quot;:&quot;&quot;,&quot;titleAddition&quot;:&quot;&quot;,&quot;artist&quot;:&quot;&quot;,&quot;category&quot;:&quot;&quot;,&quot;location&quot;:&quot;&quot;,&quot;date&quot;:&quot;&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;description&quot;:&quot;&lt;p&gt;Salomea Ochs schrieb kurz vor ihrer Ermordung 1943 einen Abschiedsbrief, dessen letzte Worte lauten: „wenn Ihr könnt, dann nehmt einst Rache“, 1936, Ram Ben-Shalom, Tel Aviv, Israel&lt;/p&gt;&quot;},{&quot;mediumImage&quot;:{&quot;w&quot;:708,&quot;h&quot;:1000,&quot;src&quot;:&quot;/fileadmin/user_upload/_processed_/3/2/csm_terry-moore-tachel-rising_55c3d796cb.jpg&quot;},&quot;originalImage&quot;:{&quot;w&quot;:991,&quot;h&quot;:1400,&quot;src&quot;:&quot;/fileadmin/user_upload/Bilder/ausstellungen/rache-geschichte-und-fantasie/terry-moore-tachel-rising.jpg&quot;},&quot;title&quot;:&quot;&quot;,&quot;titleAddition&quot;:&quot;&quot;,&quot;artist&quot;:&quot;&quot;,&quot;category&quot;:&quot;&quot;,&quot;location&quot;:&quot;&quot;,&quot;date&quot;:&quot;&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;description&quot;:&quot;Rachel Rising #10, Terry Moore, 2012, Abstract Studio&quot;}]'
+><img class="o-media-copy__figure-link-image lazyload" data-src="/fileadmin/_processed_/7/d/csm_salomea-ochs_71132adb5b.jpg" data-srcset="/fileadmin/_processed_/7/d/csm_salomea-ochs_71132adb5b.jpg 320w, /fileadmin/_processed_/7/d/csm_salomea-ochs_4ba7ee267c.jpg 475w, /fileadmin/_processed_/7/d/csm_salomea-ochs_6b1ba3fbb9.jpg 950w" sizes="(min-width: 1440px) 475px, (min-width: 1280px) 33vw, (min-width: 768px) 42vw, 92vw" alt="Foto von Salomea Ochs" /><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 60" class="o-media-copy__figure-link-icon-bg"><path fill="#434343" d="M25 0h53v60H0z"></path></svg><svg
+  class="a-svg-icon a-svg-icon--square-fullscreen o-media-copy__figure-link-icon"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  aria-hidden=true><use xlink:href="#square-fullscreen"></use></svg></a><figcaption class="o-media-copy__figure-caption">Salomea Ochs schrieb kurz vor ihrer Ermordung 1943 einen Abschiedsbrief, dessen letzte Worte lauten: „wenn Ihr könnt, dann nehmt einst Rache“, 1936, Ram Ben-Shalom, Tel Aviv, Israel</figcaption></figure><div class="o-media-copy__copy"><p style="margin-bottom:5px">Im Mittelalter diente dieser Satz der christlichen Kirche als Beweis für die Rachsucht von Jüdinnen und Juden. Auch nach der Schoa war die Angst groß, dass jüdische Überlebende Vergeltung üben könnten. Tatsächlich fanden nur Rachehandlungen an nationalsozialistischen Tätern statt. Die Mehrzahl der Überlebenden und Hinterbliebenen wartet noch immer darauf, dass der systematische Raub und Massenmord angemessen geahndet wird. Dieses Ausbleiben von Gerechtigkeit wirkt bis heute nach. Und beflügelt die Fantasie.</p></div></div><div class="o-media-copy t-default__copy" data-js-module="o-media-copy"><h2 class="a-headline a-headline--sub o-media-copy__headline"  data-js-anchor-navigation-reference>Zur Ausstellung</h2><figure class="o-media-copy__figure" data-js-element="o-media-copy__figure"><a href="#" class="o-media-copy__figure-link" aria-label="zoom" 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+              
+                  
+                
+              
+              
+
+              
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+            
+
+        
+
+        
+                
+            
+
+        
+          
+          
+        
+
+        
+          
+          
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+
+  
+data-js-lightbox-config='[{&quot;mediumImage&quot;:{&quot;w&quot;:1000,&quot;h&quot;:667,&quot;src&quot;:&quot;/fileadmin/user_upload/_processed_/3/9/csm_baseballschlaeger-bear-jew_c69bacf0d4.jpg&quot;},&quot;originalImage&quot;:{&quot;w&quot;:1800,&quot;h&quot;:1200,&quot;src&quot;:&quot;/fileadmin/user_upload/Bilder/ausstellungen/rache-geschichte-und-fantasie/baseballschlaeger-bear-jew.jpg&quot;},&quot;title&quot;:&quot;&quot;,&quot;titleAddition&quot;:&quot;&quot;,&quot;artist&quot;:&quot;&quot;,&quot;category&quot;:&quot;&quot;,&quot;location&quot;:&quot;&quot;,&quot;date&quot;:&quot;&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;description&quot;:&quot;&lt;p&gt;Baseballschläger des Bear Jew aus Inglourious Basterds, Originalrequisit, Jüdisches Museum Wien, Foto © Lukas Pichelmann&lt;/p&gt;&quot;}]'
+><img class="o-media-copy__figure-link-image lazyload" data-src="/fileadmin/_processed_/5/5/csm_baseballschlaeger-bear-jew_ea25296d56.jpg" data-srcset="/fileadmin/_processed_/5/5/csm_baseballschlaeger-bear-jew_ea25296d56.jpg 320w, /fileadmin/_processed_/5/5/csm_baseballschlaeger-bear-jew_7a8a3ffc64.jpg 475w, /fileadmin/_processed_/5/5/csm_baseballschlaeger-bear-jew_ab619c3372.jpg 950w" sizes="(min-width: 1440px) 475px, (min-width: 1280px) 33vw, (min-width: 768px) 42vw, 92vw" alt="Foto des Baseballschlägers des Bear Jew aus Inglourious Basterds" /><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 60" class="o-media-copy__figure-link-icon-bg"><path fill="#434343" d="M25 0h53v60H0z"></path></svg><svg
+  class="a-svg-icon a-svg-icon--square-fullscreen o-media-copy__figure-link-icon"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  aria-hidden=true><use xlink:href="#square-fullscreen"></use></svg></a><figcaption class="o-media-copy__figure-caption">Baseballschläger des Bear Jew aus Inglourious Basterds, Originalrequisit, Jüdisches Museum Wien, Foto © Lukas Pichelmann</figcaption></figure><div class="o-media-copy__copy"><p>Die Ausstellung &quot;Rache: Geschichte und Fantasie&quot;&nbsp;präsentiert verschiedene Formen der Selbstermächtigung von Jüdinnen und Juden in Reaktion auf die Erfahrung von Diskriminierung und Gewalt. Sie beginnt mit einem Requisit aus Quentin Tarantinos Film &quot;Inglourious Basterds&quot; und endet mit einer Videoinstallation zu Rachedarstellungen in der Popkultur. Neben biblischen Figuren geht der Rundgang sowohl auf rabbinische Schriften als auch auf judenfeindliche Verschwörungsmythen ein. Er thematisiert Legendenfiguren wie Lilith und Golem ebenso wie jüdische &quot;Outlaws&quot;, die sich als Piraten und Räuber oder &quot;Kosher Nostra&quot;&nbsp;organisieren.</p></div></div><div class="o-gallery t-default__gallery" data-js-module="o-gallery"><h2 class="a-headline a-headline--sub o-gallery__headline"  data-js-anchor-navigation-reference>Videos zur Ausstellung</h2><div class="o-gallery__pagination"><div class="o-gallery__pagination-dots" role="tablist" data-js-element="o-gallery__pagination-dots"><div role="tab" class="a-dot-button  o-slider-stage__pagination-dot"><svg class="a-dot-button__dot" width="16" height="28" viewBox="0 0 16 28" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Carousel navigation</title><path stroke-width="1.8" d="M7.6599237,0.9 L6.9832419,1.57764986 L0.9,16.4145941 L0.9,26.5570926 L1.44135843,27.1 L8.18423346,27.1 L8.86115986,26.4211368 L14.943006,11.5869408 L14.943006,1.44213268 L14.4008733,0.9 L7.6599237,0.9 Z"></path></svg></div><div role="tab" class="a-dot-button  o-slider-stage__pagination-dot"><svg class="a-dot-button__dot" width="16" height="28" viewBox="0 0 16 28" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Carousel navigation</title><path stroke-width="1.8" d="M7.6599237,0.9 L6.9832419,1.57764986 L0.9,16.4145941 L0.9,26.5570926 L1.44135843,27.1 L8.18423346,27.1 L8.86115986,26.4211368 L14.943006,11.5869408 L14.943006,1.44213268 L14.4008733,0.9 L7.6599237,0.9 Z"></path></svg></div></div></div><div class="o-gallery__slides" data-js-element="o-gallery__slides"><div class="o-gallery-item  "  data-js-module="o-gallery-item"><div class="o-gallery-item__media" data-js-element="o-gallery-item__media"><div class="o-gallery-item__media-wrapper" data-js-element="o-gallery-item__media-wrapper"><picture class="a-picture o-gallery-item__media-picture" data-js-element="o-gallery-item__media-picture"><source media="(min-width: 768px)" srcset="/fileadmin/_processed_/c/5/csm_vorschaubild-rache1e_d96f1ae276.jpg 1x, /fileadmin/_processed_/c/5/csm_vorschaubild-rache1e_8509c3961a.jpg 2x"><source srcset="/fileadmin/_processed_/c/5/csm_vorschaubild-rache1e_f3d3a4ce67.jpg 750w, /fileadmin/_processed_/c/5/csm_vorschaubild-rache1e_418bdb2482.jpg 550w, /fileadmin/_processed_/c/5/csm_vorschaubild-rache1e_a582731972.jpg 350w" sizes="95vw"><img class="a-picture__image lazyload" alt="Mirjam Wenzel in der Rache-Ausstellung"></picture><div class="o-gallery-item__media-video"><div class="o-gallery-item__media-video-wrapper" data-js-element="o-gallery-item__embed-container"></div><button class="o-gallery-item__media-video-button" aria-label="Play" data-js-element="o-gallery-item__embed-button" data-js-video-id="aORl4bYRJDk"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" class="o-gallery-item__media-video-button-icon"><path d="M28 0c15.5 0 28 12.5 28 28S43.5 56 28 56 0 43.5 0 28 12.5 0 28 0z" class="o-gallery-item__media-video-button-icon-circle"></path><path d="M22 38l16-10-16-10v20z" fill="#fff"></path></svg></button></div></div></div><div class="o-gallery-item__content"><div class="o-gallery-item__content-ratio"><div class="o-gallery-item__content-bg "><span class="o-gallery-item__content-subline">Einführung</span><div class="o-gallery-item__content-copy" data-js-element="o-gallery-item__content-copy"><p>In diesem Video nimmt Museumsdirektorin Mirjam Wenzel Sie mit auf einen kurzen Gang durch die Ausstellung und stellt die wichtigsten Themen vor.</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 503" width="1150" height="550" preserveAspectRatio="xMaxYMax meet" class="o-gallery-item__content-triangle"><path d="M214.1,0H1050v503H0L214.1,0z" fill="#434343" class="o-gallery-item__content-triangle-path"></path></svg></div></div></div></div><div class="o-gallery-item  "  data-js-module="o-gallery-item"><div class="o-gallery-item__media" data-js-element="o-gallery-item__media"><div class="o-gallery-item__media-wrapper" data-js-element="o-gallery-item__media-wrapper"><picture class="a-picture o-gallery-item__media-picture" data-js-element="o-gallery-item__media-picture"><source media="(min-width: 768px)" srcset="/fileadmin/_processed_/9/e/csm_vorschaubild-rache2a_f910e1dcc6.jpg 1x, /fileadmin/_processed_/9/e/csm_vorschaubild-rache2a_e6e2bb48a0.jpg 2x"><source srcset="/fileadmin/_processed_/9/e/csm_vorschaubild-rache2a_faa2fa9f7d.jpg 750w, /fileadmin/_processed_/9/e/csm_vorschaubild-rache2a_8279e28954.jpg 550w, /fileadmin/_processed_/9/e/csm_vorschaubild-rache2a_c4fc83081c.jpg 350w" sizes="95vw"><img class="a-picture__image lazyload" alt="Mirjam Wenzel und Janis Lutz in der Rache-Ausstellung, im Hintergrund eine Tapete mit zahlreichen Comichelden"></picture><div class="o-gallery-item__media-video"><div class="o-gallery-item__media-video-wrapper" data-js-element="o-gallery-item__embed-container"></div><button class="o-gallery-item__media-video-button" aria-label="Play" data-js-element="o-gallery-item__embed-button" data-js-video-id="SFbs7AESHHQ"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" class="o-gallery-item__media-video-button-icon"><path d="M28 0c15.5 0 28 12.5 28 28S43.5 56 28 56 0 43.5 0 28 12.5 0 28 0z" class="o-gallery-item__media-video-button-icon-circle"></path><path d="M22 38l16-10-16-10v20z" fill="#fff"></path></svg></button></div></div></div><div class="o-gallery-item__content"><div class="o-gallery-item__content-ratio"><div class="o-gallery-item__content-bg "><div class="o-gallery-item__content-copy" data-js-element="o-gallery-item__content-copy"><p>Im diesem Gespräch stellen Museumsdirektorin Mirjam Wenzel und Kurator Erik Lutz den letzten Raum der Ausstellung vor: das &quot;Archiv der Gegenwart&quot;. Hier begegnen Ihnen zahlreiche Comic-Superheld*innen. Was die in der Ausstellung zu suchen haben, erfahren Sie im Video.</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 503" width="1150" height="550" preserveAspectRatio="xMaxYMax meet" class="o-gallery-item__content-triangle"><path d="M214.1,0H1050v503H0L214.1,0z" fill="#434343" class="o-gallery-item__content-triangle-path"></path></svg></div></div></div></div></div></div><div class="o-media-copy t-default__copy" data-js-module="o-media-copy"><h2 class="a-headline a-headline--sub o-media-copy__headline"  data-js-anchor-navigation-reference>Die Rache ist mein</h2><figure class="o-media-copy__figure" data-js-element="o-media-copy__figure"><a href="#" class="o-media-copy__figure-link" aria-label="zoom" 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+              
+                  
+                
+              
+              
+
+              
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+            
+
+        
+
+        
+                
+            
+
+        
+          
+          
+        
+
+        
+          
+          
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+
+  
+data-js-lightbox-config='[{&quot;mediumImage&quot;:{&quot;w&quot;:907,&quot;h&quot;:1000,&quot;src&quot;:&quot;&quot;},&quot;originalImage&quot;:{&quot;w&quot;:1630,&quot;h&quot;:1798,&quot;src&quot;:&quot;&quot;},&quot;title&quot;:&quot;&quot;,&quot;titleAddition&quot;:&quot;&quot;,&quot;artist&quot;:&quot;&quot;,&quot;category&quot;:&quot;&quot;,&quot;location&quot;:&quot;&quot;,&quot;date&quot;:&quot;&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;description&quot;:&quot;&lt;p&gt;Jacopo Ligozzi (1547 - 1627), Judith und Holofernes, 1602, Öl auf Leinwand, 97 x 79 cm, Galleria degli Uffizi, Florenz&lt;/p&gt;&quot;}]'
+><img class="o-media-copy__figure-link-image lazyload" data-src="/fileadmin/_processed_/4/c/csm_Jacopo_Ligozzi__Giuditta_e_Oloferne__Judith_und_Holofernes___1602__%C3%96l_auf_Leinwand__Galleria_degli_Uffizi__Florenz_7586f088ea.jpg" data-srcset="/fileadmin/_processed_/4/c/csm_Jacopo_Ligozzi__Giuditta_e_Oloferne__Judith_und_Holofernes___1602__%C3%96l_auf_Leinwand__Galleria_degli_Uffizi__Florenz_7586f088ea.jpg 320w, /fileadmin/_processed_/4/c/csm_Jacopo_Ligozzi__Giuditta_e_Oloferne__Judith_und_Holofernes___1602__%C3%96l_auf_Leinwand__Galleria_degli_Uffizi__Florenz_e3f4a5fbf3.jpg 475w, /fileadmin/_processed_/4/c/csm_Jacopo_Ligozzi__Giuditta_e_Oloferne__Judith_und_Holofernes___1602__%C3%96l_auf_Leinwand__Galleria_degli_Uffizi__Florenz_db5aac5211.jpg 950w" sizes="(min-width: 1440px) 475px, (min-width: 1280px) 33vw, (min-width: 768px) 42vw, 92vw" alt="Gemälde von Jacopo Ligozzi (1547 - 1627), Judith und Holofernes" /><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 60" class="o-media-copy__figure-link-icon-bg"><path fill="#434343" d="M25 0h53v60H0z"></path></svg><svg
+  class="a-svg-icon a-svg-icon--square-fullscreen o-media-copy__figure-link-icon"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  aria-hidden=true><use xlink:href="#square-fullscreen"></use></svg></a><figcaption class="o-media-copy__figure-caption">Jacopo Ligozzi (1547 - 1627), Judith und Holofernes, 1602, Öl auf Leinwand, 97 x 79 cm, Galleria degli Uffizi, Florenz</figcaption></figure><div class="o-media-copy__copy"><p>Die Hebräische Bibel enthält zahlreiche Geschichten in denen Gott selbst Vergeltung übt: etwa die Sintflut, die zehn Plagen, die er den Ägyptern schickt, oder den Untergang von Sodom und Gomorrha. Sie berichtet auch von Rachehandlungen einzelner Personen, die im Sinne Gottes sind. Zwei dieser Rächer werden sowohl in der jüdischen wie auch der christlichen Überlieferung als Helden verehrt: Judith und Simson oder Samson. Mit ihren Rachehandlungen führen sie entscheidende Wendungen in Kriegen herbei. Judith enthauptet Holofernes, den Anführer des assyrischen Heeres, Samson bringt den Tempel der Philister zum Einsturz und tötet alle Feinde, die sich darin befinden. Die Geschichten von Judith und von Samson werden bis heute immer wieder neu dargestellt - in Kunst, Literatur und Populärkultur.</p></div></div><div class="o-media-copy t-default__copy" data-js-module="o-media-copy"><h2 class="a-headline a-headline--sub o-media-copy__headline"  data-js-anchor-navigation-reference>Gieße deinen Zorn aus!</h2><figure class="o-media-copy__figure" data-js-element="o-media-copy__figure"><a href="#" class="o-media-copy__figure-link" aria-label="zoom" 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+              
+                  
+                
+              
+              
+
+              
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+            
+
+        
+
+        
+                
+            
+
+        
+          
+          
+        
+
+        
+          
+          
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+
+  
+data-js-lightbox-config='[{&quot;mediumImage&quot;:{&quot;w&quot;:666,&quot;h&quot;:1000,&quot;src&quot;:&quot;/fileadmin/user_upload/_processed_/8/7/csm_pessach-haggada-frankfurt-rache_57d8c0e669.jpg&quot;},&quot;originalImage&quot;:{&quot;w&quot;:1065,&quot;h&quot;:1600,&quot;src&quot;:&quot;/fileadmin/user_upload/Bilder/ausstellungen/rache-geschichte-und-fantasie/pessach-haggada-frankfurt-rache.jpg&quot;},&quot;title&quot;:&quot;&quot;,&quot;titleAddition&quot;:&quot;&quot;,&quot;artist&quot;:&quot;&quot;,&quot;category&quot;:&quot;&quot;,&quot;location&quot;:&quot;&quot;,&quot;date&quot;:&quot;&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;description&quot;:&quot;&lt;p&gt;Illustration mit dem Vers „Schfoch Chamatcha“ (Gieße deinen Zorn aus), Frankfurter Pessach-Haggada, geschrieben und illustriert von Jakob Michael May Segal (gest. 1768), Frankfurt am Main, 1731, Pergament, Tinte, Wasserfarben, Jüdisches Museum Frankfurt, Schenkung von Ignatz Bubis, Foto: Horst Ziegenfusz&lt;/p&gt;&quot;}]'
+><img class="o-media-copy__figure-link-image lazyload" data-src="/fileadmin/_processed_/4/b/csm_pessach-haggada-frankfurt-rache_b54d5bb9a5.jpg" data-srcset="/fileadmin/_processed_/4/b/csm_pessach-haggada-frankfurt-rache_b54d5bb9a5.jpg 320w, /fileadmin/_processed_/4/b/csm_pessach-haggada-frankfurt-rache_ac019fe1a3.jpg 475w, /fileadmin/_processed_/4/b/csm_pessach-haggada-frankfurt-rache_97aa634487.jpg 950w" sizes="(min-width: 1440px) 475px, (min-width: 1280px) 33vw, (min-width: 768px) 42vw, 92vw" alt="Ausschnitt aus der Frankfurter Pessach Haggada von 1731" /><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 60" class="o-media-copy__figure-link-icon-bg"><path fill="#434343" d="M25 0h53v60H0z"></path></svg><svg
+  class="a-svg-icon a-svg-icon--square-fullscreen o-media-copy__figure-link-icon"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  aria-hidden=true><use xlink:href="#square-fullscreen"></use></svg></a><figcaption class="o-media-copy__figure-caption">Illustration mit dem Vers „Schfoch Chamatcha“ (Gieße deinen Zorn aus), Frankfurter Pessach-Haggada, geschrieben und illustriert von Jakob Michael May Segal (gest. 1768), Frankfurt am Main, 1731, Pergament, Tinte, Wasserfarben, Jüdisches Museum Frankfurt, Schenkung von Ignatz Bubis, Foto: Horst Ziegenfusz</figcaption></figure><div class="o-media-copy__copy"><p>Das rabbinische Judentum interpretiert die biblischen Texte weiter. Dabei wird zunehmend die Fähigkeit des jüdischen Volkes betont, Unrecht zu ertragen und auf die messianische Erlösung zu warten. Erst wenn ein gewisses Maß an Leiden erreicht ist, wird Gott, so die gängige Auffassung, in die Geschichte eingreifen und Rache an den Peinigern seines Volkes üben. In der rabbinischen Überlieferung, den traditionellen Gebeten und der liturgischen Praxis spielen Bitten um göttliche Vergeltung deshalb durchaus eine Rolle. Von der christlichen Kirche wurde die rabbinische Überlieferung immer wieder umgedeutet und zur Legitimation von judenfeindlichen Gewalthandlungen herangezogen.</p></div></div><div class="o-media-copy t-default__copy" data-js-module="o-media-copy"><h2 class="a-headline a-headline--sub o-media-copy__headline"  data-js-anchor-navigation-reference>Wut und Wehrhaftigkeit</h2><figure class="o-media-copy__figure" data-js-element="o-media-copy__figure"><a href="#" class="o-media-copy__figure-link" aria-label="zoom" 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+              
+                  
+                
+              
+              
+
+              
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+            
+
+        
+
+        
+                
+            
+
+        
+          
+          
+        
+
+        
+          
+          
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+
+  
+data-js-lightbox-config='[{&quot;mediumImage&quot;:{&quot;w&quot;:746,&quot;h&quot;:1000,&quot;src&quot;:&quot;/fileadmin/user_upload/_processed_/a/2/csm_shoshannah-brombacher-golem-of-charlottesville_605a66cfd6.jpg&quot;},&quot;originalImage&quot;:{&quot;w&quot;:1193,&quot;h&quot;:1600,&quot;src&quot;:&quot;/fileadmin/user_upload/Bilder/ausstellungen/rache-geschichte-und-fantasie/shoshannah-brombacher-golem-of-charlottesville.jpg&quot;},&quot;title&quot;:&quot;&quot;,&quot;titleAddition&quot;:&quot;&quot;,&quot;artist&quot;:&quot;&quot;,&quot;category&quot;:&quot;&quot;,&quot;location&quot;:&quot;&quot;,&quot;date&quot;:&quot;&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;description&quot;:&quot;&lt;p&gt;Shoshannah Brombacher, The Golem of Charlottesville. A Jewish Answer to the Riots, 2020, Kreide und Tinte auf Papier, 42 x 28 cm, Jüdisches Museum Frankfurt, Foto: Herbert Fischer&lt;/p&gt;&quot;}]'
+><img class="o-media-copy__figure-link-image lazyload" data-src="/fileadmin/_processed_/d/8/csm_shoshannah-brombacher-golem-of-charlottesville_796808845e.jpg" data-srcset="/fileadmin/_processed_/d/8/csm_shoshannah-brombacher-golem-of-charlottesville_796808845e.jpg 320w, /fileadmin/_processed_/d/8/csm_shoshannah-brombacher-golem-of-charlottesville_50474fb05e.jpg 475w, /fileadmin/_processed_/d/8/csm_shoshannah-brombacher-golem-of-charlottesville_f1568db77f.jpg 950w" sizes="(min-width: 1440px) 475px, (min-width: 1280px) 33vw, (min-width: 768px) 42vw, 92vw" alt="Gemälde von Shoshannah Brombacher, The Golem of Charlottesville. A Jewish Answer to the Riots, 2020" /><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 60" class="o-media-copy__figure-link-icon-bg"><path fill="#434343" d="M25 0h53v60H0z"></path></svg><svg
+  class="a-svg-icon a-svg-icon--square-fullscreen o-media-copy__figure-link-icon"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  aria-hidden=true><use xlink:href="#square-fullscreen"></use></svg></a><figcaption class="o-media-copy__figure-caption">Shoshannah Brombacher, The Golem of Charlottesville. A Jewish Answer to the Riots, 2020, Kreide und Tinte auf Papier, 42 x 28 cm, Jüdisches Museum Frankfurt, Foto: Herbert Fischer</figcaption></figure><div class="o-media-copy__copy"><p>Um die Figuren Lilith und Golem ranken sich viele Legenden. Lilith war die erste Frau Adams. Im jüdischen Brauchtum gilt sie als eine Rächerin, die Wöchnerinnen und Jungen vor der Beschneidung mit dem Tod bedroht. Der aus Lehm geschaffene Golem ist eine legendäre Figur aus dem Mittelalter, die damals Schöpfungskraft symbolisiert. Später entwickelt er sich zu einem Rächer mit übermenschlichen Kräften, der die jüdische Gemeinschaft beschützt.</p><p>Die Interpretationen von Golem und Lilith verändern sich im Wandel der Zeit. Der Golem wird nach 1945 in Comics und anderen populärkulturellen Erzählungen zu einer Figur, die sich für die Gräuel der Nationalsozialisten rächt. Lilith hingegen wandelt sich von der Dämonin, die es mit Amuletten abzuwehren gilt, in den 1960er Jahren zu einer Identifikationsfigur der Zweiten Frauenbewegung.</p></div></div><div class="o-media-copy t-default__copy" data-js-module="o-media-copy"><h2 class="a-headline a-headline--sub o-media-copy__headline"  data-js-anchor-navigation-reference>Outlaws: Räuber, Gangster und Piraten</h2><div class="o-media-copy__copy"><p>In Mittelalter und Früher&nbsp;Neuzeit wurden Jüdinnen und Juden vielerorts gewaltsam vertrieben und verfolgt. Auch die Ausübung vieler Berufe war ihnen verwehrt. &nbsp;Vielen blieb daher nichts anders übrig, als sich selbst zu organisieren – jenseits der geltenden Rechtsordnung. Nach der Vertreibung aus Spanien überfielen sephardische Juden als Piraten die Schiffe der Spanischen Krone. Während der Frühen Neuzeit organisierten sich die sogenannten &quot;Betteljuden&quot; auch in vagabundierenden Banden, die im Heiligen Römischen Reich deutscher Nation&nbsp;Raubüberfälle ausübten. Zu Beginn des 20. Jahrhunderts taten sich jüdische Einwanderer an der US-amerikanischen Ostküste in Gangs zusammen, die ihren eigenen Gesetzen folgten, um die Armut zu überwinden. Am bekanntesten war die &quot;Kosher Nostra&quot;, die unter anderem die nationalsozialistische Bewegung in den USA bekämpfte</p></div></div><div class="o-gallery t-default__gallery" data-js-module="o-gallery"><div class="o-gallery__pagination"><div class="o-gallery__pagination-dots" role="tablist" data-js-element="o-gallery__pagination-dots"><div role="tab" class="a-dot-button  o-slider-stage__pagination-dot"><svg class="a-dot-button__dot" width="16" height="28" viewBox="0 0 16 28" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Carousel navigation</title><path stroke-width="1.8" d="M7.6599237,0.9 L6.9832419,1.57764986 L0.9,16.4145941 L0.9,26.5570926 L1.44135843,27.1 L8.18423346,27.1 L8.86115986,26.4211368 L14.943006,11.5869408 L14.943006,1.44213268 L14.4008733,0.9 L7.6599237,0.9 Z"></path></svg></div><div role="tab" class="a-dot-button  o-slider-stage__pagination-dot"><svg class="a-dot-button__dot" width="16" height="28" viewBox="0 0 16 28" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Carousel navigation</title><path stroke-width="1.8" d="M7.6599237,0.9 L6.9832419,1.57764986 L0.9,16.4145941 L0.9,26.5570926 L1.44135843,27.1 L8.18423346,27.1 L8.86115986,26.4211368 L14.943006,11.5869408 L14.943006,1.44213268 L14.4008733,0.9 L7.6599237,0.9 Z"></path></svg></div><div role="tab" class="a-dot-button  o-slider-stage__pagination-dot"><svg class="a-dot-button__dot" width="16" height="28" viewBox="0 0 16 28" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Carousel navigation</title><path stroke-width="1.8" d="M7.6599237,0.9 L6.9832419,1.57764986 L0.9,16.4145941 L0.9,26.5570926 L1.44135843,27.1 L8.18423346,27.1 L8.86115986,26.4211368 L14.943006,11.5869408 L14.943006,1.44213268 L14.4008733,0.9 L7.6599237,0.9 Z"></path></svg></div><div role="tab" class="a-dot-button  o-slider-stage__pagination-dot"><svg class="a-dot-button__dot" width="16" height="28" viewBox="0 0 16 28" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Carousel navigation</title><path stroke-width="1.8" d="M7.6599237,0.9 L6.9832419,1.57764986 L0.9,16.4145941 L0.9,26.5570926 L1.44135843,27.1 L8.18423346,27.1 L8.86115986,26.4211368 L14.943006,11.5869408 L14.943006,1.44213268 L14.4008733,0.9 L7.6599237,0.9 Z"></path></svg></div></div></div><div class="o-gallery__slides" data-js-element="o-gallery__slides"><div class="o-gallery-item  "  data-js-module="o-gallery-item"><div class="o-gallery-item__media" data-js-element="o-gallery-item__media"><div class="o-gallery-item__media-wrapper" data-js-element="o-gallery-item__media-wrapper"><picture class="a-picture o-gallery-item__media-picture" data-js-element="o-gallery-item__media-picture"><source media="(min-width: 768px)" srcset="/fileadmin/_processed_/1/c/csm_sinan-reis-pirat_1fd336ffc1.jpg 1x, /fileadmin/_processed_/1/c/csm_sinan-reis-pirat_abc2d5c03f.jpg 2x"><source srcset="/fileadmin/_processed_/1/c/csm_sinan-reis-pirat_02bb7f4470.jpg 750w, /fileadmin/_processed_/1/c/csm_sinan-reis-pirat_52543f0171.jpg 550w, /fileadmin/_processed_/1/c/csm_sinan-reis-pirat_6fef894017.jpg 350w" sizes="95vw"><img class="a-picture__image lazyload" alt=""></picture></div></div><div class="o-gallery-item__content"><div class="o-gallery-item__content-ratio"><div class="o-gallery-item__content-bg "><div class="o-gallery-item__content-copy" data-js-element="o-gallery-item__content-copy"><p>Der Pirat Sinan Reis (= Kapitän Sinan, auch: Sinan der Jude, Cifut Sinan), Kupferstich aus: Jean Jacques Boissard, Leben vnd Contrafeiten der Türckischen vn[d] Persischen Sultanen von Osmane an, biß auff den jetztregierenden Sultan Mahumet II. ..., Frankfurt, 1596</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 503" width="1150" height="550" preserveAspectRatio="xMaxYMax meet" class="o-gallery-item__content-triangle"><path d="M214.1,0H1050v503H0L214.1,0z" fill="#434343" class="o-gallery-item__content-triangle-path"></path></svg></div></div></div></div><div class="o-gallery-item  "  data-js-module="o-gallery-item"><div class="o-gallery-item__media" data-js-element="o-gallery-item__media"><div class="o-gallery-item__media-wrapper" data-js-element="o-gallery-item__media-wrapper"><picture class="a-picture o-gallery-item__media-picture" data-js-element="o-gallery-item__media-picture"><source media="(min-width: 768px)" srcset="/fileadmin/_processed_/f/2/csm_abraham-picard_db451b02e7.jpg 1x, /fileadmin/_processed_/f/2/csm_abraham-picard_5b34bd9956.jpg 2x"><source srcset="/fileadmin/_processed_/f/2/csm_abraham-picard_7d91ab6361.jpg 750w, /fileadmin/_processed_/f/2/csm_abraham-picard_c0754aa071.jpg 550w, /fileadmin/_processed_/f/2/csm_abraham-picard_4b04d8d4be.jpg 350w" sizes="95vw"><img class="a-picture__image lazyload" alt=""></picture></div></div><div class="o-gallery-item__content"><div class="o-gallery-item__content-ratio"><div class="o-gallery-item__content-bg "><div class="o-gallery-item__content-copy" data-js-element="o-gallery-item__content-copy"><p>Tine Fetz, Abraham Picard, Comic für den Sammelband „Nächstes Jahr in“, Mainz, Ventil Verlag 2021, Tine Fetz, Berlin</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 503" width="1150" height="550" preserveAspectRatio="xMaxYMax meet" class="o-gallery-item__content-triangle"><path d="M214.1,0H1050v503H0L214.1,0z" fill="#434343" class="o-gallery-item__content-triangle-path"></path></svg></div></div></div></div><div class="o-gallery-item  "  data-js-module="o-gallery-item"><div class="o-gallery-item__media" data-js-element="o-gallery-item__media"><div class="o-gallery-item__media-wrapper" data-js-element="o-gallery-item__media-wrapper"><picture class="a-picture o-gallery-item__media-picture" data-js-element="o-gallery-item__media-picture"><source media="(min-width: 768px)" srcset="/fileadmin/_processed_/e/2/csm_james-sturm-golem_64989d204a.jpg 1x, /fileadmin/_processed_/e/2/csm_james-sturm-golem_6c4cab06b8.jpg 2x"><source srcset="/fileadmin/_processed_/e/2/csm_james-sturm-golem_2a92f5aaf3.jpg 750w, /fileadmin/_processed_/e/2/csm_james-sturm-golem_4ffd1defb8.jpg 550w, /fileadmin/_processed_/e/2/csm_james-sturm-golem_5c925300ee.jpg 350w" sizes="95vw"><img class="a-picture__image lazyload" alt=""></picture></div></div><div class="o-gallery-item__content"><div class="o-gallery-item__content-ratio"><div class="o-gallery-item__content-bg "><div class="o-gallery-item__content-copy" data-js-element="o-gallery-item__content-copy"><p>James Sturm, Der Golem betritt das Feld, vorbereitende Skizze (Ausschnitt) für The Golem's Mighty Swing, USA, 2001, © James Sturm</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 503" width="1150" height="550" preserveAspectRatio="xMaxYMax meet" class="o-gallery-item__content-triangle"><path d="M214.1,0H1050v503H0L214.1,0z" fill="#434343" class="o-gallery-item__content-triangle-path"></path></svg></div></div></div></div><div class="o-gallery-item  "  data-js-module="o-gallery-item"><div class="o-gallery-item__media" data-js-element="o-gallery-item__media"><div class="o-gallery-item__media-wrapper" data-js-element="o-gallery-item__media-wrapper"><picture class="a-picture o-gallery-item__media-picture" data-js-element="o-gallery-item__media-picture"><source media="(min-width: 768px)" srcset="/fileadmin/_processed_/5/8/csm_steckbrief-bugsy-siegel_62e0023fd5.jpg 1x, /fileadmin/_processed_/5/8/csm_steckbrief-bugsy-siegel_390511bf63.jpg 2x"><source srcset="/fileadmin/_processed_/5/8/csm_steckbrief-bugsy-siegel_fa1a5ef010.jpg 750w, /fileadmin/_processed_/5/8/csm_steckbrief-bugsy-siegel_4f72e06648.jpg 550w, /fileadmin/_processed_/5/8/csm_steckbrief-bugsy-siegel_2e726e3246.jpg 350w" sizes="95vw"><img class="a-picture__image lazyload" alt=""></picture></div></div><div class="o-gallery-item__content"><div class="o-gallery-item__content-ratio"><div class="o-gallery-item__content-bg "><div class="o-gallery-item__content-copy" data-js-element="o-gallery-item__content-copy"><p>FBI Fahndungsposter von Bugsy Siegel, 1939, Poster, The Mob Museum, The National Museum of Organized Crime &amp; Law Enforcement, 2013.015.037</p></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 503" width="1150" height="550" preserveAspectRatio="xMaxYMax meet" class="o-gallery-item__content-triangle"><path d="M214.1,0H1050v503H0L214.1,0z" fill="#434343" class="o-gallery-item__content-triangle-path"></path></svg></div></div></div></div></div></div><div class="o-media-copy t-default__copy" data-js-module="o-media-copy"><h2 class="a-headline a-headline--sub o-media-copy__headline"  data-js-anchor-navigation-reference>Nakam!</h2><figure class="o-media-copy__figure" data-js-element="o-media-copy__figure"><a href="#" class="o-media-copy__figure-link" aria-label="zoom" 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+              
+                  
+                
+              
+              
+
+              
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+            
+
+        
+
+        
+                
+            
+
+        
+          
+          
+        
+
+        
+          
+          
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+
+  
+data-js-lightbox-config='[{&quot;mediumImage&quot;:{&quot;w&quot;:648,&quot;h&quot;:1000,&quot;src&quot;:&quot;/fileadmin/user_upload/_processed_/7/3/csm_abba-kovner_cbddb0ce47.jpg&quot;},&quot;originalImage&quot;:{&quot;w&quot;:907,&quot;h&quot;:1400,&quot;src&quot;:&quot;/fileadmin/user_upload/Bilder/ausstellungen/rache-geschichte-und-fantasie/abba-kovner.jpg&quot;},&quot;title&quot;:&quot;&quot;,&quot;titleAddition&quot;:&quot;&quot;,&quot;artist&quot;:&quot;&quot;,&quot;category&quot;:&quot;&quot;,&quot;location&quot;:&quot;&quot;,&quot;date&quot;:&quot;&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;description&quot;:&quot;&lt;p&gt;Abba Kovner mit Ruska Korczak (links) und Vitka Kempner (rechts) am Tag der Befreiung in Vilna, Juli 1944, United States Holocaust Memorial Museum, courtesy of Vitka Kempner Kovner, Foto: Ilya Ehrenberg&lt;/p&gt;&quot;}]'
+><img class="o-media-copy__figure-link-image lazyload" data-src="/fileadmin/_processed_/9/2/csm_abba-kovner_d168e7869d.jpg" data-srcset="/fileadmin/_processed_/9/2/csm_abba-kovner_d168e7869d.jpg 320w, /fileadmin/_processed_/9/2/csm_abba-kovner_c38d242841.jpg 475w, /fileadmin/_processed_/9/2/csm_abba-kovner_137bc14b7d.jpg 950w" sizes="(min-width: 1440px) 475px, (min-width: 1280px) 33vw, (min-width: 768px) 42vw, 92vw" alt="Foto von Abba Kovner mit Ruska Korczak" /><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 60" class="o-media-copy__figure-link-icon-bg"><path fill="#434343" d="M25 0h53v60H0z"></path></svg><svg
+  class="a-svg-icon a-svg-icon--square-fullscreen o-media-copy__figure-link-icon"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  aria-hidden=true><use xlink:href="#square-fullscreen"></use></svg></a><figcaption class="o-media-copy__figure-caption">Abba Kovner mit Ruska Korczak (links) und Vitka Kempner (rechts) am Tag der Befreiung in Vilna, Juli 1944, United States Holocaust Memorial Museum, courtesy of Vitka Kempner Kovner, Foto: Ilya Ehrenberg</figcaption></figure><div class="o-media-copy__copy"><p>Unmittelbar nach Ende des Zweiten Weltkriegs kam es zu wenigen, spontanen Racheakten durch Überlebende in den Konzentrationslagern, jüdische Partisanen und Angehörige der alliierten Armeen an KZ-Aufsehern oder Mitgliedern von SS und SA. Die prominentesten Rächerinnen und Rächer&nbsp;war die Gruppe um den Partisanen und Schriftsteller Abba Kovner. Sie diskutierten zwei Rachepläne: Plan A sah vor, das Trinkwasser in mehreren deutschen Großstädten zu vergiften. Als dieser Plan fehlschlug, wurde Plan B in die Tat umgesetzt: In einer Bäckerei wurden Brote mit dem Gift Arsen bestrichen und anschließend in ein Lager mit deutschen Kriegsgefangenen geliefert. Es ist bis heute umstritten, wie folgenreich diese Aktion war.</p></div></div><div class="o-media-copy t-default__copy" data-js-module="o-media-copy"><h2 class="a-headline a-headline--sub o-media-copy__headline"  data-js-anchor-navigation-reference>Archiv der Gegenwart</h2><figure class="o-media-copy__figure" data-js-element="o-media-copy__figure"><a href="#" class="o-media-copy__figure-link" aria-label="zoom" 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+              
+                  
+                
+              
+              
+
+              
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+
+            
+
+        
+
+        
+                
+            
+
+        
+          
+          
+        
+
+        
+          
+          
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+
+  
+data-js-lightbox-config='[{&quot;mediumImage&quot;:{&quot;w&quot;:1000,&quot;h&quot;:563,&quot;src&quot;:&quot;/fileadmin/user_upload/_processed_/8/3/csm_filmstill-video-daniel-laufer_167e948dc5.jpg&quot;},&quot;originalImage&quot;:{&quot;w&quot;:1920,&quot;h&quot;:1080,&quot;src&quot;:&quot;/fileadmin/user_upload/Bilder/ausstellungen/rache-geschichte-und-fantasie/filmstill-video-daniel-laufer.jpg&quot;},&quot;title&quot;:&quot;&quot;,&quot;titleAddition&quot;:&quot;&quot;,&quot;artist&quot;:&quot;&quot;,&quot;category&quot;:&quot;&quot;,&quot;location&quot;:&quot;&quot;,&quot;date&quot;:&quot;&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;description&quot;:&quot;&lt;p&gt;Filmstill aus der Videoinstallation Revenge, 2022, Daniel Laufer, 3-Kanal Videoinstallation, © Daniel Laufer&lt;/p&gt;&quot;}]'
+><img class="o-media-copy__figure-link-image lazyload" data-src="/fileadmin/_processed_/a/2/csm_filmstill-video-daniel-laufer_e3d914a15e.jpg" data-srcset="/fileadmin/_processed_/a/2/csm_filmstill-video-daniel-laufer_e3d914a15e.jpg 320w, /fileadmin/_processed_/a/2/csm_filmstill-video-daniel-laufer_3eff500e53.jpg 475w, /fileadmin/_processed_/a/2/csm_filmstill-video-daniel-laufer_500253d9e8.jpg 950w" sizes="(min-width: 1440px) 475px, (min-width: 1280px) 33vw, (min-width: 768px) 42vw, 92vw" alt="Filmstill aus der Videoinstallation Revenge, 2022, Daniel Laufer" /><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 60" class="o-media-copy__figure-link-icon-bg"><path fill="#434343" d="M25 0h53v60H0z"></path></svg><svg
+  class="a-svg-icon a-svg-icon--square-fullscreen o-media-copy__figure-link-icon"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  aria-hidden=true><use xlink:href="#square-fullscreen"></use></svg></a><figcaption class="o-media-copy__figure-caption">Filmstill aus der Videoinstallation Revenge, 2022, Daniel Laufer, 3-Kanal Videoinstallation, © Daniel Laufer
+</figcaption></figure><div class="o-media-copy__copy"><p>Fiktive Rachehandlungen erfreuen sich in der Popkultur großer Popularität. Vom Comic über den Popsong bis zum Film und zum Computerspiel: Überall wimmelt es von Figuren mit besonderen Kräften, die im Namen der Entrechteten Rache an ihren Peinigern üben. Der in Berlin lebende Künstler Daniel Laufer hat für die Ausstellung eine 3-Kanal-Videoinstallation mit popkulturellen Erzählungen von Rachehandlungen entwickelt. Seine Arbeit fragt nach der Aktualität von jüdischen Rachevorstellungen in der postnationalsozialistischen Gesellschaft.</p><p>Der letzte Raum der Ausstellung lädt dazu ein, sich selbst Gedanken zu machen. Hier haben Sie Gelegenheit, sich in Bücher und Zeitdokumente&nbsp;zu vertiefen, Comics und Filmausschnitten anzusehen oder ein Computergame zu spielen. Hier können Sie mit anderen Besucherinnen und Besuchern ins Gespräch kommen, an Workshops oder Kurator*innen-Gesprächen teilnehmen oder den Dialog zwischen Kurator und Direktorin fortsetzen, der die Ausstellung durchzieht. Hier sind Sie gefragt.</p></div></div><div class="o-media-copy t-default__copy" data-js-module="o-media-copy"><h2 class="a-headline a-headline--sub o-media-copy__headline"  data-js-anchor-navigation-reference>Gemischte Gefühle und Mixed Media: Artists in Residencies</h2><div class="o-media-copy__copy"><p>Die Ausstellung präsentiert historische Dokumente und Fotos, Werke der Bildenden Kunst, zeremonielle Gegenstände und jüdische Schriften, graphische Literatur, Film- und Videoarbeiten in einer szenischen Ausstellungsarchitektur. Vieles von dem, was hier zu sehen ist, wirft ein neues Licht auf bekannte Erzählungen oder bislang weniger bekannte Geschichten. Und weckt gemischte Gefühle. Diese waren von jeher schon ein Gegenstand der Bildenden Kunst. Wir haben daher fünf Künstler*innen eingeladen, sich im Rahmen von Residencies mit der Ausstellung, ihrem Thema und ihren Besucher*innen zu beschäftigen. Die Ergebnisse dieser Beschäftigung werden Sie vor Ort und auf dieser Website wiederfinden.</p></div></div><section class="o-highlight-teaser t-default__highlight-teaser"><div class="o-highlight-teaser__content-wrapper"><div class="o-highlight-teaser__content"><header class="m-slash-headline o-highlight-teaser__headline"><svg
+  class="a-svg-icon a-svg-icon--various-slash-big m-slash-headline__slash"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  aria-hidden=true><use xlink:href="#various-slash-big"></use></svg><h2 class="a-headline a-headline--sub o-highlight-teaser__headline m-slash-headline__headline"  data-js-anchor-navigation-reference>Ausstellungskatalog</h2></header><div class="o-highlight-teaser__copy"><p><p>Zur Ausstellung erscheint ein umfangreicher Begleitband im Hanser-Verlag mit Beiträgen nahmafter Autor*innen.&nbsp;Er wird von Max Czollek, Lyriker, Publizist und Ideengeber der Ausstellung,&nbsp;Museumsdirektorin Mirjam Wenzel und Kurator Erik Riedel herausgegeben.</p></p></div><div class="o-highlight-teaser__link-holder"><a class="a-link o-highlight-teaser__link" title="Ausstellungskatalog" href="/bildung/detail/rache-geschichte-und-fantasie1/"><svg
+  class="a-svg-icon a-svg-icon--links-default a-link__icon"
+  role="img"
+  aria-labelledby="title-links-default-576932 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-default-576932">Leseprobe und Onlineshop</title><use xlink:href="#links-default"></use></svg>
+
+
+
+                      Leseprobe und Onlineshop
+                      </a></a></div></div></div><div class="o-highlight-teaser__image-holder"><figure class="o-highlight-teaser__image-ratio"><img class="o-highlight-teaser__image lazyload" src="/fileadmin/_processed_/d/0/csm_katalogcover-rache_82c7184276.jpg" srcset="/fileadmin/_processed_/d/0/csm_katalogcover-rache_9067e8e37d.jpg 450w, /fileadmin/_processed_/d/0/csm_katalogcover-rache_2b258efb0c.jpg 660w, /fileadmin/_processed_/d/0/csm_katalogcover-rache_8c4d57aed1.jpg 900w, /fileadmin/_processed_/d/0/csm_katalogcover-rache_82c7184276.jpg 771w" sizes="(min-width: 1024px) 900px, (min-width: 768px) 65vw, (min-width: 640px) 75vw, 95vw" alt="Katalogcover &quot;Rache. Geschichte und Fantasie&quot;" /></figure></div></section><div class="o-media-copy t-default__copy" data-js-module="o-media-copy"><h2 class="a-headline a-headline--sub o-media-copy__headline"  data-js-anchor-navigation-reference>Begleitprogramm</h2><div class="o-media-copy__copy"><p>Der Podcast „Rache. Geschichte und Fantasie“ widmet sich in sieben Folgen einzelne Aspekten der Ausstellung und spielt geballtes Empowerment in den Äther, mit erlesenen Gästen wie Rabbiner Julien-Chaim Soussan, Lea Wohl von Haselberg, Arkadij Khaet und Daniel Kahn, dem Verfasser des Songs Six Million Germans. Zu finden überall wo es Podcasts gibt, u.a. auf <a href="https://soundcloud.com/user-156352819" target="_blank" class="o-media-copy__copy-external-link"><svg class="a-svg-icon a-svg-icon--links-external o-media-copy__copy-external-link-icon" aria-hidden="true" data-js-module="a-svg-icon" data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"><use xlink:href="#links-external"></use></svg>Soundcloud</a>.</p><p>Das umfangreiche Begleitprogramm zur Ausstellung umfasst Konzerte, Lesungen, Filmvorführungen, Performances, Diskussionsveranstaltungen, Workshops, Führungen und vieles mehr. Werfen Sie einen Blick in den Flyer, den wir dazu zusammengestellt haben oder in unseren <a href="/besuch/kalender/">Veranstaltungskalender</a>:</p><p>Eigens zur Ausstellung hat auch unser FLOWDELI eine neue kulinarische Linie entwickelt.</p><p>In unserem Museumsshop, der <a href="/besuch/museumsshop-literaturhandlung/">Literaturhandlung</a>, finden Sie neben dem Buch noch weitere Produkte zur Ausstellung. Schauen Sie auch hier einmal vorbei!</p></div></div><div class="o-media-copy t-default__copy" data-js-module="o-media-copy"><h2 class="a-headline a-headline--sub o-media-copy__headline"  data-js-anchor-navigation-reference>Dank</h2><div class="o-media-copy__copy"><p>Wir danken den Mitgliedern des wissenschaftlichen Beirats für Rat und Tat, namentlich</p><ul><li>Deidre Berger (Vorstandsvorsitzende der Jewish Digital Cultural Recovery Project Foundation)</li><li>Prof. Dr. Alfred Bodenheimer (Zentrum für Jüdische Studien, Universität Basel),</li><li>Prof. Dr. Doron Kiesel (Direktor der Bildungsabteilung des Zentralrats der Juden in Deutschland)</li><li>Rabbiner Julien Soussan (Orthodoxe Rabbinerkonferenz Deutschlands)</li><li>Prof. Dr. Rebekka Voß (Seminar für Judaistik, Universität Frankfurt)</li></ul><p>Unser Dank gilt allen Leihgeberinnen und Leihgebern sowie unseren großzügigen Förderern und Unterstützern:</p></div></div><section class="o-sponsors l-container__grid t-default__sponsors" data-js-module="o-sponsors"><div class="o-sponsors__intro"></div><div class="o-sponsors__logos"><div class="o-sponsors__logos-logo"><img class="o-sponsors__logos-logo-image lazyload" data-src="/fileadmin/_processed_/b/f/csm_logo-art-mentor-foundation-schwarz_eb569badc6.jpg" data-srcset="/fileadmin/_processed_/b/f/csm_logo-art-mentor-foundation-schwarz_8bc112b3a6.jpg 450w, /fileadmin/_processed_/b/f/csm_logo-art-mentor-foundation-schwarz_eb569badc6.jpg 225w" sizes="(min-width: 1440px) 330px, (min-width: 1024px) 25vw, (min-width: 768px) 30vw, (min-width: 640px) 45vw, 95vw" alt="Logo der Art Mentor Foundation" /></div><div class="o-sponsors__logos-logo"><img class="o-sponsors__logos-logo-image lazyload" data-src="/fileadmin/_processed_/3/4/csm_logo-museumsufer-schwarz_c43ed9a206.jpg" data-srcset="/fileadmin/_processed_/3/4/csm_logo-museumsufer-schwarz_b30219ae81.jpg 450w, /fileadmin/_processed_/3/4/csm_logo-museumsufer-schwarz_c43ed9a206.jpg 164w" sizes="(min-width: 1440px) 330px, (min-width: 1024px) 25vw, (min-width: 768px) 30vw, (min-width: 640px) 45vw, 95vw" alt="Logo des Frankfurter Museumsufers" /></div><div class="o-sponsors__logos-logo"><img class="o-sponsors__logos-logo-image lazyload" data-src="/fileadmin/_processed_/e/3/csm_logo-foerderverein-schwarz_64fbbb62d0.jpg" data-srcset="/fileadmin/_processed_/e/3/csm_logo-foerderverein-schwarz_3543e2a989.jpg 450w, /fileadmin/_processed_/e/3/csm_logo-foerderverein-schwarz_64fbbb62d0.jpg 225w" sizes="(min-width: 1440px) 330px, (min-width: 1024px) 25vw, (min-width: 768px) 30vw, (min-width: 640px) 45vw, 95vw" alt="Logo der Gesellschaft der Freunde und Förderer des Jüdischen Museums Frankfurt" /></div><div class="o-sponsors__logos-logo"><img class="o-sponsors__logos-logo-image lazyload" data-src="/fileadmin/_processed_/0/0/csm_logo-schleicher-stiftung_15b600367b.jpg" data-srcset="/fileadmin/_processed_/0/0/csm_logo-schleicher-stiftung_fb359962a4.jpg 450w, /fileadmin/_processed_/0/0/csm_logo-schleicher-stiftung_15b600367b.jpg 225w" sizes="(min-width: 1440px) 330px, (min-width: 1024px) 25vw, (min-width: 768px) 30vw, (min-width: 640px) 45vw, 95vw" alt="Logo der Schleicher Stiftung" /></div></div></section><section class="o-sponsors l-container__grid t-default__sponsors" data-js-module="o-sponsors"><div class="o-sponsors__intro"></div><div class="o-sponsors__logos"><div class="o-sponsors__logos-logo"><img class="o-sponsors__logos-logo-image lazyload" data-src="/fileadmin/_processed_/2/a/csm_logo-kulturstiftung-neu_29bc7201bf.jpg" data-srcset="/fileadmin/_processed_/2/a/csm_logo-kulturstiftung-neu_cb4b655ddb.jpg 450w, /fileadmin/_processed_/2/a/csm_logo-kulturstiftung-neu_29bc7201bf.jpg 225w" sizes="(min-width: 1440px) 330px, (min-width: 1024px) 25vw, (min-width: 768px) 30vw, (min-width: 640px) 45vw, 95vw" alt="" /></div></div></section><section class="o-sponsors l-container__grid t-default__sponsors" data-js-module="o-sponsors"><div class="o-sponsors__intro">Gefördert von</div><div class="o-sponsors__logos"><div class="o-sponsors__logos-logo"><img class="o-sponsors__logos-logo-image lazyload" data-src="/fileadmin/_processed_/4/3/csm_logo-bkm_5bba2761b0.jpg" data-srcset="/fileadmin/_processed_/4/3/csm_logo-bkm_bb14ab20f2.jpg 450w, /fileadmin/_processed_/4/3/csm_logo-bkm_5bba2761b0.jpg 225w" sizes="(min-width: 1440px) 330px, (min-width: 1024px) 25vw, (min-width: 768px) 30vw, (min-width: 640px) 45vw, 95vw" alt="" /></div></div></section><div data-js-module="m-footnote-container" class="m-footnote-container" aria-hidden="true" hidden><svg
+  class="a-svg-icon a-svg-icon--various-asterisc m-footnote-container__asterisc"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  aria-hidden=true><use xlink:href="#various-asterisc"></use></svg><ul class="m-footnote-container__list" data-js-element="m-footnote-container__list"></ul><script data-js-element="m-footnote-container__template" type="text/template"><li class="m-footnote-container__list-item" data-js-index="#INDEX#" id="m-footnote-container__list-item-#INDEX#"><span class="m-footnote-container__index" data-js-element="m-footnote-container__index">#INDEX# / </span><span data-js-element="m-footnote-container__copy">#COPY#</span><svg
+  class="a-svg-icon a-svg-icon--links-up m-footnote-container__arrow"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  aria-hidden=true><use xlink:href="#links-up"></use></svg></script></div></div></div><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": ["TouristAttraction", "Museum"],
+    "name": "Jüdisches Museum Frankfurt",
+    "address": "Bertha-Pappenheim-Platz 1, 60311 Frankfurt am Main",
+    "openingHours": ["Öffnungszeiten ", "
+Di–So#10.00–18.00 Uhr", "
+Donnerstags Wechselausstellung#10.00-20.00 Uhr"]
+  }
+</script><section class="o-location-info t-default__location-info o-location-info--jmffm o-location-info--minimal" data-js-module="o-location-info" data-js-google-maps-api-key="AIzaSyA2MRsqzci_4RBW691G4FmxV9UyKelccOQ"><div class="o-location-info__content l-container"><div class="l-container__wrapper"><div class="l-container__grid"><div class="o-location-info__left"><div class="m-slash-headline o-location-info__headline"><svg
+  class="a-svg-icon a-svg-icon--various-slash-big m-slash-headline__slash"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  aria-hidden=true><use xlink:href="#various-slash-big"></use></svg><h2 class="a-headline a-headline--sub m-slash-headline__headline" data-js-anchor-navigation-reference="">
+              Ausstellungsort:<br>
+              
+                Jüdisches Museum Frankfurt
+              
+            </h2></div><h3 class="o-location-info__subheadline"><svg
+  class="a-svg-icon a-svg-icon--square-clock o-location-info__clock"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  aria-hidden=true><use xlink:href="#square-clock"></use></svg>
+
+
+
+            
+                  Heute geöffnet: 10:00 – 18:00
+              
+          </h3><ul class="m-key-value-list m-key-value-list--bright"><li class="m-key-value-list__item"><div class="m-key-value-list__key"><span class="m-key-value-list__key-bg">Museumsticket (Dauerausstellung Jüdisches Museum+Museum Judengasse) regulär/ermäßigt</span></div><div class="m-key-value-list__value"><span class="m-key-value-list__value-bg">12€ / 6€</span></div></li><li class="m-key-value-list__item"><div class="m-key-value-list__key"><span class="m-key-value-list__key-bg">
+Kombiticket (Wechselausstellung + Museumsticket) regulär/ermäßigt</span></div><div class="m-key-value-list__value"><span class="m-key-value-list__value-bg">14€ / 7€</span></div></li><li class="m-key-value-list__item"><div class="m-key-value-list__key"><span class="m-key-value-list__key-bg">
+Wechselausstellung regulär/ermäßigt</span></div><div class="m-key-value-list__value"><span class="m-key-value-list__value-bg">10€ / 5 €</span></div></li><li class="m-key-value-list__item"><div class="m-key-value-list__key"><span class="m-key-value-list__key-bg">
+Familienkarte</span></div><div class="m-key-value-list__value"><span class="m-key-value-list__value-bg">20€</span></div></li><li class="m-key-value-list__item"><div class="m-key-value-list__key"><span class="m-key-value-list__key-bg">
+Frankfurt Pass/Kulturpass</span></div><div class="m-key-value-list__value"><span class="m-key-value-list__value-bg">1€</span></div></li><li class="m-key-value-list__item"><div class="m-key-value-list__key"><span class="m-key-value-list__key-bg">
+Am letzten Samstag des Monats</span></div><div class="m-key-value-list__value"><span class="m-key-value-list__value-bg">Frei</span></div></li><li><p class="o-location-info__copy">
+(ausgenommen Teilnehmer gebuchter Führungen)</p></li><li class="m-key-value-list__item"><div class="m-key-value-list__key"><span class="m-key-value-list__key-bg">
+Eintritt nur Gebäude (Life Deli/Museumshop/Bibliothek)</span></div><div class="m-key-value-list__value"><span class="m-key-value-list__value-bg">Frei</span></div></li><li><p class="o-location-info__copy">
+&nbsp;</p></li><li><p class="o-location-info__copy">
+Freien Eintritt in die Ausstellungen genießen:</p></li><li><p class="o-location-info__copy">
+Mitglieder des Fördervereins</p></li><li><p class="o-location-info__copy">
+Geburtstagskinder jeden Alters</p></li><li><p class="o-location-info__copy">
+Kinder und Jugendliche bis 18 Jahre</p></li><li><p class="o-location-info__copy">
+Studenten der Goethe-Uni / FH / HfMDK</p></li><li><p class="o-location-info__copy">
+Auszubildende aus Frankfurt</p></li><li><p class="o-location-info__copy">
+Geflüchtete</p></li><li><p class="o-location-info__copy">
+Inhaber von Museumsufer-Card oder Museumsufer-Ticket</p></li><li><p class="o-location-info__copy">
+Inhaber der hessischen Ehrenamts-Card</p></li><li><p class="o-location-info__copy">
+Mitglieder von ICOM oder Museumsbund</p></li><li><p class="o-location-info__copy">
+&nbsp;</p></li><li><p class="o-location-info__copy">
+Ermäßigung genießen:</p></li><li><p class="o-location-info__copy">
+Studenten / Auszubildende (ab 18 Jahren)</p></li><li><p class="o-location-info__copy">
+Menschen mit Behinderung ab 50 % GdB (1 Begleitperson frei)</p></li><li><p class="o-location-info__copy">
+Freiwilligendienstleistende (Freiwilliges Soziales Jahr, Freiwilliges Ökologisches Jahr, Bundesfreiwilligendienst oder Internationaler Jugendfreiwilligendienst)</p></li><li><p class="o-location-info__copy">
+Arbeitslose</p></li><li><p class="o-location-info__copy">
+Inhaber der Frankfurt Card</p></li></ul><a href="/besuch/juedisches-museum-frankfurt/" class="a-link o-location-info__location-info-link"><svg
+  class="a-svg-icon a-svg-icon--links-default a-link__icon"
+  role="img"
+  aria-labelledby="title-links-default-905334 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-default-905334">Link zum Standort</title><use xlink:href="#links-default"></use></svg>
+
+
+
+              Link zum Standort
+            </a></div><div class="o-location-info__right"><div class="o-location-info__map-wrapper"><div class="o-location-info__map" data-js-element="o-location-info__map" data-js-lat="50.107180" data-js-lng="8.674568" data-js-location="jmffm" role="presentation" aria-hidden="true"></div></div><div class="o-location-info__right-inner"><p class="o-location-info__copy">
+              
+              Bertha-Pappenheim-Platz 1, 60311 Frankfurt am Main<br /></p><a href="https://www.google.de/maps/place/Jewish+Museum+Frankfurt+(reopening+2019)/@50.1071767,8.6722167,17z/data=!3m1!4b1!4m5!3m4!1s0x47bd0ea9e0fa7c59:0x862b062b0c03b390!8m2!3d50.1071733!4d8.6744054" class="a-link o-location-info__route-link" target="_blank"><svg
+  class="a-svg-icon a-svg-icon--links-external a-link__icon"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  aria-hidden=true><use xlink:href="#links-external"></use></svg>
+
+
+
+              
+              Routenplaner
+          </a></div></div></div></div></div></section><!--TYPO3SEARCH_end--></main><footer><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@graph":
+    [
+      {
+        "@type": ["TouristAttraction", "Museum"],
+        "name": "Jüdisches Museum Frankfurt",
+        "address": "Bertha-Pappenheim-Platz 1, 60311 Frankfurt am Main",
+        "openingHours": ["Öffnungszeiten ", "
+Di–So#10.00–18.00 Uhr", "
+Donnerstags Wechselausstellung#10.00-20.00 Uhr"]
+      },
+      {
+        "@type": ["TouristAttraction", "Museum"],
+        "name": "Museum Judengasse Frankfurt",
+        "address": "Battonnstraße 47, 60311 Frankfurt am Main",
+        "openingHours": ["Di–So#10.00–18.00 Uhr"]
+      }
+    ]
+  }
+</script><section class="o-locations-map t-default__locations-map" data-js-module="o-locations-map" data-js-google-maps-api-key="AIzaSyA2MRsqzci_4RBW691G4FmxV9UyKelccOQ"><div class="o-locations-map__content l-container"><div class="l-container__wrapper"><div class="l-container__grid"><div class="o-locations-map__location"><a class="o-locations-map__location-link" href="/besuch/juedisches-museum-frankfurt/"><svg
+  class="a-svg-icon a-svg-icon--various-logo-jmffm o-locations-map__location-logo o-locations-map__location-logo--jmffm"
+  role="img"
+  aria-labelledby="title-various-logo-jmffm-111743 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  ><title id="title-various-logo-jmffm-111743">Museum Judengasse</title><use xlink:href="#various-logo-jmffm"></use></svg></a><div class="o-locations-map__location-address">
+            Bertha-Pappenheim-Platz 1, <br />60311 Frankfurt am Main<br />Tel: + 49 (0) 69-212-35000
+          </div></div><div class="o-locations-map__location"><a class="o-locations-map__location-link" href="/besuch/museum-judengasse/"><svg
+  class="a-svg-icon a-svg-icon--various-logo-mjf o-locations-map__location-logo o-locations-map__location-logo--mjf"
+  role="img"
+  aria-labelledby="title-various-logo-mjf-537569 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  ><title id="title-various-logo-mjf-537569">Jüdisches Museum Frankfurt</title><use xlink:href="#various-logo-mjf"></use></svg></a><div class="o-locations-map__location-address">
+            Battonnstraße 47, <br />60311 Frankfurt am Main<br />Tel: + 49 (0) 69-212-70790
+          </div></div><div class="o-locations-map__right"><div class="o-locations-map__map-wrapper"><div class="o-locations-map__map" data-js-element="o-locations-map__map" data-js-jmffm-lat="50.107180" data-js-jmffm-lng="8.674568" data-js-mjf-lat="50.112322" data-js-mjf-lng="8.689140" role="presentation" aria-hidden="true"></div></div></div></div><div class="o-locations-map__more"><button class="o-locations-map__more-button" data-js-element="o-locations-map__more-button" aria-controls="o-locations-map__more-content" aria-expanded="false" tabindex="0" id="o-locations-map__more-button-197842">
+          Andere Orte
+          
+
+
+<svg
+  class="a-svg-icon a-svg-icon--links-mini-down o-locations-map__more-button-icon"
+  role="img"
+  aria-labelledby="title-links-mini-down-938198 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  aria-hidden=true><title id="title-links-mini-down-938198">Andere Orte</title><use xlink:href="#links-mini-down"></use></svg></button><div class="o-locations-map__more-content l-container__grid"  data-js-element="o-locations-map__more-content" id="o-locations-map__more-content" role="region" aria-hidden="true" aria-labelledby="o-locations-map__more-button-197842"><a href="/besuch/hochbunker-friedberger-anlage/" class="a-link o-locations-map__more-content-link"><svg
+  class="a-svg-icon a-svg-icon--links-default a-link__icon"
+  role="img"
+  aria-labelledby="title-links-default-696098 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-default-696098">Hochbunker an der Friedberger Anlage</title><use xlink:href="#links-default"></use></svg>
+
+
+Hochbunker an der Friedberger Anlage</a><a href="/besuch/grossmarkthalle-frankfurt/" class="a-link o-locations-map__more-content-link"><svg
+  class="a-svg-icon a-svg-icon--links-default a-link__icon"
+  role="img"
+  aria-labelledby="title-links-default-171143 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-default-171143">Erinnerungsstätte Großmarkthalle</title><use xlink:href="#links-default"></use></svg>
+
+
+Erinnerungsstätte Großmarkthalle</a><a href="/besuch/gedenkstaette-boerneplatz-frankfurt/" class="a-link o-locations-map__more-content-link"><svg
+  class="a-svg-icon a-svg-icon--links-default a-link__icon"
+  role="img"
+  aria-labelledby="title-links-default-213199 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-default-213199">Gedenkstätte Börneplatz</title><use xlink:href="#links-default"></use></svg>
+
+
+Gedenkstätte Börneplatz</a><a href="/besuch/alter-juedischer-friedhof-battonnstrasse/" class="a-link o-locations-map__more-content-link"><svg
+  class="a-svg-icon a-svg-icon--links-default a-link__icon"
+  role="img"
+  aria-labelledby="title-links-default-942607 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-default-942607">Alter Jüdischer Friedhof Battonnstraße</title><use xlink:href="#links-default"></use></svg>
+
+
+Alter Jüdischer Friedhof Battonnstraße</a><a href="/besuch/bibliothek/" class="a-link o-locations-map__more-content-link"><svg
+  class="a-svg-icon a-svg-icon--links-default a-link__icon"
+  role="img"
+  aria-labelledby="title-links-default-737317 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-default-737317">Bibliothek im Jüdischen Museum</title><use xlink:href="#links-default"></use></svg>
+
+
+Bibliothek im Jüdischen Museum</a><a href="/besuch/life-deli/" class="a-link o-locations-map__more-content-link"><svg
+  class="a-svg-icon a-svg-icon--links-default a-link__icon"
+  role="img"
+  aria-labelledby="title-links-default-971157 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-default-971157">Life Deli</title><use xlink:href="#links-default"></use></svg>
+
+
+Life Deli</a></div></div></div></div></section><form class="o-connect t-default__connect" action="https://seu2.cleverreach.com/f/131877-175336/wcs/" name="newsletteranmeldung" method="post" target="_blank"><div class="l-container"><div class="l-container__wrapper o-connect__form-wrapper"><div class="o-connect__form"><div class="o-connect__form-text">In unserem monatlichen Newsletter informieren wir Sie über aktuelle Veranstaltungen, Ausstellungen und Neuigkeiten.</div><div class="o-connect__form-input"><input class="o-connect__form-input-text" type="text" id="text3689638" name="email" value="" type="text" placeholder="E-Mail" aria-label="E-Mail" title="E-Mail"><button id="3689642" type="button" onclick="document.forms.namedItem('newsletteranmeldung').submit();document.forms.namedItem('newsletteranmeldung').reset();return false;" class="o-connect__form-input-submit" rel="button"><svg
+  class="a-svg-icon a-svg-icon--links-default o-connect__form-input-submit-icon"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><use xlink:href="#links-default"></use></svg><span class="o-connect__form-input-submit-text">Anmelden</span></button></div></div><a class="a-link o-connect__link" href="/newsletter-archiv/"><svg
+  class="a-svg-icon a-svg-icon--links-default a-link__icon"
+  role="img"
+  aria-labelledby="title-links-default-723576 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-default-723576">Newsletterarchiv</title><use xlink:href="#links-default"></use></svg>
+
+
+
+          Newsletterarchiv
+      </a><div class="o-connect__social-media"><div class="o-connect__social-media-text">
+          Folgen Sie uns auf:
+        </div><a href="https://www.instagram.com/juedischesmuseumffm/" target="_blank" rel="noopener" class="o-connect__social-media-icon" aria-label="Pinterest"><svg
+  class="a-svg-icon a-svg-icon--social-media-pinterest o-connect__link-icon"
+  role="img"
+  aria-labelledby="title-social-media-pinterest-885524 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/social-media.svg"
+  ><title id="title-social-media-pinterest-885524">Instagram</title><use xlink:href="#social-media-pinterest"></use></svg></a><a href="https://bsky.app/profile/jmfrankfurt.bsky.social" target="_blank" rel="noopener" class="o-connect__social-media-icon" aria-label="Bluesky"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="a-svg-icon a-svg-icon--social-media-twitter o-connect__link-icon"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M407.8 294.7c-3.3-.4-6.7-.8-10-1.3c3.4 .4 6.7 .9 10 1.3zM288 227.1C261.9 176.4 190.9 81.9 124.9 35.3C61.6-9.4 37.5-1.7 21.6 5.5C3.3 13.8 0 41.9 0 58.4S9.1 194 15 213.9c19.5 65.7 89.1 87.9 153.2 80.7c3.3-.5 6.6-.9 10-1.4c-3.3 .5-6.6 1-10 1.4C74.3 308.6-9.1 342.8 100.3 464.5C220.6 589.1 265.1 437.8 288 361.1c22.9 76.7 49.2 222.5 185.6 103.4c102.4-103.4 28.1-156-65.8-169.9c-3.3-.4-6.7-.8-10-1.3c3.4 .4 6.7 .9 10 1.3c64.1 7.1 133.6-15.1 153.2-80.7C566.9 194 576 75 576 58.4s-3.3-44.7-21.6-52.9c-15.8-7.1-40-14.9-103.2 29.8C385.1 81.9 314.1 176.4 288 227.1z"/></svg></a><a href="http://www.facebook.com/pages/J%C3%BCdisches-Museum-Frankfurt/201259986559446?ref=tn_tnmn" target="_blank" rel="noopener" class="o-connect__social-media-icon" aria-label="facebook"><svg
+  class="a-svg-icon a-svg-icon--social-media-facebook o-connect__link-icon"
+  role="img"
+  aria-labelledby="title-social-media-facebook-500778 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/social-media.svg"
+  ><title id="title-social-media-facebook-500778">facebook</title><use xlink:href="#social-media-facebook"></use></svg></a><a href="https://www.youtube.com/channel/UCLs02UuJNRdwi1Yb2lKXqww" target="_blank" rel="noopener" class="o-connect__social-media-icon" aria-label="YouTube"><svg
+  class="a-svg-icon a-svg-icon--social-media-youtube o-connect__link-icon"
+  role="img"
+  aria-labelledby="title-social-media-youtube-90651 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/social-media.svg"
+  ><title id="title-social-media-youtube-90651">YouTube</title><use xlink:href="#social-media-youtube"></use></svg></a></div></div></div></form><section class="o-footer l-container t-default__footer"><div class="l-container__wrapper"><nav class="o-footer__nav"><ul class="o-footer__nav-wrapper"><li class="o-footer__nav-group"><span class="o-footer__nav-group-headline">Besuch</span><ul class="o-footer__nav-group-link-wrapper"><li><a href="/besuch/ausstellungen/" title="Ausstellungen" class="o-footer__nav-link">/&nbsp;Ausstellungen</a></li><li><a href="/besuch/ausstellungen/ausstellungsarchiv/" title="Ausstellungsarchiv" class="o-footer__nav-link">/&nbsp;Ausstellungsarchiv</a></li><li><a href="/besuch/kalender/" title="Kalender" class="o-footer__nav-link">/&nbsp;Kalender</a></li><li><a href="/besuch/fuehrungsangebote/" title="Angebote und Führungen" class="o-footer__nav-link">/&nbsp;Angebote und Führungen</a></li><li><a href="/besuch/bibliothek/" title="Bibliothek" class="o-footer__nav-link">/&nbsp;Bibliothek</a></li><li><a href="/nc/besuch/museum-to-go/" title="Museum To Go" class="o-footer__nav-link">/&nbsp;Museum To Go</a></li><li><a href="/besuch/museumsshop-literaturhandlung/" title="Literaturhandlung" class="o-footer__nav-link">/&nbsp;Literaturhandlung</a></li><li><a href="/besuch/life-deli/" title="Life Deli" class="o-footer__nav-link">/&nbsp;Life Deli</a></li></ul></li><li class="o-footer__nav-group"><span class="o-footer__nav-group-headline">Museum</span><ul class="o-footer__nav-group-link-wrapper"><li><a href="/museum/ansprechpartner/" title="Team &amp; Ansprechpartner:innen" class="o-footer__nav-link">/&nbsp;Team & Ansprechpartner:innen</a></li><li><a href="/museum/freunde-und-foerderer-jmf/" title="Freunde &amp; Förderer" class="o-footer__nav-link">/&nbsp;Freunde & Förderer</a></li><li><a href="/museum/museumsgeschichte/" title="Geschichte des Museums" class="o-footer__nav-link">/&nbsp;Geschichte des Museums</a></li><li><a href="/museum/stellen-und-praktika/" title="Stellen &amp; Praktika" class="o-footer__nav-link">/&nbsp;Stellen & Praktika</a></li><li><a href="/museum/kooperationen/" title="Kooperationen" class="o-footer__nav-link">/&nbsp;Kooperationen</a></li><li><a href="/museum/vermietung-events/" title="Vermietung &amp; Events" class="o-footer__nav-link">/&nbsp;Vermietung & Events</a></li></ul></li><li class="o-footer__nav-group"><span class="o-footer__nav-group-headline">Bildung</span><ul class="o-footer__nav-group-link-wrapper"><li><a href="/bildung/" title="Lernangebote" class="o-footer__nav-link">/&nbsp;Lernangebote</a></li><li><a href="/bildung/digitales-museum/" title="Digitales Museum" class="o-footer__nav-link">/&nbsp;Digitales Museum</a></li><li><a href="/blog/" title="Blog" class="o-footer__nav-link">/&nbsp;Blog</a></li><li><a href="/bildung/publikationsverzeichnis/" title="Publikationen" class="o-footer__nav-link">/&nbsp;Publikationen</a></li><li><a href="https://metahubfrankfurt.de/" title="METAhub" class="o-footer__nav-link">/&nbsp;METAhub</a></li></ul></li><li class="o-footer__nav-group"><span class="o-footer__nav-group-headline">Sammlung</span><ul class="o-footer__nav-group-link-wrapper"><li><a href="/digitale-sammlung/" title="Digitale Sammlung" class="o-footer__nav-link">/&nbsp;Digitale Sammlung</a></li><li><a href="/sammlung/familie-frank-zentrum/" title="Familie Frank Zentrum" class="o-footer__nav-link">/&nbsp;Familie Frank Zentrum</a></li><li><a href="/sammlung/bildende-kunst/" title="Bildende Kunst" class="o-footer__nav-link">/&nbsp;Bildende Kunst</a></li><li><a href="/sammlung/judaica/" title="Judaica" class="o-footer__nav-link">/&nbsp;Judaica</a></li><li><a href="/sammlung/juedische-kulturen-der-gegenwart/" title="Jüdische Gegenwartskulturen" class="o-footer__nav-link">/&nbsp;Jüdische Gegenwartskulturen</a></li><li><a href="/sammlung/alltagsgegenstaende/" title="Alltagsgegenstände" class="o-footer__nav-link">/&nbsp;Alltagsgegenstände</a></li><li><a href="/sammlung/dokumente-fotografien/" title="Dokumente und Fotografien" class="o-footer__nav-link">/&nbsp;Dokumente und Fotografien</a></li><li><a href="/sammlung/handschriften-drucke/" title="Handschriften und Drucke" class="o-footer__nav-link">/&nbsp;Handschriften und Drucke</a></li></ul></li></ul></nav><nav class="o-footer__subnav"><div class="o-footer__subnav-logo-wrapper o-footer--hide-on-smartphone"><div class="o-footer__logo"><svg
+  class="a-svg-icon a-svg-icon--various-logo-kulturamt-frankfurt o-footer__logo-image"
+  role="img"
+  aria-labelledby="title-various-logo-kulturamt-frankfurt-135105 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  ><title id="title-various-logo-kulturamt-frankfurt-135105">Kulturamt Stadt Frankfurt am Main</title><use xlink:href="#various-logo-kulturamt-frankfurt"></use></svg></div><div class="o-footer__logo"><img src="/typo3conf/ext/website/Resources/Public/images/logos/MU_Frankfurt_Weiss_70.svg" title="Museums Ufer Frankfurt" alt="Museums Ufer Frankfurt"></div></div><div class="o-footer__subnav-legal-nav"><a href="/presse/" title="Presse" class="o-footer__nav-link">Presse</a><a href="/leichte-sprache/" title="Leichte Sprache" class="o-footer__nav-link">Leichte Sprache</a><a href="/newsletteranmeldung/" title="Newsletter" class="o-footer__nav-link">Newsletter</a><a href="/kontakt/" title="Kontakt" class="o-footer__nav-link">Kontakt</a><a href="/impressum/" title="Impressum" class="o-footer__nav-link">Impressum</a><a href="/datenschutz/" title="Datenschutz" class="o-footer__nav-link">Datenschutz</a><a href="https://juedischesmuseum.ticketfritz.de/Home/Index" title="Onlineshop" class="o-footer__nav-link">Onlineshop</a></div></nav><div class="o-footer__copyright"><div class="o-footer__logo o-footer--show-on-smartphone"><svg
+  class="a-svg-icon a-svg-icon--various-logo-kulturamt-frankfurt o-footer__logo-image"
+  role="img"
+  aria-labelledby="title-various-logo-kulturamt-frankfurt-383536 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  ><title id="title-various-logo-kulturamt-frankfurt-383536">Kulturamt Stadt Frankfurt am Main</title><use xlink:href="#various-logo-kulturamt-frankfurt"></use></svg></div><div class="o-footer__copyright__text">
+          Das Jüdische Museum Frankfurt ist eine Einrichtung der Stadt Frankfurt am Main.
+        </div><div class="o-footer__logo o-footer--show-on-smartphone"><img src="/typo3conf/ext/website/Resources/Public/images/logos/MU_Frankfurt_Weiss_70.svg" title="Museums Ufer Frankfurt" alt="Museums Ufer Frankfurt"></div><div class="o-footer__copyright__date">
+          CC-BY-SA 3.0 Jüdisches Museum Frankfurt
+        </div></div></div></section></footer></div>
+
+
+
+	<div class="tx-om-cookie-consent">
+		
+    <div class="om-cookie-panel" data-omcookie-panel="1">
+     <div class="col-sm-12 whiteBG">
+     <div class="innerContainer">
+      <h3 class="a-headline--sub">Cookie Einstellungen</h3>
+       <div class="col-sm-8 left">
+         <div class="cookie-panel__selection">
+           <form>
+             
+               <div class="cookie-panel__checkbox-wrap">
+                 <input class="cookie-panel__checkbox cookie-panel__checkbox--state-inactiv" autocomplete="off" data-omcookie-panel-grp="1" id="group-1" type="checkbox" checked=1 data-omcookie-panel-essential="1" disabled="disabled" value="group-1" />
+                 <label for="group-1">Essenzielle Cookies</label>
+               </div>
+             
+               <div class="cookie-panel__checkbox-wrap">
+                 <input class="cookie-panel__checkbox " autocomplete="off" data-omcookie-panel-grp="1" id="group-2" type="checkbox"  value="group-2" />
+                 <label for="group-2">Google AdWords und Conversion-Tracking</label>
+               </div>
+             
+           </form>
+         </div>
+         <div class="cookie-panel__description">
+           <p>Auf unserer Webseite werden Cookies verwendet. Einige davon werden zwingend benötigt, während es uns andere ermöglichen, Ihre Nutzererfahrung auf unserer Webseite zu verbessern.&nbsp;Wir bitten hiermit um Erlaubnis, die oben genannten optionalen Cookies zu Ihrem Nutzerverhalten verwenden zu dürfen. Diese Einwilligung ist freiwillig, nicht für die Nutzung der Website erforderlich und kann jederzeit widerrufen werden. Sie finden die Einstellungen in der Datenschutzerklärung.</p>
+           
+             <div class="o-media-copy__copy cookie-panel__link"><p><a href="/datenschutz/">Mehr über die genutzten Cookies erfahren</a></p></div>
+           
+         </div>
+       </div>
+      
+      <div class="col-sm-4 right"> 
+       <div class="cookie-panel__control">
+         
+         <button class="m-cookie-layer__button has-hoverable-children cookie-new blue" data-js-element="m-cookie-layer__button" data-omcookie-panel-save="all">
+           <p class="a-link a-link--white m-cookie-layer__button-link">
+             <svg class="a-svg-icon a-svg-icon--links-default a-link__icon" data-js-module="a-svg-icon" data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg" aria-hidden="true">
+               <use xlink:href="#links-default"></use></svg>
+             Alle akzeptieren
+           </p>       
+         </button>
+         
+         
+           <button class="m-cookie-layer__button has-hoverable-children cookie-new" data-js-element="m-cookie-layer__button" data-omcookie-panel-save="min">
+             <p class="a-link a-link--white m-cookie-layer__button-link">
+               <svg class="a-svg-icon a-svg-icon--links-default a-link__icon" data-js-module="a-svg-icon" data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg" aria-hidden="true">
+                 <use xlink:href="#links-default"></use></svg>
+               Nur essentielle Cookies akzeptieren
+             </p>       
+           </button>
+         
+         <button class="m-cookie-layer__button has-hoverable-children cookie-new" data-js-element="m-cookie-layer__button" data-omcookie-panel-save="save">
+           <p class="a-link a-link--white m-cookie-layer__button-link">
+             <svg class="a-svg-icon a-svg-icon--links-default a-link__icon" data-js-module="a-svg-icon" data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg" aria-hidden="true">
+               <use xlink:href="#links-default"></use></svg>
+             Speichern und schließen
+           </p>       
+         </button>
+         
+       </div>
+      </div>
+          </div> 
+     </div> 
+    </div>
+  
+	</div>
+
+<script src="/typo3temp/assets/compressed/merged-5abd48497a8dda2133136096b677d844.js" type="text/javascript"></script>
+
+
+</body>
+</html>

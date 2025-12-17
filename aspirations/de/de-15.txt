@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="de" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Fantasie – Yogawiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgRequestId":"656563072aa7a7f5d67de564","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fantasie","wgTitle":"Fantasie","wgCurRevisionId":1217211,"wgRevisionId":1217211,"wgArticleId":20778,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Seiten mit RSS-Feeds","Tugend","Persönlichkeitsmerkmal","Tugendgruppe 9 Individualität, Originalität, Selbstbewusstsein, Authentizität, Mut, Offenheit","Ayurveda Temperament Vata","DISG Grundtyp I - Initiativ","Big 5 Persönlichkeitsmerkmal O1 Offenheit hoch"],"wgPageContentLanguage":"de","wgPageContentModel":
+"wikitext","wgRelevantPageName":"Fantasie","wgRelevantArticleId":20778,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"ev-youtube-config":{"class":"embedvideo-player","loading":"lazy","frameborder":0,"allow":"accelerometer; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; autoplay","modestbranding":1,"allowfullscreen":"true","width":640,"height":360}};RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.embedVideo.styles":"ready","skins.timeless":"ready"};RLPAGEMODULES=["ext.embedVideo.consent","site","mediawiki.page.ready","mediawiki.toc","skins.timeless.js","ext.embedVideo.overlay"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/load.php?lang=de&amp;modules=ext.embedVideo.styles%7Cskins.timeless&amp;only=styles&amp;skin=timeless"/>
+<script async="" src="/load.php?lang=de&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=timeless"></script>
+<!--[if IE]><link rel="stylesheet" href="/skins/Timeless/resources/IE9fixes.css?ffe73" media="screen"/><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=de&amp;modules=site.styles&amp;only=styles&amp;skin=timeless"/>
+<meta name="generator" content="MediaWiki 1.39.6"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0"/>
+<link rel="icon" href="/images/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Yogawiki (de)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.yoga-vidya.de/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="Atom-Feed für „Yogawiki“" href="/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom"/>
+<!-- Plausible -->
+<script defer data-domain="wiki.yoga-vidya.de" src="https://plausible.io/js/script.js"></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Fantasie rootpage-Fantasie skin-timeless action-view skin--responsive"><div id="mw-wrapper"><div id="mw-header-container" class="ts-container"><div id="mw-header" class="ts-inner"><div id="user-tools"><div id="personal"><h2><span>Anonym</span></h2><div id="personal-inner" class="dropdown"><div role="navigation" class="mw-portlet" id="p-personal" title="Benutzermenü" aria-labelledby="p-personal-label"><h3 id="p-personal-label" lang="de" dir="ltr">Nicht angemeldet</h3><div class="mw-portlet-body"><ul lang="de" dir="ltr"><li id="pt-login" class="mw-list-item"><a href="/index.php?title=Spezial:Anmelden&amp;returnto=Fantasie" title="Sich anzumelden wird gerne gesehen, ist jedoch nicht zwingend erforderlich. [o]" accesskey="o"><span>Anmelden</span></a></li></ul></div></div></div></div></div><div id="p-logo-text" class="mw-portlet" role="banner"><a id="p-banner" class="mw-wiki-title" href="/Hauptseite">Yogawiki</a></div><div class="mw-portlet" id="p-search"><h3 lang="de" dir="ltr"><label for="searchInput">Suche</label></h3><form action="/index.php" id="searchform"><div id="simpleSearch"><div id="searchInput-container"><input type="search" name="search" placeholder="Yogawiki durchsuchen" aria-label="Yogawiki durchsuchen" autocapitalize="sentences" title="Yogawiki durchsuchen [f]" accesskey="f" id="searchInput"/></div><input type="hidden" value="Spezial:Suche" name="title"/><input class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Suche nach Seiten, die diesen Text enthalten" id="mw-searchButton" value="Suchen"/><input class="searchButton" type="submit" name="go" title="Gehe direkt zu der Seite mit genau diesem Namen, falls sie vorhanden ist." id="searchButton" value="Seite"/></div></form></div></div><div class="visualClear"></div></div><div id="mw-header-hack" class="color-bar"><div class="color-middle-container"><div class="color-middle"></div></div><div class="color-left"></div><div class="color-right"></div></div><div id="mw-header-nav-hack"><div class="color-bar"><div class="color-middle-container"><div class="color-middle"></div></div><div class="color-left"></div><div class="color-right"></div></div></div><div id="menus-cover"></div><div id="mw-content-container" class="ts-container"><div id="mw-content-block" class="ts-inner"><div id="mw-content-wrapper"><div id="mw-content"><div id="content" class="mw-body" role="main"><div class="mw-indicators">
+</div>
+<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Fantasie</span></h1><div id="bodyContentOuter"><div id="siteSub">Aus Yogawiki</div><div id="mw-page-header-links"><div role="navigation" class="mw-portlet tools-inline" id="p-namespaces" aria-labelledby="p-namespaces-label"><h3 id="p-namespaces-label" lang="de" dir="ltr">Namensräume</h3><div class="mw-portlet-body"><ul lang="de" dir="ltr"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/Fantasie" title="Seiteninhalt anzeigen [c]" accesskey="c"><span>Seite</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/index.php?title=Diskussion:Fantasie&amp;action=edit&amp;redlink=1" rel="discussion" title="Diskussion zum Seiteninhalt (Seite nicht vorhanden) [t]" accesskey="t"><span>Diskussion</span></a></li></ul></div></div><div role="navigation" class="mw-portlet tools-inline" id="p-more" aria-labelledby="p-more-label"><h3 id="p-more-label" lang="de" dir="ltr">Mehr</h3><div class="mw-portlet-body"><ul lang="de" dir="ltr"><li id="ca-more" class="dropdown-toggle mw-list-item"><span>Mehr</span></li></ul></div></div><div role="navigation" class="mw-portlet tools-inline" id="p-views" aria-labelledby="p-views-label"><h3 id="p-views-label" lang="de" dir="ltr">Seitenaktionen</h3><div class="mw-portlet-body"><ul lang="de" dir="ltr"><li id="ca-view" class="selected mw-list-item"><a href="/Fantasie"><span>Lesen</span></a></li><li id="ca-viewsource" class="mw-list-item"><a href="/index.php?title=Fantasie&amp;action=edit" title="Diese Seite ist geschützt. Ihr Quelltext kann dennoch angesehen und kopiert werden. [e]" accesskey="e"><span>Quelltext anzeigen</span></a></li><li id="ca-history" class="mw-list-item"><a href="/index.php?title=Fantasie&amp;action=history" title="Frühere Versionen dieser Seite [h]" accesskey="h"><span>Versionsgeschichte</span></a></li></ul></div></div></div><div class="visualClear"></div><div id="bodyContent"><div id="contentSub"></div><div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="de" dir="ltr"><div class="mw-parser-output"><p><b>Fantasie</b> ist eine andere, eine modernere Schreibweise für <a href="/Phantasie" title="Phantasie">Phantasie</a>. Fantasie ist die <a href="/F%C3%A4higkeit" title="Fähigkeit">Fähigkeit</a>, sich etwas vorzustellen, auszudenken, zu visualisieren. Man kann eine blühende Fantasie haben, also den <a href="/Wirklichkeitsbezug" title="Wirklichkeitsbezug">Wirklichkeitsbezug</a> verlieren. Man kann schmutzige Fantasie haben – was sich normalerweise auf <a href="/Sexualit%C3%A4t" title="Sexualität">Sexualität</a> bezieht.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/Datei:Malerei_Zeichnen_Kunst_Kreativit%C3%A4t.jpg" class="image"><img alt="Malerei Zeichnen Kunst Kreativität.jpg" src="/images/thumb/1/1a/Malerei_Zeichnen_Kunst_Kreativit%C3%A4t.jpg/250px-Malerei_Zeichnen_Kunst_Kreativit%C3%A4t.jpg" decoding="async" width="250" height="166" class="thumbimage" srcset="/images/thumb/1/1a/Malerei_Zeichnen_Kunst_Kreativit%C3%A4t.jpg/375px-Malerei_Zeichnen_Kunst_Kreativit%C3%A4t.jpg 1.5x, /images/thumb/1/1a/Malerei_Zeichnen_Kunst_Kreativit%C3%A4t.jpg/500px-Malerei_Zeichnen_Kunst_Kreativit%C3%A4t.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/Datei:Malerei_Zeichnen_Kunst_Kreativit%C3%A4t.jpg" class="internal" title="vergrößern"></a></div></div></div></div>
+<p>Fantasie ist ein wichtiger Aspekt der <a href="/Kreativit%C3%A4t" title="Kreativität">Kreativität</a>. Im <a href="/Yoga" title="Yoga">Yoga</a> gibt es <a href="/Fantasiereise" class="mw-redirect" title="Fantasiereise">Fantasiereise</a> als eine <a href="/Form" title="Form">Form</a> der <a href="/Tiefenentspannung" title="Tiefenentspannung">Tiefenentspannung</a>. Eine philosophisch-mythologische <a href="/Tradition" title="Tradition">Tradition</a> im <a href="/Hinduismus" title="Hinduismus">Hinduismus</a> deutet die ganze <a href="/Welt" title="Welt">Welt</a> als Phantasie <a href="/Brahma" title="Brahma">Brahmas</a>, als <a href="/index.php?title=Gedankensch%C3%B6pfung&amp;action=edit&amp;redlink=1" class="new" title="Gedankenschöpfung (Seite nicht vorhanden)">Gedankenschöpfung</a> des <a href="/Sch%C3%B6pfergott" title="Schöpfergott">Schöpfergottes</a>. <a href="/Gott" title="Gott">Gott</a> schuf den <a href="/Mensch" title="Mensch">Menschen</a> nach seinem Bilde – was auch heißt, dass auch der <a href="/Mensch" title="Mensch">Mensch</a> schöpferische <a href="/Phantasie" title="Phantasie">Phantasie</a> hat. Mehr zum Begriff Fantasie findest du unter dem Hauptstichwort <b><a href="/Phantasie" title="Phantasie">Phantasie</a></b>.
+</p><p>Fantasie - eine <a href="/Tugend" title="Tugend">Tugend</a>. Was versteht man unter Fantasie? Was will man mit diesem Wort sagen? Wozu ist Fantasie gut? Welche anderen Substantive, welche Adjektive und Verben stehen im Zusammenhang mit dem Wort Fantasie? 
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="de" dir="ltr"><h2 id="mw-toc-heading">Inhaltsverzeichnis</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Fantasie_bei_der_Massage"><span class="tocnumber">1</span> <span class="toctext">Fantasie bei der Massage</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Fantasie_-_Antonyme_und_Synonyme"><span class="tocnumber">2</span> <span class="toctext">Fantasie - Antonyme und Synonyme</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Ähnliche_Eigenschaften_wie_Fantasie_-_Synonyme"><span class="tocnumber">2.1</span> <span class="toctext">Ähnliche Eigenschaften wie Fantasie - Synonyme</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Ausgleichende_Eigenschaften"><span class="tocnumber">2.2</span> <span class="toctext">Ausgleichende Eigenschaften</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Gegenteil_von_Fantasie_-_Antonyme"><span class="tocnumber">2.3</span> <span class="toctext">Gegenteil von Fantasie - Antonyme</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Fantasie_Antonyme_auf_einen_Blick"><span class="tocnumber">2.4</span> <span class="toctext">Fantasie Antonyme auf einen Blick</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Fantasie_im_Kontext_von_Tugendengruppen,_Persönlichkeitsfaktoren_und_Temperamenten"><span class="tocnumber">2.5</span> <span class="toctext">Fantasie im Kontext von Tugendengruppen, Persönlichkeitsfaktoren und Temperamenten</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Entwicklung_von_Fantasie"><span class="tocnumber">3</span> <span class="toctext">Entwicklung von Fantasie</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Affirmationen_zum_Thema_Fantasie"><span class="tocnumber">3.1</span> <span class="toctext">Affirmationen zum Thema Fantasie</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Gebet_für_Fantasie"><span class="tocnumber">3.2</span> <span class="toctext">Gebet für Fantasie</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Frage_dich:_Was_müsste_ich_tun,_um_Fantasie_zu_entwickeln?"><span class="tocnumber">3.3</span> <span class="toctext">Frage dich: Was müsste ich tun, um Fantasie zu entwickeln?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Siehe_auch"><span class="tocnumber">4</span> <span class="toctext">Siehe auch</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Eigenschaften_im_Alphabet_vor_Fantasie"><span class="tocnumber">4.1</span> <span class="toctext">Eigenschaften im Alphabet vor Fantasie</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Eigenschaften_im_Alphabet_nach_Fantasie"><span class="tocnumber">4.2</span> <span class="toctext">Eigenschaften im Alphabet nach Fantasie</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Literatur"><span class="tocnumber">5</span> <span class="toctext">Literatur</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Weblinks"><span class="tocnumber">6</span> <span class="toctext">Weblinks</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Seminare"><span class="tocnumber">7</span> <span class="toctext">Seminare</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Kreativität"><span class="tocnumber">7.1</span> <span class="toctext">Kreativität</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Yogalehrer_Ausbildung"><span class="tocnumber">7.2</span> <span class="toctext">Yogalehrer Ausbildung</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Fantasie_bei_der_Massage">Fantasie bei der Massage</span></h2>
+<p><b>Aus einem Vortrag von Sukadev Bretz</b>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/Datei:Kind_Staunen_Erde_Weltall.jpg" class="image"><img alt="Kind Staunen Erde Weltall.jpg" src="/images/thumb/1/16/Kind_Staunen_Erde_Weltall.jpg/250px-Kind_Staunen_Erde_Weltall.jpg" decoding="async" width="250" height="177" class="thumbimage" srcset="/images/thumb/1/16/Kind_Staunen_Erde_Weltall.jpg/375px-Kind_Staunen_Erde_Weltall.jpg 1.5x, /images/thumb/1/16/Kind_Staunen_Erde_Weltall.jpg/500px-Kind_Staunen_Erde_Weltall.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/Datei:Kind_Staunen_Erde_Weltall.jpg" class="internal" title="vergrößern"></a></div></div></div></div>
+<p>Fantasie und <a href="/Fantasiereise" class="mw-redirect" title="Fantasiereise">Fantasiereisen</a> als Teil der <a href="/Massage" title="Massage">Massage</a>. Ich möchte heute <a href="/Sprechen" title="Sprechen">sprechen</a> über Fantasie und Fantasiereisen als ein wichtiger Bestandteil von manchen <a href="/index.php?title=Massagetechnik&amp;action=edit&amp;redlink=1" class="new" title="Massagetechnik (Seite nicht vorhanden)">Massagetechniken</a>. Du kannst zu <a href="/Anfang" title="Anfang">Anfang</a>, wenn dein Klient sich hinlegt, ihn auch erstmal bitten, er oder sie kann sich vorstellen, jetzt an einem wunderschönen Ort zu sein, z.B. irgendwo auf einer Südseeinsel, unter Palmen und die <a href="/Sonne" title="Sonne">Sonne</a> ist dort, vielleicht magst du auch gleichzeitig eine CD abspielen mit <a href="/Musik" title="Musik">Musik</a>, vielleicht mit Meeresrauschen und Vogelgezwitscher.
+</p><p>Und so kannst du deinen Klienten mit einer Fantasiereise ganz in eine andere <a href="/Welt" title="Welt">Welt</a> führen. Natürlich, es hängt <a href="/Jetzt" title="Jetzt">jetzt</a> davon ab, wieviel <a href="/Zeit" title="Zeit">Zeit</a> du hast für diese <a href="/Fantasiereise" class="mw-redirect" title="Fantasiereise">Fantasiereise</a>, denn dein Klient kommt ja letztlich nicht für eine Fantasiereise zu dir, sondern eher, um massiert zu werden. Da wäre es also natürlich hilfreich, wenn du nicht zu viel über <a href="/Fantasiereise" class="mw-redirect" title="Fantasiereise">Fantasiereise</a> dort sprichst, sondern kurz.
+</p><p>Du kannst kurz dich sammeln, du kannst die CD anstellen und kannst sagen: "Jetzt stelle dir vor, du liegst am Strand auf einer Südseeinsel, über dir sind Palmen, vor dir das <a href="/Meer" title="Meer">Meer</a>. Die <a href="/Sonne" title="Sonne">Sonne</a> wärmt dich und du spürst dich ganz entspannt. Lasse dich <a href="/Jetzt" title="Jetzt">jetzt</a> ganz los und fühle, wie meine Hände dich immer tiefer in die <a href="/Entspannung" title="Entspannung">Entspannung</a> hineinführen."
+</p><p>So könntest du etwa beginnen. Du kannst auch vorher mit dem Klienten kurz absprechen, was ist eine schöne <a href="/Vorstellung" title="Vorstellung">Vorstellung</a>, ist es <a href="/Meer" title="Meer">Meer</a>, ist es <a href="/Strand" title="Strand">Strand</a>, sind es die <a href="/Berg" title="Berg">Berge</a>, ist es ein heiliger Ort. Manchmal hilft es, dass du <a href="/Selbst" title="Selbst">selbst</a> deinen Klienten fragst, was vielleicht schöne Orte wären. Und so kannst du deinen Klienten in eine schöne <a href="/Fantasiereise" class="mw-redirect" title="Fantasiereise">Fantasiereise</a> führen und das kann dir helfen, dass du mehr noch tun kannst und dass die <a href="/Massage" title="Massage">Massage</a> umso besser anspricht.
+</p><p>Also mein Tipp, probiere es mal aus, auch Fantasiereise einzuschließen in eine <a href="/Massage" title="Massage">Massage</a>, es kann die Massage sehr viel effektiver machen. Aber nicht jeder Klient ist dafür offen, es ist durchaus gut, vorher zu fragen, ob für ihn oder sie das gut ist. Gerade wenn du <a href="/Selbst" title="Selbst">selbst</a> schon öfters in Fantasiereisen geführt wurdest, dann kannst du da auch schon anfangen.
+</p><p>Gerade, wenn es kurze Fantasiereisen sind und du eventuell vorher mit deinem Klienten absprichst, welche <a href="/Fantasiereise" class="mw-redirect" title="Fantasiereise">Fantasiereise</a> für ihn oder sie gut ist, dann geht das ganz einfach. Ich würde dir <a href="/Jetzt" title="Jetzt">jetzt</a> nicht empfehlen, therapeutische Fantasiereisen zu machen, die gibt es ja auch, sondern einfach entspannende Fantasiereisen an irgendeinen entspannenden Ort. 
+</p>
+<figure class="embedvideo" data-service="youtube" data-iframeconfig="{&quot;width&quot;:480,&quot;height&quot;:270,&quot;src&quot;:&quot;//www.youtube-nocookie.com/embed/xxZBKDRhHKs?autoplay=1&quot;}" style="width:480px"><!--
+	--><span class="embedvideo-wrapper" style="height:270px"><div class="embedvideo-consent" data-show-privacy-notice="1"><!--
+--><div class="embedvideo-overlay"><!--
+	--><div class="embedvideo-loader" role="button"><!--
+		--><div class="embedvideo-loader__fakeButton">Video laden</div><!--
+		--><div class="embedvideo-loader__footer"><!--
+			--><div class="embedvideo-loader__service">YouTube</div><!--
+		--></div><!--
+	--></div><!--
+	--><div class="embedvideo-privacyNotice hidden"><!--
+		--><div class="embedvideo-privacyNotice__content">YouTube sammelt möglicherweise persönliche Daten. <a href="https://www.youtube.com/howyoutubeworks/user-settings/privacy/" rel="nofollow,noopener" target="_blank" class="embedvideo-privacyNotice__link">Datenschutzrichtlinie</a></div><!--
+		--><div class="embedvideo-privacyNotice__buttons"><!--
+<p>			--><button class="embedvideo-privacyNotice__continue">Fortfahren</button><!--
+			--><button class="embedvideo-privacyNotice__dismiss">Ausblenden</button><!--
+</p>
+		--></div><!--
+	--></div><!--
+--></div><!--
+--></div></span>
+</figure>
+<h2><span class="mw-headline" id="Fantasie_-_Antonyme_und_Synonyme">Fantasie - Antonyme und Synonyme</span></h2>
+<p>In diesem <a target="_blank" rel="noreferrer noopener" class="external text" href="https://www.yoga-vidya.de/yoga/">Yoga</a> Wiki werden über 1000 Tugenden und Persönlichkeitsmerkmale beschrieben. Hier einige Erläuterungen, wie man die Eigenschaft der Fantasie in Beziehung zu anderen Fähigkeiten und Verhaltensweisen sowie in Bezug auf Laster sehen kann:
+</p>
+<h3><span id=".C3.84hnliche_Eigenschaften_wie_Fantasie_-_Synonyme"></span><span class="mw-headline" id="Ähnliche_Eigenschaften_wie_Fantasie_-_Synonyme">Ähnliche Eigenschaften wie Fantasie - Synonyme</span></h3>
+<p>Ähnliche Eigenschaften wie Fantasie, also Synonyme zu Fantasie sind z.B. <a href="/index.php?title=Einfalllsreichtum&amp;action=edit&amp;redlink=1" class="new" title="Einfalllsreichtum (Seite nicht vorhanden)">Einfalllsreichtum</a>, <a href="/Ideenreichtum" title="Ideenreichtum">Ideenreichtum</a>, <a href="/Kreativit%C3%A4t" title="Kreativität">Kreativität</a>, <a href="/index.php?title=Anschauungsverm%C3%B6gen&amp;action=edit&amp;redlink=1" class="new" title="Anschauungsvermögen (Seite nicht vorhanden)">Anschauungsvermögen</a>.
+</p>
+<h3><span class="mw-headline" id="Ausgleichende_Eigenschaften">Ausgleichende Eigenschaften</span></h3>
+<p>Jede Eigenschaft, jede Tugend, die übertrieben wird, wird zu einer <a href="/Untugend" class="mw-redirect" title="Untugend">Untugend</a>, zu einem <a href="/Laster" title="Laster">Laster</a>, einer nicht hilfreichen Eigenschaft. Fantasie übertrieben kann ausarten z.B. in <a href="/Trugbild" title="Trugbild">Trugbild</a>, <a href="/Luftschloss" title="Luftschloss">Luftschloss</a>, <a href="/Hirngespinst" title="Hirngespinst">Hirngespinst</a>, [[]]. Daher braucht Fantasie als Gegenpol die Kultivierung von <a href="/index.php?title=Realit%C3%A4tsdenken&amp;action=edit&amp;redlink=1" class="new" title="Realitätsdenken (Seite nicht vorhanden)">Realitätsdenken</a>, <a href="/Rationalit%C3%A4t" title="Rationalität">Rationalität</a>, <a href="/Wirklichkeitssinn" title="Wirklichkeitssinn">Wirklichkeitssinn</a>.
+</p>
+<h3><span class="mw-headline" id="Gegenteil_von_Fantasie_-_Antonyme">Gegenteil von Fantasie - Antonyme</span></h3>
+<p>Zu jeder Eigenschaft gibt es ein Gegenteil. Hier Möglichkeiten für Gegenteil von Fantasie, Antonyme zu Fantasie&#160;:
+</p>
+<ul><li>Positive Gegenteile von Fantasie, man könnte diese auch als Gegenpole bezeichnen: <a href="/index.php?title=Realit%C3%A4tsdenken&amp;action=edit&amp;redlink=1" class="new" title="Realitätsdenken (Seite nicht vorhanden)">Realitätsdenken</a>, <a href="/Rationalit%C3%A4t" title="Rationalität">Rationalität</a>, <a href="/Wirklichkeitssinn" title="Wirklichkeitssinn">Wirklichkeitssinn</a></li>
+<li>Negative Gegenteile von Fantasie, also <a href="/Laster" title="Laster">Laster</a>, negative Eigenschaften, sind z.B. <a href="/Fantasielosigkeit" title="Fantasielosigkeit">Fantasielosigkeit</a>, <a href="/Einfallslosigkeit" title="Einfallslosigkeit">Einfallslosigkeit</a>, <a href="/Ideenarmut" title="Ideenarmut">Ideenarmut</a>, [[]]</li></ul>
+<h3><span class="mw-headline" id="Fantasie_Antonyme_auf_einen_Blick">Fantasie Antonyme auf einen Blick</span></h3>
+<p>Antonyme Fantasie, also Gegenteile, sind Realitätsdenken, Rationalität, Wirklichkeitssinn, Fantasielosigkeit, Einfallslosigkeit, Ideenarmut,.
+</p>
+<h3><span id="Fantasie_im_Kontext_von_Tugendengruppen.2C_Pers.C3.B6nlichkeitsfaktoren_und_Temperamenten"></span><span class="mw-headline" id="Fantasie_im_Kontext_von_Tugendengruppen,_Persönlichkeitsfaktoren_und_Temperamenten">Fantasie im Kontext von Tugendengruppen, Persönlichkeitsfaktoren und Temperamenten</span></h3>
+<ul><li>Fantasie gehört zur <a href="/Tugendgruppe_9_Individualit%C3%A4t,_Originalit%C3%A4t,_Selbstbewusstsein" title="Tugendgruppe 9 Individualität, Originalität, Selbstbewusstsein">Tugendgruppe 9 Individualität, Originalität, Selbstbewusstsein</a>. Die wichtigsten Tugenden dieser Tugendgruppe sind <a href="/Individualit%C3%A4t" title="Individualität">Individualität</a>, <a href="/Authentizit%C3%A4t" title="Authentizität">Authentizität</a> und <a href="/Selbstbewusstsein" title="Selbstbewusstsein">Selbstbewusstsein</a></li>
+<li>Im Kontext des Persönlickeitsmodell der <a href="/Big_Five" title="Big Five">Big Five</a> gehört Fantasie zum Persönlichkeitsfaktor O1 <a href="/Offenheit" title="Offenheit">Offenheit</a> hoch: <a href="/Neugierig" title="Neugierig">neugierig</a>, <a href="/Erfinderisch" title="Erfinderisch">erfinderisch</a>, <a href="/Experimentierfreudig" title="Experimentierfreudig">experimentierfreudig</a></li>
+<li>Im Persönlichkeitsmodell <a href="/DISG" title="DISG">DISG</a> gehört Fantasie zur Grundverhaltenstendenz I - <a href="/Initiative" title="Initiative">Initiative</a>, <a href="/Extravertiertheit" title="Extravertiertheit">Extravertiertheit</a>, <a href="/Enthusiasmus" title="Enthusiasmus">Enthusiasmus</a></li>
+<li>Im <a target="_blank" rel="noreferrer noopener" class="external text" href="https://www.yoga-vidya.de/ayurveda">Ayurveda</a> zählt man Fantasie zum <a href="/Vata" title="Vata">Vata</a> <a href="/Temperament" title="Temperament">Temperament</a> bzw. <a href="/Dosha" title="Dosha">Dosha</a>.</li></ul>
+<h2><span class="mw-headline" id="Entwicklung_von_Fantasie">Entwicklung von Fantasie</span></h2>
+<p>Fantasie ist eine positive Eigenschaft, die dem Charakter gut tun kann. Vielleicht willst du ja Fantasie in dir stärker werden lassen. Hierzu einige Tipps:
+</p>
+<ul><li>Nimm dir vor, eine Woche lang diese Eigenschaft der Fantasie zu kultivieren. Vielleicht kannst du nicht alle guten Eigenschaften auf einmal kultivieren. Aber es ist möglich, innerhalb einer Woche oder innerhalb eines Monats eine Tugend, eine Eigenschaft, stark werden zu lassen.</li>
+<li>Triff den Entschluss: "Während der nächsten Woche will ich die Tugend, die Eigenschaft, Fantasie ganz besonders kultivieren. Ich freue mich darauf, in einer Woche ein fantastisch, fantasievollerer Mensch zu sein."</li>
+<li>Nimm dir vor, jeden Tag mindestens etwas zu tun, was Fantasie ausdrückt. Tue jeden Tag etwas, was du sonst nicht tun würdest, was aber diese Tugend zum Ausdruck bringt.</li>
+<li>Wenn du morgens aufwachst, dann sage eine Affirmation, z.B.: "Ich entwickle Fantasie."</li>
+<li>Am Tag wiederhole immer wieder eine <a href="/Autosuggestion" title="Autosuggestion">Autosuggestion</a>, Affirmation wie z.B.: Ich bin fantastisch, fantasievoll."</li></ul>
+<h3><span class="mw-headline" id="Affirmationen_zum_Thema_Fantasie">Affirmationen zum Thema Fantasie</span></h3>
+<p>Hier einige Affirmationen für mehr Fantasie. Unter dem Stichwort "<a href="/Affirmation" title="Affirmation">Affirmation</a>" und "<a href="/Wunderaffirmationen" title="Wunderaffirmationen">Wunderaffirmationen</a>" erfährst du mehr zu Funktion und Wirkungsweise von Affirmationen. Nicht alle unten aufgeführten Affirmationen passen - nutze diejenigen, die für dich stimmig erscheinen.
+</p><p><b>Klassische Autosuggestion für Fantasie </b>
+Hier die klassische Autosuggestion:
+</p>
+<ul><li>Ich bin fantastisch, fantasievoll.</li></ul>
+<p>Im Yoga verbindet man das gerne mit einem Mantra. Denn ein Mantra lässt die Affirmation stärker werden:
+</p>
+<ul><li>Ich bin fantastisch, fantasievoll. Om Om Om.</li>
+<li>Ich bin ein Fantasievoller, eine Fantasievolle OM.</li></ul>
+<p><b>Entwicklungsbezogene Affirmation für Fantasie </b>
+Manche Menschen fühlen sich als Scheinheiliger oder als Heuchler, wenn sie sagen "Ich bin fantastisch, fantasievoll " - und sie sind es gar nicht. Dann hilft eine entwicklungsbezogene Affirmation:
+</p>
+<ul><li>Ich entwickle Fantasie.</li>
+<li>Ich werde fantastisch, fantasievoll.</li>
+<li>Jeden Tag werde ich fantastisch, fantasievoller.</li>
+<li>Durch die Gnade Gottes entwickle ich jeden Tag mehr Fantasie.</li></ul>
+<p><b>Dankesaffirmation  für Fantasie </b>:
+</p>
+<ul><li>Ich danke dafür, dass ich jeden Tag fantastisch, fantasievoller werde.</li></ul>
+<p><b>Wunderaffirmationen Fantasie </b>
+Du kannst es auch mit folgenden Affirmationen probieren:
+</p>
+<ul><li>Bis jetzt bin ich noch nicht sehr fantastisch, fantasievoll. Und das ist auch ganz verständlich, ich habe gute Gründe dafür. Aber schon bald werde ich Fantasie entwickeln. Jeden Tag wird diese Tugend in mir stärker werden.</li>
+<li>Ich freue mich darauf, bald sehr fantastisch, fantasievoll zu sein.</li>
+<li>Ich bin jemand, der fantastisch, fantasievoll ist.</li></ul>
+<h3><span id="Gebet_f.C3.BCr_Fantasie"></span><span class="mw-headline" id="Gebet_für_Fantasie">Gebet für Fantasie</span></h3>
+<p>Auch ein Gebet ist ein machtvolles Mittel, um eine Tugend zu kultivieren. Hier ein paar Möglichkeiten für Gebete für mehr Fantasie:
+</p>
+<ul><li>Lieber <a href="/Gott" title="Gott">Gott</a>, bitte gib mir mehr Fantasie.</li>
+<li>Oh Gott, ich verehre dich. Ich bitte dich darum, dass ich ein fantastisch, fantasievoller Mensch werde.</li>
+<li>Liebe Göttliche Mutter, ich danke dir. Ich danke dir dafür, dass ich jeden Tag die Tugend Fantasie mehr und mehr zum Ausdruck bringe.</li></ul>
+<h3><span id="Frage_dich:_Was_m.C3.BCsste_ich_tun.2C_um_Fantasie_zu_entwickeln.3F"></span><span class="mw-headline" id="Frage_dich:_Was_müsste_ich_tun,_um_Fantasie_zu_entwickeln?">Frage dich: Was müsste ich tun, um Fantasie zu entwickeln?</span></h3>
+<p>Du kannst dich auch fragen:
+</p>
+<ul><li>Was müsste ich tun, um Fantasie zu entwickeln?</li>
+<li>Wie könnte ich fantastisch, fantasievoll werden?</li>
+<li>Lieber Gott, bitte zeige mir den Weg zu mehr Fantasie.</li>
+<li>Angenommen, ich will fantastisch, fantasievoll sein, wie würde ich das tun?</li>
+<li>Angenommen, ich wäre fantastisch, fantasievoll, wie würde sich das bemerkbar machen?</li>
+<li>Angenommen, ein Wunder würde geschehen, und ich hätte morgen Fantasie kultiviert, was hätte sich geändert? Wie würde ich fühlen? Wie würde ich denken? Wie würde ich handeln? Als fantastisch, fantasievoller Mensch, wie würde ich reagieren, mit anderen kommunizieren?</li></ul>
+<p><a href="https://www.yoga-vidya.de/service/spenden/" target="_blank" rel="noreferrer noopener"><img alt="Spenden-Logo Yoga-Wiki.jpg" src="/images/b/b3/Spenden-Logo_Yoga-Wiki.jpg" decoding="async" width="240" height="50" /></a>
+</p>
+<h2><span class="mw-headline" id="Siehe_auch">Siehe auch</span></h2>
+<ul><li><a href="/Tugend" title="Tugend">Tugend</a></li>
+<li><a href="/Raja_Yoga" title="Raja Yoga">Raja Yoga</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://www.yoga-vidya.de/yoga-psychologie/">Yoga Psychologie</a></li></ul>
+<h3><span class="mw-headline" id="Eigenschaften_im_Alphabet_vor_Fantasie">Eigenschaften im Alphabet vor Fantasie</span></h3>
+<ul><li><a href="/Etiquette" title="Etiquette">Etiquette</a></li>
+<li><a href="/Exaktheit" title="Exaktheit">Exaktheit</a></li>
+<li><a href="/Extravertiertheit" title="Extravertiertheit">Extravertiertheit</a></li>
+<li><a href="/Fairness" title="Fairness">Fairness</a></li></ul>
+<h3><span class="mw-headline" id="Eigenschaften_im_Alphabet_nach_Fantasie">Eigenschaften im Alphabet nach Fantasie</span></h3>
+<ul><li><a href="/Fassung" title="Fassung">Fassung</a></li>
+<li><a href="/Fehlertoleranz" title="Fehlertoleranz">Fehlertoleranz</a></li>
+<li><a href="/Freigebigkeit" title="Freigebigkeit">Freigebigkeit</a></li>
+<li><a href="/Feinf%C3%BChligkeit" title="Feinfühligkeit">Feinfühligkeit</a></li></ul>
+<h2><span class="mw-headline" id="Literatur">Literatur</span></h2>
+<ul><li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://shop.yoga-vidya.de/de/buecher/swami-sivananda/goettliche-erkenntnis">Swami Sivananda: Göttliche Erkenntnis</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://shop.yoga-vidya.de/de/yoga-vidya-verlag/buecher/inspirierende-geschichten">Swami Sivananda: Inspirierende Geschichten</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://shop.yoga-vidya.de/de/buecher/swami-sivananda/die-kraft-gedanken">Swami Sivananda, Die Kraft der Gedanken (2012)</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://shop.yoga-vidya.de/de/buecher/swami-sivananda/sadhana-ein-lehrbuch-techniken-spirit.-vollkommenheit">Swami Sivananda: Sadhana - Ein Lehrbuch mit Techniken zur spirituellen Vollkommenheit</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://shop.yoga-vidya.de/de/buecher/swami-sivananda/licht-kraft-weisheit">Swami Sivananda: Licht, Kraft und Weisheit</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://shop.yoga-vidya.de/de/yoga-vidya-verlag/buecher/japa-yoga">Swami Sivananda: Japa Yoga</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://shop.yoga-vidya.de/de/yoga-vidya-verlag/buecher/die-wissenschaft-pranayama">Swami Sivananda: Die Wissenschaft des Pranayama</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://shop.yoga-vidya.de/de/buecher/swami-sivananda/die-ueberwindung-furcht">Swami Sivananda: Die Überwindung der Furcht</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://shop.yoga-vidya.de/de/yoga-vidya-verlag/buecher/vedanta-anfaenger">Swami Sivananda: Vedanta für Anfänger</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://shop.yoga-vidya.de/de/yoga-vidya-verlag/buecher/japa-yoga">Swami Sivananda: Japa Yoga</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://shop.yoga-vidya.de/de/buecher/philosophie/goettliches-elixier-swami-sivananda">Swami Sivananda: Göttliches Elixier</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://shop.yoga-vidya.de/de/yoga-vidya-verlag/buecher/goetter-goettinnen-hinduismus">Swami Sivananda: Götter und Göttinnen im Hinduismus</a></li></ul>
+<h2><span class="mw-headline" id="Weblinks">Weblinks</span></h2>
+<ul><li><a target="_blank" rel="noreferrer noopener" class="external text" href="http://www.yoga-vidya.de">Großes Yoga Portal</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="http://mein.yoga-vidya.de">Yoga Community mit Videos, Forum, Fotos und mehr</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="http://yogatherapie-portal.de">Viele Infos über die therapeutischen Wirkungen des Yoga</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="http://blog.yoga-vidya.de">Neuigkeiten rund ums Yoga, mit Mantras Übungsanleitungen und Vorträgen als Podcast</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="http://www.yoga-vidya.de/seminar">Finde schnell ein Yoga Seminar</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="http://www.yoga-vidya.de/de/asana">Viele Infos rund um die Yoga Übungen</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="http://www.yoga-vidya.de/center">Finde ein Yoga Center in deiner Nähe</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://www.yoga-vidya.de/yogatherapie/">Portal für Yogatherapie</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://www.yoga-vidya.de/yoga-urlaub/">Yoga Urlaub</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://www.yoga-vidya.de/yoga-urlaub/yoga-ferien/">Yoga Ferien</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://www.yoga-vidya.de/yoga-urlaub/yoga-reisen/">Yoga Reisen</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://www.yoga-vidya.de/yoga-urlaub/ayurveda-urlaub/">Ayurveda Urlaub</a></li>
+<li><a target="_blank" rel="noreferrer noopener" class="external text" href="https://www.yoga-vidya.de/seminartipp/retreat/">Retreat</a></li></ul>
+<h2><span class="mw-headline" id="Seminare">Seminare</span></h2>
+<h3><span id="Kreativit.C3.A4t"></span><span class="mw-headline" id="Kreativität"><a target="_blank" rel="noreferrer noopener" class="external text" href="https://www.yoga-vidya.de/seminare/interessengebiet/kreativitaet-und-kuenste-ohne-musik/">Kreativität</a></span></h3>
+<div class="mw-parser-output"><dl><dt><b><span class="plainlinks"><a target="_blank" rel="noreferrer noopener" class="external text" href="https://www.yoga-vidya.de/seminare/seminar/themenwoche-mandalas-und-yantras-b260125-6/">25.01.2026 - 30.01.2026 Themenwoche: Mandalas und Yantras</a></span></b></dt>
+<dd><br />
+                                            Ein Mandala ist ein auf der Heiligen Geometrie aufgebautes Kreismuster, welches durch Form und Farbe mit deiner Seele kommuniziert. Der Kreis symbol…</dd>
+<dd>Sharima Steffens</dd>
+<dt><b><span class="plainlinks"><a target="_blank" rel="noreferrer noopener" class="external text" href="https://www.yoga-vidya.de/seminare/seminar/yoga-schreiben-online-kursreihe-l260227-2/">27.02.2026 - 27.03.2026 Yoga &amp; Schreiben - Online Kursreihe</a></span></b></dt>
+<dd><br />
+                                            Termine: 5 x Freitag 27.02., 06.03., 13.03., 20.03., 27.03.2026<br />
+Uhrzeit: 20:00 – 21:00 Uhr<br />
+<br />
+In diesem Workshop brauchst du neben d…</dd>
+<dd>Anja Mollenhauer</dd></dl>
+</div>
+<h3><span class="mw-headline" id="Yogalehrer_Ausbildung"><a target="_blank" rel="noreferrer noopener" class="external text" href="https://www.yoga-vidya.de/seminare/interessengebiet/yogalehrer-ausbildung/">Yogalehrer Ausbildung</a></span></h3>
+<div class="mw-parser-output"><dl><dt><b><span class="plainlinks"><a target="_blank" rel="noreferrer noopener" class="external text" href="https://www.yoga-vidya.de/seminare/seminar/yogalehrer-ausbildung-intensivkurs-woche-1-b260118-2/">18.01.2026 - 23.01.2026 Yogalehrer Ausbildung Intensivkurs Woche 1</a></span></b></dt>
+<dd><br />
+                                            Hier lernst du die Grundlagen, wie man als Yogalehrer Menschen in Yoga und Meditation unterrichtet. Woche 1 der 4-wöchigen Yogalehrer Ausbildung. Hi…</dd>
+<dd>Irina Jacobi,  Mahavira Wittig,</dd>
+<dt><b><span class="plainlinks"><a target="_blank" rel="noreferrer noopener" class="external text" href="https://www.yoga-vidya.de/seminare/seminar/yogalehrer-ausbildung-intensivkurs-b260118-1/">18.01.2026 - 15.02.2026 Yogalehrer Ausbildung Intensivkurs</a></span></b></dt>
+<dd><br />
+                                            Möchtest auch du als Yogalehrer/in Menschen in Yoga, Meditation und Entspannung einführen, Kurse in Hatha Yoga geben, Asanas und Mantras erklären kö…</dd>
+<dd>Irina Jacobi,  Mahavira Wittig,</dd></dl>
+</div>
+<!-- 
+NewPP limit report
+Cached time: 20251217090839
+Cache expiry: 3600
+Reduced expiry: true
+Complications: [show‐toc]
+CPU time usage: 0.036 seconds
+Real time usage: 0.040 seconds
+Preprocessor visited node count: 171/1000000
+Post‐expand include size: 26/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3443/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key yogawiki_139:pcache:idhash:20778-0!canonical and timestamp 20251217090839 and revision id 1217211.
+ -->
+</div></div><div class="printfooter">
+Abgerufen von „<a dir="ltr" href="https://wiki.yoga-vidya.de/index.php?title=Fantasie&amp;oldid=1217211">https://wiki.yoga-vidya.de/index.php?title=Fantasie&amp;oldid=1217211</a>“</div>
+<div class="visualClear"></div></div></div></div></div><div id="content-bottom-stuff"><div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Spezial:Kategorien" title="Spezial:Kategorien">Kategorien</a>: <ul><li><a href="/Kategorie:Seiten_mit_RSS-Feeds" title="Kategorie:Seiten mit RSS-Feeds">Seiten mit RSS-Feeds</a></li><li><a href="/Kategorie:Tugend" title="Kategorie:Tugend">Tugend</a></li><li><a href="/Kategorie:Pers%C3%B6nlichkeitsmerkmal" title="Kategorie:Persönlichkeitsmerkmal">Persönlichkeitsmerkmal</a></li><li><a href="/Kategorie:Tugendgruppe_9_Individualit%C3%A4t,_Originalit%C3%A4t,_Selbstbewusstsein,_Authentizit%C3%A4t,_Mut,_Offenheit" title="Kategorie:Tugendgruppe 9 Individualität, Originalität, Selbstbewusstsein, Authentizität, Mut, Offenheit">Tugendgruppe 9 Individualität, Originalität, Selbstbewusstsein, Authentizität, Mut, Offenheit</a></li><li><a href="/Kategorie:Ayurveda_Temperament_Vata" title="Kategorie:Ayurveda Temperament Vata">Ayurveda Temperament Vata</a></li><li><a href="/Kategorie:DISG_Grundtyp_I_-_Initiativ" title="Kategorie:DISG Grundtyp I - Initiativ">DISG Grundtyp I - Initiativ</a></li><li><a href="/Kategorie:Big_5_Pers%C3%B6nlichkeitsmerkmal_O1_Offenheit_hoch" title="Kategorie:Big 5 Persönlichkeitsmerkmal O1 Offenheit hoch">Big 5 Persönlichkeitsmerkmal O1 Offenheit hoch</a></li></ul></div></div></div></div><div id="mw-site-navigation"><div id="p-logo" class="mw-portlet" role="banner"><a class="mw-wiki-logo fallback" href="/Hauptseite" title="Hauptseite"></a></div><div id="site-navigation" class="sidebar-chunk"><h2><span>Navigation</span></h2><div class="sidebar-inner"><div role="navigation" class="mw-portlet" id="p-Spenden" aria-labelledby="p-Spenden-label"><h3 id="p-Spenden-label" lang="de" dir="ltr">Spenden</h3><div class="mw-portlet-body"><ul lang="de" dir="ltr"><li id="n-Spenden-für-Yoga-Vidya" class="mw-list-item"><a href="https://www.yoga-vidya.de/service/spenden/" target="_blank"><span>Spenden für Yoga Vidya</span></a></li></ul></div></div><div role="navigation" class="mw-portlet" id="p-Yoga_lernen" aria-labelledby="p-Yoga_lernen-label"><h3 id="p-Yoga_lernen-label" lang="de" dir="ltr">Yoga lernen</h3><div class="mw-portlet-body"><ul lang="de" dir="ltr"><li id="n-Yoga-Ausbildung" class="mw-list-item"><a href="https://www.yoga-vidya.de/ausbildung-weiterbildung/" target="_blank"><span>Yoga Ausbildung</span></a></li><li id="n-Yoga-Seminare" class="mw-list-item"><a href="https://www.yoga-vidya.de/seminare/" target="_blank"><span>Yoga Seminare</span></a></li><li id="n-Yogaschulen" class="mw-list-item"><a href="https://www.yoga-vidya.de/center/" target="_blank"><span>Yogaschulen</span></a></li><li id="n-Berufsverband-der-Yogalehrer/innen" class="mw-list-item"><a href="https://www.yoga-vidya.de/netzwerk/berufsverbaende/byv/byv-infos/" target="_blank"><span>Berufsverband der Yogalehrer/innen</span></a></li><li id="n-Yogalehrer-Verzeichnis" class="mw-list-item"><a href="https://www.yoga-vidya.de/netzwerk/berufsverbaende/byv/berufsverband-der-yogalehrerinnen-byv/yogalehrerverzeichnis/" target="_blank"><span>Yogalehrer Verzeichnis</span></a></li></ul></div></div><div role="navigation" class="mw-portlet" id="p-navigation" aria-labelledby="p-navigation-label"><h3 id="p-navigation-label" lang="de" dir="ltr">Navigation</h3><div class="mw-portlet-body"><ul lang="de" dir="ltr"><li id="n-mainpage-description" class="mw-list-item"><a href="/Hauptseite" title="Hauptseite besuchen [z]" accesskey="z"><span>Hauptseite</span></a></li><li id="n-portal" class="mw-list-item"><a href="/Yogawiki:Gemeinschaftsportal" title="Über das Projekt, was du tun kannst, wo was zu finden ist"><span>Gemeinschafts­portal</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/Yogawiki:Aktuelle_Ereignisse" title="Hintergrundinformationen zu aktuellen Ereignissen"><span>Aktuelle Ereignisse</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in diesem Wiki [r]" accesskey="r"><span>Letzte Änderungen</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite aufrufen [x]" accesskey="x"><span>Zufällige Seite</span></a></li></ul></div></div></div></div><div id="site-tools" class="sidebar-chunk"><h2><span>Wikiwerkzeuge</span></h2><div class="sidebar-inner"><div role="navigation" class="mw-portlet" id="p-tb" aria-labelledby="p-tb-label"><h3 id="p-tb-label" lang="de" dir="ltr">Wikiwerkzeuge</h3><div class="mw-portlet-body"><ul lang="de" dir="ltr"><li id="t-specialpages" class="mw-list-item"><a href="/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q"><span>Spezialseiten</span></a></li></ul></div></div></div></div></div><div id="mw-related-navigation"><div id="page-tools" class="sidebar-chunk"><h2><span>Seitenwerkzeuge</span></h2><div class="sidebar-inner"><div role="navigation" class="mw-portlet emptyPortlet" id="p-cactions" title="Weitere Optionen" aria-labelledby="p-cactions-label"><h3 id="p-cactions-label" lang="de" dir="ltr">Seitenwerkzeuge</h3><div class="mw-portlet-body"><ul lang="de" dir="ltr"></ul></div></div><div role="navigation" class="mw-portlet emptyPortlet" id="p-userpagetools" aria-labelledby="p-userpagetools-label"><h3 id="p-userpagetools-label" lang="de" dir="ltr">Benutzerseitenwerkzeuge</h3><div class="mw-portlet-body"><ul lang="de" dir="ltr"></ul></div></div><div role="navigation" class="mw-portlet" id="p-pagemisc" aria-labelledby="p-pagemisc-label"><h3 id="p-pagemisc-label" lang="de" dir="ltr">Mehr</h3><div class="mw-portlet-body"><ul lang="de" dir="ltr"><li id="t-whatlinkshere" class="mw-list-item"><a href="/Spezial:Linkliste/Fantasie" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j"><span>Links auf diese Seite</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Fantasie" rel="nofollow" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k"><span>Änderungen an verlinkten Seiten</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Druckansicht dieser Seite [p]" accesskey="p"><span>Druckversion</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/index.php?title=Fantasie&amp;oldid=1217211" title="Dauerhafter Link zu dieser Seitenversion"><span>Permanenter Link</span></a></li><li id="t-info" class="mw-list-item"><a href="/index.php?title=Fantasie&amp;action=info" title="Weitere Informationen über diese Seite"><span>Seiten­­informationen</span></a></li><li id="t-pagelog" class="mw-list-item"><a href="/index.php?title=Spezial:Logbuch&amp;page=Fantasie"><span>Seitenlogbücher</span></a></li></ul></div></div></div></div><div id="catlinks-sidebar" class="sidebar-chunk"><h2><span>Kategorien</span></h2><div class="sidebar-inner"><div id="sidebar-normal-catlinks" class="mw-normal-catlinks"><div role="navigation" class="mw-portlet" id="p-normal-catlinks" aria-labelledby="p-normal-catlinks-label"><h3 id="p-normal-catlinks-label" lang="de" dir="ltr">Kategorien</h3><div class="mw-portlet-body"><ul><li><a href="/Kategorie:Seiten_mit_RSS-Feeds" title="Kategorie:Seiten mit RSS-Feeds">Seiten mit RSS-Feeds</a></li><li><a href="/Kategorie:Tugend" title="Kategorie:Tugend">Tugend</a></li><li><a href="/Kategorie:Pers%C3%B6nlichkeitsmerkmal" title="Kategorie:Persönlichkeitsmerkmal">Persönlichkeitsmerkmal</a></li><li><a href="/Kategorie:Tugendgruppe_9_Individualit%C3%A4t,_Originalit%C3%A4t,_Selbstbewusstsein,_Authentizit%C3%A4t,_Mut,_Offenheit" title="Kategorie:Tugendgruppe 9 Individualität, Originalität, Selbstbewusstsein, Authentizität, Mut, Offenheit">Tugendgruppe 9 Individualität, Originalität, Selbstbewusstsein, Authentizität, Mut, Offenheit</a></li><li><a href="/Kategorie:Ayurveda_Temperament_Vata" title="Kategorie:Ayurveda Temperament Vata">Ayurveda Temperament Vata</a></li><li><a href="/Kategorie:DISG_Grundtyp_I_-_Initiativ" title="Kategorie:DISG Grundtyp I - Initiativ">DISG Grundtyp I - Initiativ</a></li><li><a href="/Kategorie:Big_5_Pers%C3%B6nlichkeitsmerkmal_O1_Offenheit_hoch" title="Kategorie:Big 5 Persönlichkeitsmerkmal O1 Offenheit hoch">Big 5 Persönlichkeitsmerkmal O1 Offenheit hoch</a></li></ul></div></div></div></div></div></div><div class="visualClear"></div></div></div><div id="mw-footer-container" class="mw-footer-container ts-container"><div id="mw-footer" class="mw-footer ts-inner" role="contentinfo" lang="de" dir="ltr"><ul id="footer-icons"><li id="footer-poweredbyico" class="footer-icons"><a href="https://www.mediawiki.org/" target="_blank"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li></ul><div id="footer-list"><ul id="footer-info"><li id="footer-info-lastmod"> Diese Seite wurde zuletzt am 29. Juli 2023 um 15:45 Uhr bearbeitet.</li><li id="footer-info-0">Diese Seite wurde bisher 8.721-mal abgerufen.</li></ul><ul id="footer-places"><li id="footer-places-privacy"><a href="/Yogawiki:Datenschutz">Datenschutz</a></li><li id="footer-places-about"><a href="/Yogawiki:%C3%9Cber_Yogawiki">Über Yogawiki</a></li><li id="footer-places-disclaimer"><a href="/Yogawiki:Impressum">Impressum</a></li></ul></div><div class="visualClear"></div></div></div></div><script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.036","walltime":"0.040","ppvisitednodes":{"value":171,"limit":1000000},"postexpandincludesize":{"value":26,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3443,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20251217090839","ttl":3600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":66});});</script>
+</body>
+</html>

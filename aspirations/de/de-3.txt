@@ -1,0 +1,2584 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2025 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+<title>Fantasie – Lexikon der Psychologie, Hogrefe AG</title>
+<meta name="generator" content="TYPO3 CMS">
+<meta name="description" content="Fantasie [engl. fantasy, imagination; gr. φαντασία (phantasia) Vorstellung, Erscheinung, Gespinst], gleichbedeutend mit Vorstellungskraft,  [KOG, PER],..">
+<meta name="robots" content="noodp">
+<meta name="viewport" content="width=device-width">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="citation_title" content="Fantasie im Dorsch Lexikon der Psychologie">
+<meta name="citation_date" content="2021">
+<meta name="citation_abstract_html_url" content="/stichwort/fantasie">
+<meta name="turbolinks-cache-control" content="no-cache">
+
+                             <script type="application/ld+json">
+                             {
+                                 "@context": "https://schema.org",
+                                 "@type": "WebPage",
+                                   "mainEntityOfPage": {
+                                     "@type": "WebPage",
+                                     "@id": "https://dorsch.hogrefe.com/"
+                                     },
+
+							"isAccessibleForFree": false,
+							 "hasPart":
+										{
+										  "@type": "WebPageElement",
+										  "isAccessibleForFree": false,
+										  "cssSelector": ".paywall"
+										}
+
+							}
+                             </script><script type="text/javascript">
+var datamintsConfig = {lightbox: 1, datamintsJobs: 1};
+</script><meta http-equiv="Content-Security-Policy" content="default-src 'self' https://secure.pay1.de *.google-analytics.com *.pubengine.de *.ipcheck.hogrefe.com https://secure.pay1.de; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://secure.pay1.de *.googletagmanager.com *.google-analytics.com https://secure.pay1.de; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://www.datamints.com https://pubengine2.s3.eu-central-1.amazonaws.com *.googletagmanager.com *.google-analytics.com *.vgwort.de; frame-src 'self' www.youtube-nocookie.com https://secure.pay1.de; font-src 'self' data:; connect-src 'self' *.ipcheck.hogrefe.com *.google-analytics.com *.googletagmanager.com;">			<link rel="apple-touch-icon" sizes="180x180" href="/fileadmin/Resources/Public/Global/Icons/Favicon/apple-touch-icon.png">
+			<link rel="icon" type="image/png" sizes="32x32" href="/fileadmin/Resources/Public/Global/Icons/Favicon/favicon-32x32.png">
+			<link rel="icon" type="image/png" sizes="16x16" href="/fileadmin/Resources/Public/Global/Icons/Favicon/favicon-16x16.png">
+			<link rel="mask-icon" href="/fileadmin/Resources/Public/Global/Icons/Favicon/safari-pinned-tab.svg" color="#5bbad5">
+			<meta name="msapplication-TileColor" content="#da532c">
+			<meta name="theme-color" content="#ffffff">
+<link rel="canonical" href="https://dorsch.hogrefe.com/stichwort/fantasie">
+
+
+
+<link rel="stylesheet" href="/typo3conf/ext/datamints_consentmanager/Resources/Public/Styles/ConsentManager.min.css?1734076719" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/sitepackage/Sites/Main/Resources/Public/Styles/app.css?1762160711" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/femanager/Resources/Public/Css/Additional.min.css?1738763638" media="all">
+
+
+
+
+<script src="/typo3conf/ext/datamints_consentmanager/Resources/Public/Scripts/ConsentManager.min.js?1734442099"></script>
+<script src="/typo3conf/ext/datamints_consentmanager/Resources/Public/Scripts/ConsentManagerUI.min.js?1734076719"></script>
+<script src="/typo3conf/ext/datamints_consentmanager/Resources/Public/Scripts/ConsentManagerIframes.min.js?1734076719"></script>
+<script src="/typo3conf/ext/sitepackage/Sites/Main/Resources/Public/Scripts/manifest.js?1752758924" defer="defer"></script>
+<script src="/typo3conf/ext/sitepackage/Sites/Main/Resources/Public/Scripts/vendor-vue.js?1752758924" defer="defer"></script>
+<script src="/typo3conf/ext/sitepackage/Sites/Main/Resources/Public/Scripts/vendor-utils.js?1752758924" defer="defer"></script>
+<script src="/typo3conf/ext/sitepackage/Sites/Main/Resources/Public/Scripts/app.js?1761825764" defer="defer"></script>
+<script src="https://secure.pay1.de/client-api/js/v1/payone_hosted.js"></script>
+
+
+</head>
+
+<body>
+
+
+<!-- Tag Manager not set in development Context -->
+
+
+
+
+<div class="wrap wrap--layout-default wrap--show-content-header">
+  <header class="header">
+	<div class="header__bg-primary"></div>
+	<div class="header__bg-secondary"></div>
+	<div class="navbar-toggle">
+	  <button class="navbar-toggle__button" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false">
+		<svg width="27" height="18" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><g fill="#FFF"><g class="navbar-toggle" transform="translate(-1)"><rect class="collapsed" x="1" width="26.182" height="2.273" rx="1.136"/><rect class="collapsed" x="1" y="7.636" width="26.182" height="2.273" rx="1.136"/><rect class="collapsed" x="1" y="15.273" width="17.454" height="2.273" rx="1.136"/><rect class="open" transform="rotate(45 9 9)" x="-1.607" y="7.864" width="21.213" height="2.273" rx="1.136"/><rect class="open" transform="scale(-1 1) rotate(45 0 -13.546)" x="-1.736" y="7.588" width="21.92" height="2.273" rx="1.136"/></g></g></g></svg>
+	  </button>
+	</div>
+	<div class="logo">
+	  <div class="logo__mobile">
+		<a href="/">
+		  <img alt="Dorsch - Lexikon der Psychologie" src="/typo3conf/ext/sitepackage/Sites/Global/Resources/Public/Images/dorsch_lexikon-der-psychologie_logo-mobil.svg" width="114" height="28" />
+		</a>
+	  </div>
+	  <div class="logo__default">
+		<a href="/">
+		  <img alt="Dorsch - Lexikon der Psychologie" src="/typo3conf/ext/sitepackage/Sites/Global/Resources/Public/Images/dorsch_lexikon-der-psychologie_logo.svg" width="154" height="52" />
+		</a>
+	  </div>
+	</div>
+	<div class="header-search-toggle">
+	  <button class="header-search-toggle__activate">
+		<img src="/typo3conf/ext/sitepackage/Sites/Global/Resources/Public/Icons/header-search-toggle__activate.svg" width="22" height="22" alt="" />
+	  </button>
+	  <button class="header-search-toggle__close">
+		<img src="/typo3conf/ext/sitepackage/Sites/Global/Resources/Public/Icons/header-search-toggle__close.svg" width="10" height="10" alt="" />
+	  </button>
+	</div>
+	<userinfo
+	  load-url="https://dorsch.hogrefe.com/stichwort/userinfo.json?tx_datamintsdorsch_userajaxloaduserinfo%5Baction%5D=ajaxLoadUserInfo&amp;tx_datamintsdorsch_userajaxloaduserinfo%5Bcontroller%5D=User&amp;cHash=bf3a5f26744f189cc5553f0fd42c913a"
+	  my-account-url=""
+	  ipv4-test-url="https://v4.ipcheck.hogrefe.com/"
+	  ipv6-test-url="https://v6.ipcheck.hogrefe.com/"
+	  :is-premium="false"
+	></userinfo>
+	<nav class="navbar-links">
+	  
+
+
+
+
+	
+		<ul class="navbar-links__list"><li
+	data-item="59"
+	class="navbar-links__list-item "><a
+		href="/gebiete"
+		
+  		title="19 psychologische Fachgebiete"
+		class="navbar-links__list-item-link  "><span>Gebiete</span></a></li><li
+	data-item="102"
+	class="navbar-links__list-item "><a
+		href="/testverzeichnis"
+		class="navbar-links__list-item-link  "><span>Dorsch-Testverzeichnis</span></a></li><li
+	data-item="66"
+	class="navbar-links__list-item "><a
+		href="/kontakt-und-feedback"
+		class="navbar-links__list-item-link  "><span>Kontakt und Feedback</span></a></li><li
+	data-item="68"
+	class="navbar-links__list-item "><a
+		href="/hilfe"
+		class="navbar-links__list-item-link  "><span>Hilfe</span></a></li><li
+	data-item="99"
+	class="navbar-links__list-item "><a
+		href="/premium-version"
+		class="navbar-links__list-item-link  "><span>Dorsch Premium</span></a></li></ul>
+	
+
+
+
+
+	</nav>
+	<div class="navbar-continuum">
+	  <img class="navbar-continuum__image" src="/typo3conf/ext/sitepackage/Sites/Global/Resources/Public/Images/kontinuum.svg" width="240" height="37" alt="" />
+	  <div class="navbar-continuum__background"></div>
+	</div>
+	<nav class="navbar-footer">
+	  <div class="navbar-footer__publisher">
+		<b>Herausgeber</b><br>
+		Markus Antonius Wirtz <span class="navbar-footer__contact-mobile">,
+				
+				  	
+				</span>
+	  </div>
+
+	  <div class="navbar-footer__special-menu">
+		
+
+
+
+
+	
+		<ul class="navbar-footer__list"><li
+	class="navbar-footer__list-item "><a
+		href="/ueber-den-dorsch"
+		title="Über das Lexikon"
+		class="navbar-footer__list-item-link "><span>Über den Dorsch</span></a></li><li
+	class="navbar-footer__list-item "><a
+		href="/ueber-uns/impressum"
+		title="Impressum"
+		class="navbar-footer__list-item-link "><span>Impressum</span></a></li><li
+	class="navbar-footer__list-item "><a
+		href="/ueber-uns/datenschutz"
+		class="navbar-footer__list-item-link "><span>Datenschutz</span></a></li><li
+	class="navbar-footer__list-item "><a
+		href="/ueber-uns/nutzungsbedingungen"
+		class="navbar-footer__list-item-link "><span>Nutzungsbedingungen</span></a></li><li
+	class="navbar-footer__list-item "><a
+		href="/agb"
+		class="navbar-footer__list-item-link "><span>AGB</span></a></li><li
+	class="navbar-footer__list-item "><a
+		href="/erklaerung-zur-barrierefreiheit"
+		title="Erklärung zur Barrierefreiheit"
+		class="navbar-footer__list-item-link "><span>Barrierefreiheit</span></a></li><li
+	class="navbar-footer__list-item "><a
+		href="/newsletter"
+		class="navbar-footer__list-item-link "><span>Newsletter</span></a></li><li
+	class="navbar-footer__list-item "><a
+		href="/stichwortregister"
+		class="navbar-footer__list-item-link "><span>Stichwortregister</span></a></li></ul>
+	
+
+
+
+
+	  </div>
+	  <div class="navbar-footer__company">
+		<img src="/typo3conf/ext/sitepackage/Sites/Global/Resources/Public/Images/hogrefe-logo.svg" width="120" height="30" alt="" />
+	  </div>
+	  <div class="navbar-footer__disclaimer">
+		<p>Copyright © 2025 Hogrefe. All rights, including for text and data mining, AI training, and similar technologies, are reserved.</p>
+	  </div>
+	</nav>
+  </header>
+
+  <div class="search">
+	
+<div id="c288" class="frame frame-default frame-type-datamintssearch_form frame-layout-0 frame-space-before-default frame-space-after-default">
+
+<div class="datamints_search">
+	
+	<search-form v-bind:search-endpoint='"\/suchergebnisse?"' inline-template>
+
+			<search-field v-bind:search-config='{"requestBuilders":{"0":{"configuration":{"index":"dorsch_update_de","body":{"highlight":{"fragment_size":"100","number_of_fragments":"3","fragmenter":"span","fields":{"description":{"type":"unified"}}},"query":{"function_score":{"functions":[{"weight":"50","filter":{"match":{"type":"datamintsdorsch_categories"}}},{"weight":"20","filter":{"match":{"type":"datamintsdorsch_keywords"}}}],"query":{"bool":{"must":[{"simple_query_string":{"query":{"trim":"1","field":"query","postUserFunc":"Datamints\\DatamintsSearch\\QueryString\\Modifier\\SimpleQueryStringOperatorConversionModifier->modify","_typoScriptNodeValue":"TEXT"},"default_operator":"and","analyze_wildcard":"true","fields":["title^15","description"]}}]}}}},"suggest":{"text":{"field":"query","_typoScriptNodeValue":"TEXT"},"phrase_suggester":{"phrase":{"field":"title.trigram","size":"1","direct_generator":[{"field":"title.trigram"}]}}},"aggs":{"types":{"terms":{"field":"type"}},"categories":{"nested":{"path":"categories"},"aggs":{"category":{"terms":{"field":"categories.uid"},"aggs":{"categoryTitle":{"terms":{"field":"categories.title.keyword"}},"categoryAbbreviation":{"terms":{"field":"categories.abbreviation"}}}}}},"authors":{"nested":{"path":"authors"},"aggs":{"author":{"terms":{"field":"authors.uid"},"aggs":{"authorName":{"terms":{"field":"authors.name.keyword"}}}}}},"keywordTypes":{"terms":{"field":"keywordType","exclude":["","redirect"]}}},"post_filter":{"_transform":"unsetIfEmpty","bool":{"must":{"_transform":"numericKeys","0":{"_ifProperty":"typeFilter","terms":{"type":{"_property":"typeFilter"}}},"1":{"_ifProperty":"categoryFilter","nested":{"path":"categories","query":{"terms":{"categories.uid":{"_property":"categoryFilter"}}}}},"2":{"_ifProperty":"authorFilter","nested":{"path":"authors","query":{"terms":{"authors.uid":{"_property":"authorFilter"}}}}},"3":{"_ifProperty":"keywordTypeFilter","terms":{"keywordType":{"_property":"keywordTypeFilter"}}}}}}}}},"10":{"className":"Datamints\\DatamintsSearch\\Search\\RequestBuilder\\PaginationRequestBuilder","configuration":{"itemsPerPage":"50"}}}}'
+						v-bind:search-input-placeholder="'Suchbegriff/e eingeben'"
+						v-bind:search-submit-placeholder="'Suchen'"
+						v-bind:search-endpoint="searchEndpoint"
+						@submittheform="submitTheForm()"
+			></search-field>
+
+	</search-form>
+
+</div>
+
+</div>
+
+
+	<!--		<div class="search__input-wrapper">-->
+	<!--			<input class="search__input" placeholder="Suchbegriff/e eingeben"></input>-->
+	<!--		</div>-->
+  </div>
+
+  
+	<div class="content-header">
+	  <div class="content-header__context-research">
+		<history-back></history-back>
+		<history load-url="https://dorsch.hogrefe.com/stichwort/userhistory.json?tx_datamintsdorsch_userajaxloadhistory%5Baction%5D=ajaxLoadHistory&amp;tx_datamintsdorsch_userajaxloadhistory%5Bcontroller%5D=User&amp;cHash=57857fb4adc5fc8bbfddd7ec10b6da09"></history>
+		<search-result-navigator class="content-header__element"></search-result-navigator>
+	  </div>
+	  <div class="content-header__context-article">
+		
+		  <button title="Zitieren" class="content-header-citation-modal-opener modal_opener" data-modal="#citation-modal">
+			<svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+			  <path fill-rule="evenodd" clip-rule="evenodd" d="M4.23607 14L6.73607 9H2V2H9V9.52786L6.76393 14H4.23607ZM10.5 11L8.27639 15.4472C8.107 15.786 7.76074 16 7.38197 16H2.61803C1.87465 16 1.39116 15.2177 1.72361 14.5528L3.5 11H1C0.447715 11 0 10.5523 0 10V1C0 0.447715 0.447715 0 1 0H10H19C19.5523 0 20 0.447715 20 1V9.76393C20 9.91918 19.9639 10.0723 19.8944 10.2111L17.2764 15.4472C17.107 15.786 16.7607 16 16.382 16H11.618C10.8747 16 10.3912 15.2177 10.7236 14.5528L12.5 11H10.5ZM11 9H15.7361L13.2361 14H15.7639L18 9.52786V2H11V9Z" fill="#CFCFCF"/>
+			</svg>
+		  </button>
+		
+		
+			<share-url
+			  classes="content-header-share paywall"
+			  tooltip="Teilen"
+			  url="https://dorsch.hogrefe.com/stichwort/fantasie"
+			  :premium="false"
+			  title=""
+			  summary=""
+			></share-url>
+		  
+		
+			<button title="Merken" class="content-header-bookmark modal_opener" data-modal="#bookmark-modal">
+			  <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+				<g class="stern" sketch:type="MSLayerGroup" transform="translate(0.000000, 1.000000)">
+				  <path d="M2.70824626,8.83230322 L6.96097324,13.9658849 L5.89615012,19.9002154 L12.0560266,17.4430393 L18.0948065,20.7046263 L17.0771576,13.9268239 L21.7153024,8.86794631 L15.2928068,7.77668181 L12.3312903,1.99859496 L8.99165098,7.69538627 L2.70824626,8.83230322 Z" class="bg"></path>
+				  <path d="M12.0003273,0 C12.4300364,0 12.8197091,0.253219048 12.9956727,0.646770952 L15.7660364,6.84400048 L22.4928,7.57426143 C22.92,7.62063381 23.2803273,7.91443143 23.4130909,8.32469667 C23.5458545,8.7349619 23.4264,9.18521429 23.1079636,9.47490476 L18.0933818,14.0352571 L19.4803636,20.6837905 C19.5684,21.1060048 19.4013818,21.5408143 19.0538182,21.7943619 C18.7061455,22.0479095 18.2427273,22.0729905 17.8699636,21.8584333 L12.0003273,18.4796238 L6.1308,21.8584333 C5.75805818,22.0729905 5.29456364,22.0479095 4.94695636,21.7943619 C4.59934909,21.5408143 4.43235273,21.1060048 4.52043273,20.6837905 L5.90733818,14.0352571 L0.892832727,9.47490476 C0.574385455,9.18521429 0.45492,8.7349619 0.587705455,8.32469667 C0.72048,7.91443143 1.08076364,7.62063381 1.50794182,7.57426143 L8.23467273,6.84400048 L11.0050909,0.646770952 C11.1810545,0.253219048 11.5707273,0 12.0003273,0 L12.0003273,0 Z M12.0003273,3.77001762 L9.96905455,8.31385381 C9.81044727,8.6687 9.47625818,8.9125 9.09110182,8.95422857 L4.15902545,9.48969048 L7.83568364,12.8333429 C8.12281091,13.0944476 8.25045818,13.4889524 8.17105091,13.8695476 L7.15416,18.7443429 L11.4577091,16.2670238 C11.7938182,16.0734952 12.2069455,16.0734952 12.5430545,16.2670238 L16.8465818,18.7443429 L15.8297455,13.8695476 C15.7503273,13.4889524 15.8779636,13.0944476 16.1650909,12.8333429 L19.8416727,9.48969048 L14.9096727,8.95422857 C14.5244727,8.9125 14.1903273,8.6687 14.0317091,8.31385381 L12.0003273,3.77001762 L12.0003273,3.77001762 Z" class="fg"></path>
+				</g>
+			  </svg>
+			</button>
+		  
+	  </div>
+	  <div id="contents_notification-wrapper"></div>
+	</div>
+  
+
+  <main class="contents">
+	
+	<div class="contents__back" v-if="showBackButton">
+	  <button class="contents__back-button" onclick="history.back()">
+		<svg  width="17" height="14" viewBox="0 0 17 14" fill="none" xmlns="http://www.w3.org/2000/svg" class="contents__back-button-icon"><path data-v-fa328ab6="" d="M10.0972 3.88889H8.93055V7.77777L12.2594 9.75333L12.8194 8.81222L10.0972 7.19444V3.88889ZM9.70833 0C7.85181 0 6.07134 0.737497 4.75858 2.05025C3.44583 3.36301 2.70833 5.14348 2.70833 7H0.375L3.455 10.1344L6.59722 7H4.26389C4.26389 3.99 6.69833 1.55555 9.70833 1.55555C12.7183 1.55555 15.1528 3.99 15.1528 7C15.1528 10.01 12.7183 12.4444 9.70833 12.4444C8.20722 12.4444 6.84611 11.83 5.86611 10.8422L4.76166 11.9467C5.40988 12.5984 6.18071 13.1155 7.02971 13.4679C7.87872 13.8203 8.78909 14.0011 9.70833 14C11.5468 13.9726 13.3006 13.223 14.591 11.9133C15.8814 10.6035 16.6048 8.83864 16.6048 7C16.6048 5.16135 15.8814 3.39651 14.591 2.08673C13.3006 0.776961 11.5468 0.0274066 9.70833 0Z" fill="#999999"></path></svg>
+		<span class="contents__back-button-text">zurück</span>
+	  </button>
+	</div>
+	
+  <div class="container">
+	
+	
+
+	<!--TYPO3SEARCH_begin-->
+<div id="c281" class="frame frame-default frame-type-datamintsdorsch_keywordsshow frame-layout-0 frame-space-before-default frame-space-after-default"><div class="tx-datamints-dorsch"><script type='application/ld+json'>
+			
+
+
+	
+
+
+
+
+{
+    "@context": "https://schema.org",
+    "@graph": [
+	{
+	"@type": "Organization",
+	"@id": "https://dorsch.hogrefe.com/#organization",
+	"name": "Hogrefe",
+	"legalName": "Hogrefe AG",
+	"foundingLocation": "Bern",
+	"founders": [
+		{
+			"@type": "Person",
+			"name": "Dr. Carl Jürgen Hogrefe"
+		}
+	],
+	"numberOfEmployees": "60",
+	"url": "https://dorsch.hogrefe.com/",
+	"email": "dorsch@hogrefe.com",
+	"vatID": "CHE-105.902.933 MWST",
+	"sameAs": [
+		"https://www.facebook.com/hogrefe.verlag/",
+		"https://twitter.com/HogrefeVerlag",
+		"https://www.linkedin.com/company/hogrefeverlag",
+		"https://www.xing.com/companies/hogrefeverlaggmbh%26co.kg",
+		"https://www.youtube.com/user/hogrefeverlag",
+		"https://www.instagram.com/hogrefeverlag/"
+	],
+	"logo": {
+		"@type": "ImageObject",
+		"@id": "https://dorsch.hogrefe.com/#logo",
+		"url": "https://dorsch.hogrefe.com/fileadmin/Resources/Public/Global/Images/dorsch_lexikon-der-psychologie_logo.svg",
+		"width": 154,
+		"height": 52,
+		"caption": "Dorsch - Lexikon der Psychologie von Hogrefe"
+	},
+	"address": {
+		"@type": "PostalAddress",
+		"streetAddress": "Länggassstr. 76",
+		"addressLocality": "Bern",
+		"addressRegion": "Bern",
+		"postalCode": "3012",
+		"addressCountry": "Schweiz"
+	},
+	"contactPoint": {
+		"@type": "ContactPoint",
+		"contactType": "customer support",
+		"telephone": "+41313004500",
+		"email": "dorsch@hogrefe.com"
+	}
+},
+
+	  {
+	  "@type": "WebSite",
+	  "@id": "https://dorsch.hogrefe.com/#website",
+	  "url": "https://dorsch.hogrefe.com/",
+	  "name": "Dorsch - Lexikon der Psychologie",
+	  "publisher": {
+		  "@id": "https://dorsch.hogrefe.com/#organization"
+	  }
+  },
+
+	{
+	"@type": "BreadcrumbList",
+	"@id": "https://dorsch.hogrefe.com/stichwort/resilienz#breadcrumb",
+	"itemListElement": [
+		{
+			"@type": "ListItem",
+			"position": 1,
+			"item": {
+				"@type": "WebPage",
+				"@id": "https://dorsch.hogrefe.com/",
+				"url": "https://dorsch.hogrefe.com/",
+				"name": "Dorsch - Lexikon der Psychologie"
+			}
+		},
+		
+		  
+	{
+		"@type": "ListItem",
+		"position": 2,
+		"item": {
+			"@type": "WebPage",
+			"@id": "https://dorsch.hogrefe.com/stichworte",
+			"url": "https://dorsch.hogrefe.com/stichworte",
+			"name": "A - Z Stichworte"
+		}
+	},
+
+		
+
+		
+		  
+		{
+			"@type": "ListItem",
+			"position": 3,
+			"item": {
+				"@type": "WebPage",
+				"@id": "https://dorsch.hogrefe.com/gebiet/kognitive-psychologie",
+				"url": "https://dorsch.hogrefe.com/gebiet/kognitive-psychologie",
+				"name": "Kognitive Psychologie"
+			}
+		},
+	
+		
+
+		
+		  
+	{
+	"@type": "ListItem",
+		"position": 4,
+		"item": {
+			"@type": "WebPage",
+			"@id": "https://dorsch.hogrefe.com/stichwort/fantasie",
+			"url": "https://dorsch.hogrefe.com/stichwort/fantasie",
+			"name": "Fantasie"
+		}
+	}
+
+		
+	]
+},
+
+		  {
+		  "@type": [
+			  "WebPage"
+		  ],
+		  "@id": "https://dorsch.hogrefe.com/stichwort/fantasie#webpage",
+		  "url": "https://dorsch.hogrefe.com/stichwort/fantasie",
+		  "inLanguage": "de",
+		  "name": "Fantasie: Stichwort, Definition, Referenzen & weiterführende Quellen",
+		  "isPartOf": {
+			  "@id": "https://dorsch.hogrefe.com/#website"
+		  },
+		  "speakable": {
+			  "@type": "SpeakableSpecification",
+			  "xPath": [
+				  "/html/head/title",
+				  "/html/head/meta[@name='description']/@content"
+			  ]
+		  },
+		  
+		  "datePublished": "2021-04-17T09:01:39+02:00",
+		  "dateModified": "2021-04-17T09:01:39+02:00",
+		  
+		  "description": "Fantasie: Stichwort, Definition, Referenzen & weiterführende Quellen"
+	  },
+
+	  {
+		  "@type": "DefinedTerm",
+		  "mainEntityOfPage": {
+			  "@type": "WebPage",
+			  "@id": "https://dorsch.hogrefe.com/stichwort/fantasie#webpage"
+		  },
+		  "name": "Fantasie",
+		  "description": "Fantasie: Stichwort, Definition, Referenzen & weiterführende Quellen",
+		  "url": "https://dorsch.hogrefe.com/stichwort/fantasie",
+		
+		  
+		  "inDefinedTermSet": [
+		  
+			  "https://dorsch.hogrefe.com/gebiet/kognitive-psychologie",
+		  
+			  "https://dorsch.hogrefe.com/gebiet/persoenlichkeitspsychologie-und-differentielle-psychologie"
+		  
+		  ]
+		  
+		
+	  }
+
+    ]
+}
+
+		</script><div class="detail" data-uid="7252"><div class="breadcrumbs"><ul class="breadcrumbs__list"><li class="breadcrumbs__element breadcrumbs__element--home"><a class="breadcrumbs__link breadcrumbs__link--default" href="https://dorsch.hogrefe.com/" title="Lexikon der Psychologie, Hogrefe AG"><svg width="391px" height="329px" viewBox="0 0 391 329" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Group" fill="#0468B4" transform="translate(0.517331, -0.000000)"><rect id="Rectangle-Copy" transform="translate(278.000000, 97.073884) rotate(39.000000) translate(-278.000000, -97.073884) " x="151" y="76.0738837" width="254" height="42" rx="21"></rect><rect id="Rectangle-Copy-2" transform="translate(112.000000, 97.073884) scale(-1, 1) rotate(39.000000) translate(-112.000000, -97.073884) " x="-15" y="76.0738837" width="254" height="42" rx="21"></rect><path d="M208.284627,87.3037547 L331.284627,186.395463 C336.468516,190.571727 339.482669,196.870611 339.482669,203.527479 L339.482669,307 C339.482669,319.150264 329.632934,329 317.482669,329 L171.482669,328.999771 L171.482669,199 L94.4826693,199 L94.4826693,328.999771 L71.4826693,329 C59.3324048,329 49.4826693,319.150264 49.4826693,307 L49.4826693,203.527479 C49.4826693,196.870611 52.4968227,190.571727 57.6807121,186.395463 L180.680712,87.3037547 C188.737384,80.8131095 200.227955,80.8131095 208.284627,87.3037547 Z M308.482669,216 L209.482669,216 L209.482669,292 L308.482669,292 L308.482669,216 Z" id="Rectangle-2"></path><rect id="Rectangle" x="293.482669" y="32" width="43" height="94" rx="20"></rect></g></g></svg></a></li><li class="breadcrumbs__element breadcrumbs__element-separator" aria-hidden="true"><svg width="8" height="12" viewBox="0 0 8 12" xmlns="http://www.w3.org/2000/svg"><path d="M7.23022 5.27299C7.64806 5.66761 7.64806 6.33239 7.23022 6.72701L1.64706 12L0 10.4444L4.70588 6L0 1.55556L1.64706 9.53674e-07L7.23022 5.27299Z" /></svg></li><li class="breadcrumbs__element breadcrumbs__element--default"><a class="breadcrumbs__link breadcrumbs__link--default" href="https://dorsch.hogrefe.com/gebiete" title="">
+							
+					  Gebiete
+					
+						</a></li><li class="breadcrumbs__element breadcrumbs__element-separator" aria-hidden="true"><svg width="8" height="12" viewBox="0 0 8 12" xmlns="http://www.w3.org/2000/svg"><path d="M7.23022 5.27299C7.64806 5.66761 7.64806 6.33239 7.23022 6.72701L1.64706 12L0 10.4444L4.70588 6L0 1.55556L1.64706 9.53674e-07L7.23022 5.27299Z" /></svg></li><li class="breadcrumbs__element breadcrumbs__element--default"><div class="breadcrumbs__element-categories"><a href="" title="Kognitive Psychologie"><span class="breadcrumbs__category-title breadcrumbs__category-title--imagetitle">KOG</span></a><span class="breadcrumb__category-separator">
+								/
+							</span><a href="" title="Persönlichkeits- und Differentielle Psychologie"><span class="breadcrumbs__category-title breadcrumbs__category-title--imagetitle">PER</span></a></div></li><li class="breadcrumbs__element breadcrumbs__element-separator" aria-hidden="true"><svg width="8" height="12" viewBox="0 0 8 12" xmlns="http://www.w3.org/2000/svg"><path d="M7.23022 5.27299C7.64806 5.66761 7.64806 6.33239 7.23022 6.72701L1.64706 12L0 10.4444L4.70588 6L0 1.55556L1.64706 9.53674e-07L7.23022 5.27299Z" /></svg></li><li class="breadcrumbs__element breadcrumbs__element--default"><div class="breadcrumbs__link breadcrumbs__link--div" title="">
+							Fantasie
+						</div></li></ul></div><div id="citation-modal" class="modal_wrapper"><div class="modal_content"><button class="modal_close"><svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6.41428 5.00009L9.70719 1.70718L8.29297 0.292969L5.00006 3.58588L1.70718 0.292997L0.292969 1.70721L3.58585 5.00009L0.292973 8.29297L1.70719 9.70718L5.00006 6.4143L8.29297 9.70721L9.70718 8.293L6.41428 5.00009Z" fill="#999999"/></svg></button><div class="bookmark-modal_content bookmark-modal_content--layout2 paywall"><svg class="bookmark-modal_content-icon" width="45" height="45" viewBox="0 0 45 45" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M11.6926 35.625L16.3801 26.25H7.5V13.125H20.625V27.2397L16.4324 35.625H11.6926ZM23.4375 30L19.2682 38.3385C18.9506 38.9737 18.3014 39.375 17.5912 39.375H8.65881C7.26497 39.375 6.35842 37.9082 6.98176 36.6615L10.3125 30H5.625C4.58947 30 3.75 29.1605 3.75 28.125V11.25C3.75 10.2145 4.58947 9.375 5.625 9.375H22.5H39.375C40.4105 9.375 41.25 10.2145 41.25 11.25V27.6824C41.25 27.9735 41.1822 28.2605 41.0521 28.5209L36.1432 38.3385C35.8256 38.9737 35.1764 39.375 34.4662 39.375H25.5338C24.14 39.375 23.2334 37.9082 23.8568 36.6615L27.1875 30H23.4375ZM24.375 26.25H33.2551L28.5676 35.625H33.3074L37.5 27.2397V13.125H24.375V26.25Z" fill="#0068B4"/></svg><div class="bookmark-modal_content-heading">
+						Zitierhilfe
+					</div><div class="bookmark-modal_content-text">
+						Die Zitierhilfe steht nur mit der  Premium-Version zur Verfügung.
+					</div><a class="bookmark-modal_content-register" href="/premium-version">
+						Über die Premium-Version
+					</a><div class="bookmark-modal_content-text bookmark-modal_content-text--2">
+						Sie sind schon für die Premium-Version registriert?
+					</div><button class="bookmark-modal_content-login modal_opener js-modal_close" data-modal="#login-modal">
+						Zur Anmeldung
+					</button></div></div></div><div class="detail__section detail__main-content" id="detail__main-content"><h1 class="detail__title">Fantasie</h1><span class="detail__title-after-separator">&nbsp;</span><p>[engl. <em>fantasy</em>, <em>imagination</em>; gr.<em> φαντασία (phantasia)</em> Vorstellung, Erscheinung, Gespinst], gleichbedeutend mit&nbsp;<a href="/stichwort/vorstellung" class="context-navigator-link dm_dK10207">Vorstellung</a>skraft,  <strong>[<a href="/gebiet/kognitive-psychologie" class="context-navigator-link dm_dC2">KOG</a>, <a href="/gebiet/persoenlichkeitspsychologie-und-differentielle-psychologie" class="context-navigator-link dm_dC18">PER</a>]</strong>, ebenso die Vorstellungen, die neu in unser Bewusstsein treten und sich mit den vorhandenen Bewusstseinsinhalten verbinden. Entscheidend ist das Neuartige der Fantasiekombinationen. Sie enthalten meist weder <a href="/stichwort/erinnerung" class="context-navigator-link dm_dK2932">Erinnerung</a> noch Wiedererkennen, wenn sie auch die Neuorganisation von Erfahrenem sein können. Die Fantasie kann absichtlos schweifen (passiv) oder planvoll (aktiv), mehr reproduzierend oder rein kombinatorisch geartet sein. Sie kann im <a href="/stichwort/traum-traeumen" class="context-navigator-link dm_dK9712">Traum</a>, durch <a href="/stichwort/droge" class="context-navigator-link dm_dK25153">Drogen</a> erzeugt, bei sensorischer <a href="/stichwort/deprivation" class="context-navigator-link dm_dK2135">Deprivation</a>, im <a href="/stichwort/aberglaube" class="context-navigator-link dm_dK19">Aberglauben</a> und vor allem bei <a href="/stichwort/psychose" class="context-navigator-link dm_dK26194">Psychosen</a> überhandnehmen und die Persönlichkeit beeinträchtigen. Freud ordnete die Fantasie den Primärprozessen (<a href="/stichwort/primaervorgang" class="context-navigator-link dm_dK26113">Primärvorgang</a>) zu.</p></div><book-recommendations v-bind:html-id="'found-seminars-recommendations'" v-bind:header-text="'Thematisch passende Hogrefe Webinare und Seminare'" v-bind:layout="'book'" v-bind:button-text="'Details und Anmeldung'" v-bind:url="'https://dorsch.hogrefe.com/stichwort/keywordFoundSeminars.json?tx_datamintsdorsch_keywordsfoundseminars%5Baction%5D=foundSeminars&amp;tx_datamintsdorsch_keywordsfoundseminars%5Bcontroller%5D=Keyword&amp;tx_datamintsdorsch_keywordsfoundseminars%5Bkeyword%5D=7252&amp;cHash=f58e40af80dea8aba147643d77f1c46d'"></book-recommendations><book-recommendations v-bind:html-id="'book-recommendations'" v-bind:header-text="'Thematisch passende Hogrefe eBooks'" v-bind:layout="'book'" v-bind:button-text="'Direkt zum eBook'" v-bind:url="'https://dorsch.hogrefe.com/stichwort/keywordRecommendations.json?tx_datamintsdorsch_keywordsrecommendations%5Baction%5D=recommendations&amp;tx_datamintsdorsch_keywordsrecommendations%5Bcontroller%5D=Keyword&amp;tx_datamintsdorsch_keywordsrecommendations%5Bkeyword%5D=7252&amp;cHash=991009a0a12ab940144946cb8a184a2a'"></book-recommendations><book-recommendations v-bind:html-id="'journals-recommendations'" v-bind:header-text="'Thematisch passende Hogrefe Journal-Artikel'" v-bind:layout="'magazine'" v-bind:button-text="'Direkt zum Artikel'" v-bind:url="'https://dorsch.hogrefe.com/?tx_datamintssru_pi1%5Baction%5D=basicRequest&amp;tx_datamintssru_pi1%5Bcontroller%5D=Econtent&amp;tx_datamintssru_pi1%5Blimit%5D=10&amp;tx_datamintssru_pi1%5BsearchTerm%5D=Fantasie&amp;type=1612532115&amp;cHash=3307ac0ad58402be127793f532cc62d2'"></book-recommendations><book-recommendations v-bind:html-id="'found-test-product-recommendations'" v-bind:header-text="'Thematisch passende Testverfahren'" v-bind:layout="'book'" v-bind:button-text="'Direkt zum Test'" v-bind:url="'https://dorsch.hogrefe.com/stichwort/keywordFoundTestProducts.json?tx_datamintsdorsch_keywordsfoundtestproducts%5Baction%5D=foundTestProducts&amp;tx_datamintsdorsch_keywordsfoundtestproducts%5Bcontroller%5D=Keyword&amp;tx_datamintsdorsch_keywordsfoundtestproducts%5Bkeyword%5D=7252&amp;cHash=5494ecfddb24a9d53fde61a0b712c1eb'"></book-recommendations><search-results-further v-bind:current-keyword-uid="7252"></search-results-further></div><history-request request-url="https://dorsch.hogrefe.com/stichwort/userstorehistory.json?tx_datamintsdorsch_userajaxstorehistory%5Baction%5D=ajaxStoreHistory&amp;tx_datamintsdorsch_userajaxstorehistory%5Bcontroller%5D=User&amp;tx_datamintsdorsch_userajaxstorehistory%5Bkeyword%5D=7252&amp;cHash=aa4d942a4b3e88225b4f4e288a56a617"></history-request></div></div>
+
+<!--TYPO3SEARCH_end-->
+  </div>
+
+  </main>
+
+  <div class="wrap__sidebar-background"></div>
+  <div class="wrap__separator"></div>
+
+  
+
+  
+  
+  
+
+  <userinfo
+	load-url="https://dorsch.hogrefe.com/stichwort/userinfo.json?tx_datamintsdorsch_userajaxloaduserinfo%5Baction%5D=ajaxLoadUserInfo&amp;tx_datamintsdorsch_userajaxloaduserinfo%5Bcontroller%5D=User&amp;cHash=bf3a5f26744f189cc5553f0fd42c913a"
+	my-account-url=""
+
+	ipv4-test-url="https://v4.ipcheck.hogrefe.com/"
+	ipv6-test-url="https://v6.ipcheck.hogrefe.com/"
+	:is-premium="false"
+  ></userinfo>
+
+  <aside class="sidebar sidebar--has-context-navigator sidebar--no-test-navigator">
+	<button class="sidebar__toggle">
+	  <svg class="sidebar__toggle-icon" width="13px" height="26px" viewBox="0 0 2076 4152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<g class="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		  <g class="Artboard" transform="translate(-360.000000, -161.000000)">
+			<g class="Group-3" transform="translate(360.000000, 161.000000)">
+			  <g class="sidebar__toggle-icon-close" transform="translate(22.000000, 1118.000000)" fill="#9F9F9F">
+				<polygon class="Rectangle-Copy-7" transform="translate(1010.399498, 1016.275623) rotate(-45.000000) translate(-1010.399498, -1016.275623) " points="854.862238 -257.10779 1173.32378 -258.030867 1165.93916 2289.66144 847.477623 2290.58452"></polygon>
+				<polygon class="Rectangle-Copy-8" transform="translate(1010.399498, 1016.275623) rotate(45.000000) translate(-1010.399498, -1016.275623) " points="847.477623 -258.033271 1165.93916 -257.110194 1173.32378 2290.58211 854.862238 2289.65904"></polygon>
+			  </g>
+			  <g class="sidebar__toggle-icon-open" transform="translate(578.000000, 0.000000)" fill="#9F9F9F">
+				<rect class="Rectangle" x="0" y="0" width="317.666667" height="4152"></rect>
+				<rect class="Rectangle-Copy" x="635.333333" y="0" width="317.666667" height="4152"></rect>
+			  </g>
+			</g>
+		  </g>
+		</g>
+	  </svg>
+	</button>
+
+	<div class="sidebar__content">
+	  
+  
+<div id="c293" class="frame frame-default frame-type-datamintsdorsch_keywordsshowaside frame-layout-0 frame-space-before-default frame-space-after-default"><div class="tx-datamints-dorsch"><div class="detail-aside"><div class="detail-aside__section detail-aside__section--table-of-contents"><h2 class="detail-aside__section-title">
+					Inhaltsverzeichnis
+				</h2><ul class="detail-aside__table-of-contents"><li class="detail-aside__table-of-contents-element detail-aside__table-of-contents-element--active"><a href="#detail__main-content" data-turbolinks="false">
+							Stichwort
+						</a></li><li class="detail-aside__table-of-contents-element detail-aside__table-of-contents-element--hidden"><a href="#found-seminars-recommendations" data-turbolinks="false">
+					  Thematisch passende Hogrefe Webinare und Seminare
+					</a></li><li class="detail-aside__table-of-contents-element detail-aside__table-of-contents-element--hidden"><a href="#book-recommendations" data-turbolinks="false">
+							Thematisch passende Hogrefe eBooks
+						</a></li><li class="detail-aside__table-of-contents-element detail-aside__table-of-contents-element--hidden"><a href="#journals-recommendations" data-turbolinks="false">
+							Thematisch passende Hogrefe Journal-Artikel
+						</a></li><li class="detail-aside__table-of-contents-element detail-aside__table-of-contents-element--hidden"><a href="#found-test-product-recommendations" data-turbolinks="false">
+								Thematisch passende Testverfahren
+							</a></li></ul></div><div class="detail-aside__section detail-aside__section--publish-date publish-date"><div class="publish-date__label">
+						Zuletzt geändert
+					</div><div class="publish-date__date">
+						17.04.2021
+					</div></div></div></div></div>
+
+
+
+	</div>
+
+	
+	
+	  <div class="sidebar__context-navigator">
+		<context-navigator navigator-data='
+			{
+				"global": {
+					"smallBoxTitle": "Kontextnavigator",
+					"mainBoxTitle": "Verlinkte Stichwörter",
+					"listViewTitle": "Listenansicht",
+					"detailViewTitle": "Textvorschau",
+					
+							"hasPremium": false,
+							"premiumPreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t"
+						
+				},
+				"entries": [
+					
+						{
+						"uid": 1,
+						"title": "Vorstellung",
+						"linkText": "Zum Stichwort",
+						"type": "Stichwort",
+						"author": "Vorstellung",
+						
+								"hasPremium": false,
+							  	"kwID": 10207,
+								"textpreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t",
+								"registerorlogin": ""
+							
+						}
+						
+							,
+						
+					
+						{
+						"uid": 2,
+						"title": "Erinnerung",
+						"linkText": "Zum Stichwort",
+						"type": "Stichwort",
+						"author": "Erinnerung",
+						
+								"hasPremium": false,
+							  	"kwID": 2932,
+								"textpreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t",
+								"registerorlogin": ""
+							
+						}
+						
+							,
+						
+					
+						{
+						"uid": 3,
+						"title": "Traum, tr&auml;umen",
+						"linkText": "Zum Stichwort",
+						"type": "Stichwort",
+						"author": "Traum, tr&auml;umen",
+						
+								"hasPremium": false,
+							  	"kwID": 9712,
+								"textpreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t",
+								"registerorlogin": ""
+							
+						}
+						
+							,
+						
+					
+						{
+						"uid": 4,
+						"title": "Droge",
+						"linkText": "Zum Stichwort",
+						"type": "Stichwort",
+						"author": "Droge",
+						
+								"hasPremium": false,
+							  	"kwID": 25153,
+								"textpreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t",
+								"registerorlogin": ""
+							
+						}
+						
+							,
+						
+					
+						{
+						"uid": 5,
+						"title": "Deprivation",
+						"linkText": "Zum Stichwort",
+						"type": "Stichwort",
+						"author": "Deprivation",
+						
+								"hasPremium": false,
+							  	"kwID": 2135,
+								"textpreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t",
+								"registerorlogin": ""
+							
+						}
+						
+							,
+						
+					
+						{
+						"uid": 6,
+						"title": "Aberglaube",
+						"linkText": "Zum Stichwort",
+						"type": "Stichwort",
+						"author": "Aberglaube",
+						
+								"hasPremium": false,
+							  	"kwID": 19,
+								"textpreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t",
+								"registerorlogin": ""
+							
+						}
+						
+							,
+						
+					
+						{
+						"uid": 7,
+						"title": "Psychose",
+						"linkText": "Zum Stichwort",
+						"type": "Stichwort",
+						"author": "Psychose",
+						
+								"hasPremium": false,
+							  	"kwID": 26194,
+								"textpreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t",
+								"registerorlogin": ""
+							
+						}
+						
+							,
+						
+					
+						{
+						"uid": 8,
+						"title": "Prim&auml;rvorgang",
+						"linkText": "Zum Stichwort",
+						"type": "Stichwort",
+						"author": "Prim&auml;rvorgang",
+						
+								"hasPremium": false,
+							  	"kwID": 26113,
+								"textpreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t",
+								"registerorlogin": ""
+							
+						}
+						
+					
+				]
+			}
+		'></context-navigator>
+	  </div>
+	
+
+  </aside>
+
+  
+	<div class="mobile__context-navigator">
+	  <context-navigator navigator-data='
+			{
+				"global": {
+					"smallBoxTitle": "Kontextnavigator",
+					"mainBoxTitle": "Verlinkte Stichwörter",
+					"listViewTitle": "Listenansicht",
+					"detailViewTitle": "Textvorschau",
+					
+							"hasPremium": false,
+							"premiumPreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t"
+						
+				},
+				"entries": [
+					
+						{
+						"uid": 1,
+						"title": "Vorstellung",
+						"linkText": "Zum Stichwort",
+						"type": "Stichwort",
+						"author": "Vorstellung",
+						
+								"hasPremium": false,
+							  	"kwID": 10207,
+								"textpreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t",
+								"registerorlogin": ""
+							
+						}
+						
+							,
+						
+					
+						{
+						"uid": 2,
+						"title": "Erinnerung",
+						"linkText": "Zum Stichwort",
+						"type": "Stichwort",
+						"author": "Erinnerung",
+						
+								"hasPremium": false,
+							  	"kwID": 2932,
+								"textpreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t",
+								"registerorlogin": ""
+							
+						}
+						
+							,
+						
+					
+						{
+						"uid": 3,
+						"title": "Traum, tr&auml;umen",
+						"linkText": "Zum Stichwort",
+						"type": "Stichwort",
+						"author": "Traum, tr&auml;umen",
+						
+								"hasPremium": false,
+							  	"kwID": 9712,
+								"textpreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t",
+								"registerorlogin": ""
+							
+						}
+						
+							,
+						
+					
+						{
+						"uid": 4,
+						"title": "Droge",
+						"linkText": "Zum Stichwort",
+						"type": "Stichwort",
+						"author": "Droge",
+						
+								"hasPremium": false,
+							  	"kwID": 25153,
+								"textpreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t",
+								"registerorlogin": ""
+							
+						}
+						
+							,
+						
+					
+						{
+						"uid": 5,
+						"title": "Deprivation",
+						"linkText": "Zum Stichwort",
+						"type": "Stichwort",
+						"author": "Deprivation",
+						
+								"hasPremium": false,
+							  	"kwID": 2135,
+								"textpreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t",
+								"registerorlogin": ""
+							
+						}
+						
+							,
+						
+					
+						{
+						"uid": 6,
+						"title": "Aberglaube",
+						"linkText": "Zum Stichwort",
+						"type": "Stichwort",
+						"author": "Aberglaube",
+						
+								"hasPremium": false,
+							  	"kwID": 19,
+								"textpreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t",
+								"registerorlogin": ""
+							
+						}
+						
+							,
+						
+					
+						{
+						"uid": 7,
+						"title": "Psychose",
+						"linkText": "Zum Stichwort",
+						"type": "Stichwort",
+						"author": "Psychose",
+						
+								"hasPremium": false,
+							  	"kwID": 26194,
+								"textpreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t",
+								"registerorlogin": ""
+							
+						}
+						
+							,
+						
+					
+						{
+						"uid": 8,
+						"title": "Prim&auml;rvorgang",
+						"linkText": "Zum Stichwort",
+						"type": "Stichwort",
+						"author": "Prim&auml;rvorgang",
+						
+								"hasPremium": false,
+							  	"kwID": 26113,
+								"textpreview": "\n\t\t\u003Cdiv class=\"datamints_contextnavigator-text\"\u003E\n\t\t\t\u003Cdiv class=\"datamints_contextnavigator-text-only_for_premium_explanationtext\"\u003E\n\t\t\t\tDer Kontextnavigator steht nur mit der Premium-Version zur Verf\u00fcgung. \n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Ca href=\"\/premium-version\" class=\"bookmark-modal_content-register\"\u003E\n\t\t\t\t\u00dcber die Premium-Version\n\t\t\t\u003C\/a\u003E\n\t\t\t\u003Cdiv class=\"bookmark-modal_content-text bookmark-modal_content-text--2\"\u003E\n\t\t\t\t\n\t\t\t\t\tSie sind schon f\u00fcr die Premium-Version registriert?\n\t\t\t\t\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cbutton class=\"bookmark-modal_content-login modal_opener js-modal_close\" data-modal=\"#login-modal\"\u003E\n\t\t\t\tZur Anmeldung\n\t\t\t\u003C\/button\u003E\n\t\t\u003C\/div\u003E\n\t",
+								"registerorlogin": ""
+							
+						}
+						
+					
+				]
+			}
+		' is-mobile="true"></context-navigator>
+	</div>
+  
+
+  
+	<div id="login-modal" class="modal_wrapper">
+	  <div class="modal_content">
+		<button class="modal_close">
+		  <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+			<path d="M6.41428 5.00009L9.70719 1.70718L8.29297 0.292969L5.00006 3.58588L1.70718 0.292997L0.292969 1.70721L3.58585 5.00009L0.292973 8.29297L1.70719 9.70718L5.00006 6.4143L8.29297 9.70721L9.70718 8.293L6.41428 5.00009Z" fill="#999999"/>
+		  </svg>
+		</button>
+		
+
+
+
+
+
+
+<form target="_top" spellcheck="false" class="form login__form" action="/anmelden?tx_felogin_login%5Baction%5D=login&amp;tx_felogin_login%5Bcontroller%5D=Login&amp;cHash=d51dfc1a9a0efd9fdbbb3a8a5ac7523c" method="post">
+<div>
+<input type="hidden" name="__referrer[@extension]" value="Felogin" >
+<input type="hidden" name="__referrer[@controller]" value="Login" >
+<input type="hidden" name="__referrer[@action]" value="login" >
+<input type="hidden" name="__referrer[arguments]" value="YTowOnt9794b8b607c0f7ab00df2f7c7647033e264755bca" >
+<input type="hidden" name="__referrer[@request]" value="{&quot;@extension&quot;:&quot;Felogin&quot;,&quot;@controller&quot;:&quot;Login&quot;,&quot;@action&quot;:&quot;login&quot;}90fb244df667351a53d8cbee5c76921c21a68eb8" >
+<input type="hidden" name="__RequestToken" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IntcInR5cGVcIjpcIm5vbmNlXCIsXCJuYW1lXCI6XCJWQzJxUGVHN2xyWE5DeXFHUk1QeFlRXCJ9In0.eyJzY29wZSI6ImNvcmUvdXNlci1hdXRoL2ZlIiwidGltZSI6IjIwMjUtMTItMTdUMTQ6NTA6MzArMDE6MDAiLCJwYXJhbXMiOnsicGlkIjoiMTIiLCJyZXF1ZXN0Ijp7InVyaSI6Ii9hbm1lbGRlbj90eF9mZWxvZ2luX2xvZ2luJTVCYWN0aW9uJTVEPWxvZ2luJmFtcDt0eF9mZWxvZ2luX2xvZ2luJTVCY29udHJvbGxlciU1RD1Mb2dpbiZhbXA7Y0hhc2g9ZDUxZGZjMWE5YTBlZmQ5ZmRiYmIzYThhNWFjNzUyM2MifX19.5mbXqSXebJEZPchvMQpQ__SErzYPbExdUhWf3fPZy58"><input type="hidden" name="__trustedProperties" value="{&quot;user&quot;:1,&quot;pass&quot;:1,&quot;submit&quot;:1,&quot;logintype&quot;:1}dada29fa70ad3f4a58c7f138f765a3a230803d6f" >
+</div>
+
+  
+	<h3>
+	  
+Benutzeranmeldung
+
+
+	</h3>
+	<p>
+	  
+Geben Sie Ihre E-Mail und Ihr Passwort ein, um sich anzumelden
+
+
+	</p>
+  
+
+  
+        <div class="form__field login__field login__field--username">
+            <label for="tx-felogin-input-username" class="form-field__label login-field__label">
+                E-Mail
+            </label>
+		  	<input autocomplete="username" id="tx-felogin-input-username" class="form-field__input login-field__input" type="text" name="user" required="required" />
+        </div>
+
+		<div class="form__field login__field login__field--password">
+		  <label for="tx-felogin-input-password" class="form-field__label login-element__label">
+			Passwort:
+		  </label>
+		  <input required="required" autocomplete="current-password" id="tx-felogin-input-password" class="form-field__input login-field__input" type="password" name="pass" value="" />
+		</div>
+
+        
+
+        <div class="form__field login__field login__field--submit">
+            <input class="form-field__submit login-field__submit" type="submit" value="Anmelden" name="submit" />
+        </div>
+
+        <div class="felogin-hidden">
+            <input type="hidden" name="logintype" value="login" />
+            
+            
+            
+            
+        </div>
+
+
+  
+
+  
+	<p>
+	  <a class="to-shibboleth-login" href="/anmelden/shibboleth">Anmelden via Shibboleth</a>
+	</p>
+  
+</form>
+
+
+
+
+	  </div>
+	</div>
+  
+  <div id="moodle-modal" class="modal_wrapper">
+	<div class="modal_content">
+	  <moodle-modal></moodle-modal>
+	  <div data-modal="#moodle-modal" class="modal_close"><svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6.41428 5L9.70719 1.70709L8.29297 0.292877L5.00006 3.58579L1.70718 0.292906L0.292969 1.70712L3.58585 5L0.292973 8.29288L1.70719 9.70709L5.00006 6.41421L8.29297 9.70712L9.70718 8.29291L6.41428 5Z" fill="#999999"></path></svg></div>
+	</div>
+  </div>
+
+  
+	  <div id="bookmark-modal" class="modal_wrapper">
+		<div class="modal_content">
+		  
+			  <div class="bookmark-modal_content bookmark-modal_content--layout2 paywall">
+				<svg class="bookmark-modal_content-icon" width="56" height="70" viewBox="0 0 56 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+				  <path fill-rule="evenodd" clip-rule="evenodd" d="M56 18.2249V64.75C56 67.6495 53.6495 70 50.75 70H5.25C2.3505 70 0 67.6495 0 64.75V5.25C0 2.35051 2.3505 0 5.25 0H37.7751C39.1675 0 40.5029 0.553125 41.4874 1.53769L54.4623 14.5126C55.4469 15.4971 56 16.8325 56 18.2249Z" fill="white"/>
+				  <path d="M1.5 3C1.5 2.17157 2.17157 1.5 3 1.5H38.7574C39.1552 1.5 39.5367 1.65804 39.818 1.93934L54.0607 16.182C54.342 16.4633 54.5 16.8448 54.5 17.2426V67C54.5 67.8284 53.8284 68.5 53 68.5H3C2.17157 68.5 1.5 67.8284 1.5 67V3Z" fill="#F7FBFF" stroke="#0068B4" stroke-width="3"/>
+				  <path d="M27.1033 14.817C27.4701 14.0737 28.5299 14.0737 28.8967 14.817L32.4696 22.0564C32.6153 22.3516 32.8968 22.5561 33.2225 22.6035L41.2117 23.7644C42.032 23.8835 42.3595 24.8915 41.766 25.4701L35.9849 31.1052C35.7492 31.3349 35.6417 31.6659 35.6973 31.9903L37.062 39.9472C37.2022 40.7641 36.3447 41.3871 35.6111 41.0014L28.4653 37.2446C28.174 37.0915 27.826 37.0915 27.5347 37.2446L20.3889 41.0014C19.6553 41.3871 18.7978 40.7641 18.938 39.9472L20.3027 31.9903C20.3583 31.6659 20.2508 31.3349 20.0151 31.1052L14.234 25.4701C13.6405 24.8915 13.968 23.8835 14.7883 23.7644L22.7775 22.6035C23.1032 22.5561 23.3847 22.3516 23.5304 22.0564L27.1033 14.817Z" stroke="#0068B4" stroke-width="4"/>
+				  <rect x="12" y="49" width="32" height="4" rx="2" fill="#C3DAF5"/>
+				  <rect x="12" y="57" width="32" height="4" rx="2" fill="#C3DAF5"/>
+				</svg>
+				<div class="bookmark-modal_content-heading">
+				  Merkliste
+				</div>
+				<div class="bookmark-modal_content-text">
+				  Die Merkliste steht nur mit der Premium-Version zur Verfügung.
+				</div>
+				<a class="bookmark-modal_content-register" href="/premium-version">
+				  Über die Premium-Version
+				</a>
+				<div class="bookmark-modal_content-text bookmark-modal_content-text--2">
+				  Sie sind schon für die Premium-Version registriert?
+				</div>
+				<button class="bookmark-modal_content-login modal_opener js-modal_close" data-modal="#login-modal">
+				  Zur Anmeldung
+				</button>
+			  </div>
+			
+
+		  <button class="modal_close">
+			<svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+			  <path d="M6.41428 5.00009L9.70719 1.70718L8.29297 0.292969L5.00006 3.58588L1.70718 0.292997L0.292969 1.70721L3.58585 5.00009L0.292973 8.29297L1.70719 9.70718L5.00006 6.4143L8.29297 9.70721L9.70718 8.293L6.41428 5.00009Z" fill="#999999"/>
+			</svg>
+		  </button>
+
+		</div>
+	  </div>
+	
+</div>
+
+
+
+
+
+<div class="datamints-ccm" data-nosnippet>
+	<div id="cookiebanner" class="ccm-cb">
+		<div class="ccm-cb--intro">
+			
+					
+<div id="c354" class="frame frame-default frame-type-text frame-layout-0 frame-space-before-default frame-space-after-default"><p>Datenschutzeinstellungen</p><p>Wir verwenden Cookies und Analysetools, um die Sicherheit und den Betrieb sowie die Benutzerfreundlichkeit unserer Website sicherzustellen und zu verbessern. Weitere Informationen finden Sie unter <a href="/ueber-uns/datenschutz">Datenschutz</a>. Da wir Ihr Recht auf Datenschutz respektieren, können Sie unter „Einstellungen” selbst entscheiden, welche Cookie-Kategorien Sie zulassen möchten. Ihre Entscheidung können Sie jederzeit widerrufen. Bitte beachten Sie, dass Ihnen durch das Blockieren einiger Cookies möglicherweise nicht mehr alle Funktionalitäten der Website vollumfänglich zur Verfügung stehen.</p></div>
+
+
+				
+		</div>
+
+		
+
+		<div class="ccm-cb--footer">
+			<div class="ccm-cb--actions">
+				
+					<a href="#" class="ccm-action ccm-action--accept ccm-cb--action" title="Alle akzeptieren">
+	Alle akzeptieren
+</a>
+
+				
+				
+					<a href="#" class="ccm-action ccm-action--accept-selected ccm-cb--action" title="nur Notwendige akzeptieren">
+	nur Notwendige akzeptieren
+</a>
+
+				
+				
+				
+					<a href="#" class="ccm-action ccm-action--configure ccm-cb--action" title="Einstellungen">
+	Einstellungen
+</a>
+
+				
+			</div>
+
+			<div class="ccm-cb--navigation">
+				<ul class="two-colums"><li><a href="/ueber-uns/impressum" title="Impressum"><span>Impressum</span></a></li><li><a href="/ueber-uns/datenschutz"><span>Datenschutz</span></a></li></ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+		<div class="datamints-ccm">
+			<div class="ccm-consentmanager--overlay overlay--consent-manager--consent overlay--full-overlay-container" data-close-overlay="consent-manager--consent" >
+				<div class="frame frame-default frame--consent-overlay frame-layout-0 container--outer text-width--normal">
+					<div class="cookie-banner">
+						<div class="frame-inner container--inner">
+							
+									
+
+
+		<div class="datamints-ccm">
+			<div class="ccm-cm">
+				
+
+				
+						<div class="ccm-cm--groups">
+							
+								<div class="ccm-cm--group">
+									<div class="ccm-cm--group-header">
+										<div class="ccm-cm--group-header--title">
+                                            <h2>Funktionelle Cookies</h2>
+										</div>
+
+										<div class="ccm-cm--group-header--description">
+											<p>Diese Cookies sind für die Funktion der Website erforderlich und können in unseren Systemen nicht deaktiviert werden. Sie werden in der Regel nur als Reaktion auf eine Ihrer Aktionen gesetzt, die zu einer Anfrage auf einen Service führen, wie etwa dem Festlegen ihrer Datenschutzeinstellungen, dem Anmelden oder dem Ausfüllen von Formularen.</p>
+										</div>
+									</div>
+
+									<div class="ccm-cm--purposes ccm-checkboxes">
+										
+											<div class="ccm-cm--purpose">
+												<div class="ccm-checkbox--container">
+	<label class="ccm-checkbox--label">
+		
+		<input type="checkbox"
+			data-purpose="functional"
+			disabled="disabled"
+			checked="checked"
+		/>
+
+		
+				<span class="ccm-checkbox--text ccm-checkbox--text-required">
+					Funktionelle Cookies (immer aktiv)
+				</span>
+			
+	</label>
+</div>
+
+
+												<div class="ccm-cm--cookie--header row">
+													<div class="ccm-cm--cookie--column-title col-md-4">
+														Bezeichnung
+													</div>
+													<div class="ccm-cm--cookie--column-title col-md-3">
+														Anbieter
+													</div>
+													<div class="ccm-cm--cookie--column-title col-md-3">
+														Gültigkeitsdauer
+													</div>
+													<div class="ccm-cm--cookie--column-title col-md-2">
+														Typ
+													</div>
+												</div>
+
+												<div class="ccm-cm--providers">
+													
+														<div class="ccm-cm--provider">
+															<div class="ccm-cm--cookies">
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				_id791
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Hogrefe Verlag
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				30 Tage
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Dieser Cookie speichert die IPv4-Adresse des Nutzers für das Institutions-Log-in.</p>
+																		</div>
+																	</label>
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				Fe_typo_user
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Hogrefe Verlag
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				1 Woche
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Dieses Cookie ist ein Standard-Session-Cookie von TYPO3. Es speichert im Falle eines Benutzer-Logins die Session-ID. So kann der eingeloggte Benutzer wiedererkannt werden und es wird ihm Zugang zu geschützten Bereichen gewährt.</p>
+																		</div>
+																	</label>
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				cookie_optin
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Hogrefe Verlag
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				1 Jahr
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Dieser Cookie speichert, ob der Nutzer schon Cookie-Einstellungen getroffen hat.</p>
+																		</div>
+																	</label>
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				cookies_functional
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Hogrefe Verlag
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				1 Jahr
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Dieser Cookie speichert, ob Sie der Verwendung von Funktionellen Cookies zugestimmt haben.</p>
+																		</div>
+																	</label>
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				cookies_performance
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Hogrefe Verlag
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				1 Jahr
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Dieser Cookie speichert, ob Sie der Verwendung von Leistungs-Cookies zugestimmt haben.</p>
+																		</div>
+																	</label>
+																
+															</div>
+														</div>
+													
+														<div class="ccm-cm--provider">
+															<div class="ccm-cm--cookies">
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				srp
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				hogrefe.met.vgwort.de
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				1 Session
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Dies ist ein Session-Cookie, der von VG Wort eingesetzt wird. Er wird zur Messung von Zugriffen auf Texten eingesetzt, um die Kopierwahrscheinlichkeit zu erfassen. Session-Cookies sind kleine Informationseinheiten, die ein Anbieter im Arbeitsspeicher des Computers des Besuchers speichert. In einem Session-Cookie wird eine zufällig erzeugte eindeutige Identifikationsnummer angelegt, eine sogenannte Session-ID. Außerdem enthält ein Cookie die Angabe über seien Herkunft und die Speicherfrist. Session-Cookies können keine anderen Daten speichern. Diese Messungen werden von der Kantar GmbH nach dem Skalierbaren Zentralen Messverfahren (SZM) durchgeführt. Sie helfen dabei, die Kopierwahrscheinlichkeit einzelner Texte zur Vergütung von gesetzlichen Ansprüchen von Autoren und Verlagen zu ermitteln. Wir erfassen keine personenbezogenen Daten über Cookies.</p>
+																		</div>
+																	</label>
+																
+															</div>
+														</div>
+													
+												</div>
+											</div>
+										
+									</div>
+								</div>
+							
+								<div class="ccm-cm--group">
+									<div class="ccm-cm--group-header">
+										<div class="ccm-cm--group-header--title">
+                                            <h2>Leistungs-Cookies</h2>
+										</div>
+
+										<div class="ccm-cm--group-header--description">
+											<p>Leistungs-Cookies erfassen Informationen darüber, wie Sie die Website nutzen, z.B. welche Seiten Sie besuchen und ob Fehler auftreten. Diese Cookies erfassen keine Informationen, die Sie identifizieren könnten und werden nur dazu verwendet, dass wir die Funktionsfähigkeit unserer Website verbessern und verstehen können.</p>
+										</div>
+									</div>
+
+									<div class="ccm-cm--purposes ccm-checkboxes">
+										
+											<div class="ccm-cm--purpose">
+												<div class="ccm-checkbox--container">
+	<label class="ccm-checkbox--label">
+		
+		<input type="checkbox"
+			data-purpose="performance"
+			
+			
+		/>
+
+		
+				<span class="ccm-checkbox--text ccm-checkbox--text-active">
+					Leistungs-Cookies deaktivieren
+				</span>
+				<span class="ccm-checkbox--text ccm-checkbox--text-inactive">
+					Leistungs-Cookies aktivieren
+				</span>
+			
+	</label>
+</div>
+
+
+												<div class="ccm-cm--cookie--header row">
+													<div class="ccm-cm--cookie--column-title col-md-4">
+														Bezeichnung
+													</div>
+													<div class="ccm-cm--cookie--column-title col-md-3">
+														Anbieter
+													</div>
+													<div class="ccm-cm--cookie--column-title col-md-3">
+														Gültigkeitsdauer
+													</div>
+													<div class="ccm-cm--cookie--column-title col-md-2">
+														Typ
+													</div>
+												</div>
+
+												<div class="ccm-cm--providers">
+													
+														<div class="ccm-cm--provider">
+															<div class="ccm-cm--cookies">
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				_ga_*
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Google Analytics
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				1 Jahr
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Dies ist ein Cookie, der von Google Analytics eingesetzt wird. Er wird zum Speichern und Zählen der Seitenaufrufe eingesetzt.</p>
+																		</div>
+																	</label>
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				_ga_
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Google Analytics
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				2 Jahr
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Dies ist ein Cookie, der von Google Analytics eingesetzt wird. Er ermöglicht, mittels einer zufällig generierten Zahl, anonyme Nutzer zu unterscheiden.</p>
+																		</div>
+																	</label>
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				_gid
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Google Analytics
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				1 Tag
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Dies ist ein Cookie, der von Google Analytics eingesetzt wird. Er wird verwendet, um Seitenaufrufe anonym zu zählen und zu tracken.</p>
+																		</div>
+																	</label>
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				_gat_UA-102653297-19
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Google Analytics
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				1 Minute
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Dies ist ein Cookie, der von Google Analytics eingesetzt wird. Mit seiner Hilfe wird das Nutzerverhalten auf der Website anonym analysiert.</p>
+																		</div>
+																	</label>
+																
+															</div>
+														</div>
+													
+												</div>
+											</div>
+										
+									</div>
+								</div>
+							
+								<div class="ccm-cm--group">
+									<div class="ccm-cm--group-header">
+										<div class="ccm-cm--group-header--title">
+                                            <h2>Iframe Cookies</h2>
+										</div>
+
+										<div class="ccm-cm--group-header--description">
+											<p>Diese Cookies und Technologien sind zur Darstellung von Videoinhalten von Drittanbieter-Plattformen (z. B. YouTube) notwendig. Im Portal haben wir drei YouTube-Videos über den Dorsch verlinkt. Beim Abspielen dieser Videos gelten die Datenschutzbestimmungen von YouTube.</p>
+										</div>
+									</div>
+
+									<div class="ccm-cm--purposes ccm-checkboxes">
+										
+											<div class="ccm-cm--purpose">
+												<div class="ccm-checkbox--container">
+	<label class="ccm-checkbox--label">
+		
+		<input type="checkbox"
+			data-purpose="iframes"
+			
+			
+		/>
+
+		
+				<span class="ccm-checkbox--text ccm-checkbox--text-active">
+					Iframes deaktivieren
+				</span>
+				<span class="ccm-checkbox--text ccm-checkbox--text-inactive">
+					Iframes aktivieren
+				</span>
+			
+	</label>
+</div>
+
+
+												<div class="ccm-cm--cookie--header row">
+													<div class="ccm-cm--cookie--column-title col-md-4">
+														Bezeichnung
+													</div>
+													<div class="ccm-cm--cookie--column-title col-md-3">
+														Anbieter
+													</div>
+													<div class="ccm-cm--cookie--column-title col-md-3">
+														Gültigkeitsdauer
+													</div>
+													<div class="ccm-cm--cookie--column-title col-md-2">
+														Typ
+													</div>
+												</div>
+
+												<div class="ccm-cm--providers">
+													
+														<div class="ccm-cm--provider">
+															<div class="ccm-cm--cookies">
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				yt-remote-cast-installed
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Youtube
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				Session
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos.</p>
+																		</div>
+																	</label>
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				yt-remote-connected-devices
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Youtube
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				Persistent
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos.</p>
+																		</div>
+																	</label>
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				yt-remote-device-id
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Youtube
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				Persistent
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos.</p>
+																		</div>
+																	</label>
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				GPS
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Youtube
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				1 Tag
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Registriert eine eindeutige ID auf mobilen Geräten, um Tracking basierend auf dem geografischen GPS-Standort zu ermöglichen.</p>
+																		</div>
+																	</label>
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				VISITOR_INFO1_LIVE
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Youtube
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				179 Tage
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Versucht, die Benutzerbandbreite auf Seiten mit integrierten YouTube-Videos zu schätzen.</p>
+																		</div>
+																	</label>
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				YSC
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Youtube
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				Session
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Registriert eine eindeutige ID, um Statistiken der Videos von YouTube, die der Benutzer gesehen hat, zu behalten.</p>
+																		</div>
+																	</label>
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				yt-remote-fast-check-period
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Youtube
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				Session
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos.</p>
+																		</div>
+																	</label>
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				yt-remote-session-app
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Youtube
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				Session
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos.</p>
+																		</div>
+																	</label>
+																
+																	<label class="ccm-cm--cookie">
+																		<input type="checkbox" class="ccm-cm--cookie--detail-toggle">
+
+																		<div class="arrow arrow--down">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 20l10 10 10-10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+																		<div class="arrow arrow--up">
+																			<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+																				<path d="M14 28l10-10 10 10z"/>
+																				<path d="M0 0h48v48h-48z" fill="none"/>
+																			</svg>
+																		</div>
+
+																		<div class="ccm-cm--cookie--columns row bg-light">
+																			<div class="col-md-4">
+																				<div class="ccm-cm--cookie--column-title">
+																					Bezeichnung
+																				</div>
+																				yt-remote-session-name
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Anbieter
+																				</div>
+																				Youtube
+																			</div>
+																			<div class="col-md-3">
+																				<div class="ccm-cm--cookie--column-title">
+																					Gültigkeitsdauer
+																				</div>
+																				Session
+																			</div>
+																			<div class="col-md-2">
+																				<div class="ccm-cm--cookie--column-title">
+																					Typ
+																				</div>
+																				
+																			</div>
+																		</div>
+
+																		<div class="ccm-cm--cookie--detail">
+																			<div><strong>Einsatzzweck und Inhalt</strong></div>
+																			<p>Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos.</p>
+																		</div>
+																	</label>
+																
+															</div>
+														</div>
+													
+												</div>
+											</div>
+										
+									</div>
+								</div>
+							
+						</div>
+
+						<div class="ccm-cm--footer">
+							<div class="ccm-cm--actions">
+								<a href="#" class="ccm-action ccm-action--save-close " title="Auswahl speichern">
+	Auswahl speichern
+</a>
+
+								<a href="#" class="ccm-action ccm-action--accept " title="Alle akzeptieren">
+	Alle akzeptieren
+</a>
+
+							</div>
+						</div>
+					
+			</div>
+		</div>
+	
+
+
+
+								
+						</div>
+
+						<a href="#" data-close-overlay="consent-manager--consent" class="ccm-action--close" title="">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 13">
+								<polyline class="arrow" fill="none" stroke="currentColor" points="1 1,6.5 6.5,12 1"></polyline>
+								<polyline class="arrow" fill="none" stroke="currentColor" points="1 12,6.5 6.5,12 12"></polyline>
+							</svg>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+
+
+<script type="text/javascript">window.addEventListener('load', function () {
+  window.purposes = {
+	"version": 1,
+	"groups": [
+		{
+			"id": "1",
+			"title": "Funktionelle Cookies",
+			"description": "Diese Cookies sind für die Funktion der Website erforderlich und können in unseren Systemen nicht deaktiviert werden. Sie werden in der Regel nur als Reaktion auf eine Ihrer Aktionen gesetzt, die zu einer Anfrage auf einen Service führen, wie etwa dem Festlegen ihrer Datenschutzeinstellungen, dem Anmelden oder dem Ausfüllen von Formularen.",
+			"purposes": ["functional"]
+		},
+		{
+			"id": "2",
+			"title": "Leistungs-Cookies",
+			"description": "Leistungs-Cookies erfassen Informationen darüber, wie Sie die Website nutzen, z.B. welche Seiten Sie besuchen und ob Fehler auftreten. Diese Cookies erfassen keine Informationen, die Sie identifizieren könnten und werden nur dazu verwendet, dass wir die Funktionsfähigkeit unserer Website verbessern und verstehen können.",
+			"purposes": ["performance"]
+		},
+		{
+			"id": "3",
+			"title": "Iframe Cookies",
+			"description": "Diese Cookies und Technologien sind zur Darstellung von Videoinhalten von Drittanbieter-Plattformen (z. B. YouTube) notwendig. Im Portal haben wir drei YouTube-Videos über den Dorsch verlinkt. Beim Abspielen dieser Videos gelten die Datenschutzbestimmungen von YouTube.",
+			"purposes": ["iframes"]
+		}
+	],
+	"list": [
+		{
+			"id": "functional",
+			"title": "Funktionelle Cookies",
+			"description": "",
+			"providers": {
+				"version": 1,
+				"provider": [
+					{
+						"id": "hogrefeVerlag",
+						"title": "Hogrefe Verlag",
+						"company": "Hogrefe Verlag",
+						"description": "",
+						"privacyUrl": "https://dorsch.hogrefe.com/ueber-uns/datenschutz",
+						"cookies": [
+							{
+								"id": "1",
+								"title": "_id791",
+								"server": "",
+								"description": "Dieser Cookie speichert die IPv4-Adresse des Nutzers für das Institutions-Log-in.",
+								"legal_basis": "",
+								"lifetime": "30 Tage",
+								"type": ""
+							},
+							{
+								"id": "2",
+								"title": "Fe_typo_user",
+								"server": "",
+								"description": "Dieses Cookie ist ein Standard-Session-Cookie von TYPO3. Es speichert im Falle eines Benutzer-Logins die Session-ID. So kann der eingeloggte Benutzer wiedererkannt werden und es wird ihm Zugang zu geschützten Bereichen gewährt.",
+								"legal_basis": "",
+								"lifetime": "1 Woche",
+								"type": ""
+							},
+							{
+								"id": "4",
+								"title": "cookie_optin",
+								"server": "",
+								"description": "Dieser Cookie speichert, ob der Nutzer schon Cookie-Einstellungen getroffen hat.",
+								"legal_basis": "",
+								"lifetime": "1 Jahr",
+								"type": ""
+							},
+							{
+								"id": "5",
+								"title": "cookies_functional",
+								"server": "",
+								"description": "Dieser Cookie speichert, ob Sie der Verwendung von Funktionellen Cookies zugestimmt haben.",
+								"legal_basis": "",
+								"lifetime": "1 Jahr",
+								"type": ""
+							},
+							{
+								"id": "6",
+								"title": "cookies_performance",
+								"server": "",
+								"description": "Dieser Cookie speichert, ob Sie der Verwendung von Leistungs-Cookies zugestimmt haben.",
+								"legal_basis": "",
+								"lifetime": "1 Jahr",
+								"type": ""
+							}
+						]
+					},
+					{
+						"id": "vgWort",
+						"title": "VG Wort",
+						"company": "hogrefe.met.vgwort.de",
+						"description": "",
+						"privacyUrl": "https://dorsch.hogrefe.com/ueber-uns/datenschutz",
+						"cookies": [
+							{
+								"id": "1",
+								"title": "srp",
+								"server": "",
+								"description": "Dies ist ein Session-Cookie, der von VG Wort eingesetzt wird. Er wird zur Messung von Zugriffen auf Texten eingesetzt, um die Kopierwahrscheinlichkeit zu erfassen. Session-Cookies sind kleine Informationseinheiten, die ein Anbieter im Arbeitsspeicher des Computers des Besuchers speichert. In einem Session-Cookie wird eine zufällig erzeugte eindeutige Identifikationsnummer angelegt, eine sogenannte Session-ID. Außerdem enthält ein Cookie die Angabe über seien Herkunft und die Speicherfrist. Session-Cookies können keine anderen Daten speichern. Diese Messungen werden von der Kantar GmbH nach dem Skalierbaren Zentralen Messverfahren (SZM) durchgeführt. Sie helfen dabei, die Kopierwahrscheinlichkeit einzelner Texte zur Vergütung von gesetzlichen Ansprüchen von Autoren und Verlagen zu ermitteln. Wir erfassen keine personenbezogenen Daten über Cookies.",
+								"lifetime": "1 Session",
+								"legal_basis": "",
+								"type": ""
+							}
+						]
+					}
+				]
+			},
+			"default": true,
+			"alwaysActive": true
+		},
+		{
+			"id": "performance",
+			"title": "Leistungs-Cookies",
+			"description": "",
+			"providers": {
+				"version": 1,
+				"provider": [
+					{
+						"id": "googleAnalytics",
+						"title": "Google Analytics",
+						"company": "Google Analytics",
+						"description": "",
+						"privacyUrl": "https://dorsch.hogrefe.com/ueber-uns/datenschutz",
+						"cookies": [
+							{
+								"id": "1",
+								"title": "_ga_*",
+								"server": "",
+								"description": "Dies ist ein Cookie, der von Google Analytics eingesetzt wird. Er wird zum Speichern und Zählen der Seitenaufrufe eingesetzt.",
+								"lifetime": "1 Jahr",
+								"legal_basis": "",
+								"type": ""
+							},
+							{
+								"id": "2",
+								"title": "_ga_",
+								"server": "",
+								"description": "Dies ist ein Cookie, der von Google Analytics eingesetzt wird. Er ermöglicht, mittels einer zufällig generierten Zahl, anonyme Nutzer zu unterscheiden.",
+								"lifetime": "2 Jahr",
+								"legal_basis": "",
+								"type": ""
+							},
+							{
+								"id": "3",
+								"title": "_gid",
+								"server": "",
+								"description": "Dies ist ein Cookie, der von Google Analytics eingesetzt wird. Er wird verwendet, um Seitenaufrufe anonym zu zählen und zu tracken.",
+								"lifetime": "1 Tag",
+								"legal_basis": "",
+								"type": ""
+							},
+							{
+								"id": "4",
+								"title": "_gat_UA-102653297-19",
+								"server": "",
+								"description": "Dies ist ein Cookie, der von Google Analytics eingesetzt wird. Mit seiner Hilfe wird das Nutzerverhalten auf der Website anonym analysiert.",
+								"lifetime": "1 Minute",
+								"legal_basis": "",
+								"type": ""
+							}
+						]
+					}
+				]
+			},
+			"default": false,
+			"alwaysActive": false
+		},
+		{
+			"id": "iframes",
+			"title": "Iframes",
+			"description": "",
+			"providers": {
+				"version": 1,
+				"provider": [
+					{
+						"id": "youtube",
+						"title": "Youtube",
+						"company": "Youtube",
+						"description": "",
+						"privacyUrl": "https://dorsch.hogrefe.com/ueber-uns/datenschutz",
+						"cookies": [
+							{
+								"id": "1",
+								"title": "yt-remote-cast-installed",
+								"server": "",
+								"description": "Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos.",
+								"lifetime": "Session",
+								"legal_basis": "",
+								"type": ""
+							},
+							{
+								"id": "2",
+								"title": "yt-remote-connected-devices",
+								"server": "",
+								"description": "Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos.",
+								"lifetime": "Persistent",
+								"legal_basis": "",
+								"type": ""
+							},
+							{
+								"id": "3",
+								"title": "yt-remote-device-id",
+								"server": "",
+								"description": "Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos.",
+								"lifetime": "Persistent",
+								"legal_basis": "",
+								"type": ""
+							},
+							{
+								"id": "4",
+								"title": "GPS",
+								"server": "",
+								"description": "Registriert eine eindeutige ID auf mobilen Geräten, um Tracking basierend auf dem geografischen GPS-Standort zu ermöglichen.",
+								"lifetime": "1 Tag",
+								"legal_basis": "",
+								"type": ""
+							},
+							{
+								"id": "5",
+								"title": "VISITOR_INFO1_LIVE",
+								"server": "",
+								"description": "Versucht, die Benutzerbandbreite auf Seiten mit integrierten YouTube-Videos zu schätzen.",
+								"lifetime": "179 Tage",
+								"legal_basis": "",
+								"type": ""
+							},
+							{
+								"id": "6",
+								"title": "YSC",
+								"server": "",
+								"description": "Registriert eine eindeutige ID, um Statistiken der Videos von YouTube, die der Benutzer gesehen hat, zu behalten.",
+								"lifetime": "Session",
+								"legal_basis": "",
+								"type": ""
+							},
+							{
+								"id": "7",
+								"title": "yt-remote-fast-check-period",
+								"server": "",
+								"description": "Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos.",
+								"lifetime": "Session",
+								"legal_basis": "",
+								"type": ""
+							},
+							{
+								"id": "8",
+								"title": "yt-remote-session-app",
+								"server": "",
+								"description": "Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos.",
+								"lifetime": "Session",
+								"legal_basis": "",
+								"type": ""
+							},
+							{
+								"id": "9",
+								"title": "yt-remote-session-name",
+								"server": "",
+								"description": "Speichert die Benutzereinstellungen beim Abruf eines auf anderen Webseiten integrierten Youtube-Videos.",
+								"lifetime": "Session",
+								"legal_basis": "",
+								"type": ""
+							}
+						]
+					}
+				]
+			},
+			"default": false,
+			"alwaysActive": false
+		}
+	]
+}
+;
+  window.config = {"debug":"0","cookieExpiresAfterDays":"365","cookieDeclineExpiresAfterDays":"31","showPurposeInBanner":"0","enableAcceptSelectedButton":"1","respectDNTSettingInBrowser":"0"};
+  window.cm = new ConsentHandler(purposes, config);
+  window.cmui = new ConsentManagerUI(cm);
+});
+</script><script>
+	function initializeTracking() {
+		if (window.gtmLoaded) return;
+		window.gtmLoaded = true;
+
+		window.dataLayer = window.dataLayer || [];
+		window.dataLayer.push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+
+		(function(w,d,s,l,i){
+			var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s), dl=l!='dataLayer'?'&l='+l:'';
+			j.async=true;
+			j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+			f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-52W73X8');
+
+		console.log('GTM initialized');
+	}
+
+	function delayedPageView(url) {
+	   // Das setTimeout entfernen
+	   window.dataLayer = window.dataLayer || [];
+	   console.log('Track page view:', url);
+	   window.dataLayer.push({
+		  event: 'pageView',
+		  virtualUrl: url
+	   });
+	}
+
+	window.addEventListener("load", () => {
+		if (window.cm && window.cm.getConsent('performance')) {
+			initializeTracking();
+			delayedPageView(window.location.href);
+		}
+
+		if (window.cm && typeof cm.registerEvents === 'function') {
+			cm.registerEvents("performance", function (hasConsent) {
+				if (hasConsent) {
+					initializeTracking();
+					delayedPageView(window.location.href);
+				}
+			});
+		}
+	});
+
+	document.addEventListener('turbolinks:load', (event) => {
+		const url = (event.detail && event.detail.url) || window.location.href;
+		if (window.cm && window.cm.getConsent('performance')) {
+			if (!window.gtmLoaded) {
+				initializeTracking();
+			}
+			delayedPageView(url);
+		}
+	});
+</script>
+
+
+<!-- End Google Tag Manager -->
+
+<script src="/typo3conf/ext/datamints_search/Resources/Public/Scripts/Search.js?1738678371"></script>
+
+
+
+</body>
+
+</html>

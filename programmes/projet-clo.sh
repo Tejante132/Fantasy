@@ -3,15 +3,32 @@
 # Vérification qu'on a donné un argument
 if [ $# -ne 1 ] # teste si nb d'argument différent de 1
 then
-	echo "Donner un paramètre (chemin vers fichier d'URLs)"
+	echo "Donner le paramètre: langue (en/pt/de) en minuscules"
 	exit 1 # fin de programme
 fi
 
 N=0 	# compteur d'URLs
-URLS=$1
+LG=$1
+URLS=urls/${LG}.txt
+# URLS=$1
+
+echo "langue choisie : $LG"
+
+if [ "$LG" = "en" ]; then
+	MOT=fantasy
+elif [ "$LG" = "pt" ]; then
+	MOT=fantasia
+elif [ "$LG" = "de" ]; then
+	MOT=Fantasie
+else
+	echo "Donner le paramètre: langue PARMI CES CODES (en/pt/de) en minuscules"
+	exit 1 # fin de programme
+fi
+
+echo "Mot étudié : $MOT"
 
 # on crée un fichier de sortie dans lequel on stockera les informations
-fichier=tableaux/tableau-de.html
+fichier=tableaux/tableau-${LG}.html
 touch ${fichier}
 
 echo -e "
@@ -44,17 +61,20 @@ echo -e "
 
 			<div class='table-container'> 
 			<table class='table is-hoverable is-fullwidth'>
-				<thead><tr><th>N</th><th>URL</th><th>Statut HTTP</th><th>Encodage</th><th>Nb mots</th></tr></thead>" >> ${fichier}
+				<thead><tr><th>N</th><th>URL</th><th>Statut HTTP</th><th>Encodage</th><th>Nb mots</th><th>Aspiration</th><th>Dump</th><th>Compte</th><th>Contexte</th><th>Concordancier</th></tr></thead>" >> ${fichier}
 
-while read -r line;
+while read -r URL;
 do
 	N=$(expr $N + 1) # incrément
 	STYLE_ENC="" && STYLE_HTTP="" && STYLE_NB="" #couleur de fond vide par défaut
 
+	echo "ligne numéro $N"
+	echo "lecture de $URL"
+
 	# Nouvelles lignes pour exo 2
 
-	# On va récupérer les métadonnées en exécutant curl (line est une URL)
-	METADONNEES=$(curl -L -s -I ${line} | tr -d '\r')
+	# On va récupérer les métadonnées en exécutant curl
+	METADONNEES=$(curl -L -s -I URL | tr -d '\r')
 
 	# code de statut
 # 	CODE_HTTP=$(echo "${METADONNEES}" | head -n 1 | awk '{print $2}') # lit la 1ère ligne
@@ -71,7 +91,6 @@ do
 		STYLE_HTTP="is-danger"
 	fi
 
-
 	# encodage : on fait une regex
 	ENCODING=$(echo "${METADONNEES}" | grep -i "content-type" | grep -oP "charset=\K[^; ]+")
 
@@ -82,7 +101,14 @@ do
 		STYLE_ENC="is-warning"
 	fi
 
-	NB_MOTS=$(lynx -dump -nolist ${line} | wc -w)
+	FICHIER_ASPIRATION=aspirations/${LG}/${LG}-${N}.txt
+	curl -s ${URL} > $FICHIER_ASPIRATION
+
+	FICHIER_DUMP=dumps/${LG}/${LG}-${N}.txt
+	lynx -dump -nolist ${URL} > $FICHIER_DUMP
+
+	NB_MOTS=$(cat $FICHIER_DUMP | wc -w)
+	NB_OCCURRENCES=$(cat $FICHIER_DUMP | grep -oP "$MOT" | wc -l)
 
 	if [ $NB_MOTS -eq 0 ]
 	then
@@ -93,10 +119,13 @@ do
 	echo -e "
 				<tr>
 					<td>${N}</td>
-					<td><a href='${line}'>${line}</a></td>
+					<td><a href='${URL}'>${URL}</a></td>
 					<td class='${STYLE_HTTP}'>${CODE_HTTP}</td>
 					<td class='${STYLE_ENC}'>${ENCODING}</td>
 					<td class='${STYLE_NB}'>${NB_MOTS}</td>
+					<td><a href='../${FICHIER_ASPIRATION}'>lien vers l'aspiration</a></td>
+					<td><a href='../${FICHIER_DUMP}'>lien vers le dump</a></td>
+					<td class='${STYLE_NB}'>${NB_OCCURRENCES}</td>
 				</tr>" >> ${fichier}
 
 done < ${URLS};

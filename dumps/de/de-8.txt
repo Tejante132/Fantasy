@@ -1,0 +1,308 @@
+   #[1]alternate
+
+     * [2]English
+     * ____________________ (BUTTON)
+     *
+
+   (BUTTON)
+   ____________________ (BUTTON)
+     * Forschung
+          +
+               o [3]Forschung
+               o [4]Abteilungen
+                    # [5]Fluidphysik, Strukturbildung und Biokomplexität
+                      (Prof. Bodenschatz)
+                    # [6]Physik lebender Materie (Prof. Golestanian)
+          +
+               o [7]Max-Planck-Forschungsgruppen
+               o [8]Gruppenleiter*innen
+               o [9]Max-Planck-Fellows
+               o [10]Unabhängige Forschungseinheiten
+               o [11]Auswärtige wiss. Mitglieder
+               o [12]Emeritusgruppen
+          +
+               o [13]Neues aus der Forschung
+                    # [14]Publikationen
+                    # [15]Forschungsberichte
+                    # [16]Jahrbuch
+     * Institut
+          +
+               o [17]Kontakt
+                    # [18]Anschrift & Anreise
+                    # [19]Presse- & Öffentlichkeitsarbeit
+               o [20]Max-Planck-Campus
+          +
+               o [21]Organisation
+                    # [22]Beschäftigte
+                    # [23]Fachbeirat
+                    # [24]Kuratorium
+                    # [25]Infrastruktur
+                    # [26]Wissenschaftliches Begegnungszentrum
+          +
+               o [27]Wissenschaftliche Einrichtungen
+               o [28]Geschichte des Instituts
+               o [29]Intranet MAX
+     * Aktuelles
+          +
+               o
+                    # [30]Pressemitteilungen
+                    # [31]Pressemitteilungen zur Corona-Forschung
+          +
+               o
+                    # [32]Vorträge
+                    # [33]Veranstaltungen
+          +
+               o
+                    # [34]Stellenangebote
+     * Karriere & Studium
+          +
+               o Karriere
+                    # [35]Stellenangebote
+                    # [36]Ausbildung
+                    # [37]Karriereservice
+                    # [38]Gästeprogramm
+                    # [39]Graduiertenprogramm
+                    # [40]Max-Planck-Schools
+          +
+               o [41]Lehrveranstaltungen
+               o Beruf & Familie
+                    # [42]Chancengleichheit
+                    # [43]Kinderbetreuung
+          +
+               o [44]Onboarding
+                    # [45]Leben & Arbeiten in Göttingen
+                    # [46]Welcome-Center des Göttingen Campus
+                    # [47]Wissenschaftliches Begegnungszentrum
+     * Kooperationen
+          +
+               o [48]Max Planck Campus
+               o [49]Göttingen Campus
+                    # [50]Universität Göttingen
+                    # [51]Institut Dynamik komplexer Systeme
+                    # [52]Campus-Institut Dynamik biologischer Netzwerke
+                      (CIDBN)
+                    # [53]Campus-Institut Data Science (CIDAS)
+                    # [54]Graduiertenzentrum Neurowissenschaften,
+                      Biophysik und Molekulare Biowissenschaften (GGNB)
+                    # [55]Universitätsmedizin Göttingen
+                    # [56]Deutsches Zentrum für Herz-Kreislauf-Forschung
+                      (DZHK)
+                    # [57]Herzzentrum der UMG
+                    # [58]Bernstein Center for Computational Neurosciences
+                      (BCCN)
+                    # [59]Deutsches Primatenzentrum
+          +
+               o [60]Max-Planck - Univ. Twente Center für komplexe
+                 Fluiddynamik
+               o [61]Max-Planck Partergruppen
+                    # [62]Bilkent Universität (Amir Bahrami)
+                    # [63]Korea University (Hyejeong Kim)
+                    # [64]Chinese Academy of Sci. (Fanlong Meng)
+               o [65]Max Planck Schools
+                    # [66]Max Planck School Matter to Life
+                    # [67]IMPRS for Genome Sciences
+                    # [68]IMPRS for Neurosciences
+                    # [69]IMPRS Physics of Biological and Complex Systems
+          +
+               o [70]Weitere Kooperationspartner
+                    # [71]Ehemalige Max-Planck-Forschergruppen
+                    # [72]Drittmittelprojekte
+               o [73]Gremien und Beratung
+                    # [74]Magnetics and Microhydrodynamics (MAMI)
+                    # [75]NeuroNex Working Memory Consortium
+                    # [76]Engineering and Physical Sciences Research
+                      Council (EPSRC)
+                    # [77]Robert Koch Institut
+                    # [78]ExpertInnenrat der Bundesregierung
+                    # [79]The International Union of Pure and Applied
+                      Physics (IUPAP)
+     * [80]MAX IntraNet
+
+   [81]English
+
+   Max-Planck-Institut für Dynamik und Selbstorganisation
+
+    1. [82]Startseite
+
+     [83]Archiv 2013
+
+     Was ist Fantasie?
+
+Was ist Fantasie? Wie entwickelt sie sich?
+
+   Fantasie ist die Fähigkeit, sich vorzustellen, wie die Dinge sein
+   könnten oder wie sie hätten sein können.  In der Fantasie spielen wir
+   gedanklich durch, dass vieles anders wäre als es ist, und wir können
+   uns sogar völlig fremde Welten vorstellen: Welten, in denen Honig in
+   den Flüssen fließt und Schweine fliegen können, in denen Bäume
+   sprechen,  in denen wir selbst Fußballweltmeister oder Königin von
+   Deutschland sind.
+
+   Die Fantasie ist eine Quelle großer Freude und Unterhaltung für uns –
+   einen großen Teil unserer Freizeit verbringen wir schließlich voller
+   Genuss damit, Bücher zu lesen, Filme zu schauen, Computerspiele zu
+   spielen, in denen es um Fantasiewelten geht.  Aber die Fantasie ist
+   auch von großem praktischen Nutzen: dadurch, dass wir uns vorstellen
+   können, wie die Dinge sein könnten, können wir gedanklich Lösungen für
+   ein Problem durchspielen, mögliche Szenarien für die Zukunft entwerfen
+   und miteinander vergleichen – wir können, losgelöst vom Hier und Jetzt,
+   das Dort und Dann planen.
+
+   Die Fantasie entwickelt sich sehr früh in der Kindheit, spätestens ab
+   dem zweiten Lebensjahr, und sie beginnt in Form des So-tun-als-ob- oder
+   Fantasie-Spiels.  In dieser Zeit fangen Kinder in der Regel an,
+   spielerisch so zu tun, als würden sie bestimmte Handlungen ausführen
+   (essen, trinken, schlafen, Puppen füttern…) und so zu tun, als wären
+   bestimmte Dinge der Fall (als wäre in der Spielzeugtasse Tee, als hätte
+   das Kuscheltier eine Erkältung, als wären sie Prinz und Prinzessin…).
+   Sie bauen also in einfacher Weise Fantasiewelten auf, in denen sie sich
+   spielerisch bewegen.  Diese Fantasiewelten sind anfangs sehr einfach
+   und kurzlebig, werden aber über die Entwicklung hinweg immer komplexer
+   und ausgefeilter – bis hin eben zu den verschachtelten
+   Rollenspielfantasiewelten vom Jugendlichen oder den komplexen
+   Fantasiegebilden die wir als Erwachsene in Romanen, Seifenopern und
+   Theaterstücken genießen.
+
+   Interessant ist dabei, dass die Fantasietätigkeit von Anfang an, und
+   besonders am Anfang der Entwicklung, eine soziale, gemeinsam mit
+   anderen betriebene Tätigkeit ist: die ersten Fantasiewelten, in denen
+   wir uns bewegen, sind solche, die wir uns gemeinsam mit anderen
+   aufbauen und teilen. Anfang sind diese anderen in der Regel Erwachsene,
+   die das Spiel für Kinder vorstrukturieren, aber nach und nach werden
+   gemeinsam erfunden Spiele mit Gleichaltrigen immer wichtiger.  Solche
+   gemeinsamen Fantasiespiele von Gleichaltrigen sind wiederum nicht nur
+   großartigen Unterhaltung, sondern haben auch handfesten Nutzen: im
+   Spiel können Kinder den Ernstfall proben, Rollen ausprobieren, die
+   ihnen später im Ernst zukommen werden.
+
+   Autor
+   original
+   original
+
+   Hannes Rakoczy hat von 1994 bis 2000 Psychologie und Philosophie
+   studiert und 2004 in Psychologie an der Universität Leipzig
+   promoviert.  Seit 2009 ist er Professor für Entwicklungspsychologie an
+   der Universität Göttingen und Leiter des Kinderstudienzentrums
+   „Göttinger Kindsköpfe“, in dem er mit Kollegen und Kolleginnen zusammen
+   untersucht, wie sich das kindliche Denken entwickelt
+   ([84]www.kindskoepfe.uni-goettingen.de).
+
+   [85]Top
+
+
+   [86]
+   Max-Planck-Gesellschaft
+     * [87]Impressum
+     * [88]Datenschutzhinweis
+
+   ©
+
+   2025, Max-Planck-Gesellschaft
+
+   © 2003-2025, Max-Planck-Gesellschaft
+
+   Web-Ansicht
+   Seite Drucken
+   [89]Im neuen Fenster öffnen
+   Geschätzte DIN-A4 Seiten-Breite
+
+   [90]Zur Redakteursansicht
+
+References
+
+   Visible links:
+   1. https://www.ds.mpg.de/2296592/Was_ist_Fantasie
+   2. https://www.ds.mpg.de/en
+   3. https://www.ds.mpg.de/forschung
+   4. https://www.ds.mpg.de/forschung/abteilungen
+   5. https://www.ds.mpg.de/dfpb
+   6. https://www.ds.mpg.de/plm
+   7. https://www.ds.mpg.de/mp-forschungsgruppen
+   8. https://www.ds.mpg.de/gruppenleiter
+   9. https://www.ds.mpg.de/3159211/fellows
+  10. https://www.ds.mpg.de/143280/other_rgs
+  11. https://www.ds.mpg.de/2806684/ExtSciMem
+  12. https://www.ds.mpg.de/emeriti
+  13. https://www.ds.mpg.de/aktuelles
+  14. https://www.ds.mpg.de/publikationen
+  15. https://www.ds.mpg.de/forschungsberichte
+  16. https://www.ds.mpg.de/148874/yearbook
+  17. https://www.ds.mpg.de/kontakt
+  18. https://www.ds.mpg.de/kontakt
+  19. https://www.ds.mpg.de/16437/pr
+  20. https://www.ds.mpg.de/2224282/mp_campus
+  21. https://www.ds.mpg.de/organisation
+  22. https://www.ds.mpg.de/beschaeftigte
+  23. https://www.ds.mpg.de/fachbeirat
+  24. https://www.ds.mpg.de/kuratorium
+  25. https://www.ds.mpg.de/16410/service
+  26. https://www.ds.mpg.de/wbz
+  27. https://www.ds.mpg.de/3842621/Facilities
+  28. https://www.ds.mpg.de/geschichte
+  29. https://max.mpg.de/
+  30. https://www.ds.mpg.de/aktuelles
+  31. https://www.ds.mpg.de/3705021/coronanews
+  32. https://www.ds.mpg.de/vortraege
+  33. https://www.ds.mpg.de/4024946/events
+  34. https://www.ds.mpg.de/stellenangebote
+  35. https://www.ds.mpg.de/stellenangebote
+  36. https://www.ds.mpg.de/ausbildung
+  37. https://www.ds.mpg.de/2776395/career_service
+  38. https://www.ds.mpg.de/3121070/guestprogram
+  39. https://www.ds.mpg.de/graduierte
+  40. https://www.maxplanckschools.de/de
+  41. https://www.ds.mpg.de/teaching
+  42. https://www.ds.mpg.de/chancengleichheit
+  43. https://www.mpibpc.mpg.de/kita
+  44. https://www.ds.mpg.de/onboarding
+  45. https://www.ds.mpg.de/3234443/applicants
+  46. https://welcome-to-suedniedersachsen.de/
+  47. https://www.ds.mpg.de/wbz
+  48. https://www.ds.mpg.de/2224282/mp_campus
+  49. https://goettingen-campus.de/de/
+  50. https://www.uni-goettingen.de/de/1.html
+  51. https://www.uni-goettingen.de/de/433694.html
+  52. https://uni-goettingen.de/de/608362.html
+  53. https://www.uni-goettingen.de/de/634473.html
+  54. https://www.uni-goettingen.de/de/56640.html
+  55. https://www.umg.eu/
+  56. https://dzhk.de/
+  57. https://herzzentrum.umg.eu/
+  58. https://www.uni-goettingen.de/de/615262.html
+  59. https://www.dpz.eu/de/startseite.html
+  60. https://www.ds.mpg.de/maxplanckcenter
+  61. https://www.ds.mpg.de/3940188/partnergroups
+  62. http://amir.unam.bilkent.edu.tr/people/
+  63. https://pure.korea.ac.kr/en/persons/hyejeong-kim
+  64. http://meng.itp.ac.cn/
+  65. https://www.mpg.de/maxplanckschools
+  66. https://mattertolife.maxplanckschools.org/de/home
+  67. https://www.uni-goettingen.de/de/556628.html
+  68. http://www.gpneuro.uni-goettingen.de/
+  69. https://www.uni-goettingen.de/de/58718.html
+  70. https://www.ds.mpg.de/3942032/further_partners
+  71. https://www.ds.mpg.de/3540426/former_mprg
+  72. https://www.ds.mpg.de/3631142/funded_projects
+  73. https://www.ds.mpg.de/3942325/consulting
+  74. https://mami.u-strasbg.fr/
+  75. https://www.nxwm.io/
+  76. https://www.ukri.org/councils/epsrc/
+  77. https://www.rki.de/DE/Home/homepage_node
+  78. https://www.bundesregierung.de/breg-de/suche/expertinnenrat-der-bundesregierung-2002396
+  79. https://iupap.org/
+  80. https://max.mpg.de/sites/ds
+  81. https://www.ds.mpg.de/en
+  82. https://www.ds.mpg.de/
+  83. https://www.ds.mpg.de/2296579/Archiv-2013
+  84. http://www.kindskoepfe.uni-goettingen.de/
+  85. https://www.ds.mpg.de/2296592/Was_ist_Fantasie#top
+  86. https://www.mpg.de/de
+  87. https://www.ds.mpg.de/impressum
+  88. https://www.ds.mpg.de/datenschutzhinweis
+  89. https://www.ds.mpg.de/2296592/Was_ist_Fantasie?print=yes
+  90. https://ds.iedit.mpg.de/2296592/Was_ist_Fantasie
+
+   Hidden links:
+  92. https://www.ds.mpg.de/
+  93. https://www.ds.mpg.de/2296592/Was_ist_Fantasie
+  94. https://www.mpg.de/de

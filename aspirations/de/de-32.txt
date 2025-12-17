@@ -1,0 +1,446 @@
+<!--
+der Code steht still im Display
+—psst!
+verscheuche ihn nicht!
+-->
+<!DOCTYPE html>
+<html lang="de" prefix="og: https://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<script>
+window.koko_analytics = {"url":"https:\/\/sternenvogelpoesie.de\/koko-analytics-collect.php","site_url":"https:\/\/sternenvogelpoesie.de","post_id":3713,"path":"\/sprueche-ueber-fantasie\/","method":"fingerprint","use_cookie":false};
+</script>
+<!-- AI Meta v0.7.1 -->
+<meta name="ai:author" content="Lenny Löwenstern" />
+<meta name="ai:publisher" content="Sternenvogel Verlagsgesellschaft" />
+<meta name="ai:training-data" content="allowed" />
+<!-- /AI Meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Suchmaschinen-Optimierung durch Rank Math PRO - https://rankmath.com/ -->
+<title>49 Funken der Fantasie: Inspirierende Sprüche für Träumer / Sternenvogelpoesie</title>
+<meta name="description" content="Diese Zitate erinnern uns daran, wie wichtig Fantasie ist und dass wir sie als eine Quelle für Kreativität und Lebensfreude schätzen müssen. Sie zeigen uns,"/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://sternenvogelpoesie.de/sprueche-ueber-fantasie/" />
+<meta property="og:locale" content="de_DE" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="49 Funken der Fantasie: Inspirierende Sprüche für Träumer / Sternenvogelpoesie" />
+<meta property="og:description" content="Diese Zitate erinnern uns daran, wie wichtig Fantasie ist und dass wir sie als eine Quelle für Kreativität und Lebensfreude schätzen müssen. Sie zeigen uns," />
+<meta property="og:url" content="https://sternenvogelpoesie.de/sprueche-ueber-fantasie/" />
+<meta property="og:site_name" content="Sternenvogelpoesie /// Gedichte" />
+<meta property="article:section" content="Sprüche und Weisheiten" />
+<meta property="og:updated_time" content="2025-07-09T15:44:02+02:00" />
+<meta property="og:image" content="https://sternenvogelpoesie.de/wp-content/uploads/fantasie-visualisiert-1.jpg" />
+<meta property="og:image:secure_url" content="https://sternenvogelpoesie.de/wp-content/uploads/fantasie-visualisiert-1.jpg" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="1024" />
+<meta property="og:image:alt" content="49 Funken der Fantasie: Inspirierende Sprüche für Träumer" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2024-01-01T19:13:36+01:00" />
+<meta property="article:modified_time" content="2025-07-09T15:44:02+02:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="49 Funken der Fantasie: Inspirierende Sprüche für Träumer / Sternenvogelpoesie" />
+<meta name="twitter:description" content="Diese Zitate erinnern uns daran, wie wichtig Fantasie ist und dass wir sie als eine Quelle für Kreativität und Lebensfreude schätzen müssen. Sie zeigen uns," />
+<meta name="twitter:image" content="https://sternenvogelpoesie.de/wp-content/uploads/fantasie-visualisiert-1.jpg" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://sternenvogelpoesie.de/#person","name":"Sternenvogelpoesie /// Gedichte","logo":{"@type":"ImageObject","@id":"https://sternenvogelpoesie.de/#logo","url":"https://sternenvogelpoesie.de/wp-content/uploads/sternenvogelpoesie-logo-4.png","contentUrl":"https://sternenvogelpoesie.de/wp-content/uploads/sternenvogelpoesie-logo-4.png","caption":"Sternenvogelpoesie /// Gedichte","inLanguage":"de"},"image":{"@type":"ImageObject","@id":"https://sternenvogelpoesie.de/#logo","url":"https://sternenvogelpoesie.de/wp-content/uploads/sternenvogelpoesie-logo-4.png","contentUrl":"https://sternenvogelpoesie.de/wp-content/uploads/sternenvogelpoesie-logo-4.png","caption":"Sternenvogelpoesie /// Gedichte","inLanguage":"de"}},{"@type":"WebSite","@id":"https://sternenvogelpoesie.de/#website","url":"https://sternenvogelpoesie.de","name":"Sternenvogelpoesie /// Gedichte","publisher":{"@id":"https://sternenvogelpoesie.de/#person"},"inLanguage":"de"},{"@type":"ImageObject","@id":"https://sternenvogelpoesie.de/wp-content/uploads/fantasie-visualisiert-1.jpg","url":"https://sternenvogelpoesie.de/wp-content/uploads/fantasie-visualisiert-1.jpg","width":"1024","height":"1024","inLanguage":"de"},{"@type":"WebPage","@id":"https://sternenvogelpoesie.de/sprueche-ueber-fantasie/#webpage","url":"https://sternenvogelpoesie.de/sprueche-ueber-fantasie/","name":"49 Funken der Fantasie: Inspirierende Spr\u00fcche f\u00fcr Tr\u00e4umer / Sternenvogelpoesie","datePublished":"2024-01-01T19:13:36+01:00","dateModified":"2025-07-09T15:44:02+02:00","isPartOf":{"@id":"https://sternenvogelpoesie.de/#website"},"primaryImageOfPage":{"@id":"https://sternenvogelpoesie.de/wp-content/uploads/fantasie-visualisiert-1.jpg"},"inLanguage":"de"},{"@type":"Person","@id":"https://sternenvogelpoesie.de/sprueche-ueber-fantasie/#author","name":"Lenny L\u00f6wenstern","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/4829982f6c31a2050d0d55da2839f6376a0b454e0a809b07cbfc12e795676571?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/4829982f6c31a2050d0d55da2839f6376a0b454e0a809b07cbfc12e795676571?s=96&amp;d=mm&amp;r=g","caption":"Lenny L\u00f6wenstern","inLanguage":"de"},"sameAs":["http://sternenvogelpoesie.de"]},{"@type":"Article","headline":"49 Funken der Fantasie: Inspirierende Spr\u00fcche f\u00fcr Tr\u00e4umer / Sternenvogelpoesie","datePublished":"2024-01-01T19:13:36+01:00","dateModified":"2025-07-09T15:44:02+02:00","articleSection":"Spr\u00fcche und Weisheiten","author":{"@id":"https://sternenvogelpoesie.de/sprueche-ueber-fantasie/#author","name":"Lenny L\u00f6wenstern"},"publisher":{"@id":"https://sternenvogelpoesie.de/#person"},"description":"Diese Zitate erinnern uns daran, wie wichtig Fantasie ist und dass wir sie als eine Quelle f\u00fcr Kreativit\u00e4t und Lebensfreude sch\u00e4tzen m\u00fcssen. Sie zeigen uns,","name":"49 Funken der Fantasie: Inspirierende Spr\u00fcche f\u00fcr Tr\u00e4umer / Sternenvogelpoesie","@id":"https://sternenvogelpoesie.de/sprueche-ueber-fantasie/#richSnippet","isPartOf":{"@id":"https://sternenvogelpoesie.de/sprueche-ueber-fantasie/#webpage"},"image":{"@id":"https://sternenvogelpoesie.de/wp-content/uploads/fantasie-visualisiert-1.jpg"},"inLanguage":"de","mainEntityOfPage":{"@id":"https://sternenvogelpoesie.de/sprueche-ueber-fantasie/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO Plugin -->
+<link rel="alternate" type="application/rss+xml" title="Sternenvogelpoesie /// Gedichte &raquo; Feed" href="https://sternenvogelpoesie.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sternenvogelpoesie /// Gedichte &raquo; Kommentar-Feed" href="https://sternenvogelpoesie.de/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sternenvogelpoesie /// Gedichte &raquo; 49 Funken der Fantasie: Inspirierende Sprüche für Träumer-Kommentar-Feed" href="https://sternenvogelpoesie.de/sprueche-ueber-fantasie/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://sternenvogelpoesie.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsternenvogelpoesie.de%2Fsprueche-ueber-fantasie%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://sternenvogelpoesie.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsternenvogelpoesie.de%2Fsprueche-ueber-fantasie%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='generatepress-fonts-css' href='//sternenvogelpoesie.de/wp-content/cache/wpfc-minified/9h6k51mq/huxq.css' media='all' />
+<style id='wp-block-library-inline-css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+/*# sourceURL=wp-block-library-inline-css */
+</style><style id='wp-block-heading-inline-css'>
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://sternenvogelpoesie.de/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id='wp-block-image-inline-css'>
+.wp-block-image>a,.wp-block-image>figure>a{display:inline-block}.wp-block-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom}@media not (prefers-reduced-motion){.wp-block-image img.hide{visibility:hidden}.wp-block-image img.show{animation:show-content-image .4s}}.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a{border-radius:inherit}.wp-block-image.has-custom-border img{box-sizing:border-box}.wp-block-image.aligncenter{text-align:center}.wp-block-image.alignfull>a,.wp-block-image.alignwide>a{width:100%}.wp-block-image.alignfull img,.wp-block-image.alignwide img{height:auto;width:100%}.wp-block-image .aligncenter,.wp-block-image .alignleft,.wp-block-image .alignright,.wp-block-image.aligncenter,.wp-block-image.alignleft,.wp-block-image.alignright{display:table}.wp-block-image .aligncenter>figcaption,.wp-block-image .alignleft>figcaption,.wp-block-image .alignright>figcaption,.wp-block-image.aligncenter>figcaption,.wp-block-image.alignleft>figcaption,.wp-block-image.alignright>figcaption{caption-side:bottom;display:table-caption}.wp-block-image .alignleft{float:left;margin:.5em 1em .5em 0}.wp-block-image .alignright{float:right;margin:.5em 0 .5em 1em}.wp-block-image .aligncenter{margin-left:auto;margin-right:auto}.wp-block-image :where(figcaption){margin-bottom:1em;margin-top:.5em}.wp-block-image.is-style-circle-mask img{border-radius:9999px}@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0;-webkit-mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-mode:alpha;-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain}}:root :where(.wp-block-image.is-style-rounded img,.wp-block-image .is-style-rounded img){border-radius:9999px}.wp-block-image figure{margin:0}.wp-lightbox-container{display:flex;flex-direction:column;position:relative}.wp-lightbox-container img{cursor:zoom-in}.wp-lightbox-container img:hover+button{opacity:1}.wp-lightbox-container button{align-items:center;backdrop-filter:blur(16px) saturate(180%);background-color:#5a5a5a40;border:none;border-radius:4px;cursor:zoom-in;display:flex;height:20px;justify-content:center;opacity:0;padding:0;position:absolute;right:16px;text-align:center;top:16px;width:20px;z-index:100}@media not (prefers-reduced-motion){.wp-lightbox-container button{transition:opacity .2s ease}}.wp-lightbox-container button:focus-visible{outline:3px auto #5a5a5a40;outline:3px auto -webkit-focus-ring-color;outline-offset:3px}.wp-lightbox-container button:hover{cursor:pointer;opacity:1}.wp-lightbox-container button:focus{opacity:1}.wp-lightbox-container button:focus,.wp-lightbox-container button:hover,.wp-lightbox-container button:not(:hover):not(:active):not(.has-background){background-color:#5a5a5a40;border:none}.wp-lightbox-overlay{box-sizing:border-box;cursor:zoom-out;height:100vh;left:0;overflow:hidden;position:fixed;top:0;visibility:hidden;width:100%;z-index:100000}.wp-lightbox-overlay .close-button{align-items:center;cursor:pointer;display:flex;justify-content:center;min-height:40px;min-width:40px;padding:0;position:absolute;right:calc(env(safe-area-inset-right) + 16px);top:calc(env(safe-area-inset-top) + 16px);z-index:5000000}.wp-lightbox-overlay .close-button:focus,.wp-lightbox-overlay .close-button:hover,.wp-lightbox-overlay .close-button:not(:hover):not(:active):not(.has-background){background:none;border:none}.wp-lightbox-overlay .lightbox-image-container{height:var(--wp--lightbox-container-height);left:50%;overflow:hidden;position:absolute;top:50%;transform:translate(-50%,-50%);transform-origin:top left;width:var(--wp--lightbox-container-width);z-index:9999999999}.wp-lightbox-overlay .wp-block-image{align-items:center;box-sizing:border-box;display:flex;height:100%;justify-content:center;margin:0;position:relative;transform-origin:0 0;width:100%;z-index:3000000}.wp-lightbox-overlay .wp-block-image img{height:var(--wp--lightbox-image-height);min-height:var(--wp--lightbox-image-height);min-width:var(--wp--lightbox-image-width);width:var(--wp--lightbox-image-width)}.wp-lightbox-overlay .wp-block-image figcaption{display:none}.wp-lightbox-overlay button{background:none;border:none}.wp-lightbox-overlay .scrim{background-color:#fff;height:100%;opacity:.9;position:absolute;width:100%;z-index:2000000}.wp-lightbox-overlay.active{visibility:visible}@media not (prefers-reduced-motion){.wp-lightbox-overlay.active{animation:turn-on-visibility .25s both}.wp-lightbox-overlay.active img{animation:turn-on-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active){animation:turn-off-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active) img{animation:turn-off-visibility .25s both}.wp-lightbox-overlay.zoom.active{animation:none;opacity:1;visibility:visible}.wp-lightbox-overlay.zoom.active .lightbox-image-container{animation:lightbox-zoom-in .4s}.wp-lightbox-overlay.zoom.active .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.active .scrim{animation:turn-on-visibility .4s forwards}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active){animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container{animation:lightbox-zoom-out .4s}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .scrim{animation:turn-off-visibility .4s forwards}}@keyframes show-content-image{0%{visibility:hidden}99%{visibility:hidden}to{visibility:visible}}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))}to{transform:translate(-50%,-50%) scale(1)}}@keyframes lightbox-zoom-out{0%{transform:translate(-50%,-50%) scale(1);visibility:visible}99%{visibility:visible}to{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));visibility:hidden}}
+/*# sourceURL=https://sternenvogelpoesie.de/wp-includes/blocks/image/style.min.css */
+</style>
+<style id='wp-block-list-inline-css'>
+ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:1.25em 2.375em}
+/*# sourceURL=https://sternenvogelpoesie.de/wp-includes/blocks/list/style.min.css */
+</style>
+<style id='wp-block-group-inline-css'>
+.wp-block-group{box-sizing:border-box}:where(.wp-block-group.wp-block-group-is-layout-constrained){position:relative}
+/*# sourceURL=https://sternenvogelpoesie.de/wp-includes/blocks/group/style.min.css */
+</style>
+<style id='wp-block-paragraph-inline-css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://sternenvogelpoesie.de/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id='wp-block-spacer-inline-css'>
+.wp-block-spacer{clear:both}
+/*# sourceURL=https://sternenvogelpoesie.de/wp-includes/blocks/spacer/style.min.css */
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--contrast: var(--contrast);--wp--preset--color--contrast-2: var(--contrast-2);--wp--preset--color--contrast-3: var(--contrast-3);--wp--preset--color--base: var(--base);--wp--preset--color--base-2: var(--base-2);--wp--preset--color--base-3: var(--base-3);--wp--preset--color--accent: var(--accent);--wp--preset--color--cremewei: var(--cremewei);--wp--preset--color--aliceblau: var(--aliceblau);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='dashicons-css' href='//sternenvogelpoesie.de/wp-content/cache/wpfc-minified/22r1rv4n/huxq.css' media='all' />
+<link rel='stylesheet' id='generate-comments-css' href='//sternenvogelpoesie.de/wp-content/cache/wpfc-minified/2on5pru7/hvxb.css' media='all' />
+<link rel='stylesheet' id='generate-widget-areas-css' href='//sternenvogelpoesie.de/wp-content/cache/wpfc-minified/fdidhu0t/huxq.css' media='all' />
+<link rel='stylesheet' id='generate-style-css' href='//sternenvogelpoesie.de/wp-content/cache/wpfc-minified/eivf782p/huxq.css' media='all' />
+<style id='generate-style-inline-css'>
+.is-right-sidebar{width:30%;}.is-left-sidebar{width:30%;}.site-content .content-area{width:70%;}@media (max-width: 800px){.main-navigation .menu-toggle,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav,.main-navigation:not(.slideout-navigation):not(.toggled) .main-nav > ul,.has-inline-mobile-toggle #site-navigation .inside-navigation > *:not(.navigation-search):not(.main-nav){display:none;}.nav-align-right .inside-navigation,.nav-align-center .inside-navigation{justify-content:space-between;}.has-inline-mobile-toggle .mobile-menu-control-wrapper{display:flex;flex-wrap:wrap;}.has-inline-mobile-toggle .inside-header{flex-direction:row;text-align:left;flex-wrap:wrap;}.has-inline-mobile-toggle .header-widget,.has-inline-mobile-toggle #site-navigation{flex-basis:100%;}.nav-float-left .has-inline-mobile-toggle #site-navigation{order:10;}}
+.dynamic-author-image-rounded{border-radius:100%;}.dynamic-featured-image, .dynamic-author-image{vertical-align:middle;}.one-container.blog .dynamic-content-template:not(:last-child), .one-container.archive .dynamic-content-template:not(:last-child){padding-bottom:0px;}.dynamic-entry-excerpt > p:last-child{margin-bottom:0px;}
+/*# sourceURL=generate-style-inline-css */
+</style>
+<link rel='stylesheet' id='generatepress-dynamic-css' href='//sternenvogelpoesie.de/wp-content/cache/wpfc-minified/dgs1soix/huxq.css' media='all' />
+<link rel="https://api.w.org/" href="https://sternenvogelpoesie.de/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://sternenvogelpoesie.de/wp-json/wp/v2/posts/3713" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sternenvogelpoesie.de/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<link rel='shortlink' href='https://sternenvogelpoesie.de/?p=3713' />
+<style>
+.scroll-progress {
+position: fixed;
+bottom: 0;
+left: 0;
+height: 6px;
+background: linear-gradient(90deg, #E2E8F0, #4A5568);
+width: 0%;
+z-index: 9999;
+border-radius: 3px 3px 0 0;
+box-shadow: 0 -1px 3px rgba(0,0,0,0.1);
+transition: width 0.15s ease-out;
+}
+/* Responsive: Auf sehr kleinen Bildschirmen etwas dünner */
+@media (max-width: 480px) {
+.scroll-progress {
+height: 4px;
+}
+}
+</style>
+<link rel="icon" href="https://sternenvogelpoesie.de/wp-content/uploads/favicon.png" sizes="32x32" />
+<link rel="icon" href="https://sternenvogelpoesie.de/wp-content/uploads/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://sternenvogelpoesie.de/wp-content/uploads/favicon.png" />
+<meta name="msapplication-TileImage" content="https://sternenvogelpoesie.de/wp-content/uploads/favicon.png" />
+<style id="wp-custom-css">
+html{overflow-y:scroll;scrollbar-color:#4A5568 #E2E8F0}IMG{margin-top:0;margin-bottom:0}.site-logo,.startlogo{filter:grayscale(0%);transition:filter .3s ease}.inside-article,.paging-navigation{padding:0;border-radius:0;box-shadow:0 0 0 rgba(0,0,0,.1)}.cover,.buchcover,.wp-block-image{box-shadow:0 20px 80px rgba(0,0,0,.2);box-sizing:content-box;border:4px solid #fff;vertical-align:left;margin-bottom:20px;margin-top:-20px}.site-logo:hover{filter:grayscale(100%)}.coverbreit{width:800px;box-shadow:0 20px 80px rgba(0,0,0,.2);box-sizing:content-box;border:4px solid #fff;vertical-align:left;margin-bottom:20px;margin-top:-20px}.noborder{box-shadow:0 0 0 rgba(0,0,0,0);box-sizing:content-box!important;border:0 solid #fff;vertical-align:left;margin-bottom:30px;margin-top:-20px}.wp-embed-aspect-16-9{padding-bottom:26px}.bildkasten{margin-top:20px}.promo{border-left:4px solid #e15645;border-right:0;margin-left:-6px;padding-left:0}.dl{margin-top:22px}.entry-meta{margin-bottom:-36px}footer.entry-meta{margin-bottom:0}h1,h2{letter-spacing:.2px}blockquote H3{padding-bottom:8px}a:link{text-decoration:underline;border-bottom:0 dashed}H2 a:link,H1,a:visited{text-decoration:none}.read-more-container a:link,.sf-menu a:link{text-decoration:none}.bildmargin{margin-bottom:60px!important}blockquote{margin-left:10px;margin-top:42px;font-style:normal;border-left:10px solid;border-image:linear-gradient(to bottom,#eff5ff,silver) 1}.beitragsbild{margin-bottom:20px}.wp-block-quote{width:100%;height:auto;font-size:140%}.wp-block-quote h3{font-size:120%}.page-numbers{font-size:140%;word-spacing:20px}.site-info{margin-top:-12px;display:none}OL{margin-left:48px;font-size:114%!important;line-height:126%}LI{padding-bottom:8px;margin-left:-20px}.main-nav LI{padding-bottom:0;margin-left:0}li::marker{color:#12497f;line-height:90%}UL{line-height:130%}.widget_nav_menu LI{margin-left:40px;border:0;list-style:circle!important;line-height:80%}CODE{font-size:120%;font-style:normal}.search-field{background-color:#F0F8FF!important;border:0 solid lightblue!important;border-left:12px solid lightblue!important}.indent{margin-top:-40px}.siegel{margin-top:-12px}.blocksatz{text-align:justify!important;hyphens:auto}.illu{padding-right:20px}.post-15089 h1{color:#FF7518;transition:color .5s ease}.post-15089 h1:hover{color:#000}.wp-element-caption{font-size:110%!important;margin-top:80px!important}hr{border:none!important;height:1px;background:linear-gradient(to right,transparent,#aaa,transparent)!important;margin:2em 0!important;display:block!important}.wp-block-pullquote{background-color:#f9f9f9;border-left:0;padding:20px;line-height:160%;margin:20px 0;padding-bottom:50px;border-radius:5px}.wp-block-pullquote cite{display:block;margin-top:-30px;text-align:center;font-size:.8em;color:#666;font-style:normal}.wp-block-pullquote cite:before{content:"— ";color:#666}.tablebig{all:unset;width:100vw;display:table;padding:2px} .tablebig td,.tablebig th{padding:2px} @media(prefers-color-scheme:dark){blockquote{border-image:linear-gradient(to bottom,#3a5b86,#1d2e43) 1}html,body{background-color:#151515!important;color:#e8e6e1!important}a:link,a:visited{color:#81cfff!important}.site,.site-container,.site-main,.content-area,.inside-article,.paging-navigation{background-color:#151515!important;color:inherit!important;border-color:#333!important}.site-header,.inside-header,.main-navigation{background-color:#000!important;color:#eee!important}.main-navigation a,.site-title a{color:#eee!important}.menu-toggle,.menu-toggle .gp-icon{color:#eee!important;fill:#eee!important}.site-footer,.footer-widgets,.inside-footer{background-color:#121212!important;color:#ccc!important}.site-footer a{color:#81cfff!important}.sidebar,.inside-left-sidebar,.inside-right-sidebar{background-color:#1a1a1a!important;color:#ddd!important}.widget{background-color:inherit!important;color:inherit!important}.widget-title{color:#f0f0f0!important}h1,h2,h3,h4,h5,h6{color:#f0f0f0!important}.entry-meta,.entry-meta a{color:#aaa!important}blockquote{background-color:#1a1a1a!important;border-left-color:#444!important;color:#ccc!important;font-style:normal!important}input,textarea,select{background-color:#2a2a2a!important;color:#fff!important;border:1px solid #444!important}.search-field,.widget_search input[type="search"]{background-color:#2a2a2a!important;color:#fff!important;border:1px solid #444!important}.search-submit,.widget_search button{background-color:#f97316!important;color:#fff!important;border:none!important;cursor:pointer!important}.search-submit svg{fill:#fff!important}.has-base-background-color.has-background{background:linear-gradient(135deg,#1e1f24 0%,#252627 100%)!important;color:#e0e0e0!important;border:none!important}.has-background{background-color:#1b1b1b!important;color:#e8e6e1!important}summary{color:#e0e0e0!important}details{background-color:#1b1b1b!important;border:1px solid #333!important;color:#ccc!important}.page-header{background:none!important;color:#e0e0e0!important;padding:2rem 1rem!important}.taxonomy-description{background:none!important;color:#ccc!important}.button,.wp-block-button__link,input[type="submit"],button[type="submit"]{background-color:#ff6900!important;color:#1a1a1a!important;border:none!important;font-weight:bold}.wp-block-button__link,.read-more-container a{color:#fff!important;text-shadow:none!important}}
+/* Download Button Orange-Akzent - Version 1.2 */
+.dlbutton {
+display: inline-block;
+padding: 15px 30px;
+background: linear-gradient(135deg, #3b82f6, #f97316);
+color: white;
+text-decoration: none;
+border-radius: 8px;
+font-weight: 600;
+transition: all 0.3s ease;
+box-shadow: 0 4px 15px rgba(59, 130, 246, 0.25);
+border: none;
+cursor: pointer;
+}
+.dlbutton:hover {
+transform: translateY(-2px);
+box-shadow: 0 6px 20px rgba(249, 115, 22, 0.3);
+background: linear-gradient(135deg, #2563eb, #ea580c);
+}
+.dlbutton:active {
+transform: translateY(0);
+}
+.dlbutton::before {
+font-family: 'dashicons';
+content: '\f316';
+margin-right: 8px;
+vertical-align: middle;
+}		</style>
+</head>
+<body class="wp-singular post-template-default single single-post postid-3713 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-generatepress post-image-above-header post-image-aligned-center sticky-menu-fade right-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover" itemtype="https://schema.org/Blog" itemscope>
+<a class="screen-reader-text skip-link" href="#content" title="Zum Inhalt springen">Zum Inhalt springen</a>		<header class="site-header has-inline-mobile-toggle" id="masthead" aria-label="Website"  itemtype="https://schema.org/WPHeader" itemscope>
+<div class="inside-header grid-container">
+<div class="site-logo">
+<a href="https://sternenvogelpoesie.de/" rel="home">
+<img  class="header-image is-logo-image" alt="Sternenvogelpoesie /// Gedichte" src="https://sternenvogelpoesie.de/wp-content/uploads/sternenvogelpoesie-logo-4.png" title="Sternenvogelpoesie /// Gedichte von Lenny Löwenstern" width="568" height="140" />
+</a>
+</div>	<nav class="main-navigation mobile-menu-control-wrapper" id="mobile-menu-control-wrapper" aria-label="Mobil-Umschalter">
+<button data-nav="site-navigation" class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="screen-reader-text">Menü</span>		</button>
+</nav>
+<nav class="main-navigation sub-menu-right" id="site-navigation" aria-label="Primär"  itemtype="https://schema.org/SiteNavigationElement" itemscope>
+<div class="inside-navigation">
+<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="screen-reader-text">Menü</span>				</button>
+<div id="primary-menu" class="main-nav"><ul id="menu-hauptmenue" class=" menu sf-menu"><li id="menu-item-2215" class="m1 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2215"><a href="https://sternenvogelpoesie.de/category/gedichte/" title="Gedichte von Lenny Löwenstern">Gedichte /</a></li>
+<li id="menu-item-2216" class="m2 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2216"><a href="https://sternenvogelpoesie.de/category/beitraege/" title="Beiträge zu Poesie und Lyrik ">Poesie /</a></li>
+<li id="menu-item-6071" class="m3 menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-6071"><a href="https://sternenvogelpoesie.de/category/sprueche-prosa/" title="Sprüche und Weisheiten">Sprüche /</a></li>
+<li id="menu-item-21386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21386"><a href="https://sternenvogelpoesie.de/gedichtbaende-lenny-loewenstern/">Gedichtbände</a></li>
+</ul></div>			</div>
+</nav>
+</div>
+</header>
+<div class="site grid-container container hfeed" id="page">
+<div class="site-content" id="content">
+<div class="content-area" id="primary">
+<main class="site-main" id="main">
+<article id="post-3713" class="post-3713 post type-post status-publish format-standard has-post-thumbnail hentry category-sprueche-prosa" itemtype="https://schema.org/CreativeWork" itemscope>
+<div class="inside-article">
+<header class="entry-header">
+<h1 class="entry-title" itemprop="headline">49 Funken der Fantasie: Inspirierende Sprüche für Träumer</h1>		<div class="entry-meta">
+Letzter Federstrich am <time class="entry-date updated-date" datetime="2025-07-09T15:44:02+02:00" itemprop="dateModified">09.07.2025</time> von <span class="byline">Lenny Löwenstern</span> * <a href="https://sternenvogelpoesie.de/zufaelliges-gedicht/">Zufallsgedicht</a>		</div>
+</header>
+<div class="entry-content" itemprop="text">
+<figure data-wp-context="{&quot;imageId&quot;:&quot;69426d485c20f&quot;}" data-wp-interactive="core/image" data-wp-key="69426d485c20f" class="wp-block-image size-full cover has-lightbox wp-lightbox-container"><img fetchpriority="high" decoding="async" width="1024" height="1024" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://sternenvogelpoesie.de/wp-content/uploads/fantasie-visualisiert-1.jpg" alt="49 Funken der Fantasie: Inspirierende Sprüche für Träumer" class="wp-image-3719" title="49 Funken der Fantasie: Inspirierende Sprüche für Träumer" srcset="https://sternenvogelpoesie.de/wp-content/uploads/fantasie-visualisiert-1.jpg 1024w, https://sternenvogelpoesie.de/wp-content/uploads/fantasie-visualisiert-1-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><button
+class="lightbox-trigger"
+type="button"
+aria-haspopup="dialog"
+aria-label="Vergrößern"
+data-wp-init="callbacks.initTriggerButton"
+data-wp-on--click="actions.showLightbox"
+data-wp-style--right="state.imageButtonRight"
+data-wp-style--top="state.imageButtonTop"
+>
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
+</svg>
+</button></figure>
+<p>Diese Zitate erinnern uns daran, wie wichtig Fantasie ist und dass wir sie als eine Quelle für Kreativität und Lebensfreude schätzen müssen. Sie zeigen uns, dass in unserer Vorstellungskraft vieles möglich ist und dass sie ein wichtiger Teil unseres Denkens und Fühlens ist.</p>
+<p>In unserer Fantasie finden wir eine Auszeit vom Alltag und können uns vorstellen, was alles machbar wäre, wenn wir uns nicht selbst einschränken würden. Es liegt an uns, ob wir uns darauf einlassen und unsere Fantasie nutzen, um unser Leben bunter und interessanter zu gestalten. <a href="https://sternenvogelpoesie.de/traumhaft-schoene-woerter-59-begriffe-mit-traum/" data-type="post" data-id="2183">Träumerei</a> tut gut und eröffnet Perspektiven. Man muss es nur zulassen. Siehe auch: <a href="https://sternenvogelpoesie.de/rueckzugsorte-gedichte-lesen/">Wo Worte klingen: 19 inspirierende Orte, um Gedichte zu lesen und die Seele zu baumeln zu lassen</a></p>
+<span id="more-3713"></span>
+<ol class="wp-block-list">
+<li>Fantasie ist die einzige Währung im Reich des Unmöglichen.</li>
+<li>Die Realität pflanzt Samen, aber erst die Fantasie lässt sie blühen.</li>
+<li>Fantasie ist das Fernrohr, durch das die Sterne der Möglichkeiten in Sicht kommen.</li>
+<li>In den Gärten der Fantasie wächst das Unwirkliche zu neuer Wirklichkeit.</li>
+<li>Die Fantasie ist die Farbpalette der Seele, mit der sie das Grau des Alltags übermalt.</li>
+<li>Wo die Landkarte des Wissens endet, beginnt das Meer der Fantasie.</li>
+<li>Fantasie ist die Leinwand, auf der Träume Gestalt annehmen.</li>
+<li>Eine Welt ohne Fantasie ist wie ein Himmel ohne Sterne – dunkel und unerreichbar.</li>
+<li>Fantasie ist die Kunst, Brücken über den Fluss des Unmöglichen zu bauen.</li>
+<li>Der Verstand baut Gefängnisse, aber die Fantasie hält den Schlüssel zur Freiheit.</li>
+<li>Fantasie ist der Sandkasten des Geistes, wo die Gebäude der Zukunft zuerst entstehen.</li>
+<li>Fantasie ist die Musik des Geistes, die Melodien von dem, was sein könnte.</li>
+<li>Die Fantasie ist das Auge des Geistes und das Fenster zu Welten, die jenseits unserer Vorstellung liegen.</li>
+<li>Nur wer mit der Fantasie segeln kann, entdeckt unerforschte Ozeane der Kreativität.</li>
+<li>Wenn das Leben dir Grenzen setzt, bau mit der Fantasie eine Schaukel und flieg darüber hinweg.</li>
+<li>Fantasie ist der Wind, der die Segel der Neugier aufbläst und uns zu neuen Ufern trägt.</li>
+<li>Die Fantasie webt das zarte Gewand der Poesie, in dessen Falten sich die Träume des Dichters verbergen.</li>
+<li>In der Schmiede der Fantasie werden die Ketten des Unmöglichen geschmolzen.</li>
+<li>Die Fantasie ist ein universeller Pass, mit dem man in jedes Land einreisen kann, ohne einen Fuß vor die Tür zu setzen.</li>
+<li>Wer die Fantasie beherrscht, trägt einen unsichtbaren Kronleuchter des Wunders.</li>
+<li>Fantasie ist der Stoff, aus dem das Universum seine Geschichten webt.</li>
+<li>Ein Tag ohne Fantasie ist ein Himmel ohne Wolken – ohne Formen, die zum Träumen anregen.</li>
+<li>Fantasie ist die beste Reisegesellschaft: anspruchslos, inspirierend und stets bereit für das Unerwartete.</li>
+<li>Die Fantasie ist das Echo unserer Sehnsüchte in den Hallen des Möglichen.</li>
+<li>Fantasie ist das Flüstern der Zeit, das uns Geschichten aus der Zukunft erzählt.</li>
+<li>Die Quellen der Fantasie versiegen nie, denn sie werden von den Strömen des Herzens gespeist.</li>
+<li>Fantasie ist das Kaleidoskop, durch das die graue Welt in Farbe getaucht wird.</li>
+<li>Wer die Fantasie als Wegweiser wählt, verirrt sich nie wirklich.</li>
+<li>Fantasie ist der Tanzschritt des Geistes, mit dem er über die Grenzen der Realität hinauswalzert.</li>
+<li>Die Fantasie ist der einzige Zug, der immer pünktlich am Bahnhof der Träume ankommt.</li>
+<li>Fantasie ist das Lächeln der Seele, das sich in unzähligen Geschichten widerspiegelt.</li>
+<li>Die Blumen der Fantasie blühen auch im kältesten Winter der Realität.</li>
+<li>Fantasie ist die geheime Zutat, die das Alltägliche in das Außergewöhnliche verwandelt.</li>
+<li>Ein Leben ohne Fantasie ist wie eine Bibliothek ohne Bücher – still und leer.</li>
+<li>Fantasie ist der Schlüssel, der jede Tür im Schloss des Lebens öffnet.</li>
+<li>Fantasie ist das Teleskop, das Sterne der Möglichkeiten in greifbare Nähe rückt.</li>
+<li>Mit der Fantasie als Kompass findet man Schätze in den gewöhnlichsten Momenten.</li>
+<li>Fantasie ist der Stift, mit dem wir die weißen Seiten unserer Zukunft bemalen.</li>
+<li>Die Fantasie ist der Pinselstrich, der das Gewöhnliche in Meisterwerke verwandelt.</li>
+<li>Die Fantasie ist die Sinfonie des Geistes, die unendliche Variationen des Möglichen spielt.</li>
+<li>Sie ist der Schlüssel zu verborgenen Gärten, wo das Unmögliche erblüht.</li>
+<li>Fantasie ist der Atemzug, der das Glutbett der Träume entfacht.</li>
+<li>Sie ist der goldene Faden im Gewebe des Lebens, der die grauen Tage mit Glanz durchzieht.</li>
+<li>Fantasie ist das Lächeln der Gedanken, das die Welt erhellt.</li>
+<li>Fantasie ist die sanfte Hand, die uns über die rauen Pfade der Wirklichkeit trägt.</li>
+<li>Fantasie ist das sanfte Licht, das durch die Risse der Realität scheint.</li>
+<li>In den Adern der Poesie fließt die Essenz der Fantasie, die jeden Vers mit der Seele des Unendlichen tränkt.</li>
+<li>Fantasie ist das leise Flüstern der Hoffnung in der Stille der Nacht.</li>
+<li>Fantasie ist die Brücke aus Regenbogen, die das Heute mit dem Morgen verbindet.</li>
+</ol>
+<figure data-wp-context="{&quot;imageId&quot;:&quot;69426d485cbea&quot;}" data-wp-interactive="core/image" data-wp-key="69426d485cbea" class="wp-block-image size-full cover has-lightbox wp-lightbox-container"><img decoding="async" width="1024" height="1024" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://sternenvogelpoesie.de/wp-content/uploads/fantasie-visualisiert-2.jpg" alt="49 Funken der Fantasie: Inspirierende Sprüche für Träumer" class="wp-image-3720" title="49 Funken der Fantasie: Inspirierende Sprüche für Träumer" srcset="https://sternenvogelpoesie.de/wp-content/uploads/fantasie-visualisiert-2.jpg 1024w, https://sternenvogelpoesie.de/wp-content/uploads/fantasie-visualisiert-2-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><button
+class="lightbox-trigger"
+type="button"
+aria-haspopup="dialog"
+aria-label="Vergrößern"
+data-wp-init="callbacks.initTriggerButton"
+data-wp-on--click="actions.showLightbox"
+data-wp-style--right="state.imageButtonRight"
+data-wp-style--top="state.imageButtonTop"
+>
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
+</svg>
+</button></figure>
+<p>Die Visualisierungen erschuf <a href="https://sternenvogelpoesie.de/wer-oder-was-ist-eigentlich-dall-e/" data-type="post" data-id="2430">DALL-E</a>. Die Bilder zeigen eine Verkörperung der Fantasie, die in lebendigen und fantasievollen Motiven zum Ausdruck kommt. Sie sind gefüllt mit Elementen, die Kreativität und Inspiration symbolisieren. Die Headline wurde mit Google Gemini optimiert.</p>
+</div>
+<footer class="entry-meta" aria-label="Beitragsmeta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" /></svg></span><span class="screen-reader-text">Kategorien </span><a href="https://sternenvogelpoesie.de/category/sprueche-prosa/" rel="category tag">Sprüche und Weisheiten</a></span> 		</footer>
+<div class="related-posts" style="margin-top: 40px;"><h3>Bist du bereit für mehr?</h3><ul><li><a href="https://sternenvogelpoesie.de/sternenfeld-14-20-gedicht/">einzeiliges Mondgedicht 11/20</a></li><li><a href="https://sternenvogelpoesie.de/wie-du-mich-rettest-gedicht/">wie du mich rettest (Gedicht)</a></li><li><a href="https://sternenvogelpoesie.de/nachtgedicht-ohne-titel-2/">Nachtseele (Gedicht)</a></li><li><a href="https://sternenvogelpoesie.de/vor-und-zurueck-gedicht/">vor und zurück (Traumgedicht)</a></li></ul></div>
+<div class="wp-block-group promo"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<h2 class="wp-block-heading">Sie wirken wie Wellness. Aber sie meinen es ernst!</h2>
+<p><em>Kann nicht anders, als zu pfeifen –<br>der Morgen, der Wald,<br>so blau!</em></p>
+<p>Diese Haiku sind älter als Instagram – und besser. Japanische Klassiker, neu übersetzt. Lachen, staunen, leben lassen. Drei Zeilen – und die Welt sieht plötzlich anders aus. <a href="https://hoshitori-haiku.de/haiku-die-uns-gluecklich-machen-300-achtsame-gedichte-buch/">Haiku, die uns glücklich machen!</a> Jetzt als eBook und Taschenbuch.</p>
+<div style="height:22px" aria-hidden="true" class="wp-block-spacer"></div>
+<figure class="wp-block-image size-full noborder"><a href="https://hoshitori-haiku.de/haiku-die-uns-gluecklich-machen-300-achtsame-gedichte-buch/"><img decoding="async" width="400" height="632" src="https://sternenvogelpoesie.de/wp-content/uploads/glueckliche-haiku-mockup-400.png" alt="Haiku, die uns glücklich machen - Cover" class="wp-image-20317" title="Haiku, die uns glücklich machen! 300 achtsame Gedichte"/></a></figure>
+<p></p>
+</div></div>
+</div>
+</article>
+<div class="comments-area">
+<div id="comments">
+</div><!-- #comments -->
+</div>
+</main>
+</div>
+<div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+<div class="inside-right-sidebar">
+<aside id="text-12" class="widget inner-padding widget_text"><h2 class="widget-title">Sternenvogelpoesie /</h2>			<div class="textwidget"><div style="text-align: justify; hyphens: auto; margin-top: 6%;">Gedichte &amp; Poesie von Lenny Löwenstern; originale Lyrik <a href="https://sternenvogelpoesie.de/gedichte-mit-ki-visualisieren/">visualisiert von künstlicher Intelligenz</a> (KI).</div>
+</div>
+</aside><aside id="text-4" class="widget inner-padding widget_text">			<div class="textwidget"><div style="text-align: left;"><a href="https://sternenvogelpoesie.de/impressum/"><img loading="lazy" decoding="async" class="aligncenter wp-image-54505" title="Lenny Löwenstern Schriftsteller" src="https://sternenvogelpoesie.de/wp-content/uploads/lenny-loewenlogo-500.webp" alt="Lenny Löwenstern" width="501" height="578" /></a></div>
+<div style="text-align: justify; hyphens: auto; margin-top: 6%;">Lenny Löwenstern ist Schriftsteller und Sachbuchautor. Er ist ein Freund der Sterne und der Wörter. <a href="https://sternenvogelpoesie.de/warum-gedichte-schreiben/">Warum Gedichte</a>?</div>
+</div>
+</aside><aside id="nav_menu-5" class="widget inner-padding widget_nav_menu"><h2 class="widget-title">Gedichte im Bild /</h2><div class="menu-gedichte-im-bild-container"><ul id="menu-gedichte-im-bild" class="menu"><li id="menu-item-4983" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4983"><a href="https://sternenvogelpoesie.de/10-beruehmte-klassische-gedichte-ins-bild-gesetzt/">10 berühmte Gedichte</a></li>
+<li id="menu-item-8914" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-8914"><a href="https://sternenvogelpoesie.de/liebesgedichte-schoenste-beruehmte-ins-bild-gesetzt/">10 Liebesgedichte</a></li>
+<li id="menu-item-18528" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-18528"><a href="https://sternenvogelpoesie.de/10-der-schoensten-und-bekanntesten-fruehlingsgedichte-ins-bild-gesetzt/">10 Frühlingsgedichte</a></li>
+<li id="menu-item-20069" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-20069"><a href="https://sternenvogelpoesie.de/klassische-sommergedichte-bekannte-bilder/">10 Sommergedichte</a></li>
+<li id="menu-item-4984" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4984"><a href="https://sternenvogelpoesie.de/wintergedichte-schoene-und-bekannte-visualisiert-von-einer-ki/">10 Wintergedichte</a></li>
+<li id="menu-item-15304" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15304"><a href="https://sternenvogelpoesie.de/rosengedichte-klassisch-texte-bilder/">10 Rosengedichte</a></li>
+</ul></div></aside><aside id="nav_menu-12" class="widget inner-padding widget_nav_menu"><h2 class="widget-title">Bücher /</h2><div class="menu-buchtipps-container"><ul id="menu-buchtipps" class="menu"><li id="menu-item-20693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20693"><a href="https://sternenvogelpoesie.de/unsere-schoensten-111-deutsche-gedichte-beliebt/">Unsere Schönsten</a></li>
+<li id="menu-item-15585" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15585"><a href="https://sternenvogelreisen.de/schoene-woerter-jetzt-auch-als-buch/">Schöne Wörter</a></li>
+<li id="menu-item-21790" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21790"><a href="https://hoshitori-haiku.de/haiku-fur-jeden-tag-buch/">Haiku für jeden Tag</a></li>
+<li id="menu-item-21789" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21789"><a href="https://sternenvogelverlag.de/in-uns-die-sterne-roman-loewenstern-liebe-sehnsucht/">In uns die Sterne</a></li>
+</ul></div></aside><aside id="search-2" class="widget inner-padding widget_search"><h2 class="widget-title">Gedichtsuche /</h2><form method="get" class="search-form" action="https://sternenvogelpoesie.de/">
+<label>
+<span class="screen-reader-text">Suche nach:</span>
+<input type="search" class="search-field" placeholder="Suchen …" value="" name="s" title="Suche nach:">
+</label>
+<button class="search-submit" aria-label="Suchen"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path fill-rule="evenodd" clip-rule="evenodd" d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" /></svg></span></button></form>
+</aside><aside id="nav_menu-14" class="widget inner-padding widget_nav_menu"><h2 class="widget-title">Wörterlisten /</h2><div class="menu-woerterlisten-container"><ul id="menu-woerterlisten" class="menu"><li id="menu-item-4687" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4687"><a href="https://sternenvogelpoesie.de/traumhaft-schoene-woerter-59-begriffe-mit-traum/">Traumwörter</a></li>
+<li id="menu-item-4688" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4688"><a href="https://sternenvogelpoesie.de/romantische-mondwoerter-worte-mit-mond/">Mondwörter</a></li>
+<li id="menu-item-4689" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4689"><a href="https://sternenvogelpoesie.de/liste-schoenste-worte-mit-stern/">Sternwörter</a></li>
+<li id="menu-item-4690" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4690"><a href="https://sternenvogelpoesie.de/woerter-mit-regen-wortliste/">Regenwörter</a></li>
+<li id="menu-item-11499" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11499"><a href="https://sternenvogelpoesie.de/woerter-des-himmels/">Himmelwörter</a></li>
+<li id="menu-item-4691" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4691"><a href="https://sternenvogelpoesie.de/79-dunkle-woerter-mit-nacht-fuer-texte-mit-seele/">Nachtwörter</a></li>
+</ul></div></aside>	</div>
+</div>
+
+</div>
+</div>
+<div class="site-footer">
+<div id="footer-widgets" class="site footer-widgets">
+<div class="footer-widgets-container grid-container">
+<div class="inside-footer-widgets">
+<div class="footer-widget-1">
+<aside id="nav_menu-10" class="widget inner-padding widget_nav_menu"><h2 class="widget-title">Poesiegedanken /</h2><div class="menu-poesiegedanken-container"><ul id="menu-poesiegedanken" class="menu"><li id="menu-item-15466" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15466"><a href="https://sternenvogelpoesie.de/poesie-gedichte-trost-heilsam/">Poesie als stiller Freund</a></li>
+<li id="menu-item-15465" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15465"><a href="https://sternenvogelpoesie.de/mond-poesie-gefaehrte-nachthimmel/">Der Mond als Gefährte</a></li>
+<li id="menu-item-15464" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15464"><a href="https://sternenvogelpoesie.de/unterschied-poesie-prosa/">Poesie oder Prosa?</a></li>
+<li id="menu-item-15463" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15463"><a href="https://sternenvogelpoesie.de/gedichte-schmetterlingsfluegel/">Schmetterlingsflügelpoesie</a></li>
+<li id="menu-item-21317" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-21317"><a href="https://sternenvogelpoesie.de/minimalismus-gedicht-poesie/">Minimalismus in der Poesie</a></li>
+<li id="menu-item-15467" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15467"><a href="https://sternenvogelpoesie.de/blau-farbe-der-seele-poesie/">Das Blau der Seele</a></li>
+</ul></div></aside>	</div>
+<div class="footer-widget-2">
+<aside id="nav_menu-13" class="widget inner-padding widget_nav_menu"><h2 class="widget-title">Poesiewissen /</h2><div class="menu-poesiewissen-container"><ul id="menu-poesiewissen" class="menu"><li id="menu-item-6455" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6455"><a href="https://sternenvogelpoesie.de/unterschied-poesie-prosa/">Poesie oder Prosa?</a></li>
+<li id="menu-item-13883" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13883"><a href="https://sternenvogelpoesie.de/gedichte-ohne-reime/">Gedichte ohne Reime</a></li>
+<li id="menu-item-11342" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11342"><a href="https://sternenvogelpoesie.de/instagram-gedichte-poesie/">Lyrik auf Instagram</a></li>
+<li id="menu-item-11341" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11341"><a href="https://sternenvogelpoesie.de/adjektive-gedichte/">Adjektive der Poesie</a></li>
+<li id="menu-item-6456" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6456"><a href="https://sternenvogelpoesie.de/typographie-fuer-gedichte/">Lyrik Typographie</a></li>
+<li id="menu-item-21318" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-21318"><a href="https://sternenvogelpoesie.de/melancholie-gedichte/">Melancholie in Gedichten</a></li>
+</ul></div></aside>	</div>
+<div class="footer-widget-3">
+<aside id="nav_menu-8" class="widget inner-padding widget_nav_menu"><h2 class="widget-title">ESTD. 2017 /</h2><div class="menu-footer-rechts-estd-container"><ul id="menu-footer-rechts-estd" class="menu"><li id="menu-item-13901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13901"><a href="https://sternenvogelpoesie.de/inhaltsverzeichnis-die-liste-aller-posts/" title="Inhalt * Liste der Posts">Versverzeichnis</a></li>
+<li id="menu-item-8615" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-8615"><a href="https://sternenvogelpoesie.de/warum-gedichte-schreiben/" title="Über Lenny Löwenstern und diese Website">About</a></li>
+<li id="menu-item-19603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19603"><a href="https://hoshitori-haiku.de/">Haiku</a></li>
+<li id="menu-item-8161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-8161"><a rel="privacy-policy" href="https://sternenvogelpoesie.de/datenschutzerklaerung/">Datenschutzerklärung</a></li>
+<li id="menu-item-8162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8162"><a href="https://sternenvogelpoesie.de/impressum/">Impressum</a></li>
+</ul></div></aside>	</div>
+</div>
+</div>
+</div>
+<footer class="site-info" aria-label="Website"  itemtype="https://schema.org/WPFooter" itemscope>
+<div class="inside-site-info grid-container">
+<div class="copyright-bar">
+ESTD 2017 <a href="https://lennyloewenstern.de/">Lenny Löwenstern</a> /  <a href="http://sternenvogelpoesie.de/datenschutzerklaerung/">Datenschutz</a> / <a href="http://sternenvogelpoesie.de/impressum/">Impressum</a>				</div>
+</div>
+</footer>
+</div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/generatepress/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- Koko Analytics v2.1.0 - https://www.kokoanalytics.com/ -->
+<script>
+!function(){var e=window,r="koko_analytics";function t(t){t.m=e[r].use_cookie?"c":e[r].method[0],navigator.sendBeacon(e[r].url,new URLSearchParams(t))}e[r].request=t,e[r].trackPageview=function(){if("prerender"!=document.visibilityState&&!/bot|crawl|spider|seo|lighthouse|facebookexternalhit|preview/i.test(navigator.userAgent)){var i=0==document.referrer.indexOf(e[r].site_url)?"":document.referrer;t({pa:e[r].path,po:e[r].post_id,r:i})}},e.addEventListener("load",function(){e[r].trackPageview()})}();
+</script>
+<div class="scroll-progress"></div>    <script>
+document.addEventListener('DOMContentLoaded', function() {
+const progressBar = document.querySelector('.scroll-progress');
+if (progressBar) {
+window.addEventListener('scroll', function() {
+const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+const scrollHeight = document.documentElement.scrollHeight - window.innerHeight;
+const scrolled = (scrollTop / scrollHeight) * 100;
+progressBar.style.width = Math.min(scrolled, 100) + '%';
+});
+}
+});
+</script>
+<script id="generate-a11y">
+!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("pointerdown",(function(){e.classList.add("using-mouse")}),{passive:!0}),e.addEventListener("keydown",(function(){e.classList.remove("using-mouse")}),{passive:!0})}}();
+</script>
+<script type="importmap" id="wp-importmap">
+{"imports":{"@wordpress/interactivity":"https://sternenvogelpoesie.de/wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=8964710565a1d258501f"}}
+</script>
+<script type="module" src="https://sternenvogelpoesie.de/wp-includes/js/dist/script-modules/block-library/image/view.min.js?ver=292ec2cc397d10d98f6a" id="@wordpress/block-library/image/view-js-module" fetchpriority="low" data-wp-router-options="{&quot;loadOnClientNavigation&quot;:true}"></script>
+<link rel="modulepreload" href="https://sternenvogelpoesie.de/wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=8964710565a1d258501f" id="@wordpress/interactivity-js-modulepreload" fetchpriority="low">
+<script type="application/json" id="wp-script-module-data-@wordpress/interactivity">
+{"state":{"core/image":{"metadata":{"69426d485c20f":{"uploadedSrc":"https://sternenvogelpoesie.de/wp-content/uploads/fantasie-visualisiert-1.jpg","figureClassNames":"wp-block-image size-full cover has-lightbox has-lightbox","figureStyles":null,"imgClassNames":"wp-image-3719","imgStyles":null,"targetWidth":1024,"targetHeight":1024,"scaleAttr":false,"ariaLabel":"Vergrößertes Bild","alt":"49 Funken der Fantasie: Inspirierende Sprüche für Träumer"},"69426d485cbea":{"uploadedSrc":"https://sternenvogelpoesie.de/wp-content/uploads/fantasie-visualisiert-2.jpg","figureClassNames":"wp-block-image size-full cover has-lightbox has-lightbox","figureStyles":null,"imgClassNames":"wp-image-3720","imgStyles":null,"targetWidth":1024,"targetHeight":1024,"scaleAttr":false,"ariaLabel":"Vergrößertes Bild","alt":"49 Funken der Fantasie: Inspirierende Sprüche für Träumer"}}}}}
+</script>
+<div
+class="wp-lightbox-overlay zoom"
+data-wp-interactive="core/image"
+data-wp-router-region='{ "id": "core/image-overlay", "attachTo": "body" }'
+data-wp-key="wp-lightbox-overlay"
+data-wp-context='{}'
+data-wp-bind--role="state.roleAttribute"
+data-wp-bind--aria-label="state.currentImage.ariaLabel"
+data-wp-bind--aria-modal="state.ariaModal"
+data-wp-class--active="state.overlayEnabled"
+data-wp-class--show-closing-animation="state.overlayOpened"
+data-wp-watch="callbacks.setOverlayFocus"
+data-wp-on--keydown="actions.handleKeydown"
+data-wp-on--touchstart="actions.handleTouchStart"
+data-wp-on--touchmove="actions.handleTouchMove"
+data-wp-on--touchend="actions.handleTouchEnd"
+data-wp-on--click="actions.hideLightbox"
+data-wp-on-window--resize="callbacks.setOverlayStyles"
+data-wp-on-window--scroll="actions.handleScroll"
+data-wp-bind--style="state.overlayStyles"
+tabindex="-1"
+>
+<button type="button" aria-label="Schließen" style="fill: #000" class="close-button">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="m13.06 12 6.47-6.47-1.06-1.06L12 10.94 5.53 4.47 4.47 5.53 10.94 12l-6.47 6.47 1.06 1.06L12 13.06l6.47 6.47 1.06-1.06L13.06 12Z"></path></svg>
+</button>
+<div class="lightbox-image-container">
+<figure data-wp-bind--class="state.currentImage.figureClassNames" data-wp-bind--style="state.figureStyles">
+<img data-wp-bind--alt="state.currentImage.alt" data-wp-bind--class="state.currentImage.imgClassNames" data-wp-bind--style="state.imgStyles" data-wp-bind--src="state.currentImage.currentSrc">
+</figure>
+</div>
+<div class="lightbox-image-container">
+<figure data-wp-bind--class="state.currentImage.figureClassNames" data-wp-bind--style="state.figureStyles">
+<img data-wp-bind--alt="state.currentImage.alt" data-wp-bind--class="state.currentImage.imgClassNames" data-wp-bind--style="state.imgStyles" data-wp-bind--src="state.enlargedSrc">
+</figure>
+</div>
+<div class="scrim" style="background-color: #fff" aria-hidden="true"></div>
+</div><script id="generate-smooth-scroll-js-extra">
+var gpSmoothScroll = {"elements":[".smooth-scroll","li.smooth-scroll a"],"duration":"800","offset":""};
+//# sourceURL=generate-smooth-scroll-js-extra
+</script>
+<script src="https://sternenvogelpoesie.de/wp-content/plugins/gp-premium/general/js/smooth-scroll.min.js?ver=2.5.5" id="generate-smooth-scroll-js"></script>
+<script id="generate-menu-js-before">
+var generatepressMenu = {"toggleOpenedSubMenus":true,"openSubMenuLabel":"Untermen\u00fc \u00f6ffnen","closeSubMenuLabel":"Untermen\u00fc schlie\u00dfen"};
+//# sourceURL=generate-menu-js-before
+</script>
+<script src="https://sternenvogelpoesie.de/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.6.1" id="generate-menu-js"></script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.247 seconds, on 17.12.2025 @ 09:43 -->
