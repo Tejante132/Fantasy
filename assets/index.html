@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+	<div id="page" class="bande">
+		<head>
+			<script src="https://cdn.canvasjs.com/canvasjs.min.js"></script><!--Attention, bien le mettre là sinon le bouton Camembert ne marchera pas! -->
+			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<link rel="stylesheet" href="assets/css/style.css">
+		</head>
+
+		<body>
+		
+			<script src="assets/js/button.js"></script>
+		
+			<div class="entete">
+				<h1></h1>
+
+				<center><img src="assets/img/logo.png" width="20%" /></center><!--Si on met les 3 images dans la même balise centre alors elles apparaissent toutes les 3 sur la même ligne -->
+				<center><img src="assets/img/avatar1.png" width="20%" />
+				<img src="./assets/img/1706331_CdXiHFAa.png"  alt="avatar" width="20%" /></center>
+			</div>
+
+			<div id="aboutme" class="aboutme">
+				<div class="center2">
+
+				</div>
+			</div>
+			
+			<br/>
+			<br/>
+			<br/>
+			
+			<div id="divNameButton" class="center2">
+				<label for="nameInput">Comment vous vous appelez ?</label>
+				<input type="text" id="nameInput">
+				<button onclick="namebutton()">Submit</button>
+			</div>
+			
+			<br/>
+			<br/>
+			<br/>
+			
+			<!-- <div>
+				<button onclick="sabian3Filter()">Filtrer pour les nombres paires</button><br/><br/>
+				<pre id="sabian3filterCodeHolder" class="mycode"></pre>
+				<p>Résultat :</p>
+				<pre id="sabian3filterHolder" class="myoutput"></pre>
+				<p>J'ai filtré pour afficher uniquement les chiffres qui sont divisibles par 2 en utilisant la fonction .filter</p>
+			</div> -->
+			
+			<div id="page">
+				<div id="container">
+					<h1 style="text-align:center;">Analyse des <span style="color:rgb(163, 201, 239)">données</span> dans un fichier</h1>
+					
+					<div class="center2">
+						<button onclick="helpbutton()">Afficher de l'aide</button>
+						<p id="helpText"></p>
+					</div>
+
+					<div id="page-wrapper">
+						<div>
+							<span>
+								<label for="fileInput" class="btn"><small>Sélectionner un fichier au format .txt
+										:</small></label>
+								<input id="fileInput" type="file" accept="text/plain" name="Fichier (.txt)" />
+							</span>
+						</div>
+						<br />
+						<p style="text-align:center;">
+							<small>
+								<label for="delimID" class="mylabel">Délimiteur(s)</label>
+								&nbsp;<!--Cette partie permet d'afficher un encadré dans lequel il y a des délimiteurs-->
+								<input type="text" value=" ,;’'~|&#@=`-.?!%*$()[]{}_:+«»§\/" name="delim" id="delimID" size="40" />
+							</small>
+							<br />
+							<small>
+								<label for="poleID" class="mylabel">Pôle</label>
+								&nbsp;<!--Cette partie permet d'afficher un encadré dans lequel l'utilisateur va entrer un mot et ce mot va servir pour le concordancier et le grep-->
+								<input type="text" placeholder="entrez un pôle..." name="pole" id="poleID" size="20" />
+							</small>
+							&nbsp;
+							<small>
+								<label for="lgID" class="mylabel">Longueur</label>
+								&nbsp;
+								<input type="text" value="10" name="lg" id="lgID" size="10" />
+							</small>
+							<small>
+								<label for="stopwordID" class="mylabel">mots grammaticaux (stopwords en anglais)</label>
+								&nbsp;<!--Cette partie permet d'afficher un encadré dans lequel les stopwords vont apparaitre, c'est utile pour le afficher le camembert sans les stopwords-->
+								<input type="text" value="de,le,la,les,à,et,des,un,une,du,que,en,l,que,qu,d,s,se,ne,n,ce,me,sa" name="stopwords" id="stopwordID" size="60" />
+							</small>
+							<br />
+							<br />
+							<button onclick="alert('bonjour');"><span>Bonjour</span></button>
+							<br />
+							<br />
+							<button class="submit" onclick="dictionnaire();"><span>Dictionnnaire</span></button><!--Cette ligne et les trois suivantes renvoie au fichier .js et vont permettre d'afficher les boutons-->
+							<button class="submit" onclick="grepbutton()">Grep</button>
+							<button class="submit" onclick="pieChart();"><span>Camembert</span></button><!--Attention pour que ce boution marche il faut être connecté au réseau (lien dans le head) -->
+							<button class="submit" onclick="concordancier();"><span>Concordancier</span></button>
+							
+						</p>
+					</div>
+					<div id="logger" style="width:100%"></div>
+					<br />
+					<div id="Global">
+						<div id="fileDisplayArea"></div>
+						<div id="pageAnalysis"></div>
+						<div id="chartContainer" style="height: 400px; width: 80%; margin: 30px auto;"></div><!--Il est important de mettre cette ligne ici, sinon le camembert va s'afficher en bas à droite au lieu d'au milieu de la page-->
+					</div>
+				</div>
+			</div>
+			
+			<footer class="footer">
+				<p><a href="http://www.univ-paris3.fr/">Lien vers le site de Sorbonne Nouvelle.</a></p>
+			</footer>
+		</body>
+	</div>
+</html>
