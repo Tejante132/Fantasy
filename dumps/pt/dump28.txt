@@ -1,0 +1,543 @@
+   [ ]
+
+   [ ]
+   ____________________
+
+   (BUTTON) Icone loupe
+   ____________________
+
+   (BUTTON) ProcurarIcone loupe
+   [ ]
+     * Entrar
+     * Cadastrar
+
+     * MasterChef Brasil MasterChef Brasil
+     * Cozinha com azeite Cozinha com azeite
+     * Natal com Air Fryer Natal com Air Fryer
+     * Achadinhos do TudoGostoso Achadinhos do TudoGostoso
+     * Vai Dar Pão Vai Dar Pão
+     * Pronto para servir Pronto para servir
+     * Natal com bacalhau Natal com bacalhau
+     * Farofa na mesa Farofa na mesa
+     * Receitas de Natal Receitas de Natal
+     * Receitas Coreanas Receitas Coreanas
+     * As melhores Receitas de Sanduíche As melhores Receitas de Sanduíche
+     * Churrasco Churrasco
+     * Brasil em Festa Brasil em Festa
+     * Receitas na Air fryer Receitas na Air fryer
+         ______________________________________________________________
+
+     * Ceia de Natal Ceia de Natal
+     * Canais Especiais Canais Especiais [ ]
+       Canais Especiais
+       Especiais
+          + Receitas de Natal Receitas de Natal
+          + Receitas Coreanas Receitas Coreanas
+          + As melhores Receitas de Sanduíche As melhores Receitas de
+            Sanduíche
+          + Churrasco Churrasco
+          + Brasil em Festa Brasil em Festa
+          + Receitas na Air fryer Receitas na Air fryer
+          + Especial Comida di Buteco Especial Comida di Buteco
+          + Receitas de verão Receitas de verão
+          + Receitas para a hora do almoço Receitas para a hora do almoço
+          + Receitas de Café da Manhã Receitas de Café da Manhã
+          + As favoritas do time As favoritas do time
+       Comemorativos
+          + Receitas de dia dos pais Receitas de dia dos pais
+          + Receitas de Dia das Crianças Receitas de Dia das Crianças
+          + Receitas para o Halloween Receitas para o Halloween
+          + Receitas de Dia dos Namorados Receitas de Dia dos Namorados
+          + Receitas de Dia das Mães Receitas de Dia das Mães
+          + Receitas de Páscoa Receitas de Páscoa
+     * Notícias Notícias
+     * Bolos e tortas Bolos e tortas [ ]
+       Bolos e tortas
+       Mais buscadas
+          + Bolo de cenoura
+          + Pavê de chocolate
+          + Bolo de chocolate simples
+          + Bolo de milho de lata no liquidificador
+          + Brownie simples e rápido
+          + Bolo simples
+       Receitas mais novas
+          + Bolo de Natal com ganache de chocolate
+          + Mini Brownie de Natal com Gotas de Chocolate
+          + Guirlanda de brownie
+     * Carnes Carnes [ ]
+       Carnes
+       Mais buscadas
+          + Lombo de porco assado
+          + Tender Simples (salgado)
+          + Estrogonofe de carne simples
+          + Pernil assado bem temperado
+          + Almôndegas
+          + Rocambole de carne moída maravilhoso
+       Receitas mais novas
+          + Carne de porco na airfryer
+          + Carne assada na airfryer
+          + Pernil com abacaxi
+     * Aves Aves [ ]
+       Aves
+       Mais buscadas
+          + Fricassê de frango
+          + Strogonoff de frango
+          + Salpicão de natal especial
+          + Chester assado
+          + Salada tropical
+          + Peru assado simples
+       Receitas mais novas
+          + Frango assado na airfryer
+          + Peru com molho de laranja
+          + Galinha Caipira Cozida
+     * Peixes e Frutos do Mar Peixes e Frutos do Mar [ ]
+       Peixes e Frutos do Mar
+       Mais buscadas
+          + Salada fácil de bacalhau
+          + Bobó de camarão
+          + Bolinho de bacalhau
+          + Bolinho de bacalhau tradicional
+          + Camarão internacional (receita original do Restaurante Coco
+            Bambu)
+          + Camarão na moranga
+       Receitas mais novas
+          + Bacalhau à Bras
+          + Bolinho de Bacalhau
+          + Moqueca de Bacalhau
+     * Saladas e molhos Saladas e molhos [ ]
+       Saladas e molhos
+       Mais buscadas
+          + Salpicão de frango simples
+          + Salpicão de frango
+          + Arroz à grega
+          + Molho branco simples
+          + Arroz Natalino
+          + Salada tropical
+       Receitas mais novas
+          + Batata chips na airfryer
+          + Salpicão de pernil
+          + Salada de Bacalhau com queijo e figos
+     * Sopas Sopas [ ]
+       Sopas
+       Mais buscadas
+          + Canja de galinha rápida
+          + Caldo verde
+          + Mocotó
+          + Salpicão de bacalhau
+          + Sopa de legumes com macarrão
+          + Sopa de ervilha
+       Receitas mais novas
+          + Sopa de Doenjang
+          + Jjamppong
+          + Gamjatang
+     * Massas Massas [ ]
+       Massas
+       Mais buscadas
+          + Massa de panqueca
+          + Massa de panqueca simples
+          + Lasanha de carne moída
+          + Panqueca americana
+          + Pão de queijo fácil e delicioso
+          + Pão caseiro
+       Receitas mais novas
+          + Pão de Nutella
+          + Pãezinhos de Beterraba
+          + Pão de Batata Doce sem Sovar
+     * Bebidas Bebidas [ ]
+       Bebidas
+       Mais buscadas
+          + Chocolate quente cremoso
+          + Cappuccino caseiro
+          + Pina colada
+          + Iogurte natural caseiro fácil
+          + Amarula caseira (melhor que a original)
+          + Moscow Mule Original
+       Receitas mais novas
+          + Bomba de Capuccino
+          + Drink Paloma
+          + Gin tônica
+     * Doces e Sobremesas Doces e Sobremesas [ ]
+       Doces e Sobremesas
+       Mais buscadas
+          + Pudim de leite condensado
+          + Pavê de chocolate
+          + Rabanada tradicional
+          + Mousse de maracujá
+          + Bombom de uva na travessa
+          + Mousse de limão
+       Receitas mais novas
+          + Rabanada de panetone na airfryer
+          + Rabanada de panetone prática
+          + Rabanada Dourada e Crocante
+     * Lanches Lanches [ ]
+       Lanches
+       Mais buscadas
+          + Torta de frango
+          + Biscoitos Decorados para o Natal
+          + Massa de torta de liquidificador
+          + Bolinho de chuva
+          + Empadão de frango delicioso
+          + Torta de liquidificador salgada
+       Receitas mais novas
+          + Folhado de árvore de Natal
+          + Biscoito recheado de brigadeiro
+          + Brookie
+     * Alimentação Saudável Alimentação Saudável [ ]
+       Alimentação Saudável
+       Mais buscadas
+          + Bolo de Banana com Aveia Fitness
+          + Tabule
+          + Crepioca fit
+          + Panqueca saudável de aveia e banana
+          + Panqueca de banana fit
+          + Peito de frango na Air fryer
+       Receitas mais novas
+          + Chips de abobrinha na airfryer
+          + Ovo de Páscoa vegano
+          + Tostada de Pasta de Ricotta com Tomatinho Confitado
+     * Todas as receitas Todas as receitas
+
+   (BUTTON) arrow icon
+   MasterChef Brasil
+   MasterChef Brasil
+   MasterChef Brasil
+   Cozinha com azeite
+   Cozinha com azeite
+   Cozinha com azeite
+   Natal com Air Fryer
+   Natal com Air Fryer
+   Natal com Air Fryer
+   Conheça todos os nossos canais (BUTTON) arrow icon
+   Achadinhos do TudoGostoso
+   Achadinhos do TudoGostoso
+   Achadinhos do TudoGostoso
+   Vai Dar Pão
+   Vai Dar Pão
+   Vai Dar Pão
+   Pronto para servir
+   Pronto para servir
+   Pronto para servir
+   Natal com bacalhau
+   Natal com bacalhau
+   Natal com bacalhau
+   Farofa na mesa
+   Farofa na mesa
+   Farofa na mesa
+   Receitas de Natal
+   Receitas de Natal
+   Receitas de Natal
+   Receitas Coreanas
+   Receitas Coreanas
+   Receitas Coreanas
+   As melhores Receitas de Sanduíche
+   As melhores Receitas de Sanduíche
+   As melhores Receitas de Sanduíche
+   Churrasco
+   Churrasco
+   Churrasco
+   Brasil em Festa
+   Brasil em Festa
+   Brasil em Festa
+   Receitas na Air fryer
+   Receitas na Air fryer
+   Receitas na Air fryer
+   (BUTTON) arrow icon
+
+   MasterChef Brasil
+   MasterChef Brasil
+   MasterChef Brasil
+   Cozinha com azeite
+   Cozinha com azeite
+   Cozinha com azeite
+   Natal com Air Fryer
+   Natal com Air Fryer
+   Natal com Air Fryer
+   Achadinhos do TudoGostoso
+   Achadinhos do TudoGostoso
+   Achadinhos do TudoGostoso
+   Vai Dar Pão
+   Vai Dar Pão
+   Vai Dar Pão
+   Pronto para servir
+   Pronto para servir
+   Pronto para servir
+   Natal com bacalhau
+   Natal com bacalhau
+   Natal com bacalhau
+   Farofa na mesa
+   Farofa na mesa
+   Farofa na mesa
+   Receitas de Natal
+   Receitas de Natal
+   Receitas de Natal
+   Receitas Coreanas
+   Receitas Coreanas
+   Receitas Coreanas
+   As melhores Receitas de Sanduíche
+   As melhores Receitas de Sanduíche
+   As melhores Receitas de Sanduíche
+   Churrasco
+   Churrasco
+   Churrasco
+   Brasil em Festa
+   Brasil em Festa
+   Brasil em Festa
+   Receitas na Air fryer
+   Receitas na Air fryer
+   Receitas na Air fryer
+
+     * TudoGostoso
+     * Noticias
+     * Estilo de vida
+     * Por que usamos fantasia no Halloween e quais são as roupas mais
+       tradicionais da festa?
+
+   Por que usamos fantasia no Halloween e quais são as roupas mais
+   tradicionais da festa?
+   Publicado em 30/09/2022 às 09:22
+   (BUTTON) Compartilhar
+   Paula Araripe Por  Paula Araripe  | Redatora
+
+   Paula é jornalista, escritora e fã de carteirinha das competições de
+   gastronomia da TV. Não consegue viver sem pão de queijo, é adepta das
+   receitas simples e bem-feitas, e adora presentear as pessoas com
+   biscoitos caseiros.
+   A melhor maneira de curtir uma festa de Halloween é com uma fantasia
+   criativa e assustadora, mas você sabe de onde veio essa tradição?
+
+   O Halloween, ou Dia das Bruxas, é celebrado no dia 31 de outubro com
+   doces, travessuras, decorações macabras e, claro, fantasias criativas.
+   Mas você sabe como surgiu o costume de se vestir para curtir a data?
+   Veja o motivo de usarmos fantasias de Halloween e descubra quais são as
+   mais populares da festa para você se inspirar!
+
+   Halloween: mulher vestida de bruxa ajuda a pintar o rosto de uma menina
+   com tema de esqueleto Não dá para aproveitar uma festa de Halloween sem
+   uma fantasia de acordo
+
+Por que se usa fantasia no Halloween?
+
+   A tradição de usar fantasia de Halloween tem tudo a ver com a história
+   da celebração. Roupas temáticas eram usadas desde as primeiras
+   solenidades do Samhaim, a festa celta de dois mil anos atrás que
+   celebrava a colheita e a aproximação do mundo dos mortos com o mundo
+   dos vivos. Naquele período, eram roupas alegres e festivas e não
+   fantasias tenebrosas.
+
+   Durante a Idade Média, o festival ganhou outro nome, All Hallows’ Eve,
+   a Véspera do Dia de Todos os Santos, e as pessoas passaram a temer os
+   espíritos e o mundo dos mortos. Por causa disso, as roupas eram usadas
+   como tática para andar na rua sem serem reconhecidas pelas assombrações
+   e para mantê-las afastadas.
+
+   Na mesma época, parte da população também ia de casa em casa pedindo
+   doces ou comida em troca de orações para espantar os espíritos. Com os
+   anos, o Halloween deixou de ser uma data macabra que as pessoas temiam
+   e esse antigo costume moldou a tradição atual e divertida de “trick or
+   treat”, ou “doces ou travessuras”.
+
+Quais as fantasias mais comuns no Halloween?
+
+   As fantasias de Halloween mais comuns são uma mistura de figuras
+   míticas e macabras com personagens da cultura pop em alta. Como não
+   poderia ser diferente no Dia das Bruxas, as fantasias de bruxas são
+   bastante populares, desde versões assustadoras até as mais modernas e
+   divertidas.
+
+   Vampiro, zumbi e pirata são fantasias populares em todos os anos, assim
+   como versões macabras de palhaços, principalmente inspirado por filmes
+   como IT - A Coisa. Nos últimos anos, as fantasias de dinossauro estão
+   bem populares, desde as mais simples até à versão inflável do
+   Tiranossauro Rex. É difícil ir em uma festa de Halloween sem encontrar
+   pessoas fantasiadas de super-heróis. Dentre eles, o homem-aranha é o
+   mais popular.
+
+   Família com fantasias de halloween fazendo expressões assustadoras com
+   abóboras com rosto na mesa Bruxas, esqueletos e outras figuras
+   aterrorizantes são tradicionais do Halloween
+
+Qual o significado das roupas usadas no Halloween?
+
+   As fantasias mais tradicionais têm significados históricos. Bruxas, por
+   exemplo, nem sempre eram associadas a aspectos negativos. Nas lendas,
+   as bruxas eram mulheres celtas mais velhas que faziam misturas para
+   tratar os doentes. Com o tempo, essas “feitiçarias” delas passaram a
+   ser temidas e foi criada a imagem caricata e assustadora das bruxas que
+   temos hoje.
+
+   As lanternas de abóboras com rostos são inspirados na lenda do
+   “jack-o’lantern” do homem que foi amaldiçoado a andar eternamente com
+   uma lanterna de abóbora. Essa história influenciou outra fantasia, a de
+   um homem vestido com roupas escuras com a abóbora no lugar da cabeça.
+
+   Por causa da ligação do Samhaim e do Halloween com espíritos e mundo
+   dos mortos, surgiram fantasias que usam esses símbolos clássicos, como
+   os fantasmas de lençol e as roupas pretas com desenho de ossos
+   lembrando um esqueleto.
+
+Quais as fantasias de Halloween mais populares este ano?
+
+   Além das fantasias de Halloween clássicas, os personagens populares de
+   séries, filmes e quadrinhos são as opções prediletas de muita gente.
+   Por causa disso, todo ano surgem novas roupas populares nas festas. Os
+   super-heróis estão sempre em alta. Não é difícil também encontrar
+   vilões como Coringa e a Harley Quinn (arlequina), tanto das versões dos
+   quadrinhos quanto de filmes mais recentes. Vilãs dos filmes da Disney
+   que ganharam novas histórias como Malévola e Cruella de Vil também
+   entram na onda.
+
+   Desde o ano passado, a febre da série coreana Round 6 (Squid Game), fez
+   com que muitos se vestissem com o uniforme dos participantes ou dos
+   organizadores do jogo, sendo uma das fantasias de Halloween mais
+   buscadas também para 2022. A série Stranger Things é outra que desde a
+   1ª temporada em 2016 inspira fantasias. O sucesso do filme Top Gun:
+   Maverick em 2022 promete trazer vários fantasiados de Tom Cruise e do
+   restante do elenco.
+
+   Caso resolva ir a uma festa de Halloween de última hora, fantasias de
+   múmia e bruxa são fáceis de fazer em casa
+
+Como fazer uma fantasia de Halloween rápida?
+
+   Tem gente que prepara a fantasia de Halloween com meses de
+   antecedência, mas tem sempre os indecisos que resolvem preparar a roupa
+   temática de última hora. A solução para essas pessoas é apostar em
+   fantasias caseiras e improvisadas com itens simples. Tem um lençol
+   branco velho em casa? Faça dois cortes redondos no meio e terá uma
+   roupa de fantasma.
+
+   Enrole papel higiênico ou rolos de ataduras em volta do corpo por cima
+   da roupa e terá uma fantasia de múmia. Dá até para incrementar e fazer
+   manchas com café para parecer velho ou ketchup para imitar sangue.
+   Muitas fantasias começam com uma roupa preta. Uma blusa de manga
+   comprida e uma calça preta são perfeitas para desenhar ossos e fazer
+   uma fantasia de esqueleto.
+
+   Qualquer vestido ou saia preta ou roxa rende uma boa roupa de bruxa, é
+   só completar com chapéu pontudo feito com papel cartão ou emborrachado
+   EVA. As fantasias de personagens também podem ser improvisadas em
+   poucos minutos. A Wandinha, da série Família Adams, tem uma roupa
+   simples com vestido, meia-calça e batom preto e o característico cabelo
+   preso em duas tranças simples. Escolha o seu personagem, vista-se a
+   caráter e fique pronto para pedir doces ou travessuras!
+
+   Veja mais:
+
+   Comida de halloween: receitas deliciosas para servir no dia das bruxas
+
+   Essas receitas de docinho vão impressionar os convidados da sua festa
+   Temas relacionados
+     * Estilo de vida
+     * Comida e viagem
+
+   Artigos mais populares
+       Lata de salmão vencida há 50 anos é aberta e o que descobriram
+       deixou cientistas impressionados: É um sinal de que o peixe vem de
+       um ecossistema saudável
+       Em 27/11/2025 às 14h34
+       Lata de salmão vencida há 50 anos é aberta e o que descobriram
+       deixou cientistas impressionados: É um sinal de que o peixe vem de
+       um ecossistema saudável
+       Autoridade Sanitária do Brasil destruiu mais de uma tonelada de
+       cerejas chilenas após detectar a presença de praga quarentenária
+       Em 25/11/2025 às 15h05
+       Autoridade Sanitária do Brasil destruiu mais de uma tonelada de
+       cerejas chilenas após detectar a presença de praga quarentenária
+       A queridinha dos quintais brasileiros: árvore que dá sombra, fruta
+       o ano todo e até folhas para chá
+       Em 01/12/2025 às 16h14
+       A queridinha dos quintais brasileiros: árvore que dá sombra, fruta
+       o ano todo e até folhas para chá
+       Uma família queria viver exclusivamente de energia solar, água de
+       poço e uma horta. Até que a Itália levou seus filhos embora.
+       Em 28/11/2025 às 12h37
+       Uma família queria viver exclusivamente de energia solar, água de
+       poço e uma horta. Até que a Itália levou seus filhos embora.
+
+   Matérias relacionadas
+   Festas à fantasia marcam Halloween no Brasil: descubra eventos
+   assustadoramente divertidos de norte a sul
+   Em 05/10/2022 às 11h13
+   Festas à fantasia marcam Halloween no Brasil: descubra eventos
+   assustadoramente divertidos de norte a sul
+   Topo de bolo de Halloween: ideias assustadoramente divertidas para
+   decorar sua festa de Dia das Bruxas!
+   Em 16/10/2024 às 16h05
+   Topo de bolo de Halloween: ideias assustadoramente divertidas para
+   decorar sua festa de Dia das Bruxas!
+   Esse bolo em forma de abóbora vai salvar a sua festa de Halloween - é
+   de chocolate com recheio de ganache branco, delicioso!
+   Em 22/10/2024 às 15h01
+   Esse bolo em forma de abóbora vai salvar a sua festa de Halloween - é
+   de chocolate com recheio de ganache branco, delicioso!
+
+   Sobremesa que enlouquece as crianças no Halloween: divertida, doce e
+   assustadoramente gostosa
+   Em 15/10/2025 às 09h07
+   Sobremesa que enlouquece as crianças no Halloween: divertida, doce e
+   assustadoramente gostosa
+
+   Fantasmas de banana é a ideia mais genial de tão fácil para sua festa
+   de Halloween: até as crianças podem fazer
+   Em 16/10/2024 às 10h28
+   Fantasmas de banana é a ideia mais genial de tão fácil para sua festa
+   de Halloween: até as crianças podem fazer
+
+   O que comer na Páscoa? Confira os pratos mais tradicionais do feriado
+   no Brasil e o que evitar no cardápio
+   Em 30/06/2023 às 18h01
+   O que comer na Páscoa? Confira os pratos mais tradicionais do feriado
+   no Brasil e o que evitar no cardápio
+
+   Torta de abóbora é a sobremesa ideal para saborear no Halloween e em
+   todos os outros dias do ano
+   Em 30/10/2024 às 12h05
+   Torta de abóbora é a sobremesa ideal para saborear no Halloween e em
+   todos os outros dias do ano
+
+   Decoração de Halloween vintage (valendo bolas de discoteca!): aqui
+   estão as tendências mais quentes de decoração de Halloween para 2024
+   Em 11/10/2024 às 17h06
+   Decoração de Halloween vintage (valendo bolas de discoteca!): aqui
+   estão as tendências mais quentes de decoração de Halloween para 2024
+
+   Pizza e brownie de fantasma, mesa de pipoca e cookies de abóbora com
+   marshmallow e chocolate: como fazer essas gostosuras de Halloween que
+   são tendência para 2024
+   Em 10/10/2024 às 11h29
+   Pizza e brownie de fantasma, mesa de pipoca e cookies de abóbora com
+   marshmallow e chocolate: como fazer essas gostosuras de Halloween que
+   são tendência para 2024
+
+   Halloween: como surgiu o dia das bruxas e por que é tradição dar doces
+   e usar fantasias
+   Em 26/09/2022 às 16h15
+   Halloween: como surgiu o dia das bruxas e por que é tradição dar doces
+   e usar fantasias
+
+   Receitas relacionadas
+
+   Sobremesa tipo Danoninho
+   Sobremesa tipo Danoninho
+   (1 avaliação)
+   Sobremesa tipo Chandelle
+   Sobremesa tipo Chandelle
+   Sobremesa tipo Chandelle
+   Sobremesa tipo Chandelle
+   Sobremesa tipo Danete
+   Sobremesa tipo Danete
+   Sobremesa tipo Danete
+   Sobremesa tipo Danete
+   Sobremesa tipo Danone
+   Sobremesa tipo Danone
+   Sobremesa tipo danoninho
+   Sobremesa tipo danoninho
+   Sobremesa tipo danoninho
+   Sobremesa tipo danoninho
+
+   Um site do Grupo Webedia
+     * Quem somos
+     * Política de privacidade
+     * Termos de uso
+     * Anuncie
+     * Contato

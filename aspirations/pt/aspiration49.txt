@@ -1,0 +1,1063 @@
+<!DOCTYPE html>
+<!--[if IE 9]>
+<html class="ie9 lt-ie10" lang="pt-BR"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="pt-BR"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, user-scalable=no">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://revistalacuna.com/xmlrpc.php">
+
+	<title>A fantasia não é um fantasma &#8211; Lacuna</title>
+<meta name='robots' content='max-image-preview:large' />
+<meta name="google-site-verification" content="JVWTJsQ_UrDSFeS1sY12PU-thfGtzN4Eo970OpYX_3w" />
+<meta name="msvalidate.01" content="https://lacunarevista.files.wordpress.com/2015/09/post_lancamento.png" />
+
+<!-- Async WordPress.com Remote Login -->
+<script id="wpcom_remote_login_js">
+var wpcom_remote_login_extra_auth = '';
+function wpcom_remote_login_remove_dom_node_id( element_id ) {
+	var dom_node = document.getElementById( element_id );
+	if ( dom_node ) { dom_node.parentNode.removeChild( dom_node ); }
+}
+function wpcom_remote_login_remove_dom_node_classes( class_name ) {
+	var dom_nodes = document.querySelectorAll( '.' + class_name );
+	for ( var i = 0; i < dom_nodes.length; i++ ) {
+		dom_nodes[ i ].parentNode.removeChild( dom_nodes[ i ] );
+	}
+}
+function wpcom_remote_login_final_cleanup() {
+	wpcom_remote_login_remove_dom_node_classes( "wpcom_remote_login_msg" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_validate" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_js" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_iframe" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_styles" );
+}
+
+// Watch for messages back from the remote login
+window.addEventListener( "message", function( e ) {
+	if ( e.origin === "https://r-login.wordpress.com" ) {
+		var data = {};
+		try {
+			data = JSON.parse( e.data );
+		} catch( e ) {
+			wpcom_remote_login_final_cleanup();
+			return;
+		}
+
+		if ( data.msg === 'LOGIN' ) {
+			// Clean up the login check iframe
+			wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+
+			var id_regex = new RegExp( /^[0-9]+$/ );
+			var token_regex = new RegExp( /^.*|.*|.*$/ );
+			if (
+				token_regex.test( data.token )
+				&& id_regex.test( data.wpcomid )
+			) {
+				// We have everything we need to ask for a login
+				var script = document.createElement( "script" );
+				script.setAttribute( "id", "wpcom_remote_login_validate" );
+				script.src = '/remote-login.php?wpcom_remote_login=validate'
+					+ '&wpcomid=' + data.wpcomid
+					+ '&token=' + encodeURIComponent( data.token )
+					+ '&host=' + window.location.protocol
+					+ '//' + window.location.hostname
+					+ '&postid=5937'
+					+ '&is_singular=1';
+				document.body.appendChild( script );
+			}
+
+			return;
+		}
+
+		// Safari ITP, not logged in, so redirect
+		if ( data.msg === 'LOGIN-REDIRECT' ) {
+			window.location = 'https://wordpress.com/log-in?redirect_to=' + window.location.href;
+			return;
+		}
+
+		// Safari ITP, storage access failed, remove the request
+		if ( data.msg === 'LOGIN-REMOVE' ) {
+			var css_zap = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } @media screen and ( max-width: 782px ) { html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } }';
+			var style_zap = document.createElement( 'style' );
+			style_zap.type = 'text/css';
+			style_zap.appendChild( document.createTextNode( css_zap ) );
+			document.body.appendChild( style_zap );
+
+			var e = document.getElementById( 'wpcom_request_access_iframe' );
+			e.parentNode.removeChild( e );
+
+			document.cookie = 'wordpress_com_login_access=denied; path=/; max-age=31536000';
+
+			return;
+		}
+
+		// Safari ITP
+		if ( data.msg === 'REQUEST_ACCESS' ) {
+			console.log( 'request access: safari' );
+
+			// Check ITP iframe enable/disable knob
+			if ( wpcom_remote_login_extra_auth !== 'safari_itp_iframe' ) {
+				return;
+			}
+
+			// If we are in a "private window" there is no ITP.
+			var private_window = false;
+			try {
+				var opendb = window.openDatabase( null, null, null, null );
+			} catch( e ) {
+				private_window = true;
+			}
+
+			if ( private_window ) {
+				console.log( 'private window' );
+				return;
+			}
+
+			var iframe = document.createElement( 'iframe' );
+			iframe.id = 'wpcom_request_access_iframe';
+			iframe.setAttribute( 'scrolling', 'no' );
+			iframe.setAttribute( 'sandbox', 'allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-top-navigation-by-user-activation' );
+			iframe.src = 'https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=request_access&origin=' + encodeURIComponent( data.origin ) + '&wpcomid=' + encodeURIComponent( data.wpcomid );
+
+			var css = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 46px !important; } * html body { margin-top: 46px !important; } @media screen and ( max-width: 660px ) { html { margin-top: 71px !important; } * html body { margin-top: 71px !important; } #wpcom_request_access_iframe { display: block; height: 71px !important; } } #wpcom_request_access_iframe { border: 0px; height: 46px; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 99999; background: #23282d; } ';
+
+			var style = document.createElement( 'style' );
+			style.type = 'text/css';
+			style.id = 'wpcom_request_access_styles';
+			style.appendChild( document.createTextNode( css ) );
+			document.body.appendChild( style );
+
+			document.body.appendChild( iframe );
+		}
+
+		if ( data.msg === 'DONE' ) {
+			wpcom_remote_login_final_cleanup();
+		}
+	}
+}, false );
+
+// Inject the remote login iframe after the page has had a chance to load
+// more critical resources
+window.addEventListener( "DOMContentLoaded", function( e ) {
+	var iframe = document.createElement( "iframe" );
+	iframe.style.display = "none";
+	iframe.setAttribute( "scrolling", "no" );
+	iframe.setAttribute( "id", "wpcom_remote_login_key" );
+	iframe.src = "https://r-login.wordpress.com/remote-login.php"
+		+ "?wpcom_remote_login=key"
+		+ "&origin=aHR0cHM6Ly9yZXZpc3RhbGFjdW5hLmNvbQ%3D%3D"
+		+ "&wpcomid=94402315"
+		+ "&time=" + Math.floor( Date.now() / 1000 );
+	document.body.appendChild( iframe );
+}, false );
+</script>
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//wordpress.com' />
+<link rel='dns-prefetch' href='//fonts-api.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Lacuna &raquo;" href="https://revistalacuna.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Lacuna &raquo;" href="https://revistalacuna.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-1' href='/_static/??-eJxtzEkKgDAQRNELGZs4EDfiWUJsxMzYHby+RARB3BQ8KD6cWZgUGSNDKCL7su2RwCJnbdxjCCnVWYtHggO9ZlxFTsQftYaogf+k3x2+4Vv1voRZqrHvpkHJwV5glDTa&cssminify=yes' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-2-1' href='/wp-content/plugins/gutenberg-core/v22.2.0/build/styles/block-library/style.css?m=1764855221i&cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+.has-text-align-justify{text-align:justify;}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style><style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--albert-sans: 'Albert Sans', sans-serif;--wp--preset--font-family--alegreya: Alegreya, serif;--wp--preset--font-family--arvo: Arvo, serif;--wp--preset--font-family--bodoni-moda: 'Bodoni Moda', serif;--wp--preset--font-family--bricolage-grotesque: 'Bricolage Grotesque', sans-serif;--wp--preset--font-family--cabin: Cabin, sans-serif;--wp--preset--font-family--chivo: Chivo, sans-serif;--wp--preset--font-family--commissioner: Commissioner, sans-serif;--wp--preset--font-family--cormorant: Cormorant, serif;--wp--preset--font-family--courier-prime: 'Courier Prime', monospace;--wp--preset--font-family--crimson-pro: 'Crimson Pro', serif;--wp--preset--font-family--dm-mono: 'DM Mono', monospace;--wp--preset--font-family--dm-sans: 'DM Sans', sans-serif;--wp--preset--font-family--dm-serif-display: 'DM Serif Display', serif;--wp--preset--font-family--domine: Domine, serif;--wp--preset--font-family--eb-garamond: 'EB Garamond', serif;--wp--preset--font-family--epilogue: Epilogue, sans-serif;--wp--preset--font-family--fahkwang: Fahkwang, sans-serif;--wp--preset--font-family--figtree: Figtree, sans-serif;--wp--preset--font-family--fira-sans: 'Fira Sans', sans-serif;--wp--preset--font-family--fjalla-one: 'Fjalla One', sans-serif;--wp--preset--font-family--fraunces: Fraunces, serif;--wp--preset--font-family--gabarito: Gabarito, system-ui;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono', monospace;--wp--preset--font-family--ibm-plex-sans: 'IBM Plex Sans', sans-serif;--wp--preset--font-family--ibarra-real-nova: 'Ibarra Real Nova', serif;--wp--preset--font-family--instrument-serif: 'Instrument Serif', serif;--wp--preset--font-family--inter: Inter, sans-serif;--wp--preset--font-family--josefin-sans: 'Josefin Sans', sans-serif;--wp--preset--font-family--jost: Jost, sans-serif;--wp--preset--font-family--libre-baskerville: 'Libre Baskerville', serif;--wp--preset--font-family--libre-franklin: 'Libre Franklin', sans-serif;--wp--preset--font-family--literata: Literata, serif;--wp--preset--font-family--lora: Lora, serif;--wp--preset--font-family--merriweather: Merriweather, serif;--wp--preset--font-family--montserrat: Montserrat, sans-serif;--wp--preset--font-family--newsreader: Newsreader, serif;--wp--preset--font-family--noto-sans-mono: 'Noto Sans Mono', sans-serif;--wp--preset--font-family--nunito: Nunito, sans-serif;--wp--preset--font-family--open-sans: 'Open Sans', sans-serif;--wp--preset--font-family--overpass: Overpass, sans-serif;--wp--preset--font-family--pt-serif: 'PT Serif', serif;--wp--preset--font-family--petrona: Petrona, serif;--wp--preset--font-family--piazzolla: Piazzolla, serif;--wp--preset--font-family--playfair-display: 'Playfair Display', serif;--wp--preset--font-family--plus-jakarta-sans: 'Plus Jakarta Sans', sans-serif;--wp--preset--font-family--poppins: Poppins, sans-serif;--wp--preset--font-family--raleway: Raleway, sans-serif;--wp--preset--font-family--roboto: Roboto, sans-serif;--wp--preset--font-family--roboto-slab: 'Roboto Slab', serif;--wp--preset--font-family--rubik: Rubik, sans-serif;--wp--preset--font-family--rufina: Rufina, serif;--wp--preset--font-family--sora: Sora, sans-serif;--wp--preset--font-family--source-sans-3: 'Source Sans 3', sans-serif;--wp--preset--font-family--source-serif-4: 'Source Serif 4', serif;--wp--preset--font-family--space-mono: 'Space Mono', monospace;--wp--preset--font-family--syne: Syne, sans-serif;--wp--preset--font-family--texturina: Texturina, serif;--wp--preset--font-family--urbanist: Urbanist, sans-serif;--wp--preset--font-family--work-sans: 'Work Sans', sans-serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-albert-sans-font-family{font-family: var(--wp--preset--font-family--albert-sans) !important;}.has-alegreya-font-family{font-family: var(--wp--preset--font-family--alegreya) !important;}.has-arvo-font-family{font-family: var(--wp--preset--font-family--arvo) !important;}.has-bodoni-moda-font-family{font-family: var(--wp--preset--font-family--bodoni-moda) !important;}.has-bricolage-grotesque-font-family{font-family: var(--wp--preset--font-family--bricolage-grotesque) !important;}.has-cabin-font-family{font-family: var(--wp--preset--font-family--cabin) !important;}.has-chivo-font-family{font-family: var(--wp--preset--font-family--chivo) !important;}.has-commissioner-font-family{font-family: var(--wp--preset--font-family--commissioner) !important;}.has-cormorant-font-family{font-family: var(--wp--preset--font-family--cormorant) !important;}.has-courier-prime-font-family{font-family: var(--wp--preset--font-family--courier-prime) !important;}.has-crimson-pro-font-family{font-family: var(--wp--preset--font-family--crimson-pro) !important;}.has-dm-mono-font-family{font-family: var(--wp--preset--font-family--dm-mono) !important;}.has-dm-sans-font-family{font-family: var(--wp--preset--font-family--dm-sans) !important;}.has-dm-serif-display-font-family{font-family: var(--wp--preset--font-family--dm-serif-display) !important;}.has-domine-font-family{font-family: var(--wp--preset--font-family--domine) !important;}.has-eb-garamond-font-family{font-family: var(--wp--preset--font-family--eb-garamond) !important;}.has-epilogue-font-family{font-family: var(--wp--preset--font-family--epilogue) !important;}.has-fahkwang-font-family{font-family: var(--wp--preset--font-family--fahkwang) !important;}.has-figtree-font-family{font-family: var(--wp--preset--font-family--figtree) !important;}.has-fira-sans-font-family{font-family: var(--wp--preset--font-family--fira-sans) !important;}.has-fjalla-one-font-family{font-family: var(--wp--preset--font-family--fjalla-one) !important;}.has-fraunces-font-family{font-family: var(--wp--preset--font-family--fraunces) !important;}.has-gabarito-font-family{font-family: var(--wp--preset--font-family--gabarito) !important;}.has-ibm-plex-mono-font-family{font-family: var(--wp--preset--font-family--ibm-plex-mono) !important;}.has-ibm-plex-sans-font-family{font-family: var(--wp--preset--font-family--ibm-plex-sans) !important;}.has-ibarra-real-nova-font-family{font-family: var(--wp--preset--font-family--ibarra-real-nova) !important;}.has-instrument-serif-font-family{font-family: var(--wp--preset--font-family--instrument-serif) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}.has-josefin-sans-font-family{font-family: var(--wp--preset--font-family--josefin-sans) !important;}.has-jost-font-family{font-family: var(--wp--preset--font-family--jost) !important;}.has-libre-baskerville-font-family{font-family: var(--wp--preset--font-family--libre-baskerville) !important;}.has-libre-franklin-font-family{font-family: var(--wp--preset--font-family--libre-franklin) !important;}.has-literata-font-family{font-family: var(--wp--preset--font-family--literata) !important;}.has-lora-font-family{font-family: var(--wp--preset--font-family--lora) !important;}.has-merriweather-font-family{font-family: var(--wp--preset--font-family--merriweather) !important;}.has-montserrat-font-family{font-family: var(--wp--preset--font-family--montserrat) !important;}.has-newsreader-font-family{font-family: var(--wp--preset--font-family--newsreader) !important;}.has-noto-sans-mono-font-family{font-family: var(--wp--preset--font-family--noto-sans-mono) !important;}.has-nunito-font-family{font-family: var(--wp--preset--font-family--nunito) !important;}.has-open-sans-font-family{font-family: var(--wp--preset--font-family--open-sans) !important;}.has-overpass-font-family{font-family: var(--wp--preset--font-family--overpass) !important;}.has-pt-serif-font-family{font-family: var(--wp--preset--font-family--pt-serif) !important;}.has-petrona-font-family{font-family: var(--wp--preset--font-family--petrona) !important;}.has-piazzolla-font-family{font-family: var(--wp--preset--font-family--piazzolla) !important;}.has-playfair-display-font-family{font-family: var(--wp--preset--font-family--playfair-display) !important;}.has-plus-jakarta-sans-font-family{font-family: var(--wp--preset--font-family--plus-jakarta-sans) !important;}.has-poppins-font-family{font-family: var(--wp--preset--font-family--poppins) !important;}.has-raleway-font-family{font-family: var(--wp--preset--font-family--raleway) !important;}.has-roboto-font-family{font-family: var(--wp--preset--font-family--roboto) !important;}.has-roboto-slab-font-family{font-family: var(--wp--preset--font-family--roboto-slab) !important;}.has-rubik-font-family{font-family: var(--wp--preset--font-family--rubik) !important;}.has-rufina-font-family{font-family: var(--wp--preset--font-family--rufina) !important;}.has-sora-font-family{font-family: var(--wp--preset--font-family--sora) !important;}.has-source-sans-3-font-family{font-family: var(--wp--preset--font-family--source-sans-3) !important;}.has-source-serif-4-font-family{font-family: var(--wp--preset--font-family--source-serif-4) !important;}.has-space-mono-font-family{font-family: var(--wp--preset--font-family--space-mono) !important;}.has-syne-font-family{font-family: var(--wp--preset--font-family--syne) !important;}.has-texturina-font-family{font-family: var(--wp--preset--font-family--texturina) !important;}.has-urbanist-font-family{font-family: var(--wp--preset--font-family--urbanist) !important;}.has-work-sans-font-family{font-family: var(--wp--preset--font-family--work-sans) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-4-1' href='/_static/??-eJyNjUEOwkAIRS8k0sZUV8azTCtadJiZFGrj7UVrXKgxbgj8vPfBqUCXk1EylBFKHI+cFLs8kOdSgqETQnsOFEkcW3aqC/yuTcUdaNsykCr4FB4FrHdRf3lu3ash8pn80rdkVhlTNnZbX8tH5/wKn5+x5wthUCWbWw+OQZhIs9Bfrto1PsidbOv1qmqqTV03pxueHnQl&cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='hive-fonts-css' href='https://fonts-api.wp.com/css?family=Droid+Serif%3A400%2C700%2C400italic%7CPlayfair+Display%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic&#038;subset=latin%2Clatin-ext' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-6-1' href='/_static/??-eJzTLy/QTc7PK0nNK9HPLdUtyClNz8wr1i9KTcrJTwcy0/WTi5G5ekCujj52Temp+bo5+cmJJZn5eSgc3bScxMwikFb7XFtDE1NLExMLc0OTLACohS2q&cssminify=yes' type='text/css' media='all' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+/*# sourceURL=jetpack-global-styles-frontend-style-inline-css */
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-8-1' href='/_static/??-eJyNjcEKwjAQRH/IuFRT6kX8FNkmS5K6yQY3Qfx7bfEiXrwM82B4A49qnJRGpUHupnIPqSgs1Cq624chi6zhO5OCRryTR++fW00l7J3qDv43XVNxoOISsmEJol/wY2uR8vs3WggsM/I6uOTzMI3Hw8lOg11eUT1JKA==&cssminify=yes' type='text/css' media='all' />
+<script type="text/javascript" id="jetpack_related-posts-js-extra">
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+//# sourceURL=jetpack_related-posts-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" id="wpcom-actionbar-placeholder-js-extra">
+/* <![CDATA[ */
+var actionbardata = {"siteID":"94402315","postID":"5937","siteURL":"https://revistalacuna.com","xhrURL":"https://revistalacuna.com/wp-admin/admin-ajax.php","nonce":"f70ec016d6","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https://s0.wp.com/wp-content/js/wpcom-proxy-request.js?m=1513050504i&amp;ver=20211021","shortlink":"https://wp.me/p6o6lZ-1xL","i18n":{"followedText":"Novas publica\u00e7\u00f5es deste site agora aparecer\u00e3o no seu \u003Ca href=\"https://wordpress.com/reader\"\u003ELeitor\u003C/a\u003E","foldBar":"Esconder esta barra","unfoldBar":"Mostrar esta barra","shortLinkCopied":"Link curto copiado."}};
+//# sourceURL=wpcom-actionbar-placeholder-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" id="jetpack-mu-wpcom-settings-js-before">
+/* <![CDATA[ */
+var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s1.wp.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/moon/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/"};
+//# sourceURL=jetpack-mu-wpcom-settings-js-before
+/* ]]> */
+</script>
+<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJx1jcEOwiAQRH/I7dYm6Mn4KabCpgFhQVhS+/digkk9eJpM5uUNrgl0ZCEWDBWSr4vlgo4kzfrRO4YYGW+WNd6r9QYz+VnIQIpFym8bguXBlQPuxK4xXiDl+Nq+W5P5aqh8RveslLcee8FfCIJdcjvt8DVcjmelxvE0Tcq9AV2gTlk='></script>
+<script type="text/javascript" id="rlt-proxy-js-after">
+/* <![CDATA[ */
+	rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
+//# sourceURL=rlt-proxy-js-after
+/* ]]> */
+</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lacunarevista.wordpress.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://revistalacuna.com/2024/08/12/n-16-01/" />
+<link rel='shortlink' href='https://wp.me/p6o6lZ-1xL' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Frevistalacuna.com%2F2024%2F08%2F12%2Fn-16-01%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Frevistalacuna.com%2F2024%2F08%2F12%2Fn-16-01%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="A fantasia não é um fantasma" />
+<meta property="og:url" content="https://revistalacuna.com/2024/08/12/n-16-01/" />
+<meta property="og:description" content="[La fantasía no es un fantasma] por Anthony Sampson" />
+<meta property="article:published_time" content="2024-08-12T22:59:13+00:00" />
+<meta property="article:modified_time" content="2024-08-14T00:33:32+00:00" />
+<meta property="og:site_name" content="Lacuna" />
+<meta property="og:image" content="https://i0.wp.com/revistalacuna.com/wp-content/uploads/2024/07/shakespeares_tragedy_of_hamlet_prince_of_denmark_1890_14586366959.jpg?fit=974%2C1200&#038;ssl=1" />
+<meta property="og:image:width" content="974" />
+<meta property="og:image:height" content="1200" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<meta name="twitter:text:title" content="A fantasia não é um&nbsp;fantasma" />
+<meta name="twitter:image" content="https://i0.wp.com/revistalacuna.com/wp-content/uploads/2024/07/shakespeares_tragedy_of_hamlet_prince_of_denmark_1890_14586366959.jpg?fit=974%2C1200&#038;ssl=1&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel='openid.server' href='https://revistalacuna.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://revistalacuna.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://revistalacuna.com/osd.xml" title="Lacuna" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="description" content="[La fantasía no es un fantasma] por Anthony Sampson Tradução | Paulo Sérgio de Souza Jr. Sampson, A. (1992) “La fantasía no es un fantasma”, Artefacto, n. 3, México. Longe de fazer com que as línguas se comuniquem, a tradução enfatiza o que as torna estranhas umas às outras. * Michel Cresta[1] Numa atividade que&hellip;" />
+<style type="text/css" id="custom-colors-css">	.content-quote blockquote:after {
+		-webkit-border-image: none;
+		-webkit-border-image: none;
+				border-image: none;
+				border-image: none;
+	}
+.sticky:not(.format-quote) { color: #D1D1D1;}
+.sticky:not(.format-quote) a { color: #D2D3D4;}
+.widget_blog_subscription input[type="submit"] { color: #FFFFFF;}
+.sticky:not(.format-quote) h1, .sticky:not(.format-quote) h2, .sticky:not(.format-quote) h3, .sticky:not(.format-quote) blockquote, .sticky:not(.format-quote) .dropcap { color: #D5D1D5;}
+a, .comment-reply-link { color: #6D6D6D;}
+.sticky a { color: #D1D1D1;}
+.highlight:before, .archive__grid .accent-box, .sticky:not(.format-quote):after, .widget_blog_subscription input[type="submit"] { background-color: #96216b;}
+.widget_blog_subscription input[type="submit"] { border-color: #96216b;}
+.content-quote blockquote:before, .content-quote blockquote:before, .widget a:hover, .content-quote blockquote:after { color: #96216B;}
+</style>
+<link rel="icon" href="https://revistalacuna.com/wp-content/uploads/2018/06/cropped-logo_menos_cinco_gde.jpg?w=32" sizes="32x32" />
+<link rel="icon" href="https://revistalacuna.com/wp-content/uploads/2018/06/cropped-logo_menos_cinco_gde.jpg?w=192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://revistalacuna.com/wp-content/uploads/2018/06/cropped-logo_menos_cinco_gde.jpg?w=180" />
+<meta name="msapplication-TileImage" content="https://revistalacuna.com/wp-content/uploads/2018/06/cropped-logo_menos_cinco_gde.jpg?w=270" />
+			<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s2.wp.com/?custom-css=1&#038;csblog=6o6lZ&#038;cscache=6&#038;csrev=26" />
+			
+	<!--[if !IE]><!-->
+	<script>
+		if (/*@cc_on!@*/false) {
+			document.documentElement.className += ' ie10';
+		}
+	</script>
+	<!--<![endif]-->
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-3' href='/_static/??-eJyNjMEKgzAQBX9Ifdha9CJ+StF1KdFkN7gJ+X0RbM89zjAMSqxJJbEkhFxHnz9ODBunONN+M4Kq4O2EsHil3WDFRT4aMqvw/yHomj0baD40G/tf9BXXcApj27+ej6Hr2247ASkBO20=&cssminify=yes' type='text/css' media='all' />
+</head>
+
+<body class="wp-singular post-template-default single single-post postid-5937 single-format-standard wp-embed-responsive wp-theme-premiumhive customizer-styles-applied jetpack-reblog-enabled custom-colors">
+
+
+<div id="page" class="hfeed site">
+
+	<a class="skip-link screen-reader-text" href="#content">Pular para o conteúdo</a>
+
+	<header id="masthead" class="site-header" role="banner">
+
+		<div class="container">
+			<div class="site-branding">
+				<a href="https://revistalacuna.com/" class="site-logo-link" rel="home" itemprop="url"></a>
+				<h1 class="site-title site-title--large">
+					<a href="https://revistalacuna.com/" rel="home">
+						Lacuna					</a>
+				</h1>
+
+				<div class="site-description">
+					<span class="site-description-text">Uma revista de psicanálise – ISSN 2447-2663</span>
+				</div>
+			</div>
+
+			<nav id="site-navigation" class="main-navigation" role="navigation">
+				<h5 class="screen-reader-text">Navegação Principal</h5>
+									<button class="navigation__trigger">
+						<i class="fa fa-bars"></i><span class="screen-reader-text">Menu</span>
+					</button>
+				<ul id="menu-menuzao" class="nav  nav--main"><li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-545"><a href="https://revistalacuna.com/a-lacuna/">A Lacuna</a>
+<ul class="sub-menu">
+	<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://revistalacuna.com/sobre-nos/">Sobre nós</a></li>
+	<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="https://revistalacuna.com/expediente/">Corpo editorial</a></li>
+</ul>
+</li>
+<li id="menu-item-548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-548"><a href="https://revistalacuna.com/edicoes/">Edições</a>
+<ul class="sub-menu">
+	<li id="menu-item-2472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2472"><a href="https://revistalacuna.com/edicoes/sumario-n-16/">Edição atual</a></li>
+	<li id="menu-item-424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-424"><a href="https://revistalacuna.com/edicoes/numeros-anteriores/">Números anteriores</a></li>
+</ul>
+</li>
+<li id="menu-item-551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-551"><a href="https://revistalacuna.com/normas/">Normas</a>
+<ul class="sub-menu">
+	<li id="menu-item-6309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6309"><a href="https://revistalacuna.com/normas-para-publicacao/">Envio de contribuições</a></li>
+	<li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a href="https://revistalacuna.com/como-citar/">Como citar</a></li>
+</ul>
+</li>
+</ul>			</nav><!-- #site-navigation -->
+		</div>
+
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+		<div class="container">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			
+<article id="post-5937" class="post-5937 post type-post status-publish format-standard has-post-thumbnail hentry category-249965 category-traducao tag-fantasia tag-fantasma tag-lacan tag-traducao featured-portrait">
+	
+	<header class="entry-header">
+
+		<div class="entry-meta">
+			<span class="posted-by"> <span class="author vcard">
+					<a class="url fn n" href="https://revistalacuna.com/author/lacunarevista/">Revista Lacuna
+					</a>
+				</span></span>
+<span class="posted-on"><a href="https://revistalacuna.com/2024/08/12/n-16-01/" rel="bookmark"><time class="entry-date published" datetime="2024-08-12T19:59:13-03:00">12 de agosto de 2024</time></a></span>				<span class="cat-links">
+					<a href="https://revistalacuna.com/category/16/" rel="category tag">-16</a>, <a href="https://revistalacuna.com/category/traducao/" rel="category tag">Tradução</a>				</span>
+					</div>
+		<h1 class="entry-title">A fantasia não é um&nbsp;fantasma</h1>
+	</header><!-- .entry-header -->
+
+			<div class="entry-featured  entry-thumbnail">
+			<img width="1024" height="1261" src="https://revistalacuna.com/wp-content/uploads/2024/07/shakespeares_tragedy_of_hamlet_prince_of_denmark_1890_14586366959.jpg?w=1024" class="attachment-hive-single-image size-hive-single-image wp-post-image" alt="" decoding="async" srcset="https://revistalacuna.com/wp-content/uploads/2024/07/shakespeares_tragedy_of_hamlet_prince_of_denmark_1890_14586366959.jpg?w=1024 1024w, https://revistalacuna.com/wp-content/uploads/2024/07/shakespeares_tragedy_of_hamlet_prince_of_denmark_1890_14586366959.jpg?w=2048 2048w, https://revistalacuna.com/wp-content/uploads/2024/07/shakespeares_tragedy_of_hamlet_prince_of_denmark_1890_14586366959.jpg?w=122 122w, https://revistalacuna.com/wp-content/uploads/2024/07/shakespeares_tragedy_of_hamlet_prince_of_denmark_1890_14586366959.jpg?w=244 244w, https://revistalacuna.com/wp-content/uploads/2024/07/shakespeares_tragedy_of_hamlet_prince_of_denmark_1890_14586366959.jpg?w=768 768w, https://revistalacuna.com/wp-content/uploads/2024/07/shakespeares_tragedy_of_hamlet_prince_of_denmark_1890_14586366959.jpg?w=831 831w, https://revistalacuna.com/wp-content/uploads/2024/07/shakespeares_tragedy_of_hamlet_prince_of_denmark_1890_14586366959.jpg?w=1440 1440w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="5943" data-permalink="https://revistalacuna.com/2024/08/12/n-16-01/shakespeares_tragedy_of_hamlet_prince_of_denmark_1890_14586366959/" data-orig-file="https://revistalacuna.com/wp-content/uploads/2024/07/shakespeares_tragedy_of_hamlet_prince_of_denmark_1890_14586366959.jpg" data-orig-size="2312,2848" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Shakespeare&amp;#8217;s_Tragedy_of_Hamlet,_Prince_of_Denmark_(1890)_(14586366959)" data-image-description="" data-image-caption="" data-medium-file="https://revistalacuna.com/wp-content/uploads/2024/07/shakespeares_tragedy_of_hamlet_prince_of_denmark_1890_14586366959.jpg?w=244" data-large-file="https://revistalacuna.com/wp-content/uploads/2024/07/shakespeares_tragedy_of_hamlet_prince_of_denmark_1890_14586366959.jpg?w=831" />					</div>
+	
+		<div class="entry-content" data-first_letter="L">
+		<p style="text-align: left"><strong>[<em>La fantasía no es un fantasma</em>]</strong></p>
+<p style="text-align: right">por <strong><a href="#_ftn1" name="_ftnref1">Anthony Sampson</a></strong></p>
+<p style="text-align: right"><span id="more-5937"></span></p>
+<p style="text-align: right">Tradução<span style="color: #ff6600"> |</span> <strong><a href="#_ftn2" name="_ftnref2">Paulo Sérgio de Souza Jr.</a></strong></p>
+<blockquote><p><em>Sampson, A. (1992) “La fantasía no es un fantasma”, Artefacto, n. 3, México.</em></p></blockquote>
+<blockquote>
+<p style="text-align: center"><em>Longe de fazer com que as línguas se comuniquem, a tradução enfatiza o que as torna estranhas umas às outras.</em></p>
+<p>*</p>
+<p><em>Michel Cresta</em><a href="#_ftn3" name="_ftnref3"><sup>[1]</sup></a></p></blockquote>
+<p><a href="#_ftn3" name="_ftnref3"></a></p>
+<p style="text-align: justify">Numa atividade que vem se tornando cada vez mais crítica — e criticável —, resulta conveniente, até mesmo indispensável, explicitar certas opções feitas pelo tradutor. De fato, há quem tenha visto na tarefa de tradução nada além de uma série ininterrupta de escolhas<a href="#_ftn4" name="_ftnref4"><sup>[2]</sup></a>. Segundo essa tese, a essência da tradução consistiria no próprio ato de escolher. Talvez seja nessa primordialidade da escolha que o caráter ético da tarefa do tradutor, de acordo com Benjamin, possa ser visto mais facilmente<a href="#_ftn5" name="_ftnref5"><sup>[3]</sup></a>.</p>
+<p style="text-align: justify">Seja como for, temos obrigação de explicar nossa escolha por “fantasia” para traduzir o francês <em>fantasme</em>, e não “fantasma”, como costumam fazer alguns.</p>
+<p style="text-align: justify">Antes de mais nada, vamos estabelecer alguns pontos incontroversos. <em>Fantasme</em>, em francês, é o termo especificamente psicanalítico empregado — pelo menos originalmente, desde a década de 1920 — para traduzir o termo alemão <em>Phantasie</em>. Esse termo, exatamente como o inglês <em>fantasy</em> ou o espanhol <em>fantasía</em>, embora possua uma gama de sentidos ampla, designa basicamente a imaginação: “Não tanto a faculdade de imaginar”, dizem Laplanche e Pontalis em seu <em>Vocabulário da psicanálise</em>, “no sentido filosófico do termo (<em>Einbildungskraft</em>), mas o mundo imaginário, os seus conteúdos, a atividade criadora que o anima (<em>das Phantasieren</em>). Freud retomou essas diferentes acepções da língua alemã”<a href="#_ftn6" name="_ftnref6"><sup>[4]</sup></a>. Laplanche e Pontalis continuam explicando que, em francês, o termo <em>fantasme</em> foi revivido pelos analistas, fato que explica por que suas ressonâncias psicanalíticas são maiores que as do vocábulo <em>Phantasie</em> e por que ele possui uma extensão menor que o homólogo alemão. Eles também lembram que Lagache propôs a reutilização do termo <em>fantaisie</em> em seu sentido antigo, “mas que, para a consciência linguística, contemporânea, [esse termo] dificilmente pode deixar de sugerir os matizes de capricho, originalidade, ausência de seriedade etc.”</p>
+<p style="text-align: justify">Noutros termos, <em>fantasme</em> é o vocábulo ao qual os primeiros tradutores das obras de Freud tiveram obrigatoriamente de recorrer. Porque a palavra <em>fantaisie</em> — que teria sido o equivalente natural —, devido à evolução específica da língua francesa, era simplesmente inutilizável, uma vez que carregava ideias de leviandade, de liberdade imaginativa, até mesmo de sorte ou felicidade, absolutamente incompatíveis com o caráter constritivo ou coercitivo da <em>Phantasie</em> freudiana (aliás, observamos que, de acordo com o Diccionario crítico etimológico de la lengua castellana [Dicionário crítico etimológico da língua castelhana], de J. Corominas, foi esse sentido “italiano” de “fantasia” como capricho, vontade caprichosa, que Juan de Valdés — autor do Diálogo de la lengua española [Diálogo da língua espanhola], e falecido em 1541 — quis aclimatar em espanhol, mas sem sucesso).</p>
+<p style="text-align: justify">Assim, os franceses não tinham à disposição imediata uma palavra com a mesma carga semântica que <em>fantasy</em>, em inglês, ou <em>fantasía</em>, em espanhol. Em francês, uma frase como <em>fantaisie de castration</em> (capricho de castração) ou <em>fantaisie de meurtre</em> (capricho de assassinato) seria impensável; surgiria um puro contrassenso. De modo que os tradutores se viram compelidos a ressuscitar um termo antigo que havia caído em desuso desde o século XIII. Parece que essa escolha era tão óbvia e tão inevitável que não houve sequer necessidade de uma reunião da Commission Linguistique pour L’Unification du Vocabulaire Psychanalytique Français [Comissão Linguística para a Unificação do Vocabulário Psicanalítico Francês], cuja existência e funcionamento são documentados por Elisabeth Roudinesco em sua história da psicanálise na França<a href="#_ftn7" name="_ftnref7"><sup>[5]</sup></a>. Os tradutores escolheram um termo, então, cujo significado “original” — diferentemente do que acontece com o <em>fantasma</em> espanhol — se havia perdido por completo; e que era capaz, por seu caráter neutro, de receber qualquer sentido: de felicidade ou de infelicidade, material ou abstrato etc.</p>
+<p style="text-align: justify">Mas desde a sua introdução, como aponta Guy Le Gaufey no seminário <em>De la réalité du fantasme </em>[<em>A realidade da fantasia</em>]<a href="#_ftn8" name="_ftnref8"><sup>[6]</sup></a>, esse feliz achado dos tradutores teve um sucesso inaudito: deixou de ser um termo meramente técnico num vocabulário específico e restrito, e passou a ser uma palavra extremamente corrente na língua cotidiana. Hoje, portanto, em francês, <em>fantasme</em> é uma expressão que pode aparecer em qualquer conversa ou em qualquer leitura, sem que a pessoa que a emprega esteja necessariamente ciente de sua origem psicanalítica.<a href="#_ftn9" name="_ftnref9"><sup>[7]</sup></a></p>
+<p style="text-align: justify">Vamos deixar claro o seguinte, então: em francês, <em>fantasme</em> não é um termo próprio de Lacan e dos lacanianos. Ele foi introduzido para traduzir <em>Phantasie</em>, e hoje em dia é pura e simplesmente o francês que todos os psicanalistas de língua francesa escrevem quando pretendem falar do que Freud chamou de <em>Phantasie</em>, quaisquer que sejam suas posições doutrinárias. Em termos ainda mais claros, acharemos <em>phantasme</em> nos textos de Sacha Nacht, Benassy, Bouvet, Levobici, Diatkine, Laplanche, assim como nos textos de Lacan e dos seus alunos. Não tem absolutamente nada de específico quanto à indicação de uma determinada posição teórica.</p>
+<p style="text-align: justify">De modo geral, os tradutores dos textos dos primeiros autores mencionados (Nacht, Diatkine etc.) para o espanhol se deram conta disso, pois não costumam traduzir <em>fantasme</em> por <em>fantasma</em>. E os tradutores ingleses, tanto dos primeiros citados quanto de Lacan, também se deram conta disso: traduzem por <em>fantasy</em>, que é, nem mais nem menos, o único termo equivalente ao alemão <em>Phantasie</em>. E decerto não recorreram a <em>ghost</em> para traduzir <em>fantasme</em> quando na pena de Lacan!</p>
+<p style="text-align: justify">Consideramos que <em>fantasme</em>, em francês, e <em>fantasma</em>, em espanhol, são o que os franceses chamam de <em>faux amis </em>(literalmente, “falsos amigos”): termos que, por sua semelhança fonética, induzem ao engano os iniciantes no estudo de uma língua estrangeira, pois seu aparente ar de familiaridade produz a impressão de uma equivalência de sentido que, na realidade, não existe.</p>
+<p style="text-align: justify">Com efeito, apostaríamos que os primeiros leitores de Lacan hispanofalantes, deslumbrados com a extraordinária novidade do ensino lacaniano, tomaram como certo que <em>fantasme</em> só poderia ser mais uma das inovações e neologismos de Lacan. Pensamos que muitos nunca se deram conta dessa equivocação, e que outros, os quais talvez se tenham dado conta disso, tomaram o partido dessa tradução com a finalidade de transformar <em>fantasma</em> numa espécie de cavalo de batalha para tentar, por meio de um léxico, estabelecer distâncias em relação a grupos e doutrinas não lacanianos. Nesse ponto, aludimos especialmente aos kleinianos — cujos textos apelam em massa para a noção de “fantasia” —, tão abundantes, em particular no Cone Sul.</p>
+<p style="text-align: justify">A luta dos lacanianos nesses países para implementar a renovação lacaniana da clínica desperta a nossa simpatia e a nossa solidariedade. No entanto, se o objetivo é conferir vida nova a um conceito, modificando seu emprego e seu conteúdo, é completamente inútil abandonar o termo existente e recorrer a um novo, cujo sentido atual — resultado de um longo processo histórico — se pretende eliminar à canetada.</p>
+<p style="text-align: justify">A reformulação lacaniana do conceito freudiano de “fantasia” passa pela elucidação de sua lógica, e não pela cunhagem de um novo vocábulo, o que, como vimos, Lacan nunca realizou, contentando-se com o termo francês <em>fantasme</em>, comum a todos os psicanalistas de língua francesa.</p>
+<p style="text-align: justify">Suspeitamos que, para muitos, “fantasma” nada mais é que uma espécie de criptografia, um modo de reconhecer-se entre si como antagonistas de outros. Assim, seu uso se reduz, na melhor das hipóteses, a um santo-e-senha<a href="#_ftn10" name="_ftnref10"><sup>[8]</sup></a>; e, na pior, a um crachá de congresso.</p>
+<p style="text-align: justify"><em>Fantasma</em> é um termo de uso muito antigo em espanhol; é atestado desde o século XIII:</p>
+<p style="text-align: justify;padding-left: 40px"><em>En el Apocalisi Sant Juán Evangelis­ta / Non vido tal figura nin espantable vista; / En grand hato daríe gran lucha é grand conquista; / Non sé de quál diablo es tal fantasma quista. </em>(Arcipreste de Hita, Libro de buen amor, 1011).</p>
+<p style="text-align: justify">Só séculos mais tarde <em>fantasma</em> mudou de gênero, de feminino para masculino, pois mesmo em 1770 Ramón de la Cruz intitula o seu sainete <em>La fantasma del lugar </em>[<em>A fantasma do lugar</em>]<a href="#_ftn11" name="_ftnref11"><sup>[9]</sup></a>. Mas igualmente antigo é o termo <em>fantasía</em>:</p>
+<p style="text-align: justify;padding-left: 40px"><em>Fiziéronse las gentes todas maravilladas, / tenién que fantasía las avié engannadas, / pero a pocca d’ora fueron certifigadas / rendién gracias a Christo todas manos alzadas. </em>(Gonzalo de Berceo, Milagros de Nuestra Señora [El parto maravilloso], 443).</p>
+<p style="text-align: justify">Portanto, os dois termos coexistiram ininterruptamente desde os primórdios do idioma. Além disso, nenhum deles jamais caiu em desuso ou foi confundido com o outro. Eles tiveram uma existência paralela e independente, com a manutenção de seus sentidos específicos sem nunca se sobrepor ou baralhar.</p>
+<p style="text-align: justify">O Diccionario de la Real Academia [<em>Dicionário da Real Academia</em>] registra quatro acepções para o vocábulo <em>fantasma</em>:</p>
+<p style="text-align: justify;padding-left: 40px">(a) Visão quimérica, como a proporcionada por sonhos ou pela acalorada imaginação; (b) Imagem de um objeto que fica impressa na fantasia; (c) Pessoa entojada, sisuda e presunçosa; (d) Abantesma ou pessoa fantasiada que sai à noite para assustar as gentes.</p>
+<p style="text-align: justify">Não há dúvida de que o uso atual privilegia as acepções (a) e (d). Basta ler os jornais e a literatura contemporânea para verificar. Manchete do <em>La Prensa</em> (Bogotá) de 28/3/1990: “<em>Fantasmas rondan en Casaloma</em>” [Fantasmas assombram Casaloma]. Ou no mesmo jornal, em 25/9/1990, a crônica de folhetim proveniente de Valverde de Leganés, na Espanha, em que “os vizinhos vivem em estado de alerta há dias por causa das andanças de um ‘fantasma’ que, segundo a Guarda Civil, sai ‘quase todas as noites’”; e, num nível muito diferente, o livro de poemas de Luis Vidales, <em>El Libro de los fantasmas</em> [<em>O livro dos fantasmas</em>] (os exemplos poderiam ser multiplicados indefinidamente — sem necessidade alguma de trazer à baila aquele personagem mascarado de uma conhecidíssima história em quadrinhos).</p>
+<p style="text-align: justify">Que exemplo de “fantasma” seria melhor que o espectro do pai de Hamlet — acepção (a) — ou o pai de Ofelia? — acepção (c): “pessoa entojada, sisuda e presunçosa”. Vamos dizer, então, que o <em>pai</em> é, por definição, um fantasma? Talvez seja, mas não descartemos tão rapidamente a distinção freudiana entre a <em>imago</em> do pai e a <em>função paterna</em>, em sua decisiva incidência sobre a fantasia, conforme a estuda Freud, por exemplo, em <em>Uma criança apanha</em><a href="#_ftn12" name="_ftnref12"><sup>[10]</sup></a>.</p>
+<p style="text-align: justify">A <em>Enciclopedia del idioma: diccionario histórico y moderno de la lengua española (Siglos XII al XX) etimológico, tecnológico, regional e hispanoamericano </em>[<em>Enciclopédia do idioma: dicionário histórico e moderno da língua espanhola (séculos XII a XX), etimológico, tecnológico, regional e hispano-americano</em>], de Martín Alonso, acrescenta mais alguns significados aos quatro do <em>Diccionario de la Academia </em>[<em>Dicionário da Academia</em>]:</p>
+<p style="text-align: justify;padding-left: 40px">(e) Na terminologia escolástica, imagem sensível, individual e concreta das coisas, em oposição a uma ideia geral e abstrata: f. TELEV. Aparecimento gradual da imagem na tela, passando da escuridão total à plena visibilidade [visivelmente, tradução de <em>ghost</em> (fantasma), e equivalente televisivo do <em>fading </em>radiofônico], g. Pl. S. XIII, ocasion., Berceo: S. Dom., 70; h. F. magnético. FÍS. Figura obtida quando se jogam limalhas de ferro sobre uma folha de papel colocada no campo magnético de um ímã, que se agrupam formando figuras que determinam as linhas de força do campo magnético mencionado.</p>
+<p style="text-align: justify">A tudo isso, a Enciclopedia universal ilustrada europeo-ame­ricana [<em>Enciclopédia universal ilustrada euroamericana</em>], da editora Espasa-Calpe, volume XXIII, acrescenta uma outra acepção:</p>
+<p style="text-align: justify;padding-left: 40px">estátua de madeira, na qual os cirurgiões praticam a aplicação de bandagens em operações de parto.</p>
+<p style="text-align: justify">No entanto, a parte central do artigo que a referida enciclopédia dedica ao conceito de <em>fantasma</em> gira em torno dos espectros e da crença universal no retorno das almas dos mortos após o falecimento. Ele termina remetendo às publicações contemporâneas da Society for Psychical Research [Sociedade de Pesquisas Psíquicas] — da qual Jung foi membro — sobre os Phantasms of the living [Os fantasmas dos vivos] e sua relação com a telepatia<a href="#_ftn13" name="_ftnref13"><sup>[11]</sup></a>.</p>
+<p style="text-align: justify">O testemunho do <em>Diccionario crítico etimológico de la lengua castellana</em>, de J. Corominas, também é inequívoco: no verbete <em>Fantasía</em>, faz menção a <em>fantasma</em> (certificando seu emprego desde Berceo, Juan Ruiz e Nebrija) definido como “aparição”, “imagem”, “espectro”.</p>
+<p style="text-align: justify">De modo que a coisa pareceria bastante clara: desde o Arcipreste de Hita até os dias de hoje, <em>fantasma</em>, exceto por raros usos ocasionais e técnicos, quer dizer “espectro”. Observemos também, para o leitor não familiarizado com o idioma francês, que o <em>fantasma</em> espanhol, em francês, não se diz <em>fantasme</em>, mas <em>fantôme</em> — <em>ghost</em>, em inglês, e <em>Phantom</em>, em alemão. E em italiano, de igual maneira, <em>fantasma</em> tem o sentido de espectro:</p>
+<p style="text-align: justify;padding-left: 40px"><em>Volgarmente si chiamano fantasmi le anime dei morti che ritornano o s’aggirano sulla terra sotto la forma di scheletri o di corpi umani avvolti in un aereo velo</em>.<a href="#_ftn14" name="_ftnref14"><sup>[12]</sup></a></p>
+<p style="text-align: justify">Parece-nos, por isso mesmo, completamente inútil buscar “um sentido não comum” (<em>Dicionário de filosofia</em> de José Ferrater Mora) de “fantasma” como <em>produto</em>: “as imagens produzidas pela fantasia”. Essa distinção fantasia/fantasma (<em>phantasía</em>/phántasma) é uma distinção gnoseológica que remonta a Aristóteles, a quem deve suas cartas nobiliárquicas, e dele provém essa problemática em torno da qual, nas palavras de Lacan, a filosofia ocidental tem girado desde então<a href="#_ftn15" name="_ftnref15"><sup>[13]</sup></a>.</p>
+<p style="text-align: justify">Porque essa problemática, da qual o par fantasia/fantasma é inseparável, não é outra senão a própria problemática da representação. Ferrater Mora traduz <em>phantásmata</em> (plural, em grego, de phántasma) precisamente como “representações”, e em seu <em>Dicionário</em> nos ensina que a sistematização desse par de termos complementares se deve a Aristóteles, para quem a fantasia está relacionada à apetência, aos movimentos apetitivos em direção a algo desejado, ao passo que os <em>phantásmata</em> (fantasmas) seriam as representações em potência ou “ideias” atualizáveis por meio das percepções. Desse modo, “a fantasia reside em nosso poder de suscitar (‘conjurar’) imagens mesmo quando os objetos ou fontes de sensações não se achem imediatamente presentes”<a href="#_ftn16" name="_ftnref16"><sup>[14]</sup></a>. Mas qual é, então, o estatuto gnoseológico da fantasia e de seu produto, o fantasma? Eles podem ser objeto de crença e convicção, ou são apenas criações de um espírito ocioso que se diverte com suas imaginações improdutivas? Desde o início, portanto, com essa problemática inaugurada por Aristóteles, nós nos encontramos inevitavelmente imersos em toda a lodosa questão do verdadeiro e do falso, da ilusão e da alucinação, da percepção fiel e da percepção falaciosa. Foram inúmeras as reelaborações e soluções propostas, desde Crisipo, o estoico — que introduziu finas distinções entre a <em>phantasía</em>, o <em>phantastón</em>, o <em>phantastikón</em> e o phántasma<a href="#_ftn17" name="_ftnref17"><sup>[15]</sup></a> —, até Sartre e os fenomenólogos<a href="#_ftn18" name="_ftnref18"><sup>[16]</sup></a>. Porém, por mais apaixonantes que sejam as análises dos metafísicos, antigos e modernos, Freud não se inscreve nessa tradição filosófica ocidental<a href="#_ftn19" name="_ftnref19"><sup>[17]</sup></a> — ao menos se a opinião de Lacan merece de nós algum crédito.</p>
+<p style="text-align: justify">Na sessão de 16 de dezembro de 1959 do seu seminário <em>A ética da psicanálise</em>, Lacan examina em detalhe a natureza da “representação”, a <em>Vorstellung</em> alemã:</p>
+<p style="text-align: justify;padding-left: 40px">O caráter de composição imaginária, de elemento imaginário do objeto, faz dele o que se poderia chamar de a substância da aparência, o material de um engodo vital, uma aparição sujeita à decepção de uma <em>Erscheinung</em> [aparição, espectro, fantasma, segundo o <em>Langenscheidts Handwörterbuch Deutsch-Spanisch</em>], diria eu se me permitisse falar alemão, isto é, aquilo em que a aparência se sustenta, mas que é igualmente a aparição da assombração, a aparição corriqueira [&#8230;]. A <em>Vorstellung</em> é algo de essencialmente descomposto. É aquilo em torno do qual gira, desde sempre, a filosofia do Ocidente, desde Aristóteles, e a <em>phantasía.</em></p>
+<p style="text-align: justify;padding-left: 40px">Em Freud a <em>Vorstellung</em> é apreendida em seu caráter radical sob a forma pela qual é introduzida numa filosofia que é essencialmente traçada pela teoria do conhecimento. E é isso que é notável — ele lhe designa, até ao extremo, o caráter ao qual os filósofos, precisamente, não puderam decidir-se a reduzi-la, o de um corpo vazio, de um fantasma [enfatizo, <em>fantôme</em>, no original francês], de um pálido íncubo da relação com o mundo, de um gozo extenuado que constitui seu traço essencial através de toda a interrogação do filósofo. E isolando-a nessa função, Freud a extrai da tradição.<a href="#_ftn20" name="_ftnref20"><sup>[18]</sup></a></p>
+<p style="text-align: justify">Assim, se Freud extrai o conceito de “representação” (<em>Vorstellung</em>) de toda a tradição filosófica ocidental, atribuindo-lhe o caráter de um “fantasma”, “pálido íncubo da relação com o mundo”, não seria aconselhável admitir que, precisamente, a sua “fantasia” (<em>Phantasie</em>) também carece de todo e qualquer vínculo com a metafísica — onde se emparelhava com seu correlato, o “fantasma” —, seja ela qual for (aristotélica, estoica, epicurista, tomista&#8230; ou qualquer outra)?</p>
+<p style="text-align: justify">Desde o início, desde o <em>Projeto</em> de 1895, o próton pseudos<a href="#_ftn21" name="_ftnref21"><sup>[19]</sup></a> deixará de fazer parte da teoria do silogismo e, como primeira mentira, será a maneira pela qual o sujeito, no nível do inconsciente, diz a primeira verdade; a “fantasia” freudiana não terá mais com a verdade a mesma relação que a problemática metafísica do par indissolúvel “fantasia/fantasma”. A <em>Phantasie</em> freudiana é outra coisa, e é por isso que não vamos encontrar seu sentido especificado em nenhum <em>Wörterbuch</em><a href="#_ftn22" name="_ftnref22"><sup>[20]</sup></a>.</p>
+<p style="text-align: justify">Contudo, <em>Phantasie</em> tem uma gama tão ampla de sentidos quanto <em>fantasía</em>, em espanhol — que, de acordo com o <em>Diccionario de la Real Academia</em> [<em>Dicionário da Real Academia</em>], tem ainda mais significados que <em>fantasma</em>. Mas cumpre saber que, se Freud quisesse ter escrito <em>Phantasma</em> (“fantasma”), poderia ter feito, já que esse vocábulo também existe em alemão — embora de uso reconhecidamente escasso fora do contexto da metafísica e da medicina psiquiátrica<a href="#_ftn23" name="_ftnref23"><sup>[21]</sup></a> —, mas, como quase sempre acontece com Freud, ele preferiu um termo comum do idioma e descartou o vocábulo pouco frequente. Mas, em contrapartida, esse termo <em>Phantasma</em> foi empregado por alguém próximo de Freud, ninguém menos que&#8230;. Josef Breuer, em <em>Estudos sobre a histeria</em>, no célebre histórico clínico da “Srta. Anna O”!<a href="#_ftn24" name="_ftnref24"><sup>[22]</sup></a> E praticamente não há necessidade de lembrar que Freud havia assistido — como deveria ser de conhecimento comum — aos cursos de Frantz Brentano, o grande comentador de Aristóteles e teórico da representação e da fantasia<a href="#_ftn25" name="_ftnref25"><sup>[23]</sup></a>, e nos quais Freud necessariamente se familiarizaria com o uso do par aristotélico fantasia/fantasma. Diante dessas duas referências contemporâneas, que sentido tem invocar — como fazem alguns para justificar a tradução de <em>fantasme</em> por “fantasma” — a função propriamente retórica da “dêixis em fantasma” (<em>Deixis am Phantasma</em>), proposta por K. Bühler, que se produz “quando um narrador leva o ouvinte para o reino do ausente recordável, ou para o reino da fantasia construtiva, e ali o presenteia com os mesmos demonstrativos para que ele possa ver e ouvir o que há ali para ver e ouvir (e tocar, como se sabe, e talvez também cheirar e saborear)?<sup> <a href="#_ftn26" name="_ftnref26"><sup>[24]</sup></a></sup></p>
+<p style="text-align: justify">Além disso, pode-se sustentar que empregar na psicanálise o conceito <em>metafísico</em> de “fantasma” — por oposição ao seu sentido <em>comum</em> de “espectro” — seria, sem dúvida, privilegiar excessivamente o produto-imagem-objeto às custas da atividade, da “ficção” que a produz. A fantasia freudiana não se reduz a ser a imagem pura e extenuada do objeto. Isso seria desconhecer a sua estrutura gramatical — sua estrutura de relato, estrutura narrativa que implica um sujeito, um verbo e um predicado. Daí apresentar-se como um palco, um roteiro, uma encenação, com atores e libretos. Por certo, o objeto não poderia estar ausente em semelhante encenação (a escrita lacaniana, sem dúvida, salientou isso), mas tampouco se deve esquecer que justamente o objeto <em>a</em> não é suscetível a nenhuma representação especular.</p>
+<p style="text-align: justify">Por todas essas razões, então, não é de surpreender que <em>todos</em> os tradutores de Freud para o espanhol — desde Luis López Ballesteros y de Torre, passando por Ludovico Rosenthal até José Luis Etcheverry — não tenham hesitado, por um instante sequer, em traduzir <em>Phantasie</em> por <em>fantasía</em>, exatamente como, por razões que já explicitamos, todos os tradutores franceses traduziram o mesmo termo alemão por <em>fantasme</em> (<em>Phantasie</em> = <em>fantasme</em> = <em>fantasía</em> = “fantasia”, ou na ordem que se bem quiser).</p>
+<p style="text-align: justify">Parece-nos totalmente inverossímil<a href="#_ftn27" name="_ftnref27"><sup>[25]</sup></a> e incongruente com a posição freudiana toda e qualquer tentativa de traduzir por “fantasma” quando se trata, supostamente, da fantasia originária ou inconsciente propriamente dita, e por “fantasia” quando se trata da fantasia pré-consciente ou do sonho diurno. Sabe-se que, tanto em inglês quanto em francês, há quem tenha tentado introduzir ortograficamente essa distinção, escrevendo phantasy ou phantasme no primeiro caso, e fantasy ou fantasme no segundo. Essas tentativas não prosperaram e, até onde sabemos, Lacan nunca as aprovou ou imitou. Há uma incontornável ambiguidade no emprego freudiano do vocábulo <em>Phantasie</em>, uma oscilação constante que é o que permite a Freud todas as suas análises dos processos criativos nos artistas, as formações das memórias encobridoras, os ataques histéricos, as compulsões obsessivas e também suas especulações acerca das origens da cultura humana etc.; por isso, nenhuma grafia, nenhum truque lexical pode absolver o leitor de sua distração ou desinteresse.</p>
+<p style="text-align: justify">Por último, então, reservamos para o final o argumento que nos parece mais decisivo: se o termo em espanhol, quando se trata de Freud, é <em>fantasía</em>, não poderia haver um termo distinto quando se trata de Lacan. Isso é muito claro e contundente. Se há dois, um para Freud e outro para Lacan, um dos dois fica sobrando. Na nossa opinião, sobra <em>fantasma</em>.<span style="color: #ff6600">♦</span></p>
+<h3 style="text-align: justify"><strong>Referências</strong></h3>
+<p style="text-align: justify">BRENTANO, Frantz (1874) “Psicología (Psicología desde el punto de vista empírico)” [Trad. J. Gaos], Revista de Occidente, Madrid, 1926.</p>
+<p style="text-align: justify">CARRETER, Fernando Lázaro. Diccionario de términos filológicos. Madrid: Credos, 1968.</p>
+<p style="text-align: justify">CRESTA, Michel (1986) “Sobre los fragmentos de un lenguaje más amplio : para una introducción a ‘La tarea del traductor’ de Walter Benjamin”, Littoral: textos de psicoanálisis, vol. 1. Córdoba: La Torre Abolida.</p>
+<p style="text-align: justify">DE LA CRUZ, Ramón (1770) <em>Saynete intitulado La fantasma del lugar</em>. Madrid: Librería de Quiroga, 1791.</p>
+<p style="text-align: justify">FERRATER MORA, José (1981) Diccionario de filosofía, vol. 2, 3a ed.. Madrid: Alianza.</p>
+<p style="text-align: justify">FREUD, Sigmund (1893-95) <em>Obras completas</em>, vol. 2: “Estudos sobre a histeria”. Trad. L. Barreto. São Paulo: Companhia das Letras, 2016.</p>
+<p style="text-align: justify">_____.  (1895) “Projeto de uma psicologia”. In: GABBI, Jr., Osmyr Faria (2003) <em>Notas a Projeto de uma psicologia</em>. Rio de Janeiro: Imago.</p>
+<p style="text-align: justify">_____. (1919) <em>Uma criança apanha</em>. Trad. P. S. de Souza Jr. São Paulo: Blucher, no prelo.</p>
+<p style="text-align: justify">LACAN, Jacques ([1959-60]) <em>O seminário,</em> livro 7: “A ética da psicanálise”. Trad. A. Quinet. Rio de Janeiro: Zahar, 1988.</p>
+<p style="text-align: justify">LAPLANCHE, Jean; PONTALIS, Jean-Baptisle (1967) Vocabulário da psicanálise. Trad. P. Tamen. São Paulo: Martins Fontes, 1991.</p>
+<p style="text-align: justify">LE GAUFEY, Guy (1984) “A propósito de la realidad de la fantasía”, Stylus, n. 3. Cali, Colômbia, 1991.</p>
+<p style="text-align: justify"><em>L’Enciclopedia Italiana di scienze, lettere ed arti</em>, vol. XIV. Roma: Istituto dell’Enciclopedia Italiana, 1949.</p>
+<p style="text-align: justify">MACKENSEN, Lutz.<em> Deutsches Wörterbuch.</em> Laupheim (Wttbg.): Pfahl Verlag.</p>
+<p style="text-align: justify">MURATORI, Lodovico (1745)<em> De la fuerza de la fantasía humana </em>[edição fac-similar]. Trad. F. Martínez. Bogotá: Biblioteca Médica Lepetit, 1973.</p>
+<p style="text-align: justify">NAVARRO, Javier (1984) “La subversión lacaniana de la fenomenología”, <em>Stylus</em>, n. 3. Cali, Colômbia.</p>
+<p style="text-align: justify">PIGEAUD, Jackie (1987) <em>Folies et cures de la folie chez les médecins de l’Antiquité Gréco-Romaine.</em> Paris: Les Belles Lettres.</p>
+<p style="text-align: justify">RABASA, Gregory, “No two snowflakes are alike: translation as metaphor”. In: BIGUENET, John; SCHULTE, Rainer (1989) The craft of translation. Chicago: The University of Chicago Press.</p>
+<p style="text-align: justify">ROUDINESCO, Elisabeth (1982) Histoire de la psychanalyse en France, vol 1: La bataille de cent ans 1885-1939. Paris: Seuil.</p>
+<hr />
+<p style="text-align: justify"><a href="#_ftnref1" name="_ftn1">*</a> <strong>Anthony Sampson</strong> é professor titular de psicologia clínica no Instituto de Psicologia da Universidad del Valle (Cali, Colômbia). Graduado em psicologia pela mesma instituição, aprofundou seus estudos em psicanálise na Université Paris VII (França). Continuou sua formação clínica em psicanálise na École Lacanienne e no Depto. de Clínica Psicanalítica da Paris VIII. Realiza pesquisas nas áreas de família e cultura, violência e família, identidade e diversidade, e evasão universitária. É membro da École Lacanienne de Paris.</p>
+<hr />
+<p style="text-align: justify"><a href="#_ftnref2" name="_ftn2">**</a> <strong>Paulo Sérgio de Souza Jr. </strong>é psicanalista e tradutor. Bacharel e doutor em linguística pelo IEL-Unicamp, realizou pós-doutoramento pela Faculdade de Letras da UFRJ. Atuou como professor associado na Universitatea Alexandru Ioan Cuza, em Iași, e como tradutor residente no Institutul Cultural Român, em Bucareste. É pesquisador associado dos grupos de pesquisa Outrarte (Unicamp) e Tradução e Psicanálise (UnB), coordenador da série “pequena biblioteca invulgar” na Editora Blucher, e um dos editores da <em>Lacuna: uma revista de psicanálise</em>. Autor de <em>O fluxo e a cesura: um ensaio em linguística, poética e psicanálise</em> (Blucher, 2023), assina traduções de diversos idiomas ao português brasileiro, sobretudo no campo psicanalítico.</p>
+<hr />
+<hr />
+<p style="text-align: justify"><a href="#_ftnref3" name="_ftn3"><sup>[1]</sup></a><sup>  </sup>CRESTA, Michel (1986) “Sobre los fragmentos de un lenguaje más amplio : para una introducción a ‘La tarea del traductor’ de Walter Benjamin”, Littoral: textos de psicoanálisis, vol. 1. Córdoba: La Torre Abolida, p. 99.</p>
+<p style="text-align: justify"><a href="#_ftnref4" name="_ftn4"><sup>[2]</sup></a> Cf. RABASA, Gregory, “No two snowflakes are alike: translation as metaphor”. In: BIGUENET, John; SCHULTE, Rainer (1989) The craft of translation. Chicago: The University of Chicago Press, p. 6.</p>
+<p style="text-align: justify"><a href="#_ftnref5" name="_ftn5"><sup>[3]</sup></a><sup>  </sup>Citado por Michel Cresta no artigo mencionado.</p>
+<p style="text-align: justify"><a href="#_ftnref6" name="_ftn6"><sup>[4]</sup></a> LAPLANCHE, Jean; PONTALIS, Jean-Baptisle (1967) Vocabulário da psicanálise. Trad. P. Tamen. São Paulo: Martins Fontes, 1991, p. 169; trad. modificada.</p>
+<p style="text-align: justify"><a href="#_ftnref7" name="_ftn7"><sup>[5]</sup></a> ROUDINESCO, Elisabeth (1982) Histoire de la psychanalyse en France, vol 1: La bataille de cent ans 1885-1939. Paris: Seuil, pp. 376-395.</p>
+<p style="text-align: justify"><a href="#_ftnref8" name="_ftn8"><sup>[6]</sup></a> LE GAUFEY, Guy (1984) “A propósito de la realidad de la fantasía”, Stylus, n. 3. Cali, Colômbia, 1991, p. 17 [Original francês disponível em: &lt;<span style="color: #ff6600"><a style="color: #ff6600" href="https://legaufey.fr/seminaires/">https://legaufey.fr/seminaires/</a></span>&gt;  (N. do T.)]</p>
+<p style="text-align: justify"><a href="#_ftnref9" name="_ftn9"><sup>[7]</sup></a> Cumpre notar, além disso, que o termo <em>fantasme</em> comparece na literatura erótico-pornográfica, nos mais variados níveis de formalidade, dentro do sintagma <em>fantasme sexuel </em>[fantasia sexual] — ou, quando fora dele, ecoando-o ainda assim. A bibliografia é vasta:</p>
+<p><span class="aligncenter"><img data-attachment-id="6032" data-permalink="https://revistalacuna.com/2024/08/12/n-16-01/dis-moi-ton-fantasme316-x-500-1/" data-orig-file="https://revistalacuna.com/wp-content/uploads/2024/07/dis-moi-ton-fantasme316-c397-500-1.png" data-orig-size="2000,1600" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Dis-moi ton fantasme316 × 500 (1)" data-image-description="" data-image-caption="" data-medium-file="https://revistalacuna.com/wp-content/uploads/2024/07/dis-moi-ton-fantasme316-c397-500-1.png?w=300" data-large-file="https://revistalacuna.com/wp-content/uploads/2024/07/dis-moi-ton-fantasme316-c397-500-1.png?w=940" class="aligncenter size-full wp-image-6032" src="https://revistalacuna.com/wp-content/uploads/2024/07/dis-moi-ton-fantasme316-c397-500-1.png" alt="" width="940" height="752" srcset="https://revistalacuna.com/wp-content/uploads/2024/07/dis-moi-ton-fantasme316-c397-500-1.png?w=940&amp;h=752 940w, https://revistalacuna.com/wp-content/uploads/2024/07/dis-moi-ton-fantasme316-c397-500-1.png?w=1880&amp;h=1504 1880w, https://revistalacuna.com/wp-content/uploads/2024/07/dis-moi-ton-fantasme316-c397-500-1.png?w=150&amp;h=120 150w, https://revistalacuna.com/wp-content/uploads/2024/07/dis-moi-ton-fantasme316-c397-500-1.png?w=300&amp;h=240 300w, https://revistalacuna.com/wp-content/uploads/2024/07/dis-moi-ton-fantasme316-c397-500-1.png?w=768&amp;h=614 768w, https://revistalacuna.com/wp-content/uploads/2024/07/dis-moi-ton-fantasme316-c397-500-1.png?w=1024&amp;h=819 1024w, https://revistalacuna.com/wp-content/uploads/2024/07/dis-moi-ton-fantasme316-c397-500-1.png?w=1440&amp;h=1152 1440w" sizes="(max-width: 940px) 100vw, 940px" /></span></p>
+<p style="text-align: justify">(N. do T.)</p>
+<p style="text-align: justify"><a href="#_ftnref10" name="_ftn10"><sup>[8]</sup></a> Em contexto militar, palavras que se comunicam a guardas e sentinelas para reconhecimento de quem se aproxima. (N. de T.)</p>
+<p style="text-align: justify"><a href="#_ftnref11" name="_ftn11"><sup>[9]</sup></a> DE LA CRUZ, Ramón (1770) <em>Saynete intitulado La fantasma del lugar</em>. Madrid: Librería de Quiroga, 1791. Disponível em: &lt;<span style="color: #ff6600"><a style="color: #ff6600" href="https://archive.org/details/sayneteintitulad02cruz">https://archive.org/details/sayneteintitulad02cruz</a></span>&gt;.</p>
+<p style="text-align: justify"><a href="#_ftnref12" name="_ftn12"><sup>[10]</sup></a> FREUD, Sigmund (1919) <em>Uma criança apanha</em>. Trad. P. S. de Souza Jr. São Paulo: Blucher, no prelo.</p>
+<p style="text-align: justify"><a href="#_ftnref13" name="_ftn13"><sup>[11]</sup></a> Deve-se a criação do termo “telepatia” a Frederic Myers (1843-1901), ensaísta e poeta britânico que dedicou parte da vida às investigações realizadas na Sociedade de Pesquisas Psíquicas, a qual ele ajudou a fundar no Reino Unido em 1882. Professor em Cambridge até 1865, interessaram-lhe o psiquismo humano e as atividades paranormais, sendo responsável por livros como <em>Human Personality and its Survival of Bodily Death </em>[<em>A personalidade humana e sua sobrevivência à morte corporal</em>], publicado postumamente em 1903 e editado no Brasil como <em>A personalidade humana </em>(trad. S. O. Freitas, São Paulo: Edigraf, 1971); e o primeiro estudo intensivo sobre aparições, intitulado <em>Phantasms of the Living </em>[<em>Os fantasmas dos vivos</em>] (London: Trübner and Co., 1886). Nos anos 1900, o próprio Freud já se interessava pela possibilidade da transferência de pensamentos, o que se pode constatar na correspondência com Sándor Ferenczi (1873-1933) a respeito desse tópico e de outros relacionados ao ocultismo; e também no fato de que, em 1911, o próprio Freud se torna membro honorário da referida sociedade fundada por Myers. Cf. FREUD, Sigmund (1919) <em>O incômodo</em>. Trad. P. S. de Souza Jr.. São Paulo: Blucher, 2021, pp. 78-79.</p>
+<p style="text-align: justify"><a href="#_ftnref14" name="_ftn14"><sup>[12]</sup></a> <em>L’Enciclopedia Italiana di scienze, lettere ed arti</em>, vol. XIV. Roma: Istituto dell’Enciclopedia Italiana, 1949. [Disponível em: &lt;<span style="color: #ff6600"><a style="color: #ff6600" href="https://www.treccani.it/enciclopedia/fantasma_(Enciclopedia-Italiana)/">www.treccani.it/enciclopedia/fantasma_(Enciclopedia-Italiana)</a></span>&gt; (N. do T.)]</p>
+<p style="text-align: justify"><a href="#_ftnref15" name="_ftn15"><sup>[13]</sup></a> LACAN, Jacques ([1959-60]) <em>O seminário,</em> livro 7: “A ética da psicanálise”. Trad. A. Quinet. Rio de Janeiro: Zahar, 1988, sessão de 16 de dezembro de 1959.</p>
+<p style="text-align: justify"><a href="#_ftnref16" name="_ftn16"><sup>[14]</sup></a> FERRATER MORA, José (1981) Diccionario de filosofía, vol. 2, 3a ed.. Madrid: Alianza, p. 1127.</p>
+<p style="text-align: justify"><a href="#_ftnref17" name="_ftn17"><sup>[15]</sup></a> Cf. PIGEAUD, Jackie (1987) Folies et cures de la folie chez les médecins de l’Antiquité Gréco-Romaine. Paris: Les Belles Lettres, pp. 97-100. [Do grego, respectivamente: φαντασία, φανταστόν, φανταστικόν, φάντασμα (N. do T.)].</p>
+<p style="text-align: justify"><a href="#_ftnref18" name="_ftn18"><sup>[16]</sup></a> Cf. NAVARRO, Javier (1984) “La subversión lacaniana de la fenomenología”, <em>Stylus</em>, n. 3. Cali, Colômbia, pp. 55-61.</p>
+<p style="text-align: justify"><a href="#_ftnref19" name="_ftn19"><sup>[17]</sup></a> Um exemplo simpático da presença desse problema em Nova Granada (1793) pode ser encontrado no tratado <em>De la fuerza de la fantasía humana</em>, de Lodovico Muratori, traduzido por Francisco Martínez, decano da Santa Igreja Metropolitana de Santafé de Bogotá: “Tamanha é, no entanto, a força desses falsos fantasmas profundamente impressos no cérebro, que supera a força da Alma, isto é, da substância pensante, de modo que a própria Alma não só não pode corrigir nessas coisas a viciada fantasia, mas também não percebe o falso e o ridículo dessa sedutora imagem”. MURATORI, Lodovico (1745)<em> De la fuerza de la fantasía humana </em>[edição fac-similar]. Trad. F. Martínez. Bogotá: Biblioteca Médica Lepetit, 1973, p. 107.</p>
+<p style="text-align: justify"><a href="#_ftnref20" name="_ftn20"><sup>[18]</sup></a> LACAN, Jacques ([1959-60]) <em>O seminário,</em> livro 7: “A ética da psicanálise”. Trad. A. Quinet. Rio de Janeiro: Zahar, 1988, p. 79. A versão da Paidós é inutilizável, pois no primeiro parágrafo citado a leviandade da tradução suprime o verbo (“faz”), transformando tudo em puro galimatias. O partido tomado por “fantasma” em vez de “fantasia” impede que fantôme seja traduzido por <em>fantasma</em>, que é o que o dicionário francês-espanhol <em>Larousse</em> propõe como primeira opção — seguida por “quimera”, “ilusão” e “espectro” — para traduzir <em>fantôme</em>.</p>
+<p style="text-align: justify"><a href="#_ftnref21" name="_ftn21"><sup>[19]</sup></a> Cf. FREUD, Sigmund “Projeto de uma psicologia”. In: GABBI, Jr., Osmyr Faria (2003) <em>Notas a Projeto de uma psicologia</em>. Rio de Janeiro: Imago. (N. do T.)</p>
+<p style="text-align: justify"><a href="#_ftnref22" name="_ftn22"><sup>[20]</sup></a> Do alemão, “dicionário”. (N. do T.)</p>
+<p style="text-align: justify"><a href="#_ftnref23" name="_ftn23"><sup>[21]</sup></a> Cf. MACKENSEN, Lutz.<em> Deutsches Wörterbuch.</em> Laupheim (Wttbg.): Pfahl Verlag, p. 581: “<em>Phantasma: Trugbild, Hirngespinst, Phantasmagorie, Wahnbild, Geistererscheinung auf der Bühne</em> (“Fantasma”: miragem, quimera, fantasmagoria, ilusão, aparição fantasmagórica no palco).</p>
+<p style="text-align: justify"><a href="#_ftnref24" name="_ftn24"><sup>[22]</sup></a> “Durante toda a evolução da doença, os dois estados de consciência coexistiram: o primário, em que a paciente era de todo normal psiquicamente, e o “segundo” estado, que bem podemos comparar ao sonho, em função de sua riqueza em fantasmas [<em>Phantasme</em>] e alucinações”. BREUER, Josef, “Srta. Anna O.”. In: FREUD, Sigmund (1893-95) <em>Obras completas</em>, vol. 2: “Estudos sobre a histeria”. Trad. L. Barreto. São Paulo: Companhia das Letras, 2016, pp. 72-73; trad. modificada.</p>
+<p style="text-align: justify"><a href="#_ftnref25" name="_ftn25"><sup>[23]</sup></a> Cf. BRENTANO, Frantz (1874) “Psicología (Psicología desde el punto de vista empírico)” [Trad. J. Gaos], Revista de Occidente, Madrid, 1926.</p>
+<p style="text-align: justify"><a href="#_ftnref26" name="_ftn26"><sup>[24]</sup></a> CARRETER, Fernando Lázaro. Diccionario de términos filológicos. Madrid: Credos, 1968, p. 130.</p>
+<p style="text-align: justify"><a href="#_ftnref27" name="_ftn27"><sup>[25]</sup></a> Nessa inverosimilhança incorre o tradutor do <em>Vocabulário</em> de Laplanche e Pontalis para o espanhol. O original francês indica que <em>fantasme</em> se traduz por <em>fantasía</em>, em espanhol, mas o Dr. Fernando Cervantes Gimeno, professor associado de Psicologia Médica na Faculdade de Medicina de Barcelona, prefere realizar a complicada manobra, que o próprio Freud nunca quis fazer, de oscilar entre “fantasma” e “fantasia”, na vã esperança de, por fim, ancorar o navio-fantasma nas profundezas do inconsciente, enquanto a fantasia pode ser deixada flutuando à deriva da imaginação totalmente livre. Isso o leva a traduzir, por exemplo, assim: “Parece, então, que a problemática freudiana do fantasma (<em>sic</em>) não apenas não permite efetuar uma distinção de natureza entre fantasma (<em>sic</em>) inconsciente e fantasia (<em>sic</em>) consciente, mas tende a apontar suas analogias, suas relações estreitas, os passos entre elas”. Somos obrigados a nos perguntar se o tradutor lê o que ele traduz.</p>
+<hr />
+<hr />
+<hr />
+<p style="text-align: justify"><strong>COMO CITAR ESTE ARTIGO<span style="color: #ff6600"> |</span></strong> SAMPSON, Anthony (2024) A fantasia não é um fantasma [Trad. Paulo Sérgio de Souza Jr.]. <em>Lacuna: uma revista de psicanálise</em>, São Paulo, n. -16, p. 1, 2024. Disponível em: &lt;<span style="color: #ff6600"><a href="https://revistalacuna.com/2024/08/01/n-16-01/">https://revistalacuna.com/2024/08/01/n-16-01/</a></span>&gt;.</p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Compartilhar</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-twitter-5937"
+				class="share-twitter sd-button share-icon"
+				href="https://revistalacuna.com/2024/08/12/n-16-01/?share=twitter"
+				target="_blank"
+				aria-labelledby="sharing-twitter-5937"
+				>
+				<span id="sharing-twitter-5937" hidden>Clique para compartilhar no X(abre em nova janela)</span>
+				<span>18+</span>
+			</a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-facebook-5937"
+				class="share-facebook sd-button share-icon"
+				href="https://revistalacuna.com/2024/08/12/n-16-01/?share=facebook"
+				target="_blank"
+				aria-labelledby="sharing-facebook-5937"
+				>
+				<span id="sharing-facebook-5937" hidden>Clique para compartilhar no Facebook(abre em nova janela)</span>
+				<span>Facebook</span>
+			</a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-94402315-5937-694c2eb21b518' data-src='//widgets.wp.com/likes/index.html?ver=20251224#blog_id=94402315&amp;post_id=5937&amp;origin=lacunarevista.wordpress.com&amp;obj_id=94402315-5937-694c2eb21b518&amp;domain=revistalacuna.com' data-name='like-post-frame-94402315-5937-694c2eb21b518' data-title='Curtir ou reblogar'><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Curtir</span></span> <span class='loading'>Carregando...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Relacionado</em></h3>
+</div></div>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		Publicado em <a href="https://revistalacuna.com/category/16/" rel="category tag">-16</a>, <a href="https://revistalacuna.com/category/traducao/" rel="category tag">Tradução</a> e etiquetado como <a href="https://revistalacuna.com/tag/fantasia/" rel="tag">fantasia</a>, <a href="https://revistalacuna.com/tag/fantasma/" rel="tag">fantasma</a>, <a href="https://revistalacuna.com/tag/lacan/" rel="tag">Lacan</a>, <a href="https://revistalacuna.com/tag/traducao/" rel="tag">Tradução</a>. Favorite o <a href="https://revistalacuna.com/2024/08/12/n-16-01/" rel="bookmark">permalink</a>	</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+</div><!-- .container -->
+
+</div><!-- #content -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	<div class="container">
+		<div class="grid">
+			<div class="grid__item  site-info">
+				<a href="https://wordpress.com/?ref=footer_blog" rel="nofollow">Blog no WordPress.com.</a>
+				
+				 			</div><!-- .site-info -->
+
+			<div class="grid__item  footer-navigation">
+				<nav><h5 class="screen-reader-text">Navegação no rodapé</h5><ul id="menu-menu-de-baixo" class="nav  nav--footer"><li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="https://revistalacuna.com/sobre-nos/">Sobre nós</a></li>
+<li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-597"><a href="https://revistalacuna.com/expediente/">Corpo editorial</a></li>
+<li id="menu-item-592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-592"><a href="https://revistalacuna.com/edicoes/">Edições anteriores</a></li>
+<li id="menu-item-596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-596"><a href="https://revistalacuna.com/?page_id=18">Normas para publicação (oculta)</a></li>
+</ul></nav>			</div>
+		</div>
+	</div><!-- .site-footer .container -->
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+	<div class="toolbar">
+		<div class="toolbar__head">
+			<nav id="social-navigation" class="toolbar-navigation" role="navigation">
+				<h5 class="screen-reader-text">Navegação Secundária</h5>
+				<ul id="menu-menu-social-lateral" class="nav  nav--social  nav--toolbar"><li id="menu-item-599" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-599"><a href="http://www.facebook.com/revistalacuna">Facebook</a></li>
+<li id="menu-item-3609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3609"><a href="https://www.instagram.com/revistalacuna/">Instagram</a></li>
+</ul>					<ul class="nav  nav--toolbar">
+						<li class="nav__item--search"><a href="#">Pesquisa</a></li>
+					</ul>
+							</nav>
+			<!-- #social-navigation -->
+		</div>
+		<div class="toolbar__body">
+						<nav class="navigation post-navigation" role="navigation">
+				<h1 class="screen-reader-text">Navegação de Posts</h1>
+
+				<div class="nav-links">
+					<div class="nav-home"><a href="https://revistalacuna.com"><i class="fa fa-th-large"></i></a></div><div class="nav-previous"><a href="https://revistalacuna.com/2024/08/12/n-16-02/" rel="prev"><i class="fa fa-long-arrow-left prev-arrow"></i><span>Relações não-monogâmicas como tentativa de&nbsp;cura</span></a></div><div class="nav-next"><a href="https://revistalacuna.com/2024/08/12/n-16-0/" rel="next"><span>Editorial</span><i class="fa fa-long-arrow-right next-arrow"></i></a></div>				</div>
+				<!-- .nav-links -->
+			</nav><!-- .navigation -->
+				</div>
+	</div>
+	<div class="overlay--search">
+		<div class="overlay__wrapper">
+			<form role="search" method="get" class="search-form" action="https://revistalacuna.com/">
+				<label>
+					<span class="screen-reader-text">Pesquisar por:</span>
+					<input type="search" class="search-field" placeholder="Pesquisar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Pesquisar" />
+			</form>			<p>Digite sua pesquisa acima e pressione Enter para pesquisar. Pressione Esc para cancelar.</p>
+		</div>
+		<b class="overlay__close"></b>
+	</div>
+<!--  -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/files/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/premium/hive/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+	<div style="display:none">
+	</div>
+		<div id="actionbar" dir="ltr" style="display: none;"
+			class="actnbr-premium-hive actnbr-has-follow actnbr-has-actions">
+		<ul>
+								<li class="actnbr-btn actnbr-hidden">
+						<a class="actnbr-action actnbr-actn-reblog" href="">
+							<svg class="gridicon gridicons-reblog" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M22.086 9.914L20 7.828V18c0 1.105-.895 2-2 2h-7v-2h7V7.828l-2.086 2.086L14.5 8.5 19 4l4.5 4.5-1.414 1.414zM6 16.172V6h7V4H6c-1.105 0-2 .895-2 2v10.172l-2.086-2.086L.5 15.5 5 20l4.5-4.5-1.414-1.414L6 16.172z"/></g></svg><span>Reblogar</span>
+						</a>
+					</li>
+									<li class="actnbr-btn actnbr-hidden">
+								<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path clip-rule="evenodd" d="m4 4.5h12v6.5h1.5v-6.5-1.5h-1.5-12-1.5v1.5 10.5c0 1.1046.89543 2 2 2h7v-1.5h-7c-.27614 0-.5-.2239-.5-.5zm10.5 2h-9v1.5h9zm-5 3h-4v1.5h4zm3.5 1.5h-1v1h1zm-1-1.5h-1.5v1.5 1 1.5h1.5 1 1.5v-1.5-1-1.5h-1.5zm-2.5 2.5h-4v1.5h4zm6.5 1.25h1.5v2.25h2.25v1.5h-2.25v2.25h-1.5v-2.25h-2.25v-1.5h2.25z"  fill-rule="evenodd"></path></svg>
+			<span>Assinar</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill-rule="evenodd" clip-rule="evenodd" d="M16 4.5H4V15C4 15.2761 4.22386 15.5 4.5 15.5H11.5V17H4.5C3.39543 17 2.5 16.1046 2.5 15V4.5V3H4H16H17.5V4.5V12.5H16V4.5ZM5.5 6.5H14.5V8H5.5V6.5ZM5.5 9.5H9.5V11H5.5V9.5ZM12 11H13V12H12V11ZM10.5 9.5H12H13H14.5V11V12V13.5H13H12H10.5V12V11V9.5ZM5.5 12H9.5V13.5H5.5V12Z" fill="#008A20"></path><path class="following-icon-tick" d="M13.5 16L15.5 18L19 14.5" stroke="#008A20" stroke-width="1.5"></path></svg>
+			<span>Assinado</span>
+		</a>
+							<div class="actnbr-popover tip tip-top-left actnbr-notice" id="follow-bubble">
+							<div class="tip-arrow"></div>
+							<div class="tip-inner actnbr-follow-bubble">
+															<ul>
+											<li class="actnbr-sitename">
+			<a href="https://revistalacuna.com">
+				<img loading='lazy' alt='' src='https://revistalacuna.com/wp-content/uploads/2018/06/cropped-logo_menos_cinco_gde.jpg?w=50' srcset='https://revistalacuna.com/wp-content/uploads/2018/06/cropped-logo_menos_cinco_gde.jpg?w=50 1x, https://revistalacuna.com/wp-content/uploads/2018/06/cropped-logo_menos_cinco_gde.jpg?w=75 1.5x, https://revistalacuna.com/wp-content/uploads/2018/06/cropped-logo_menos_cinco_gde.jpg?w=100 2x, https://revistalacuna.com/wp-content/uploads/2018/06/cropped-logo_menos_cinco_gde.jpg?w=150 3x, https://revistalacuna.com/wp-content/uploads/2018/06/cropped-logo_menos_cinco_gde.jpg?w=200 4x' class='avatar avatar-50' height='50' width='50' />				Lacuna			</a>
+		</li>
+										<div class="actnbr-message no-display"></div>
+									<form method="post" action="https://subscribe.wordpress.com" accept-charset="utf-8" style="display: none;">
+																						<div class="actnbr-follow-count">Junte-se a 491 outros assinantes</div>
+																					<div>
+										<input type="email" name="email" placeholder="Insira seu endereço de email" class="actnbr-email-field" aria-label="Insira seu endereço de email" />
+										</div>
+										<input type="hidden" name="action" value="subscribe" />
+										<input type="hidden" name="blog_id" value="94402315" />
+										<input type="hidden" name="source" value="https://revistalacuna.com/2024/08/12/n-16-01/" />
+										<input type="hidden" name="sub-type" value="actionbar-follow" />
+										<input type="hidden" id="_wpnonce" name="_wpnonce" value="18eae0a2cb" />										<div class="actnbr-button-wrap">
+											<button type="submit" value="Cadastre-me">
+												Cadastre-me											</button>
+										</div>
+									</form>
+									<li class="actnbr-login-nudge">
+										<div>
+											Já tem uma conta do WordPress.com? <a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Frevistalacuna.com%252F2024%252F08%252F12%252Fn-16-01%252F">Faça login agora.</a>										</div>
+									</li>
+								</ul>
+															</div>
+						</div>
+					</li>
+									<li class="actnbr-btn actnbr-hidden no-display" onclick="javascript:__tcfapi( 'showUi' );">
+						<a class="actnbr-action actnbr-actn-privacy" href="#">
+							<svg class="gridicon gridicons-info-outline" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M13 9h-2V7h2v2zm0 2h-2v6h2v-6zm-1-7c-4.41 0-8 3.59-8 8s3.59 8 8 8 8-3.59 8-8-3.59-8-8-8m0-2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2z"/></g></svg>							<span>Privacidade						</span>
+						</a>
+					</li>
+							<li class="actnbr-ellipsis actnbr-hidden">
+				<svg class="gridicon gridicons-ellipsis" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M7 12c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zm12-2c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm-7 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2z"/></g></svg>				<div class="actnbr-popover tip tip-top-left actnbr-more">
+					<div class="tip-arrow"></div>
+					<div class="tip-inner">
+						<ul>
+								<li class="actnbr-sitename">
+			<a href="https://revistalacuna.com">
+				<img loading='lazy' alt='' src='https://revistalacuna.com/wp-content/uploads/2018/06/cropped-logo_menos_cinco_gde.jpg?w=50' srcset='https://revistalacuna.com/wp-content/uploads/2018/06/cropped-logo_menos_cinco_gde.jpg?w=50 1x, https://revistalacuna.com/wp-content/uploads/2018/06/cropped-logo_menos_cinco_gde.jpg?w=75 1.5x, https://revistalacuna.com/wp-content/uploads/2018/06/cropped-logo_menos_cinco_gde.jpg?w=100 2x, https://revistalacuna.com/wp-content/uploads/2018/06/cropped-logo_menos_cinco_gde.jpg?w=150 3x, https://revistalacuna.com/wp-content/uploads/2018/06/cropped-logo_menos_cinco_gde.jpg?w=200 4x' class='avatar avatar-50' height='50' width='50' />				Lacuna			</a>
+		</li>
+								<li class="actnbr-folded-follow">
+										<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path clip-rule="evenodd" d="m4 4.5h12v6.5h1.5v-6.5-1.5h-1.5-12-1.5v1.5 10.5c0 1.1046.89543 2 2 2h7v-1.5h-7c-.27614 0-.5-.2239-.5-.5zm10.5 2h-9v1.5h9zm-5 3h-4v1.5h4zm3.5 1.5h-1v1h1zm-1-1.5h-1.5v1.5 1 1.5h1.5 1 1.5v-1.5-1-1.5h-1.5zm-2.5 2.5h-4v1.5h4zm6.5 1.25h1.5v2.25h2.25v1.5h-2.25v2.25h-1.5v-2.25h-2.25v-1.5h2.25z"  fill-rule="evenodd"></path></svg>
+			<span>Assinar</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill-rule="evenodd" clip-rule="evenodd" d="M16 4.5H4V15C4 15.2761 4.22386 15.5 4.5 15.5H11.5V17H4.5C3.39543 17 2.5 16.1046 2.5 15V4.5V3H4H16H17.5V4.5V12.5H16V4.5ZM5.5 6.5H14.5V8H5.5V6.5ZM5.5 9.5H9.5V11H5.5V9.5ZM12 11H13V12H12V11ZM10.5 9.5H12H13H14.5V11V12V13.5H13H12H10.5V12V11V9.5ZM5.5 12H9.5V13.5H5.5V12Z" fill="#008A20"></path><path class="following-icon-tick" d="M13.5 16L15.5 18L19 14.5" stroke="#008A20" stroke-width="1.5"></path></svg>
+			<span>Assinado</span>
+		</a>
+								</li>
+														<li class="actnbr-signup"><a href="https://wordpress.com/start/">Registre-se</a></li>
+							<li class="actnbr-login"><a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Frevistalacuna.com%252F2024%252F08%252F12%252Fn-16-01%252F">Fazer login</a></li>
+																<li class="actnbr-shortlink">
+										<a href="https://wp.me/p6o6lZ-1xL">
+											<span class="actnbr-shortlink__text">Copiar link curto</span>
+											<span class="actnbr-shortlink__icon"><svg class="gridicon gridicons-checkmark" height="16" width="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M9 19.414l-6.707-6.707 1.414-1.414L9 16.586 20.293 5.293l1.414 1.414"/></g></svg></span>
+										</a>
+									</li>
+																<li class="flb-report">
+									<a href="https://wordpress.com/abuse/?report_url=https://revistalacuna.com/2024/08/12/n-16-01/" target="_blank" rel="noopener noreferrer">
+										Denunciar este conteúdo									</a>
+								</li>
+															<li class="actnbr-reader">
+									<a href="https://wordpress.com/reader/blogs/94402315/posts/5937">
+										Ver post no Leitor									</a>
+								</li>
+															<li class="actnbr-subs">
+									<a href="https://subscribe.wordpress.com/">Gerenciar assinaturas</a>
+								</li>
+																<li class="actnbr-fold"><a href="">Esconder esta barra</a></li>
+														</ul>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	
+<script>
+window.addEventListener( "DOMContentLoaded", function( event ) {
+	var link = document.createElement( "link" );
+	link.href = "/wp-content/mu-plugins/actionbar/actionbar.css?v=20250116";
+	link.type = "text/css";
+	link.rel = "stylesheet";
+	document.head.appendChild( link );
+
+	var script = document.createElement( "script" );
+	script.src = "/wp-content/mu-plugins/actionbar/actionbar.js?v=20250204";
+	document.body.appendChild( script );
+} );
+</script>
+
+			<div id="jp-carousel-loading-overlay">
+			<div id="jp-carousel-loading-wrapper">
+				<span id="jp-carousel-library-loading">&nbsp;</span>
+			</div>
+		</div>
+		<div class="jp-carousel-overlay" style="display: none;">
+
+		<div class="jp-carousel-container">
+			<!-- The Carousel Swiper -->
+			<div
+				class="jp-carousel-wrap swiper jp-carousel-swiper-container jp-carousel-transitions"
+				itemscope
+				itemtype="https://schema.org/ImageGallery">
+				<div class="jp-carousel swiper-wrapper"></div>
+				<div class="jp-swiper-button-prev swiper-button-prev">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
+							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskPrev)">
+							<rect x="0.579102" width="23.8823" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+				<div class="jp-swiper-button-next swiper-button-next">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
+							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskNext)">
+							<rect x="0.34375" width="23.8822" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<!-- The main close buton -->
+			<div class="jp-carousel-close-hint">
+				<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<mask id="maskClose" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="14">
+						<path d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill="white"/>
+					</mask>
+					<g mask="url(#maskClose)">
+						<rect x="0.409668" width="23.8823" height="24" fill="#FFFFFF"/>
+					</g>
+				</svg>
+			</div>
+			<!-- Image info, comments and meta -->
+			<div class="jp-carousel-info">
+				<div class="jp-carousel-info-footer">
+					<div class="jp-carousel-pagination-container">
+						<div class="jp-swiper-pagination swiper-pagination"></div>
+						<div class="jp-carousel-pagination"></div>
+					</div>
+					<div class="jp-carousel-photo-title-container">
+						<h2 class="jp-carousel-photo-caption"></h2>
+					</div>
+					<div class="jp-carousel-photo-icons-container">
+						<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Alternar visibilidade de metadados de imagem">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskInfo" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskInfo)">
+										<rect x="0.8125" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+							</span>
+						</a>
+												<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-comments" aria-label="Alternar visibilidade de comentários em imagem">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskComments" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M4.3271 2H20.2486C21.3432 2 22.2388 2.9 22.2388 4V16C22.2388 17.1 21.3432 18 20.2486 18H6.31729L2.33691 22V4C2.33691 2.9 3.2325 2 4.3271 2ZM6.31729 16H20.2486V4H4.3271V18L6.31729 16Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskComments)">
+										<rect x="0.34668" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+
+								<span class="jp-carousel-has-comments-indicator" aria-label="Esta imagem contém comentários."></span>
+							</span>
+						</a>
+											</div>
+				</div>
+				<div class="jp-carousel-info-extra">
+					<div class="jp-carousel-info-content-wrapper">
+						<div class="jp-carousel-photo-title-container">
+							<h2 class="jp-carousel-photo-title"></h2>
+						</div>
+						<div class="jp-carousel-comments-wrapper">
+															<div id="jp-carousel-comments-loading">
+									<span>Carregando comentários...</span>
+								</div>
+								<div class="jp-carousel-comments"></div>
+								<div id="jp-carousel-comment-form-container">
+									<span id="jp-carousel-comment-form-spinner">&nbsp;</span>
+									<div id="jp-carousel-comment-post-results"></div>
+																														<form id="jp-carousel-comment-form">
+												<label for="jp-carousel-comment-form-comment-field" class="screen-reader-text">Escreva um Comentário</label>
+												<textarea
+													name="comment"
+													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+													id="jp-carousel-comment-form-comment-field"
+													placeholder="Escreva um Comentário"
+												></textarea>
+												<div id="jp-carousel-comment-form-submit-and-info-wrapper">
+													<div id="jp-carousel-comment-form-commenting-as">
+																													<fieldset>
+																<label for="jp-carousel-comment-form-email-field">E-mail (obrigatório)</label>
+																<input type="text" name="email" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-email-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-author-field">Nome (obrigatório)</label>
+																<input type="text" name="author" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-author-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-url-field">Site</label>
+																<input type="text" name="url" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-url-field" />
+															</fieldset>
+																											</div>
+													<input
+														type="submit"
+														name="submit"
+														class="jp-carousel-comment-form-button"
+														id="jp-carousel-comment-form-button-submit"
+														value="Publicar comentário" />
+												</div>
+											</form>
+																											</div>
+													</div>
+						<div class="jp-carousel-image-meta">
+							<div class="jp-carousel-title-and-caption">
+								<div class="jp-carousel-photo-info">
+									<h3 class="jp-carousel-caption" itemprop="caption description"></h3>
+								</div>
+
+								<div class="jp-carousel-photo-description"></div>
+							</div>
+							<ul class="jp-carousel-image-exif" style="display: none;"></ul>
+							<a class="jp-carousel-image-download" href="#" target="_blank" style="display: none;">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="19" height="18">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill="white"/>
+									</mask>
+									<g mask="url(#mask0)">
+										<rect x="0.870605" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+								<span class="jp-carousel-download-text"></span>
+							</a>
+							<div class="jp-carousel-image-map" style="display: none;"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		</div>
+		
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https://revistalacuna.com/2024/08/12/n-16-01/":5937};
+	</script>
+					<script>
+      /(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	
+	<script type="text/javascript">
+		(function () {
+			var wpcom_reblog = {
+				source: 'toolbar',
+
+				toggle_reblog_box_flair: function (obj_id, post_id) {
+
+					// Go to site selector. This will redirect to their blog if they only have one.
+					const postEndpoint = `https://wordpress.com/post`;
+
+					// Ideally we would use the permalink here, but fortunately this will be replaced with the 
+					// post permalink in the editor.
+					const originalURL = `${ document.location.href }?page_id=${ post_id }`; 
+					
+					const url =
+						postEndpoint +
+						'?url=' +
+						encodeURIComponent( originalURL ) +
+						'&is_post_share=true' +
+						'&v=5';
+
+					const redirect = function () {
+						if (
+							! window.open( url, '_blank' )
+						) {
+							location.href = url;
+						}
+					};
+
+					if ( /Firefox/.test( navigator.userAgent ) ) {
+						setTimeout( redirect, 0 );
+					} else {
+						redirect();
+					}
+				},
+			};
+
+			window.wpcom_reblog = wpcom_reblog;
+		})();
+	</script>
+<script type="text/javascript" id="comment-like-js-extra">
+/* <![CDATA[ */
+var comment_like_text = {"loading":"Carregando...","swipeUrl":"https://s2.wp.com/wp-content/mu-plugins/comment-likes/js/lib/swipe.js?m=1382645497i&amp;ver=20131008"};
+//# sourceURL=comment-like-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" id="jetpack-carousel-js-extra">
+/* <![CDATA[ */
+var jetpackSwiperLibraryPath = {"url":"/wp-content/mu-plugins/jetpack-plugin/moon/_inc/blocks/swiper.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"pt","ajaxurl":"https://revistalacuna.com/wp-admin/admin-ajax.php","nonce":"c2e8f1dfbc","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Coment\u00e1rio","post_comment":"Publicar coment\u00e1rio","write_comment":"Escreva um Coment\u00e1rio","loading_comments":"Carregando coment\u00e1rios...","image_label":"Abrir imagem em tela cheia.","download_original":"Visualizar tamanho original \u003Cspan class=\"photo-size\"\u003E{0}\u003Cspan class=\"photo-size-times\"\u003E\u00d7\u003C/span\u003E{1}\u003C/span\u003E","no_comment_text":"Certifique-se de enviar algum texto com o seu coment\u00e1rio.","no_comment_email":"Informe um endere\u00e7o de e-mail para comentar.","no_comment_author":"Forne\u00e7a seu nome para comentar.","comment_post_error":"Desculpe, mas ocorreu um erro ao postar seu coment\u00e1rio. Tente novamente mais tarde.","comment_approved":"Seu coment\u00e1rio foi aprovado.","comment_unapproved":"Seu coment\u00e1rio est\u00e1 aguardando modera\u00e7\u00e3o.","camera":"C\u00e2mera","aperture":"Abertura","shutter_speed":"Velocidade do Obturador","focal_length":"Comprimento Focal","copyright":"Direito autoral","comment_registration":"0","require_name_email":"1","login_url":"https://lacunarevista.wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Frevistalacuna.com%2F2024%2F08%2F12%2Fn-16-01%2F","blog_id":"94402315","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"stats_query_args":"blog=94402315&v=wpcom&tz=-3&user_id=0&subd=lacunarevista","is_public":"1"};
+//# sourceURL=jetpack-carousel-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" id="sharing-js-js-extra">
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+//# sourceURL=sharing-js-js-extra
+/* ]]> */
+</script>
+<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJydkUluwzAMRS9Uh8iiSbMIuu4pClYiLCqipGpw4NtXSOzCSLxxduLnf+IE19ip4Av5AlK76GrPPoPjC2X4rVTJoNeO0s7mN1g3qyDSpO4O2QdhBtkrV/XdwII9ZRdQk94J+zWPYA4+jcv0XLsYkmaKiYSrgOGBAHOm8vz5JtK2gVtFEwZKXzdgGz+QC4rLuI0SfJ5wsV1LJaK6TDFICB6+26Lgp7LToDCFmsn9+2ZhbXHLo0227hrbuR7C19vJBhNp1Hq8Pdn3Ux+fct4fD/uP0+n4frB/Ziftwg=='></script>
+<script type="text/javascript" id="sharing-js-js-after">
+/* <![CDATA[ */
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-twitter' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-twitter' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+//# sourceURL=sharing-js-js-after
+/* ]]> */
+</script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/","ext":".png","svgUrl":"https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/","svgExt":".svg","source":{"concatemoji":"/wp-includes/js/wp-emoji-release.min.js?m=1764078722i&ver=6.9-RC2-61304"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+	<iframe src='https://widgets.wp.com/likes/master.html?ver=20251224#ver=20251224&#038;lang=pt-br' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars' role="dialog" aria-hidden="true" tabindex="-1"><div class="likes-text"><span>%d</span></div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+	<script src="//stats.wp.com/w.js?68" defer></script> <script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'94402315','blog_tz':'-3','user_lang':'pt-br','blog_lang':'pt-br','user_id':'0'}]);
+		// Prevent sending pageview tracking from WP-Admin pages.
+		_stq.push(['view', {'blog':'94402315','v':'wpcom','tz':'-3','user_id':'0','post':'5937','subd':'lacunarevista'}]);
+		_stq.push(['extra', {'crypt':'UE5tW3cvZGRxXWhIdk1BQzU4TUNKY0dHWzBxc2NCUFpbS35HMi93Z2NlZ1lnbCtFYWUvPzJtcFZwSS55dkt0Zy9aW3BCJjEwckxoSDNzOWw2RF1bWmJ+XzVHZ3MxL1locFZ5RzRmX0c/SlFORlZuZ2J5VzddMkpaV1E3X25zU1Jib29MMT91dWExfklPb3paSTRTaW9CQURoeVdwc2VKNmt4RTQ0NVFxdG13Yj1mQ1p6bU92TDM4SC58YVR1a3dOU2NoZFlifCVYQzkrd09rUjNiYzhXT0xZN2Z5VHZiZQ=='}]);
+_stq.push([ 'clickTrackerInit', '94402315', '5937' ]);
+</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
+<meta id="bilmur" property="bilmur:data" content="" data-provider="wordpress.com" data-service="simple" data-site-tz="Etc/GMT+3" data-custom-props="{&quot;enq_jquery&quot;:&quot;1&quot;,&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;premium\/hive&quot;,&quot;wptheme_is_block&quot;:&quot;0&quot;}"  >
+		<script defer src="/wp-content/js/bilmur.min.js?i=17&amp;m=202552"></script> 	
+</body>
+</html>

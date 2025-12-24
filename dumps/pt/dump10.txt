@@ -1,0 +1,763 @@
+   #alternate
+
+   Últimas notícias
+
+   Gostaria de receber as principais notícias
+   do Brasil e do mundo?
+     * (BUTTON) Não, obrigado
+     * (BUTTON) Sim, aceito
+
+   Últimas notícias
+
+   Gostaria de receber as principais notícias
+   do Brasil e do mundo?
+     * (BUTTON) Não, obrigado
+     * (BUTTON) Sim, aceito
+
+   Acesse seus artigos salvos em
+   Minha Folha, sua área personalizada
+
+   Acesse os artigos do assunto seguido na
+   Minha Folha, sua área personalizada
+
+   (BUTTON) Abrir sidebar menu Menu Assine
+   Folha de São Paulo - marca do jornal na navegação principal
+     * Ir para o conteúdo [1]
+     * Ir para o menu [2]
+     * Ir para o rodapé [3]
+
+   (BUTTON) (BUTTON)
+   Entrar
+   Entrar | Sair
+   (BUTTON)
+     *
+     * Minha Folha
+     * Newsletters
+     * Minha assinatura
+     * Forma de Pagamento
+     * Editar senha e conta
+     * Atendimento
+     * Sair
+
+   (button) Buscar
+
+     * ilustrada
+     * Guia Folha
+     * Ilustríssima
+     * artes plásticas
+     * filmes
+     * livros
+     * música
+     * teatro
+     * televisão
+
+     * quadrinhos
+     * coleções folha
+
+     * (BUTTON) dê um conteúdo
+       (BUTTON)
+       benefício do assinante
+       Você tem 7 acessos por dia para dar de presente. Qualquer pessoa
+       que não é assinante poderá ler.
+       benefício do assinante
+       Assinantes podem liberar 7 acessos por dia para conteúdos da Folha.
+       Já é assinante? Faça seu login ASSINE A FOLHA
+
+     (BUTTON)
+   (BUTTON)
+     * (BUTTON) Copiar link
+
+     (BUTTON) Salvar para ler depois
+   Salvar artigos (BUTTON)
+
+   Recurso exclusivo para assinantes
+
+   assine ou faça login
+
+
+
+   Busca
+
+   Buscar nos sites da Folha de S.Paulo ____________________ (BUTTON)
+
+   Oferta Especial: R$1,90 no 1º mês
+   Assine a Folha
+   Oferta Especial: R$1,90 no 1º mês
+   Assine a Folha
+
+   OFERTA ESPECIAL FOLHA
+   Conecte-se ao jornal mais influente do Brasil
+   Apenas R$ 1,90 no 1º mês
+   +6 meses de R$ 9,90/mês
+   ASSINE A FOLHA
+   OFERTA ESPECIAL FOLHA
+   Conecte-se ao jornal mais influente do Brasil
+   6x de R$ 1,90/mês
+   ÚLTIMOS DIAS! Oferta Mês do Consumidor.
+   ASSINE A FOLHA
+   Últimas notícias
+
+   Gostaria de receber as principais notícias
+   do Brasil e do mundo?
+     * (BUTTON) Não, obrigado
+     * (BUTTON) Sim, aceito
+
+   Assine
+   (BUTTON) Fechar sidebar menu
+     *
+          + Minha Folha
+          + Newsletters
+          + Minha assinatura
+          + Forma de Pagamento
+          + Editar senha e conta
+          + Atendimento
+          + Sair
+
+     * English edition
+     * Edición en español
+
+     * Edição Folha
+     * Últimas
+     * Textos da edição folha
+
+     * Casafolha
+     * Clube Gourmet
+     * Clube Folha
+          + Bem-estar
+          + Educação
+          + Gastronomia
+          + Lazer e Cultura
+          + Turismo
+     * Folha Jogos
+     * Séries Folha
+     * Todas
+
+     * opinião
+          + Editoriais
+          + Charges
+          + Tendências/Debates
+     * colunas
+     * mais populares
+          + Mais lidas
+          + Mais comentadas
+     * acervo folha
+     * fotografia
+
+     * política
+          + Lula
+          + eleições 2026
+          + painel
+          + Entrevista da 2ª
+     * brasília hoje
+     * economia
+          + imposto de renda
+          + investimentos
+          + previdência
+          + painel s.a.
+          + agrofolha
+          + mercado imobiliário
+          + folha ESG
+          + startups & fintechs
+          + mpme
+          + publicidade legal
+          + recall
+     * energia limpa
+     * tecnologia
+     * veículos
+     * cotidiano
+          + rio de janeiro
+          + loterias
+     * Educação
+          + Folha Estudantes
+          + Folha de redação
+          + Enem
+          + Ranking Universitário Folha
+          + escolha a escola
+     * mundo
+          + estados unidos
+          + guerra da ucrânia
+          + guerra israel-hamas
+          + china
+          + rússia
+          + israel
+          + coreia do norte
+          + venezuela
+          + onde se fala português
+     * ambiente
+          + cop30
+     * saúde
+          + Vita
+     * equilíbrio
+     * ciência
+     * ilustrada
+          + mônica bergamo
+          + quadrinhos
+          + painel das letras
+          + coleções folha
+     * ilustríssima
+     * esporte
+          + campeonato paulista
+          + futebol internacional
+          + campeonato brasileiro
+     * notícias por estado
+          + São Paulo
+          + Rio de Janeiro
+          + Minas Gerais
+          + mais estados
+     * podcasts
+     * F5
+          + outro canal
+          + Bichos
+          + celebridades
+          + horóscopo
+     * Folha Social+
+     * guia folha
+     * turismo
+     * folhinha
+     * folhateen
+     * comida
+          + CozinhAÍ
+     * deltafolha
+     * dias melhores
+     * Seminários Folha
+     * empreendedor social
+     * tv folha
+     * o melhor de sãopaulo
+     * parceiros
+          + Aeroin
+          + Agência Fapesp
+          + BBC News Brasil
+          + Caixin
+          + Deutsche Welle
+          + Financial Times
+          + Latinoamérica 21
+          + Mensagem de Lisboa
+          + Piauí
+          + Público
+          + Quatro Cinco Um
+          + Radio France Internationale
+          + The Conversation
+          + The New York Times
+     * banco de dados
+     * painel do leitor
+
+     * mais seções
+          + folha en español
+          + folha in english
+          + folhaleaks
+          + folha tópicos
+          + versão impressa
+          + Mapa do site
+     * classificados
+
+     * fale com a folha
+          + Canais para o leitor
+          + anuncie (publicidade folha)
+          + atendimento ao assinante
+          + erramos
+          + ombudsman
+          + painel do leitor
+
+     * Sobre a Folha
+          + sobre o grupo folha
+          + expediente
+          + política de privacidade
+          + projeto editorial
+          + treinamento
+          + trabalhe na folha
+
+Contraste
+
+   (*) Claro
+   ( ) Escuro
+
+Siga a folha
+
+     * Link externo, abre página da Folha de S.Paulo no X
+     * Link externo, abre página da Folha de S.Paulo no Linkedin
+     * Link externo, abre página da Folha de S.Paulo no Instagram
+     * Link externo, abre página RSS da Folha de S.Paulo
+
+   Descrição de chapéu Multitela
+
+Fantasia nórdica e minissérie de Cazuza: o que ver na TV e no streaming na
+segunda
+
+     * Outra dica é entrevista do David Letterman com Adam Sandler
+     * Programação tem filmes sobre prazeres ligados à comida
+
+     * (BUTTON) dê um conteúdo
+       (BUTTON)
+       benefício do assinante
+       Você tem 7 acessos por dia para dar de presente. Qualquer pessoa
+       que não é assinante poderá ler.
+       benefício do assinante
+       Assinantes podem liberar 7 acessos por dia para conteúdos da Folha.
+       Já é assinante? Faça seu login ASSINE A FOLHA
+
+     (BUTTON)
+   (BUTTON)
+     * (BUTTON) Copiar link
+
+     (BUTTON) Salvar para ler depois
+   Salvar artigos (BUTTON)
+
+   Recurso exclusivo para assinantes
+
+   assine ou faça login
+
+
+
+   30.nov.2025 às 20h03
+     * Edição Impressa
+
+     * Ouvir o texto
+     * (BUTTON) Diminuir fonte
+     * (BUTTON) Aumentar fonte
+
+   Jacqueline Cantore
+   São Paulo
+
+   A saga de fantasia nórdica continua em "O Troll da Montanha 2", quando
+   uma nova criatura ancestral desperta e provoca o caos na Noruega. Para
+   deter sua fúria, Nora, Andreas e o capitão Kris escalam novos aliados e
+   mergulham em lendas e na história do país em busca de respostas. Os
+   heróis enfrentam o impossível para salvar sua amada terra natal.
+
+   Onde ver: Netflix, 12 ano
+     __________________________________________________________________
+
+Cazuza Além da Música
+
+   A minissérie documental mergulha na jornada pessoal e profissional do
+   cantor e mostra como sua vulnerabilidade e coragem em assumir
+   publicamente a Aids se tornou um divisor de águas. Lucinha Araújo, mãe
+   de Cazuza, Frejat, Ney Matogrosso e Caetano Veloso participam da série.
+   São quatro episódios, e a direção é de Patrícia Guimarães.
+   Homem com camiseta branca e faixa na cabeça canta em microfone, com as
+   mãos abertas ao redor do rosto, em fundo escuro. Homem com camiseta
+   branca e faixa na cabeça canta em microfone, com as mãos abertas ao
+   redor do rosto, em fundo escuro.
+   Cantor e compositor Cazuza, durante show no Palace, em São Paulo (SP),
+   em 1988. - Masao Goto Filho/Folhapress
+
+   Onde ver: Globoplay, 14 anos
+     __________________________________________________________________
+
+O Próximo Convidado com David Letterman
+
+   David Letterman conduz a entrevista com Adam Sandler diante de uma
+   plateia de estudantes da Universidade de Nova York. O tom é intimista e
+   Sandler conta histórias sobre sua família, seus dias no "Saturday Night
+   Live" e como o ator está envelhecendo.
+
+   Onde ver: Netflix, 12 anos
+     __________________________________________________________________
+
+Comida no Cinema
+
+   Seis filmes exploram prazeres, obsessões e excessos ligados à comida.
+   São "Krisha" (16 anos), "Sexual Drive" (18 anos), "Flux Gourmet" (16
+   anos), "Trama Fantasma" (12 anos), "Soul Kitchen" (12 anos) e "A
+   Lancheira" (14 anos).
+
+   Onde ver: Mubi
+     __________________________________________________________________
+
+Roda Viva
+
+   O músico Xande de Pilares ocupa o centro da roda e conversa sobre seu
+   álbum recente, ‘Nos Braços do Povo - Volume 1’, o Grammy Latino que
+   ganhou no ano passado e a homenagem que vai receber da Unidos de
+   Jacarezinho no Carnaval, entre vários outros assuntos.
+
+   Onde ver: TV Cultura, 22h, Livre
+     * (BUTTON) dê um conteúdo
+       (BUTTON)
+       benefício do assinante
+       Você tem 7 acessos por dia para dar de presente. Qualquer pessoa
+       que não é assinante poderá ler.
+       benefício do assinante
+       Assinantes podem liberar 7 acessos por dia para conteúdos da Folha.
+       Já é assinante? Faça seu login ASSINE A FOLHA
+
+     (BUTTON)
+   (BUTTON)
+     * (BUTTON) Copiar link
+
+     (BUTTON) Salvar para ler depois
+   Salvar artigos (BUTTON)
+
+   Recurso exclusivo para assinantes
+
+   assine ou faça login
+
+
+
+Tópicos relacionados
+
+   Leia tudo sobre o tema e siga:
+     * Adam Sandler
+     * cinema
+     * Veja vídeos
+
+sua assinatura pode valer ainda mais
+
+   Você já conhece as vantagens de ser assinante da Folha? Além de ter
+   acesso a reportagens e colunas, você conta com newsletters exclusivas
+   (conheça aqui). Também pode baixar nosso aplicativo gratuito na Apple
+   Store ou na Google Play para receber alertas das principais notícias do
+   dia. A sua assinatura nos ajuda a fazer um jornalismo independente e de
+   qualidade. Obrigado!
+
+sua assinatura vale muito
+
+   Mais de 180 reportagens e análises publicadas a cada dia. Um time com
+   mais de 200 colunistas e blogueiros. Um jornalismo profissional que
+   fiscaliza o poder público, veicula notícias proveitosas e inspiradoras,
+   faz contraponto à intolerância das redes sociais e traça uma linha
+   clara entre verdade e mentira. Quanto custa ajudar a produzir esse
+   conteúdo?
+   ASSINE POR R$ 1,90 NO 1º MÊS
+     * Envie sua notícia
+     * Erramos?
+     * Ombudsman
+
+Endereço da página
+
+     * https://www1.folha.uol.com.br/ilustrada/2025/11/fantasia-nordica-e-
+       minisserie-de-cazuza-o-que-ver-na-tv-e-no-streaming-na-segunda.shtm
+       l
+
+Comentários
+
+   Os comentários não representam a opinião do jornal; a responsabilidade
+   é do autor da mensagem.
+
+   Termos e condições
+   Todos os comentários Comente
+   Comentar é exclusividade para assinantes.
+   Assine a Folha por R$ 1,90 no 1º mês
+
+notícias da folha no seu email
+
+   ____________________ (BUTTON)
+
+   Carregando...
+
+notícias da folha no seu email
+
+   ____________________ (BUTTON)
+
+   Carregando...
+
+Relacionadas
+
+     *
+
+Não quero provar nada, diz Deborah Secco, que volta a viver Bruna Surfistinha
+     *
+
+Sequência de terror e reality com sogra: o que ver na TV e no streaming no
+domingo
+     *
+
+Morre dramaturgo britânico Tom Stoppard, vencedor do Oscar, aos 88 anos
+
+Veja também
+
+     * (FILES) This photo taken on June 21, 2007, shows an employee
+       holding a 129,000 USD crocodile Hermes Birkin Bag during a private
+       opening for the new Hermes store on Wall Street in New York. At the
+       end of May 2013, French auction house 'ArtCurial' claimed (FILES)
+       This photo taken on June 21, 2007, shows an employee holding a
+       129,000 USD crocodile Hermes Birkin Bag during a private opening
+       for the new Hermes store on Wall Street in New York. At the end of
+       May 2013, French auction house 'ArtCurial' claimed
+
+luxo
+       (button) Compartilhar luxo: Leia as últimas notícias sobre o mundo
+       do luxo, suas marcas, atores e conflitos
+       (BUTTON) Ícone fechar
+
+Leia as últimas notícias sobre o mundo do luxo, suas marcas, atores e
+conflitos
+     *
+
+quadrinhos
+       (button) Compartilhar quadrinhos: Veja os últimos lançamentos em
+       HQs e graphic novels e saiba mais sobre seus autores
+       (BUTTON) Ícone fechar
+
+Veja os últimos lançamentos em HQs e graphic novels e saiba mais sobre seus
+autores
+
+   estúdio folha conteúdo patrocinado
+   (BUTTON) Anterior (BUTTON) Próximo
+   (BUTTON) parar
+
+Mais lidas em Ilustrada
+
+   Ver todas
+    1. Filmes Selton Mello vira garoto-propaganda de ʼAnacondaʼ após
+       ʼAinda Estou Aquiʼ
+    2. Mick Abrahams (1943-2025) Morre o guitarrista Mick Abrahams, da
+       formação original do Jethro Tull
+    3. Crítica Selton Mello se sai bem em ʼAnacondaʼ, filme que beira o
+       constrangedor
+    4. Filmes Washington Post diz que ʼO Agente Secretoʼ é ʼtalvez o filme
+       mais adorado do anoʼ
+    5. Filmes Veja o trailer de ʼVingadores: Doutor Destinoʼ, com Chris
+       Evans de volta à Marvel
+
+últimas notícias
+
+   Master: banqueiros e autoridades dizem que PF também sofreu pressão de
+   Moraes Master: banqueiros e autoridades dizem que PF também sofreu
+   pressão de Moraes
+
+STF
+
+   (button) Compartilhar
+   (BUTTON)
+
+     (BUTTON) Salvar para ler depois
+   Salvar artigos (BUTTON)
+
+   Recurso exclusivo para assinantes
+
+   assine ou faça login
+
+Master: banqueiros e autoridades dizem que PF também sofreu pressão de Moraes
+
+   Diretor-geral nega e diz que nunca conversou com o ministro do STF
+   sobre as investigações contra o banco
+   24.dez.2025 às 11h39
+   Datafolha: Polarização atinge 74% dos brasileiros, com petistas
+   superando bolsonaristas Datafolha: Polarização atinge 74% dos
+   brasileiros, com petistas superando bolsonaristas
+
+Datafolha
+
+   (button) Compartilhar
+   (BUTTON)
+
+     (BUTTON) Salvar para ler depois
+   Salvar artigos (BUTTON)
+
+   Recurso exclusivo para assinantes
+
+   assine ou faça login
+
+Datafolha: Polarização atinge 74% dos brasileiros, com petistas superando
+bolsonaristas
+
+   Levantamento aponta 40% mais alinhados a partido de Lula e 34%, a
+   Bolsonaro
+   24.dez.2025 às 13h00
+
+   Decreto de Lula fixa salário mínimo em R$ 1.621 em 2026; regra que
+   limita reajuste tira R$ 15 do piso Decreto de Lula fixa salário mínimo
+   em R$ 1.621 em 2026; regra que limita reajuste tira R$ 15 do piso
+
+inflação
+
+   (button) Compartilhar
+   (BUTTON)
+
+     (BUTTON) Salvar para ler depois
+   Salvar artigos (BUTTON)
+
+   Recurso exclusivo para assinantes
+
+   assine ou faça login
+
+Decreto de Lula fixa salário mínimo em R$ 1.621 em 2026; regra que limita
+reajuste tira R$ 15 do piso
+
+   Reajuste é de 6,79% e também será aplicado em aposentadorias e pensões
+   do INSS no valor do piso
+   24.dez.2025 às 12h19
+
+   Copyright Folha de S.Paulo. Todos os direitos reservados. É proibida a
+   reprodução do conteúdo desta página em qualquer meio de comunicação,
+   eletrônico ou impresso, sem autorização escrita da Folhapress.
+
+   (BUTTON) Modal 500
+   (BUTTON)
+
+   (BUTTON) OK
+
+   Folha de S.Paulo Assine Topo
+
+folha de s.paulo
+
+     * Sobre a Folha
+     * Política de Privacidade
+     * Expediente
+     * Acervo Folha
+     * Princípios Editoriais
+     * Manual de conduta
+     * Seminários Folha
+     * Clube Folha
+     * Clube Folha Gourmet
+     * Séries Folha
+     * Coleções Folha
+     * Trabalhe na Folha
+     * Treinamento
+     * Circulação Verificada
+
+Fale com a Folha
+
+     * Anuncie (Publicidade Folha)
+     * Atendimento ao Assinante
+     * Erramos
+     * Fale com a Folha
+     * Ombudsman
+     * Painel do Leitor
+
+editorias
+
+     * Política
+     * Economia
+     * Cotidiano
+     * Educação
+     * Mundo
+     * Esporte
+     * Ilustrada
+     * Ilustríssima
+     * Comida
+     * F5
+     * Podcasts
+     * Folhinha
+     * Folhateen
+     * Saúde
+     * Equilíbrio
+     * Ciência
+     * Ambiente
+     * Turismo
+     * Guia Folha
+     * Fotografia
+     * TV Folha
+     * Empreendedorismo
+
+opinião
+
+     * Opinião
+     * Colunas
+     * Quadrinhos
+     * Charges
+     * Cartunistas
+
+mais seções
+
+     * Brasília Hoje
+     * Todas
+     * Dias Melhores
+     * Folha Social+
+     * Seminários Folha
+     * Folha Jogos
+     * Folha en Español
+     * Folha In English
+     * Folhainvest
+     * Folhaleaks
+     * Folha Mapas
+     * Folha Tópicos
+     * Folha Transparência
+     * Últimas notícias
+     * Versão Impressa
+     * Mapa do site
+
+serviços
+
+     * Aeroportos
+     * Folha Informações
+     * Guia de Benefícios
+     * Horóscopo
+     * Loterias
+     * Mortes
+     * Tempo
+
+outros canais
+
+     * Datafolha
+     * Estúdio Folha
+     * Publicidade Legal
+     * Folhapress
+     * Folha Eventos
+     * Top of Mind
+
+CANAIS DA FOLHA
+
+     * Fale com a Redação
+     * Mapa do site
+     * Atendimento ao Assinante
+     * Ombudsman
+     * Política de Privacidade
+     * Princípios editoriais e conduta
+     * Circulação Verificada
+
+newsletter
+
+   ____________________ (BUTTON)
+
+A Folha integra o
+
+   O jornal Folha de S.Paulo (1921 - 2025) é publicado pela Empresa Folha
+   da Manhã S.A. CNPJ: 60.579.703/0001-48
+
+   Copyright Folha de S.Paulo. Todos os direitos reservados. É proibida a
+   reprodução do conteúdo desta página em qualquer meio de comunicação,
+   eletrônico ou impresso, sem autorização escrita da Folhapress.
+
+   NEWSLETTER (BUTTON)
+   Por favor, selecione uma das opções abaixo.
+
+   Quais newsletters você gostaria de assinar?
+
+   [ ] Maratonar
+   [ ] IE | Relacionamentos *
+   [ ] Brasília Hoje *
+   [ ] Guia de Beleza Negra
+   [ ] Mova-se
+   [ ] Newsletter da Ombudsman
+   [ ] Tudo + um pouco
+   [ ] Todas
+   [ ] Planeta em Transe
+   [ ] FolhaJus
+   [ ] IE | Como criar hábitos *
+   [ ] Energia Limpa
+   [ ] C-Level
+   [ ] Cuide-se
+   [ ] Cercanías
+   [ ] Folha Jogos
+   [ ] Mônica Bergamo *
+   [ ] Painel *
+   [ ] Tudo a Ler
+   [ ] Folha Carreiras
+   [X] Notícias do dia
+   [ ] Painel S.A. *
+   [ ] China, terra do meio *
+   [ ] Combo
+   [ ] Folha Mercado
+   [ ] Colunas *
+   [ ] Dicas do Editor *
+   [ ] Para Curtir SP
+   [ ] Lá Fora
+   [ ] FolhaMed *
+   [ ] News from Brazil
+   [ ] Noticias de Brasil
+   *exclusivo para assinantes
+
+   Você também gostaria de:
+
+   [X] Receber informações sobre produtos e serviços da Folha de S. Paulo
+   [ ] Receber ofertas de parceiros da Folha de S. Paulo
+
+   Cancelar (BUTTON) Confirmar
+
+   Cadastro realizado com sucesso!
+   Ok
+
+   Por favor, tente mais tarde!
+   Ok

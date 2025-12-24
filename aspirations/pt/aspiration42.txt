@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HP52MET2TM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HP52MET2TM');
+</script>
+
+	<meta charset="UTF-8" />
+	
+				<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+		
+            
+                        <link rel="shortcut icon" type="image/x-icon" href="https://souzalima.com.br/blog/wp-content/uploads/2024/04/favicon.png">
+            <link rel="apple-touch-icon" href="https://souzalima.com.br/blog/wp-content/uploads/2024/04/favicon.png"/>
+        
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://souzalima.com.br/blog/xmlrpc.php" />
+    <script src="https://kit.fontawesome.com/8485e78423.js" crossorigin="anonymous"></script>
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+            <script type="text/javascript"> var epic_news_ajax_url = 'https://souzalima.com.br/blog/?epic-ajax-request=epic-ne'; </script>
+            
+	<!-- This site is optimized with the Yoast SEO plugin v26.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>O que é uma Fantasia em Música? - Blog Souza Lima</title>
+	<meta name="description" content="Descubra o que é uma fantasia musical e como essa forma livre reúne e transforma temas para criar nova experiência ao ouvinte" />
+	<link rel="canonical" href="https://souzalima.com.br/blog/o-que-e-uma-fantasia-em-musica/" />
+	<meta property="og:locale" content="pt_BR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="O que é uma Fantasia em Música? - Blog Souza Lima" />
+	<meta property="og:description" content="Descubra o que é uma fantasia musical e como essa forma livre reúne e transforma temas para criar nova experiência ao ouvinte" />
+	<meta property="og:url" content="https://souzalima.com.br/blog/o-que-e-uma-fantasia-em-musica/" />
+	<meta property="og:site_name" content="Blog Souza Lima" />
+	<meta property="article:publisher" content="https://www.facebook.com/souzalimaoficial" />
+	<meta property="article:published_time" content="2022-07-14T01:11:49+00:00" />
+	<meta property="article:modified_time" content="2025-11-24T20:42:34+00:00" />
+	<meta name="author" content="João Marcondes" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Escrito por" />
+	<meta name="twitter:data1" content="João Marcondes" />
+	<meta name="twitter:label2" content="Est. tempo de leitura" />
+	<meta name="twitter:data2" content="2 minutos" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://souzalima.com.br/blog/o-que-e-uma-fantasia-em-musica/#article","isPartOf":{"@id":"https://souzalima.com.br/blog/o-que-e-uma-fantasia-em-musica/"},"author":{"name":"João Marcondes","@id":"https://souzalima.com.br/blog/#/schema/person/f6aad8444e58fb11121a921b22bed6ae"},"headline":"O que é uma Fantasia em Música?","datePublished":"2022-07-14T01:11:49+00:00","dateModified":"2025-11-24T20:42:34+00:00","mainEntityOfPage":{"@id":"https://souzalima.com.br/blog/o-que-e-uma-fantasia-em-musica/"},"wordCount":291,"commentCount":0,"publisher":{"@id":"https://souzalima.com.br/blog/#organization"},"keywords":["destaque","educação musical","fantasia em música","joão marcondes","produção musical","Souza Lima","teoria"],"articleSection":["Estudo"],"inLanguage":"pt-BR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://souzalima.com.br/blog/o-que-e-uma-fantasia-em-musica/#respond"]}]},{"@type":"WebPage","@id":"https://souzalima.com.br/blog/o-que-e-uma-fantasia-em-musica/","url":"https://souzalima.com.br/blog/o-que-e-uma-fantasia-em-musica/","name":"O que é uma Fantasia em Música? - Blog Souza Lima","isPartOf":{"@id":"https://souzalima.com.br/blog/#website"},"datePublished":"2022-07-14T01:11:49+00:00","dateModified":"2025-11-24T20:42:34+00:00","description":"Descubra o que é uma fantasia musical e como essa forma livre reúne e transforma temas para criar nova experiência ao ouvinte","breadcrumb":{"@id":"https://souzalima.com.br/blog/o-que-e-uma-fantasia-em-musica/#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://souzalima.com.br/blog/o-que-e-uma-fantasia-em-musica/"]}]},{"@type":"BreadcrumbList","@id":"https://souzalima.com.br/blog/o-que-e-uma-fantasia-em-musica/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://souzalima.com.br/blog/"},{"@type":"ListItem","position":2,"name":"O que é uma Fantasia em Música?"}]},{"@type":"WebSite","@id":"https://souzalima.com.br/blog/#website","url":"https://souzalima.com.br/blog/","name":"Blog Souza Lima","description":"Descubra o universo musical com o Blog Souza Lima! ","publisher":{"@id":"https://souzalima.com.br/blog/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://souzalima.com.br/blog/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"pt-BR"},{"@type":"Organization","@id":"https://souzalima.com.br/blog/#organization","name":"Blog Souza Lima","url":"https://souzalima.com.br/blog/","logo":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://souzalima.com.br/blog/#/schema/logo/image/","url":"https://souzalima.com.br/blog/wp-content/uploads/2024/04/logo-blog-escuro.png","contentUrl":"https://souzalima.com.br/blog/wp-content/uploads/2024/04/logo-blog-escuro.png","width":700,"height":360,"caption":"Blog Souza Lima"},"image":{"@id":"https://souzalima.com.br/blog/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/souzalimaoficial","https://www.instagram.com/souzalimaoficial/","https://www.tiktok.com/@souzalimaoficial"]},{"@type":"Person","@id":"https://souzalima.com.br/blog/#/schema/person/f6aad8444e58fb11121a921b22bed6ae","name":"João Marcondes","image":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://souzalima.com.br/blog/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/9ceaf49983887d9fed6c838ba33a97c89f1e3f2836978af414e1b7cf88be2678?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/9ceaf49983887d9fed6c838ba33a97c89f1e3f2836978af414e1b7cf88be2678?s=96&d=mm&r=g","caption":"João Marcondes"},"url":"https://souzalima.com.br/blog/author/joao/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Blog Souza Lima &raquo;" href="https://souzalima.com.br/blog/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Blog Souza Lima &raquo;" href="https://souzalima.com.br/blog/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Blog Souza Lima &raquo; O que é uma Fantasia em Música?" href="https://souzalima.com.br/blog/o-que-e-uma-fantasia-em-musica/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://souzalima.com.br/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsouzalima.com.br%2Fblog%2Fo-que-e-uma-fantasia-em-musica%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://souzalima.com.br/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsouzalima.com.br%2Fblog%2Fo-que-e-uma-fantasia-em-musica%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='vc_extensions_cqbundle_adminicon-css' href='https://souzalima.com.br/blog/wp-content/plugins/allinoneaddons/css/admin_icon.css?ver=6.9' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style><style id='wp-block-heading-inline-css' type='text/css'>
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://souzalima.com.br/blog/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id='wp-block-image-inline-css' type='text/css'>
+.wp-block-image>a,.wp-block-image>figure>a{display:inline-block}.wp-block-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom}@media not (prefers-reduced-motion){.wp-block-image img.hide{visibility:hidden}.wp-block-image img.show{animation:show-content-image .4s}}.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a{border-radius:inherit}.wp-block-image.has-custom-border img{box-sizing:border-box}.wp-block-image.aligncenter{text-align:center}.wp-block-image.alignfull>a,.wp-block-image.alignwide>a{width:100%}.wp-block-image.alignfull img,.wp-block-image.alignwide img{height:auto;width:100%}.wp-block-image .aligncenter,.wp-block-image .alignleft,.wp-block-image .alignright,.wp-block-image.aligncenter,.wp-block-image.alignleft,.wp-block-image.alignright{display:table}.wp-block-image .aligncenter>figcaption,.wp-block-image .alignleft>figcaption,.wp-block-image .alignright>figcaption,.wp-block-image.aligncenter>figcaption,.wp-block-image.alignleft>figcaption,.wp-block-image.alignright>figcaption{caption-side:bottom;display:table-caption}.wp-block-image .alignleft{float:left;margin:.5em 1em .5em 0}.wp-block-image .alignright{float:right;margin:.5em 0 .5em 1em}.wp-block-image .aligncenter{margin-left:auto;margin-right:auto}.wp-block-image :where(figcaption){margin-bottom:1em;margin-top:.5em}.wp-block-image.is-style-circle-mask img{border-radius:9999px}@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0;-webkit-mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-mode:alpha;-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain}}:root :where(.wp-block-image.is-style-rounded img,.wp-block-image .is-style-rounded img){border-radius:9999px}.wp-block-image figure{margin:0}.wp-lightbox-container{display:flex;flex-direction:column;position:relative}.wp-lightbox-container img{cursor:zoom-in}.wp-lightbox-container img:hover+button{opacity:1}.wp-lightbox-container button{align-items:center;backdrop-filter:blur(16px) saturate(180%);background-color:#5a5a5a40;border:none;border-radius:4px;cursor:zoom-in;display:flex;height:20px;justify-content:center;opacity:0;padding:0;position:absolute;right:16px;text-align:center;top:16px;width:20px;z-index:100}@media not (prefers-reduced-motion){.wp-lightbox-container button{transition:opacity .2s ease}}.wp-lightbox-container button:focus-visible{outline:3px auto #5a5a5a40;outline:3px auto -webkit-focus-ring-color;outline-offset:3px}.wp-lightbox-container button:hover{cursor:pointer;opacity:1}.wp-lightbox-container button:focus{opacity:1}.wp-lightbox-container button:focus,.wp-lightbox-container button:hover,.wp-lightbox-container button:not(:hover):not(:active):not(.has-background){background-color:#5a5a5a40;border:none}.wp-lightbox-overlay{box-sizing:border-box;cursor:zoom-out;height:100vh;left:0;overflow:hidden;position:fixed;top:0;visibility:hidden;width:100%;z-index:100000}.wp-lightbox-overlay .close-button{align-items:center;cursor:pointer;display:flex;justify-content:center;min-height:40px;min-width:40px;padding:0;position:absolute;right:calc(env(safe-area-inset-right) + 16px);top:calc(env(safe-area-inset-top) + 16px);z-index:5000000}.wp-lightbox-overlay .close-button:focus,.wp-lightbox-overlay .close-button:hover,.wp-lightbox-overlay .close-button:not(:hover):not(:active):not(.has-background){background:none;border:none}.wp-lightbox-overlay .lightbox-image-container{height:var(--wp--lightbox-container-height);left:50%;overflow:hidden;position:absolute;top:50%;transform:translate(-50%,-50%);transform-origin:top left;width:var(--wp--lightbox-container-width);z-index:9999999999}.wp-lightbox-overlay .wp-block-image{align-items:center;box-sizing:border-box;display:flex;height:100%;justify-content:center;margin:0;position:relative;transform-origin:0 0;width:100%;z-index:3000000}.wp-lightbox-overlay .wp-block-image img{height:var(--wp--lightbox-image-height);min-height:var(--wp--lightbox-image-height);min-width:var(--wp--lightbox-image-width);width:var(--wp--lightbox-image-width)}.wp-lightbox-overlay .wp-block-image figcaption{display:none}.wp-lightbox-overlay button{background:none;border:none}.wp-lightbox-overlay .scrim{background-color:#fff;height:100%;opacity:.9;position:absolute;width:100%;z-index:2000000}.wp-lightbox-overlay.active{visibility:visible}@media not (prefers-reduced-motion){.wp-lightbox-overlay.active{animation:turn-on-visibility .25s both}.wp-lightbox-overlay.active img{animation:turn-on-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active){animation:turn-off-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active) img{animation:turn-off-visibility .25s both}.wp-lightbox-overlay.zoom.active{animation:none;opacity:1;visibility:visible}.wp-lightbox-overlay.zoom.active .lightbox-image-container{animation:lightbox-zoom-in .4s}.wp-lightbox-overlay.zoom.active .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.active .scrim{animation:turn-on-visibility .4s forwards}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active){animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container{animation:lightbox-zoom-out .4s}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .scrim{animation:turn-off-visibility .4s forwards}}@keyframes show-content-image{0%{visibility:hidden}99%{visibility:hidden}to{visibility:visible}}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))}to{transform:translate(-50%,-50%) scale(1)}}@keyframes lightbox-zoom-out{0%{transform:translate(-50%,-50%) scale(1);visibility:visible}99%{visibility:visible}to{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));visibility:hidden}}
+/*# sourceURL=https://souzalima.com.br/blog/wp-includes/blocks/image/style.min.css */
+</style>
+<style id='wp-block-latest-comments-inline-css' type='text/css'>
+ol.wp-block-latest-comments{box-sizing:border-box;margin-left:0}:where(.wp-block-latest-comments:not([style*=line-height] .wp-block-latest-comments__comment)){line-height:1.1}:where(.wp-block-latest-comments:not([style*=line-height] .wp-block-latest-comments__comment-excerpt p)){line-height:1.8}.has-dates :where(.wp-block-latest-comments:not([style*=line-height])),.has-excerpts :where(.wp-block-latest-comments:not([style*=line-height])){line-height:1.5}.wp-block-latest-comments .wp-block-latest-comments{padding-left:0}.wp-block-latest-comments__comment{list-style:none;margin-bottom:1em}.has-avatars .wp-block-latest-comments__comment{list-style:none;min-height:2.25em}.has-avatars .wp-block-latest-comments__comment .wp-block-latest-comments__comment-excerpt,.has-avatars .wp-block-latest-comments__comment .wp-block-latest-comments__comment-meta{margin-left:3.25em}.wp-block-latest-comments__comment-excerpt p{font-size:.875em;margin:.36em 0 1.4em}.wp-block-latest-comments__comment-date{display:block;font-size:.75em}.wp-block-latest-comments .avatar,.wp-block-latest-comments__comment-avatar{border-radius:1.5em;display:block;float:left;height:2.5em;margin-right:.75em;width:2.5em}.wp-block-latest-comments[class*=-font-size] a,.wp-block-latest-comments[style*=font-size] a{font-size:inherit}
+/*# sourceURL=https://souzalima.com.br/blog/wp-includes/blocks/latest-comments/style.min.css */
+</style>
+<style id='wp-block-latest-posts-inline-css' type='text/css'>
+.wp-block-latest-posts{box-sizing:border-box}.wp-block-latest-posts.alignleft{margin-right:2em}.wp-block-latest-posts.alignright{margin-left:2em}.wp-block-latest-posts.wp-block-latest-posts__list{list-style:none}.wp-block-latest-posts.wp-block-latest-posts__list li{clear:both;overflow-wrap:break-word}.wp-block-latest-posts.is-grid{display:flex;flex-wrap:wrap}.wp-block-latest-posts.is-grid li{margin:0 1.25em 1.25em 0;width:100%}@media (min-width:600px){.wp-block-latest-posts.columns-2 li{width:calc(50% - .625em)}.wp-block-latest-posts.columns-2 li:nth-child(2n){margin-right:0}.wp-block-latest-posts.columns-3 li{width:calc(33.33333% - .83333em)}.wp-block-latest-posts.columns-3 li:nth-child(3n){margin-right:0}.wp-block-latest-posts.columns-4 li{width:calc(25% - .9375em)}.wp-block-latest-posts.columns-4 li:nth-child(4n){margin-right:0}.wp-block-latest-posts.columns-5 li{width:calc(20% - 1em)}.wp-block-latest-posts.columns-5 li:nth-child(5n){margin-right:0}.wp-block-latest-posts.columns-6 li{width:calc(16.66667% - 1.04167em)}.wp-block-latest-posts.columns-6 li:nth-child(6n){margin-right:0}}:root :where(.wp-block-latest-posts.is-grid){padding:0}:root :where(.wp-block-latest-posts.wp-block-latest-posts__list){padding-left:0}.wp-block-latest-posts__post-author,.wp-block-latest-posts__post-date{display:block;font-size:.8125em}.wp-block-latest-posts__post-excerpt,.wp-block-latest-posts__post-full-content{margin-bottom:1em;margin-top:.5em}.wp-block-latest-posts__featured-image a{display:inline-block}.wp-block-latest-posts__featured-image img{height:auto;max-width:100%;width:auto}.wp-block-latest-posts__featured-image.alignleft{float:left;margin-right:1em}.wp-block-latest-posts__featured-image.alignright{float:right;margin-left:1em}.wp-block-latest-posts__featured-image.aligncenter{margin-bottom:1em;text-align:center}
+/*# sourceURL=https://souzalima.com.br/blog/wp-includes/blocks/latest-posts/style.min.css */
+</style>
+<style id='wp-block-search-inline-css' type='text/css'>
+.wp-block-search__button{margin-left:10px;word-break:normal}.wp-block-search__button.has-icon{line-height:0}.wp-block-search__button svg{height:1.25em;min-height:24px;min-width:24px;width:1.25em;fill:currentColor;vertical-align:text-bottom}:where(.wp-block-search__button){border:1px solid #ccc;padding:6px 10px}.wp-block-search__inside-wrapper{display:flex;flex:auto;flex-wrap:nowrap;max-width:100%}.wp-block-search__label{width:100%}.wp-block-search.wp-block-search__button-only .wp-block-search__button{box-sizing:border-box;display:flex;flex-shrink:0;justify-content:center;margin-left:0;max-width:100%}.wp-block-search.wp-block-search__button-only .wp-block-search__inside-wrapper{min-width:0!important;transition-property:width}.wp-block-search.wp-block-search__button-only .wp-block-search__input{flex-basis:100%;transition-duration:.3s}.wp-block-search.wp-block-search__button-only.wp-block-search__searchfield-hidden,.wp-block-search.wp-block-search__button-only.wp-block-search__searchfield-hidden .wp-block-search__inside-wrapper{overflow:hidden}.wp-block-search.wp-block-search__button-only.wp-block-search__searchfield-hidden .wp-block-search__input{border-left-width:0!important;border-right-width:0!important;flex-basis:0;flex-grow:0;margin:0;min-width:0!important;padding-left:0!important;padding-right:0!important;width:0!important}:where(.wp-block-search__input){appearance:none;border:1px solid #949494;flex-grow:1;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;margin-left:0;margin-right:0;min-width:3rem;padding:8px;text-decoration:unset!important;text-transform:inherit}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper){background-color:#fff;border:1px solid #949494;box-sizing:border-box;padding:4px}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) .wp-block-search__input{border:none;border-radius:0;padding:0 4px}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) .wp-block-search__input:focus{outline:none}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) :where(.wp-block-search__button){padding:4px 8px}.wp-block-search.aligncenter .wp-block-search__inside-wrapper{margin:auto}.wp-block[data-align=right] .wp-block-search.wp-block-search__button-only .wp-block-search__inside-wrapper{float:right}
+/*# sourceURL=https://souzalima.com.br/blog/wp-includes/blocks/search/style.min.css */
+</style>
+<style id='wp-block-group-inline-css' type='text/css'>
+.wp-block-group{box-sizing:border-box}:where(.wp-block-group.wp-block-group-is-layout-constrained){position:relative}
+/*# sourceURL=https://souzalima.com.br/blog/wp-includes/blocks/group/style.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://souzalima.com.br/blog/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://souzalima.com.br/blog/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-default-style-css' href='https://souzalima.com.br/blog/wp-content/themes/mkvendas/style.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-qode-font_awesome-css' href='https://souzalima.com.br/blog/wp-content/themes/mkvendas/css/font-awesome/css/font-awesome.min.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-qode-font_elegant-css' href='https://souzalima.com.br/blog/wp-content/themes/mkvendas/css/elegant-icons/style.min.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-qode-linea_icons-css' href='https://souzalima.com.br/blog/wp-content/themes/mkvendas/css/linea-icons/style.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-qode-dripicons-css' href='https://souzalima.com.br/blog/wp-content/themes/mkvendas/css/dripicons/dripicons.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-qode-kiko-css' href='https://souzalima.com.br/blog/wp-content/themes/mkvendas/css/kiko/kiko-all.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-qode-font_awesome_5-css' href='https://souzalima.com.br/blog/wp-content/themes/mkvendas/css/font-awesome-5/css/font-awesome-5.min.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-stylesheet-css' href='https://souzalima.com.br/blog/wp-content/themes/mkvendas/css/stylesheet.min.css?ver=6.9' type='text/css' media='all' />
+<style id='bridge-stylesheet-inline-css' type='text/css'>
+   .postid-20041.disabled_footer_top .footer_top_holder, .postid-20041.disabled_footer_bottom .footer_bottom_holder { display: none;}
+
+
+/*# sourceURL=bridge-stylesheet-inline-css */
+</style>
+<link rel='stylesheet' id='bridge-print-css' href='https://souzalima.com.br/blog/wp-content/themes/mkvendas/css/print.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-style-dynamic-css' href='https://souzalima.com.br/blog/wp-content/themes/mkvendas/css/style_dynamic.css?ver=1732541169' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-responsive-css' href='https://souzalima.com.br/blog/wp-content/themes/mkvendas/css/responsive.min.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-style-dynamic-responsive-css' href='https://souzalima.com.br/blog/wp-content/themes/mkvendas/css/style_dynamic_responsive.css?ver=1732541169' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css' href='https://souzalima.com.br/blog/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=7.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-style-handle-google-fonts-css' href='https://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C300italic%2C400italic%2C700italic%7CPoppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C300italic%2C400italic%2C700italic%7CSora%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bridge-core-dashboard-style-css' href='https://souzalima.com.br/blog/wp-content/plugins/bridge-core/modules/core-dashboard/assets/css/core-dashboard.min.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='epic-icon-css' href='https://souzalima.com.br/blog/wp-content/plugins/epic-news-element/assets/fonts/jegicon/jegicon.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://souzalima.com.br/blog/wp-content/plugins/epic-news-element/assets/fonts/font-awesome/font-awesome.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='epic-style-css' href='https://souzalima.com.br/blog/wp-content/plugins/epic-news-element/assets/css/style.min.css?ver=6.9' type='text/css' media='all' />
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script></script><link rel="https://api.w.org/" href="https://souzalima.com.br/blog/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://souzalima.com.br/blog/wp-json/wp/v2/posts/20041" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://souzalima.com.br/blog/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<link rel='shortlink' href='https://souzalima.com.br/blog/?p=20041' />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<style id="jeg_dynamic_css" type="text/css" data-type="jeg_custom-css"></style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="wp-singular post-template-default single single-post postid-20041 single-format-standard wp-theme-mkvendas bridge-core-3.1.1  qode_grid_1200 qode_header_in_grid wpb-js-composer js-comp-ver-7.9 vc_responsive" itemscope itemtype="http://schema.org/WebPage">
+
+
+
+
+<div class="wrapper">
+	<div class="wrapper_inner">
+
+    
+		<!-- Google Analytics start -->
+				<!-- Google Analytics end -->
+
+		
+	<header class=" scroll_header_top_area  stick scrolled_not_transparent page_header">
+	<div class="header_inner clearfix">
+		<form role="search" id="searchform" action="https://souzalima.com.br/blog/" class="qode_search_form" method="get">
+        <div class="container">
+        <div class="container_inner clearfix">
+            
+            <i class="qode_icon_font_awesome fa fa-search qode_icon_in_search" ></i>            <input type="text" placeholder="Search" name="s" class="qode_search_field" autocomplete="off" />
+            <input type="submit" value="Search" />
+
+            <div class="qode_search_close">
+                <a href="#">
+                    <i class="qode_icon_font_awesome fa fa-times qode_icon_in_search" ></i>                </a>
+            </div>
+                    </div>
+    </div>
+</form>
+		<div class="header_top_bottom_holder">
+			
+			<div class="header_bottom clearfix" style=' background-color:rgba(0, 0, 0, 1);' >
+								<div class="container">
+					<div class="container_inner clearfix">
+																				<div class="header_inner_left">
+																	<div class="mobile_menu_button">
+		<span>
+			<i class="qode_icon_font_awesome fa fa-bars " ></i>		</span>
+	</div>
+								<div class="logo_wrapper" >
+	<div class="q_logo">
+		<a itemprop="url" href="https://souzalima.com.br/blog/" >
+             <img itemprop="image" class="normal" src="https://souzalima.com.br/blog/wp-content/uploads/2024/04/logo-blog-claro.png" alt="Logo"> 			 <img itemprop="image" class="light" src="https://souzalima.com.br/blog/wp-content/uploads/2024/04/logo-blog-claro.png" alt="Logo"/> 			 <img itemprop="image" class="dark" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/img/logo_black.png" alt="Logo"/> 			 <img itemprop="image" class="sticky" src="https://souzalima.com.br/blog/wp-content/uploads/2024/04/logo-blog-escuro.png" alt="Logo"/> 			 <img itemprop="image" class="mobile" src="https://souzalima.com.br/blog/wp-content/uploads/2024/04/logo-blog-claro.png" alt="Logo"/> 					</a>
+	</div>
+	</div>															</div>
+															<div class="header_inner_right">
+									<div class="side_menu_button_wrapper right">
+																					<div class="header_bottom_right_widget_holder"><div class="header_bottom_widget widget_block"><!-- GTranslate: https://gtranslate.io/ -->
+<a href="#" onclick="doGTranslate('pt|pt');return false;" title="Portuguese" class="glink nturl notranslate"><img decoding="async" src="https://blog.makemaquinadevendas.com.br/wp-content/uploads/2022/02/brasil.png" height="32" width="32" alt="Portuguese" /></a> <a href="#" onclick="doGTranslate('pt|en');return false;" title="English" class="glink nturl notranslate"><img decoding="async" src="https://blog.makemaquinadevendas.com.br/wp-content/uploads/2022/02/eua.png" height="32" width="32" alt="English" /></a> <a href="#" onclick="doGTranslate('pt|es');return false;" title="Spanish" class="glink nturl notranslate"><img decoding="async" src="https://blog.makemaquinadevendas.com.br/wp-content/uploads/2022/02/espanha.png" height="32" width="32" alt="Spanish" /></a><style>#goog-gt-tt{display:none!important;}.goog-te-banner-frame{display:none!important;}.goog-te-menu-value:hover{text-decoration:none!important;}.goog-text-highlight{background-color:transparent!important;box-shadow:none!important;}body{top:0!important;}#google_translate_element2{display:none!important;}</style>
+<div id="google_translate_element2"></div>
+<script>function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'pt',autoDisplay: false}, 'google_translate_element2');}if(!window.gt_translate_script){window.gt_translate_script=document.createElement('script');gt_translate_script.src='https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2';document.body.appendChild(gt_translate_script);}</script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;if(typeof ga=='function'){ga('send', 'event', 'GTranslate', lang, location.hostname+location.pathname+location.search);}var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script></div></div>
+																														<div class="side_menu_button">
+												<a class="search_button fullscreen_search normal" href="javascript:void(0)">
+		<i class="qode_icon_font_awesome fa fa-search " ></i>	</a>
+
+																							
+										</div>
+									</div>
+								</div>
+							
+							
+							<nav class="main_menu drop_down right">
+								<ul id="menu-main-menu" class=""><li id="nav-menu-item-19442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  narrow"><a href="https://souzalima.com.br/blog/" class=""><i class="menu_icon blank fa"></i><span>Blog Souza Lima: Dicas, Eventos e Tudo sobre Música<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-19443" class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a href="#" class=""><i class="menu_icon blank fa"></i><span>Sobre<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-19444" class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a href="https://souzalima.com.br/blog/glossario/" class=""><i class="menu_icon blank fa"></i><span>Glossário<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-19445" class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a href="https://souzalima.com.br/blog/infografico/" class=""><i class="menu_icon blank fa"></i><span>Infográficos<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-19446" class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a href="https://souzalima.com.br/blog/entrevistas/" class=""><i class="menu_icon blank fa"></i><span>Entrevistas<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-19447" class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a href="https://souzalima.com.br/blog/videos/" class=""><i class="menu_icon blank fa"></i><span>Vídeos<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+<li id="nav-menu-item-21892" class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a href="https://souzalima.com.br/blog/autor/" class=""><i class="menu_icon blank fa"></i><span>Autor<span class="underline_dash"></span></span><span class="plus"></span></a></li>
+</ul>							</nav>
+														<nav class="mobile_menu">
+	<ul id="menu-main-menu-1" class=""><li id="mobile-menu-item-19442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home "><a href="https://souzalima.com.br/blog/" class=""><span>Blog Souza Lima: Dicas, Eventos e Tudo sobre Música</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-19443" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="#" class=""><span>Sobre</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-19444" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://souzalima.com.br/blog/glossario/" class=""><span>Glossário</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-19445" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://souzalima.com.br/blog/infografico/" class=""><span>Infográficos</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-19446" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://souzalima.com.br/blog/entrevistas/" class=""><span>Entrevistas</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-19447" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://souzalima.com.br/blog/videos/" class=""><span>Vídeos</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+<li id="mobile-menu-item-21892" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://souzalima.com.br/blog/autor/" class=""><span>Autor</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
+</ul></nav>																				</div>
+					</div>
+									</div>
+			</div>
+		</div>
+
+</header>	<a id="back_to_top" href="#">
+        <span class="fa-stack">
+            <i class="qode_icon_font_awesome fa fa-arrow-up " ></i>        </span>
+	</a>
+	<div class="fullscreen_search_holder fade">
+		<div class="close_container">
+						<div class="container">
+				<div class="container_inner clearfix" >
+																	<div class="search_close_holder">
+							<div class="side_menu_button">
+								<a class="fullscreen_search_close" href="javascript:void(0)">
+									<i class="qode_icon_font_awesome fa fa-times " ></i>								</a>
+							</div>
+						</div>
+																</div>
+			</div>
+				</div>
+		<div class="fullscreen_search_table">
+			<div class="fullscreen_search_cell">
+				<div class="fullscreen_search_inner">
+					<form role="search" action="https://souzalima.com.br/blog/" class="fullscreen_search_form" method="get">
+						<div class="form_holder">
+							<span class="search_label">Search:</span>
+							<div class="field_holder">
+								<input type="text"  name="s" class="search_field" autocomplete="off" />
+								<div class="line"></div>
+							</div>
+							<a class="qode_search_submit search_submit" href="javascript:void(0)">
+								<i class="qode_icon_font_awesome fa fa-search " ></i>							</a>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+    
+    	
+    
+    <div class="content ">
+        <div class="content_inner  ">
+    
+		<div class="title_outer title_without_animation"    data-height="220">
+		<div class="title title_size_small  position_left " style="height:220px;">
+			<div class="image not_responsive"></div>
+										<div class="title_holder"  style="padding-top:120px;height:100px;">
+					<div class="container">
+						<div class="container_inner clearfix">
+								<div class="title_subtitle_holder" >
+                                                                																		<h1 ><span>O que é uma Fantasia em Música?</span></h1>
+																			<span class="separator small left"  ></span>
+																	
+																										                                                            </div>
+						</div>
+					</div>
+				</div>
+								</div>
+			</div>
+										<div class="container">
+														<div class="container_inner default_template_holder" >
+																
+							<div class="two_columns_75_25 background_color_sidebar grid2 clearfix">
+								<div class="column1">
+											
+									<div class="column_inner">
+										<div class="blog_single blog_holder">
+													<article id="post-20041" class="post-20041 post type-post status-publish format-standard hentry category-estudo tag-destaque tag-educacao-musical tag-fantasia-em-musica tag-joao-marcondes tag-producao-musical tag-souza-lima tag-teoria">
+			<div class="post_content_holder">
+								<div class="post_text">
+					<div class="post_text_inner">
+						<h2 itemprop="name" class="entry_title"><span itemprop="dateCreated" class="date entry_date updated">13 jul<meta itemprop="interactionCount" content="UserComments: 0"/></span> O que é uma Fantasia em Música?</h2>
+						<div class="post_info">
+							<span class="time">Posted at 22:11h</span>
+							in <a href="https://souzalima.com.br/blog/category/estudo/" rel="category tag">Estudo</a>							<span class="post_author">
+								by								<a itemprop="author" class="post_author_link" href="https://souzalima.com.br/blog/author/joao/">João Marcondes</a>
+							</span>
+							                                        <span class="dots"><i class="fa fa-square"></i></span>
+        <div class="blog_like">
+            <a  href="#" class="qode-like" id="qode-like-20041" title="Like this">0<span>  Likes</span></a>        </div>
+        						</div>
+						<h2><strong>O que é uma Fantasia em Música?</strong></h2>
+<p><strong>Fantasia</strong> é uma obra de forma livre, que reúne temas diversos, ou que de algum modo oferece para a percepção do ouvinte a sensação de uma obra ou de um autor, ou até de um estilo e gênero musical, deixando no campo do subjetivo.</p>
+<p><strong>Oferecendo ao ouvinte a possibilidade de escuta aberta a interpretação.</strong></p>
+<p>A fantasia procura causar a sensação de apreciação musical que a obra original oferece, sem até que a execute integralmente. Ou seja, a fantasia, por sua vez, descarta até mesmo a primeira camada.</p>
+<p>É comum confundir fantasia com<em> pout pourri.</em></p>
+<p>PoutPourri reúne temas, ou obras completas, quando se trata de uma obra dedicada a um autor, ao invés de inspirada em obra única.</p>
+<h2><strong>A diferença é que o pout pourri está mais no campo do arranjo do que da fantasia.</strong></h2>
+<p>Em um pout pourri o objetivo é de reconhecimento temático, o objetivo é reconhecer as obras do artista. Para a música erudita obra que reúne múltiplos temas é chamado PRELÚDIO, e tem origem na ópera do século XIX, onde uma obra introdutória prevê os temas de seus personagens.</p>
+<p>É possível realizar fantasia com obras variadas reunidas, mas é preciso diluir o tema, a primeira camada, de maneira mais substancial para que se ofereça apreciação aberta.</p>
+<p>Para a música erudita obra que reúne múltiplos temas é chamado PRELÚDIO, e tem origem na ópera do século XIX, onde uma obra introdutória prevê os temas de seus personagens.</p>
+<h2><strong>#VemProSouzaLima</strong></h2>
+<p>Vamos estudar? Quer uma adaptação ou fantasia? Eu faço, me escreve um email ou me encontra no instagram!</p>
+<div class="td-a-rec td-a-rec-id-content_bottom tdi_2 td_block_template_1"></div>
+					</div>
+				</div>
+			</div>
+		
+			<div class="single_tags clearfix">
+            <div class="tags_text">
+				<h5>Tags:</h5>
+				<a href="https://souzalima.com.br/blog/tag/destaque/" rel="tag">destaque</a>, <a href="https://souzalima.com.br/blog/tag/educacao-musical/" rel="tag">educação musical</a>, <a href="https://souzalima.com.br/blog/tag/fantasia-em-musica/" rel="tag">fantasia em música</a>, <a href="https://souzalima.com.br/blog/tag/joao-marcondes/" rel="tag">joão marcondes</a>, <a href="https://souzalima.com.br/blog/tag/producao-musical/" rel="tag">produção musical</a>, <a href="https://souzalima.com.br/blog/tag/souza-lima/" rel="tag">Souza Lima</a>, <a href="https://souzalima.com.br/blog/tag/teoria/" rel="tag">teoria</a>			</div>
+		</div>
+	    	</article>										</div>
+										
+										<br/><br/> 
+									</div>
+								</div>	
+								<div class="column2"> 
+										<div class="column_inner">
+		<aside class="sidebar">
+							
+			<div id="block-2" class="widget widget_block widget_search posts_holder"><form role="search" method="get" action="https://souzalima.com.br/blog/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"    ><label class="wp-block-search__label" for="wp-block-search__input-1" >Pesquisar</label><div class="wp-block-search__inside-wrapper" ><input class="wp-block-search__input" id="wp-block-search__input-1" placeholder="" value="" type="search" name="s" required /><button aria-label="Pesquisar" class="wp-block-search__button wp-element-button" type="submit" >Pesquisar</button></div></form></div><div id="block-3" class="widget widget_block posts_holder"><div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow"><h2 class="wp-block-heading">Posts recentes</h2><ul class="wp-block-latest-posts__list wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="https://souzalima.com.br/blog/quanto-custa-uma-producao-musical-contratando-um-produtor-em-seu-trabalho/">Quanto custa uma produção musical contratando um produtor em seu trabalho?</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://souzalima.com.br/blog/qual-a-maior-cancao-de-amor-do-brasil/">Qual a maior canção de amor do Brasil?</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://souzalima.com.br/blog/quanto-cobrar-por-um-arranjo/">Quanto cobrar por um arranjo?</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://souzalima.com.br/blog/quanto-cobrar-por-uma-composicao/">Quanto cobrar por uma composição?</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://souzalima.com.br/blog/educador-musical-que-ensina-composicao-precisa-saber-o-que/">Educador musical que ensina composição precisa saber o que?</a></li>
+</ul></div></div></div><div id="block-4" class="widget widget_block posts_holder"><div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow"><h2 class="wp-block-heading">Comentários</h2><div class="no-comments wp-block-latest-comments">Nenhum comentário para mostrar.</div></div></div></div>		</aside>
+	</div>
+								</div>
+							</div>
+											</div>
+                                 </div>
+	
+
+
+				<div class="container">
+			<div class="container_inner clearfix">
+			<div class="content_bottom" >
+					</div>
+							</div>
+				</div>
+					
+	</div>
+</div>
+
+
+
+	<footer >
+		<div class="footer_inner clearfix">
+				<div class="footer_top_holder">
+            			<div class="footer_top">
+								<div class="container">
+					<div class="container_inner">
+																	<div class="four_columns clearfix">
+								<div class="column1 footer_col1">
+									<div class="column_inner">
+										<div id="block-8" class="widget widget_block">
+<h2 class="wp-block-heading"></h2>
+</div><div id="block-9" class="widget widget_block widget_media_image"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="700" height="360" src="https://souzalima.com.br/blog/wp-content/uploads/2024/04/logo-blog-claro.png" alt="" class="wp-image-19438" style="width:200px" srcset="https://souzalima.com.br/blog/wp-content/uploads/2024/04/logo-blog-claro.png 700w, https://souzalima.com.br/blog/wp-content/uploads/2024/04/logo-blog-claro-300x154.png 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /></figure>
+</div></div>									</div>
+								</div>
+								<div class="column2 footer_col2">
+									<div class="column_inner">
+										<div id="block-10" class="widget widget_block">
+<h2 class="wp-block-heading"></h2>
+</div><div id="block-11" class="widget widget_block"><h2>Acesso Rápido</h2>
+<a href="https://souzalima.com.br/blog/politica-de-privacidade-2/" target="_blank">Política de privacidade</a></div>									</div>
+								</div>
+								<div class="column3 footer_col3">
+									<div class="column_inner">
+										<div id="block-12" class="widget widget_block">
+<h2 class="wp-block-heading"></h2>
+</div><div id="block-13" class="widget widget_block"><h2>Fale Conosco</h2></div>									</div>
+								</div>
+								<div class="column4 footer_col4">
+									<div class="column_inner">
+										<div id="block-14" class="widget widget_block">
+<h2 class="wp-block-heading"></h2>
+</div><div id="block-15" class="widget widget_block"><h2>Acompanhe</h2></div>									</div>
+								</div>
+							</div>
+															</div>
+				</div>
+							</div>
+					</div>
+							<div class="footer_bottom_holder">
+                									<div class="footer_bottom">
+				<span>Souza Lima - Conservatório e Faculdade de Música - 2024</span>			</div>
+								</div>
+				</div>
+	</footer>
+		
+</div>
+</div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/blog/*"},{"not":{"href_matches":["/blog/wp-*.php","/blog/wp-admin/*","/blog/wp-content/uploads/*","/blog/wp-content/*","/blog/wp-content/plugins/*","/blog/wp-content/themes/mkvendas/*","/blog/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.3" id="jquery-ui-tabs-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.3" id="jquery-ui-accordion-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/doubletaptogo.js?ver=6.9" id="doubleTapToGo-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/modernizr.min.js?ver=6.9" id="modernizr-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/jquery.appear.js?ver=6.9" id="appear-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/jquery.prettyPhoto.js?ver=6.9" id="prettyphoto-js"></script>
+<script type="text/javascript" id="mediaelement-core-js-before">
+/* <![CDATA[ */
+var mejsL10n = {"language":"pt","strings":{"mejs.download-file":"Fazer download do arquivo","mejs.install-flash":"Voc\u00ea est\u00e1 usando um navegador que n\u00e3o tem Flash ativo ou instalado. Ative o plugin do Flash player ou baixe a \u00faltima vers\u00e3o em https://get.adobe.com/flashplayer/","mejs.fullscreen":"Tela inteira","mejs.play":"Reproduzir","mejs.pause":"Pausar","mejs.time-slider":"Tempo do slider","mejs.time-help-text":"Use as setas esquerda e direita para avan\u00e7ar um segundo. Acima e abaixo para avan\u00e7ar dez segundos.","mejs.live-broadcast":"Transmiss\u00e3o ao vivo","mejs.volume-help-text":"Use as setas para cima ou para baixo para aumentar ou diminuir o volume.","mejs.unmute":"Desativar mudo","mejs.mute":"Mudo","mejs.volume-slider":"Controle de volume","mejs.video-player":"Tocador de v\u00eddeo","mejs.audio-player":"Tocador de \u00e1udio","mejs.captions-subtitles":"Transcri\u00e7\u00f5es/Legendas","mejs.captions-chapters":"Cap\u00edtulos","mejs.none":"Nenhum","mejs.afrikaans":"Afric\u00e2ner","mejs.albanian":"Alban\u00eas","mejs.arabic":"\u00c1rabe","mejs.belarusian":"Bielorrusso","mejs.bulgarian":"B\u00falgaro","mejs.catalan":"Catal\u00e3o","mejs.chinese":"Chin\u00eas","mejs.chinese-simplified":"Chin\u00eas (simplificado)","mejs.chinese-traditional":"Chin\u00eas (tradicional)","mejs.croatian":"Croata","mejs.czech":"Checo","mejs.danish":"Dinamarqu\u00eas","mejs.dutch":"Holand\u00eas","mejs.english":"Ingl\u00eas","mejs.estonian":"Estoniano","mejs.filipino":"Filipino","mejs.finnish":"Finland\u00eas","mejs.french":"Franc\u00eas","mejs.galician":"Galega","mejs.german":"Alem\u00e3o","mejs.greek":"Grego","mejs.haitian-creole":"Crioulo haitiano","mejs.hebrew":"Hebraico","mejs.hindi":"Hindi","mejs.hungarian":"H\u00fangaro","mejs.icelandic":"Island\u00eas","mejs.indonesian":"Indon\u00e9sio","mejs.irish":"Irland\u00eas","mejs.italian":"Italiano","mejs.japanese":"Japon\u00eas","mejs.korean":"Coreano","mejs.latvian":"Let\u00e3o","mejs.lithuanian":"Lituano","mejs.macedonian":"Maced\u00f4nio","mejs.malay":"Malaio","mejs.maltese":"Malt\u00eas","mejs.norwegian":"Noruegu\u00eas","mejs.persian":"Persa","mejs.polish":"Polon\u00eas","mejs.portuguese":"Portugu\u00eas","mejs.romanian":"Romeno","mejs.russian":"Russo","mejs.serbian":"S\u00e9rvio","mejs.slovak":"Eslovaco","mejs.slovenian":"Esloveno","mejs.spanish":"Espanhol","mejs.swahili":"Sua\u00edli","mejs.swedish":"Sueco","mejs.tagalog":"Tagalo","mejs.thai":"Tailand\u00eas","mejs.turkish":"Turco","mejs.ukrainian":"Ucraniano","mejs.vietnamese":"Vietnamita","mejs.welsh":"Gal\u00eas","mejs.yiddish":"I\u00eddiche"}};
+//# sourceURL=mediaelement-core-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.9" id="mediaelement-migrate-js"></script>
+<script type="text/javascript" id="mediaelement-js-extra">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"/blog/wp-includes/js/mediaelement/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+//# sourceURL=mediaelement-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.9" id="wp-mediaelement-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/jquery.waitforimages.js?ver=6.9" id="waitforimages-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0" id="jquery-form-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/waypoints.min.js?ver=6.9" id="waypoints-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/jquery.easing.1.3.js?ver=6.9" id="easing-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/jquery.mousewheel.min.js?ver=6.9" id="mousewheel-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/jquery.isotope.min.js?ver=6.9" id="isotope-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/skrollr.js?ver=6.9" id="skrollr-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/TweenLite.min.js?ver=6.9" id="TweenLite-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/ScrollToPlugin.min.js?ver=6.9" id="ScrollToPlugin-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/smoothPageScroll.min.js?ver=6.9" id="smoothPageScroll-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/default_dynamic.js?ver=1732541169" id="bridge-default-dynamic-js"></script>
+<script type="text/javascript" id="bridge-default-js-extra">
+/* <![CDATA[ */
+var QodeAdminAjax = {"ajaxurl":"https://souzalima.com.br/blog/wp-admin/admin-ajax.php"};
+var qodeGlobalVars = {"vars":{"qodeAddingToCartLabel":"Adding to Cart...","page_scroll_amount_for_sticky":"","commentSentLabel":"Comment has been sent!"}};
+//# sourceURL=bridge-default-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/default.min.js?ver=6.9" id="bridge-default-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-includes/js/comment-reply.min.js?ver=6.9" id="comment-reply-js" async="async" data-wp-strategy="async" fetchpriority="low"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=7.9" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/jquery.flexslider-min.js?ver=6.9" id="flexslider-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/jquery.touchSwipe.min.js?ver=6.9" id="touchSwipe-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/jquery.fitvids.js?ver=6.9" id="fitvids-js"></script>
+<script type="text/javascript" id="qode-like-js-extra">
+/* <![CDATA[ */
+var qodeLike = {"ajaxurl":"https://souzalima.com.br/blog/wp-admin/admin-ajax.php"};
+//# sourceURL=qode-like-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/themes/mkvendas/js/plugins/qode-like.min.js?ver=6.9" id="qode-like-js"></script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" id="epic-script-js-extra">
+/* <![CDATA[ */
+var epicoption = {"prefix":"epic_module_ajax_","rtl":"0","admin_bar":"0"};
+//# sourceURL=epic-script-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://souzalima.com.br/blog/wp-content/plugins/epic-news-element/assets/js/script.min.js" id="epic-script-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://souzalima.com.br/blog/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://souzalima.com.br/blog/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+<script></script></body>
+</html>	

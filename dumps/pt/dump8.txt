@@ -1,0 +1,448 @@
+   #alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PSVMLCP
+
+     * Notícias & Editorias
+          + Opinião
+               o Colunas
+          + Últimas
+          + 150 Anos
+               o 150 Momentos
+               o Modernizar a história
+               o Todo o futuro pela frente
+               o Opinião do Estadão
+               o Nossos queridos leitores
+               o República em transformação
+               o Economia em transformação
+               o Tecnologia em transformação
+               o Terra em transformação
+               o SP em transformação
+               o Viver em transformação
+          + Política
+               o Coluna do Estadão
+               o Blog do Fausto Macedo
+               o Blogs&Colunas
+          + Economia
+               o Estadão RI
+               o Indicadores
+               o Agronegócios
+               o Governança
+               o Negócios
+               o Sua Carreira
+               o PME
+               o Reforma tributária
+               o Blogs&Colunas
+          + E-Investidor
+          + Brasil
+               o São Paulo
+               o Blogs&Colunas
+          + Internacional
+               o Blogs&Colunas
+          + Cultura
+               o Artes
+               o Cinema
+               o Estado da Arte
+               o Literatura
+               o Moda
+               o Música
+               o Quadrinhos
+               o Séries
+               o Teatro e Dança
+               o Televisão
+               o Blogs&Colunas
+          + Esportes
+               o Tabelas
+               o Basquete
+               o Futebol
+               o Tênis
+               o UFC
+               o Velocidade
+               o Vôlei
+               o Blogs&Colunas
+               o Programação de TV
+          + Estadão Verifica
+          + Mapas interativos
+          + Saúde
+               o Blogs&Colunas
+          + Acervo
+          + Agro
+          + Ciência
+               o Blogs&Colunas
+          + Blogs&Colunas
+          + Concursos
+          + E+
+               o Bem-estar
+               o Casa&Decoração
+               o Comportamento
+               o Gente
+               o Moda&Beleza
+               o Horóscopo
+               o Tv
+               o Blogs&Colunas
+          + Educação
+               o Blogs&Colunas
+          + Jornal do Carro
+          + Link
+               o Inovação
+               o Cultura Digital
+               o Gadgets
+               o Empresas
+               o Games
+               o Blogs&Colunas
+          + Mídia & MKT
+          + Paladar
+          + Sustentabilidade
+               o Blogs
+          + Soluções Ambientais
+          + Viagem
+          + Mobilidade
+          + Tudo Sobre
+          + Pet Estadão
+     * Ver & Ouvir
+          + Podcasts
+          + TV Estadão
+          + Fotos
+          + Rádio Eldorado
+          + Web Stories
+     * Dia a dia
+          + Cruzadas
+          + Horóscopo
+          + Loterias
+          + Newsletters
+          + Quadrinhos
+          + Sudoku
+     * Parceiros
+          + Instituto Vencer o Câncer
+          + Jornal da USP
+          + Mar Sem Fim
+          + Neo Mondo
+          + O Estado da Arte
+          + SOS Educação
+     * Produtos
+          + Agência Estado
+          + Broadcast Político
+          + Classificados
+          + Estadão Blue Studio
+          + Estradão
+          + Imóveis
+          + Estadão RI
+
+     * Notícias & Editorias
+          + Opinião
+               o Colunas
+          + Últimas
+          + 150 Anos
+               o 150 Momentos
+               o Modernizar a história
+               o Todo o futuro pela frente
+               o Opinião do Estadão
+               o Nossos queridos leitores
+               o República em transformação
+               o Economia em transformação
+               o Tecnologia em transformação
+               o Terra em transformação
+               o SP em transformação
+               o Viver em transformação
+          + Política
+               o Coluna do Estadão
+               o Blog do Fausto Macedo
+               o Blogs&Colunas
+          + Economia
+               o Estadão RI
+               o Indicadores
+               o Agronegócios
+               o Governança
+               o Negócios
+               o Sua Carreira
+               o PME
+               o Reforma tributária
+               o Blogs&Colunas
+          + E-Investidor
+          + Brasil
+               o São Paulo
+               o Blogs&Colunas
+          + Internacional
+               o Blogs&Colunas
+          + Cultura
+               o Artes
+               o Cinema
+               o Estado da Arte
+               o Literatura
+               o Moda
+               o Música
+               o Quadrinhos
+               o Séries
+               o Teatro e Dança
+               o Televisão
+               o Blogs&Colunas
+          + Esportes
+               o Tabelas
+               o Basquete
+               o Futebol
+               o Tênis
+               o UFC
+               o Velocidade
+               o Vôlei
+               o Blogs&Colunas
+               o Programação de TV
+          + Estadão Verifica
+          + Mapas interativos
+          + Saúde
+               o Blogs&Colunas
+          + Acervo
+          + Agro
+          + Ciência
+               o Blogs&Colunas
+          + Blogs&Colunas
+          + Concursos
+          + E+
+               o Bem-estar
+               o Casa&Decoração
+               o Comportamento
+               o Gente
+               o Moda&Beleza
+               o Horóscopo
+               o Tv
+               o Blogs&Colunas
+          + Educação
+               o Blogs&Colunas
+          + Jornal do Carro
+          + Link
+               o Inovação
+               o Cultura Digital
+               o Gadgets
+               o Empresas
+               o Games
+               o Blogs&Colunas
+          + Mídia & MKT
+          + Paladar
+          + Sustentabilidade
+               o Blogs
+          + Soluções Ambientais
+          + Viagem
+          + Mobilidade
+          + Tudo Sobre
+          + Pet Estadão
+     * Ver & Ouvir
+          + Podcasts
+          + TV Estadão
+          + Fotos
+          + Rádio Eldorado
+          + Web Stories
+     * Dia a dia
+          + Cruzadas
+          + Horóscopo
+          + Loterias
+          + Newsletters
+          + Quadrinhos
+          + Sudoku
+     * Produtos
+          + Agência Estado
+          + Broadcast Político
+          + Classificados
+          + Estadão Blue Studio
+          + Estradão
+          + Imóveis
+          + Estadão RI
+
+   (BUTTON) ____________________
+   Entrar
+
+   Notícia
+   Estadão
+   Cultura
+   Literatura
+
+‘Uma Dobra no Tempo’: Conheça o livro de fantasia que aparece em ‘Stranger
+Things’
+
+Livro infanto-juvenil pode ajudar a desvendar mistérios da última temporada
+da série
+
+   PUBLICIDADE
+   Foto do autor Maria Eduarda Camargo
+   Por Maria Eduarda Camargo
+   02/12/2025 | 11h25
+   (BUTTON)
+   (BUTTON) (BUTTON)
+
+   A personagem Holly Wheeler ganhou destaque nesta temporada de Stranger
+   Things e aparece em diversos momentos com um livro muito interessante
+   em mãos: Uma Dobra no Tempo. A obra vem sendo referenciada diversas
+   vezes durante a trama e pode dar dicas de como serão os próximos
+   episódios da série de sucesso da Netflix.
+     * ‘Stranger Things’: Pôster entregou maior revelação da 5ª temporada,
+       diz Noah Schnapp; saiba qual é
+
+   (BUTTON)
+   [https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Festadao%2F80c1f9a4-4149
+   -4988-b0cb-996f576fc30c.jpg?quality=80&amp;auth=2097ad8f79ea9fe87f0bb2c
+   9b38498bf8d0b0dde134ee8779a71b8ee8806add1&amp;width=60&amp;height=60&am
+   p;smart=true]
+   Holly Wheeler aparece com o livro 'Uma Dobra no Tempo" na nova
+   temporada de 'Stranger Things', saiba do que a obra fala Foto:
+   Netflix/Divulgação
+
+   PUBLICIDADE
+
+   Uma Dobra no Tempo é o primeiro livro da aclamada série infanto-juvenil
+   de Madeleine L’Engle. A obra conta a história de Meg Murry, seu irmão
+   Charles e o amigo Calvin, que precisam resgatar o pai dos irmãos.
+
+   Eles recebem a ajuda de três “Senhoras”, seres imortais que conseguem
+   viajar no espaço e no tempo e guiam a turma em sua missão. O livro
+   também é antagonizado por uma “força maligna” apelidada de “It”, que
+   funciona como uma “mente coletiva” que domina através do medo e do
+   ódio. Ele manipula os personagens da obra através de suas emoções e
+   vulnerabilidades.
+
+   Publicidade
+
+   A jornada dos pequenos em busca do pai cientista passa por diferentes
+   planetas e faz um paralelo com o “Mundo Invertido” e Vecna, similar ao
+   “It” ou “Senhor Fulano”, que é como o vilão é chamado por Holly.
+
+   O manuscrito é da Harper Collins Brasil e faz parte de uma saga de
+   cinco livros. Sozinho, ele custa R$31 na Amazon. O box com toda a saga
+   custa R$107.
+
+Leia também
+
+     * Como ‘Stranger Things’ definiu a era do algoritmo
+     * A última temporada de ‘Stranger Things’, nas palavras do elenco da
+       série
+     * Netflix anuncia roteiros das quatro primeiras temporadas de
+       ‘Stranger Things’; saiba como comprar
+
+   (BUTTON)
+   [https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Festadao%2F80c1f9a4-4149
+   -4988-b0cb-996f576fc30c.jpg?quality=80&amp;auth=2097ad8f79ea9fe87f0bb2c
+   9b38498bf8d0b0dde134ee8779a71b8ee8806add1&amp;width=60&amp;height=60&am
+   p;smart=true]
+   Livro 'Uma Dobra no Tempo', de Madeleine L'Engle Foto:
+   Amazon/Divulgação
+
+O que é Camazotz?
+
+   A palavra Camazotz aparece algumas vezes em Stranger Things e é uma
+   referência do livro. Em Uma Dobra no Tempo, Camazotz é um dos planetas
+   que Meg e sua turma visitam e onde as forças malignas exercem seus
+   poderes. Na série dos irmãos Duffer, ele é comparado com a mente de
+   Vecna.
+
+   Além disso, o episódio 6 da série é intitulado A Fuga de Camazotz, o
+   que pode indicar uma fuga deste “planeta” ou da força que Vecna impõe
+   sobre os personagens.
+
+   Publicidade
+   (BUTTON) Compartilhar
+   (BUTTON) Siga nas redes
+   Encontrou algum erro?Entre em contato
+   Tudo Sobre
+     * Stranger Things
+     * Netflix
+     * série e seriado
+
+Últimas: Literatura
+
+   [https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Festadao%2F80c1f9a4-4149
+   -4988-b0cb-996f576fc30c.jpg?quality=80&amp;auth=2097ad8f79ea9fe87f0bb2c
+   9b38498bf8d0b0dde134ee8779a71b8ee8806add1&amp;width=60&amp;height=60&am
+   p;smart=true]
+
+Nada como cear na companhia de Chekhov, Cheever e Carver
+
+   24/12/2025 | 12h00 | André de Leones
+   [https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Festadao%2F80c1f9a4-4149
+   -4988-b0cb-996f576fc30c.jpg?quality=80&amp;auth=2097ad8f79ea9fe87f0bb2c
+   9b38498bf8d0b0dde134ee8779a71b8ee8806add1&amp;width=60&amp;height=60&am
+   p;smart=true]
+
+Casa cheia e Papai Noel: Escritores lembram histórias de Natal e das noites
+felizes da infância
+
+   24/12/2025 | 06h00 | Ivani Cardoso
+   [https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Festadao%2F80c1f9a4-4149
+   -4988-b0cb-996f576fc30c.jpg?quality=80&amp;auth=2097ad8f79ea9fe87f0bb2c
+   9b38498bf8d0b0dde134ee8779a71b8ee8806add1&amp;width=60&amp;height=60&am
+   p;smart=true]
+
+10 frases inspiradoras de escritores sobre o Natal para levar mais poesia à
+mensagem de Whatsapp
+
+   23/12/2025 | 17h30 | Talita Facchini
+   [https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Festadao%2F80c1f9a4-4149
+   -4988-b0cb-996f576fc30c.jpg?quality=80&amp;auth=2097ad8f79ea9fe87f0bb2c
+   9b38498bf8d0b0dde134ee8779a71b8ee8806add1&amp;width=60&amp;height=60&am
+   p;smart=true]
+
+Os melhores livros de 2025, segundo os prêmios literários
+
+   23/12/2025 | 12h00 | Gabriela Caputo
+   [https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Festadao%2F80c1f9a4-4149
+   -4988-b0cb-996f576fc30c.jpg?quality=80&amp;auth=2097ad8f79ea9fe87f0bb2c
+   9b38498bf8d0b0dde134ee8779a71b8ee8806add1&amp;width=60&amp;height=60&am
+   p;smart=true]
+
+Livro da principal acusadora de Jeffrey Epstein vende mais de 1 milhão de
+exemplares
+
+   22/12/2025 | 16h00 | Redação
+   Mais em Literatura
+
+Mais lidas
+
+    1.
+
+‘Stranger Things 5’: A que horas estreia o Volume 2 na Netflix?
+    2.
+
+‘Tenho pena dos ricos’, diz autor que se infiltrou entre milionários e expôs
+a elite brasileira
+    3.
+
+Canetas emagrecedoras: médicos relatam aumento de pacientes com flacidez
+    4.
+
+‘Anaconda’: O que diz a crítica internacional sobre a atuação de Selton Mello
+no filme?
+    5.
+
+Mariah Carey vence ação que a acusava de plágio em ‘All I Want for Christmas
+Is You’; entenda
+
+   Institucional
+     * Código de ética
+     * Politica anticorrupção
+     * Política de Inteligência Artificial
+     * Curso de jornalismo
+     * Demonstrações Contábeis
+     * Termo de uso
+
+   Atendimento
+     * Correções
+     * Portal do assinante
+
+     * Fale conosco
+     * Trabalhe conosco
+
+   Conexão Estadão
+     * Broadcast
+     * Broadcast político
+     * Aplicativos
+
+   Hoje
+   Capa Estadão Desktop - 24/12/2025
+     * Acervo
+     * PME
+     * Jornal do Carro
+     * Paladar
+     * Link
+     * iLocal
+     * Agência Estado
+
+   Copyright © 1995 - 2025 Grupo Estado
+
+   Copyright © 1995 - 2025 Grupo Estado
+
+   [p?c1=2&amp;c2=24963488&amp;cv=4.4.0&amp;cj=1]

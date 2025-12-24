@@ -1,0 +1,691 @@
+<!DOCTYPE html><!-- Last Published: Fri Dec 19 2025 20:41:43 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.casadosaber.com.br" data-wf-page="66757e689e0b40fab28b487a" data-wf-site="6328cd3b5033ff5f4ab734fa" lang="pt" data-wf-collection="66757e689e0b40fab28b4826" data-wf-item-slug="o-que-e-fantasia-na-psicanalise-o-conceito-por-freud-e-lacan"><head><meta charset="utf-8"/><title>O que é Fantasia na Psicanálise? O conceito por Freud e Lacan</title><meta content="Descubra o que é fantasia na psicanálise, a sua importância nas teorias de Freud e Lacan, e como a fantasia revela os desejos profundos do sujeito." name="description"/><meta content="O que é Fantasia na Psicanálise? O conceito por Freud e Lacan" property="og:title"/><meta content="Descubra o que é fantasia na psicanálise, a sua importância nas teorias de Freud e Lacan, e como a fantasia revela os desejos profundos do sujeito." property="og:description"/><meta content="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/675339129a000e37d56f25cb_capa-blog-fantasias-na-psicanalise%20(1).jpg" property="og:image"/><meta content="O que é Fantasia na Psicanálise? O conceito por Freud e Lacan" property="twitter:title"/><meta content="Descubra o que é fantasia na psicanálise, a sua importância nas teorias de Freud e Lacan, e como a fantasia revela os desejos profundos do sujeito." property="twitter:description"/><meta content="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/675339129a000e37d56f25cb_capa-blog-fantasias-na-psicanalise%20(1).jpg" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/css/lp-cds.webflow.shared.ef29c2b34.css" rel="stylesheet" type="text/css"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic"]  }});</script><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/65dcd37a2b1e0e819fb29b5a_favicon.png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/65dcd37de260dd0bdbc2313d_webclip.png" rel="apple-touch-icon"/><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NCTVZGD');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-581741903"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-581741903');
+</script>
+
+<!-- Ahrefs -->
+<script src="https://analytics.ahrefs.com/analytics.js" data-key="DlKZZ3l2toRKnrebQ7OgEA" async></script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "O que é Fantasia na Psicanálise? O conceito por Freud e Lacan",
+  "image": "https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/675339129a000e37d56f25cb_capa-blog-fantasias-na-psicanalise%20(1).jpg",
+    "description": "Descubra o que é fantasia na psicanálise, a sua importância nas teorias de Freud e Lacan, e como a fantasia revela os desejos profundos do sujeito. ",
+  "articleSection": "Psicanálise",
+  "author": {
+    "@type": "Person",
+    "name": "Gabriel Cravo Prado ",
+    "url": "https://www.casadosaber.com.br/redatores/gabriel-cravo-prado",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/66a8e1db5439459e01bae480_Gabriel.JPG"
+    },
+    "description":"Gabriel Cravo Prado é psicanalista, mestrando pelo Núcleo de Psicanálise e Sociedade da PUC-SP e aspirante a membro do Departamento de Psicanálise do Instituto Sedes Sapientiae."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Casa do Saber",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/65b7f5e774c9d0cabff95ec6_logo-cds.svg"
+    }
+  },
+  "datePublished": "Nov 24, 2025T00:00:00-03:00",
+  "dateModified": "Nov 24, 2025T00:00:00-03:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.casadosaber.com.br/blog/o-que-e-fantasia-na-psicanalise-o-conceito-por-freud-e-lacan"
+  }
+}
+</script>
+
+<link rel="canonical" href="https://www.casadosaber.com.br/blog/o-que-e-fantasia-na-psicanalise-o-conceito-por-freud-e-lacan">
+
+<style>
+.freemium-box {
+  background: #f3f6f5;
+  border-radius: 16px;
+  padding: 24px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+.freemium-box h3 {
+  color: #196061;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+.freemium-box p {
+  color: #333;
+  margin-bottom: 1rem;
+}
+.freemium-box input {
+  margin: 6px;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  width: 40%;
+}
+.freemium-box button {
+  background-color: #196061;
+  color: #fff;
+  border: none;
+  padding: 10px 24px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+img.blog-img-infografico {
+    width: 100% !important;
+    height: auto !important;
+    max-width: 600px; /* ou outro limite se quiser */
+}
+
+
+</style>
+
+
+
+
+
+<script src="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa%2F652d31f3dc22d7b4ee708e44%2F68fa2ddd246e9bf03541117e%2Fclarity_script-1.6.0.js" type="text/javascript"></script></head><body class="blog-page"><a href="https://conteudo.casadosaber.com.br/natal-casa-do-saber/" class="banner-home-campanhas w-inline-block"><div class="campanhas-imagem-desktop"><img src="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/6933078a24f04ea0308ccdd2_%5BNatal%5D%20banner-home.webp" loading="lazy" sizes="(max-width: 2860px) 100vw, 2860px" srcset="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/6933078a24f04ea0308ccdd2_%5BNatal%5D%20banner-home-p-500.webp 500w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/6933078a24f04ea0308ccdd2_%5BNatal%5D%20banner-home-p-800.webp 800w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/6933078a24f04ea0308ccdd2_%5BNatal%5D%20banner-home-p-1080.webp 1080w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/6933078a24f04ea0308ccdd2_%5BNatal%5D%20banner-home-p-1600.webp 1600w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/6933078a24f04ea0308ccdd2_%5BNatal%5D%20banner-home-p-2000.webp 2000w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/6933078a24f04ea0308ccdd2_%5BNatal%5D%20banner-home-p-2600.webp 2600w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/6933078a24f04ea0308ccdd2_%5BNatal%5D%20banner-home.webp 2860w" alt="" class="img"/></div><div class="campanhas-imagem-mobile"><img src="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/693307ad90e439f67d853dee_%5BNatal%5D%20banner-home-mobile.webp" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/693307ad90e439f67d853dee_%5BNatal%5D%20banner-home-mobile-p-500.webp 500w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/693307ad90e439f67d853dee_%5BNatal%5D%20banner-home-mobile-p-800.webp 800w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/693307ad90e439f67d853dee_%5BNatal%5D%20banner-home-mobile.webp 1024w" alt="" class="img"/></div></a><div class="page-wrapper"><div class="global-styles w-embed"><style>
+
+/* Make text look crisper and more legible in all browsers */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Focus state style for keyboard navigation for the focusable elements */
+*[tabindex]:focus-visible,
+  input[type="file"]:focus-visible {
+   outline: 0.125rem solid #4d65ff;
+   outline-offset: 0.125rem;
+}
+
+/* Set color style to inherit */
+.inherit-color * {
+    color: inherit;
+}
+
+/* Get rid of top margin on first element in any rich text element */
+.w-richtext > :not(div):first-child, .w-richtext > div:first-child > :first-child {
+  margin-top: 0 !important;
+}
+
+/* Get rid of bottom margin on last element in any rich text element */
+.w-richtext>:last-child, .w-richtext ol li:last-child, .w-richtext ul li:last-child {
+	margin-bottom: 0 !important;
+}
+
+
+/* Make sure containers never lose their center alignment */
+.container-medium,.container-small, .container-large {
+	margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+/* 
+Make the following elements inherit typography styles from the parent and not have hardcoded values. 
+Important: You will not be able to style for example "All Links" in Designer with this CSS applied.
+Uncomment this CSS to use it in the project. Leave this message for future hand-off.
+*/
+/*
+a,
+.w-input,
+.w-select,
+.w-tab-link,
+.w-nav-link,
+.w-dropdown-btn,
+.w-dropdown-toggle,
+.w-dropdown-link {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: inherit;
+}
+*/
+
+/* Apply "..." after 3 lines of text */
+.text-style-3lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+}
+
+/* Apply "..." after 2 lines of text */
+.text-style-2lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+
+/* Adds inline flex display */
+.display-inlineflex {
+  display: inline-flex;
+}
+
+/* These classes are never overwritten */
+.hide {
+  display: none !important;
+}
+
+@media screen and (max-width: 991px) {
+    .hide, .hide-tablet {
+        display: none !important;
+    }
+}
+  @media screen and (max-width: 767px) {
+    .hide-mobile-landscape{
+      display: none !important;
+    }
+}
+  @media screen and (max-width: 479px) {
+    .hide-mobile{
+      display: none !important;
+    }
+}
+ 
+.margin-0 {
+  margin: 0rem !important;
+}
+  
+.padding-0 {
+  padding: 0rem !important;
+}
+
+.spacing-clean {
+padding: 0rem !important;
+margin: 0rem !important;
+}
+
+.margin-top {
+  margin-right: 0rem !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-top {
+  padding-right: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0rem !important;
+}
+  
+.margin-right {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-right {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+.margin-bottom {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-bottom {
+  padding-top: 0rem !important;
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+.margin-left {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+  
+.padding-left {
+  padding-top: 0rem !important;
+  padding-right: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+  
+.margin-horizontal {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+
+.padding-horizontal {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+
+.margin-vertical {
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+}
+  
+.padding-vertical {
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+</style></div><div class="main-wrapper"><div data-w-id="0fd4b8e2-b232-d994-8539-72c44d24d663" data-animation="default" data-collapse="medium" data-duration="100" data-easing="ease-in-quad" data-easing2="ease-in-quad" role="banner" class="navbar w-nav"><div class="padding-global small"><div class="container-medium w-container"><div class="nav-component"><div class="nav_left-wrap"><a href="/old-home-4" class="nav_logo w-nav-brand"><img src="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/65b7f5e774c9d0cabff95ec6_logo-cds.svg" loading="lazy" alt="Logo" class="nav_logo-img invert mobile"/></a><nav role="navigation" class="nav_menu stretch w-nav-menu"><a href="https://curadoria.casadosaber.com.br/cursos/lista-completa" class="nav_link text-style-allcaps text-size-small text-weight-medium is--hover is--entrar is--mobile w-nav-link">Cursos</a><a href="https://curadoria.casadosaber.com.br/professores" class="nav_link text-style-allcaps text-size-small text-weight-medium is--hover is--entrar is--mobile w-nav-link">professores</a><a href="https://checkout.casadosaber.com.br/presente" class="nav_link text-style-allcaps text-size-small text-weight-medium is--hover is--entrar is--mobile w-nav-link">Quero PResentear</a><a href="https://www.casadosaber.com.br/programa-maispsicanalise" class="nav_link text-style-allcaps text-size-small text-weight-medium is--hover is--entrar is--mobile w-nav-link"><strong class="bold-text">+</strong> Psicanálise</a><a href="https://www.casadosaber.com.br/blog" target="_blank" class="nav_link text-style-allcaps text-size-small text-weight-medium is--hover is--entrar is--mobile w-nav-link">Blog</a></nav></div><div id="w-node-_0fd4b8e2-b232-d994-8539-72c44d24d67d-b28b487a" class="nav_right-wrap"><a href="https://ondemand.casadosaber.com.br/entrar" class="button-nav is--black w-inline-block"><div class="text-style-allcaps text-weight-bold text-size-regular">ENTRAR</div></a><article data-w-id="0fd4b8e2-b232-d994-8539-72c44d24d681" class="nav_menu-button w-nav-button"><div data-is-ix2-target="1" class="navbar-lottie" data-w-id="0fd4b8e2-b232-d994-8539-72c44d24d682" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/655cd18239dca9f80cbeaa2f/655d2d0e2f146af8ae28ae2b_navbar.json" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-duration="0" data-ix2-initial-state="0"></div></article></div></div></div></div></div><section><div class="padding-global"><div class="w-layout-blockcontainer container w-container"><div class="blog-hero-component"><div class="blog-hero-heading"><a href="/categorias/psicanalise" class="categorie-blog-tag w-inline-block"><div class="text-size-small text-weight-bold text-style-allcaps text-color-dark-green">Psicanálise</div></a><h1 class="heading-style-h2 text-weight-medium heading-blog">O que é Fantasia na Psicanálise? O conceito por Freud e Lacan</h1></div></div></div></div></section><section><div class="padding-global padding-global-blog"><div class="w-layout-blockcontainer container-medium large w-container"><div class="thumb-content"><div class="img-blog-capa"><img src="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/6852f7c9b435d4430c185e0c_filosofia-capa-blog%20(2).webp" loading="eager" sizes="100vw" srcset="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/6852f7c9b435d4430c185e0c_filosofia-capa-blog%20(2)-p-500.webp 500w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/6852f7c9b435d4430c185e0c_filosofia-capa-blog%20(2)-p-800.webp 800w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/6852f7c9b435d4430c185e0c_filosofia-capa-blog%20(2).webp 1200w" alt="" class="blog-thumb-image-capa w-condition-invisible"/></div><div class="img-blog-capa"><img src="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/68531332acaa7bb0c650ba6c_psicanalise-o-que-e-capa-blog.webp" loading="eager" sizes="100vw" srcset="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/68531332acaa7bb0c650ba6c_psicanalise-o-que-e-capa-blog-p-500.png 500w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/68531332acaa7bb0c650ba6c_psicanalise-o-que-e-capa-blog-p-800.png 800w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/68531332acaa7bb0c650ba6c_psicanalise-o-que-e-capa-blog.webp 1200w" alt="" class="blog-thumb-image-capa w-condition-invisible"/></div><div class="img-blog-capa"><img src="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/675339129a000e37d56f25cb_capa-blog-fantasias-na-psicanalise%20(1).jpg" loading="eager" alt="O que é Fantasia na Psicanálise? O conceito por Freud e Lacan" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 938.8375244140625px" srcset="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/675339129a000e37d56f25cb_capa-blog-fantasias-na-psicanalise%20(1)-p-500.jpg 500w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/675339129a000e37d56f25cb_capa-blog-fantasias-na-psicanalise%20(1)-p-800.jpg 800w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/675339129a000e37d56f25cb_capa-blog-fantasias-na-psicanalise%20(1)-p-1080.jpg 1080w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/675339129a000e37d56f25cb_capa-blog-fantasias-na-psicanalise%20(1).jpg 1199w" class="blog-thumb-image-2"/></div><div class="img-blog-capa"><img src="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/687fee4950de8385428cb71e_Blog_Procure-Saber_1200x675.webp" loading="eager" sizes="100vw" srcset="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/687fee4950de8385428cb71e_Blog_Procure-Saber_1200x675-p-500.webp 500w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/687fee4950de8385428cb71e_Blog_Procure-Saber_1200x675-p-800.webp 800w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/687fee4950de8385428cb71e_Blog_Procure-Saber_1200x675.webp 1200w" alt="" class="blog-thumb-image-3 w-condition-invisible"/></div><div class="img-blog-capa"><img src="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/6883dfa37901705bc9a2d199_Blog_C%C3%A1-Entre-N%C3%B3s_1200x675.webp" loading="eager" sizes="100vw" srcset="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/6883dfa37901705bc9a2d199_Blog_C%C3%A1-Entre-N%C3%B3s_1200x675-p-500.webp 500w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/6883dfa37901705bc9a2d199_Blog_C%C3%A1-Entre-N%C3%B3s_1200x675-p-800.webp 800w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/6883dfa37901705bc9a2d199_Blog_C%C3%A1-Entre-N%C3%B3s_1200x675.webp 1200w" alt="" class="blog-thumb-image-3 bg-ca-entre-nos w-condition-invisible"/></div><div class="thumb-info"><div class="blog-writer"><div class="blog-avatar"><a href="/redatores/gabriel-cravo-prado" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/66a8e1db5439459e01bae480_Gabriel.JPG" loading="lazy" alt="O que é Fantasia na Psicanálise? O conceito por Freud e Lacan" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 938.8375244140625px" srcset="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/66a8e1db5439459e01bae480_Gabriel-p-500.jpg 500w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/66a8e1db5439459e01bae480_Gabriel-p-800.jpg 800w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/66a8e1db5439459e01bae480_Gabriel-p-1080.jpg 1080w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/66a8e1db5439459e01bae480_Gabriel.JPG 1464w" class="img"/></a></div><div class="blog-info"><a href="/redatores/gabriel-cravo-prado" class="autor-blog-link w-inline-block"><div>Gabriel Cravo Prado </div><div class="opacity-80 w-condition-invisible">Psicanalista e mestrando em Psicanálise e Sociedade pela PUC-SP.</div><div class="opacity-80">Psicanalista e mestrando em Psicanálise e Sociedade pela PUC-SP.</div><div class="opacity-80 w-condition-invisible">Psicanalista, professor da UNIRIO e da Casa do Saber</div></a></div></div><div class="share-social-media"><div>Compartilhar</div><div class="share-links"><div class="code-embed w-embed"><a class="w-inline-block sticky-social-links twitter" 
+   href="https://twitter.com/intent/tweet?" 
+   target="_blank" 
+   title="Tweet"
+   onclick="window.open(
+     'https://twitter.com/intent/tweet?text=' 
+     + encodeURIComponent(document.title) 
+     + '%20' 
+     + encodeURIComponent(document.URL + (document.URL.includes('?') ? '&' : '?') + 'utm_source=social&utm_medium=organic&utm_campaign=x-twitter_compartilhamento')
+   ); return false;">
+  <svg width="16" height="16" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15.751 0H18.818L12.118 7.625L20 18H13.828L8.995 11.707L3.464 18H0.394L7.561 9.845L0 0H6.328L10.698 5.752L15.751 0ZM14.675 16.172H16.375L5.404 1.732H3.58L14.675 16.172Z" fill="currentColor"/>
+  </svg>
+</a></div></div><div class="share-links"><div class="code-embed w-embed"><style>
+  .sticky-social-links.facebook {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s;
+  }
+
+  .sticky-social-links.facebook svg {
+    width: 12px;
+    height: 20px;
+    fill: currentColor;
+  }
+
+  .sticky-social-links.facebook:hover {
+    background-color: #196061;
+  }
+</style>
+
+<a class="w-inline-block sticky-social-links facebook" 
+   href="https://www.facebook.com/sharer/sharer.php?u=" 
+   title="Share on Facebook" 
+   target="_blank" 
+   onclick="window.open(
+     'https://www.facebook.com/sharer/sharer.php?u=' 
+     + encodeURIComponent(document.URL + (document.URL.includes('?') ? '&' : '?') + 'utm_source=social&utm_medium=organic&utm_campaign=facebook_compartilhamento') 
+     + '&t=' + encodeURIComponent(document.title)
+   ); return false;">
+  <svg width="12" height="20" viewBox="0 0 10 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M3.46169 17.1632V9.73349H0.961426V6.83797H3.46169V4.70261C3.46169 2.22454 4.97521 0.875183 7.18582 0.875183C8.24472 0.875183 9.1548 0.954021 9.42001 0.989259V3.57899L7.88684 3.57968C6.68459 3.57968 6.4518 4.15097 6.4518 4.98931V6.83797H9.31906L8.94573 9.73349H6.4518V17.1632H3.46169Z" fill="currentColor"/>
+  </svg>
+</a></div></div><div class="share-links"><div class="code-embed w-embed"><style>
+  .sticky-social-links.linkedin {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s;
+  }
+
+  .sticky-social-links.linkedin svg {
+    width: 16px;
+    height: 16px;
+    fill: currentColor;
+  }
+
+  .sticky-social-links.linkedin:hover {
+    background-color: #196061;
+  }
+</style>
+
+<a class="w-inline-block sticky-social-links linkedin" 
+   href="https://www.linkedin.com/sharing/share-offsite/?url=" 
+   target="_blank" 
+   title="Compartilhar no LinkedIn"
+   onclick="window.open(
+     'https://www.linkedin.com/sharing/share-offsite/?url=' 
+     + encodeURIComponent(document.URL + (document.URL.includes('?') ? '&' : '?') 
+     + 'utm_source=social&utm_medium=organic&utm_campaign=linkedin_compartilhamento')
+   ); return false;">
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8.51 4.796V6.493C8.86538 5.95168 9.35521 5.5119 9.93157 5.21671C10.5079 4.92152 11.1511 4.78103 11.798 4.809C15.253 4.809 16 6.969 16 9.779V15.5H12.8V10.428C12.8 9.218 12.556 7.662 10.672 7.662C8.845 7.662 8.533 8.979 8.533 10.338V15.5H5.343V4.796H8.51ZM3.2 2.106C3.19961 2.423 3.10564 2.73284 2.92988 2.99665C2.75412 3.26047 2.50439 3.46653 2.212 3.589C1.91973 3.71048 1.59792 3.74226 1.28753 3.68029C0.977146 3.61832 0.692214 3.4654 0.469 3.241C0.245365 3.01646 0.0931142 2.73081 0.0313919 2.41997C-0.0303305 2.10913 0.00123221 1.78698 0.12211 1.49403C0.242988 1.20108 0.447785 0.950407 0.710747 0.773539C0.973708 0.596671 1.28309 0.501502 1.6 0.5C1.81062 0.499999 2.01917 0.541582 2.21368 0.622364C2.4082 0.703147 2.58484 0.821539 2.7335 0.970748C2.88215 1.11996 2.99988 1.29705 3.07993 1.49186C3.15999 1.68668 3.20079 1.89538 3.2 2.106Z" fill="currentColor"/>
+    <path d="M3.2 4.809H0V15.5H3.2V4.809Z" fill="currentColor"/>
+  </svg>
+</a></div></div><div class="share-links"><div class="code-embed w-embed"><style>
+  .sticky-social-links.twitter {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s;
+  }
+
+  .sticky-social-links.twitter svg {
+    width: 16px;
+    height: 13px;
+    fill: currentColor;
+  }
+
+  .sticky-social-links.twitter:hover {
+    background-color: #196061;
+  }
+</style>
+
+<a class="w-inline-block sticky-social-links twitter" 
+   href="https://twitter.com/intent/tweet?"
+   target="_blank"
+   title="Copy URL" 
+   onclick="copyURLToClipboard(); return false;">
+  <svg width="14" height="18" viewBox="0 0 14 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.3333 3.50003H3.88891C3.7121 3.50003 3.54253 3.57904 3.41751 3.7197C3.29248 3.86035 3.22224 4.05111 3.22224 4.25002V16.25C3.22224 16.4489 3.29248 16.6397 3.41751 16.7803C3.54253 16.921 3.7121 17 3.88891 17H12.3333C12.5101 17 12.6797 16.921 12.8047 16.7803C12.9298 16.6397 13 16.4489 13 16.25V4.25002C13 4.05111 12.9298 3.86035 12.8047 3.7197C12.6797 3.57904 12.5101 3.50003 12.3333 3.50003ZM12.1111 16H4.11113V4.50002H12.1111V16Z" fill="currentColor"/>
+<path d="M10.7778 1.75C10.7778 1.55109 10.7075 1.36032 10.5825 1.21967C10.4575 1.07902 10.2879 1 10.1111 1H1.66667C1.48985 1 1.32029 1.07902 1.19526 1.21967C1.07024 1.36032 1 1.55109 1 1.75V13.75C1 13.9489 1.07024 14.1397 1.19526 14.2803C1.32029 14.421 1.48985 14.5 1.66667 14.5H1.88889V2H10.7778V1.75Z" fill="currentColor"/>
+<path d="M12.3333 3.50003H3.88891C3.7121 3.50003 3.54253 3.57904 3.41751 3.7197C3.29248 3.86035 3.22224 4.05111 3.22224 4.25002V16.25C3.22224 16.4489 3.29248 16.6397 3.41751 16.7803C3.54253 16.921 3.7121 17 3.88891 17H12.3333C12.5101 17 12.6797 16.921 12.8047 16.7803C12.9298 16.6397 13 16.4489 13 16.25V4.25002C13 4.05111 12.9298 3.86035 12.8047 3.7197C12.6797 3.57904 12.5101 3.50003 12.3333 3.50003ZM12.1111 16H4.11113V4.50002H12.1111V16Z" stroke="currentColor" stroke-width="0.5"/>
+<path d="M10.7778 1.75C10.7778 1.55109 10.7075 1.36032 10.5825 1.21967C10.4575 1.07902 10.2879 1 10.1111 1H1.66667C1.48985 1 1.32029 1.07902 1.19526 1.21967C1.07024 1.36032 1 1.55109 1 1.75V13.75C1 13.9489 1.07024 14.1397 1.19526 14.2803C1.32029 14.421 1.48985 14.5 1.66667 14.5H1.88889V2H10.7778V1.75Z" stroke="currentColor" stroke-width="0.5"/>
+</svg>
+</a></div></div></div></div></div></div></div></section><div class="padding-global-blog"><div class="w-layout-blockcontainer container-medium large w-container"><div class="blog-content-wrapper"><div class="template-content"><a href="https://conteudo.casadosaber.com.br/natal-casa-do-saber/" class="w-inline-block"><div class="div-block-39"><img src="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/69387ef7ca1844eaa65847b0_%5BNatal%5D%20banner-blog%20(1).webp" loading="lazy" width="Auto" height="Auto" alt="" srcset="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/69387ef7ca1844eaa65847b0_%5BNatal%5D%20banner-blog%20(1)-p-500.webp 500w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/69387ef7ca1844eaa65847b0_%5BNatal%5D%20banner-blog%20(1)-p-800.webp 800w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/69387ef7ca1844eaa65847b0_%5BNatal%5D%20banner-blog%20(1)-p-1080.webp 1080w, https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/69387ef7ca1844eaa65847b0_%5BNatal%5D%20banner-blog%20(1).webp 1600w" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" class="blog-img-responsive blog-img-responsive-vertical banner-cds-pass-blog"/></div></a><div class="blog-content w-richtext"><div class="w-embed"><p>A fantasia é um dos conceitos fundamentais da teoria psicanalítica e desempenha um papel fundamental na psicanálise. Ela não é apenas uma forma de evasão da realidade, mas <strong>um meio pelo qual o sujeito lida com suas frustrações </strong>e cria representações simbólicas de seus desejos mais profundos.</p>
+
+
+<div class="fs-styleguide_spacer-box padding-custom2">
+<p>Neste texto veremos:</p>
+<ul>
+  <li><a href="#topico1">Freud e a fantasia</a></li>
+  <li><a href="#topico2">O que é fantasia para Lacan?</a></li>
+  <li><a href="#topico3">Como aprender mais sobre o conceito de fantasia na psicanálise?</a></li>
+</ul></div>
+
+ <br><br>
+
+
+
+
+
+<h2 id="topico1">Freud e a Fantasia</h2>
+
+
+<p>As <a href="https://curadoria.casadosaber.com.br/cursos/419/freud-e-as-fantasias">fantasias</a> se tornaram um tema fundamental na obra de Freud desde os anos de 1897 e 1898, muito antes de ele publicar <em>A Interpretação dos Sonhos</em> em 1900, obra que marcou o início da psicanálise.</p>
+
+
+<p>Elas passaram a ganhar destaque à medida que Freud aprofundava suas <a href="https://curadoria.casadosaber.com.br/cursos/454/freud-e-os-fundamentos-da-psicanalise-teoria-e-clinica">primeiras experiências clínicas</a> com as <strong>histéricas</strong>, mulheres que apresentavam sintomas corporais inexplicáveis, sem justificativa fisiológica. Freud escutava suas pacientes, mas muitas vezes não conseguia entender completamente a origem desses sintomas. Foi nesse contexto que, em 1896, ele formulou a <strong>teoria da sedução sexual</strong>, explicando que os sintomas histéricos eram o resultado de cenas de sedução ocorridas na infância, onde as pacientes teriam sido seduzidas por um adulto ou até mesmo por uma criança mais velha.</p>
+
+
+<p>Ao longo dos anos, Freud desenvolveu ainda mais essa ideia, em textos como <em>Escritores Criativos e o Devaneio</em> (1908) e <em>Fantasia Histérica e Suas Relações com a Bissexualidade</em> (também de 1908), entre outros, sempre com o intuito de entender como as <strong>fantasias influenciavam o comportamento</strong> e os sintomas das histéricas.</p>
+
+
+<p>Inicialmente, ele se baseava em relatos de suas pacientes, que, sob hipnose, narravam cenas de sedução envolvendo adultos, incluindo os pais. Porém, com o tempo, Freud se deparou com um desafio: muitas mulheres não relatavam tais cenas de sedução. Esse fato, junto à crescente incidência de histeria na Europa, levou Freud a abandonar a teoria da sedução sexual e a introduzir uma nova compreensão sobre o <a href="https://curadoria.casadosaber.com.br/cursos/419/freud-e-as-fantasias"><strong>papel das fantasias na psique humana</strong></a><strong>.</strong></p>
+
+
+<p>Em uma carta de 1897 para seu amigo Fliess, <a href="https://www.casadosaber.com.br/autores/sigmund-freud"><strong>Freud</strong></a> expressa que abandonou a teoria da sedução e <strong>passou a defender a teoria da fantasia,</strong> pois essa seria a chave para entender os sintomas histéricos. A fantasia, nesse novo contexto, passou a ser vista como uma construção psíquica capaz de gerar os mesmos efeitos devastadores de uma experiência real, já que, para o sujeito, sua fantasia é muitas vezes vivida como uma realidade verdadeira. Foi nesse momento que Freud introduziu <strong>o conceito de </strong><strong><em>realidade psíquica</em></strong>, a realidade das nossas fantasias, que, para ele, tem o poder de moldar nossa percepção do mundo.</p>
+
+<a href="https://mais.casadosaber.com.br/ebook-inconsciente-conteudo"> 
+
+<img src="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/67641b64a25443f3afdcda45_banner_blogs_incosciente%20(1).png" alt="banner 'Ebook Guia para Entender o Inconsciente '" class="align- button-lp-wrap">
+
+</a><br><br>
+
+
+<h3> Por que as pessoas fantasiam?</h3>
+
+
+<p>Freud responde que as fantasias surgem como uma forma de dar conta de uma <strong>realidade que muitas vezes é insatisfatória.</strong> Elas oferecem uma certa satisfação às frustrações da vida e ajudam a compensar desejos que, na realidade, raramente são atendidos. As fantasias, portanto, têm uma função de adaptação, permitindo que se suporte o mundo que não corresponde completamente aos<strong> desejos dos sujeitos.</strong></p>
+
+
+<p>Ao mesmo tempo, <strong>Freud diferencia as fantasias dos delírios</strong>, que são marcados pela ausência de qualquer dúvida, ao contrário das fantasias, que sempre carregam uma margem de incerteza. É essa flexibilidade que torna as fantasias algo comum e natural, enquanto os delírios são sintoma de distúrbios psíquicos mais graves.</p>
+
+
+<p>É importante frisar que a fantasia, na psicanálise, se torna eficaz porque o sujeito a aceita como verdadeira, acreditando nela de forma plena. É importante destacar que esse processo de construção da realidade psíquica, esse mecanismo fantasioso, <strong>ocorre de maneira inconsciente.</strong> Ou seja, assim como muitos aspectos da vida subjetiva, o sujeito não tem plena consciência de que está criando essas fantasias nem de que elas não correspondem à realidade. Todo esse processo subjetivo, em sua essência, acontece fora da percepção consciente do indivíduo.</p>
+
+
+<p>Nessa temática, entre os textos mais importantes de Freud, destacam-se:</p>
+
+
+<ol>
+<li><em>Delírios e Sonhos na Gradiva de Jansen</em> (1908)</li>
+<li><em>Escritores Criativos e Devaneio</em> (1908)</li>
+</ol><br><br>
+
+
+<p>Em essência, Freud busca explorar as <strong>relações entre a </strong><a href="https://curadoria.casadosaber.com.br/cursos/369/curtasdosaber-fantasia-nao-e-mentira"><strong>fantasia e o desejo</strong></a>, analisando como essas dimensões estão ligadas na constituição do sujeito. Esses textos também mostram a ideia de Freud sobre o insuportável da realidade e como a fantasia entra justamente nesse lugar na tentativa de suavizar e compensar essa insatisfação existencial.</p>
+
+<a href="https://curadoria.casadosaber.com.br/cursos/419/freud-e-as-fantasias"> 
+
+<img src="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/6717ebd177ae0c91ff70a36a_banner-blogs_Freud-e-as-Fantasias%20(2).png" alt="banner curso freud e as fantasias, por Ricardo Salztrager" class="align- button-lp-wrap">
+
+</a><br><br>
+
+
+
+<h2 id="topico2">O que é fantasia para Lacan?</h2>
+
+
+
+<p>Para Jacques Lacan, a fantasia é um <strong>conceito central em sua teoria psicanalítica</strong>, e ela desempenha um papel crucial na estruturação do desejo e na <a href="https://curadoria.casadosaber.com.br/cursos/377/lacan-e-as-desconexes-humanas">constituição do sujeito</a>. Diferente da concepção de Freud, que via a fantasia principalmente como uma forma de expressão dos desejos reprimidos e inconscientes, Lacan a entende como um mecanismo estrutural que organiza o desejo e o sujeito em relação ao outro.</p>
+
+
+<p>Em Lacan, a fantasia está intimamente ligada à <a href="https://curadoria.casadosaber.com.br/cursos/287/amor-e-solidao-uma-psicanalise-das-conexes-humanas"><strong>ideia de </strong><strong><em>falta</em></strong></a> — a noção de que o sujeito é fundamentalmente marcado pela ausência ou pela falta de algo, que nunca pode ser plenamente satisfeita. A fantasia, então, é a cena ou o cenário através do qual o sujeito tenta dar forma a essa falta. Ela não é uma simples representação de desejos reprimidos, mas uma construção simbólica que organiza a forma do desejo em relação ao objeto do desejo, que Lacan chama de <strong><em>objet petit a</em></strong> (o objeto a).</p>
+
+
+<p>A <strong>fantasia, para Lacan</strong>, é uma estrutura que serve para "tapar" a falta, fornecendo uma espécie de "cenário" onde o sujeito pode experimentar a relação com o <em>objeto a</em>, ou seja, com o que ele imagina que possa preencher essa falta. Em outras palavras, a fantasia é uma tela que<a href="https://curadoria.casadosaber.com.br/cursos/477/desejo-o-maestro-dos-afetos"> <strong>projeta os desejos do sujeito</strong></a> e ao mesmo tempo mantém a falta e o desejo vivos, sem que o sujeito nunca possa alcançar uma satisfação plena.</p>
+
+
+<p>Além disso, Lacan vê a fantasia como algo fundamental para o funcionamento do inconsciente, pois é através dela que o sujeito se coloca no <a href="https://curadoria.casadosaber.com.br/cursos/427/real-simbolico-e-imaginario-a-trindade-infernal-de-jacques-lacan"><strong>campo simbólico</strong></a>, se identificando com determinadas imagens e cenários que estruturam sua relação com o desejo e com o Outro (representado, por exemplo, pelo grande Outro, ou seja, a linguagem, as normas sociais e a figura do pai).</p>
+
+
+<p>Portanto, para Lacan, a fantasia<strong> não é apenas um mecanismo de defesa </strong>ou uma expressão do inconsciente, mas uma estrutura psíquica que organiza o desejo e a posição do sujeito dentro da ordem simbólica, sempre em relação à falta que define sua subjetividade. Ela funciona como um modo de "dar sentido" à experiência do desejo, sem jamais permitir uma satisfação definitiva.</p>
+
+
+<a href="https://curadoria.casadosaber.com.br/cursos/211/jacques-lacan-do-retorno-a-freud-ao-desenvolvimento-da-psicanalise-lacaniana">
+  
+<img src="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/670986d45a81d2cc7fd82839_banner-curso-jacques-lacan-christian-dunker.png" alt="banner do curso Jacques Lacan, de Christian Dunker, para a Casa do Saber">
+
+</a><br><br>
+
+
+<h2 id="topico3">Como aprender mais sobre o conceito de fantasia na psicanálise?</h2>
+
+
+<p>O conceito de fantasia é central tanto na psicanálise e seu estudo exige uma dedicação cuidadosa para compreender sua complexidade. Para se aprofundar na teoria da fantasia, a plataforma da Casa do Saber oferece cursos sobre a teoria psicanalítica, ministrados por renomados especialistas, e pode ser uma excelente forma de aprofundar o entendimento sobre a fantasia, além de proporcionar uma experiência de aprendizado rica e diversificada.</p>
+
+
+<p>Adicionalmente, há uma vasta gama de literatura complementar que ajuda a contextualizar as ideias de Freud e Lacan no panorama maior da psicanálise, oferecendo novas perspectivas sobre o papel das fantasias na construção da subjetividade.</p></div></div><div class="author-box"><div class="author-left"><div class="author-photo-wrapper"><img src="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/66a8e1db5439459e01bae480_Gabriel.JPG" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 938.8375244140625px" srcset="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/66a8e1db5439459e01bae480_Gabriel-p-500.jpg 500w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/66a8e1db5439459e01bae480_Gabriel-p-800.jpg 800w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/66a8e1db5439459e01bae480_Gabriel-p-1080.jpg 1080w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/66a8e1db5439459e01bae480_Gabriel.JPG 1464w" class="author-photo"/></div></div><div class="author-bio"><div class="text-block-14">Artigo escrito por</div><a href="/redatores/gabriel-cravo-prado" class="author-name">Gabriel Cravo Prado </a><div class="text-block-12">Gabriel Cravo Prado é psicanalista, mestrando pelo Núcleo de Psicanálise e Sociedade da PUC-SP e aspirante a membro do Departamento de Psicanálise do Instituto Sedes Sapientiae.</div></div></div><div class="share-social-media"><div>Compartilhe</div><div class="share-links"><div class="code-embed w-embed"><style>
+  .sticky-social-links.twitter {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s;
+  }
+
+  .sticky-social-links.twitter svg {
+    width: 16px;
+    height: 13px;
+    fill: currentColor;
+  }
+
+  .sticky-social-links.twitter:hover {
+    background-color: #196061;
+  }
+</style>
+
+<a class="w-inline-block sticky-social-links twitter" href="https://twitter.com/intent/tweet?" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=%20Check%20up%20this%20awesome%20content' + encodeURIComponent(document.title) + ':%20 ' + encodeURIComponent(document.URL)); return false;">
+  <svg width="16" height="13" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M15.751 0H18.818L12.118 7.625L20 18H13.828L8.995 11.707L3.464 18H0.394L7.561 9.845L0 0H6.328L10.698 5.752L15.751 0ZM14.675 16.172H16.375L5.404 1.732H3.58L14.675 16.172Z" fill="currentColor"/>
+</svg>
+
+</a></div></div><div class="share-links"><div class="code-embed w-embed"><style>
+  .sticky-social-links.twitter {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s;
+  }
+
+  .sticky-social-links.twitter svg {
+    width: 16px;
+    height: 13px;
+    fill: currentColor;
+  }
+
+  .sticky-social-links.twitter:hover {
+    background-color: #196061;
+  }
+</style>
+
+<a class="w-inline-block sticky-social-links twitter" href="https://www.facebook.com/sharer/sharer.php?u=&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;">
+  <svg width="12" height="20" viewBox="0 0 10 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3.46169 17.1632V9.73349H0.961426V6.83797H3.46169V4.70261C3.46169 2.22454 4.97521 0.875183 7.18582 0.875183C8.24472 0.875183 9.1548 0.954021 9.42001 0.989259V3.57899L7.88684 3.57968C6.68459 3.57968 6.4518 4.15097 6.4518 4.98931V6.83797H9.31906L8.94573 9.73349H6.4518V17.1632H3.46169Z" fill="currentColor"/>
+</svg>
+</a></div></div><div class="share-links"><div class="code-embed w-embed"><style>
+  .sticky-social-links.twitter {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s;
+  }
+
+  .sticky-social-links.twitter svg {
+    width: 16px;
+    height: 13px;
+    fill: currentColor;
+  }
+
+  .sticky-social-links.twitter:hover {
+    background-color: #196061;
+  }
+</style>
+
+<a class="w-inline-block sticky-social-links twitter" href="http://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source=" target="_blank" title="Share on LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' + encodeURIComponent(document.title)); return false;">
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.51 4.796V6.493C8.86538 5.95168 9.35521 5.5119 9.93157 5.21671C10.5079 4.92152 11.1511 4.78103 11.798 4.809C15.253 4.809 16 6.969 16 9.779V15.5H12.8V10.428C12.8 9.218 12.556 7.662 10.672 7.662C8.845 7.662 8.533 8.979 8.533 10.338V15.5H5.343V4.796H8.51ZM3.2 2.106C3.19961 2.423 3.10564 2.73284 2.92988 2.99665C2.75412 3.26047 2.50439 3.46653 2.212 3.589C1.91973 3.71048 1.59792 3.74226 1.28753 3.68029C0.977146 3.61832 0.692214 3.4654 0.469 3.241C0.245365 3.01646 0.0931142 2.73081 0.0313919 2.41997C-0.0303305 2.10913 0.00123221 1.78698 0.12211 1.49403C0.242988 1.20108 0.447785 0.950407 0.710747 0.773539C0.973708 0.596671 1.28309 0.501502 1.6 0.5C1.81062 0.499999 2.01917 0.541582 2.21368 0.622364C2.4082 0.703147 2.58484 0.821539 2.7335 0.970748C2.88215 1.11996 2.99988 1.29705 3.07993 1.49186C3.15999 1.68668 3.20079 1.89538 3.2 2.106Z" fill="currentColor"/>
+<path d="M3.2 4.809H0V15.5H3.2V4.809Z" fill="currentColor"/>
+</svg>
+</a></div></div><div class="share-links"><div class="code-embed w-embed"><style>
+  .sticky-social-links.twitter {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s;
+  }
+
+  .sticky-social-links.twitter svg {
+    width: 16px;
+    height: 13px;
+    fill: currentColor;
+  }
+
+  .sticky-social-links.twitter:hover {
+    background-color: #196061;
+  }
+</style>
+
+<a class="w-inline-block sticky-social-links twitter" 
+   href="https://twitter.com/intent/tweet?"
+   target="_blank"
+   title="Copy URL" 
+   onclick="copyURLToClipboard(); return false;">
+  <svg width="14" height="18" viewBox="0 0 14 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.3333 3.50003H3.88891C3.7121 3.50003 3.54253 3.57904 3.41751 3.7197C3.29248 3.86035 3.22224 4.05111 3.22224 4.25002V16.25C3.22224 16.4489 3.29248 16.6397 3.41751 16.7803C3.54253 16.921 3.7121 17 3.88891 17H12.3333C12.5101 17 12.6797 16.921 12.8047 16.7803C12.9298 16.6397 13 16.4489 13 16.25V4.25002C13 4.05111 12.9298 3.86035 12.8047 3.7197C12.6797 3.57904 12.5101 3.50003 12.3333 3.50003ZM12.1111 16H4.11113V4.50002H12.1111V16Z" fill="currentColor"/>
+<path d="M10.7778 1.75C10.7778 1.55109 10.7075 1.36032 10.5825 1.21967C10.4575 1.07902 10.2879 1 10.1111 1H1.66667C1.48985 1 1.32029 1.07902 1.19526 1.21967C1.07024 1.36032 1 1.55109 1 1.75V13.75C1 13.9489 1.07024 14.1397 1.19526 14.2803C1.32029 14.421 1.48985 14.5 1.66667 14.5H1.88889V2H10.7778V1.75Z" fill="currentColor"/>
+<path d="M12.3333 3.50003H3.88891C3.7121 3.50003 3.54253 3.57904 3.41751 3.7197C3.29248 3.86035 3.22224 4.05111 3.22224 4.25002V16.25C3.22224 16.4489 3.29248 16.6397 3.41751 16.7803C3.54253 16.921 3.7121 17 3.88891 17H12.3333C12.5101 17 12.6797 16.921 12.8047 16.7803C12.9298 16.6397 13 16.4489 13 16.25V4.25002C13 4.05111 12.9298 3.86035 12.8047 3.7197C12.6797 3.57904 12.5101 3.50003 12.3333 3.50003ZM12.1111 16H4.11113V4.50002H12.1111V16Z" stroke="currentColor" stroke-width="0.5"/>
+<path d="M10.7778 1.75C10.7778 1.55109 10.7075 1.36032 10.5825 1.21967C10.4575 1.07902 10.2879 1 10.1111 1H1.66667C1.48985 1 1.32029 1.07902 1.19526 1.21967C1.07024 1.36032 1 1.55109 1 1.75V13.75C1 13.9489 1.07024 14.1397 1.19526 14.2803C1.32029 14.421 1.48985 14.5 1.66667 14.5H1.88889V2H10.7778V1.75Z" stroke="currentColor" stroke-width="0.5"/>
+</svg>
+</a></div></div></div></div><div class="sidebar-blog"><div class="sitcky-card no-sticky margin-top related-post-card"><div class="newsletter-heading"><div class="heading-style-h4 text-weight-medium blog-heading leia-tambem-titulo">Outros artigos que podem te interessar:</div></div><div class="w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="related-post-list-link w-dyn-item"><a href="/blog/repeticao-na-psicanalise-o-conceito-nas-ideias-de-freud" class="leia-mais-lateral">Repetição na psicanálise: o conceito nas ideias de Freud</a></div><div role="listitem" class="related-post-list-link w-dyn-item"><a href="/blog/como-e-uma-sessao-de-psicanalise" class="leia-mais-lateral">Como é uma sessão de psicanálise?</a></div><div role="listitem" class="related-post-list-link w-dyn-item"><a href="/blog/id-ego-e-superego-entenda-os-conceitos-de-freud-na-psicanalise" class="leia-mais-lateral">Id, Ego e Superego: entenda as instâncias psíquicas de Freud</a></div></div></div><div class="form-newsletter-card"></div></div><div class="tags-relacionadas-wrapper"><div class="text-size-regular text-weight-medium">Tags relacionadas</div><div class="w-dyn-list"><div role="list" class="collection-list-tags-unicas w-dyn-items"><div role="listitem" class="w-dyn-item"><a href="/tag/psicanalise" class="tags-relacionadas-unicas w-inline-block"><div class="text-size-small text-weight-medium text-style-allcaps">Psicanálise</div></a></div><div role="listitem" class="w-dyn-item"><a href="/tag/freud" class="tags-relacionadas-unicas w-inline-block"><div class="text-size-small text-weight-medium text-style-allcaps">Freud</div></a></div></div></div></div></div></div></div><div class="w-layout-blockcontainer container-medium large w-container"><div class="categories-recent-posts"><div class="blog-recent-heading"><div class="text-size-large text-weight-medium heading-blog">Leia também:</div></div><div class="other-recent-post"><div class="w-dyn-list"><div role="list" class="w-dyn-items w-row"><div role="listitem" class="w-dyn-item w-col w-col-4"><div class="blog_item"><a href="/blog/historia-da-psicanalise-como-surgiu-freud-escolas-e-autores" class="others-card w-inline-block"><div class="other-image-wrapper"><img src="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/69419daf63fa443f3a609940_historia-da-psicanalise-capa-blog.webp" loading="lazy" alt="História da Psicanálise: como surgiu, Freud, escolas e autores" sizes="(max-width: 767px) 96vw, (max-width: 991px) 30vw, 298.7749938964844px" srcset="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/69419daf63fa443f3a609940_historia-da-psicanalise-capa-blog-p-500.webp 500w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/69419daf63fa443f3a609940_historia-da-psicanalise-capa-blog-p-800.webp 800w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/69419daf63fa443f3a609940_historia-da-psicanalise-capa-blog-p-1080.webp 1080w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/69419daf63fa443f3a609940_historia-da-psicanalise-capa-blog.webp 1200w" class="blog-img"/></div><div class="info-card"><div class="other-info-card"><div>Ricardo Salztrager</div></div><div class="other-heading"><div class="heading-style-h4 blog-heading">História da Psicanálise: como surgiu, Freud, escolas e autores</div></div></div></a></div></div><div role="listitem" class="w-dyn-item w-col w-col-4"><div class="blog_item"><a href="/blog/atencao-flutuante-o-que-e-e-como-funciona-na-psicanalise" class="others-card w-inline-block"><div class="other-image-wrapper"><img src="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/6931d028cb9923b642ade67a_atencao-flutuante-capa-blog.webp" loading="lazy" alt="Atenção flutuante: o que é e como funciona na psicanálise" sizes="(max-width: 767px) 96vw, (max-width: 991px) 30vw, 298.7749938964844px" srcset="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/6931d028cb9923b642ade67a_atencao-flutuante-capa-blog-p-500.webp 500w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/6931d028cb9923b642ade67a_atencao-flutuante-capa-blog-p-800.webp 800w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/6931d028cb9923b642ade67a_atencao-flutuante-capa-blog-p-1080.webp 1080w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/6931d028cb9923b642ade67a_atencao-flutuante-capa-blog.webp 1200w" class="blog-img"/></div><div class="info-card"><div class="other-info-card"><div>Ricardo Salztrager</div></div><div class="other-heading"><div class="heading-style-h4 blog-heading">Atenção flutuante: o que é e como funciona na psicanálise</div></div></div></a></div></div><div role="listitem" class="w-dyn-item w-col w-col-4"><div class="blog_item"><a href="/blog/resistencia-na-psicanalise-o-que-e-e-como-funciona" class="others-card w-inline-block"><div class="other-image-wrapper"><img src="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/691b740d447b9dc40675d13e_resistencia-na-psicanalise-capa-blog.webp" loading="lazy" alt="Resistência na psicanálise: o que é e como funciona" sizes="(max-width: 767px) 96vw, (max-width: 991px) 30vw, 298.7749938964844px" srcset="https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/691b740d447b9dc40675d13e_resistencia-na-psicanalise-capa-blog-p-500.webp 500w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/691b740d447b9dc40675d13e_resistencia-na-psicanalise-capa-blog-p-800.webp 800w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/691b740d447b9dc40675d13e_resistencia-na-psicanalise-capa-blog-p-1080.webp 1080w, https://cdn.prod.website-files.com/6331f2cd9d4e44f039dc4065/691b740d447b9dc40675d13e_resistencia-na-psicanalise-capa-blog.webp 1200w" class="blog-img"/></div><div class="info-card"><div class="other-info-card"><div>Ricardo Salztrager</div></div><div class="other-heading"><div class="heading-style-h4 blog-heading">Resistência na psicanálise: o que é e como funciona</div></div></div></a></div></div></div></div></div></div></div></div></div></div><section class="footer-v2"><div class="padding-global"><div class="container-large"><div class="footer-component"><div class="w-layout-grid footer-grid"><div id="w-node-f2e20edc-ebbf-0211-e7c5-549fd82d23b2-d82d23ad" class="footer-left"><div class="footer-logo"><img src="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/65b7f5e774c9d0cabff95ec6_logo-cds.svg" loading="lazy" alt="Logo"/></div><p>Casa do Saber nasceu em 2004 e já contou com mais de 2 milhões de alunos. O espaço se transformou em uma plataforma de aulas on-line, mas o propósito continua a ser o conhecimento acessível, de qualidade e transformador.</p><div class="footer-social-media"><a aria-label="Twitter da Casa do Saber" href="https://x.com/casadosaber" class="footer-social-links w-inline-block"><div class="footer-icon w-embed"><svg width="12" height="10" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M15.751 0H18.818L12.118 7.625L20 18H13.828L8.995 11.707L3.464 18H0.394L7.561 9.845L0 0H6.328L10.698 5.752L15.751 0ZM14.675 16.172H16.375L5.404 1.732H3.58L14.675 16.172Z" fill="currentColor"/>
+</svg></div></a><a aria-label="Facebook da Casa do Saber" href="https://www.facebook.com/casadosaber" class="footer-social-links w-inline-block"><div class="footer-icon w-embed"><svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2.70873 12.3038V6.75026H0.839844V4.58594H2.70873V2.98981C2.70873 1.13752 3.84005 0.128906 5.49242 0.128906C6.28392 0.128906 6.96418 0.187836 7.16243 0.214175V2.14993L6.01642 2.15045C5.11776 2.15045 4.94376 2.57748 4.94376 3.20411V4.58594H7.08697L6.80791 6.75026H4.94376V12.3038H2.70873Z" fill="currentColor"/>
+</svg></div></a><a aria-label="Instagram da Casa do Saber" href="https://www.instagram.com/casadosaber" class="footer-social-links w-inline-block"><div class="footer-icon w-embed"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.00076 1.44721C8.80947 1.44721 9.02366 1.45398 9.73818 1.48656C10.1678 1.49182 10.5933 1.5707 10.9962 1.71979C11.2884 1.83248 11.5538 2.00511 11.7753 2.22656C11.9967 2.44802 12.1694 2.71339 12.282 3.00559C12.4311 3.40853 12.51 3.83406 12.5153 4.26366C12.5475 4.97817 12.5546 5.19237 12.5546 7.00108C12.5546 8.80979 12.5479 9.02398 12.5153 9.7385C12.51 10.1681 12.4311 10.5936 12.282 10.9966C12.1694 11.2888 11.9967 11.5541 11.7753 11.7756C11.5538 11.997 11.2884 12.1697 10.9962 12.2824C10.5933 12.4315 10.1678 12.5103 9.73818 12.5156C9.02398 12.5479 8.80979 12.5549 7.00076 12.5549C5.19172 12.5549 4.97753 12.5482 4.26334 12.5156C3.83373 12.5103 3.40821 12.4315 3.00527 12.2824C2.71307 12.1697 2.44769 11.997 2.22624 11.7756C2.00479 11.5541 1.83216 11.2888 1.71947 10.9966C1.57038 10.5936 1.4915 10.1681 1.48624 9.7385C1.45398 9.02398 1.44689 8.80979 1.44689 7.00108C1.44689 5.19237 1.45366 4.97817 1.48624 4.26366C1.4915 3.83406 1.57038 3.40853 1.71947 3.00559C1.83216 2.71339 2.00479 2.44802 2.22624 2.22656C2.44769 2.00511 2.71307 1.83248 3.00527 1.71979C3.40821 1.5707 3.83373 1.49182 4.26334 1.48656C4.97785 1.4543 5.19205 1.44721 7.00076 1.44721ZM7.00076 0.226562C5.16205 0.226562 4.93043 0.234304 4.20785 0.267208C3.64561 0.278391 3.08934 0.384847 2.56269 0.582046C2.11092 0.752261 1.70172 1.019 1.36366 1.36366C1.01869 1.70184 0.751722 2.11127 0.581401 2.56334C0.384201 3.08998 0.277746 3.64625 0.266563 4.2085C0.234304 4.93043 0.226562 5.16205 0.226562 7.00076C0.226562 8.83946 0.234304 9.07108 0.267208 9.79366C0.278391 10.3559 0.384847 10.9122 0.582046 11.4388C0.752178 11.8908 1.01892 12.3002 1.36366 12.6385C1.70191 12.9832 2.11133 13.25 2.56334 13.4201C3.08998 13.6173 3.64626 13.7238 4.2085 13.7349C4.93108 13.7672 5.16172 13.7756 7.0014 13.7756C8.84108 13.7756 9.07172 13.7679 9.7943 13.7349C10.3565 13.7238 10.9128 13.6173 11.4395 13.4201C11.8893 13.2457 12.2978 12.9794 12.6389 12.6381C12.98 12.2968 13.246 11.8882 13.4201 11.4382C13.6173 10.9115 13.7238 10.3553 13.735 9.79301C13.7672 9.07108 13.775 8.83946 13.775 7.00076C13.775 5.16205 13.7672 4.93043 13.7343 4.20785C13.7231 3.64561 13.6167 3.08934 13.4195 2.56269C13.2493 2.11068 12.9826 1.70126 12.6379 1.36301C12.2996 1.01828 11.8902 0.751533 11.4382 0.581401C10.9115 0.384201 10.3553 0.277746 9.79301 0.266563C9.07108 0.234304 8.83947 0.226562 7.00076 0.226562Z" fill="currentColor"/>
+<path d="M7.00215 3.52344C6.31413 3.52344 5.64155 3.72746 5.06948 4.10971C4.49741 4.49195 4.05154 5.03525 3.78824 5.6709C3.52494 6.30655 3.45605 7.00601 3.59028 7.68081C3.72451 8.35561 4.05582 8.97546 4.54233 9.46197C5.02884 9.94847 5.64868 10.2798 6.32349 10.414C6.99829 10.5482 7.69774 10.4794 8.33339 10.2161C8.96904 9.95276 9.51234 9.50689 9.89459 8.93481C10.2768 8.36274 10.4809 7.69017 10.4809 7.00215C10.4809 6.07954 10.1144 5.19471 9.46197 4.54233C8.80958 3.88994 7.92476 3.52344 7.00215 3.52344ZM7.00215 9.26021C6.55555 9.26021 6.11897 9.12778 5.74763 8.87966C5.3763 8.63154 5.08688 8.27888 4.91597 7.86627C4.74506 7.45366 4.70034 6.99964 4.78747 6.56162C4.8746 6.1236 5.08966 5.72125 5.40546 5.40545C5.72125 5.08966 6.1236 4.8746 6.56162 4.78747C6.99964 4.70034 7.45367 4.74506 7.86627 4.91597C8.27888 5.08687 8.63154 5.3763 8.87966 5.74763C9.12778 6.11897 9.26021 6.55554 9.26021 7.00215C9.26021 7.60102 9.02231 8.17537 8.59884 8.59884C8.17537 9.02231 7.60102 9.26021 7.00215 9.26021Z" fill="currentColor"/>
+<path d="M10.6176 4.19807C11.0665 4.19807 11.4305 3.83412 11.4305 3.38517C11.4305 2.93621 11.0665 2.57227 10.6176 2.57227C10.1686 2.57227 9.80469 2.93621 9.80469 3.38517C9.80469 3.83412 10.1686 4.19807 10.6176 4.19807Z" fill="currentColor"/>
+</svg></div></a><a aria-label="Youtube da Casa do Saber" href="https://www.youtube.com/@casadosaber" class="footer-social-links w-inline-block"><div class="footer-icon w-embed"><svg width="23" height="16" viewBox="0 0 23 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M21.5338 3.1893C21.4145 2.76512 21.1803 2.37834 20.8547 2.06779C20.5291 1.75723 20.1237 1.53382 19.679 1.41997C18.4642 0.972258 6.69477 0.752907 3.28019 1.43249C2.83545 1.54638 2.42995 1.76987 2.10438 2.08052C1.77881 2.39117 1.54464 2.77805 1.42538 3.20232C0.876754 5.49749 0.83528 10.4594 1.43903 12.8062C1.55837 13.2303 1.79258 13.6171 2.11814 13.9277C2.4437 14.2382 2.84917 14.4616 3.29384 14.5755C5.6999 15.1038 17.1385 15.178 19.6926 14.5755C20.1373 14.4616 20.5428 14.2382 20.8683 13.9277C21.1939 13.6171 21.4281 13.2303 21.5475 12.8062C22.1323 10.3057 22.1738 5.65123 21.5338 3.1893Z" stroke="#FBFBFB" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.9477 7.99748L9.46308 4.99719V10.9978L14.9477 7.99748Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div></a></div></div><div class="footer-links"><div class="text-style-allcaps text-weight-semibold">cursos</div><div class="footer-links-content"><a href="https://curadoria.casadosaber.com.br/categoria/literatura" class="footer-link w-inline-block"><div class="text-color-white text-size-small">Literatura</div></a><a href="https://curadoria.casadosaber.com.br/categoria/historia-da-arte" class="footer-link w-inline-block"><div class="text-color-white text-size-small">Artes</div></a><a href="https://curadoria.casadosaber.com.br/categoria/filosofia-antiga" class="footer-link w-inline-block"><div class="text-color-white text-size-small">Filosofia</div></a><a href="https://curadoria.casadosaber.com.br/categoria/neurociencia" class="footer-link w-inline-block"><div class="text-color-white text-size-small">Neurociência</div></a><a href="https://curadoria.casadosaber.com.br/categoria/gestao-e-negocios" class="footer-link w-inline-block"><div class="text-color-white text-size-small">Gestão e negócios</div></a></div></div><div class="footer-links"><div class="text-style-allcaps text-weight-semibold">mapa do site</div><div class="footer-links-content"><a href="https://curadoria.casadosaber.com.br/cursos/lista-completa" class="footer-link w-inline-block"><div class="text-color-white text-size-small">Cursos</div></a><a href="https://curadoria.casadosaber.com.br/professores" class="footer-link w-inline-block"><div class="text-color-white text-size-small">Professores</div></a><a href="https://www.casadosaber.com.br/programa-maispsicanalise" class="footer-link w-inline-block"><div class="text-color-white text-size-small">+ Psicanálise</div></a><a href="https://www.casadosaber.com.br/blog" target="_blank" class="footer-link w-inline-block"><div class="text-color-white text-size-small">Blog</div></a><a href="https://checkout.casadosaber.com.br/presente" class="footer-link w-inline-block"><div class="text-color-white text-size-small">Quero Presentear</div></a><a href="https://www.casadosaber.com.br/autores" class="footer-link w-inline-block"><div class="text-color-white text-size-small">Autores</div></a></div></div><div id="w-node-f2e20edc-ebbf-0211-e7c5-549fd82d23ed-d82d23ad" class="footer-right"><div class="footer-links-top"><div class="text-style-allcaps text-weight-semibold">FICOU COM ALGUMA DÚVIDA?</div><p class="text-size-small">Atendimento digital a qualquer hora ou equipe disponível de segunda à sexta-feira, das 10h às 19h.</p></div><a href="#" class="social-links w-inline-block"><div class="footer-icon w-embed"><svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M17.8571 0.356934H2.14286C0.959817 0.356934 0 1.31675 0 2.49979V12.4998C0 13.6828 0.959817 14.6426 2.14286 14.6426H17.8571C19.0402 14.6426 20 13.6828 20 12.4998V2.49979C20 1.31675 19.0402 0.356934 17.8571 0.356934ZM17.3786 1.78551L10 7.32128L2.62153 1.78551H17.3786ZM17.8571 13.2141H2.14286C1.74821 13.2141 1.42857 12.8944 1.42857 12.4998V2.67831L9.14286 8.46391C9.6509 8.84516 10.3491 8.84516 10.8571 8.46391L18.5714 2.67831V12.4998C18.5714 12.6891 18.4964 12.8712 18.3625 13.0051C18.2286 13.1391 18.0464 13.2141 17.8571 13.2141Z" fill="#3A7575"/>
+</svg></div><div class="text-color-white">suporte@casadosaber.com.br</div></a><a href="#" class="social-links w-inline-block"><div class="footer-icon w-embed"><svg width="19" height="20" viewBox="0 0 19 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.2933 10.6512L12.6249 9.4309C12.3713 9.2449 12.0613 9.17162 11.7513 9.21953C11.4413 9.26744 11.1707 9.43371 10.9847 9.68735L10.469 10.3947C10.4633 10.4032 10.4577 10.4116 10.4521 10.4201C10.3732 10.4313 9.95608 10.4398 8.95844 9.64508L8.85135 9.56899C7.80863 8.87572 7.69026 8.47835 7.67617 8.39663C7.68181 8.38817 7.69026 8.37972 7.6959 8.37126L8.21163 7.6639C8.59208 7.14254 8.47935 6.40699 7.95517 6.02372L6.25581 4.78372C5.73445 4.40045 4.9989 4.51599 4.61563 5.04018L4.09427 5.75599C3.58981 6.44926 3.45736 7.35954 3.742 8.1909C4.15627 9.39426 5.19618 10.6653 6.84199 11.9729C6.87017 12.0067 6.90399 12.0349 6.94063 12.0631C6.98008 12.0913 7.02236 12.1194 7.06181 12.1476C7.10126 12.1786 7.14072 12.2068 7.18017 12.2378C7.21681 12.266 7.25626 12.2885 7.29572 12.3054C9.04299 13.4722 10.5704 14.0781 11.8443 14.1034C11.8612 14.1034 11.8809 14.1034 11.8978 14.1034C12.7292 14.1034 13.5239 13.6948 14.0255 13.0043L14.5469 12.2885C14.7329 12.0349 14.8062 11.7249 14.7583 11.4149C14.7132 11.1077 14.5469 10.8343 14.2933 10.6512ZM13.6394 11.6263L13.1181 12.3421C12.8193 12.7507 12.3403 12.9846 11.8696 12.9762C11.1087 12.9593 9.77853 12.6436 7.73254 11.2373C5.76827 9.71553 5.0609 8.54599 4.8129 7.82735C4.64945 7.35108 4.72272 6.81281 5.00736 6.4239L5.52872 5.70808C5.54281 5.68836 5.57099 5.68272 5.59354 5.69681L7.2929 6.93681C7.31263 6.9509 7.31826 6.9819 7.30417 7.00163L6.81099 7.67517C6.66163 7.83863 6.52917 8.11481 6.55172 8.46708C6.59681 9.11808 7.14354 9.78599 8.20881 10.4933L8.27363 10.5413C9.29099 11.3529 10.0942 11.6713 10.7283 11.5163C11.0693 11.4318 11.2919 11.2204 11.4018 11.0288L11.895 10.3553C11.9091 10.3383 11.9429 10.3327 11.9598 10.344L13.631 11.5643C13.6479 11.5727 13.6507 11.6065 13.6394 11.6263Z" fill="#3A7575"/>
+<path d="M9.26899 -0.00976562C4.15963 -0.00976562 0 4.14705 0 9.25922C0 11.4123 0.746817 13.4865 2.108 15.1436L0.543908 18.19C0.439636 18.3901 0.467818 18.6325 0.611545 18.8072C0.721454 18.9368 0.879271 19.0101 1.04554 19.0101C1.09909 19.0101 1.15263 19.0017 1.20618 18.9876L5.47572 17.7194C6.67063 18.2577 7.94444 18.5282 9.26617 18.5282C14.3755 18.5282 18.5352 14.3714 18.5352 9.25922C18.5352 4.14705 14.3783 -0.00976562 9.26899 -0.00976562ZM9.26899 17.3981C8.04308 17.3981 6.86226 17.1332 5.76599 16.6062C5.63917 16.547 5.49545 16.5358 5.36299 16.5752L2.15309 17.5306L3.286 15.3211C3.39309 15.1126 3.35927 14.8618 3.20427 14.687C1.86563 13.1934 1.12727 11.2629 1.12727 9.25922C1.12727 4.76986 4.77963 1.11751 9.26899 1.11751C13.7583 1.11751 17.4079 4.76986 17.4079 9.25922C17.4079 13.7486 13.7583 17.3981 9.26899 17.3981Z" fill="#3A7575"/>
+</svg></div><div class="text-color-white">(11) 96630-8827</div></a></div></div><div class="footer-divider"></div><div class="footer-bottom"><div class="opacity-80">Casa do Saber Eventos Culturais S.A. - 05.452.257/0001-06</div><div class="footer-bottom-links"><a href="#" class="footer-bottom-link hide w-inline-block"><div>Cookies</div></a><a href="https://curadoria.casadosaber.com.br/politica-de-privacidade" class="footer-bottom-link w-inline-block"><div>Política de Privacidade</div></a><a href="https://curadoria.casadosaber.com.br/termos-de-uso" class="footer-bottom-link w-inline-block"><div>Termos de uso</div></a></div></div></div></div></div></section><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6328cd3b5033ff5f4ab734fa" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/js/webflow.schunk.36b8fb49256177c8.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/js/webflow.schunk.8208d3e53b97e3c7.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/js/webflow.schunk.989e936e8a748bda.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/js/webflow.schunk.a5328fc6e4f79712.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/js/webflow.schunk.05120ed059607970.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/6328cd3b5033ff5f4ab734fa/js/webflow.85821f62.c36caab92d19d556.js" type="text/javascript"></script>
+
+ <script>
+    function copyURLToClipboard() {
+      const url = document.URL;
+      navigator.clipboard.writeText(url).then(function() {
+        alert('URL copied to clipboard!');
+      }, function(err) {
+        console.error('Could not copy text: ', err);
+      });
+    }
+  </script>
+  
+ 
+ 
+ <script>
+document.addEventListener("DOMContentLoaded", function() {
+  const form = document.getElementById("freemiumForm");
+  if (!form) return;
+
+  form.addEventListener("submit", function(e) {
+    e.preventDefault();
+
+    const name = encodeURIComponent(document.getElementById("name").value.trim());
+    const email = encodeURIComponent(document.getElementById("email").value.trim());
+
+    if (!name || !email) {
+      alert("Por favor, preencha nome e e-mail antes de prosseguir.");
+      return;
+    }
+
+    // Campanha fixa para rastreamento (mantém origem orgânica)
+    const utm_campaign = "freemium_blog";
+    
+
+    // Monta a URL final, sem utm_source nem utm_medium
+    const redirectUrl = `https://ondemand.casadosaber.com.br/cadastro?name=${name}&email=${email}&utm_campaign=${utm_campaign}`;
+
+    // Redireciona o visitante
+    window.location.href = redirectUrl;
+  });
+});
+</script>
+
+ 
+  
+
+
+
+</body></html>

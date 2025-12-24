@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html  lang="pt-PT">
+<head id="Head"><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<!-- Matomo Tag Manager -->
+<script>
+  var _mtm = window._mtm = window._mtm || [];
+  _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+  (function() {
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='https://analytics.justica.gov.pt/js/container_RGnM4VBx.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Tag Manager -->
+<title>
+	Pedir o Certificado de Admissibilidade
+</title><meta charset="UTF-8" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta id="MetaDescription" name="description" content="O certificado de admissibilidade comprova que uma firma ou denominação pode ser registada." /><meta id="MetaKeywords" name="keywords" content="certificado de admissibilidade, registo comercial, empresas" /><meta id="MetaRobots" name="robots" content="INDEX, FOLLOW" /><link href="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=143" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/irn_agora/bootstrap/vendor/aos/aos.css?cdv=143" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/irn_agora/bootstrap/vendor/bootstrap/css/bootstrap.min.css?cdv=143" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/irn_agora/bootstrap/vendor/bootstrap-icons/bootstrap-icons.css?cdv=143" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/irn_agora/bootstrap/vendor/boxicons/css/boxicons.min.css?cdv=143" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/irn_agora/bootstrap/vendor/glightbox/css/glightbox.min.css?cdv=143" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/irn_agora/bootstrap/vendor/remixicon/remixicon.css?cdv=143" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/irn_agora/bootstrap/vendor/swiper/swiper-bundle.min.css?cdv=143" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/irn_agora/css/jquery.smartmenus.bootstrap.css?cdv=143" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/irn_agora/Menus/MainMenu/MainMenu.css?cdv=143" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/irn_agora/skin.css?cdv=143" type="text/css" rel="stylesheet"/><link href="/Portals/0/portal.css?cdv=143" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/irn_agora/bootstrap/css/style.css?cdv=143" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/irn_agora/Css/toastr.min.css?cdv=143" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/irn_agora/assets/styles/main.css?cdv=143" type="text/css" rel="stylesheet"/><script src="/Resources/libraries/jQuery/03_07_01/jquery.js?cdv=143" type="text/javascript"></script><script src="/Resources/libraries/jQuery-UI/01_13_02/jquery-ui.min.js?cdv=143" type="text/javascript"></script><link rel='SHORTCUT ICON' href='/Portals/0/IRN_LOGO_32_32.ico?ver=xGmFp90aIMiqRJTecFMaAQ%3d%3d' type='image/x-icon' /><meta name="og:title" content="Pedir o Certificado de Admissibilidade | Plataforma de Serviços do Registo" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="theme-color" content="#ffffff" /><meta name="apple-mobile-web-app-status-bar-style" content="white" /><meta name="msapplication-TileColor" content="#da532c" /><meta name="description" content="A Plataforma de serviços do Registo disponibiliza informação e serviços para o ciclo de vida do cidadão, empresas, prédios e bens móveis" /><meta name="keywords" content="IRN, Registos, Registo comercial, Registo Civil, Registo Predial, Registo Automovel, Plataforma Digital da Justiça" /><meta name="og:image" content="https://registo.justica.gov.pt/Portals/0/home%20pic%20ROL.png?ver=2024-04-01-00000-000" /><meta name="twitter:image" content="https://registo.justica.gov.pt/Portals/0/home%20pic%20ROL.png?ver=2024-04-01-00000-000" /><meta name="twitter:description" content="A Plataforma de serviços do Registo disponibiliza informação e serviços para o ciclo de vida do cidadão, empresas, prédios e bens móveis" /><meta name="twitter:title" content="Pedir o Certificado de Admissibilidade | Plataforma de Serviços do Registo" /><meta name="twitter:site" content="registo.justica.gov.pt" /><meta name="twitter:card" content="summary" /><meta name="og:description" content="A Plataforma de serviços do Registo disponibiliza informação e serviços para o ciclo de vida do cidadão, empresas, prédios e bens móveis" /><meta name="og:site_name" content="registo.justica.gov.pt" /><meta name="og:type" content="website" /><meta name="og:image:height" content="479" /><meta name="og:image:width" content="687" /></head>
+<body id="Body">
+
+    <form method="post" action="/Empresas/Pedir-o-Certificado-de-Admissibilidade" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="WvFX6QJF5ilhVa+rnQigqtguQopyG+qdtT4cAo3XN4npeLpRCNiCvVP05J6OpUx0CfHuBhfAKei28d9/ksdx7zzpgq0zGEp8ChaUimjt2g089LNCJQ7PTE3jAk1T7Uj8HixfS2kB+fGg0tlPs5dTc4pFpnasDTaMw9LA1bOKaRwCXFPbKAYYTIvCUCilKiGtNzCTLFV5OwFPPxZ5EdQBHaRhjoHQPbJ01fg5OjlUMR6OggvKgBav+A8ihIRJSAZyNujdyk5OeUdW9/OUg5zr0g6ww8yU/4ftnL+nRQ==" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"pt-PT","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":false,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":" ","CurrencySymbol":"€","NaNSymbol":"NaN","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-∞","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":" ","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"∞","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":" ","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402300799999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2049,"IsReadOnly":false},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":2,"FullDateTimePattern":"d\u0027 de \u0027MMMM\u0027 de \u0027yyyy HH:mm:ss","LongDatePattern":"d\u0027 de \u0027MMMM\u0027 de \u0027yyyy","LongTimePattern":"HH:mm:ss","MonthDayPattern":"d \u0027de\u0027 MMMM","PMDesignator":"","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"dd/MM/yyyy","ShortTimePattern":"HH:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM\u0027 de \u0027yyyy","AbbreviatedDayNames":["dom","seg","ter","qua","qui","sex","sáb"],"ShortestDayNames":["D","S","T","Q","Q","S","S"],"DayNames":["domingo","segunda-feira","terça-feira","quarta-feira","quinta-feira","sexta-feira","sábado"],"AbbreviatedMonthNames":["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez",""],"MonthNames":["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro",""],"IsReadOnly":false,"NativeCalendarName":"Calendário gregoriano","AbbreviatedMonthGenitiveNames":["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez",""],"MonthGenitiveNames":["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro",""]},"eras":[1,"d.C.",null,0]};//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=uHIkleVeDJcQ551V_OnVNtzN9DYiutu7q9ahNMtuOOV-AtKxmzALJW5oH4B5F68YP_CoKjlRk_q_m68fnFNEw9MItyM_Bjg4ps42IYuKeAaqo_0qqDCLpzsMYKeVvYNwJgrpcA2&amp;t=345ad968" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Jw6tUGWnA16QBuGiqY5xZ_gKXseNHNHCV_2Nho36ogOp7ojQpOjae_QILcwbaS7QZygnus2NaD23f50KfPVesEa-Hh1zVWDPEZSljxdM48UQ0c52xXZG42Mt_LE7vhib6h3TcRENTlx73_W10&amp;t=345ad968" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="Jd86hi68DIHNTeIYjCAcd3XJXS+8PRfDAELKMUSW3UkLd/L/KP6mjJR7S+zS8Nb2eEX1C1NhRzIvKRHVDDZydpJj+Fd6TyZ0T3TJHPIYsrrAwgM+hyCfn756RTvJ64D1i4/9AIW4GhaCwTeyv2hrtdWxIno=" />
+</div><script src="/js/dnn.modalpopup.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/bootstrap/vendor/aos/aos.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/bootstrap/vendor/bootstrap/js/bootstrap.bundle.min.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/bootstrap/vendor/glightbox/js/glightbox.min.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/bootstrap/vendor/isotope-layout/isotope.pkgd.min.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/bootstrap/vendor/swiper/swiper-bundle.min.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/bootstrap/vendor/waypoints/noframework.waypoints.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/bootstrap/vendor/php-email-form/validate.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/jquery.smartmenus.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/jquery.smartmenus.bootstrap.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/scripts.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/bootstrap/js/main.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/MultibancoRedirectionAfterPayment.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/FirstHeaderBinding.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/SecondHeaderBinding.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/LanguageDropdownBinding.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/assets/js/main.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/irn_meta_Fields_PageBinding.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/toastr.min.js?cdv=143" type="text/javascript"></script><script src="/js/dnncore.js?cdv=143" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<div id="siteWrapper">
+
+    <header id="dnn_HeaderPane" class="header py-0"><div class="DnnModule DnnModule-HeaderNormal DnnModule-394"><a name="394"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr394_ContentPane"><!-- Start_Module_394 --><div id="dnn_ctr394_ModuleContent" class="DNNModuleContent ModHeaderNormalC">
+	
+
+
+<!-- ======= Header ======= -->
+<div id="" class="header-main header_first">
+    <!-- UserControlPanel  -->
+    <div class="header__top">
+        <div class="layout">
+            <div class="header__language-picker language-picker__block">
+                <div class="language">
+                    <div class="language-object" >
+<select name="dnn$ctr394$HeaderNormal$dnnLanguage$selectCulture" id="dnn_ctr394_HeaderNormal_dnnLanguage_selectCulture" class="NormalTextBox">
+		<option value="en-US">English (United States)</option>
+		<option selected="selected" value="pt-PT">Portugu&#234;s (Portugal)</option>
+
+	</select>
+<span class="Language" title="English (United States)"><a href="https://registo.justica.gov.pt/en/Companies/Request-Certificate-of-Admissibility" ><img src="/images/Flags/en-US.gif" alt="en-US" /></a></span><span class="Language selected" title="Português (Portugal)" ><img src="/images/Flags/pt-PT.gif" alt="pt-PT" /></span>
+</div>
+                </div>
+            </div>
+            <div class="header__top-panel top-panel__block">
+                <div class="top-panel__item --search" id="header-search-container">
+                    <input type="text" id="header-search-input" placeholder="Pesquisar serviços...">
+                    <a href="#" class="top-panel__item --search p-0" id="header-search-trigger">
+                        <div class="icon">
+                            <i class="icon-search"></i>
+                        </div>
+                        <div class="text">Pesquisar</div>
+                    </a>
+                </div>
+                <div class="top-panel__item --login">
+                    <div class=" d-flex gap-3">
+                        
+<div id="dnn_ctr394_HeaderNormal_LOGIN1_loginGroup" class="loginGroup">
+    <a id="dnn_ctr394_HeaderNormal_LOGIN1_enhancedLoginLink" title="Login" class="LoginLink text" rel="nofollow" onclick="this.disabled=true;" href="https://registo.justica.gov.pt/Login?returnurl=%2fEmpresas%2fPedir-o-Certificado-de-Admissibilidade">Login</a>
+</div>
+                    </div>
+                    <div class="icon" id="loginIcon">
+                        <i class="icon-angle--right"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header bottom -->
+    <div class="header__bottom">
+        <div class="layout">
+            <input type="checkbox" class="header__bottom-nav__checkbox" id="header-bottom-nav">
+            <div class="header__logo">
+                <a href="https://registo.justica.gov.pt/">
+                    <img src="/Portals/_default/Skins/IRN_AGORA/assets/media/svg/logo.svg" alt="Instituto dos Registos e do Notariado">
+                </a>
+            </div>
+            <div id="navbar" class="header__bottom-nav">
+                <span class="d-none">
+                    	<ul>
+		
+        <li class="nav-link scrollto ">
+        
+            <a href="https://registo.justica.gov.pt/Servicos" ><span>Servi&#231;os</span> </a>
+        
+        </li>
+    
+	</ul>
+    
+	
+                </span>
+                <nav>
+                </nav>
+            </div>
+            <label for="header-bottom-nav" class="header__bottom-nav__burger">
+                <i class="icon-nav-toggle"></i>
+            </label>
+        </div>
+    </div>
+    <!--End Header bottom -->
+
+</div>
+<!-- End Header -->
+
+<script>
+    var loginIcon = document.getElementById('loginIcon');
+    var loginLink12 = document.getElementById('dnn_ctr394_HeaderNormal_LOGIN1_enhancedLoginLink');
+    // Add click event listener to the icon
+    loginIcon.addEventListener('click', function () {
+        // Trigger the click event on the login link
+        loginLink12.click();
+    });
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var $searchContainer = $('#header-search-container');
+        var $searchTrigger = $('#header-search-trigger');
+        var $searchInput = $('#header-search-input');
+        var $searchIcon = $searchTrigger.find('.icon');
+        var isSearching = false; // Flag to track if a search is in progress
+
+        $searchTrigger.on('click', function (e) {
+            e.preventDefault();
+            if (isSearching) { // If a search is in progress, do nothing
+                return;
+            }
+            if (!$searchContainer.hasClass('search-active')) {
+                $searchContainer.addClass('search-active');
+                if (!$searchInput.prop('disabled')) { // Only focus if not disabled
+                    $searchInput.focus();
+                }
+            }
+        });
+
+        function performSearch() {
+            if (isSearching) { // If a search is already in progress, do nothing
+                console.log('Search already in progress, ignoring.');
+                return;
+            }
+            var searchTerm = $searchInput.val().trim();
+            if (searchTerm) {
+                isSearching = true; // Set the flag to indicate search has started
+                $searchInput.prop('disabled', true); // Disable the input field
+                
+                // Disable search icon and trigger to prevent further clicks and provide visual feedback
+                $searchIcon.css({'pointer-events': 'none', 'opacity': '0.5'});
+                $searchTrigger.css({'pointer-events': 'none', 'opacity': '0.5'});
+
+                console.log('Redirecting to search for:', searchTerm);
+                window.location.href = '/Servicos?search=' + encodeURIComponent(searchTerm);
+            } else {
+                console.log('Empty search term, ignoring.');
+            }
+        }
+
+        $searchIcon.on('click', function(e) {
+            e.preventDefault(); 
+            e.stopPropagation(); 
+
+            if (isSearching) {
+                return; 
+            }
+            if ($searchContainer.hasClass('search-active')) {
+                performSearch();
+            }
+        });
+
+        $searchInput.on('keypress', function (e) {
+            if (e.which === 13) { // Enter key pressed
+                e.preventDefault(); 
+                if (isSearching) { 
+                    return; 
+                }
+                performSearch();
+            }
+        });
+
+        $(document).on('click', function(event) {
+          if (isSearching) { // If a search is in progress, don't mess with the UI by closing the search bar
+              return;
+          }
+          if (!$(event.target).closest('#header-search-container').length) {
+            if ($searchContainer.hasClass('search-active')) {
+              $searchContainer.removeClass('search-active');
+              if (!$searchInput.prop('disabled')) { // Only clear input if not disabled (i.e., search not fired yet)
+                  $searchInput.val(''); 
+              }
+            }
+          }
+        });
+    });
+</script>
+
+</div><!-- End_Module_394 --></div>
+	<div class="clear"></div>
+</div>
+</div></header>
+
+    
+
+    <!-- Page Content -->
+    <section class="hero__section --single">
+        <div class="layout">
+            <div class="layout__inner">
+                <div class="hero__content">
+                    <div class="breadcrumbs__block">
+                        <span id="dnn_Breadcrumb2_lblBreadCrumb" itemprop="breadcrumb" itemscope="" itemtype="https://schema.org/breadcrumb"><span itemscope itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://registo.justica.gov.pt/Empresas" class="SkinObject" itemprop="item"><span itemprop="name">Empresas</span></a><meta itemprop="position" content="1" /></span><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://registo.justica.gov.pt/Empresas/Pedir-o-Certificado-de-Admissibilidade" class="SkinObject" itemprop="item"><span itemprop="name">Pedir o Certificado de Admissibilidade</span></a><meta itemprop="position" content="2" /></span></span></span>
+                    </div>
+                    <div class="sup-title meta_main_headline"></div>
+                    <h1 class="meta_sub_headline"></h1>
+                    <p class="meta_intro_text"></p>
+                    <div class="hero__buttons">
+                        <a href="#" class="btn btn-m btn-white button-link meta_cta_link">
+                            <div class="text meta_cta_text"></div>
+                            <div class="icon">
+                                <i class="icon-arrow-circle--right"></i>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- /.mainContent-inner -->
+        </div>
+        <!-- /.mainContent -->
+    </section>
+    <div id="mainContent-inner" class="single__section">
+        <div class="layout">
+            <div class="single__content">
+                <div id="dnn_ContentPane" class="contentPane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-2318"><a name="2318"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr2318_ContentPane"><!-- Start_Module_2318 --><div id="dnn_ctr2318_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr2318_HtmlModule_lblContent" class="Normal">
+	<h3 class="heading-regular"><a id="Info" name="Info"></a>Se pretende aprovar&nbsp;um&nbsp;nome para a sua empresa que não consta da lista de nomes pré-aprovados,&nbsp;tem de pedir primeiro o certificado de admissibilidade</h3>
+
+<p>O certificado de admissibilidade contém a identificação da entidade que quer usar o nome (firma ou denominação), a sua sede, natureza jurídica e as atividades a que a entidade se dedica.</p>
+
+<p>Depois de ser emitido, o certificado tem <strong>validade de 3 meses.</strong></p>
+
+</div>
+
+</div><!-- End_Module_2318 --></div>
+	<div class="clear"></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-598"><a name="598"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr598_ContentPane"><!-- Start_Module_598 --><div id="dnn_ctr598_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr598_HtmlModule_lblContent" class="Normal">
+	<p class="heading-regular">&nbsp;</p>
+
+<h2 class="heading-regular"><a id="Quem" name="Quem"></a>Quem pode</h2>
+
+<div class="alert alert-success">
+<div class="title">
+<p>Um dos constituintes de uma pessoa coletiva</p>
+</div>
+
+<p>Futuro sócio, fundador ou associado.</p>
+</div>
+
+<div class="alert alert-success">
+<div class="title">A própria pessoa</div>
+
+<p>No caso de se tratar de uma entidade individual de responsabilidade limitada (EIRL), de empresário ou comerciante individual.</p>
+</div>
+
+<div class="alert alert-success">
+<div class="title">A própria entidade</div>
+
+<p>No caso de se tratar da alteração de denominação, sede ou objeto social de uma entidade que já existe.</p>
+</div>
+
+<p>&nbsp;</p>
+
+</div>
+
+</div><!-- End_Module_598 --></div>
+	<div class="clear"></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-601"><a name="601"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr601_ContentPane"><!-- Start_Module_601 --><div id="dnn_ctr601_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr601_HtmlModule_lblContent" class="Normal">
+	<h2 class="heading-regular"><a id="Como" name="Como"></a>Como pedir</h2>
+
+<h3 class="heading-regular">Para pedir o certificado de admissibilidade de nome vai precisar indicar:<br>
+&nbsp;</h3>
+
+<div class="list list-checked">
+<ul>
+ <li>os dados de identificação da pessoa que faz o pedido<br>
+ &nbsp;</li>
+ <li>o nome que pretende aprovar&nbsp;(consulte as&nbsp;<a href="/Empresas/Regras-de-composicao-do-nome-da-empresa" target="_blank">regras de composição de firmas e&nbsp;denominações</a>&nbsp;e faça a <a href="/Empresas/Pesquisar-Nomes-firmas-ou-denominacoes-existentes">pesquisa de nomes existentes</a>)<br>
+ &nbsp;</li>
+ <li>a morada da sede da entidade<br>
+ &nbsp;</li>
+ <li>o objeto social<br>
+ &nbsp;</li>
+ <li>a natureza jurídica da entidade.</li>
+</ul>
+</div>
+
+<p>&nbsp;</p>
+
+<h3 class="heading-regular">Como fazer o pedido online</h3>
+
+<ol class="list--large-number">
+ <li>Aceda ao serviço online&nbsp;</li>
+ <li>Preencha o formulário</li>
+ <li>Selecione o meio de pagamento (Multibanco ou cartão de crédito). Tem 5 dias seguidos a contar da data de submissão do pedido para fazer o pagamento.</li>
+</ol>
+
+</div>
+
+</div><!-- End_Module_601 --></div>
+	<div class="clear"></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-602"><a name="602"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr602_ContentPane"><!-- Start_Module_602 --><div id="dnn_ctr602_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr602_HtmlModule_lblContent" class="Normal">
+	<p class="heading-regular">&nbsp;</p>
+
+<h2 class="heading-regular"><a id="Quando" name="Quando"></a>Quando pedir</h2>
+
+<p>É necessário pedir o certificado de admissibilidade de nome para&nbsp;criar&nbsp;uma sociedade comercial, se pretender aprovar&nbsp;um&nbsp;nome para a sua empresa que não consta da lista de nomes pré-aprovados.</p>
+
+<h3 class="heading-regular">Ao longo da vida da empresa, o certificado de admissibilidade é ainda necessário quando:<br>
+&nbsp;</h3>
+
+<div class="list list-checked">
+<ul>
+ <li>alterar o nome da empresa<br>
+ &nbsp;</li>
+ <li>mudar a&nbsp;sede para outro concelho, exceto se for uma&nbsp;sociedade comercial e a denominação for composta&nbsp;por expressão de fantasia, por exemplo, por&nbsp;nome da bolsa ou outra expressão sem significado<br>
+ &nbsp;</li>
+ <li>alterar as atividades a que a empresa se dedica (objeto social).</li>
+</ul>
+</div>
+
+</div>
+
+</div><!-- End_Module_602 --></div>
+	<div class="clear"></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-603"><a name="603"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr603_ContentPane"><!-- Start_Module_603 --><div id="dnn_ctr603_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr603_HtmlModule_lblContent" class="Normal">
+	<p class="heading-regular">&nbsp;</p>
+
+<h2 class="heading-regular"><a id="Onde" name="Onde"></a>Onde pedir</h2>
+
+<p><a href="https://eportugal.gov.pt/espaco-empresa/empresa-online">Online<i class="icon-arrow-circle--right"></i></a></p>
+
+<p>Presencialmente e por correio.</p>
+
+</div>
+
+</div><!-- End_Module_603 --></div>
+	<div class="clear"></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-597"><a name="597"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr597_ContentPane"><!-- Start_Module_597 --><div id="dnn_ctr597_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr597_HtmlModule_lblContent" class="Normal">
+	<p class="heading-regular">&nbsp;</p>
+
+<h2 class="heading-regular"><a id="Quanto custa" name="Quanto custa"></a>Quanto custa</h2>
+
+<p>O custo do certificado de admissibilidade varia consoante o tipo de pedido e de canal.&nbsp;</p>
+
+<table class="table">
+ <thead>
+  <tr>
+   <th scope="col">Tipo de pedido</th>
+   <th scope="col">Serviço online</th>
+   <th scope="col">Serviço presencial</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Pedido normal</td>
+   <td>75,00 euros</td>
+   <td>75,00 euros</td>
+  </tr>
+  <tr>
+   <td>Pedido urgente</td>
+   <td>150,00 euros</td>
+   <td>150,00 euros</td>
+  </tr>
+ </tbody>
+</table>
+
+</div>
+
+</div><!-- End_Module_597 --></div>
+	<div class="clear"></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-604"><a name="604"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr604_ContentPane"><!-- Start_Module_604 --><div id="dnn_ctr604_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr604_HtmlModule_lblContent" class="Normal">
+	<blockquote>
+<div class="title"><a id="a seguir" name="a seguir"></a>O que acontece a seguir</div>
+
+<p>Depois de concluir o pedido:</p>
+
+<ul>
+ <li><strong>Vamos analisar o pedido </strong></li>
+ <li><strong>Se o nome for aprovado, disponibilizamos o certificado de admissibilidade de nome</strong><br>
+ O certificado fica disponível após a aprovação do nome pelo Registo Nacional de Pessoas Coletivas.</li>
+ <li><strong>Vai receber o código de acesso</strong><br>
+ O código é enviado por email e é válido por 3 meses.</li>
+ <li><strong>Registo da empresa</strong><br>
+ Deve fazer&nbsp;o registo da empresa no prazo de 3 meses.</li>
+</ul>
+</blockquote>
+
+</div>
+
+</div><!-- End_Module_604 --></div>
+	<div class="clear"></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-1725"><a name="1725"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr1725_ContentPane"><!-- Start_Module_1725 --><div id="dnn_ctr1725_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr1725_HtmlModule_lblContent" class="Normal">
+	<p class="heading-regular">&nbsp;</p>
+
+<h3 class="heading-regular"><a id="Legislação" name="Legislação"></a>Legislação de suporte</h3>
+
+<p><a href="https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=688&amp;tabela=leis&amp;so_miolo=" target="_blank">Regime Jurídico do RNPC</a></p>
+
+<p><a href="https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=524&amp;tabela=leis" target="_blank">Código das Sociedades Comerciais</a></p>
+
+<p><a href="https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=506&amp;tabela=leis" target="_blank">Código do Registo Comercial</a></p>
+
+</div>
+
+</div><!-- End_Module_1725 --></div>
+	<div class="clear"></div>
+</div>
+</div></div>
+                <div id="dnn_P1_100_1" class="DNNEmptyPane"></div>
+                <div id="dnn_P1_100_2" class="DNNEmptyPane"></div>
+                <div id="dnn_P1_100_3" class="DNNEmptyPane"></div>
+            </div>
+            <div class="sidebar__block">
+                <div class="sidebar__inner">
+                    <div class="sidebar__links-block" data-scrollable-sidebar="">
+                        <div id="dnn_P1_25_2"><div class="DnnModule DnnModule-DNN_HTML DnnModule-596"><a name="596"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr596_ContentPane"><!-- Start_Module_596 --><div id="dnn_ctr596_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr596_HtmlModule_lblContent" class="Normal">
+	<div class="bloco_navegacao">
+<h3>Sobre este serviço</h3>
+
+<div class="links-block__list"><a href="#Info">Informação Incial</a><a href="#Quem">Quem pode pedir?</a><a href="#Como">Como pode?</a><a href="#Quando">Quando pedir?</a><a href="#Onde">Onde pedir?</a><a href="#Quanto custa">Quanto custa?</a><a href="#a seguir">O que acontece a seguir?</a></div>
+</div>
+
+</div>
+
+</div><!-- End_Module_596 --></div>
+	<div class="clear"></div>
+</div>
+</div></div>
+                    </div>
+                    <div id="dnn_EntidadeResponsavel" class="sidebar__responsible__holder">
+                    <div class="DnnModule DnnModule-DNN_HTML DnnModule-2206"><a name="2206"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr2206_ContentPane"><!-- Start_Module_2206 --><div id="dnn_ctr2206_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr2206_HtmlModule_lblContent" class="Normal">
+	<div class="sidebar__responsible">
+<div class="responsible__title">Conteúdo da responsabilidade de:</div>
+
+<p>Instituto dos Registos e do Notariado</p>
+
+<p>&nbsp;</p>
+</div>
+
+</div>
+
+</div><!-- End_Module_2206 --></div>
+	<div class="clear"></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-1709"><a name="1709"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr1709_ContentPane"><!-- Start_Module_1709 --><div id="dnn_ctr1709_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr1709_HtmlModule_lblContent" class="Normal">
+	<div class="sidebar__button">
+<div class="btn btn-m btn-full btn-blue position-relative">
+<div class="text">Pedir Certificado de Admissibilidade</div>
+
+<div class="icon"><i class="icon-arrow-circle--right"></i></div>
+<a class="card-link" href="https://eportugal.gov.pt/espaco-empresa/empresa-online">Link</a></div>
+</div>
+
+<p>&nbsp;</p>
+
+</div>
+
+</div><!-- End_Module_1709 --></div>
+	<div class="clear"></div>
+</div>
+</div></div>
+                    <div class="sidebar__button">
+                        <div id="dnn_OnlineButton"><div class="DnnModule DnnModule-DNN_HTML DnnModule-1710"><a name="1710"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr1710_ContentPane"><!-- Start_Module_1710 --><div id="dnn_ctr1710_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr1710_HtmlModule_lblContent" class="Normal">
+	<div class="sidebar__arrow-links-block">
+<h3>Serviços relacionados</h3>
+
+<div class="arrow-links__block"><a class="arrow-links__item" href="/Empresas/Pesquisar-nomes-firmas-ou-denominacoes-existentes">Pesquisar Nomes Existentes</a><a class="arrow-links__item" href="/Empresas/Consultar-o-Certificado-de-Admissibilidade">Consultar Certificado de Admissibilidade</a><a class="arrow-links__item" href="/Empresas/Consultar-o-estado-do-pedido-de-nome">Consultar estado do pedido de nome</a> <a class="arrow-links__item" href="/Empresa">Criar empresa</a></div>
+</div>
+
+<p>&nbsp;</p>
+
+</div>
+
+</div><!-- End_Module_1710 --></div>
+	<div class="clear"></div>
+</div>
+</div></div>
+                    </div>
+                    <div class="sidebar__arrow-links-block">
+                        <div id="dnn_RelatedServices" class="DNNEmptyPane"></div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+    <!-- /.container -->
+    <!-- Footer -->
+    <div class="footer-section">
+        <div id="dnn_ContentPaneLower" class="contentPane spacingTop"><div class="DnnModule DnnModule-FooterCompleto DnnModule-395"><a name="395"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr395_ContentPane"><!-- Start_Module_395 --><div id="dnn_ctr395_ModuleContent" class="DNNModuleContent ModFooterCompletoC">
+	
+
+<!-- SECTION: HELP -->
+<div class="help__section">
+    <div class="layout">
+        <div class="need-help__block">
+            <i class="icon-bookmark"></i>
+            <h2>Precisa de ajuda ou tem uma sugestão?</h2>
+            <div class="arrow-links__block">
+                <a href="https://irn.justica.gov.pt/Contactos/Lista" class="arrow-links__item">
+                    <span>Contactos</span>
+                </a>
+                <a href="https://siga.marcacaodeatendimento.pt/Marcacao/MarcacaoInicio" class="arrow-links__item" target="_blank">
+                    <span>Agendar Marcação Presencial</span>
+                </a>
+                <a href="https://registo.justica.gov.pt/sugestoes" class="arrow-links__item" target="_blank">
+                    <span>Enviar sugestão</span>
+                </a>
+            </div>
+            <div class="need-help__contact_line">
+                <div class="need-help__contacts">
+                    <h3>Linha Registos</h3>
+                    <p>Dias úteis das 9h às 17h</p>
+                    <p><a href="tel:211950500">211 950 500</a></p>
+                </div>
+                <div class="need-help__contacts need-help__second-contact">
+                    <h3>Linha Cartão de Cidadão</h3>
+                    <p>Dias úteis das 9h às 18h</p>
+                    <p><a href="tel:210990111">210 990 111</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="discover-more__block">
+            <h2>Descubra mais dos Registos</h2>
+            <div class="discover-more__nav">
+                <nav>
+                    <a href="https://irn.justica.gov.pt/Noticias-do-IRN" class="discover-more__nav__item" target="_blank">Notícias</a>
+                    <a href="https://justica.gov.pt" class="discover-more__nav__item" target="_blank">Portal da Justiça</a>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- / SECTION: HELP -->
+
+<!-- Footer -->
+<footer class="footer">
+    <div class="footer__middle">
+        <div class="layout">
+            <div class="footer-middle__text">
+                <a href="https://justica.gov.pt">
+                    <img src="/Portals/_default/Skins/IRN_AGORA/assets/media/svg/logo-rp-novo.svg" alt="República Portuguesa Justiça">
+                </a>
+            </div>
+            <div class="footer-middle__partners">
+                <div class="footer-partners-images">
+                    <a href="https://www.gov.pt" target="_blank">
+                        <img src="/Portals/_default/Skins/IRN_AGORA/assets/media/svg/logo_gov.svg" alt="gov.pt">
+                    </a>
+                    <!-- <a href="https://www.compete2020.gov.pt/" target="_blank">
+                        <img src="/Portals/_default/Skins/IRN_AGORA/assets/media/img/logo-partners-compete.png" alt="Compete 2020">
+                    </a> -->
+                    <a href="https://recuperarportugal.gov.pt/" target="_blank">
+                        <img src="/Portals/_default/Skins/IRN_AGORA/assets/media/svg/logo-partners-prr.svg" alt="PRR">
+                    </a>
+                    <!-- <a href="https://www.portugal.gov.pt/pt/gc23/area-de-governo/justica" target="_blank">
+                        <img src="/Portals/_default/Skins/IRN_AGORA/assets/media/svg/logo-partners-rp-novo.svg" alt="República Portuguesa Justiça">
+                    </a> -->
+                    <a href="https://next-generation-eu.europa.eu/" target="_blank">
+                        <img src="/Portals/_default/Skins/IRN_AGORA/assets/media/svg/logo-partners-europa.svg" alt="Europa">
+                    </a>
+                </div>
+                <div class="funding_credits">
+                    <p>A Plataforma de Registos é um projeto financiado pelo Plano de Recuperação e Resiliência.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__bottom">
+        <div class="layout">
+            <div class="footer__bottom-left">
+                <div class="footer__social">
+                    <nav>
+                        <a href="https://www.linkedin.com/company/instituto-dos-registos-e-donotariado" target="_blank">
+                            <i class="icon-ln"></i>
+                        </a>
+                        <a href="https://www.facebook.com/registo.justica.gov" target="_blank">
+                            <i class="icon-fb"></i>
+                        </a>
+                        <a href="https://www.instagram.com/irn_registo/" target="_blank">
+                            <i class="icon-insta"></i>
+                        </a>
+                        <a href="https://www.youtube.com/channel/UCntJrR3iV97MPN4JcB3U1Ug/videos" target="_blank">
+                            <i class="icon-youtube"></i>
+                        </a>
+                    </nav>
+                </div>
+            </div>
+            <div class="footer__bottom-right">
+                <div class="footer-bottom__nav">
+                    <nav>
+                        <a href="https://irn.justica.gov.pt/Declaracao-de-Acessibilidade" target="_blank">Acessibilidade</a>
+                        <a href="https://registo.justica.gov.pt/Termos-e-Condicoes" target="_blank">Termos e Condições</a>
+                        <a href="https://justica.gov.pt/Avisos-Legais">Política de Privacidade</a>
+                        <a href="https://registo.justica.gov.pt/Politica-de-Cookies" target="_blank">Política de Cookies</a>
+                    </nav>
+                </div>
+                <div class="footer-bottom__copy">
+                    <span>© </span>
+                    <span><span id="dnn_ctr395_FooterCompleto_dnnCurrentDate_lblDate" class="SkinObject">2025</span>
+ </span>
+                    <span>República Portuguesa. Todos os direitos reservados.</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</div><!-- End_Module_395 --></div>
+	<div class="clear"></div>
+</div>
+</div></div>
+    </div>
+</div>
+<!-- /.SiteWrapper -->
+
+
+<!--CDF(Css|/Portals/_default/skins/irn_agora/bootstrap/vendor/aos/aos.css?cdv=143|DnnPageHeaderProvider|12)-->
+<!--CDF(Css|/Portals/_default/skins/irn_agora/bootstrap/vendor/bootstrap/css/bootstrap.min.css?cdv=143|DnnPageHeaderProvider|12)-->
+<!--CDF(Css|/Portals/_default/skins/irn_agora/bootstrap/vendor/bootstrap-icons/bootstrap-icons.css?cdv=143|DnnPageHeaderProvider|12)-->
+<!--CDF(Css|/Portals/_default/skins/irn_agora/bootstrap/vendor/boxicons/css/boxicons.min.css?cdv=143|DnnPageHeaderProvider|12)-->
+<!--CDF(Css|/Portals/_default/skins/irn_agora/bootstrap/vendor/glightbox/css/glightbox.min.css?cdv=143|DnnPageHeaderProvider|12)-->
+<!--CDF(Css|/Portals/_default/skins/irn_agora/bootstrap/vendor/remixicon/remixicon.css?cdv=143|DnnPageHeaderProvider|12)-->
+<!--CDF(Css|/Portals/_default/skins/irn_agora/bootstrap/vendor/swiper/swiper-bundle.min.css?cdv=143|DnnPageHeaderProvider|12)-->
+<!--CDF(Css|/Portals/_default/skins/irn_agora/css/jquery.smartmenus.bootstrap.css?cdv=143|DnnPageHeaderProvider|13)-->
+<!--CDF(Css|/Portals/_default/skins/irn_agora/Menus/MainMenu/MainMenu.css?cdv=143|DnnPageHeaderProvider|14)-->
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+<!--CDF(Css|/Portals/_default/skins/irn_agora/assets/styles/main.css?cdv=143|DnnPageHeaderProvider|131)-->
+
+<!--CDF(Css|/Portals/_default/skins/irn_agora/bootstrap/css/style.css?cdv=143|DnnPageHeaderProvider|100)-->
+<!--CDF(Css|/Portals/_default/skins/irn_agora/skin.css?cdv=143|DnnPageHeaderProvider|100)-->
+
+
+
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/bootstrap/vendor/aos/aos.js?cdv=143|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/bootstrap/vendor/bootstrap/js/bootstrap.bundle.min.js?cdv=143|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/bootstrap/vendor/glightbox/js/glightbox.min.js?cdv=143|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/bootstrap/vendor/isotope-layout/isotope.pkgd.min.js?cdv=143|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/bootstrap/vendor/swiper/swiper-bundle.min.js?cdv=143|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/bootstrap/vendor/waypoints/noframework.waypoints.js?cdv=143|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/bootstrap/vendor/php-email-form/validate.js?cdv=143|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/js/jquery.smartmenus.js?cdv=143|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/js/jquery.smartmenus.bootstrap.js?cdv=143|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/js/scripts.js?cdv=143|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/bootstrap/js/main.js?cdv=143|DnnBodyProvider|100)-->
+
+
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/js/MultibancoRedirectionAfterPayment.js?cdv=143|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/js/FirstHeaderBinding.js?cdv=143|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/js/SecondHeaderBinding.js?cdv=143|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/js/LanguageDropdownBinding.js?cdv=143|DnnBodyProvider|100)-->
+
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/assets/js/main.js?cdv=143|DnnBodyProvider|100)-->
+
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/js/irn_meta_Fields_PageBinding.js?cdv=143|DnnBodyProvider|100)-->
+
+
+<!--CDF(Css|/Portals/_default/skins/irn_agora/Css/toastr.min.css?cdv=143|DnnPageHeaderProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/irn_agora/js/toastr.min.js?cdv=143|DnnBodyProvider|100)-->
+
+
+
+<script>
+    fetchIRNMeta("83")
+</script>
+
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" />
+        
+    </form>
+    <!--CDF(Javascript|/js/dnncore.js?cdv=143|DnnBodyProvider|100)--><!--CDF(Javascript|/js/dnn.modalpopup.js?cdv=143|DnnBodyProvider|50)--><!--CDF(Css|/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=143|DnnPageHeaderProvider|5)--><!--CDF(Css|/Portals/_default/skins/irn_agora/skin.css?cdv=143|DnnPageHeaderProvider|15)--><!--CDF(Css|/Portals/0/portal.css?cdv=143|DnnPageHeaderProvider|35)--><!--CDF(Javascript|/Resources/libraries/jQuery-UI/01_13_02/jquery-ui.min.js?cdv=143|DnnPageHeaderProvider|10)--><!--CDF(Javascript|/Resources/libraries/jQuery/03_07_01/jquery.js?cdv=143|DnnPageHeaderProvider|5)-->
+    
+</body>
+</html>

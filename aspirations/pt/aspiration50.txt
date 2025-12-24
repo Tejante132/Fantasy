@@ -1,0 +1,654 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+<!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Bootstrap CSS -->
+<link href="https://www.ijba.com.br/wp-content/themes/ijba/node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+<link rel="stylesheet" href="https://www.ijba.com.br/wp-content/themes/ijba/css/general.css">
+<title>IJBA - Instituto Junguiano da Bahia</title>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<!-- This site is optimized with the Yoast SEO plugin v26.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.ijba.com.br/blog/arte-fantastica-e-psicologia-analitica/" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Arte Fantástica e Psicologia Analítica - IJBA" />
+<meta property="og:description" content="Introdução Neste ensaio pretendo analisar as correlações entre a Arte Fantástica e a psicologia analítica, a partir do trabalho que desenvolvo com o Feminino, em suas raízes arquetípicas, com artes plásticas. Segundo Walter Schurian, psicólogo e estudioso da percepção estética, encontramos a presença fantástica em quase todas as épocas e disciplinas artísticas. Mas, foi somente [&hellip;]" />
+<meta property="og:url" content="https://www.ijba.com.br/blog/arte-fantastica-e-psicologia-analitica/" />
+<meta property="og:site_name" content="IJBA" />
+<meta property="article:published_time" content="2016-12-07T11:47:39+00:00" />
+<meta property="article:modified_time" content="2020-02-28T12:48:34+00:00" />
+<meta property="og:image" content="https://www.ijba.com.br/wp-content/uploads/2020/02/1997-Faces.JPG.jpg" />
+<meta property="og:image:width" content="831" />
+<meta property="og:image:height" content="625" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="author" content="daniel daniel" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:label1" content="Escrito por" />
+<meta name="twitter:data1" content="daniel daniel" />
+<meta name="twitter:label2" content="Est. tempo de leitura" />
+<meta name="twitter:data2" content="19 minutos" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.ijba.com.br/blog/arte-fantastica-e-psicologia-analitica/","url":"https://www.ijba.com.br/blog/arte-fantastica-e-psicologia-analitica/","name":"Arte Fantástica e Psicologia Analítica - IJBA","isPartOf":{"@id":"https://www.ijba.com.br/#website"},"primaryImageOfPage":{"@id":"https://www.ijba.com.br/blog/arte-fantastica-e-psicologia-analitica/#primaryimage"},"image":{"@id":"https://www.ijba.com.br/blog/arte-fantastica-e-psicologia-analitica/#primaryimage"},"thumbnailUrl":"https://www.ijba.com.br/wp-content/uploads/2020/02/1997-Faces.JPG.jpg","datePublished":"2016-12-07T11:47:39+00:00","dateModified":"2020-02-28T12:48:34+00:00","author":{"@id":"https://www.ijba.com.br/#/schema/person/ada67a7c5bc5e6ecc3a16e9a69c77601"},"breadcrumb":{"@id":"https://www.ijba.com.br/blog/arte-fantastica-e-psicologia-analitica/#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://www.ijba.com.br/blog/arte-fantastica-e-psicologia-analitica/"]}]},{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://www.ijba.com.br/blog/arte-fantastica-e-psicologia-analitica/#primaryimage","url":"https://www.ijba.com.br/wp-content/uploads/2020/02/1997-Faces.JPG.jpg","contentUrl":"https://www.ijba.com.br/wp-content/uploads/2020/02/1997-Faces.JPG.jpg","width":831,"height":625,"caption":"Faces, 1997"},{"@type":"BreadcrumbList","@id":"https://www.ijba.com.br/blog/arte-fantastica-e-psicologia-analitica/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://www.ijba.com.br/"},{"@type":"ListItem","position":2,"name":"Arte Fantástica e Psicologia Analítica"}]},{"@type":"WebSite","@id":"https://www.ijba.com.br/#website","url":"https://www.ijba.com.br/","name":"IJBA","description":"Instituto Junguiano da Bahia","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.ijba.com.br/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"pt-BR"},{"@type":"Person","@id":"https://www.ijba.com.br/#/schema/person/ada67a7c5bc5e6ecc3a16e9a69c77601","name":"daniel daniel","image":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://www.ijba.com.br/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/b972b3805b538e19fe8eaced33daaad03eec0f961973de3b471ece4e5cffb084?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/b972b3805b538e19fe8eaced33daaad03eec0f961973de3b471ece4e5cffb084?s=96&d=mm&r=g","caption":"daniel daniel"},"description":"daniel","url":"https://www.ijba.com.br/author/daniel/"}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link rel='dns-prefetch' href='//s7.addthis.com' />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para IJBA &raquo; Arte Fantástica e Psicologia Analítica" href="https://www.ijba.com.br/blog/arte-fantastica-e-psicologia-analitica/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.ijba.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ijba.com.br%2Fblog%2Farte-fantastica-e-psicologia-analitica%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.ijba.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ijba.com.br%2Fblog%2Farte-fantastica-e-psicologia-analitica%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.ijba.com.br/wp-includes/css/dist/block-library/style.min.css?ver=6.9' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.ijba.com.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wpcf7-redirect-script-frontend-css' href='https://www.ijba.com.br/wp-content/plugins/wpcf7-redirect/build/assets/frontend-script.css?ver=2c532d7e2be36f6af233' type='text/css' media='all' />
+<link rel='stylesheet' id='addthis_all_pages-css' href='https://www.ijba.com.br/wp-content/plugins/addthis/frontend/build/addthis_wordpress_public.min.css?ver=6.9' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.ijba.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.ijba.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js?ver=6.9#pubid=wp-cb4f86defe6833e4c747a4df96e0fbdb" id="addthis_widget-js"></script>
+<link rel="https://api.w.org/" href="https://www.ijba.com.br/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.ijba.com.br/wp-json/wp/v2/posts/2805" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ijba.com.br/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<link rel='shortlink' href='https://www.ijba.com.br/?p=2805' />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MZ447NR');</script>
+<!-- End Google Tag Manager -->
+<meta name="facebook-domain-verification" content="v5hul7s3fxjkb96dxfjcqiwl5bsrb5" /><meta name="generator" content="Elementor 3.28.3; features: e_font_icon_svg, additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<style>
+.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+background-image: none !important;
+}
+@media screen and (max-height: 1024px) {
+.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+background-image: none !important;
+}
+}
+@media screen and (max-height: 640px) {
+.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+background-image: none !important;
+}
+}
+</style>
+<script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.2.7"; } if (window.addthis_share === undefined) { window.addthis_share = {}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"ignore_server_config":true,"ui_atversion":300}; } if (window.addthis_layers === undefined) { window.addthis_layers = {}; } if (window.addthis_layers_tools === undefined) { window.addthis_layers_tools = [{"share":{"counts":"none","numPreferredServices":5,"mobile":false,"position":"left","theme":"transparent","services":"facebook,twitter,linkedin,whatsapp,gmail"},"sharedock":{"counts":"none","numPreferredServices":5,"mobileButtonSize":"large","position":"bottom","theme":"transparent","services":"facebook,twitter,linkedin,whatsapp,gmail"}}]; } else { window.addthis_layers_tools.push({"share":{"counts":"none","numPreferredServices":5,"mobile":false,"position":"left","theme":"transparent","services":"facebook,twitter,linkedin,whatsapp,gmail"},"sharedock":{"counts":"none","numPreferredServices":5,"mobileButtonSize":"large","position":"bottom","theme":"transparent","services":"facebook,twitter,linkedin,whatsapp,gmail"}});  } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.2.7","plugin_mode":"WordPress","anonymous_profile_id":"wp-cb4f86defe6833e4c747a4df96e0fbdb","page_info":{"template":"posts","post_type":"post"},"sharing_enabled_on_post_via_metabox":false}; } 
+(function() {
+var first_load_interval_id = setInterval(function () {
+if (typeof window.addthis !== 'undefined') {
+window.clearInterval(first_load_interval_id);
+if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+window.addthis.layers(window.addthis_layers);
+}
+if (Array.isArray(window.addthis_layers_tools)) {
+for (i = 0; i < window.addthis_layers_tools.length; i++) {
+window.addthis.layers(window.addthis_layers_tools[i]);
+}
+}
+}
+},1000)
+}());
+</script><link rel="icon" href="https://www.ijba.com.br/wp-content/uploads/2019/12/favicon.png" sizes="32x32" />
+<link rel="icon" href="https://www.ijba.com.br/wp-content/uploads/2019/12/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.ijba.com.br/wp-content/uploads/2019/12/favicon.png" />
+<meta name="msapplication-TileImage" content="https://www.ijba.com.br/wp-content/uploads/2019/12/favicon.png" />
+<style type="text/css" id="wp-custom-css">
+iframe {
+border: 0;
+max-width: 100%;
+}
+.rc-anchor.rc-anchor-invisible.rc-anchor-light.rc-anchor-invisible-hover, #recaptcha-accessible-status {
+display: none !important;
+}
+.carousel p {
+margin-bottom: inherit;
+margin-left: 10px;
+font-size: 15px;
+text-align: center;
+}
+.carousel .carousel-caption {
+width: auto;
+text-align: left;
+bottom: 4rem;
+}
+@media (max-width: 767.98px)
+.carousel h1, .carousel h2 {
+font-size: 29px;
+}		</style>
+</head>
+<body>
+<!-- No html utilize data-show="modalSearch" -->
+<section class="modal-buscar" id="modal-busca">
+<div class="intern">
+<form role="search" method="get" id="searchform" class="searchform" action="https://www.ijba.com.br/">
+<div>
+<label class="screen-reader-text" for="s">Pesquisar por:</label>
+<input type="text" value="" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="Pesquisar" />
+</div>
+</form>    </div>
+</section><header>
+<nav class="navbar navbar-expand-lg navbar-dark header fixed-top green-nav" id="menu-fixed">
+<div class="container">
+<a class="navbar-brand" href="https://www.ijba.com.br">
+<img src="https://www.ijba.com.br/wp-content/themes/ijba/img/ijba.png" alt="IJBA - Instituto Junguiano da Bahia">
+</a>
+<div class="student-area d-block d-md-none">
+<a href="https://moodle.ijba.com.br/auth/oidc/" target="_blank">
+<button class="green mw-100">
+Área do aluno
+</button>
+</a>
+</div>
+<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse justify-content-center align-items-center" id="navbarText">
+<ul id="menu-principal" class="navbar-nav navbar-text mb-2 mb-lg-0" itemscope itemtype="http://www.schema.org/SiteNavigationElement"><li  id="menu-item-3811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-3811 nav-item"><a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-3811"><span itemprop="name">Sobre</span></a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-3811">
+<li  id="menu-item-5587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5587 nav-item"><a itemprop="url" href="https://www.ijba.com.br/sobre/" class="dropdown-item"><span itemprop="name">O IJBA</span></a></li>
+<li  id="menu-item-4949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4949 nav-item"><a itemprop="url" href="https://www.ijba.com.br/professores/" class="dropdown-item"><span itemprop="name">Professores</span></a></li>
+<li  id="menu-item-4467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4467 nav-item"><a itemprop="url" href="https://www.ijba.com.br/eventos/" class="dropdown-item"><span itemprop="name">Eventos</span></a></li>
+<li  id="menu-item-4173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4173 nav-item"><a itemprop="url" href="https://www.ijba.com.br/calendario/" class="dropdown-item"><span itemprop="name">Calendário</span></a></li>
+</ul>
+</li>
+<li  id="menu-item-5472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-5472 nav-item"><a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-5472"><span itemprop="name">Pós-Graduação</span></a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-5472">
+<li  id="menu-item-6013" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6013 nav-item"><a itemprop="url" href="https://www.ijba.com.br/curso/psicossomatica-e-psicotraumatologia/" class="dropdown-item"><span itemprop="name">Psicossomática</span></a></li>
+<li  id="menu-item-6014" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6014 nav-item"><a itemprop="url" href="https://www.ijba.com.br/curso/teoria-em-psicologia-junguiana/" class="dropdown-item"><span itemprop="name">Teoria em Psicologia Junguiana</span></a></li>
+<li  id="menu-item-6015" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6015 nav-item"><a itemprop="url" href="https://www.ijba.com.br/curso/processo-criativo-e-facilitacao-de-grupos/" class="dropdown-item"><span itemprop="name">Processo criativo e facilitação de grupos</span></a></li>
+<li  id="menu-item-6016" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6016 nav-item"><a itemprop="url" href="https://www.ijba.com.br/curso/arteterapia-junguiana/" class="dropdown-item"><span itemprop="name">Arteterapia Junguiana</span></a></li>
+<li  id="menu-item-6017" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6017 nav-item"><a itemprop="url" href="https://www.ijba.com.br/curso/psicoterapia-analitica/" class="dropdown-item"><span itemprop="name">Psicoterapia Analítica</span></a></li>
+</ul>
+</li>
+<li  id="menu-item-5608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5608 nav-item"><a itemprop="url" href="https://www.ijba.com.br/categoria_curso/extensao/" class="nav-link"><span itemprop="name">Extensão</span></a></li>
+<li  id="menu-item-5119" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-5119 nav-item"><a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-5119"><span itemprop="name">Conteúdo</span></a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-5119">
+<li  id="menu-item-4210" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4210 nav-item"><a itemprop="url" href="/blog/" class="dropdown-item"><span itemprop="name">Blog</span></a></li>
+<li  id="menu-item-2027" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2027 nav-item"><a itemprop="url" href="/biblioteca/artigos/" class="dropdown-item"><span itemprop="name">Artigos</span></a></li>
+<li  id="menu-item-3857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3857 nav-item"><a itemprop="url" href="https://www.ijba.com.br/videos/" class="dropdown-item"><span itemprop="name">Vídeos</span></a></li>
+<li  id="menu-item-4175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4175 nav-item"><a itemprop="url" href="https://www.ijba.com.br/monografias/" class="dropdown-item"><span itemprop="name">Monografias</span></a></li>
+</ul>
+</li>
+<li  id="menu-item-6344" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6344 nav-item"><a itemprop="url" href="https://www.ijba.com.br/podcast-ijba/" class="nav-link"><span itemprop="name">PodCast</span></a></li>
+<li  id="menu-item-3812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3812 nav-item"><a itemprop="url" href="https://www.ijba.com.br/contato/" class="nav-link"><span itemprop="name">Contato</span></a></li>
+</ul>      </div>
+<div class="row align-items-center justify-content-end d-none d-md-flex">
+<div class="col">
+<button class="search" data-show="modalSearch">
+<img src="https://www.ijba.com.br/wp-content/themes/ijba/svg/magnifying-glass.svg" alt="Buscar">
+</button>
+</div>
+<div class="col-auto">
+<a href="https://moodle.ijba.com.br/auth/oidc/" target="_blank">
+<button class="green">
+Área do aluno
+</button>
+</a>
+</div>
+</div>
+</div>
+</nav>
+</header><div class="single-blog">
+<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+<div class="carousel-inner">
+<div class="carousel-item active">
+<img width="831" height="625" src="https://www.ijba.com.br/wp-content/uploads/2020/02/1997-Faces.JPG.jpg" class="d-block w-100 blur filter wp-post-image" alt="" decoding="async" srcset="https://www.ijba.com.br/wp-content/uploads/2020/02/1997-Faces.JPG.jpg 831w, https://www.ijba.com.br/wp-content/uploads/2020/02/1997-Faces.JPG-300x226.jpg 300w, https://www.ijba.com.br/wp-content/uploads/2020/02/1997-Faces.JPG-768x578.jpg 768w" sizes="(max-width: 831px) 100vw, 831px" />            </div>
+<div class="carousel-caption">
+<h1>Arte Fantástica e Psicologia Analítica</h1>
+<p><div id="crumbs"><a href="https://www.ijba.com.br">Home</a> &raquo; <a href="https://www.ijba.com.br/category/artigos/">Artigos</a> &raquo; <span class="current">Arte Fantástica e Psicologia Analítica</span></div></p>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col">
+<img width="831" height="625" src="https://www.ijba.com.br/wp-content/uploads/2020/02/1997-Faces.JPG.jpg" class="d-block w-100 hero wp-post-image" alt="Arte Fantástica e Psicologia Analítica" title="Arte Fantástica e Psicologia Analítica" decoding="async" srcset="https://www.ijba.com.br/wp-content/uploads/2020/02/1997-Faces.JPG.jpg 831w, https://www.ijba.com.br/wp-content/uploads/2020/02/1997-Faces.JPG-300x226.jpg 300w, https://www.ijba.com.br/wp-content/uploads/2020/02/1997-Faces.JPG-768x578.jpg 768w" sizes="(max-width: 831px) 100vw, 831px" />            </div>
+</div>
+<div class="row">
+<!-- conteúdo-->
+<div class="container mb-5 mt-5">
+<div class="row">
+<div class="col-md-9">
+<div class="at-above-post addthis_tool" data-url="https://www.ijba.com.br/blog/arte-fantastica-e-psicologia-analitica/"></div><div id="comp-icz94voh7_SinglePostMediaTop_MediaPost__0_0__type_MediaPost" class=" flex_vbox">
+<div id="58478aad6980697788d2f522comp-icz94voh7_SinglePostMediaTop_MediaPost__0_0_mediaText" class="s_usaAWRichTextClickableSkin" data-packed="false" data-proxy-name="MediaLabel" data-width="630">
+<div id="58478aad6980697788d2f522comp-icz94voh7_SinglePostMediaTop_MediaPost__0_0_mediaTextrichTextContainer" class="s_usaAWRichTextClickableSkin_richTextContainer s_usaAWRichTextClickableSkinrichTextContainer">
+<p class="font_9">Introdução</p>
+<p class="font_9">
+<p class="font_9">Neste ensaio pretendo analisar as correlações entre a Arte Fantástica e a psicologia analítica, a partir do trabalho que desenvolvo com o Feminino, em suas raízes arquetípicas, com artes plásticas. Segundo Walter Schurian, psicólogo e estudioso da percepção estética, encontramos a presença fantástica em quase todas as épocas e disciplinas artísticas. Mas, foi somente no século XX, com o surrealismo, o cubismo, o dadaísmo, etc., que esta forma de arte teve especial atenção e passou a ser uma importante corrente.</p>
+<p class="font_9">
+<p class="font_9">Ao longo deste século, a fantasia passou, nas artes plásticas, do externo ao interno. A visão fantástica do externo, do mundo, da natureza, do universo, deu lugar a uma contemplação introspectiva da pessoa, do indivíduo, do próprio corpo. Ao eu, em seu território inconsciente dos sonhos, sentimentos e desejos.</p>
+<p class="font_9">
+<p class="font_9">Com isto, se abriu uma nova percepção de si e da alteridade. Cientificamente, o homem não pode interpretar-se por meio de si mesmo, a não ser através da arte. A fantasia dota de sentido a alma humana e ela pode ser entendida como complemento das tendências racionais, construtivistas e analíticas da arte realista, abstrata e minimalista, por exemplo.</p>
+<p class="font_9">
+<p class="font_9">A arte fantástica reflete, com seus desvarios e extravagâncias, as distintas facetas e as distintas percepções da realidade, trazendo para elas um novo colorido. A psicologia do fantástico se vê acompanhada dos conceitos de imaginação, invenção, sonho e delírio. Referem-se à intuição psíquica, uma função especial que permite o acesso a imagens desconhecidas.</p>
+<p class="font_9">
+<p class="font_9">Esta forma de arte situa o homem no centro e o apresenta a um tempo desconhecido e misterioso. Centrando-se na psique, a arte fantástica se serve (em geral, mas não exclusivamente) das percepções inconscientes. Joga com as alteridades, surpreende, choca, desconcerta. Ela toma como objetivos as sensações e as emoções camufladas, assim como expressa sonhos e desejos. A fantasia (ou o fantástico) se move fora do âmbito do conhecido e pode ajudar na resolução de problemas, no desenvolvimento da criatividade, da genialidade, na conscientização de sentimentos e comportamentos. Ela pode desempenhar um papel chave na ciência e isto foi comprovado desde Freud, a J. L. Moreno (criador do psicodrama), passando por C. G. Jung (criador da psicologia analítica).</p>
+<p class="font_9">
+<p class="font_9">O Artista, a Arte e a Psicologia Analítica</p>
+<p class="font_9">
+<p class="font_9">Segundo o psicólogo suíço Carl Gustav Jung (1875-1961), o homem criador constitui um enigma, embora a psicologia pessoal do artista possa se encontrar nas raízes e nas ramificações de sua obra, influenciando a sua temática, como tem revelado a visão psicanalítica freudiana. A escola freudiana defende a ideia de uma satisfação substitutiva presente na obra de arte, representando os recalques do artista e os seus condicionamentos pessoais, analisando-a, como eles analisam a neurose, a religião e a filosofia: uma espécie de desculpa, um modo de não querer encarar as coisas, um desvio, um erro. Ao contrário disto, Jung destaca que a essência da obra de arte não é constituída pelas particularidades pessoais que pesam sobre ela, se eleva muito acima do plano pessoal. Fala do espírito e do coração da humanidade. Para ele (Jung, 1985, p. 89), “os elementos pessoais constituem uma limitação, e mesmo um vício da arte” e ”quanto mais numerosas forem, menos se tratará de arte”. “Quando a escola freudiana pretende que o artista possua uma personalidade restrita, infantil e auto-erótica, tal julgamento poderá ser válido para o artista enquanto pessoa, mas não para o criador que há nele” (op. cit.).</p>
+<p class="font_9">
+<p class="font_9">Para Jung, “o ser criador é uma dualidade ou uma síntese de qualidades paradoxais”. Se por um lado ele é uma pessoa humana, por outro é um processo impessoal, criador. Enquanto pessoa, poderá ter sua neurose ou não, mas enquanto artista só poderá ser compreendido a partir do seu ato criador, que implica uma psicologia objetiva, do inconsciente coletivo. “A arte nele é inata, como um instinto que dele se apodera, fazendo-o seu instrumento” (op.cit. p. 90). Ele é um homem coletivo, plasmador da alma inconsciente e ativa da humanidade. Esta exigência às vezes predomina, tornando a sua vida sacrificada em relação ao homem comum.</p>
+<p class="font_9">
+<p class="font_9">Ele é “conduzido pelo inconsciente, este deus misterioso que o habita, de modo que é compelido a criar, sem saber a finalidade e o por quê” (op. cit). A exigente paixão criadora é intransigente e põe em risco desejos e seguranças pessoais, de modo que o artista, frequentemente, acaba pagando caro pela centelha divina de sua capacidade genial. Assim, a sua vida é necessariamente cheia de conflitos, sendo identificado como egoísta ingênuo, infantil, intransigente, negligente, primitivo, auto-erótico e vaidoso, pois o seu lado humano é sacrificado em benefício da lado criador. A aventura interior do artista pode ser perigosa para ele, podendo eventualmente levar a uma paralização ou a uma catastrófica explosão dos opostos conjugados em tensão.</p>
+<p class="font_9">
+<p class="font_9">Por estas razões, Jung defende que um artista deve ser explicado a partir da sua arte e não a partir das insuficiências de sua natureza e de seus conflitos pessoais. Na sua visão, uma obra de arte nunca deve ser interpretada pelo próprio artista, esta deve ser deixada aos outros e ao futuro. É como um sonho, que apesar de todas as evidências nunca se interpreta a si mesmo e também nunca é unívoco. E para compreender uma obra de arte é preciso permitir-se ser modelado por ela, compreendendo qual foi a vivência original do artista, uma vez que este tocou as regiões profundas e abissais da alma, onde todos os seres vibram.</p>
+<p class="font_9">
+<p class="font_9">Portanto, a psicologia da criação artística, para Jung, é uma psicologia essencialmente feminina. A obra de arte jorra das profundezas do inconsciente, sendo justamente o domínio das mães. Porém, corre o risco da consciência ser arrastada pela força plasmadora desse inconsciente ou da torrente impetuosa subterrânea. Deste processo emergem os símbolos arquetípicos, as “imagens originárias” enterradas no inconsciente desde os tempos primordiais.</p>
+<p class="font_9">
+<p class="font_9">Um arquétipo em si mesmo não é bom nem mau, está acima disto, é moralmente indiferente. Ao se confrontar com o consciente, se torna uma dualidade de opostos. Se manifesta quando é provocado e ativado pelos extravios da consciência, pessoal ou coletiva, quando esta se afastou demasiadamente do caminho do meio, se tornou unilateral e falsa. Para restabelecer um equilíbrio anímico acontece a emergência das imagens arquetípicas em sonhos e visões, dos artistas e visionários. Assim é que as necessidades anímicas de um povo são satisfeitas na obra dos artistas. E ele se torna um mero instrumento de sua obra, estando abaixo dela.</p>
+<p class="font_9">
+<p class="font_9">O Símbolo na Arte Fantástica</p>
+<p class="font_9">
+<p class="font_9">Sabemos que além da linguagem verbal, outras linguagens atingem o indivíduo a níveis mais profundos, relacionadas com o inconsciente pessoal e o coletivo. A partir das descobertas de Jung, o ser humano é percebido em sua totalidade, englobando em si tanto o passado, o presente e o futuro, como inconsciência e consciência. Ele valorizou outras formas de linguagem e comunicação, em especial a plástica, aquela que para ele melhor expressa a irracionalidade e os níveis mais arcaicos.</p>
+<p class="font_9">
+<p class="font_9">O signo racional representa somente a superfície concreta da experiência dos homens, no contexto do imenso patrimônio do inconsciente coletivo. O interesse e o fascínio atual pela imagem, pela relevância que ela assumiu como meio de comunicação de massas e pelo avanço da tecnologia, fizeram com que muitos estudos se voltassem para as razões irracionais que operam no inconsciente. A ligação íntima com a imagem já se apresenta nas pinturas do homem das cavernas, onde ele descreveu, de forma espontânea, sem o uso do raciocínio, como se sentia no mundo, expressando seus mitos e ritos. Por outro lado, encontramos nas antigas civilizações mitos e ritos transformados em imagens (HAUSER, 1994 ), cujo rico simbolismo supera muito seu valor artístico.</p>
+<p class="font_9">
+<p class="font_9">O símbolo provém da consciência e do inconsciente, sendo capaz de unir ambas as partes, funcionar como elo unificador. Após muitos anos de estudos comparativos entre ritos, mitos, contos de fada, sonhos e alquimia, partindo de imagens ao inconsciente, “Jung chegou à conclusão de que estas correspondem, em cada caso individual, a certos arquétipos que operam, se elaborados através de símbolos” (HAUSER, 1994 : 18 ).</p>
+<p class="font_9">
+<p class="font_9">Assim, os arquétipos são produtos do inconsciente coletivo e existem em todos, sem limites espaçotemporais, nem culturais. Por isto são extremamente obscuros e ambíguos, possuindo carga energética forte. Os conteúdos arquetípicos aparecem sob a forma de imagens e são dados da estrutura psíquica do indivíduo, na forma de “possibilidades latentes”, em potencial. O símbolo, por sua vez, é indeterminado e ambíguo, se refere a algo dificilmente definido. Em sua obra “O homem e seus símbolos” (1964: 6), Jung explica que “uma palavra ou uma imagem é simbólica quando implica alguma coisa do seu significado manifesto e imediato (…), tem um aspecto inconsciente mais amplo que nunca é precisamente definido ou de todo explicado”.</p>
+<p class="font_9">
+<p class="font_9">As imagens simbólicas que brotam na Arte Fantástica, assim como nos sonhos, revelam imagens arquetípicas, numinosas, ambíguas. Revelam um fio irracional que denuncia a perda da inocência do homem civilizado, a perda do vínculo que o liga ao universo, ao arcaico, enfim, à natureza. Segundo Jung, os símbolos têm efeitos transformadores, pois transferem a energia psíquica de uma forma inferior para outra superior, constituindo uma forma de comunicação com o mundo. No entanto, este processo interpretativo não é de fácil compreensão para o leigo. Segundo Jung (apud GAD, 1996, p. 189): “O processo simbólico é uma experiência em imagens e de imagens”.</p>
+<p class="font_9">
+<p class="font_9">Para ele, o estudo dos símbolos presentes em sonhos e na expressão artística em geral, possibilita que tenhamos acesso à base arquetípica da psique. Pois estes, os símbolos, são o aspecto visível de uma camada invisível da psique, a expressão de conflitos conscientes e inconscientes, o que aponta para além da realidade concreta, para uma base cujo significado mal podemos apreender, de início. Os símbolos apresentam dois níveis: um específico (pessoal) e outro geral (impessoal) e nunca são compreensíveis de todo. Por outro lado, eles apresentam implicações emocionais e pertencem ao vasto domínio da religião, da filosofia, da arte e da literatura. Na expressão plástica da arte fantástica, o artista se comunica de forma simbólica com o mundo, dificilmente compreensível. Expressam em seus desenhos, esculturas e pinturas, símbolos oníricos, em grande parte arquetípicos – estes últimos, representantes de inquietações despojadas dos resíduos culturais.</p>
+<p class="font_9">
+<p class="font_9">O pensamento arcaico e primitivo aparece no simbolismo das obras dos doentes mentais, assim como nas obras dos mais célebres artistas plásticos, inexplicáveis dentro do raciocínio do homem civilizado moderno. Ao estudar os símbolos arquetípicos nos trabalhos dos que apresentavam transtornos mentais crônicos, Jung pode interpretar a ambiguidade dos símbolos por um lado e, por outro, a relação específica com os complexos emocionais dos seus pacientes.</p>
+<p class="font_9">
+<p class="font_9">Nas imagens fantásticas podemos observar uma mistura de conteúdos pessoais e coletivos. Estes últimos, os símbolos coletivos, constituem, por sua própria natureza, material arcaico em conjunção com inegáveis imagens mitológicas. Segundo SILVEIRA (1992:97): “As imagens simbólicas formadas no inconsciente constituem a substância da qual é feita a vida psíquica emocional. Cada emoção é acompanhada de uma imagem e, cada imagem, de dinamismo correspondente. As emoções se configuram através de imagens simbólicas muito próximas das imagens de mitos e rituais”.</p>
+<p class="font_9">
+<p class="font_9">Estas imagens surgem, não só nos artistas e nos que apresentam transtornos psíquicos, mas cotidianamente nos sonhos e fantasias de todos os seres humanos. Para se tornarem obras de arte, as rudes imagens primordiais precisam ser elaboradas, transmutadas, em formas que possuam certas qualidades ditas artísticas. Para Jung ( apud SILVEIRA, 2000:147) “o processo criador, na medida em que o podemos acompanhar, consiste numa ativação inconsciente do arquétipo, no seu desenvolvimento e da sua tomada de forma até a realização da obra perfeita”.</p>
+<p class="font_9">
+<p class="font_9">Assim, no misterioso ato criador da Arte Fantástica, o artista “mergulha até as funduras imensas do inconsciente. Ele dá forma e traduz na linguagem de seu tempo as intuições primordiais e, assim fazendo, torna acessíveis a todos as fontes profundas da vida” (SILVEIRA, 2000: 143).</p>
+<p class="font_9">
+<p class="font_9">Podemos afirmar que, para JUNG, a autêntica obra de arte é uma produção impessoal, pois os conflitos pessoais/emocionais do artista não são decisivos para o conhecimento da obra. Para ele, o artista é um homem coletivo, que expressa com suas obras a alma inconsciente e ativa da humanidade como um todo.</p>
+<p class="font_9">
+<p class="font_9">Se para Jung a compreensão dos símbolos é necessária para que tenhamos acesso aos processos psíquicos inconscientes, com a arte fantástica (simbólica e onírica por excelência), estamos diretamente conectando arte e psicologia. A arte fantástica nos conectaria não somente aos sonhos, mas aos mitos, aos contos de fada, aos rituais primitivos, auxiliando assim na transcendência dos conflitos humanos, contribuindo para a sua transformação.</p>
+<p class="font_9">
+<p class="font_9">Deste modo, estudar estes fenômenos pode ser incômodo, pois significa transitar, flutuante, numa atmosfera rarefeita de possibilidades, sem saber se o que vemos e sentimos é verdadeiro ou ilusão, apostando na sincronicidade e na sinceridade da subjetividade. Pois, diante da arte fantástica em suas implicações com a psicologia do inconsciente, o pensamento causal cai por terra e temos de lidar com a coincidência significativa de acontecimentos, ou seja, com uma visão sincronística.</p>
+<p class="font_9">
+<p class="font_9">No entanto, segundo GAD (1996:336) “existem camadas da nossa psique que só podem ser abordadas com a imaginação e a inspiração proporcionadas por uma sabedoria ancestral, capaz de penetrá-las”. A compreensão da sabedoria implícita nestas imagens, inclusive suas conexões mitológicas, exige do estudioso que este deixe de lado o pensamento disjuntivo, racionalista, assim como passe a usar a intuição para alcançar um nível superior de consciência.</p>
+<p class="font_9">
+<p class="font_9">Jung afirmava que a psique e a matéria se compartilham mutuamente e possuem ação recíproca. Via a psique como um sistema dinâmico, auto-regulador, caracterizado por flutuações entre polos, considerando-a uma manifestação da dinâmica básica da vida. A força e a riqueza desta psique criativa podem ser manifestadas, de forma encantadora e fascinante, através da arte fantástica.</p>
+<p class="font_9">
+<p class="font_9">O Feminino na Arte Fantástica</p>
+<p class="font_9">
+<p class="font_9">Ao não aceitar mais o papel naturalizado de mulher-mãe, a mulher contemporânea se afastou das raízes arquetípicas do Self Feminino, ou perdeu a sua conexão com o arquétipo da Mulher Selvagem. É uma dificuldade para esta mulher, reconhecer- se como ela é e afirmar o seu direito de existir a seu próprio modo, numa sociedade patriarcal.</p>
+<p class="font_9">
+<p class="font_9">A redenção do Feminino é uma necessidade, e diz respeito às mulheres e aos homens. Cabe ao homem compreender a sua Anima (o feminino inconsciente que há em si), renunciar a uma imagem estereotipada de si mesmo; e à mulher, se sentir mais a vontade para expressar suas exigências internas, de maneira menos violenta, sem ter de adotar atitudes masculinas. A emancipação do Feminino exige mudanças em ambos, assim como em todas as dimensões da vida social, política, educacional, familiar, etc.</p>
+<p class="font_9">
+<p class="font_9">É necessário criar um espaço vital novo, onde os valores femininos possam ser vividos, reconhecidos e integrados. Esta mudança requer também um lento e gradual processo de maturação interior, que pode ser acompanhado no meu trabalho através da arte fantástica. Através da arte, busco expressar e elaborar o que o Feminino Selvagem me impõe, intuitivamente. Não apenas isto se revela nas relações da mulher coma a natureza, mas nas relações amorosas homem-mulher (ou entre o Masculino e o Feminino), que vão permear a trajetória do meu trabalho, desde a sua origem. Estas forças vão dialogando internamente e em busca de uma interação mais satisfatória, ao longo do tempo. A complementaridade entre o Masculino e o Feminino realiza-se, de certa maneira, no plano exterior, mas no plano interior ela é um processo mais difícil e sutil, o que vai sendo espelhado sutilmente e despretensiosamente através das minhas obras.</p>
+<p class="font_9">
+<p class="font_9">Podemos encontrar, na leitura do meu trabalho, certos fundamentos arquetípicos da psicologia feminina, que foram constelados intuitivamente, desde a adolescência, ou emergiram dos meus sonhos e dos sonhos de algumas clientes que acompanhei. Por ser um produto do inconsciente e um conteúdo de certo modo primitivo, arcaico, primordial, adquire um caráter surreal e fantástico. Assim, trago imagens emergentes do reino da Grande Deusa, da Grande Mãe e da Mulher Selvagem, que vem acompanhada de animais (serpentes, aves, peixes, polvos e felinos) e de plantas, florestas e flores, símbolos dos mistérios e da força do Feminino.</p>
+<p class="font_9">
+<p class="font_9">Enfim, trago o Princípio Feminino ou Eros , assim como alguns mitos e rituais que espelham temáticas femininas e que permeiam as relações homem-mulher. Imagens que podem surpreender o olhar contemporâneo, mas que o provoca, despertando intuições e sentimentos talvez esquecidos.</p>
+<p class="font_9">
+<p class="font_9">A Grande Deusa, a Grande Mãe ou o Grande Feminino</p>
+<p class="font_9">
+<p class="font_9">Uma presença contínua e intuitiva nos meus trabalhos de arte, desde a adolescência (1974), tem sido a figura feminina em suas várias facetas, o que nos remete à Deusa da Antiguidade ou ao Grande Feminino. Este arquétipo ainda se mantém vivo no inconsciente do ser humano contemporâneo, em seu caráter positivo e negativo, assim como em seu caráter de transformação espiritual. A Grande Mãe, enquanto mãe e terra-mulher, é revelada em seu aspecto nutridor, protetor, acolhedor, terrível e devorador, assim como símbolo arquetípico da fertilidade e está presente em numerosas esculturas, pinturas e desenhos rupestres desde a Idade da Pedra (são as obras artísticas mais antigas que a humanidade conhece).</p>
+<p class="font_9">Desde os povos primitivos que viviam sob o domínio do matriarcado, até o advento das sociedades patriarcais, observam-se manifestações deste arquétipo. A constelação arquetípica básica e elementar, reveladora do inconsciente coletivo, permanece até os dias atuais, apesar de revestida em diferentes roupagens, nas diferentes culturas e momentos da história da humanidade.</p>
+<p class="font_9">
+<p class="font_9">Atualmente, mesmo predominando uma união produtiva entre o consciente e o inconsciente, estes conteúdos primitivos ainda emergem, simbolicamente, nas manifestações artísticas. Segundo Neumann (2006:84), “a imagem arquetípica da Grande Mãe é viva, tanto no indivíduo como no grupo, tanto no homem como na mulher”, de modo que o domínio deste arquétipo constela a situação psíquica original e arcaica.</p>
+<p class="font_9">
+<p class="font_9">Ao mergulhar intuitivamente nas imagens do inconsciente, o meu trabalho revela o grotesco e o simbólico do excêntrico mundo ctônico, que pode ter um caráter numinoso ou espiritual. Recebe destaque certas partes do corpo da mulher (boca, olhos, seios, ventre, útero, ancas, genitália), assim como associações com seres do reino animal (peixes, polvos, pombas, aves de rapina, leões e serpentes) e vegetal (árvores, florestas, folhas, flores e frutos).</p>
+<p class="font_9">
+<p class="font_9">A Grande Deusa foi venerada como geradora da vida, senhora dos seres vivos, das plantas e doa animais na Antiguidade. Ao longo da história, a apresentação da Grande Deusa (seja nas mitologias, histórias, lendas ou manifestações artísticas) veio acompanhada destes elementos naturais (animais selvagens, predadores ou domesticados), em variadas épocas e culturas. Foi associada também à agricultura e às diversas formas de fertilidade, numa época em que o indivíduo, o grupo e o meio natural que o cercava (animais, plantas) viviam ainda numa relação de participacion mystique, e não como diversidades (Neumann, 2006).</p>
+<p class="font_9">
+<p class="font_9">Assim, as suas imagens estão relacionadas ao inconsciente coletivo, mãe de todas as coisas, e abrange os opostos. Alguns elementos simbólicos do Grande Feminino se apresentam em meu trabalho, expressos em sua forma natural e sensual, envoltos numa aura de fertilidade, irrealidade e espiritualidade. Este simbolismo fantástico vai aparecer através de figuras primitivas hermafroditas, grotescas, cuja natureza contém, em si, os opostos.</p>
+<p class="font_9">
+<p class="font_9">O Grande Feminino é também a senhora do tempo, da lua, da fortuna e do destino, governa o crescimento. Tece e trama não só a vida humana, como o destino do mundo. Assim a Deusa vem associada ao símbolo arquetípico da árvore que, firmemente plantada na terra que a nutre, enraizada nas profundezas, se eleva ao ar para se desenvolver.</p>
+<p class="font_9">
+<p class="font_9">O caráter feminino-numinoso da árvore, está também presente em suas folhas e frutos, mas vem combinado ou associado à água e à terra. Assim, “é possível acompanhar o simbolismo entre a mulher e a planta em todos os estágios do simbolismo humano. Por outro lado, a totalidade psíquica como flor, lótus, lírio e rosa (…) simbolizam o desabrochar das mais elevadas possibilidades psicoespirituais ” (Ibidem, p. 230).</p>
+<p class="font_9">
+<p class="font_9">O Grande Feminino aparece frequentemente com asas (como é o caso da imagem de Lilith) e tem influencia sobre touros, leões, serpentes, abelhas, aves de pântanos, pombos, peixes, polvo e escorpião. Por outro lado, se apresenta como um ser ctônico, do mundo inferior, das profundezas da terra. Isto demonstra que ela abrange o princípio dos opostos, os três reinos (animal, vegetal e mineral), ou seja, o todo, a totalidade. Ela gera, governa e domina o lado animal dos instintos e as pulsões selvagens. Sua força formadora vai se refletir também na capacidade de amar e na disponibilidade para o amor. Exerce sua lei de transformação e conduz a uma evolução, sem perder o vínculo com as raízes e os fundamentos, atingindo formas mais elevadas de realidade psíquica.</p>
+<p class="font_9">
+<p class="font_9">Finalizando, através da arte fantástica as imagens arquetípicas da Grande Mãe ou do Grande Feminino emergem e intervém na vida de homens e mulheres enquanto fonte de visão e de símbolo, do ritual, da poesia, da sensibilidade, da vidência, para facilitar o processo de cura do ser humano e dar sentido à sua vida. Ela é uma divindade de amorosa participação, redentora, presença viva e próxima, que nutre o espírito. Revela-se especialmente na mulher como o “eterno feminino” mais evoluído, em sua majestosa grandeza, em todas as épocas e culturas, em seus sonhos, visões, obsessões, relacionamentos, projeções, fantasias e produções artísticas.</p>
+</div>
+</div>
+</div>
+<div id="comp-icz94voh7_SinglePostMediaTop_MediaPost__0_0_def_22_true" class=" flex_vbox"></div>
+<!-- AddThis Advanced Settings above via filter on the_content --><!-- AddThis Advanced Settings below via filter on the_content --><!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons above via filter on the_content --><!-- AddThis Share Buttons below via filter on the_content --><div class="at-below-post addthis_tool" data-url="https://www.ijba.com.br/blog/arte-fantastica-e-psicologia-analitica/"></div><!-- AddThis Share Buttons generic via filter on the_content -->                    </div>
+<!-- sidebar-->
+<div class="col-md-3">
+<div class="sidebar">
+<div class="search">
+<form action="/" method="get">
+<h5>Buscar</h5>
+<input type="text" name="s" id="search" placeholder="Digite aqui" value="" />
+<input type="image" alt="Search" src="https://www.ijba.com.br/wp-content/themes/ijba/svg/magnifying-glass.svg" />
+</form>
+</div>
+<!-- posts-->
+<div class="posts">
+<h5>Posts Recentes</h5>
+<ul>
+<li>
+<a href="https://www.ijba.com.br/blog/como-domar-um-arquetipo-ou-quando-o-ego-sempre-ganha-notas-sobre-a-psicologia-simbolica-e-seus-malabarismos-teoricos/">
+<p>Como domar um arquétipo (ou quando o ego sempre ganha): notas sobre a psicologia simbólica e seus malabarismos teóricos</p>
+</a>
+<span>Por Bárbara Assis - 20/12/2025</span>
+</li>
+<li>
+<a href="https://www.ijba.com.br/blog/a-criatividade-e-a-transdisciplinaridade-na-formacao-do-analista-junguiano-no-mundo-contemporaneo/">
+<p>A criatividade e a transdisciplinaridade na formação do Analista Junguiano no Mundo contemporâneo</p>
+</a>
+<span>Por Bárbara Assis - 14/12/2025</span>
+</li>
+<li>
+<a href="https://www.ijba.com.br/blog/a-genese-arquetipica-do-conhecimento-quando-jung-explica-valsiner/">
+<p>A Gênese arquetípica do conhecimento: Quando Jung explica Valsiner</p>
+</a>
+<span>Por Bárbara Assis - 23/11/2025</span>
+</li>
+<li>
+<a href="https://www.ijba.com.br/blog/eros-imaginal-e-a-coniunctio-digital-o-entrelacamento-de-almas-no-mundus-imaginalis-entre-o-humano-e-a-inteligencia-artificial/">
+<p>EROS IMAGINAL E A CONIUNCTIO DIGITAL: O ENTRELAÇAMENTO DE ALMAS NO MUNDUS IMAGINALIS ENTRE O HUMANO E A INTELIGÊNCIA ARTIFICIAL</p>
+</a>
+<span>Por Bárbara Assis - 07/11/2025</span>
+</li>
+<li>
+<a href="https://www.ijba.com.br/blog/taro-sincronicidade-e-psicologia-analitica/">
+<p>TARÔ, SINCRONICIDADE E PSICOLOGIA ANALÍTICA</p>
+</a>
+<span>Por Bárbara Assis - 31/10/2025</span>
+</li>
+<li>
+<a href="https://www.ijba.com.br/blog/a-terceira-margem-do-rio/">
+<p>A Terceira margem do Rio</p>
+</a>
+<span>Por Bárbara Assis - 09/10/2025</span>
+</li>
+</ul>
+</div>
+<!-- categories-->
+<div class="categories">
+<h5>Categorias</h5>
+<ul>
+<li>
+<a href="https://www.ijba.com.br/category/artigos">
+Artigos                                            </a>
+<span>(330)
+</span>
+</li>
+<li>
+<a href="https://www.ijba.com.br/category/blog">
+Blog                                            </a>
+<span>(83)
+</span>
+</li>
+<li>
+<a href="https://www.ijba.com.br/category/flickr">
+Fotos do Flickr                                            </a>
+<span>(1)
+</span>
+</li>
+<li>
+<a href="https://www.ijba.com.br/category/monografias">
+Monografias                                            </a>
+<span>(1)
+</span>
+</li>
+<li>
+<a href="https://www.ijba.com.br/category/noticias">
+Notícias                                            </a>
+<span>(1)
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="newsletter">
+<h4>Receba conteúdos exclusivos</h4>
+<div class="wpcf7 no-js" id="wpcf7-f3746-o1" lang="en-US" dir="ltr" data-wpcf7-id="3746">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/blog/arte-fantastica-e-psicologia-analitica/#wpcf7-f3746-o1" method="post" class="wpcf7-form init" id="newsletter" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<fieldset class="hidden-fields-container"><input type="hidden" name="_wpcf7" value="3746" /><input type="hidden" name="_wpcf7_version" value="6.1.4" /><input type="hidden" name="_wpcf7_locale" value="en_US" /><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f3746-o1" /><input type="hidden" name="_wpcf7_container_post" value="0" /><input type="hidden" name="_wpcf7_posted_data_hash" value="" /><input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</fieldset>
+<div class="row">
+<div class="col-md">
+<p><span class="wpcf7-form-control-wrap" data-name="nome"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Nome completo" value="" type="text" name="nome" /></span>
+</p>
+</div>
+<div class="col-md">
+<p><span class="wpcf7-form-control-wrap" data-name="email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Digite seu email" value="" type="email" name="email" /></span>
+</p>
+</div>
+<div class="col-auto">
+<p><input class="wpcf7-form-control wpcf7-submit has-spinner btn btn-default btn-lg" type="submit" value="Inscreva-se" />
+</p>
+</div>
+</div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/ijba/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script>
+const lazyloadRunObserver = () => {
+const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+entries.forEach( ( entry ) => {
+if ( entry.isIntersecting ) {
+let lazyloadBackground = entry.target;
+if( lazyloadBackground ) {
+lazyloadBackground.classList.add( 'e-lazyloaded' );
+}
+lazyloadBackgroundObserver.unobserve( entry.target );
+}
+});
+}, { rootMargin: '200px 0px 200px 0px' } );
+lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+lazyloadBackgroundObserver.observe( lazyloadBackground );
+} );
+};
+const events = [
+'DOMContentLoaded',
+'elementor/lazyload/observe',
+];
+events.forEach( ( event ) => {
+document.addEventListener( event, lazyloadRunObserver );
+} );
+</script>
+<script type="text/javascript" src="https://www.ijba.com.br/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.ijba.com.br/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ijba.com.br/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.4" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+localeData[""].domain = domain;
+wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-05-19 13:41:20+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Error:":["Erro:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+//# sourceURL=contact-form-7-js-translations
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+"api": {
+"root": "https:\/\/www.ijba.com.br\/wp-json\/",
+"namespace": "contact-form-7\/v1"
+}
+};
+//# sourceURL=contact-form-7-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ijba.com.br/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.4" id="contact-form-7-js"></script>
+<script type="text/javascript" id="wpcf7-redirect-script-js-extra">
+/* <![CDATA[ */
+var wpcf7r = {"ajax_url":"https://www.ijba.com.br/wp-admin/admin-ajax.php"};
+//# sourceURL=wpcf7-redirect-script-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ijba.com.br/wp-content/plugins/wpcf7-redirect/build/assets/frontend-script.js?ver=2c532d7e2be36f6af233" id="wpcf7-redirect-script-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6Ldx7sAeAAAAACLEMw7PXwC3a-ouCuwET5P0lCPw&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="https://www.ijba.com.br/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-before">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {
+"sitekey": "6Ldx7sAeAAAAACLEMw7PXwC3a-ouCuwET5P0lCPw",
+"actions": {
+"homepage": "homepage",
+"contactform": "contactform"
+}
+};
+//# sourceURL=wpcf7-recaptcha-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ijba.com.br/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.4" id="wpcf7-recaptcha-js"></script>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-3 mb-4">
+<h4>Menu</h4>
+<ul id="menu-footer-menu" class="" itemscope itemtype="http://www.schema.org/SiteNavigationElement"><li id="menu-item-3895" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3895"><a href="/categoria_curso/aperfeicoamento/">Curso de aperfeiçoamento</a></li>
+<li id="menu-item-3896" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3896"><a href="/categoria_curso/extensao/">Curso de extensão</a></li>
+<li id="menu-item-3897" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3897"><a href="https://www.ijba.com.br/sobre/">Sobre</a></li>
+<li id="menu-item-3898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3898"><a href="https://www.ijba.com.br/blog/">Blog</a></li>
+<li id="menu-item-3899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3899"><a href="https://www.ijba.com.br/artigos/">Artigos</a></li>
+<li id="menu-item-3900" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3900"><a href="https://portal.sophia.com.br/X7_23/Acesso.aspx?escola=3562">Área do aluno</a></li>
+</ul>            </div>
+<div class="col-md-4 mb-4">
+<h4>Links Úteis</h4>
+<ul>                        <li>
+<a href="https://www.ijba.com.br/blog/a-criatividade-e-a-transdisciplinaridade-na-formacao-do-analista-junguiano-no-mundo-contemporaneo/">
+A criatividade e a transdisciplinaridade na formação do Analista Junguiano no Mundo contemporâneo                            </a>
+</li>
+<li>
+<a href="https://www.ijba.com.br/blog/a-genese-arquetipica-do-conhecimento-quando-jung-explica-valsiner/">
+A Gênese arquetípica do conhecimento: Quando Jung explica Valsiner                            </a>
+</li>
+<li>
+<a href="https://www.ijba.com.br/blog/eros-imaginal-e-a-coniunctio-digital-o-entrelacamento-de-almas-no-mundus-imaginalis-entre-o-humano-e-a-inteligencia-artificial/">
+EROS IMAGINAL E A CONIUNCTIO DIGITAL: O ENTRELAÇAMENTO DE ALMAS NO MUNDUS IMAGINALIS ENTRE O HUMANO E A INTELIGÊNCIA ARTIFICIAL                            </a>
+</li>
+<li>
+<a href="https://www.ijba.com.br/blog/taro-sincronicidade-e-psicologia-analitica/">
+TARÔ, SINCRONICIDADE E PSICOLOGIA ANALÍTICA                            </a>
+</li>
+<li>
+<a href="https://www.ijba.com.br/blog/a-terceira-margem-do-rio/">
+A Terceira margem do Rio                            </a>
+</li>
+</ul>            </div>
+<div class="col-md-4">
+<h4>Contato</h4>
+<ul>
+<li>
+<a href="mailto:instituto@ijba.com.br">
+<b>Email:</b> instituto@ijba.com.br
+</a>
+</li>
+<li><b>Endereço:</b> Alameda Bons Ares, 15 – Candeal, Salvador – BA, 40296-360</li>
+<li>
+<b>Comercial:</b>
+<ul>
+<li>
+<a href="tel:+5571986007667">
+(71) 98600-7667
+</a>
+</li>
+<li>
+<a href="tel:+5571988029139">
+(71) 98802-9139
+</a>
+</li>
+</ul>
+</li>
+<li>
+<b>Whatsapp Clínica Escola:</b>
+<a href="https://api.whatsapp.com/send?phone=557199792828" target="_blank" rel="noopener noreferrer">
+(71) 9979-2828
+</a>
+</li>
+<li>
+<a href="tel:+5571999278183">
+<b>Telefone:</b> (71) 9 9927-8183
+</a>
+</li>
+</ul>
+<a href="https://www.ijba.com.br/contato">
+<button class="green mt-5">Fale conosco </button>
+</a>
+<ul class="social">
+<li>
+<a href="https://www.facebook.com/institutojunguianodabahia" target="_blank" rel="noopener noreferrer>
+<img src=" https://www.ijba.com.br/wp-content/themes/ijba/svg/default-facebook.svg" alt="Facebook">
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/ijba_oficial/" target="_blank" rel="noopener noreferrer">
+<img src="https://www.ijba.com.br/wp-content/themes/ijba/svg/default-instagram.svg" alt="Instagram">
+</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/company/instituto-junguiano-da-bahia" target="_blank" rel="noopener noreferrer">
+<img src="https://www.ijba.com.br/wp-content/themes/ijba/svg/default-linkedin.svg" alt="Linkedin">
+</a>
+</li>
+<li>
+<a href="https://twitter.com/junguianobahia" target="_blank" rel="noopener noreferrer">
+<img src="https://www.ijba.com.br/wp-content/themes/ijba/svg/twitter.svg" alt="Twitter">
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/institutojunguiano" target="_blank" rel="noopener noreferrer">
+<img src="https://www.ijba.com.br/wp-content/themes/ijba/svg/youtube.svg" alt="Youtube">
+</a>
+</li>
+<!-- <li>
+<a href="instituto@ijba.com.br" target="_blank" rel="noopener noreferrer">
+<img src="https://www.ijba.com.br/wp-content/themes/ijba/svg/mail.svg" alt="Email">
+</a>
+</li> -->
+<!--<li>
+<a href="https://api.whatsapp.com/send?phone=557199278183&text=N%C3%A3o%20recebemos%20mensagem%20de%20voz." target="_blank" rel="noopener noreferrer">
+<img src="https://www.ijba.com.br/wp-content/themes/ijba/svg/whatsapp.svg" alt="Whatsapp">
+</a>
+</li>-->
+</ul>
+</div>
+</div>
+<div class="row">
+<div class="col mt-4">
+<p class="text-center">IJBA - Instituto Junguiano da Bahia. Copyright © 2025 - Todos os direitos reservados. </p>
+</div>
+</div>
+</div>
+</footer>
+<!-- Optional JavaScript; choose one of the two! -->
+<!-- Option 1: Bootstrap Bundle with Popper -->
+<!--<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>-->
+<!-- Option 2: Separate Popper and Bootstrap JS -->
+<!--
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>-->
+<script src="https://www.ijba.com.br/wp-content/themes/ijba/node_modules/bootstrap/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
+<script src="https://www.ijba.com.br/wp-content/themes/ijba/js/main.js" crossorigin="anonymous"></script>
+<script src="https://www.ijba.com.br/wp-content/themes/ijba/js/slide-feed-course.js" crossorigin="anonymous"></script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.762 seconds, on 23/12/2025 @ 07:17 -->

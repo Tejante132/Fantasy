@@ -1,0 +1,2054 @@
+
+<!DOCTYPE html>
+
+
+  <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pt-BR" xmlns:mml="http://www.w3.org/1998/Math/MathML" > <![endif]-->
+  <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="pt-BR"        xmlns:mml="http://www.w3.org/1998/Math/MathML"> <![endif]-->
+  <!--[if IE 8]>         <html class="no-js lt-ie9" lang="pt-BR"               xmlns:mml="http://www.w3.org/1998/Math/MathML"> <![endif]-->
+  <!--[if gt IE 8]><!--> <html class="no-js" lang="pt-BR" xmlns:mml="http://www.w3.org/1998/Math/MathML"> <!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+    <title>SciELO  Brasil - Do “Embelezamento dos Fatos” à “Cicatriz”: Uma Investigação sobre a Fantasia em Freud Do “Embelezamento dos Fatos” à “Cicatriz”: Uma Investigação sobre a Fantasia em Freud </title>
+
+    
+  
+<!-- social share tags -->
+<meta property="og:url" content="https://www.scielo.br/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/?lang=pt"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Do “Embelezamento dos Fatos” à “Cicatriz”: Uma Investigação sobre a Fantasia em Freud"/>
+<meta property="og:description" content="RESUMO Reconhecer a função da fantasia na vida dos sujeitos possibilitou a Freud inventar a..."/>
+<meta property="og:image" content="https://www.scielo.br/media/images/ptp_glogo.gif"/>
+<!-- social share tags -->
+
+
+
+    <meta name="citation_author" content="Silva, Virgínia Célia Carvalho da"></meta>
+    <meta name="citation_author" content="Santiago, Jésus"></meta>
+    <meta name="citation_journal_title" content="Psicologia: Teoria e Pesquisa"></meta>
+<meta name="citation_journal_abbrev" content="Psic.: Teor. e Pesq."></meta>
+<meta name="citation_journal_abbrev" content="Psicol. teor. pesqui"></meta>
+<meta name="citation_publisher" content="Instituto de Psicologia, Universidade de Brasília"></meta>
+<meta name="citation_volume" content="33"></meta>
+<meta name="citation_pdf_url" content="https://www.scielo.br/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/?lang=pt&amp;format=pdf"></meta>
+<meta name="citation_xml_url" content="https://www.scielo.br/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/?format=xml&amp;lang=pt"></meta>
+<meta name="citation_doi" content="10.1590/0102.3772e33419"></meta>
+<meta name="citation_fulltext_world_readable" content=""></meta>
+
+
+<meta name="citation_issn" content="0102-3772"></meta>
+<meta name="citation_issn" content="1806-3446"></meta>
+
+    <meta name="citation_title" content="Do “Embelezamento dos Fatos” à “Cicatriz”: Uma Investigação sobre a Fantasia em Freud"></meta>
+    <meta name="citation_language" content="pt"></meta>
+
+<meta name="citation_abstract" content="RESUMO Reconhecer a função da fantasia na vida dos sujeitos possibilitou a Freud inventar a psicanálise. Desde suas pesquisas, consideram-se as fantasias como um modo de proteção à realidade insatisfatória, por permitirem embelezar fatos, tornando-os menos traumáticos. Há uma intensa variedade de fantasias no imaginário dos seres humanos, como evidenciam os relatos clínicos. Além desse imaginário, a fantasia se expressa como uma marca, “cicatriz”, que determina o modo de os sujeitos estarem no mundo. Essa dimensão vai além do que se consegue dizer e, por isso, faz-se necessário um trabalho de “construção”. Por considerar a relevância clínica e conceitual da noção de fantasia, este trabalho procura cernir uma lógica da fantasia em Freud, através da revisão de sua utilização do conceito."></meta>
+<meta name="citation_article_type" content="research-article"></meta>
+<meta name="citation_publication_date" content="2017"></meta>
+<meta name="citation_keywords" content="fantasia (mecanismo de defesa)"></meta><meta name="citation_keywords" content="trauma psíquico"></meta><meta name="citation_keywords" content="psicanálise"></meta><meta name="citation_keywords" content="pulsão"></meta>
+
+
+    <link rel="icon" href="/static/img/favicon.ico" />
+    
+    <link href="/static/css/bootstrap.css?v=1.1.23" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="/static/js/vendor/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <!-- CLOCKSS system has permission to ingest, preserve, and serve this Archival Unit -->
+<div class="widget widget-Lockss widget-instance-IssueBrowseByYear_Lockss">
+
+    <input class="at-locks-messaging" type="hidden"
+        value="LOCKSS system has permission to collect, preserve, and serve this Archival Unit" />
+
+    <input class="at-clockss-messaging" type="hidden"
+        value="CLOCKSS system has permission to ingest, preserve, and serve this Archival Unit" />
+
+</div>
+
+    
+    <!-- Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-MKLVK7B5B6"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-MKLVK7B5B6');
+      </script>
+      <!-- End Google Analytics -->
+    
+
+    
+    <script src="https://darkvisitors.com/tracker.js?project_key=c7366feb-7ba9-4f3d-a536-9bdca1bee170"></script>
+    
+
+     
+  <link rel="stylesheet" href="/static/css/article.css?v=1.1.20" type="text/css" async/>
+  <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" async />
+  <link href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" async />
+
+
+  <script src='/.bunny-shield/bd/bunnyprint.js' data-key='BGTUGZzVE4/Mhhg0ikeOkKIjrdwcgu61GNnUJ1jUVa47U6h7PUyI1KQ34lYYcIB4CYdQn7CdD8CLsdJrFknZdK9C+Mx4T60+zkjohnLsUnCH0Yf167KEEqXYhbQXfVrSGCbitcjCBK9QWjr+4JTRxfTCp8RXrYBf7+cTDl1m4oDFQbVQVobCS66unFjhZM3wqNmMrLdthYwU4FDNeCTWqP4v6rWjrZLDx6NGzoOy0RoNEBFyvpCdGIiXIt/y1INCXMHQPuyfrHJY/heEXamQcA==' data-validation='7b0c171d7438562e3c6e6e2439441d512c0f142c470c0c251323274f231442546b1d230f3c0606793d0702710362446d3b210d3170676859412d3d3a4f0020503b3e217d0500072e14016f23365073000b47191912255302071e4d4420036807340e19591007600000072d7040750c7573790e1269190c1c1b093e74516e402024214e5e3706251937675d3e341f1f4e5a3e78251108302c07140820161121541b6d153011057f414023132c3757' id='bunnyprint' async></script></head>
+  <body class="journal article" data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="0">
+    <a name="top"></a>
+
+    
+
+  
+
+
+<style>
+
+    body{  
+        padding-top: 74px;
+    }
+    
+    .articleTxt{
+        top: -16px;
+    }
+
+    @media (max-width: 575.98px) {
+      
+      .articleCtt > .container{
+        padding-left: 0;
+        padding-right: 0;
+      }
+      .articleCtt .articleTxt{
+        padding-left: 16px !important;
+        padding-right: 16px !important;
+      }
+    
+    }
+
+    @media (min-width: 768px){
+      
+      .scielo__truncate{
+        display: block;
+        max-width: 285px;
+      }
+
+    }
+ 
+</style>
+
+<header class="fixed-top scielo__shadow-2">
+    <div class="container">
+        <div class="row">
+            <div class="col-2 col-sm-1 d-print-none">
+                
+
+<details class="scielo__accessibleMenu">
+  <summary>
+      <span class="menu-icon"></span>
+      <span>Menu</span>
+  </summary>
+  <nav style="max-height: 780px;">
+    <ul>
+      <li class="logo">
+        <div class="scielo__logo-scielo--small"></div>
+      </li>
+      <li>
+        <a href="/" alt="Acessar site coleção Brasil" aria-label="Acessar site coleção Brasil">
+          <strong>Brasil</strong>
+        </a>
+        <ul>
+            <li>
+              <a href="/journals/alpha?status=current" class="tab_link">
+                Lista alfabética de periódicos
+              </a>
+            </li>
+            <li>
+              <a href="/journals/thematic?status=current" class="tab_link">
+                Lista temática de periódicos
+              </a>
+            </li>
+            <li>
+              <a href="//search.scielo.org/?q=*&lang=pt&filter[in][]=scl">
+                Busca
+              </a>
+            </li>
+            <li>
+              <a target="_blank" href="http://analytics.scielo.org/?collection=scl">
+                Métricas
+              </a>
+            </li>
+            <li>
+              <a href="/about/">
+                Sobre o SciELO Brasil
+              </a>
+            </li>
+            <li>
+              <a href="/about/">
+                Contatos
+              </a>
+            </li>
+            <li>
+              <a href="#" id="floatingBtnErrorHamburguerMenu" class="floatingBtnErrorHamburguerMenu">
+                Reportar erro
+              </a>
+            </li>
+
+            
+
+        </ul>
+      </li>
+      <li>
+        <a target="_blank" href="//www.scielo.org">
+          <strong>SciELO.org - Rede SciELO</strong>
+        </a>
+        <ul>
+          <li>
+            <a target="_blank" href="//www.scielo.org">
+              Coleções nacionais e temáticas
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="//www.scielo.org/pt/periodicos/listar-por-ordem-alfabetica/">
+              Lista alfabética de periódicos
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="//www.scielo.org/pt/periodicos/listar-por-assunto/">
+              Lista de periódicos por assunto
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="//search.scielo.org/">
+              Busca
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="http://analytics.scielo.org">
+              Métricas
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="//www.scielo.org/pt/sobre-o-scielo/acesso-via-oai-e-rss/">
+              Acesso OAI e RSS
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="//www.scielo.org/pt/sobre-o-scielo/">
+              Sobre a Rede SciELO
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="//www.scielo.org/pt/sobre-o-scielo/contato/">
+              Contatos
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        
+          <a target="_blank" href="//blog.scielo.org">
+        
+            <strong>Blog SciELO em Perspectiva</strong>
+          </a>
+      </li>
+    </ul>
+  </nav>
+</details>
+
+<script type="text/javascript">
+  document.addEventListener("click", function(event) {
+      const details = document.querySelector("details");
+      
+      if (!details.contains(event.target)) {
+          details.removeAttribute("open");
+      }
+  });
+
+</script>
+            </div>
+            <div class="col col-sm-3 --mainNav">
+                <a href="/" title="Ir para a homepage da coleção: Brasil">
+                    <div class="scielo__logo-scielo-collection mt-1 ms-5">
+                        <small>Brasil</small>
+                    </div>
+                </a>
+            </div>
+            <div class="d-none d-sm-block col">
+                <div class="dropdown mt-3">
+                    <button class="btn btn-link dropdown-toggle mb-0" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      <span class="text-truncate scielo__truncate">Psicologia: Teoria e Pesquisa </span>
+                    </button>
+                    <ul class="dropdown-menu scielo__shadow-2">
+                      <li>
+                        <a href="/j/ptp/" class="dropdown-item">
+                          
+                            <img src="/media/images/ptp_glogo.gif" class="image scielo__logo-periodico" alt="Logomarca do periódico: Psicologia: Teoria e Pesquisa" />
+                          
+                        </a>
+                      </li>
+                      
+                      
+                        <li>
+                          <a href="https://mc04.manuscriptcentral.com/ptp-scielo" class="dropdown-item" target="_blank"><span class="material-icons-outlined">launch</span> Submissão de manuscritos</a>
+                        </li>
+                      
+                      <li>
+                        <a href="/journal/ptp/about/#about" class="dropdown-item"><span class="material-icons-outlined">info</span> Sobre o periódico</a>
+                      </li>
+                      <li>
+                        <a href="/journal/ptp/about/#item2" class="dropdown-item"><span class="material-icons-outlined">help_outline</span> Política editorial</a>
+                      </li>
+                      <li>
+                        <a href="/journal/ptp/about/#editors" class="dropdown-item"><span class="material-icons-outlined">people</span> Corpo Editorial</a>
+                      </li>
+                      <li>
+                        <a href="/journal/ptp/about/#instructions" class="dropdown-item"><span class="material-icons-outlined">help_outline</span> Instruções aos autores</a>
+                      </li>
+                      <li>
+                        <a href="/journal/ptp/about/#contact" class="dropdown-item"><span class="material-icons-outlined">email</span> Contato</a>
+                      </li>
+                      <li>
+                        <a href="http://analytics.scielo.org/?journal=0102-3772&collection=scl" class="dropdown-item"><span class="material-icons-outlined">show_chart</span> Métricas</a>
+                      </li>
+                      
+                    </ul>
+                  </div>
+            </div>
+            <div class="col">
+                <div class="language mt-3">
+                  
+<div class="scielo__language">
+  <div class="dropdown">
+    <button type="button" class="btn btn-sm btn-secondary scielo__btn-with-icon--left dropdown-toggle mb-0 float-end mt-1" data-bs-toggle="dropdown" aria-expanded="false">
+      <span class="material-icons-outlined">language</span>
+      
+
+        
+          <span class="d-lg-none">pt_BR</span>
+          <span class="d-none d-lg-block">Português</span>
+        
+
+      
+
+        
+
+      
+
+        
+
+      
+  
+    </button>
+    <ul class="dropdown-menu dropdown-menu-end">
+
+      
+    
+        
+
+      
+    
+        
+        <li><a class="dropdown-item" href="/set_locale/en/" lang="en">English</a></li>
+        
+
+      
+    
+        
+        <li><a class="dropdown-item" href="/set_locale/es/" lang="es">Español</a></li>
+        
+
+      
+    
+    </ul>
+  </div>
+</div>
+
+                </div>
+            </div>
+        </div>
+        <div class="row d-block d-sm-none">
+            <div class="col">
+              <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle mb-2 w-100" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  <span class="truncate">Psicologia: Teoria e Pesquisa </span>
+                </button>
+                <ul class="dropdown-menu w-100">
+                  <li>
+                    <a href="/j/ptp/" class="dropdown-item">
+                      
+                        <img src="/media/images/ptp_glogo.gif" class="image" alt="Logomarca do periódico: Psicologia: Teoria e Pesquisa" style="max-width:100%;" />
+                      
+                    </a>
+                  </li>
+                  
+                    <li>
+                      <a href="https://mc04.manuscriptcentral.com/ptp-scielo" class="dropdown-item" target="_blank"><span class="material-icons-outlined">launch</span> Submissão de manuscritos</a>
+                    </li>
+                  
+                  <li>
+                    <a href="/journal/ptp/about/#about" class="dropdown-item"><span class="material-icons-outlined">info</span> Sobre o periódico</a>
+                  </li>
+                  <li>
+                    <a href="/journal/ptp/about/#item2" class="dropdown-item"><span class="material-icons-outlined">help_outline</span> Política editorial</a>
+                  </li>
+                  <li>
+                    <a href="/journal/ptp/about/#editors" class="dropdown-item"><span class="material-icons-outlined">people</span> Corpo Editorial</a>
+                  </li>
+                  <li>
+                    <a href="/journal/ptp/about/#instructions" class="dropdown-item"><span class="material-icons-outlined">help_outline</span> Instruções aos autores</a>
+                  </li>
+                  <li>
+                    <a href="/journal/ptp/about/#contact" class="dropdown-item"><span class="material-icons-outlined">email</span> Contato</a>
+                  </li>
+                  <li>
+                    <a href="http://analytics.scielo.org/?journal=0102-3772&collection=scl" class="dropdown-item"><span class="material-icons-outlined">show_chart</span> Métricas</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+    </div>
+</header>
+
+  <!--- removido da interface --->
+  
+
+  <main id="content">
+
+    
+
+    
+<!-- Exibe para todos dispositivos menos mobile -->
+<section class="levelMenu d-none d-md-block">
+    <div class="container">
+        
+        <div class="row">
+          <div class="col">
+
+            <div class="btn-group mt-1">
+              <a href="/j/ptp/" class="btn scielo__btn-with-icon--only mb-0"><span class="material-icons-outlined">home</span></a>
+              
+              
+              <a href="/j/ptp/i/2017.v33/" class="btn mb-0">
+                  Sumário
+              </a> 
+  
+              
+                
+                  <a href="/j/ptp/a/sd4NvGCHMVHCSGJSP3WzJtm/?lang=pt" class="btn scielo__btn-with-icon--left mb-0 pe-md-2">
+                  
+                  <span class="material-icons-outlined">navigate_before</span>
+                  <span class="d-none d-xl-block">Anterior</span>
+                </a>
+  
+              
+              <a href="#" class="btn group disabled mb-0">
+                  Atual
+              </a>
+  
+              
+              <a href="/j/ptp/a/rCB9qDCPKCNFhygQFsBhxnx/?lang=pt" class="btn scielo__btn-with-icon--right mb-0 ps-md-2">
+
+                <span class="d-none d-xl-block">Seguinte</span>
+                <span class="material-icons-outlined">navigate_next</span>
+              </a>
+  
+            </div>
+          </div>
+  
+          <div class="col d-md-none d-lg-block">
+            <div class="btn-group mt-1">
+              
+
+<div class="btn-group">
+  <button id="btnGroupDropLanguage" type="button" class="btn btn-secondary dropdown-toggle mb-0" data-bs-toggle="dropdown" aria-expanded="false">
+    Resumo
+    
+      
+    
+      
+    
+  </button>
+  <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="btnGroupDropLanguage">
+    
+      <li>
+          
+              <a href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/abstract/?lang=pt" class="dropdown-item">
+                Resumo 
+                
+                  (Português)
+                
+              </a>
+          
+      <li>
+    
+      <li>
+          
+              <a href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/abstract/?lang=en" class="dropdown-item">
+                Resumo 
+                
+                  (Inglês)
+                
+              </a>
+          
+      <li>
+    
+  </ul>
+</div>
+
+
+              
+
+
+    <div class="btn-group">
+      <button id="btnGroupDropTextLanguage" type="button" class="btn btn-secondary dropdown-toggle mb-0" data-bs-toggle="dropdown" aria-expanded="false">
+        Texto
+        
+                  
+            
+              (PT)
+            
+          
+        
+      </button>
+      <ul class="dropdown-menu" aria-labelledby="btnGroupDropTextLanguage">
+        
+        <li>
+          
+            <!-- página de texto -->
+            <a href="#" class="current dropdown-item"> 
+                Texto
+                
+                  (Português)
+                
+            </a>
+        
+        </li>
+        
+      </ul>
+    </div>
+
+  
+
+
+
+                        
+           
+          <div class="btn-group">
+            <button id="btnGroupDropPDF" type="button" class="btn btn-secondary dropdown-toggle mb-0" data-bs-toggle="dropdown" aria-expanded="false" data-bs-display="static">
+              PDF
+            </button>
+            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="btnGroupDropPDF">
+              
+                <li>
+                  <a target='_blank' href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/?format=pdf&amp;lang=pt" class="dropdown-item">
+                    
+                      Download PDF (Português)
+                    
+                  </a>
+                </li>
+              
+            </ul>
+          </div>
+          
+          
+          
+          
+          
+            </div>
+          </div>
+          <div class="col d-none d-md-block d-lg-none">
+            <div class="dropdown mt-1 float-end">
+              <button class="btn btn-secondary dropdown-toggle mb-0 scielo__btn-with-icon--left " data-bs-toggle="dropdown" aria-expanded="false">
+                <span class="material-icons-outlined">article</span> <strong>Conteúdo:</strong> 
+                <!--resumo-->
+                
+                
+                
+                
+                
+                
+                
+                
+
+                <!--texto-->
+                
+                
+                
+                        
+                
+                Texto (PT)
+                
+                
+                
+                
+              </button>
+              <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="btnGroupDrop1">
+                <!--resumo-->
+                
+                
+                <li>
+                
+                <a href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/abstract/?lang=pt" class="dropdown-item">
+                Resumo 
+                
+                (Português)
+                
+                </a>
+                
+                <li>
+                
+                <li>
+                
+                <a href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/abstract/?lang=en" class="dropdown-item">
+                Resumo 
+                
+                (Inglês)
+                
+                </a>
+                
+                <li>
+                
+                
+
+                <!--texto-->
+                
+                
+                <li>
+                
+                <!-- página de texto -->
+                <a href="#" class="current dropdown-item"> 
+                Texto
+                
+                (Português)
+                
+                </a>
+                
+                </li>
+                
+                
+
+                <!--PDF-->
+                
+                
+                <li>
+                <a target='_blank' href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/?format=pdf&amp;lang=pt" class="dropdown-item">
+                
+                Download PDF (Português)
+                
+                </a>
+                </li>
+                
+                
+
+
+                <!--PDF REDCUBE-->
+                
+
+
+                <!--ePDF-->
+                
+
+              </ul>
+            </div>
+          </div>
+
+          
+          <div class="col-1">
+
+            <!-- share --> 
+             <!-- share -->
+ <div class="dropdown">
+  <button type="button" class="btn btn-sm btn-secondary scielo__btn-with-icon--only dropdown-toggle mb-0 float-end" data-bs-toggle="dropdown" aria-expanded="false">
+    <span class="material-icons-outlined">share</span>
+  </button>
+  <ul class="dropdown-menu dropdown-menu-end">
+    <li>
+      <div class="a2a_kit a2a_kit_size_24"><a class="d-flex gap-2 dropdown-item a2a_button_whatsapp">Whatsapp</a></div>
+    </li>
+    <li>
+      <div class="a2a_kit a2a_kit_size_24"><a class="d-flex gap-2 dropdown-item a2a_button_bluesky">BlueSky</a></div> 
+    </li>
+    <li>
+      <div class="a2a_kit a2a_kit_size_24"><a class="d-flex gap-2 dropdown-item a2a_button_mastodon">Mastodon</a></div> 
+    </li>
+    <li>
+      <div class="a2a_kit a2a_kit_size_24"><a class="d-flex gap-2 dropdown-item a2a_button_facebook">Facebook</a></div> 
+    </li>
+    <li>
+      <div class="a2a_kit a2a_kit_size_24"><a class="d-flex gap-2 dropdown-item a2a_dd" href="https://www.addtoany.com/share">Mais</a></div>
+    </li>
+  </ul>
+</div>
+
+<!-- AddToAny -->
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+
+          </div>
+        </div>
+
+    </div>
+</section>
+
+
+<!-- Exibe somente no mobile -->
+<section class="levelMenu levelMenu-xs d-block d-md-none d-lg-none mt-5" style="padding-bottom:110px;">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <div class="btn-group w-100 --btn-group-nav-mobile" role="group">
+            
+            <a href="/j/ptp/" class="btn scielo__btn-with-icon--only mb-0"><span class="material-icons-outlined">home</span></a>
+            <a href="/j/ptp/i/2017.v33/" class="btn mb-0">
+              Sumário
+            </a>
+            
+            <div class="btn-group" role="group">
+
+              <!-- share -->
+              <button type="button" class="btn btn-secondary scielo__btn-with-icon--only dropdown-toggle mb-0" data-bs-toggle="dropdown" aria-expanded="false" data-bs-display="static">
+                <span class="material-icons-outlined">share</span>
+              </button>
+              <ul class="dropdown-menu dropdown-menu-end">
+                <li><a class="dropdown-item" href="#">Facebook</a></li>
+                <li><a class="dropdown-item" href="#">X</a></li>
+                <li><a class="dropdown-item" href="#">Google+</a></li>
+                <li><a class="dropdown-item" href="#">LinkedIn</a></li>
+                <li><a class="dropdown-item" href="#">Reddit</a></li>
+                <li><a class="dropdown-item" href="#">StambleUpon</a></li>
+                <li><a class="dropdown-item" href="#">CiteULike</a></li>
+                <li><a class="dropdown-item" href="#">Mendeley</a></li>
+              </ul>
+            </div>
+          
+
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-4">
+          
+
+          <div class="dropdown mt-1">
+          <button id="btnGroupDropAbstractLanguage" type="button" class="btn btn-secondary dropdown-toggle mb-0" data-bs-toggle="dropdown" aria-expanded="false">
+          Resumo
+          
+          
+          
+          
+          
+          </button>
+          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="btnGroupDropAbstractLanguage">
+          
+          <li>
+          
+          <a href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/abstract/?lang=pt" class="dropdown-item">
+          Resumo 
+          
+            (Português)
+          
+          </a>
+          
+          <li>
+          
+          <li>
+          
+          <a href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/abstract/?lang=en" class="dropdown-item">
+          Resumo 
+          
+            (Inglês)
+          
+          </a>
+          
+          <li>
+          
+          </ul>
+          </div>
+          
+
+
+        </div>
+        <div class="col-4">
+
+          
+          <div class="dropdown mt-1">
+          <button id="btnGroupDropArticleTextLanguage" type="button" class="btn btn-secondary dropdown-toggle mb-0" data-bs-toggle="dropdown" aria-expanded="false">
+          Texto
+          
+                  
+          
+          (PT)
+          
+          
+          
+          </button>
+          <ul class="dropdown-menu" aria-labelledby="btnGroupDropArticleTextLanguage">
+          
+          <li>
+          
+          <!-- página de texto -->
+          <a href="#" class="current dropdown-item"> 
+          Texto
+          
+          (Português)
+          
+          </a>
+          
+          </li>
+          
+          </ul>
+          </div>
+
+          
+        </div>
+        <div class="col-4">
+          
+
+          <div class="dropdown float-end mt-1">
+          <button id="btnGroupDropArticlePDF" type="button" class="btn btn-secondary dropdown-toggle mb-0" data-bs-toggle="dropdown" aria-expanded="false" data-bs-display="static">
+          PDF
+          </button>
+          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="btnGroupDropArticlePDF">
+          
+          <li>
+          <a target='_blank' href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/?format=pdf&amp;lang=pt" class="dropdown-item">
+          
+          Download PDF (Português)
+          
+          </a>
+          </li>
+          
+          </ul>
+          </div>
+          
+
+          
+
+          
+        </div>
+      </div>
+    </div>
+</section>
+
+    <!-- PID: S0102-37722017000100417 -->
+      <!-- Verificando se é versão HTML ou XML -->
+      
+        
+          <div id="standalonearticle">
+<section class="articleCtt"><div class="container"><div class="articleTxt">
+<div class="articleBadge-editionMeta-doi-copyLink">
+<span class="_articleBadge">Psicologia Clínica e Cultura</span><span class="_separator"> • </span><span class="_editionMeta">Psic.: Teor. e Pesq. 33 <span class="_separator"> • </span>2017</span><span class="_separator"> • </span><span class="group-doi"><a href="https://doi.org/10.1590/0102.3772e33419" class="_doi" target="_blank">https://doi.org/10.1590/0102.3772e33419</a> <a href="javascript:;" class="btn btn-secondary btn-sm scielo__btn-with-icon--left copyLink" data-clipboard-text="https://doi.org/10.1590/0102.3772e33419"><span class="material-icons-outlined">link</span>copiar</a></span>
+</div>
+<h1 class="article-title">
+<img alt="Open-access" class="logo-open-access" data-bs-toggle="tooltip" src="https://ds.scielo.org/img/logo-open-access.svg" data-original-title="by 4.0 "> Do “Embelezamento dos Fatos” à “Cicatriz”: Uma Investigação sobre a Fantasia em Freud<a id="shorten" href="#" class="short-link"><span class="sci-ico-link"></span></a>
+</h1>
+<h2 class="article-title">From “Embellishment of the Facts” to a “Scar”: A Study about Fantasy According to Freud</h2>
+<div class="articleMeta"></div>
+<div class="scielo__contribGroup">
+<a href="" class="btn btn-secondary btn-sm outlineFadeLink" data-bs-toggle="modal" data-bs-target="#ModalTutors">Autoria</a><a href="" class="btn btn-secondary btn-sm outlineFadeLink" data-bs-toggle="modal" data-bs-target="#ModalScimago">SCIMAGO INSTITUTIONS RANKINGS</a>
+</div>
+<div class="row">
+<ul class="d-none d-lg-block col-lg-2 articleMenu"></ul>
+<article id="articleText" class="col-sm-12 col-lg-10 offset-lg-2"><div class="articleSection articleSection--resumo" data-anchor="RESUMO">
+<h2 class="h5">RESUMO</h2>
+<p>Reconhecer a função da fantasia na vida dos sujeitos possibilitou a Freud inventar a psicanálise. Desde suas pesquisas, consideram-se as fantasias como um modo de proteção à realidade insatisfatória, por permitirem embelezar fatos, tornando-os menos traumáticos. Há uma intensa variedade de fantasias no imaginário dos seres humanos, como evidenciam os relatos clínicos. Além desse imaginário, a fantasia se expressa como uma marca, “cicatriz”, que determina o modo de os sujeitos estarem no mundo. Essa dimensão vai além do que se consegue dizer e, por isso, faz-se necessário um trabalho de “construção”. Por considerar a relevância clínica e conceitual da noção de fantasia, este trabalho procura cernir uma lógica da fantasia em Freud, através da revisão de sua utilização do conceito.</p>
+<p><strong>Palavras-chaves:</strong><br>fantasia (mecanismo de defesa); trauma psíquico; psicanálise; pulsão</p>
+</div>
+<div class="articleSection articleSection--abstract" data-anchor="ABSTRACT">
+<h2 class="h5">ABSTRACT</h2>
+<p>In order to recognize the function of fantasy in people's life Freud invented psychoanalysis. Since his studies, fantasies are considered as a kind of protection for unsatisfactory reality, since they made facts more beautiful and less traumatic. There is an intense variety of fantasies in the imagination of human beings, as evidenced by clinical accounts. In addition to this imagination, fantasy expresses itself also as a “scar”, which determines the way people interpret the world. This dimension goes beyond what can be expressed through words, and therefore, a work of “construction” is necessary. Considering the clinical and conceptual relevance of the notion of fantasy, this work seeks to delimitate a logic of fantasy according to Freud by reviewing the way the concept is being used.</p>
+<p><strong>Keywords:</strong><br>fantasy (defense mechanism); psychic trauma; psychoanalysis; drive</p>
+</div>
+<div class="articleSection" data-anchor="Text">
+<p></p>
+<p>O termo fantasia, no discurso corrente, está associado à “faculdade de imaginar, de criar pela imaginação”, derivado do latim <i>phantasia</i>, que remete à “visão, imaginação, aparência, sombra, fantasma, sonho, ideia, concepção” (Houaiss, 2013, n.p.). O reino das fantasias é muito caro às crianças, no entanto, essa faculdade não está restrita a elas, já que, no mundo adulto, têm uma importante função e se apresentam com grande intensidade. É o que demonstram os estudos clínicos de Sigmund Freud, que, ao reconhecer tal importância pôde ir além da catarse como um método de cura para os sintomas psíquicos e chegar “à psicanálise propriamente dita” (<span class="ref"><span class="xref xrefblue"><a href="#B24_ref" data-ref="Freud, S. (1996) Estudo autobiográfico. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 20). Rio de Janeiro: Imago. (Trabalho original publicado em: 1925)">Freud, 1925/1996</a></span></span>, p. 29).</p>
+<p></p>
+<p>A investigação clínica realizada por Freud o permitiu cernir a razão pela qual as fantasias são tão necessárias para os sujeitos, que se servem delas como uma maneira de se proteger da realidade insatisfatória e, muitas vezes, traumática. Ao se empreender uma pesquisa sobre o conceito de fantasia em Freud, verifica-se que há variações em torno do mesmo. Além disso, destaca-se que as fantasias obedecem a certa lógica que se mostra fundamental e determinante na vida dos sujeitos.</p>
+<p></p>
+<p>O presente artigo visa apontar os resultados dessa pesquisa em torno da noção de fantasia em Freud, levando em consideração a aplicabilidade clínica de tal noção. Para tanto, constitui-se como um recorte que parte das primeiras apresentações da fantasia na obra freudiana, buscando identificar uma lógica de tal conceito em Freud.</p>
+      <h2 class="h5">Do Próton Pseudos à Fantasia</h2>
+      <p>As elaborações de Freud acerca das fantasias trazem para o primeiro plano as construções psíquicas feitas pelos sujeitos para dar conta da realidade. O reconhecimento dessa noção ancorou suas bases no interesse freudiano pelo que a ciência de sua época rejeitava, a histeria. Naquele tempo de 1886, um diagnóstico de histeria era suficiente para eliminar qualquer motivação para se compreender o que se passava com aquele paciente (<span class="ref"><span class="xref xrefblue"><a href="#B1_ref" data-ref="Freud, S. (1996) Relatório sobre meus estudos em Paris e Berlim. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1886)">Freud, 1886/1996</a></span></span>, p.45). Antes consideradas feiticeiras ou possuídas pelo demônio, as histéricas eram tratadas como simuladoras. Segundo <span class="ref"><span class="xref xrefblue"><a href="#B1_ref" data-ref="Freud, S. (1996) Relatório sobre meus estudos em Paris e Berlim. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1886)">Freud (1886/1996)</a></span></span>, para que se tornasse possível a existência de um tratamento para a sua sintomatologia, foi preciso um homem de “coragem” que acreditasse no que esses sujeitos em sofrimento diziam e, ao mesmo tempo, não se deixasse enganar por eles. Nesse momento, acreditava que esse homem fosse Charcot, de quem reteve grandes ensinamentos e que considerava ter tido “a coragem de reconhecer esses sintomas como sendo, na sua maior parte, reais, sem negligenciar as precauções exigidas pela insinceridade do paciente” (<span class="ref"><span class="xref xrefblue"><a href="#B1_ref" data-ref="Freud, S. (1996) Relatório sobre meus estudos em Paris e Berlim. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1886)">Freud, 1886/1996</a></span></span>, p. 45).</p>
+      <p>Por acreditar em seus pacientes, Freud atrelava a explicação para a etiologia da histeria ao trauma. Considerava que os histéricos sofriam de <i>reminiscências</i>, indicando que um ataque histérico era “o retorno de um estado psíquico que o paciente já experimentou anteriormente - em outras palavras, o retorno de uma lembrança” (<span class="ref"><span class="xref xrefblue"><a href="#B3_ref" data-ref="Freud, S. (1996). Carta a Josef Breuer. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1892)">Freud, 1892/1996</a></span></span>, p. 194). Os sintomas histéricos seriam “como efeitos e resíduos de excitações que atuaram no sistema nervoso como traumas” (<span class="ref"><span class="xref xrefblue"><a href="#B4_ref" data-ref="Freud, S. (1996). Estudos sobre a histeria. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 2). Rio de Janeiro: Imago. (Trabalho original publicado em 1895a)">Freud, 1895/1996</a></span></span>, p.115), ou seja, resíduos de impressões insistentes e sem representação no psiquismo. Os traumas se definiam como aquelas impressões que o aparelho psíquico - regido pelo princípio de constância - não conseguiu abolir por meio do pensamento associativo ou da reação motora (<span class="ref"><span class="xref xrefblue"><a href="#B3_ref" data-ref="Freud, S. (1996). Carta a Josef Breuer. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1892)">Freud, 1892/1996</a></span></span>).</p>
+      <p>É o que se depreende do “caso Emma”, trabalhado no <i>Projeto para uma psicologia científica</i>, de 1895, que versa sobre uma mulher que procura Freud por estar dominada pela compulsão de não poder estar sozinha em uma loja. Aos 12 anos de idade, havia entrado em um estabelecimento e visto dois vendedores rindo muito. Como concluiu que riam de suas roupas, saiu correndo, tomada por um “afeto de susto” (<span class="ref"><span class="xref xrefblue"><a href="#B4_ref" data-ref="Freud, S. (1996). Estudos sobre a histeria. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 2). Rio de Janeiro: Imago. (Trabalho original publicado em 1895a)">Freud, 1895/1996</a></span></span>, p. 407). Lembra-se de que um dos vendedores a havia atraído sexualmente e toma esse acontecimento na loja como justificativa para seus sintomas, o que relata para Freud. Este considera que haveria algo de ininteligível nessa explicação, identificando uma estranheza no fato de alguém precisar ser acompanhado em uma loja em função do medo de ser criticado por suas roupas, mesmo trajando-se bem. Por essa razão, pede que a paciente fale mais sobre suas lembranças e, a partir daí, um acontecimento aos 8 anos de idade é evocado. Emma esteve em uma confeitaria e o proprietário lhe agarrou os genitais por cima da roupa, com um sorriso. A paciente se recrimina por ter voltado ao local mesmo após esse fato ter ocorrido.</p>
+      <p>Das duas cenas, a dos 12 e a dos 8 anos, <span class="ref"><span class="xref xrefblue"><a href="#B4_ref" data-ref="Freud, S. (1996). Estudos sobre a histeria. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 2). Rio de Janeiro: Imago. (Trabalho original publicado em 1895a)">Freud (1895/1996)</a></span></span> extrai um elo de ligação: trata-se do elemento riso, que aparece na cena mais tardia através do riso dos vendedores e que, na cena da confeitaria, figura-se no riso do proprietário. O riso dos vendedores, ao trazer de volta a lembrança do que se passou na confeitaria, desperta uma descarga de energia sexual até então sem representação no psiquismo de Emma. E, nesse sentido, a reminiscência dá à lembrança o caráter de um acontecimento, daí considerar que as histéricas sofrem de reminiscências.</p>
+      <p>A primeira explicação dada por Emma para seu sintoma de não entrar sozinha em uma loja era um <i>próton pseudos</i>, erro inicial que conduz a uma estabilidade da resposta sintomática. <i>Próton pseudos</i> é um termo extraído de Aristóteles e designa o fato de que uma proposição falsa é decorrente de um erro que a precede, uma falsa premissa - o que indica que há um pensamento lógico para se chegar a uma falsidade. Há, na explicação, “duas conexões falsas”: primeiramente a explicação de que riam dela em função de suas roupas e, em segundo lugar, o fato de que a atração sexual sentida por um dos vendedores seria motivo para o desencadeamento do sintoma (<span class="ref"><span class="xref xrefblue"><a href="#B4_ref" data-ref="Freud, S. (1996). Estudos sobre a histeria. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 2). Rio de Janeiro: Imago. (Trabalho original publicado em 1895a)">Freud, 1895/1996</a></span></span>). Freud acreditava que haveria algo essencial por trás dessa associação aparentemente ininteligível e, ao buscar esse ponto, permite que essas conexões se desfaçam, dando lugar à cena traumática.</p>
+      <p>É importante observar que, mesmo não mencionando a fantasia nesse caso, <span class="ref"><span class="xref xrefblue"><a href="#B4_ref" data-ref="Freud, S. (1996). Estudos sobre a histeria. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 2). Rio de Janeiro: Imago. (Trabalho original publicado em 1895a)">Freud (1895/1996)</a></span></span> demonstra já reconhecer aí um movimento neurótico de alterar os fatos no psiquismo para se proteger das lembranças de uma experiência traumática. Percebe-se que, no relato do caso, ele também não é alheio ao modo paradoxal de satisfação experimentado na cena traumática, o que está condensado no elemento riso - nome dessa satisfação paradoxal. Vê-se, portanto, que o mecanismo utilizado por Emma se aproxima daquilo que, dois anos mais tarde, Freud (1897/1996 - <i>Carta 61</i>) indica como fantasias, que são “estruturas protetoras, sublimações dos fatos, embelezamento deles e [que], ao mesmo tempo, serviriam como auto-absolvição” (p. 296).</p>
+      <p>Das cartas e rascunhos pré-psicanalíticos de Freud, verifica-se que a categoria das fantasias vai se delineando pouco a pouco. São localizadas como “fachadas psíquicas construídas com a finalidade de obstruir o caminho para as lembranças” (<span class="ref"><span class="xref xrefblue"><a href="#B3_ref" data-ref="Freud, S. (1996). Carta a Josef Breuer. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1892)">Freud, 1892</a></span></span>-<span class="ref"><span class="xref xrefblue"><a href="#B7_ref" data-ref="Freud, S. (1996). Lembranças encobridoras. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 3). Rio de Janeiro: Imago. (Trabalho original publicado em 1899)">1899/1996</a></span></span>- <i>Rascunho L</i>, p. 297) e se relacionam com as “coisas ouvidas”, assim como os sonhos estão relacionados com as “coisas vistas” ao longo do dia. Originam-se de uma combinação inconsciente daquilo que foi ouvido com o que se viu ou se experimentou e têm o intuito de tornar inacessível uma lembrança (<span class="ref"><span class="xref xrefblue"><a href="#B3_ref" data-ref="Freud, S. (1996). Carta a Josef Breuer. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1892)">Freud, 1892</a></span></span>-<span class="ref"><span class="xref xrefblue"><a href="#B7_ref" data-ref="Freud, S. (1996). Lembranças encobridoras. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 3). Rio de Janeiro: Imago. (Trabalho original publicado em 1899)">1899/1996</a></span></span>. Um fragmento de uma cena vista se une a um fragmento auditivo e juntos eles formam as fantasias que, no lugar da memória, permanecem como “ficções inconscientes, não sujeitas à defesa” (<span class="ref"><span class="xref xrefblue"><a href="#B3_ref" data-ref="Freud, S. (1996). Carta a Josef Breuer. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1892)">Freud, 1892</a></span></span>-<span class="ref"><span class="xref xrefblue"><a href="#B7_ref" data-ref="Freud, S. (1996). Lembranças encobridoras. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 3). Rio de Janeiro: Imago. (Trabalho original publicado em 1899)">1899/1996</a></span></span>, p. 302). Na medida em que vão se intensificando, a ponto de poderem irromper na consciência, há uma tentativa de mantê-las afastadas e, desse modo, os sintomas surgem “mediante uma força que impele para trás, indo desde a fantasia até as lembranças que a constituíram” (<span class="ref"><span class="xref xrefblue"><a href="#B3_ref" data-ref="Freud, S. (1996). Carta a Josef Breuer. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1892)">Freud, 1892</a></span></span>-<span class="ref"><span class="xref xrefblue"><a href="#B7_ref" data-ref="Freud, S. (1996). Lembranças encobridoras. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 3). Rio de Janeiro: Imago. (Trabalho original publicado em 1899)">1899/1996</a></span></span>, p. 302 - <i>Rascunho M</i>). Parte das lembranças seria substituída pela fantasia, enquanto a outra parte conduziria aos impulsos (<span class="ref"><span class="xref xrefblue"><a href="#B3_ref" data-ref="Freud, S. (1996). Carta a Josef Breuer. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1892)">Freud, 1892</a></span></span>-<span class="ref"><span class="xref xrefblue"><a href="#B7_ref" data-ref="Freud, S. (1996). Lembranças encobridoras. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 3). Rio de Janeiro: Imago. (Trabalho original publicado em 1899)">1899/1996</a></span></span> - <i>Rascunho N</i>).</p>
+      <p>As “coisas ouvidas” de que fala <span class="ref"><span class="xref xrefblue"><a href="#B3_ref" data-ref="Freud, S. (1996). Carta a Josef Breuer. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1892)">Freud (1892</a></span></span>-<span class="ref"><span class="xref xrefblue"><a href="#B7_ref" data-ref="Freud, S. (1996). Lembranças encobridoras. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 3). Rio de Janeiro: Imago. (Trabalho original publicado em 1899)">1899/1996 - Carta 59, p. 293)</a></span></span> remontam ao que foi escutado pelas crianças em uma idade muito precoce (seis ou sete meses em diante), mas somente compreendido mais tarde. É como no caso Emma (<span class="ref"><span class="xref xrefblue"><a href="#B4_ref" data-ref="Freud, S. (1996). Estudos sobre a histeria. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 2). Rio de Janeiro: Imago. (Trabalho original publicado em 1895a)">Freud, 1895/1996</a></span></span>), em que a cena sexual só ganha uma significação anos depois, em sua revivescência do riso - elemento de condensação do caráter sexual que a experiência traumática continha. O termo utilizado por Freud é <i>nachträglich</i>, que remete ao fato de um processo traumático apenas ganhar significação em um segundo momento (<span class="ref"><span class="xref xrefblue"><a href="#B30_ref" data-ref="Hanns, L. A. (1996). Dicionário comentado do alemão de Freud. Rio de Janeiro: Imago.">Hanns, 1996</a></span></span>), <i>a posteriori</i>.</p>
+      <p>Com o avanço de suas elaborações, <span class="ref"><span class="xref xrefblue"><a href="#B3_ref" data-ref="Freud, S. (1996). Carta a Josef Breuer. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1892)">Freud (1892</a></span></span>-<span class="ref"><span class="xref xrefblue"><a href="#B7_ref" data-ref="Freud, S. (1996). Lembranças encobridoras. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 3). Rio de Janeiro: Imago. (Trabalho original publicado em 1899)">1899/1996 - Carta 59, p. 293)</a></span></span> vai dando cada vez mais destaque ao tema da fantasia, a ponto de reconhecê-la como o elemento que lhe havia escapado na solução da histeria. Desse modo, precisa dar um difícil passo em sua teorização, já que a crença de que suas pacientes teriam passado por situações de sedução por um adulto não se sustentava mais como fato e sim como fantasia. É o que escreve para Fliess, na <i>Carta 69</i>, de 21 de setembro de 1897:</p>
+      <div>
+        <div><blockquote>
+          <p><i>Não acredito mais em minha neurótica” (p. 310). As razões se enumeram do seguinte modo: 1) a decepção de não</i> ter conseguido fazer uma análise chegar a uma conclusão real e exitosa; 2) o descabimento da ideia de que todos os pais dos histéricos, incluindo o seu, seriam perversos, já que a perversão era muito menos frequente que a histeria; e 3) a “descoberta comprovada de que, no inconsciente, não há indicações da realidade, de modo que não se consegue distinguir entre a verdade e a ficção que é catexizada com o afeto. (<span class="ref"><span class="xref xrefblue"><a href="#B3_ref" data-ref="Freud, S. (1996). Carta a Josef Breuer. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1892)">Freud, 1892</a></span></span>-<span class="ref"><span class="xref xrefblue"><a href="#B7_ref" data-ref="Freud, S. (1996). Lembranças encobridoras. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 3). Rio de Janeiro: Imago. (Trabalho original publicado em 1899)">1899/1996</a></span></span>, p. 310)</p>
+        </blockquote></div>
+      </div>
+      <p>Freud (1925b/1996) conclui que o abandono da dita <i>teoria da sedução</i> implicava que: “os sintomas neuróticos não estavam diretamente relacionados com fatos reais, mas com fantasias impregnadas de desejos, e que, no tocante à neurose, a realidade psíquica era de maior importância que a realidade material” (p.29). Tal abandono traz desdobramentos importantes para a psicanálise, como a transição da catarse para o método da associação livre e a localização de uma fantasia universal presente nos neuróticos, nomeada como <i>Complexo de Édipo</i>. Diz <span class="ref"><span class="xref xrefblue"><a href="#B24_ref" data-ref="Freud, S. (1996) Estudo autobiográfico. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 20). Rio de Janeiro: Imago. (Trabalho original publicado em: 1925)">Freud (1925/1996)</a></span></span>: “Eu tinha de fato tropeçado pela primeira vez no Complexo de Édipo, que depois iria assumir importância tão esmagadora, mas que eu ainda não reconhecia sob seu disfarce de fantasia” (p.40).</p>
+      <p>É possível perceber que o abandono da teoria da sedução permitiu-lhe trazer as fantasias para o primeiro plano, o que não significa que elas não existissem antes. Há certa tendência a se interpretar a carta de 1897 como “descoberta da fantasia” e abandono do trauma. A presente investigação indica que a fantasia aparece em Freud muito antes desse momento, embora sem estatuto conceitual. A “descrença” em sua histérica se anuncia claramente em 1897, mas pode ser vista, por exemplo, no caso Emma, quando o psicanalista considera as explicações da paciente como “primeiras mentiras histéricas” (<span class="ref"><span class="xref xrefblue"><a href="#B5_ref" data-ref="Freud, S. (1996). Projeto para uma psicologia científica. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 2). Rio de Janeiro: Imago. (Trabalho original publicado em 1895b)">Freud, 1895b/1996</a></span></span>, p. 406). Acompanhando-se as cartas de <span class="ref"><span class="xref xrefblue"><a href="#B3_ref" data-ref="Freud, S. (1996). Carta a Josef Breuer. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1892)">Freud (1892</a></span></span>-<span class="ref"><span class="xref xrefblue"><a href="#B7_ref" data-ref="Freud, S. (1996). Lembranças encobridoras. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 3). Rio de Janeiro: Imago. (Trabalho original publicado em 1899)">1899/1996)</a></span></span> a Fliess, vê-se que não foi simples chegar à afirmação proferida na célebre <i>Carta 69</i>, pois o psicanalista teve que extrair consequências dela, reformulando toda a sua teoria. Como se pode perceber no texto que abre a coletânea de suas <i>Obras Completas</i>, em que relata seus estudos com Charcot, <span class="ref"><span class="xref xrefblue"><a href="#B1_ref" data-ref="Freud, S. (1996) Relatório sobre meus estudos em Paris e Berlim. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1886)">Freud (1886/1996)</a></span></span> não queria tratar as histéricas como mentirosas. Conclui-se, portanto, que extrair consequências da referida “descrença”, sem deixar esses sujeitos desacreditados, seria reconhecer a função dessa “mentira” no psiquismo, o que a noção de realidade psíquica permite elaborar, como se verá a seguir.</p>
+      <p>Além disso, <span class="ref"><span class="xref xrefblue"><a href="#B27_ref" data-ref="Freud, S. (1996). Análise terminável e interminável. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 23). Rio de Janeiro: Imago. (Trabalho original publicado em 1937a)">Freud (1937a/1996)</a></span></span> não abdica de considerar a verdade dos fatos, já que, em um dos seus últimos textos, afirma que “o relacionamento analítico se baseia no amor à verdade - isto é no reconhecimento da realidade” (p. 265). De uma maneira diferente, o interesse pelo caráter traumático na vida psíquica se mantém. Infere-se que, se no início trauma e sedução estavam unidos na teoria da sedução, com a ênfase na fantasia, há um descolamento de ambos que propicia o abandono da teoria da sedução e uma nova maneira de conceber o trauma.</p>
+    
+      <h2 class="h5">Fantasia e Realidade Psíquica: Uma Reserva Natural</h2>
+      <p>A ênfase dada por Freud às fantasias após o abandono da teoria da sedução lhe possibilita reconhecer o caráter encobridor das lembranças neuróticas, pois um fato que foi fantasiado pode perfeitamente ser lembrado como se tivesse ocorrido verdadeiramente. Ou seja, experimenta-se uma fantasia tal como se ela fosse uma lembrança infantil, o que equivale a dizer que as pessoas constroem esses fatos “inconscientemente, quase como obras de ficção” (<span class="ref"><span class="xref xrefblue"><a href="#B7_ref" data-ref="Freud, S. (1996). Lembranças encobridoras. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 3). Rio de Janeiro: Imago. (Trabalho original publicado em 1899)">Freud, 1899/1996</a></span></span>, p. 298). Trata-se de uma lembrança encobridora, assim como são todas as lembranças relativas à infância, que mostram os primeiros anos da vida não exatamente como eles foram, mas tal como se evidenciam nos períodos em que são despertadas as lembranças. E, nessa perspectiva, as lembranças não emergiriam, e sim seriam formadas.</p>
+      <p>Por sua dimensão onírica e imaginária, as fantasias acabam constituindo uma nova realidade como uma espécie de proteção à realidade insatisfatória, funcionando como realização de desejo, o que se deduz da afirmação de <span class="ref"><span class="xref xrefblue"><a href="#B12_ref" data-ref="Freud, S. (1996). Escritores criativos e devaneio. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 9). Rio de Janeiro: Imago. (Trabalho original publicado em 1908a)">Freud (1908a/1996)</a></span></span> de que “toda fantasia é a realização de um desejo, uma correção da realidade insatisfatória” (p. 137). Essa fantasia acaba por ganhar um caráter de efetividade (<i>Wirklichkeit</i>), como propõe <span class="ref"><span class="xref xrefblue"><a href="#B20_ref" data-ref="Freud, S. (1996). Conferência XXIII: Os caminhos da formação dos sintomas. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 16). Rio de Janeiro: Imago. (Trabalho original publicado em 1917)">Freud (1917/1996)</a></span></span>: “as fantasias possuem realidade psíquica, em contraste com a realidade material, e gradualmente aprendemos a entender que, no mundo das neuroses, a realidade psíquica é a realidade decisiva” (p. 370).</p>
+      <p>Embora já esboçada no <i>Projeto para uma Psicologia Científica</i> (1895b/1996) em termos de uma distinção entre a <i>realidade material</i> e a <i>realidade do pensamento</i>, é na <i>Interpretação dos Sonhos</i> que a expressão realidade psíquica aparece pela primeira vez. Nesse texto, a realidade psíquica é associada ao inconsciente, e <span class="ref"><span class="xref xrefblue"><a href="#B8_ref" data-ref="Freud, S. (1996). A Interpretação dos sonhos. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 5). Rio de Janeiro: Imago. (Trabalho original publicado em 1900)">Freud (1900/1996)</a></span></span> chega a afirmar que “o inconsciente é a verdadeira realidade psíquica” (p. 637), pois ele é tão desconhecido para o sujeito quanto a realidade efetiva. Do mesmo modo que os órgãos dos sentidos não são capazes de fornecer à consciência uma completa representação do mundo externo, o inconsciente somente se apresenta à consciência de modo incompleto.</p>
+      <p>No texto de 1913, <i>Totem</i> e <i>Tabu</i>, Freud aponta que o que está por trás do sentimento de culpa dos neuróticos são sempre realidades psíquicas e nunca realidades concretas. Ou seja, os neuróticos preferem a realidade psíquica e reagem aos pensamentos como se fossem reais, pois supervalorizam seus atos psíquicos (<span class="ref"><span class="xref xrefblue"><a href="#B18_ref" data-ref="Freud, S. (1996). Totem e tabu. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 13). Rio de Janeiro: Imago. (Trabalho original publicado em 1913)">Freud, 1913/1996</a></span></span>).</p>
+      <p>A neurose acaba por “arrancar” o paciente da vida real, alienando-o da realidade, o que Freud explica a partir dos dois princípios que regem o funcionamento mental trabalhados no texto de 1911. Trata-se, primeiramente, do princípio de prazer, que consiste em uma atividade psíquica que visa a afastar “qualquer evento que possa despertar desprazer” (<span class="ref"><span class="xref xrefblue"><a href="#B16_ref" data-ref="Freud, S. (1996). Formulações sobre os dois princípios do funcionamento mental. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 12). Rio de Janeiro: Imago. (Trabalho original publicado em: 1911)">Freud, 1911/1996</a></span></span>, p. 238). Nesse princípio, o que se visa é descarregar a energia livre, sem qualquer representação proveniente do que chega ao aparelho psíquico como estímulo (endógeno ou exógeno). A descarga dessa energia produz uma sensação de prazer, enquanto que seu acúmulo é vivenciado como desprazer. Por ser este um princípio bastante perigoso e ineficaz no que se refere à autopreservação do indivíduo, acontece sua substituição pelo princípio de realidade. Este consiste em uma exigência, por parte do eu, de adiamento na busca pelo prazer, possibilitando uma tolerância maior ao desprazer.</p>
+      <p>Há um paralelo feito por <span class="ref"><span class="xref xrefblue"><a href="#B20_ref" data-ref="Freud, S. (1996). Conferência XXIII: Os caminhos da formação dos sintomas. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 16). Rio de Janeiro: Imago. (Trabalho original publicado em 1917)">Freud (1917/1996)</a></span></span> entre a fantasia e o estabelecimento de reservas naturais preservadas da intervenção dos processos civilizatórios (agricultura, indústria, comunicação) para exemplificar o modo como a fantasia é uma das atividades do pensamento que permanece apartada do princípio de realidade. Esse paralelo está presente no texto em que trabalha “Os caminhos da formação dos sintomas” (1917), em que faz elaborações importantes sobre a fantasia. Nesse texto, demonstra como, nas reservas naturais, há a preservação do estado original, inclusive do que é inútil e nocivo. A fantasia seria essa reserva e, quanto mais a realidade “aconselha modéstia e contenção” (p. 374), mais exuberantes e floridos se tornam os devaneios, que são sua expressão consciente. Nesse cenário, a fantasia seria responsável por inibir ideias desprazerosas para que não sejam notadas pela consciência.</p>
+      <p>Mais tarde em seu percurso, <span class="ref"><span class="xref xrefblue"><a href="#B22_ref" data-ref="Freud, S. (1996). Além do princípio de prazer. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 18). Rio de Janeiro: Imago. (Trabalho original publicado em 1920)">Freud (1920/1996)</a></span></span> reconhece um <i>mais-além do princípio de prazer</i>, que consiste em considerar que há situações em que o acúmulo de prazer traz uma satisfação paradoxal que leva os sujeitos a repeti-las. Há um “prazer que não pode ser sentido como tal” (<span class="ref"><span class="xref xrefblue"><a href="#B22_ref" data-ref="Freud, S. (1996). Além do princípio de prazer. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 18). Rio de Janeiro: Imago. (Trabalho original publicado em 1920)">Freud, 1920/1996</a></span></span>, p. 21).</p>
+      <p>Nessa perspectiva, a fantasia propicia uma perda da realidade na neurose que pode tomar a forma de um afastamento ou, nos casos mais graves, de uma “fuga da vida real” (<span class="ref"><span class="xref xrefblue"><a href="#B23_ref" data-ref="Freud, S. (1996). A perda da realidade na neurose e na psicose. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 19). Rio de Janeiro: Imago. (Trabalho original publicado em 1924)">Freud, 1924/1996</a></span></span>,p.205). A neurose busca substituir a ideia desagradável por outra que esteja mais próxima dos desejos dos sujeitos e o “mundo da fantasia”, com seu caráter de reserva, “de um domínio que ficou separado do mundo externo real” (p. 208), é o terreno de onde a neurose tira material para se fixar.</p>
+      <p>Diferentemente da psicose, que repudia a realidade, a neurose apenas a ignora. Seu mecanismo é o de tentar evitar determinado fragmento da realidade e se proteger dele. <span class="ref"><span class="xref xrefblue"><a href="#B23_ref" data-ref="Freud, S. (1996). A perda da realidade na neurose e na psicose. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 19). Rio de Janeiro: Imago. (Trabalho original publicado em 1924)">Freud (1924/1996)</a></span></span> considera que tal fragmento está associado a alguma exigência de satisfação que precisou ser recalcada, como acontece no caso clínico em que uma jovem apaixonada pelo cunhado sucumbe aos sintomas histéricos a partir do momento em que, no leito de morte da irmã, pensa que ele estaria livre para casar-se com ela (trata-se do caso Elisabeth Von R., trabalhado nos <i>Estudos sobre Histeria</i> [1895/1996]). Nesse caso, toda sua sintomatologia neurótica, manifesta em fortes dores nas pernas, visa a tentar resolver o conflito, deixando-a reclusa e longe do cunhado. <span class="ref"><span class="xref xrefblue"><a href="#B23_ref" data-ref="Freud, S. (1996). A perda da realidade na neurose e na psicose. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 19). Rio de Janeiro: Imago. (Trabalho original publicado em 1924)">Freud (1924/1996)</a></span></span> indica que, se fosse um caso de psicose, a morte da irmã teria sido o elemento rejeitado.</p>
+      <p>A partir do percurso feito até o momento, fica claro como a fantasia se mantém como algo em desacordo com a realidade objetiva, embora tenha efetividade - tal como os <i>próton pseudos</i>, trabalhados anteriormente. Em síntese, as fantasias seriam fachadas psíquicas, impregnadas de desejo, construídas das coisas que são ouvidas em idade precoce e obstruem o caminho das lembranças, como ficções inconscientes não sujeitas à defesa. Elas apartam o sujeito da realidade, ao mesmo tempo em que lhe possibilitam não estar completamente desligado dela, pois lhe permitem suportá-la melhor. E, nesse sentido, há uma correspondência entre a fantasia e a realidade psíquica.</p>
+      <p>Considerando esse ponto de vista, há um elemento teórico-clínico que merece ser enfatizado e que surge como questão fundamental para o prosseguimento da presente investigação: por que se precisa tanto da fantasia? Ou, ainda, que ideias traumáticas seriam essas, carregadas de desprazer, frente as quais a fantasia serviria de defesa?</p>
+    
+      <h2 class="h5">Defesa Contra o Trauma</h2>
+      <p>Em sua teorização acerca das neuroses, é importante considerar o modo como Freud, pouco a pouco, tratou das relações entre o trauma e a fantasia. Esse parece ser o núcleo essencial da maneira como ele concebeu a questão do funcionamento da causalidade em jogo nas neuroses. E, ao tomar o trauma na etiologia da neurose, as fantasias seriam uma espécie de proteção à cena traumática, falseando-a (Freud, 1897/1996); seriam, portanto, elaborações da experiência traumática.</p>
+      <p>Mesmo ao abandonar a teoria de que toda neurose seria causada por um episódio de sedução por um adulto, Freud não deixou de relacionar o adoecimento neurótico a uma experiência traumática. A “descrença” em sua histérica (<span class="ref"><span class="xref xrefblue"><a href="#B3_ref" data-ref="Freud, S. (1996). Carta a Josef Breuer. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1892)">Freud, 1892</a></span></span>-<span class="ref"><span class="xref xrefblue"><a href="#B7_ref" data-ref="Freud, S. (1996). Lembranças encobridoras. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 3). Rio de Janeiro: Imago. (Trabalho original publicado em 1899)">1899/1996/1996)</a></span></span> não parece ter produzido a substituição do trauma pela fantasia, conforme se poderia inadvertidamente pensar. Ao contrário, o que se verifica é que o reconhecimento da fantasia amplia o próprio estatuto conceitual do trauma que, se antes estava restrito ao acontecimento e à dificuldade subjetiva em simbolizá-lo, passa a incluir tanto a reação ao que foi vivido factualmente, quanto ao que se experimenta psiquicamente.</p>
+      <p>Antes de 1897, a teoria da sedução era tomada como equivalente à teoria do trauma. A “descrença” em sua histérica promove uma virada tanto clínica quanto conceitual, na medida em que revela uma disjunção entre a sedução e o trauma. Essa mudança permite a Freud, inclusive, não se abster de sustentar a íntima conexão do trauma com a maneira pela qual o sujeito neurótico reage às experiências sexuais infantis, já que a referida disjunção também possibilita ampliar a definição do sexual, não mais restrito à relação genital entre duas pessoas ou mesmo ao aparelho sexual humano (<span class="ref"><span class="xref xrefblue"><a href="#B6_ref" data-ref="Freud, S. (1996). A sexualidade na etiologia das neuroses. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 3). Rio de Janeiro: Imago. (Trabalho original publicado em 1898)">Freud, 1898/1996</a></span></span>, p. 266).</p>
+      <p><span class="ref"><span class="xref xrefblue"><a href="#B10_ref" data-ref="Freud, S. (1996). O esclarecimento sexual das crianças. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 9). Rio de Janeiro: Imago. (Trabalho original publicado em 1906)">Freud (1906/1996)</a></span></span> acredita que o abandono da teoria da sedução fez “cair por terra a ênfase exagerada nas <i>influências acidentais</i> sobre a sexualidade” (p. 261), importando para a psicanálise não as excitações sexuais vividas (espontâneas ou provocadas), mas a maneira como o sujeito reage a essas experiências, que são inerentes à própria vivência da sexualidade. Ou seja, um fato por si só não é suficiente para definir o trauma, já que um evento pode ter sido traumático para um sujeito e não para outro. É preciso que se considere a reação daquele sujeito ao fato e este é o ponto decisivo com o qual trabalha a psicanálise. Essa recomendação é de extrema relevância, inclusive para que se compreenda por que a fantasia se constitui como uma proteção ao trauma.</p>
+    
+      <h2 class="h5">O Trauma é Sexual</h2>
+      <p>O sexual presente nas fantasias descritas por seus pacientes possibilitou a <span class="ref"><span class="xref xrefblue"><a href="#B9_ref" data-ref="Freud, S. (1996). Três ensaios sobre a teoria da sexualidade. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 8). Rio de Janeiro: Imago. (Trabalho original publicado em 1905)">Freud (1905/1996)</a></span></span> analisá-lo não mais como acidente, induzido por um adulto, e sim como fator fundamental presente no psiquismo, o que as pesquisas sobre a existência de sexualidade na infância ratificavam. Nos “Três Ensaios sobre a teoria da sexualidade” (1905/1996), fica claro como os “sintomas são a atividade sexual dos doentes” (p. 155), por extraírem sua força da fonte dos impulsos sexuais que precisariam ser recalcados. Ademais, verifica-se que “todos os processos afetivos mais intensos, inclusive as excitações assustadoras, propagam-se para a sexualidade” (p. 192), mesmo quando se trata de dor.</p>
+      <p>A questão sobre a origem da sexualidade acompanha <span class="ref"><span class="xref xrefblue"><a href="#B9_ref" data-ref="Freud, S. (1996). Três ensaios sobre a teoria da sexualidade. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 8). Rio de Janeiro: Imago. (Trabalho original publicado em 1905)">Freud (1905/1996)</a></span></span>, que tenta indicar três fontes desencadeadoras dos estímulos sexuais. A primeira fonte seria localizada em processos orgânicos que acabariam por ser excitadores; a segunda estaria na estimulação das zonas erógenas e a terceira nas pulsões. Essas fontes localizadas no texto de 1905 se aproximam do que, vinte e cinco anos mais tarde, Freud nomeia como principais fontes de sofrimento dos neuróticos: o corpo próprio, o mundo externo e a relação entre os homens (1930/1996).</p>
+      <p>Vê-se que o encontro com o sexual não ocorre de modo instintivo, tampouco natural. As pulsões - conceito limítrofe entre o psíquico e o somático - representam “todas as forças que se originam no interior do corpo e são transmitidas ao aparelho mental” (<span class="ref"><span class="xref xrefblue"><a href="#B22_ref" data-ref="Freud, S. (1996). Além do princípio de prazer. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 18). Rio de Janeiro: Imago. (Trabalho original publicado em 1920)">Freud, 1920/1996</a></span></span>, p. 45), pressionando-o no sentido da descarga. Embora se manifestem no interior do corpo, são experimentadas pelo sujeito com certa exterioridade, já que se apresentam como uma força constante da qual não há como fugir (<span class="ref"><span class="xref xrefblue"><a href="#B19_ref" data-ref="Freud, S. (1996). Os instintos e suas vicissitudes. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 14). Rio de Janeiro: Imago. (Trabalho original publicado em 1915)">Freud, 1915/1996</a></span></span>, p. 125).</p>
+      <p>A noção de pulsão evoca sua força perturbadora, já que ela é insaciável, incontrolável, indestrutível, ineliminável, indizível e, ao mesmo tempo, desconforme com os objetivos civilizatórios. O caso do “Pequeno Hans” (1909/1996) é paradigmático desse aspecto por demonstrar o caráter desconcertante das excitações sexuais experimentadas no corpo dessa criança de 4 anos levada até Freud pelo pai, inicialmente como exemplo da teoria e posteriormente como caso clínico em função de seus sintomas fóbicos. Trata-se da demonstração de como a relação com o corpo é vivida como algo exterior e fora da representação psíquica. É o que demonstra a grande preocupação de Hans com seu “faz-pipi”, quando constata que está atarrachado no mesmo lugar: “ele está preso no mesmo lugar, é claro” (p. 38). Vê-se claramente nesse caso como a introdução da sexualidade é traumatizante e, ao mesmo tempo, tem uma função organizadora. Isso porque o encontro com o sexual é sempre problemático já que a falta de proporção entre os sexos, deixa entrever a castração que <span class="ref"><span class="xref xrefblue"><a href="#B29_ref" data-ref="Freud, S. (1996). Esboço de psicanálise. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 23). Rio de Janeiro: Imago. (Trabalho original publicado em 1938)">Freud (1938/1996)</a></span></span> indicou como o maior trauma vivido pelo ser humano e que a passagem do caso Hans expressa.</p>
+      <p>As fantasias infantis são a matriz das fantasias adultas e, por isso, Freud teve grande interesse em reconhecê-las ao estudar a sexualidade infantil e suas manifestações. Ele percebeu que as crianças empreendem grandes pesquisas sobre a sexualidade, edificando teorias e elucubrações a respeito do tema, tal como pequenos cientistas (<span class="ref"><span class="xref xrefblue"><a href="#B11_ref" data-ref="Freud, S. (1996). Delírios e Sonhos na Gradiva de Jensen. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 9). Rio de Janeio: Imago. (Trabalho original publicado em 1907)">Freud, 1907/1996</a></span></span>). Verificou, também, que há, na temática das investigações infantis, um caráter universal: a ameaça de ser castrado, a observação do coito dos pais e a sedução por um adulto. Feitas de fantasias imaginárias, as teorias infantis possuem, para as crianças, a função de mantê-las alheias à castração e deixam resquícios na vida adulta.</p>
+      <p>Ao tentar se defender da castração, o neurótico tenta se ver livre da pulsão pois, como localizado anteriormente, o que ela revela é um vazio central. Nesse sentido, há um conflito subjetivo presente no modo como o sujeito vive a pulsão, o que faz com que tente abafá-la através da tela imaginária que a fantasia propicia, construindo um mundo fictício em que é possível aos sujeitos domarem e controlarem suas pulsões. Com “embelezamento” e “falseamento” dos fatos (Freud, 1897/1996, p. 296), a fantasia constitui uma proteção ao excesso libidinal produzido pelo trauma por favorecer alguma satisfação, ainda que imaginária. É como se ela buscasse dissipar esse mal-entendido fundamental que a pulsão mantém vivo.</p>
+      <p>Dado o caráter traumático presente no encontro com a sexualidade e a busca neurótica de fugir da exigência pulsional, <span class="ref"><span class="xref xrefblue"><a href="#B19_ref" data-ref="Freud, S. (1996). Os instintos e suas vicissitudes. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 14). Rio de Janeiro: Imago. (Trabalho original publicado em 1915)">Freud (1915/1996)</a></span></span> detectou quatro destinos diferentes que as pulsões podem sofrer nesse processo: (a) a reversão a seu oposto, que afeta a finalidade da pulsão (de ativa à passiva, por exemplo, de olhar para ser olhado) ou seu conteúdo (de amor para ódio); (b) o retorno em direção ao próprio eu, com uma mudança no objeto (“o masoquismo é, na realidade, o sadismo que retorna em direção ao próprio eu” [p.132]); (c) a sublimação, possibilidade de deslocamento do objetivo para fins socialmente aceitos, sem restrição da intensidade (<span class="ref"><span class="xref xrefblue"><a href="#B13_ref" data-ref="Freud, S. (1996). Fantasias histéricas e sua relação com a bissexualidade. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 9). Rio de Janeiro: Imago. (Trabalho original publicado em 1908b)">Freud, 1908b/1996</a></span></span>); e (d) o recalque, que seria a separação entre a ideia e o afeto que a acompanha, deixando a ideia afastada da consciência. <span class="ref"><span class="xref xrefblue"><a href="#B19_ref" data-ref="Freud, S. (1996). Os instintos e suas vicissitudes. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 14). Rio de Janeiro: Imago. (Trabalho original publicado em 1915)">Freud (1915/1996, p. 153)</a></span></span> distingue um recalque originário (<i>Urverdrängung</i>) do recalque propriamente dito, indicando que o primeiro consiste em negar a entrada no consciente do representante psíquico (ideacional) da pulsão e o segundo numa “pressão posterior” (<i>Nachdängen</i>) que mantém à distância da consciência tudo o que possa se associar ao que fora inicialmente recalcado.</p>
+      <p>Como o neurótico está sempre tentando fugir da pulsão, ela está sempre insistindo em demandar satisfação. Para <span class="ref"><span class="xref xrefblue"><a href="#B22_ref" data-ref="Freud, S. (1996). Além do princípio de prazer. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 18). Rio de Janeiro: Imago. (Trabalho original publicado em 1920)">Freud (1920/1996)</a></span></span>, o que produz os traumas são poderosas excitações que conseguem atravessar o escudo protetor do princípio de prazer, rompendo-o e inundando o aparelho psíquico com grandes quantidades de estímulos. Nesse sentido, tendo em vista o excesso libidinal que se depreende da experiência com a pulsão, esta pode ser vista como traumática, o que aponta um dos motivos pelo qual o trauma é sempre sexual em Freud.</p>
+    
+      <h2 class="h5">Efeito da Neurose</h2>
+      <p>O fato de uma pessoa levar muito a sério as suas fantasias pode ser equivocadamente atribuído como “a causa” de seu adoecimento psíquico. O próprio <span class="ref"><span class="xref xrefblue"><a href="#B12_ref" data-ref="Freud, S. (1996). Escritores criativos e devaneio. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 9). Rio de Janeiro: Imago. (Trabalho original publicado em 1908a)">Freud (1908a/1996)</a></span></span> chegou a considerar que a intensidade das fantasias deixaria aberto o caminho para o desencadeamento da neurose, o que pode ser questionado com seu desenvolvimento posterior, que indica a fantasia como um mecanismo da neurose e não como seu desencadeador (cf. <span class="ref"><span class="xref xrefblue"><a href="#B21_ref" data-ref="Freud, S. (1996). Uma criança é espancada: Uma contribuição ao estudo da origem das perversões sexuais. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 17). Rio de Janeiro: Imago. (Trabalho original publicado em 1919)">Freud, 1919/1996</a></span></span>). Nos textos de 1908, há elementos que favorecem essa ideia, que tem seus pilares na constatação de que os sintomas seriam provocados pela fantasia.</p>
+      <p><span class="ref"><span class="xref xrefblue"><a href="#B12_ref" data-ref="Freud, S. (1996). Escritores criativos e devaneio. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 9). Rio de Janeiro: Imago. (Trabalho original publicado em 1908a)">Freud (1908a/1996)</a></span></span> chega a afirmar que “quando as fantasias se tornam exageradamente profusas e poderosas, estão assentes as condições para o desencadeamento da neurose ou da psicose” (p. 139). Afirma também, em <i>Fantasias histéricas e sua relação com a bissexualidade</i>, que “as fantasias inconscientes são os precursores psíquicos imediatos de toda uma série de sintomas histéricos” (<span class="ref"><span class="xref xrefblue"><a href="#B13_ref" data-ref="Freud, S. (1996). Fantasias histéricas e sua relação com a bissexualidade. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 9). Rio de Janeiro: Imago. (Trabalho original publicado em 1908b)">Freud, 1908b/1996</a></span></span>, p. 151). Ainda, ao trabalhar com a ideia de uma bissexualidade constitutiva, indica que os sintomas são “a expressão, por um lado, de uma fantasia sexual inconsciente masculina e, por outro lado, de uma feminina” (<span class="ref"><span class="xref xrefblue"><a href="#B13_ref" data-ref="Freud, S. (1996). Fantasias histéricas e sua relação com a bissexualidade. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 9). Rio de Janeiro: Imago. (Trabalho original publicado em 1908b)">Freud, 1908b/1996</a></span></span>, p. 153). O exemplo paradigmático dessa ideia é o caso da mulher que pressiona o vestido contra o corpo com uma das mãos, em uma expressão feminina, e tenta arrancá-lo com a outra, em uma iniciativa masculina (<span class="ref"><span class="xref xrefblue"><a href="#B13_ref" data-ref="Freud, S. (1996). Fantasias histéricas e sua relação com a bissexualidade. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 9). Rio de Janeiro: Imago. (Trabalho original publicado em 1908b)">Freud, 1908b/1996</a></span></span>).</p>
+      <p>Embora os textos de 1908 pareçam produzir certa ruptura no pensamento de Freud por confundirem a fantasia com o trauma, eles são de extrema relevância tanto por exemplificarem a dimensão imaginária da fantasia como por apontarem que as fantasias também podem ser fontes de sofrimento. Se as fantasias se constituem como uma resposta ao trauma, dando-lhe um contorno, carregam consigo a força pulsional proveniente do excesso de energia liberado pelo trauma. Nesse sentido, elas retomam seu caráter sexual e podem se tornar escravizantes para o sujeito que só consegue se relacionar com a realidade por meio da fantasia. É o que se vê nos relatos da vida amorosa, em que alguns sujeitos se tornam extremamente dependentes de uma fantasia para viver suas experiências sexuais, como <span class="ref"><span class="xref xrefblue"><a href="#B15_ref" data-ref="Freud, S. (1996). Um tipo especial de escolha de objeto feita pelos homens: Contribuições à psicologia do amor I. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 11). Rio de Janeiro: Imago. (Trabalho original publicado em 1910)">Freud (1910</a></span></span>-<span class="ref"><span class="xref xrefblue"><a href="#B17_ref" data-ref="Freud, S. (1996). Sobre a tendência universal à depreciação na esfera do amor: Contribuições à psicologia do amor II. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 11). Rio de Janeiro: Imago. (Trabalho original publicado em 1912)">1912/1996)</a></span></span> indicou em suas três Contribuições à Psicologia do Amor.</p>
+      <p>Vê-se a indicação de <span class="ref"><span class="xref xrefblue"><a href="#B26_ref" data-ref="Freud, S. (1996). Conferência XXXIII: Feminilidade. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 22). Rio de Janeiro: Imago. (Trabalho original publicado em 1933)">Freud (1933/1996)</a></span></span> de que, para os meninos, com a saída do Édipo, as fantasias ganham uma força especial. Na puberdade, “o homem deixará seu pai e sua mãe e se apegará a sua mulher, então se associam afeição e sensualidade” (<span class="ref"><span class="xref xrefblue"><a href="#B17_ref" data-ref="Freud, S. (1996). Sobre a tendência universal à depreciação na esfera do amor: Contribuições à psicologia do amor II. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 11). Rio de Janeiro: Imago. (Trabalho original publicado em 1912)">Freud, 1912/1996</a></span></span>, p. 187). O obstáculo erguido contra o incesto compele a libido que estava ligada ao objeto de amor primário a permanecer no inconsciente e, então, “a libido se afasta da realidade e é substituída pela atividade imaginativa” (<span class="ref"><span class="xref xrefblue"><a href="#B17_ref" data-ref="Freud, S. (1996). Sobre a tendência universal à depreciação na esfera do amor: Contribuições à psicologia do amor II. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 11). Rio de Janeiro: Imago. (Trabalho original publicado em 1912)">Freud, 1912/1996</a></span></span>, p. 187). Porém, quando as fantasias inconscientes que se formam a partir desse material tornam-se admissíveis à consciência, vemos dificuldades no campo sexual, especialmente para os homens.</p>
+      <p><span class="ref"><span class="xref xrefblue"><a href="#B17_ref" data-ref="Freud, S. (1996). Sobre a tendência universal à depreciação na esfera do amor: Contribuições à psicologia do amor II. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 11). Rio de Janeiro: Imago. (Trabalho original publicado em 1912)">Freud (1912/1996)</a></span></span> afirma que, no amor do homem civilizado, a impotência psíquica se apresenta muito comumente, manifestando-se na incompatibilidade de unir a corrente afetiva e a sensual no mesmo objeto. Segundo ele, a impotência psíquica existe porque a corrente sensual permaneceu forte o bastante para buscar vazão na realidade e, para tanto, essa corrente busca apenas elementos que não rememorem imagens incestuosas. É o que se manifesta na gramática: “quando amam, não desejam. Quando desejam, não amam” (<span class="ref"><span class="xref xrefblue"><a href="#B17_ref" data-ref="Freud, S. (1996). Sobre a tendência universal à depreciação na esfera do amor: Contribuições à psicologia do amor II. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 11). Rio de Janeiro: Imago. (Trabalho original publicado em 1912)">Freud, 1912/1996</a></span></span>, p. 190). Ou seja, os homens recorrem a uma medida protetora que supervaloriza o objeto incestuoso e seus representantes e deprecia o objeto sexual, o que fora nomeado como “tendência universal à depreciação na esfera do amor”, título de seu artigo de 1912.</p>
+      <p>Nas mulheres, tal tendência não se apresentaria, tendo em vista que elas não fazem tal supervalorização. Por outro lado, “sua longa contenção de sexualidade e seu anseio de sensualidade em fantasia” (<span class="ref"><span class="xref xrefblue"><a href="#B17_ref" data-ref="Freud, S. (1996). Sobre a tendência universal à depreciação na esfera do amor: Contribuições à psicologia do amor II. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 11). Rio de Janeiro: Imago. (Trabalho original publicado em 1912)">Freud, 1912/1996</a></span></span>, p. 192) comumente traz como consequência uma dificuldade de desfazer a conexão entre a atividade sensual e a proibição e, no momento em que tal atividade se torna permitida, a frigidez surge como sintoma. Nesse sentido, <span class="ref"><span class="xref xrefblue"><a href="#B17_ref" data-ref="Freud, S. (1996). Sobre a tendência universal à depreciação na esfera do amor: Contribuições à psicologia do amor II. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 11). Rio de Janeiro: Imago. (Trabalho original publicado em 1912)">Freud (1912/1996)</a></span></span> acredita que, para as mulheres, é a “condição de proibitividade” em sua vida erótica o que se equivaleria à tendência universal à depreciação do lado dos homens. Ele explica essa diferença em função do comportamento frente ao tempo de espera necessário entre a maturação sexual e a atividade sexual. Nessa lógica, as mulheres respeitariam esse tempo, mantendo a proibição em torno dessa atividade, e os homens não, servindo-se da depreciação para obter uma satisfação, como se pela depreciação da mãe (ou de seu substituto), fosse possível tê-la como objeto sensual: “são esforços para transpor a distância entre as duas correntes amorosas, pelo menos em fantasia e, pela depreciação da mãe, adquiri-la como objeto de sensualidade” (<span class="ref"><span class="xref xrefblue"><a href="#B17_ref" data-ref="Freud, S. (1996). Sobre a tendência universal à depreciação na esfera do amor: Contribuições à psicologia do amor II. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 11). Rio de Janeiro: Imago. (Trabalho original publicado em 1912)">Freud, 1912/1996</a></span></span>, p. 189).</p>
+      <p>As indicações de <span class="ref"><span class="xref xrefblue"><a href="#B17_ref" data-ref="Freud, S. (1996). Sobre a tendência universal à depreciação na esfera do amor: Contribuições à psicologia do amor II. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 11). Rio de Janeiro: Imago. (Trabalho original publicado em 1912)">Freud (1912/1996)</a></span></span> demonstram como a natureza da pulsão é “desfavorável à realização da satisfação completa” (p. 194), pois o objeto final dessa pulsão nunca mais será o objeto original, já que a barreira contra o incesto já foi erigida, fazendo com que o objeto sexual seja apenas um substituto a proporcionar somente uma satisfação parcial, nunca completa. Nessa perspectiva, as fantasias serviriam como certo tratamento aos embaraços do sujeito frente à exigência pulsional de satisfação. Porém, ao mesmo tempo, comportam um outro tipo de exigência e deixam-no, de certo modo escravizado, a elas e aos sintomas produzidos por essa razão.</p>
+    
+      <h2 class="h5">Cicatriz do Édipo</h2>
+      <p>Com o aprimoramento da experiência clínica, Freud (1917a/1996) foi se dando conta de que a eliminação dos sintomas não seria suficiente para promover a cura, ou seja, remove-se um sintoma e, rapidamente, outro vem a ocupar o seu lugar. Percebeu que, por trás deles, estava a fantasia, sobre a qual recomendava que o foco do analista estivesse.</p>
+      <p>Embora os sintomas sejam tomados como prejudiciais, causadores de sofrimento e motivos de queixa pela pessoa que procura análise, eles constituem-se como uma nova maneira de satisfação da libido, conciliando duas forças antagônicas que entram em conflito no psiquismo: a libido insatisfeita e a realidade. O sintoma surge “como um derivado múltiplas-vezes-distorcido da realização de desejo libidinal inconsciente” (Freud, 1917a/1996, p. 363) e se instala no psiquismo através de uma distorção. Exatamente por isso, ele porta em si mesmo dois sentidos contraditórios: um que se refere à satisfação libidinal e outro que concerne ao recalque.</p>
+      <p>Por trás dos sintomas, há uma tentativa da libido de contornar o recalque e se descarregar e, para tanto, fixa-se em atividades sexuais infantis ou em objetos abandonados. Isso é o que justifica a observação de Freud (1917a/1996) de que os neuróticos estão sempre ancorados em um período de seu passado em que eram felizes por não precisarem privar a libido de satisfação. Através de sua investigação clínica, Freud (1917a/1996) percebe que essas experiências infantis nas quais a libido está fixada não correspondem nem a experiências verdadeiras, nem a experiências inventadas pelo paciente - são fantasias, possuem realidade psíquica.</p>
+      <p>Nas fantasias, é como se fosse possível aos seres humanos continuar a gozar da sensação de serem livres da compulsão externa - liberdade a que renunciaram para viver juntos. Desde que a quantidade de investimento na fantasia seja “saudável”, o fantasiar não gera conflito para o eu, ao contrário, permite uma satisfação, pois nele se mantêm, de alguma maneira, as tendências e objetos que a libido teve que abandonar. Ou seja, “a libido necessita apenas retirar-se para as fantasias, a fim de encontrar aberto o caminho que conduz a todas as fixações recalcadas” (Freud, 1917a/1996, p.375).</p>
+      <p>Embora gerem prazer ao sujeito, quando o investimento libidinal nas fantasias aumenta, “elas começam a estabelecer exigências e desenvolvem uma pressão no sentido de se tornarem realizadas” (Freud, 1917a/1996, p.375), o que traz um conflito inevitável entre as fantasias e o eu, que tenta recalcá-las. Com isso, a libido movimenta-se para trás, em direção à origem dessas fantasias, fixando-se nesses pontos. O que seria então uma grande fonte de prazer torna-se alvo de um intenso sofrimento, pois o sujeito se vê completamente escravizado a esse modo de funcionamento.</p>
+      <p>Por levar em consideração os pontos de fixação aos quais o sujeito está aprisionado na fantasia, Freud (1917a/1996) prognostica a arte como uma possibilidade importante do sujeito ser conduzido da fantasia de volta à realidade. Considera que aqueles que não são artistas estão fadados a obter prazer com os devaneios que podem ter acesso à consciência sem trazer problemas aos sujeitos.</p>
+      <p>Freud (1917a/1996) se interessou por compreender o motivo pelo qual seus pacientes se fixavam em pontos que tinham elementos comuns entre casos diferentes. Inicialmente recorreu à história evolutiva das espécies e à filogenética para responder à questão. No entanto, a mesma questão retorna 2 anos depois, mas sem uma resposta já estabelecida. No esforço de formalização desses elementos clínicos, em 1919 dedica um artigo inteiro a investigar minuciosamente uma fantasia encontrada com grande frequência, a de “<i>Uma criança é espancada</i>”. Para tanto, vai destrinchando-a em fases e buscando compreender a lógica de seu funcionamento a partir do material recolhido de seis casos - quatro mulheres e dois homens.</p>
+      <p>O contexto que precede esse artigo é o da Primeira Guerra Mundial, que durou 4 anos (1914-1918). Esse foi um período difícil da vida de Freud, pois, como relata <span class="ref"><span class="xref xrefblue"><a href="#B32_ref" data-ref="Jones, E. (1981). A vida e a obra de Sigmund Freud (Vol. 1-3). Rio de Janeiro: Imago.">Jones (1981)</a></span></span>, naquele momento, três de seus filhos e um sobrinho estavam na guerra. O filho Martin foi prisioneiro dos italianos e, até o final do conflito, não pôde mandar noticias à família. A maioria dos colegas de Freud estava no <i>front</i> e ele havia permanecido sem pacientes por um logo período, passando por dificuldades financeiras que o deixavam limitado, inclusive, na obtenção de papel para escrever. Nessa época, atendia sua filha Anna Freud, que teria sido um dos casos relatados no texto de 1919. Esse texto foi tão importante para ela que escreveu, em 1922, seu primeiro trabalho psicanalítico, intitulado “Fantasias e devaneios diurnos de uma criança espancada” (<span class="ref"><span class="xref xrefblue"><a href="#B33_ref" data-ref="Roudinesco, E., &amp; Plon, M. (1998). Dicionário de psicanálise. Rio de Janeiro: Jorge Zaha">Roudinesco &amp; Plon, 1998</a></span></span>).</p>
+      <p>O texto “Bate-se numa criança” apresenta uma formulação da fantasia que é essencial para a concepção lógica desse conceito. Acrescenta-se a isso o fato de que, nesse texto de 1919, Freud dá tanta relevância a essa fantasia que lhe atribui o caráter de uma “cicatriz do Édipo” (1919/1996): “a fantasia de espancamento e outras fixações perversas análogas também seriam apenas resíduos do complexo de Édipo, cicatrizes, por assim dizer, deixadas pelo processo que terminou”(p.208).</p>
+      <p>É interessante notar que na definição lexical, o termo cicatriz designa um tecido fibroso que se forma no processo de cicatrização que substitui os tecidos lesados ou seccionados, deixando uma marca (Houaiss, 2013). Nessa indicação, fica claro como há uma redução das fantasias imaginárias a uma marca única, determinante na vida do sujeito. A fantasia seria, portanto, como um tecido de material edípico construído para “substituir” aquele lesado pela castração, restando como marca.</p>
+      <p>Ao analisar a fantasia que se repetia entre seus pacientes, <span class="ref"><span class="xref xrefblue"><a href="#B21_ref" data-ref="Freud, S. (1996). Uma criança é espancada: Uma contribuição ao estudo da origem das perversões sexuais. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 17). Rio de Janeiro: Imago. (Trabalho original publicado em 1919)">Freud (1919/1996)</a></span></span> indica que os relatos referiam-se a uma situação imaginária, quase “invariavelmente” associada a uma satisfação masturbatória realizada nos genitais. A fantasia se inicia voluntariamente pelo prazer que produz, mas passa a ocorrer contra a vontade do paciente, adquirindo um caráter de obsessão. Sua comunicação dá-se apenas com grande hesitação e há mais vergonha e culpa ao falar da fantasia do que das lembranças do início da vida sexual. Embora o paciente não consiga precisar o momento em que surgiu pela primeira vez, é possível inferir que tais fantasias foram nutridas desde muito cedo, “certamente antes da idade escolar e jamais depois do 5º ou 6º ano de vida” (<span class="ref"><span class="xref xrefblue"><a href="#B21_ref" data-ref="Freud, S. (1996). Uma criança é espancada: Uma contribuição ao estudo da origem das perversões sexuais. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 17). Rio de Janeiro: Imago. (Trabalho original publicado em 1919)">Freud, 1919/1996</a></span></span>, p. 195). Elas se constituem como resíduo das primeiras experiências da criança, quando os fatores libidinais são despertados, entre os 2 e os 4 anos e meio de idade.</p>
+      <p><span class="ref"><span class="xref xrefblue"><a href="#B21_ref" data-ref="Freud, S. (1996). Uma criança é espancada: Uma contribuição ao estudo da origem das perversões sexuais. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 17). Rio de Janeiro: Imago. (Trabalho original publicado em 1919)">Freud (1919/1996, pp.196-197)</a></span></span> passa alguns dos parágrafos iniciais do texto tentando demonstrar como a fantasia não corresponde à realidade dos fatos, mesmo que a criança possa tê-la vivenciado na escola: “as fantasias já existiam antes disso”, diz. E, ademais, “os indivíduos dos quais foram obtidos os dados para as análises haviam sido muito raramente espancados na infância, ou não haviam sido, em todo caso, educados com ajuda da vara” (p. 196). A fantasia nasce de causas acidentais e, ao ser retida para satisfação autoerótica, é considerada como “um traço primário de perversão” (p. 197). É certamente o que justifica o subtítulo do artigo, que deixa evidente o interesse de Freud no tocante à implicação de um elemento perverso nas fantasias de modo geral. Tal elemento, mais tarde, na vida adulta, pode ser submetido ao recalque, transformar-se em sintoma ou ser sublimado. Caso contrário, é encontrado na aberração sexual, no fetichismo ou na inversão (<span class="ref"><span class="xref xrefblue"><a href="#B21_ref" data-ref="Freud, S. (1996). Uma criança é espancada: Uma contribuição ao estudo da origem das perversões sexuais. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 17). Rio de Janeiro: Imago. (Trabalho original publicado em 1919)">Freud, 1919/1996</a></span></span>).</p>
+      <p>Seguindo em sua investigação sobre o tema da fantasia, <span class="ref"><span class="xref xrefblue"><a href="#B21_ref" data-ref="Freud, S. (1996). Uma criança é espancada: Uma contribuição ao estudo da origem das perversões sexuais. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 17). Rio de Janeiro: Imago. (Trabalho original publicado em 1919)">Freud (1919/1996)</a></span></span> enumera três tempos em que ela se desdobra. Considerando a diferença entre a modalidade de fantasia feminina e a masculina, <span class="ref"><span class="xref xrefblue"><a href="#B21_ref" data-ref="Freud, S. (1996). Uma criança é espancada: Uma contribuição ao estudo da origem das perversões sexuais. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 17). Rio de Janeiro: Imago. (Trabalho original publicado em 1919)">Freud (1919)</a></span></span> opta por privilegiar em seu artigo os casos femininos por ter um material clínico maior. Nesse sentido, os tempos se desenrolam conforme se segue: 1°) Meu pai bate em uma criança, que eu odeio; 2°) Estou sendo espancada por meu pai; 3°) Bate-se em uma criança, ou seja, crianças estão sendo espancadas, e, provavelmente, eu estou olhando. A primeira fase pertence a um período mais primitivo da infância. Chega na análise como “bate-se numa criança”, mas, ao ser explorada, desdobra-se em uma situação em que o pai bate em uma criança, ao que Freud acrescenta: não uma criança qualquer, mas aquela a quem o sujeito odeia por ter lhe tirado o lugar, como um irmãozinho, por exemplo. Há uma satisfação sádica encontrada na cena, através da ideia de que “ele não o ama, apenas me ama”.</p>
+      <p>Entre a primeira e a segunda fase há “profundas transformações”, tendo em vista que a pessoa que bate se mantém a mesma, enquanto que a “batida” se desloca para o próprio sujeito. É, portanto, um momento de caráter masoquista, cuja frase se enuncia como “estou sendo espancada por meu pai”. Esta, que é a fase mais significativa, em certo sentido, “jamais teve existência real” (<span class="ref"><span class="xref xrefblue"><a href="#B21_ref" data-ref="Freud, S. (1996). Uma criança é espancada: Uma contribuição ao estudo da origem das perversões sexuais. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 17). Rio de Janeiro: Imago. (Trabalho original publicado em 1919)">Freud, 1919/1996</a></span></span>, p. 201). Nunca é lembrada, pois se trata de uma construção da análise e indica a expressão do sentimento de culpa pelo amor incestuoso. Trata-se de uma fase decisiva para a forma lógica que a fantasia irá tomar na etapa seguinte.</p>
+      <p>Embora já estivesse presente como ideia em 1919, é somente em 1937, 18 anos mais tarde, que Freud escreve “Construções em Análise”. Nesse texto, evidencia como o trabalho de construção é o que entra em jogo na relação do psicanalista com o que não pode ser dito. Esse impossível de ser dito, refere-se ao recalque originário, que é o que se manifesta na clínica quando o analisante não consegue recordar tudo o que foi recalcado (<span class="ref"><span class="xref xrefblue"><a href="#B28_ref" data-ref="Freud, S. (1996). Construções em análise. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 23). Rio de Janeiro: Imago. (Trabalho original publicado em 1937b)">Freud, 1937b/1996</a></span></span>). O inconsciente se apresenta através de pedaços e fragmentos, nunca de modo completo. Por essa razão, <span class="ref"><span class="xref xrefblue"><a href="#B28_ref" data-ref="Freud, S. (1996). Construções em análise. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 23). Rio de Janeiro: Imago. (Trabalho original publicado em 1937b)">Freud (1937b/1996)</a></span></span> associa o trabalho do analista ao do arqueólogo, que reconstrói culturas e sociedades antigas unindo os vestígios materiais que encontra. Diante das peças soltas apresentadas pelo analisante, o analista precisa inventar uma coerência para que elas constituam um todo. A construção psicanalítica se refere a um esforço preliminar, necessário ao direcionamento do tratamento. Embora não seja preciso esgotar a construção para se avançar ao momento seguinte, é importante destacar que a construção imprime consequências no rumo que o tratamento irá tomar e, por isso, é essencial a ele (<span class="ref"><span class="xref xrefblue"><a href="#B28_ref" data-ref="Freud, S. (1996). Construções em análise. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 23). Rio de Janeiro: Imago. (Trabalho original publicado em 1937b)">Freud, 1937b/1996</a></span></span>). Nesse sentido, a construção dessa segunda etapa da fantasia, que traz a frase “estou sendo espancada por meu pai”, leva à possibilidade de uma redução da fantasia a uma frase única e sintética que a expressa.</p>
+      <p>Bate-se numa criança - é a terceira fase da fantasia, que é, portanto, semelhante à primeira pela indeterminação. A pessoa que bate não é mais o pai e também a criança que fantasia não aparece mais. Apenas seu olhar entra em cena, pois afirma “provavelmente estou olhando” (p. 201). Não é apenas uma criança que está sendo espancada, mas várias. Diferentemente das outras fases, “a fantasia se liga agora a uma forte e inequívoca excitação sexual, proporcionando, assim, um meio para a satisfação masturbadora” (<span class="ref"><span class="xref xrefblue"><a href="#B21_ref" data-ref="Freud, S. (1996). Uma criança é espancada: Uma contribuição ao estudo da origem das perversões sexuais. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 17). Rio de Janeiro: Imago. (Trabalho original publicado em 1919)">Freud, 1919/1996</a></span></span>, p. 201). Vê-se que esse caráter sexual é extremamente desconcertante para o sujeito.</p>
+      <p>A dimensão edípica permeia o percurso em torno da fantasia até que ela se torne uma cicatriz. É o que está colocado no próprio surgimento da fantasia de surra, pois, quando a análise leva o paciente a esse ponto, demonstra que, nessa época, a criança estava bastante envolvida e agitada por seu complexo parental (<span class="ref"><span class="xref xrefblue"><a href="#B21_ref" data-ref="Freud, S. (1996). Uma criança é espancada: Uma contribuição ao estudo da origem das perversões sexuais. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 17). Rio de Janeiro: Imago. (Trabalho original publicado em 1919)">Freud, 1919/1996</a></span></span>). Em seu terceiro tempo, no entanto, a fantasia supera esse complexo, como está explícito na forma dessubjetivada que ela assume. Cabe lembrar que, nessa forma, o pai não aparece mais.</p>
+      <p>O pai tem função decisiva nesse desenvolvimento de <span class="ref"><span class="xref xrefblue"><a href="#B21_ref" data-ref="Freud, S. (1996). Uma criança é espancada: Uma contribuição ao estudo da origem das perversões sexuais. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 17). Rio de Janeiro: Imago. (Trabalho original publicado em 1919)">Freud (1919/1996)</a></span></span>, o que faz com que ele, inclusive, destaque o fato de que as fantasias não dizem respeito à relação da criança com a mãe. Através do sentimento de culpa, a criança se vê castigada, ao que transforma a primeira fase da fantasia - em que se sente amada pelo pai por ele estar batendo em seu rival - na segunda fase, que quer dizer: “<i>não, ele não ama você, pois está batendo em você</i>” (p. 204). Freud explica que esse segundo tempo da fantasia permanece inconsciente, provavelmente pela intensidade do recalque que incide sobre o primeiro instante. Ou seja, na frase “<i>meu pai está batendo na criança, ele só ama a mim</i>”, a segunda parte da frase - “<i>ele só ama a mim</i>” - é recalcada. O que resta da frase ganhará ênfase no terceiro momento, como resíduo. Nele, o pai não está presente como sujeito da ação de bater e nem mesmo a criança que apanha é definida. Sabe-se apenas que se trata de uma criança de sexo masculino, tanto na fantasia das meninas como na fantasia dos meninos.</p>
+      <p>Percebe-se como, em Freud, todo o dispositivo fantasístico que emana da sexualidade infantil e do Complexo de Édipo torna-se o verdadeiro “núcleo das neuroses”. Na conclusão desse artigo de 1919, vê-se o autor retomando a força proveniente das pulsões, capazes de derrotar o recalque e permanecerem exigindo satisfação. A “natureza perturbadora” das pulsões (p. 218) faz com que a sexualidade infantil que precisa ser recalcada atue formando sintomas e, por essa razão, Freud conclui o artigo dizendo que as aberrações sexuais seriam “ramificações” do Complexo de Édipo. Em 1917, Freud havia apontado o modo como a fantasia serve para o sujeito como uma proteção à realidade, ou seja, à castração que a realidade pode revelar. Com suas elaborações de 1919, evidencia-se como o Édipo é decisivo para certa redução das fantasias - no plural - a um ponto único, ou seja, ao corte que o pai introduz na relação do sujeito com o objeto primordial que é a mãe. E, mais ainda, ao que se faz dessa marca ao longo da vida.</p>
+    
+      <h2 class="h5">Conclusão</h2>
+      <p>O percurso feito até aqui demonstra como as fantasias - no plural - apresentam uma grande quantidade de elementos imaginários e também evidenciam uma extensa variedade de tipos de fantasias existentes na vida psíquica. Essa diversidade de elementos e de categorias se aproxima da equivalência feita por Freud (1917a/1996) entre a fantasia e uma reserva natural, local em que tudo é preservado e, de certo modo, apartado da realidade. Portanto, refere-se à característica da fantasia de propiciar um afastamento da realidade de renúncias pulsionais, permitindo ao sujeito criar “castelos no ar” (<span class="ref"><span class="xref xrefblue"><a href="#B12_ref" data-ref="Freud, S. (1996). Escritores criativos e devaneio. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 9). Rio de Janeiro: Imago. (Trabalho original publicado em 1908a)">Freud, 1908a/1996</a></span></span>, p. 136).</p>
+      <p>As fantasias são fachadas psíquicas, impregnadas de desejo e construídas das coisas que são ouvidas em idade precoce. São ficções inconscientes que apartam o sujeito da realidade ao mesmo tempo em que lhe possibilitam não estar completamente desligado dela, pois possuem realidade psíquica (<span class="ref"><span class="xref xrefblue"><a href="#B23_ref" data-ref="Freud, S. (1996). A perda da realidade na neurose e na psicose. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 19). Rio de Janeiro: Imago. (Trabalho original publicado em 1924)">Freud, 1924/1996</a></span></span>). Constituem-se como substitutos da satisfação pulsional e, por isso, mantêm uma íntima conexão com a vida sexual (<span class="ref"><span class="xref xrefblue"><a href="#B12_ref" data-ref="Freud, S. (1996). Escritores criativos e devaneio. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 9). Rio de Janeiro: Imago. (Trabalho original publicado em 1908a)">Freud, 1908a/1996</a></span></span>). Com “embelezamento” e “falseamento” dos fatos (Freud, 1897/1996, p. 296), promovem uma satisfação que a realidade insatisfatória não propiciaria (<span class="ref"><span class="xref xrefblue"><a href="#B12_ref" data-ref="Freud, S. (1996). Escritores criativos e devaneio. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 9). Rio de Janeiro: Imago. (Trabalho original publicado em 1908a)">Freud, 1908a/1996</a></span></span>). Por isso mesmo, permitem ao neurótico suportar a castração - nome desse insuportável que a realidade evoca e sobre o qual as fantasias intervêm como proteção. Ao mesmo tempo, as fantasias podem se tornar fonte de sofrimento por manterem o sujeito escravo das suas exigências, dependendo delas para se relacionar com a realidade (<span class="ref"><span class="xref xrefblue"><a href="#B20_ref" data-ref="Freud, S. (1996). Conferência XXIII: Os caminhos da formação dos sintomas. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 16). Rio de Janeiro: Imago. (Trabalho original publicado em 1917)">Freud, 1917/1996</a></span></span>).</p>
+      <p>Essa dependência em relação às fantasias leva a uma outra vertente - esta mais simbólica, pois indica certa lógica nessas fantasias. Trata-se da fantasia como uma instância que ordena o modo de vida dos sujeitos, o que está expresso na fantasia comum encontrada por <span class="ref"><span class="xref xrefblue"><a href="#B21_ref" data-ref="Freud, S. (1996). Uma criança é espancada: Uma contribuição ao estudo da origem das perversões sexuais. In J. Strachey (Ed. &amp; Trans.), Edição standard das obras psicológicas completas de Sigmund Freud (Vol. 17). Rio de Janeiro: Imago. (Trabalho original publicado em 1919)">Freud (1919/1996)</a></span></span> entre seus pacientes, a de que uma criança é espancada. Essa vertente traz uma redução da variedade de elementos a uma frase única, fundamental.</p>
+      <p>Há, ainda, uma outra vertente, esta concernente a um ponto de limite em relação ao dizer. Trata-se da dimensão de resíduo - cicatriz - que a fantasia apresenta e que a institui como uma marca determinante na maneira como os sujeitos enxergam o mundo. É, inclusive, essa dimensão o que leva Freud a preconizar a importância do trabalho de construção da fantasia, já que ela não pode ser “achada” nos confins do psiquismo. Assim, considerando essas três vertentes em que a fantasia se apresenta em Freud, bem como o modo de se operar sobre ela, conclui-se que é possível extrair em Freud uma verdadeira lógica da fantasia. E reconhecer essa lógica evidencia como a fantasia - e o trabalho sobre ela - tem função central no tratamento psicanalítico, já que é determinante na maneira com a qual os sujeitos fazem suas escolhas, no modo como desejam e como enxergam o mundo.</p>
+    </div>
+<div class="articleSection" data-anchor="Referências">
+<h2 class="h5">Referências</h2>
+<div class="row"><div class="col ref-list"><ul class="refList articleFootnotes">
+<li>
+<a class="" name="B1_ref"></a>Freud, S. (1996) Relatório sobre meus estudos em Paris e Berlim. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1886)</li>
+<li>
+<a class="" name="B2_ref"></a>Freud, S. (1996). Extratos dos documentos dirigidos a Fliess. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1892-1899)</li>
+<li>
+<a class="" name="B3_ref"></a>Freud, S. (1996). Carta a Josef Breuer. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 1). Rio de Janeiro: Imago. (Trabalho original publicado em 1892)</li>
+<li>
+<a class="" name="B4_ref"></a>Freud, S. (1996). Estudos sobre a histeria. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 2). Rio de Janeiro: Imago. (Trabalho original publicado em 1895a)</li>
+<li>
+<a class="" name="B5_ref"></a>Freud, S. (1996). Projeto para uma psicologia científica. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 2). Rio de Janeiro: Imago. (Trabalho original publicado em 1895b)</li>
+<li>
+<a class="" name="B6_ref"></a>Freud, S. (1996). A sexualidade na etiologia das neuroses. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 3). Rio de Janeiro: Imago. (Trabalho original publicado em 1898)</li>
+<li>
+<a class="" name="B7_ref"></a>Freud, S. (1996). Lembranças encobridoras. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 3). Rio de Janeiro: Imago. (Trabalho original publicado em 1899)</li>
+<li>
+<a class="" name="B8_ref"></a>Freud, S. (1996). A Interpretação dos sonhos. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 5). Rio de Janeiro: Imago. (Trabalho original publicado em 1900)</li>
+<li>
+<a class="" name="B9_ref"></a>Freud, S. (1996). Três ensaios sobre a teoria da sexualidade. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 8). Rio de Janeiro: Imago. (Trabalho original publicado em 1905)</li>
+<li>
+<a class="" name="B10_ref"></a>Freud, S. (1996). O esclarecimento sexual das crianças. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 9). Rio de Janeiro: Imago. (Trabalho original publicado em 1906)</li>
+<li>
+<a class="" name="B11_ref"></a>Freud, S. (1996). Delírios e Sonhos na Gradiva de Jensen. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 9). Rio de Janeio: Imago. (Trabalho original publicado em 1907)</li>
+<li>
+<a class="" name="B12_ref"></a>Freud, S. (1996). Escritores criativos e devaneio. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 9). Rio de Janeiro: Imago. (Trabalho original publicado em 1908a)</li>
+<li>
+<a class="" name="B13_ref"></a>Freud, S. (1996). Fantasias histéricas e sua relação com a bissexualidade. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 9). Rio de Janeiro: Imago. (Trabalho original publicado em 1908b)</li>
+<li>
+<a class="" name="B14_ref"></a>Freud, S. (1996). Análise de uma fobia em um menino de cinco anos. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 10). Rio de Janeiro: Imago. (Trabalho original publicado em 1909)</li>
+<li>
+<a class="" name="B15_ref"></a>Freud, S. (1996). Um tipo especial de escolha de objeto feita pelos homens: Contribuições à psicologia do amor I. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 11). Rio de Janeiro: Imago. (Trabalho original publicado em 1910)</li>
+<li>
+<a class="" name="B16_ref"></a>Freud, S. (1996). Formulações sobre os dois princípios do funcionamento mental. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 12). Rio de Janeiro: Imago. (Trabalho original publicado em: 1911)</li>
+<li>
+<a class="" name="B17_ref"></a>Freud, S. (1996). Sobre a tendência universal à depreciação na esfera do amor: Contribuições à psicologia do amor II. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 11). Rio de Janeiro: Imago. (Trabalho original publicado em 1912)</li>
+<li>
+<a class="" name="B18_ref"></a>Freud, S. (1996). Totem e tabu. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 13). Rio de Janeiro: Imago. (Trabalho original publicado em 1913)</li>
+<li>
+<a class="" name="B19_ref"></a>Freud, S. (1996). Os instintos e suas vicissitudes. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 14). Rio de Janeiro: Imago. (Trabalho original publicado em 1915)</li>
+<li>
+<a class="" name="B20_ref"></a>Freud, S. (1996). Conferência XXIII: Os caminhos da formação dos sintomas. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 16). Rio de Janeiro: Imago. (Trabalho original publicado em 1917)</li>
+<li>
+<a class="" name="B21_ref"></a>Freud, S. (1996). Uma criança é espancada: Uma contribuição ao estudo da origem das perversões sexuais. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 17). Rio de Janeiro: Imago. (Trabalho original publicado em 1919)</li>
+<li>
+<a class="" name="B22_ref"></a>Freud, S. (1996). Além do princípio de prazer. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 18). Rio de Janeiro: Imago. (Trabalho original publicado em 1920)</li>
+<li>
+<a class="" name="B23_ref"></a>Freud, S. (1996). A perda da realidade na neurose e na psicose. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 19). Rio de Janeiro: Imago. (Trabalho original publicado em 1924)</li>
+<li>
+<a class="" name="B24_ref"></a>Freud, S. (1996) Estudo autobiográfico. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 20). Rio de Janeiro: Imago. (Trabalho original publicado em: 1925)</li>
+<li>
+<a class="" name="B25_ref"></a>Freud, S. (1996). O mal-estar na civilização. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 21). Rio de Janeiro: Imago. (Trabalho original publicado em 1930)</li>
+<li>
+<a class="" name="B26_ref"></a>Freud, S. (1996). Conferência XXXIII: Feminilidade. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 22). Rio de Janeiro: Imago. (Trabalho original publicado em 1933)</li>
+<li>
+<a class="" name="B27_ref"></a>Freud, S. (1996). Análise terminável e interminável. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 23). Rio de Janeiro: Imago. (Trabalho original publicado em 1937a)</li>
+<li>
+<a class="" name="B28_ref"></a>Freud, S. (1996). Construções em análise. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 23). Rio de Janeiro: Imago. (Trabalho original publicado em 1937b)</li>
+<li>
+<a class="" name="B29_ref"></a>Freud, S. (1996). Esboço de psicanálise. In J. Strachey (Ed. &amp; Trans.), <i>Edição standard das obras psicológicas completas de Sigmund Freud</i> (Vol. 23). Rio de Janeiro: Imago. (Trabalho original publicado em 1938)</li>
+<li>
+<a class="" name="B30_ref"></a>Hanns, L. A. (1996). <i>Dicionário comentado do alemão de Freud</i> Rio de Janeiro: Imago.</li>
+<li>
+<a class="" name="B31_ref"></a>Houaiss, A. <i>Dicionário Houaiss da Língua Portuguesa</i> Recuperado de http://houaiss.uol.com.br<br><a href="http://houaiss.uol.com.br" target="_blank">» http://houaiss.uol.com.br</a>
+</li>
+<li>
+<a class="" name="B32_ref"></a>Jones, E. (1981). <i>A vida e a obra de Sigmund Freud</i> (Vol. 1-3). Rio de Janeiro: Imago.</li>
+<li>
+<a class="" name="B33_ref"></a>Roudinesco, E., &amp; Plon, M. (1998). <i>Dicionário de psicanálise</i> Rio de Janeiro: Jorge Zaha</li>
+</ul></div></div>
+</div>
+<div class="articleSection" data-anchor="Datas de Publicação ">
+<h2 class="h5">Datas de Publicação </h2>
+<div class="row"><div class="col-md-12 col-sm-12"><ul class="articleTimeline"><li>
+<strong>Publicação nesta coleção</strong><br>2017</li></ul></div></div>
+</div>
+<div class="articleSection" data-anchor="Histórico">
+<h2 class="h5">Histórico</h2>
+<div class="row"><div class="col-md-12 col-sm-12"><ul class="articleTimeline">
+<li>
+<strong>Recebido</strong><br>29 Abr 2014</li>
+<li>
+<strong>Revisado</strong><br>06 Abr 2015</li>
+<li>
+<strong>Aceito</strong><br>18 Maio 2015</li>
+</ul></div></div>
+</div>
+<section class="documentLicense"><div class="container-license"><div class="row">
+<div class="col-sm-3 col-md-2"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title=""><img src="https://licensebuttons.net/l/by/4.0//88x31.png" alt="Creative Common - by 4.0 "></a></div>
+<div class="col-sm-9 col-md-10"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="">Este é um artigo publicado em acesso aberto (Open Access) sob a licença Creative Commons Attribution, que permite uso, distribuição e reprodução em qualquer meio, sem restrições desde que o trabalho original seja corretamente citado</a></div>
+</div></div></section></article>
+</div>
+</div></div></section><div class="modal fade ModalDefault ModalTutors" id="ModalTutors" tabindex="-1" role="dialog" aria-hidden="true"><div class="modal-dialog"><div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title">Autoria</h5>
+<button class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+</div>
+<style>
+            .author-card {
+                border-bottom: 1px solid #ccc;
+                padding: 1rem 0;
+            }
+            .author-card:last-child {
+                border-bottom: 0px;
+            }
+            .author-name {
+                font-weight: 600;
+            }
+            .material-icons-outlined {
+                vertical-align: middle;
+                margin-right: 4px;
+            }
+            .orcid-button {
+                padding-left: 2.5rem;
+            }
+            .modal-body {
+                padding-bottom: 3rem;
+            }
+            .orcid-button::before {
+                content: "";
+                position: absolute;
+                background-image: url(https://ds.scielo.org/img/logo-orcid.svg);
+                background-repeat: no-repeat;
+                background-size: 1.5em auto;
+                background-position: .5em center;
+                display: block;
+                width: 60px;
+                height: 60px;
+                top: -10px;
+                left: 0;
+            }
+        </style>
+<div class="modal-body">
+<div class="author-card">
+<div class="author-name">
+<span class="material-icons-outlined">person</span> Virgínia Célia Carvalho da Silva <a href="#c1">1</a>
+</div>
+<div class="author-roles ms-4 mb-2 scielo__text-color__subtle--light"></div>
+<div class="author-institution ms-4 mb-2 scielo__text-color__subtle--light">
+<span class="material-icons-outlined">school</span><span data-aff-display="aff1">Universidade Federal de Minas GeraisBrasil</span><span data-aff-orgname="aff1" hidden="">Universidade Federal de Minas Gerais</span><span data-aff-country="aff1" hidden="">Brazil</span><span data-aff-country-code="aff1" hidden="" country="BR"></span><span data-aff-location="aff1" hidden="">Brazil</span><span data-aff-full="aff1" hidden="">Universidade Federal de Minas GeraisBrasil</span><a href="" class="scimago-link" data-scimago-link="aff1"></a>
+</div>
+<div class="ms-4"></div>
+</div>
+<div class="author-card">
+<div class="author-name">
+<span class="material-icons-outlined">person</span> Jésus Santiago </div>
+<div class="author-roles ms-4 mb-2 scielo__text-color__subtle--light"></div>
+<div class="author-institution ms-4 mb-2 scielo__text-color__subtle--light">
+<span class="material-icons-outlined">school</span><span data-aff-display="aff1">Universidade Federal de Minas GeraisBrasil</span><span data-aff-orgname="aff1" hidden="">Universidade Federal de Minas Gerais</span><span data-aff-country="aff1" hidden="">Brazil</span><span data-aff-country-code="aff1" hidden="" country="BR"></span><span data-aff-location="aff1" hidden="">Brazil</span><span data-aff-full="aff1" hidden="">Universidade Federal de Minas GeraisBrasil</span><a href="" class="scimago-link" data-scimago-link="aff1"></a>
+</div>
+<div class="ms-4"></div>
+</div>
+<a class="" name="c1_ref"></a><div class="correspondence mt-3 mb-4">
+<strong><span class="material-icons-outlined">person</span>1</strong><span class="scielo__text-color__subtle--light"> Endereço para correspondência: Av. Prudente de Morais, 287/904, Bairro Santo Antônio, Belo Horizonte, MG, Brasil. </span><br>E-mail<span class="scielo__text-color__subtle--light">: </span><br><a href="mailto:vivscarvalho@yahoo.com.br">vivscarvalho@yahoo.com.br</a>
+				</div>
+</div>
+</div></div></div>
+<div class="modal fade ModalDefault ModalTutors" id="ModalScimago" tabindex="-1" role="dialog" aria-hidden="true"><div class="modal-dialog"><div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title">
+                            SCIMAGO INSTITUTIONS RANKINGS
+                        </h5>
+<button class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+</div>
+<div class="modal-body"><div class="info"><div>
+<span data-aff-display="aff1">Universidade Federal de Minas GeraisBrasil</span><span data-aff-orgname="aff1" hidden="">Universidade Federal de Minas Gerais</span><span data-aff-country="aff1" hidden="">Brazil</span><span data-aff-country-code="aff1" hidden="" country="BR"></span><span data-aff-location="aff1" hidden="">Brazil</span><span data-aff-full="aff1" hidden="">Universidade Federal de Minas GeraisBrasil</span><a href="" class="scimago-link" data-scimago-link="aff1"></a><br>
+</div></div></div>
+</div></div></div>
+<div class="modal fade ModalDefault" id="ModalArticles" tabindex="-1" role="dialog" aria-hidden="true"><div class="modal-dialog"><div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title">Como citar</h5>
+<button class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+</div>
+<div class="modal-body">
+<p id="citation"></p>
+<input id="citationCut" type="text" value=""><a class="btn btn-secondary btn-sm scielo__btn-with-icon--left copyLink" data-clipboard-target="#citationCut"><span class="material-icons-outlined">link</span>copiar</a>
+</div>
+</div></div></div>
+<script type="text/javascript">
+            function currentDate() {
+            var today = new Date();
+            var months = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro']
+            today.setTime(today.getTime());
+            return today.getDate() + " " + months[today.getMonth()] + " " + today.getFullYear();
+            }
+            var citation = 'Silva, Virgínia Célia Carvalho da e Santiago, Jésus. Do “Embelezamento dos Fatos” à “Cicatriz”: Uma Investigação sobre a Fantasia em Freud. Psicologia: Teoria e Pesquisa [online]. 2017, v. 33 [Acessado CURRENTDATE], e33419. Disponível em: &lt;https://doi.org/10.1590/0102.3772e33419&gt;. Epub 08 Jan 2018. ISSN 1806-3446. https://doi.org/10.1590/0102.3772e33419.'.replace('CURRENTDATE', currentDate());
+            document.getElementById('citation').innerHTML = citation;
+            document.getElementById('citationCut').value = citation.replace('&lt;', '<').replace('&gt;', ">");
+        </script>
+</div>
+
+        
+      
+      
+<div class="container">
+<div class="row">
+  <div class="col">
+
+    <div class="scielo__floatingMenuCttJs3">
+      <a class="scielo__floatingMenuItem fm-button-child item-goto d-none d-lg-inline-block" data-bs-toggle="tooltip" title="Ir para o topo" href="#top">
+        <span class="material-icons-outlined">
+          vertical_align_top
+        </span>
+      </a>
+      <!--
+      <a href="javascript:;" class="scielo__floatingMenuItem fm-button-child item-download d-none d-lg-inline-block" data-bs-toggle="tooltip" title="PDFs" data-bs-target="#ModalDownloads" tabindex="0">
+        <span class="material-icons-outlined">
+          file_download
+        </span>
+      </a>
+      -->
+      <a href="javascript:;" class="scielo__floatingMenuItem fm-button-child item-metrics d-none d-lg-inline-block" data-bs-toggle="tooltip" title="Métricas" target="_blank" data-bs-target="#metric_modal_id" tabindex="0">
+        <span class="material-icons-outlined">
+          show_chart
+        </span>
+      </a>
+      <ul class="scielo__floatingMenuJs3 fm-slidein" data-fm-toogle="hover">
+        <li class="fm-wrap">
+          <a href="javascript:;" class="fm-button-main" data-bs-toggle="tooltip" title="Abrir menu" tabindex="0"><span class="material-icons-outlined material-icons-outlined-menu-default">more_horiz</span></a>
+          <a href="javascript:;" class="fm-button-close" data-bs-toggle="tooltip" title="Fechar menu" tabindex="0"><span class="material-icons-outlined material-icons-outlined-menu-close">close</span></a>
+
+          <!-- exibe em tudo menos mobile-->
+          <ul class="fm-list-desktop d-none d-lg-block">
+            <li>
+              <a class="fm-button-child" id="lnkFigsTables" data-bs-toggle="tooltip" title="Figuras e tabelas" data-bs-target="#ModalTablesFigures" tabindex="0">
+                <span class="material-icons-outlined">
+                  image
+                </span>
+              </a>
+            </li>
+            <li>
+              <a class="fm-button-child" id="lnkVersTranslations" data-bs-toggle="tooltip" title="Versões e traduções" data-bs-target="#ModalVersionsTranslations" tabindex="0">
+                <span class="material-icons-outlined">
+                  translate
+                </span>
+              </a>
+            </li>
+            <li>
+              <a class="fm-button-child" id="lnkHowToCite" data-bs-toggle="tooltip" title="Como citar este artigo" data-bs-target="#ModalHowcite" tabindex="0">
+                <span class="material-icons-outlined">
+                  link
+                </span>
+              </a>
+            </li>
+            <li>
+              <a class="fm-button-child" id="lnkArticles" data-bs-toggle="tooltip" title="Artigos relacionados" data-bs-target="#ModalRelatedArticles" tabindex="0">
+                <span class="material-icons-outlined">
+                  article
+                </span>
+              </a>
+            </li>
+          </ul>
+
+
+
+          <!-- exibe apenas no mobile-->
+          <ul class="fm-list-mobile d-block d-xl-none">
+            <li class="">
+              <a class="fm-button-child item-goto" data-mobile-tooltip="Ir para o topo" href="#top">
+                <span class="material-icons-outlined">
+                  vertical_align_top
+                </span>
+              </a>
+            </li>
+            <li class="">
+              <a href="javascript:;" class="fm-button-child item-download" data-mobile-tooltip="PDFs" data-bs-toggle="modal" data-bs-target="#ModalDownloads">
+                <span class="material-icons-outlined">
+                  file_download
+                </span>
+              </a>
+            </li>
+            <li class="">
+              <a href="javascript:;" class="fm-button-child item-metrics" data-mobile-tooltip="Métricas" data-bs-toggle="modal" data-bs-target="#metric_modal_id">
+                <span class="material-icons-outlined">
+                  show_chart
+                </span>
+              </a>
+            </li>
+            <li class="">
+              <a class="fm-button-child" data-mobile-tooltip="Figuras e tabelas" data-bs-toggle="modal" data-bs-target="#ModalTablesFigures">
+                <span class="material-icons-outlined">
+                  image
+                </span>
+              </a>
+            </li>
+            <li class="">
+              <a class="fm-button-child" data-mobile-tooltip="Versões e traduções" data-bs-toggle="modal" data-bs-target="#ModalVersionsTranslations">
+                <span class="material-icons-outlined">
+                  translate
+                </span>
+              </a>
+            </li>
+            <li class="">
+              <a class="fm-button-child" data-mobile-tooltip="Como citar este artigo" data-bs-toggle="modal" data-bs-target="#ModalHowcite">
+                <span class="material-icons-outlined">
+                  link
+                </span>
+              </a>
+            </li>
+            <li class="">
+              <a class="fm-button-child" data-mobile-tooltip="Artigos relacionados" data-bs-toggle="modal" data-bs-target="#ModalRelatedArticles">
+                <span class="material-icons-outlined">
+                  article
+                </span>
+              </a>
+            </li>
+          </ul>
+
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+</div>
+
+      <section class="journalContacts pt-4 pb-4">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-8 text-center text-sm-start">
+        <div class="row">
+          <div class="col-md-1 col-sm-2">
+            <span class="material-icons-outlined">location_on</span>
+          </div>
+          <div class="col-md-10 col-sm-9">
+            <strong class="d-block">Instituto de Psicologia, Universidade de Brasília</strong>
+            
+              <span>Instituto de Psicologia, Universidade de Brasília, 70910-900 - Brasília - DF - Brazil, Tel./Fax: (061) 274-6455</span> - 
+            
+            
+            <span>Brasília</span> -
+            
+            
+            <span>DF</span> -
+            
+            
+            <span>Brazil</span> <br/>
+            
+            
+            
+              <strong>E-mail:</strong> revistaptp@gmail.com
+            
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-sm-4 text-center text-sm-start pt-4 pt-sm-0">
+        <a href="/journal/ptp/feed/" data-toggle="tooltip" title="RSS do número mais recente do periódico" target="_blank"><span class="material-icons-outlined">rss_feed</span></a>
+        <span>
+          Acompanhe os números deste periódico no seu leitor de RSS
+        </span>
+
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+      
+
+
+
+    <div class="modal fade ModalDefault" id="ModalDownloads" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 class="h4 modal-title">
+          Versão para download de PDF
+        </h2>
+        <button class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+     </div>
+     
+      <div class="modal-body">
+        <div class="row modal-center">
+          <div class="col-md-12">
+            <span class="sci-ico-filePDF"></span>
+            <br/>
+            <strong>PDF</strong>
+            <ul class="md-list">
+            
+              
+                <li>
+                  <a target='_blank' href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/?lang=pt&amp;format=pdf">
+                    
+                      Português
+                    
+                  </a>
+                </li>
+              
+            
+            </ul>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <div class="modal fade ModalDefault" id="ModalRelatedArticles" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 class="h4 modal-title">
+          Artigos relacionados
+        </h2>
+        <button class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="modal-center">
+          <ul class="md-list inline">
+            
+              <li>
+                <a href="https://www.google.com/search?q=&#34;Do “Embelezamento dos Fatos” à “Cicatriz”: Uma Investigação sobre a Fantasia em Freud&#34; &#34;Silva, Virgínia Célia Carvalho da&#34; &#34;Santiago, Jésus&#34; &#34;2018&#34; &#34;Psicologia: Teoria e Pesquisa&#34;" target="_blank">
+                  Google
+                </a>
+              </li>
+            
+              <li>
+                <a href="https://scholar.google.com/scholar?q=&#34;Do “Embelezamento dos Fatos” à “Cicatriz”: Uma Investigação sobre a Fantasia em Freud&#34; &#34;Silva, Virgínia Célia Carvalho da&#34; &#34;Santiago, Jésus&#34; &#34;2018&#34; &#34;Psicologia: Teoria e Pesquisa&#34;" target="_blank">
+                  Google Scholar
+                </a>
+              </li>
+            
+          </ul>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <div class="modal fade ModalDefault" id="ModalVersionsTranslations" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 class="h4 modal-title">
+          Versões e tradução automática
+        </h2>
+        <button class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row modal-center">
+          <div class="col-md-4 col-md-offset-1">
+            <strong>Versão original do texto</strong>
+            <ul class="md-list">
+            
+              
+                <li>
+                  <a href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/?lang=pt">Português</a>
+                </li>
+              
+            
+            </ul>
+          </div>
+          <div class="col-md-2 md-body-dashVertical"></div>
+          <div class="col-md-4">
+            <strong>Tradução automática</strong>
+            <ul class="md-list">
+              <li><a href="">Google Translator</a></li>
+              <li><a href="">Microsoft Translator</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <style>
+  pre {
+    display: block;
+    padding: 9.5px;
+    margin: 0 0 10px;
+    font-size: 11px;
+    line-height: 1;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    white-space: pre-wrap;
+    word-break: break-word; 
+}
+</style>
+
+<div class="modal fade ModalDefault" id="ModalHowcite" tabindex="-1" role="dialog" aria-hidden="true"
+  style="display: none;">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      
+      <div class="modal-header">
+        <h2 class="h4 modal-title">
+          Como citar
+        </h2>
+        <button class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+
+      <div class="modal-body">
+
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-3" style="text-align: center;">
+              <a href="/citation/export/YqhzchFBq6DQfDmFBkcGHRH/?format=ris" class="btn hidden-sm">
+                <span class="glyphicon glyphicon-download" aria-hidden="true"></span> RIS
+              </a>
+            </div>
+            <div class="col-sm-3" style="text-align: center;">
+              <a href="/citation/export/YqhzchFBq6DQfDmFBkcGHRH/?format=bib" class="btn hidden-sm">
+                <span class="glyphicon glyphicon-download" aria-hidden="true"></span> BIBTEX
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <br>
+        
+        <div id='initial_csl'></div>
+
+        <label id="select_label">Outros formatos de citação e exportação:</label>
+        <select id="select_csl" class="js-data-example-ajax" style="width: 100%">
+          <option value="" selected="selected">Enter references manager format or citation style (e.g., "APA", "AMA", "MLA", "Vancouver")</option>
+        </select>
+        
+        <br>
+        <br>
+      
+        <pre id="citation_text" style="display:none;"></pre>
+
+      </div>
+    </div>
+  </div>
+</div>
+  
+  </main>
+
+  <style>
+	.scielo__logo-partner{
+      max-height: 50px;
+      max-width: 170px;
+    }
+    .scielo__logo-partner--dark{
+      display:none;
+    }
+    .scielo__theme--dark .scielo__logo-partner--light{
+      display:none;
+    }
+	.scielo__theme--dark .scielo__logo-partner--dark{
+      display:inline-block;
+    }
+</style>
+
+<footer>
+	<section class="address-scielo pt-4 pb-4 mt-5">
+		<div class="container">
+			<div class="row">
+				<div class="col col-12 col-sm-2 text-center">
+					<div class="scielo__logo-scielo--small" alt="Logo SciELO"></div>
+				</div>
+				<div class="col col-12 col-sm-8 text-center text-sm-start">
+					<p><small><strong> SciELO - Scientific Electronic Library Online</strong></small></p>
+					<p><small>Rua Dr. Diogo de Faria, 1087 – 9º andar – Vila Clementino 04037-003 São Paulo/SP - Brasil<br/>
+						E-mail: scielo@scielo.org </small></p>
+						<div>
+							<!-- 
+								Fix me:
+								
+								Criar configuração para verificar se deve ou não ser exibido 
+								o ícone da rede social e url correta de cada rede.
+								
+							-->
+							<ul class="list-unstyled justify-content-center justify-content-sm-start d-flex mt-3 mb-0 scielo__social-network-links">
+								<li class="me-2">
+									<a href="https://bsky.app/profile/scielo.org" target="_blank" aria-label="BlueSky">
+										<i class="icon-bluesky"></i>
+									</a>
+								</li>
+								<li class="me-2">
+									<a href="https://openbiblio.social/@scielo" target="_blank" aria-label="Mastodon">
+										<i class="icon-mastodon"></i>
+									</a>
+								</li>
+								<li class="me-2">
+									<a href="https://www.linkedin.com/company/scielo---scientific-electronic-library-online/?originalSubdomain=br" target="_blank" aria-label="LinkedIn">
+										<i class="icon-linkedin"></i>
+									</a>
+								</li>
+								<li class="me-2">
+									<a href="https://www.facebook.com/SciELONetwork" target="_blank" aria-label="Facebook">
+										<i class="icon-facebook"></i>
+									</a>
+								</li>
+								<li>
+									<a href="https://www.youtube.com/c/SciELONetwork" target="_blank" aria-label="Youtube">
+										<i class="icon-youtube"></i>
+									</a>
+								</li>
+							</ul>
+						</div>
+				</div>
+				<div class="col col-12 col-sm-2 text-center">
+					
+					<div class="container-license">
+						<div class="row">
+							<div class="col-sm-3 col-md-2">
+								<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="" rel="license"><img
+										src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="Creative Common - by 4.0">
+								</a>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="container">
+			<div class="row">
+				<div class="col partners text-center my-4">
+					<a href="http://www.capes.gov.br/" class="mx-4 my-2" target="_blank"><img src="/static/img/logo-capes.svg" class="scielo__logo-partner scielo__logo-partner--light " alt="CAPES"><img src="/static/img/logo-capes--dark.svg" class="scielo__logo-partner scielo__logo-partner--dark" alt="CAPES"></a>
+					<a href="http://www.cnpq.br/" class="mx-4 my-2" target="_blank"><img src="/static/img/logo-cnpq.svg" class="scielo__logo-partner scielo__logo-partner--light" alt="CNPq"><img src="/static/img/logo-cnpq--dark.svg" class="scielo__logo-partner scielo__logo-partner--dark" alt="CNPq"></a>
+					<a href="http://www.fapesp.br/" class="mx-4 my-2" target="_blank"><img src="/static/img/logo-fapesp.svg" class="scielo__logo-partner scielo__logo-partner--light " alt="FAPESP"><img src="/static/img/logo-fapesp--dark.svg" class="scielo__logo-partner scielo__logo-partner--dark " alt="FAPESP"></a>
+					<a href="http://bvsalud.org/" class="mx-4 my-2" target="_blank"><img src="/static/img/logo-bvs.svg" class="scielo__logo-partner scielo__logo-partner--light" alt="BVS"><img src="/static/img/logo-bvs.svg" class="scielo__logo-partner scielo__logo-partner--dark" alt="BVS" style="background: white;"></a>
+					<a href="http://regional.bvsalud.org/bvs/bireme/homepage.htm" class="mx-4 my-2" target="_blank"><img src="/static/img/logo-bireme.svg" class="scielo__logo-partner scielo__logo-partner--light " alt="BIREME"><img src="/static/img/logo-bireme--dark.svg" class="scielo__logo-partner scielo__logo-partner--dark " alt="BIREME"></a>
+					<a href="https://www.fapunifesp.edu.br/" class="mx-4 my-2" target="_blank"><img src="/static/img/logo-fap.svg" class="scielo__logo-partner scielo__logo-partner--light" alt="FAP-UNIFESP"><img src="/static/img/logo-fap--dark.svg" class="scielo__logo-partner scielo__logo-partner--dark" alt="FAP-UNIFESP"></a> 
+				</div>
+			</div>
+			<div class="row d-none">
+				<div class="col text-center mt-4 mb-4">
+				
+					
+						
+						<a href="http://www.capes.gov.br/" target="_blank" class="mx-4 my-2 d-inline-block">
+							
+								<img src="https://www.scielo.br/media/images/CAPES.png" alt="CAPES">
+							
+						</a>
+						
+					
+						
+						<a href="http://www.cnpq.br/" target="_blank" class="mx-4 my-2 d-inline-block">
+							
+								<img src="https://www.scielo.br/media/images/CNPq.png" alt="CNPq">
+							
+						</a>
+						
+					
+						
+						<a href="http://www.fapesp.br/" target="_blank" class="mx-4 my-2 d-inline-block">
+							
+								<img src="https://www.scielo.br/media/images/FAPESP.png" alt="FAPESP">
+							
+						</a>
+						
+					
+						
+						<a href="http://bvsalud.org/" target="_blank" class="mx-4 my-2 d-inline-block">
+							
+								<img src="https://www.scielo.br/media/images/BVS.png" alt="BVS">
+							
+						</a>
+						
+					
+						
+						<a href="http://regional.bvsalud.org/bvs/bireme/homepage.htm" target="_blank" class="mx-4 my-2 d-inline-block">
+							
+								<img src="https://www.scielo.br/media/images/BIREME.png" alt="BIREME">
+							
+						</a>
+						
+					
+						
+						<a href="https://www.fapunifesp.edu.br/" target="_blank" class="mx-4 my-2 d-inline-block">
+							
+								<img src="https://www.scielo.br/media/images/FAP-UNIFESP.png" alt="FAP-UNIFESP">
+							
+						</a>
+						
+					
+				
+				</div>
+			</div>
+		</div>
+	</section> 
+	<section>
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<p class="text-center"><a href="/about/"><img src="https://www.scielo.br/static/img/logo-open-access.svg" alt="Open Access" class="me-1 logo-open-access">Leia</a> a Declaração de Acesso Aberto</p>
+				</div>
+			</div>
+		</div> 
+	</section>	
+</footer>
+
+  
+  <div class="modal fade ModalDefault" id="metric_modal_id" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content" style="width: 673px;">
+        <div class="modal-header">
+            <h2 class="h4 modal-title">
+                Métricas
+            </h2>
+            <button class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+         </div>
+        <div class="modal-body row" style="margin-left: 30px;">
+            
+
+                
+                    <div class="col-md-4">
+                        <div class="badge-link col-center">
+                            <a target="_blank"
+                                href="http://analytics.scielo.org/w/accesses?document=S0102-37722017000100417&amp;collection=scl">
+                                <div class="logo-statistc logo-statistc-scielo"></div>
+                                <div>SciELO Analytics</div>
+                            </a>
+                        </div>
+                    </div>
+                
+
+                
+                    
+                    <div class="col-md-4">
+                        <div class="badge-link col-center">
+                            <div class="logo-statistc logo-statistc-dimension">
+                                <div class="badge-logo">
+                                    <span class="__dimensions_badge_embed__" data-doi="10.1590/0102.3772e33419" data-legend="never"
+                                        data-style="small_circle">
+                                    </span>
+                                </div>
+                            </div>
+                            <a target="_blank" href="https://badge.dimensions.ai/details/doi/10.1590/0102.3772e33419">
+                                <div>Dimensions</div>
+                            </a>
+                        </div>
+                    </div>
+                    
+                
+
+                
+                    <div class="col-md-4">
+                        <div class="badge-link col-center">
+                            <div class="logo-statistc logo-statistc-altmetric">
+                                <div class="badge-logo">
+                                    <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1590/0102.3772e33419" data-link-target='_blank'>
+                                    </div>
+                                </div>
+                            </div>
+                            <a target="_blank" href="https://www.altmetric.com/details.php?&doi=10.1590/0102.3772e33419">
+                                <div>Altmetric</div>
+                            </a>
+                        </div>
+                    </div>
+                
+
+                
+                <div class="col-md-4" style="margin-top: 50px;">
+                    <div class="badge-link col-center">
+                        <div id="scienceopen" data-doi="10.1590/0102.3772e33419"></div>
+                    </div>
+                </div>
+                
+
+                
+                <div class="col-md-4" style="margin-top: 18px;">
+                    <div class="badge-link col-center">
+                        <div class="scite-badge" data-doi="10.1590/0102.3772e33419" data-layout="vertical" data-tooltip-placement="right"
+                            data-show-zero="false" data-show-labels="false">
+                        </div>
+                        <a target="_blank" href="https://scite.ai/reports/10.1590/0102.3772e33419">
+                            <div>Scite_</div>
+                        </a>
+                    </div>
+                </div>
+                
+
+                
+                <div class="col-md-4" style="margin-top: 50px;">
+                    <div class="badge-link col-center">
+                        <div class="logo-statistc logo-statistc-plumx">
+                            <div class="badge-logo">
+                                <a href="https://plu.mx/scielo/a/?doi=10.1590/0102.3772e33419" data-popup="right" data-size="large"
+                                    class="plumx-plum-print-popup plum-liberty-theme" data-site="plum" data-hide-when-empty="true"
+                                    data-no-link="true" target="_blank">Do “Embelezamento dos Fatos” à “Cicatriz”: Uma Investigação sobre a Fantasia em Freud</a>
+                            </div>
+                        </div>
+                        <a target="_blank" href="https://plu.mx/scielo/a/?doi=10.1590/0102.3772e33419">
+                            <div>PlumX</div>
+                        </a>
+                    </div>
+                </div>
+                
+
+            
+        </div>
+    </div>
+  </div>
+</div>
+
+
+
+    <!-- share modal -->
+    <div class="modal fade" id="share_modal_id" tabindex="-1" role="dialog" aria-hidden="true"></div>
+
+    <div class="modal fade in" id="share_modal_confirm_id" tabindex="-1" role="dialog" aria-hidden="false">
+      <div class="modal-dialog modal-sm">
+          <div class="modal-content">
+              <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="visually-hidden">Close</span></button>
+                  <h2 class="h4 modal-title">Mensagem</h2>
+              </div>
+              <div class="modal-body">
+                  <div class="midGlyph">
+
+                      <br><br>
+                  </div>
+              </div>
+          </div>
+      </div>
+    </div>
+    <!-- share modal -->
+
+    <!-- error modal -->
+    <div class="modal fade" id="error_modal_id" tabindex="-1" role="dialog" aria-hidden="true"></div>
+
+    <div class="modal fade in" id="error_modal_confirm_id" tabindex="-1" role="dialog" aria-hidden="false">
+      <div class="modal-dialog modal-sm">
+          <div class="modal-content">
+              <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="visually-hidden">Close</span></button>
+                  <h2 class="h4 modal-title">Mensagem</h2>
+              </div>
+              <div class="modal-body">
+                  <div class="midGlyph">
+                  </div>
+              </div>
+          </div>
+      </div>
+    </div>
+
+    <!-- Error modal -->
+    <a class="floatingBtnError btn btn-secondary" href="#" id="#floatingBtnError">Reportar erro</a>
+
+    <script>
+      // Variáveis para tradução da barra de acessibilidade      
+      window.accessibilityTranslations = {
+        darkMode: "Modo escuro",
+        increaseText: "Aumentar texto",
+        decreaseText: "Diminuir texto",
+        originalText: "Texto original",
+        markerLine: "Marcador",
+        readingLine: "Linha guia",
+        reset: "Redefinir",
+        accessibilityMenu: "Menu de acessibilidade",
+        skipLinkText: "Ir para o conteúdo principal"
+      };
+    </script>
+    
+    <!-- Scielo Bundle min -->
+    <script src="/static/js/scielo-bundle-min.js"></script>
+
+    <script>
+
+      $(document).ready(function() {
+
+        // Add rows article search
+        let addRowBtn = $('.addRowBtn');
+        let placeRow = $('.scielo__dinamic-row');
+        let newFormRow = '<div class="row"><div class="col-12"><hr></div><div class="col-2 col-lg-1 text-end"><button type="button" class="btn btn-danger scielo__btn-with-icon--only"><i class="material-icons-outlined">clear</i></button></div><div class="col-10 col-lg-11"><div class="input-group"><div class="input-group-preppend"><select class="form-select" name="bool[]"><option selected>AND</option><option>OR</option><option>AND NOT</option></select></div><textarea name="q[]" class="form-control" aria-label="With textarea" placeholder="Entre uma ou mais palavras"></textarea><div class="input-group-append"><select class="form-select"><option selected value="todos">Todos os índices</option><option value="ano">Ano</option><option value="autor">Autor</option><option value="financiador">Financiador</option><option value="periodico">Periódico</option><option value="resumo">Resumo</option><option value="titulo">Título</option></select></div></div></div></div>';
+
+        let btnRemoveRow = $('.btn-danger');
+
+        addRowBtn.on( "click", function() {
+            placeRow.append( newFormRow );
+        })
+
+        // Remove as linhas inseridas dinamicamente e as que já estavam lá.
+        placeRow.on( "click", ".btn-danger", function() {
+            $(this).parent().parent().animate({'opacity':0},300).hide(1);
+        })
+
+      });
+    </script>
+
+    
+      <script src="https://static.scielo.org/js/cookiePolicy.min.js"></script>
+    
+
+    <script src="//www.google.com/recaptcha/api.js"></script>
+
+    
+<script type="text/javascript" src="/static/js/scielo-article-min.js"></script>
+
+
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+
+
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+
+
+<script id="9cf9cf8f-3a99-fe86-4013-f630edbf80ac" src="https://www.scienceopen.com/script/badge2.js" async
+  defer></script>
+<script type="text/javascript" src="/static/js/scienceopen.js"></script>
+
+
+
+<script async type="application/javascript" src="//cdn.scite.ai/badge/scite-badge-latest.min.js"></script>
+
+
+
+<script sync src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_SVG" charset="utf-8"></script>
+
+<!-- <script>
+      var insertScript = function(url, callback, parentNode) {
+        var scriptNode = document.createElement("script");
+        scriptNode.src = url;
+        scriptNode.onload = callback;
+        parentNode.appendChild(scriptNode)
+      }
+      var headNode = document.getElementsByTagName("head")[0];
+      setTimeout(MathJax.Callback([insertScript, "//badge.dimensions.ai/badge.js", console.log, headNode]), 1500);
+    </script>
+    -->
+
+
+
+<script type="text/javascript" src="//badge.dimensions.ai/badge.js" charset="utf-8" async></script>
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+<!-- xxx Verifica se o artigo contém artigos relacionados -->
+
+
+<!-- Verifica se o artigo contém suplemento -->
+
+
+<script>
+
+  affiliations = {};
+
+  function add_scimago_image(selector, remove_br=true, add_br_after=true, find_div=false){
+    $(selector).each(
+
+    function () {
+
+      if (remove_br){
+        $(this).find("br").remove()
+      }
+      
+      internal_items = find_div ? $(this).find('div').not(".clearfix") : $(this).not(".clearfix")
+
+      internal_items.each(function () { 
+        self = $(this);
+
+        affiliation_name = $('span:first', self).text();
+        if (affiliation_name){
+            scimago_link = ' <a href="#" target="_blank" class="scimago_link" data-affiliation="' + affiliation_name + '" ><img src="/static/img/scimago.svg" alt=" SCImago image" height="12" data-toggle="tooltip" data-placement="top" title="Link to SCImago Institutions Rankings"></a>';
+            self.append(scimago_link);
+        }
+      });
+
+      if (add_br_after){
+        $(this).after("<br />")
+      }
+
+    });
+
+  }
+
+  add_scimago_image('#ModalScimago .info div')
+  add_scimago_image('.tutors', remove_br=false, add_br_after=false, find_div=true) 
+
+  $(".scimago_link").click(function(e){
+    e.preventDefault();
+
+    affiliation_name = $(this).data("affiliation");
+
+    if (affiliation_name){
+      if (affiliations[affiliation_name]) {
+        window.open(affiliations[affiliation_name], '_blank');
+      } else {
+        $.ajax({
+          type: "GET",
+          async: false,
+          url: "/scimago/query",
+          data: 'q=' + encodeURI(affiliation_name),
+          success: function (data) {
+            if (data) {
+              affiliations[affiliation_name] = 'https://www.scimagoir.com/' + data
+              window.open(affiliations[affiliation_name], '_blank');
+            }else{
+              toastr.options = {
+                positionClass: 'toast-top-center'
+              };
+              toastr.error('Link temporariamente indisponível');
+            }
+          }
+        });
+      }
+    }    
+  });
+
+
+  var howcite_initialized = false;
+
+  $('#ModalHowcite').on('shown.bs.modal', function () {
+
+    if (!howcite_initialized) {
+      initial = {
+        "American Psychological Association": "apa", "Vancouver": "vancouver"
+      }
+
+      $.each(initial, function (key, value) {
+        $.ajax({
+          url: "/citation/YqhzchFBq6DQfDmFBkcGHRH/?style=" + value,
+          dataType: 'html',
+          delay: 250,
+          async: true
+        })
+          .done(function (html) {
+            $("<span><b>" + key + "</b></span>" + "<pre>" + html + "</pre>").insertBefore($("#select_label"));
+          })
+      });
+      howcite_initialized = true;
+    }
+
+    $(".js-data-example-ajax").select2({
+      ajax: {
+        url: "/citation/list",
+        dataType: 'json',
+        delay: 250,
+        data: function (params) {
+          return {
+            q: params.term, // search term
+          };
+        },
+        processResults: function (data, params) {
+          return {
+            results: data.results
+          };
+        },
+        cache: true
+      },
+      escapeMarkup: function (markup) { return markup; },
+      minimumInputLength: 1,
+      dropdownParent: $('#ModalHowcite')
+    });
+
+    $(document).on('select2:open', () => {
+      document.querySelector('.select2-search__field').focus();
+    });
+
+    $(".js-data-example-ajax").on('select2:select', function (e) {
+      var data = e.params.data;
+
+      $.ajax({
+        url: "/citation/YqhzchFBq6DQfDmFBkcGHRH/?style=" + data.id,
+        dataType: 'html',
+        delay: 250
+      })
+        .done(function (html) {
+
+          if ($('#citation_text').css('display') == 'none') {
+            $('#citation_text').show()
+          }
+
+          $("#citation_text").html(html);
+
+        })
+        .fail(function () {
+          alert("Erro ao tentar obter esse estilo de citação");
+        })
+
+    });
+  });
+
+</script>
+
+
+
+
+    <script>
+
+      // Garante que o valor do campo share_url é a URL corrente.
+      $('#share_url').val(window.location.href);
+
+      //moment.locale('pt_BR');
+
+      //$("#date").text(moment().format("L HH:mm:ss ZZ"));
+
+    </script>
+
+    
+    
+
+
+   
+
+  </body>
+</html>

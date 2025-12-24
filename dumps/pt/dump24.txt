@@ -1,0 +1,307 @@
+   #alternate next
+
+   PlanetadeLivros, acesse a página inicial (BUTTON)
+   (BUTTON) Minhas Listas
+   (BUTTON) Entrar
+   (BUTTON)
+
+     * (BUTTON) Livros
+     * Mais vendidos
+     * Recomendados
+     * Selos
+     * Autores
+
+   PlanetadeLivros, acesse a página inicial
+   Escreva aqui o título, autor ou ISBN ____________________
+   (BUTTON) (BUTTON)
+
+     * Livros
+          +
+               o Todos os livros
+               o Novidades
+               o Em breve
+               o e-Books
+          + Ficção
+               o Romance policial
+               o Romance literário
+               o Romance contemporâneo
+               o Romance histórico
+               o Romances
+               o Ficção científica
+               o Fantasia
+               o Banda desenhada
+               o Romance erótico
+               o Poesia
+          + Bem-estar e estilo de vida
+               o Autoajuda
+               o Psicologia
+               o Culinária e Gastronomia
+               o Saúde
+               o Parentalidade
+               o Estilo de vida
+               o Viagens
+               o Humor
+               o Entretenimento
+          + Ciência, história e atualidade
+               o Atualidade
+               o Conhecimento e Ciência
+               o Ciências humanas e sociais
+               o História
+               o Economia
+               o Empresas
+               o Filosofia
+               o Arte
+               o Religião
+               o Esoterismo/Espiritualidade
+               o Dicionários e guias
+          + Crianças e jovens
+               o Infantil
+               o Juvenil
+          + Outros
+          + Seleções de livros em destaque
+               o Livros Recomendados
+               o Livros Populares no Tiktok
+               o Sugestões para Clubes de Leitura
+               o Os melhores livros para oferecer no Natal
+               o Livros de Autores Portugueses
+               o Ver mais seleções
+     * Mais vendidos
+     * Recomendados
+     * Selos
+     * Autores
+
+   (BUTTON) Minhas Listas
+   (BUTTON) Entrar
+
+    1. Planetadelivros
+    2. Livros
+    3. Fantasia
+
+Livros de fantasia
+
+   Histórias inimagináveis, mundos espetaculares e emoções à flor da pele:
+   contamos consigo na nossa coleção de livros de fantasia?
+
+   (BUTTON) Filtrar livros
+
+   (BUTTON)
+
+Filtros
+
+Em destaque
+
+     * [ ] Novidades
+     * [ ] Mais vendidos
+     * [ ] em breve
+
+Selo
+
+     * [ ] Planeta (52)
+
+Formatos
+
+     * [ ] Livro (52)
+     * [ ] Livro Eletrônico (1)
+
+   (BUTTON) Limpar filtros
+
+Todos os livros de Fantasia
+
+   Exibição do 1 para o 20 de 52 livros
+   (BUTTON) Ordenar por
+   Mais vendidos
+   Capa Alchemised
+
+   Alchemised
+     * Senlinyu
+
+   Fantasia
+   (BUTTON) Comprar
+   Mais vendidos
+   Capa Sangue de Hércules
+
+   Sangue de Hércules
+     * Jasmine Mas
+
+   Fantasia
+   (BUTTON) Comprar
+   Mais vendidos
+   Capa Tempestade de Ónix
+
+   Tempestade de Ónix
+     * Rebecca Yarros
+
+   Fantasia
+   (BUTTON) Comprar
+   Mais vendidos
+   Capa Chama de Ferro
+
+   Chama de Ferro
+     * Rebecca Yarros
+
+   Fantasia
+   (BUTTON) Comprar
+   Mais vendidos
+   Capa Quarta Asa
+
+   Quarta Asa
+     * Rebecca Yarros
+
+   Fantasia
+   (BUTTON) Comprar
+   Mais vendidos
+   Capa O Hobbit
+
+   O Hobbit
+     * J. R. R. Tolkien
+
+   Fantasia
+   (BUTTON) Comprar
+   Capa Sangue de Hércules - Ed. Especial
+
+   Sangue de Hércules - Ed. Especial
+     * Jasmine Mas
+
+   Fantasia
+   (BUTTON) Comprar
+   Capa Tempestade de Ónix - Ed. Especial
+
+   Tempestade de Ónix - Ed. Especial
+     * Rebecca Yarros
+
+   Fantasia
+   (BUTTON) Comprar
+   Capa Quarta Asa - Ed colecionador
+
+   Quarta Asa - Ed colecionador
+     * Rebecca Yarros
+
+   Fantasia
+   (BUTTON) Comprar
+   Capa Chama de Ferro - Ed colecionador
+
+   Chama de Ferro - Ed colecionador
+     * Rebecca Yarros
+
+   Fantasia
+   (BUTTON) Comprar
+   Capa Queda de Númenor
+
+   Queda de Númenor
+     * J. R. R. Tolkien
+
+   Fantasia
+   (BUTTON) Comprar
+   Capa Complexo de Atlas
+
+   Complexo de Atlas
+     * Olivie Blake
+
+   Fantasia
+   (BUTTON) Comprar
+   Capa Contos Inacabados
+
+   Contos Inacabados
+     * J. R. R. Tolkien
+
+   Fantasia
+   (BUTTON) Comprar
+   Capa Corrente de Espinhos
+
+   Corrente de Espinhos
+     * Cassandra Clare
+
+   Fantasia
+   (BUTTON) Comprar
+   Capa Chama de Ferro - Ed especial
+
+   Chama de Ferro - Ed especial
+     * Rebecca Yarros
+
+   Fantasia
+   (BUTTON) Comprar
+   Capa O Herdeiro de Sevenwaters
+
+   O Herdeiro de Sevenwaters
+     * Juliet Marillier
+
+   Fantasia
+   (BUTTON) Comprar
+   Capa Os Filhos de Húrin
+
+   Os Filhos de Húrin
+     * J. R. R. Tolkien
+
+   Fantasia
+   (BUTTON) Comprar
+   Capa Corrente de Ferro
+
+   Corrente de Ferro
+     * Cassandra Clare
+
+   Fantasia
+   (BUTTON) Comprar
+   Capa O Paradoxo de Atlas
+
+   O Paradoxo de Atlas
+     * Olivie Blake
+
+   Fantasia
+   (BUTTON) Comprar
+   Capa Silmarillion
+
+   Silmarillion
+     * J. R. R. Tolkien
+
+   Fantasia
+   (BUTTON) Comprar
+     *
+     * 1
+     * 2
+     * 3
+     *
+
+Newsletter de Fantasia
+
+   Queres estar a par e não perder as novidades mais fantásticas?
+   (BUTTON) Inscrever-se
+
+Nos siga em:
+
+     * Youtube do PlanetadeLivros
+     * Instagram do PlanetadeLivros
+     * Facebook do PlanetadeLivros
+
+Conteúdo extra
+
+     * Seleções editoriais
+     * Primeiros capítulos
+     * Recomendados
+
+Sobre nós
+
+     * Conheça-nos
+     * Contato
+     * Perguntas frequentes
+
+Para profissionais
+
+     * Sala de imprensa
+
+   PlanetadeLivros, acesse a página inicial
+
+Nos siga em:
+
+     * Youtube do PlanetadeLivros
+     * Instagram do PlanetadeLivros
+     * Facebook do PlanetadeLivros
+
+     * Somos mais que livros
+     * Condições de uso
+     * Política de cookies
+     * Política de privacidade
+     * Office of Good Practice
+
+   Grupo Planeta
+
+   Copyright © 2025 Planeta. Todos os direitos reservados.

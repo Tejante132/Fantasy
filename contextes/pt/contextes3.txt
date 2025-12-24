@@ -1,0 +1,7 @@
+     * alterar o nome da empresa
+
+     * mudar a sede para outro concelho, exceto se for uma sociedade
+       comercial e a denominação for composta por expressão de fantasia,
+       por exemplo, por nome da bolsa ou outra expressão sem significado
+
+     * alterar as atividades a que a empresa se dedica (objeto social).

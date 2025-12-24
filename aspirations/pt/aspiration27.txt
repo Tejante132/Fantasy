@@ -1,0 +1,301 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-PT">
+<head profile="http://gmpg.org/xfn/11">
+<title>Fantasia - O que é, conceito e definição</title>
+                
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://conceito.de/wp-content/themes/conceito/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://conceito.de/wp-content/themes/conceito/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://conceito.de/wp-content/themes/conceito/images/favicon/favicon-16x16.png">
+			<meta itemprop="name" content="Conceito de fantasia - Conceito.de">
+				<meta itemprop="description" content="Do latim phantasĭa (que, por sua vez, provém de um vocábulo grego), a fantasia é a faculdade humana que permite reproduzir, através de imagens mentais, coisas passadas ou representar acontecimentos que não pertencem ao âmbito da realidade. Estes eventos podem ser possíveis (por exemplo, fantasiar em viajar até à praia no próximo verão) ou irrealizáveis [&hellip;]">
+							<meta property="og:title" content="Conceito de fantasia - Conceito.de" />
+			<meta property="og:type" content="article" />
+			<meta property="og:url" content="https://conceito.de/fantasia" />
+			<meta property="og:image" content="https://conceito.de/wp-content/uploads/2012/05/fantasia-59x59.jpg" />
+			<meta property="og:site_name" content="Conceito.de"/>
+			<meta property="og:description" content="Do latim phantasĭa (que, por sua vez, provém de um vocábulo grego), a fantasia é a faculdade humana que permite reproduzir, através de imagens mentais, coisas passadas ou representar acontecimentos que não pertencem ao âmbito da realidade. Estes eventos podem ser possíveis (por exemplo, fantasiar em viajar até à praia no próximo verão) ou irrealizáveis [&hellip;]" />
+			
+<meta name='viewport' content='width=device-width' />
+<link rel="alternate" type="application/rss+xml" title="Conceito.de RSS Feed" href="https://conceito.de/feed" />
+<link rel="alternate" type="application/atom+xml" title="Conceito.de Atom Feed" href="https://conceito.de/feed/atom" />
+
+
+
+<link rel="canonical" href="https://conceito.de/fantasia" /><link rel="preload" href="https://conceito.de/Lora.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel='stylesheet' id='styles-css' href='https://conceito.de/wp-content/themes/conceito/css/screen_2024_3.css' media='all' />
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script src="https://conceito.de/wp-content/themes/conceito/js/header-js-2.js"></script><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CKRLJLQRZ0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CKRLJLQRZ0');
+</script>
+
+</head>
+<body>
+<header class="header js-header u-bg-gradient">
+    <div class="container">
+        <div class="small-container">
+        <a href="https://conceito.de"><img class="logo-novo" alt="Conceito.de" src="https://conceito.de/wp-content/themes/conceito/images/logo.svg" /></a>
+
+        <div class="header__right">
+            <form class="form-search" action="https://conceito.de">
+                <input aria-label="Pesquisar" type="text" name="s" />
+                <button aria-label="Pesquisar conceito" class="form-search__button"><img src="https://conceito.de/wp-content/themes/conceito/images/lupa-conceito.png" alt="Pesquisar"></button>
+            </form>
+                    </div>
+        </div>
+    </div>
+    
+        <div class="alphabet">
+        <div class="container">
+        <div class="small-container">
+            
+            
+            <nav id="main-nav-2">
+    
+    
+    <div id="breadcrumb">
+        Em 
+        <a href="https://conceito.de/categoria/arte">Arte</a> / <a href="https://conceito.de/categoria/literatura">Literatura</a>        </div>  
+        
+        
+              
+        <script>
+       
+           function mova_player(){
+            document.getElementById("amazon-ai-player").play();
+            document.getElementById("escuchar-contenedor").style.display = "none";
+            document.getElementById("leia-artigo").classList.add("sticky-escutar");
+            document.getElementById("amazon-ai-player").style.display = "block";
+           document.getElementById("leia-artigo").style.width = "100%";
+            document.getElementById("breadcrumb").style.width = "100%"; 
+   
+        }
+</script>
+                     
+            <div id="leia-artigo">
+        <table id="amazon-polly-audio-table">
+						<tr>
+						<td id="amazon-polly-audio-tab">
+							<div id="amazon-ai-player-label"></div>
+							 
+			<audio style="display:none;" class="amazon-ai-player" id="amazon-ai-player" preload="none" controls controlsList="nodownload" >
+				<source type="audio/mpeg" src="https://s3.us-east-1.amazonaws.com/audio-for-wordpress-3376585022043beb8ae0656ebf094c787bff99d0/2012/05/amazon_polly_2703.mp3?version=1651056253">
+			</audio>
+            <div id="amazon-ai-player-container"> 
+            
+            
+            <div id="escuchar-contenedor"><a href="#" onclick="mova_player();return false;">
+            <svg class="escuchar-contenedor-svg" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M13.9899 7.22417C13.89 6.65466 13.5803 6.25501 13.0507 6.0352C13.0108 6.01522 12.9708 5.94528 12.9708 5.90532C12.9208 4.81627 12.6411 3.79716 12.0516 2.86797C11.0625 1.28934 9.65368 0.310198 7.81529 0.0604161C5.88697 -0.199357 4.20843 0.380137 2.82964 1.76893C1.71061 2.89794 1.12113 4.28673 1.06118 5.89533C1.06118 5.97526 1.03121 6.00523 0.961266 6.0352C0.37178 6.29498 0.0520593 6.77456 0.0320768 7.42399C0.0120942 8.47308 0.0120942 9.52216 0.0320768 10.5712C0.0420681 11.2507 0.551624 11.8701 1.21105 11.96C1.66066 12.02 2.12025 11.97 2.59984 11.97V11.8102C2.59984 9.98176 2.59984 8.14336 2.59984 6.31496C2.59984 5.93529 2.62981 5.54563 2.70974 5.16596C2.89958 4.2068 3.35917 3.38751 4.07855 2.73808C5.22754 1.69899 6.56638 1.34929 8.06507 1.71897C9.25403 2.00872 10.1532 2.7181 10.7927 3.78716C11.2623 4.56648 11.4321 5.42573 11.4321 6.32495C11.4321 8.15336 11.4321 9.99175 11.4321 11.8301V12C11.8518 12 12.2514 12 12.6511 12C13.0507 11.99 13.3704 11.8002 13.6302 11.5004C13.83 11.2706 13.93 10.9909 13.9999 10.6911V7.2941C13.9999 7.2941 13.9799 7.26413 13.9799 7.24415L13.9899 7.22417Z"></path><path d="M4.09853 6.4948C4.05856 6.18507 3.75883 5.98525 3.46908 6.06518C3.22929 6.13512 3.08941 6.32495 3.08941 6.60471C3.08941 7.40401 3.08941 8.2133 3.08941 9.01261C3.08941 9.81191 3.08941 10.6312 3.08941 11.4505C3.08941 11.8401 3.45909 12.0899 3.79879 11.9401C4.04857 11.8301 4.11851 11.6203 4.11851 11.3606C4.11851 9.80192 4.11851 8.23329 4.11851 6.67465C4.11851 6.6147 4.11851 6.55475 4.10852 6.4948H4.09853Z"></path><path d="M10.2632 6.08516C10.0433 6.16509 9.92345 6.36492 9.92345 6.66465C9.92345 8.23329 9.92345 9.81191 9.92345 11.3805C9.92345 11.4405 9.92345 11.4904 9.93344 11.5504C9.96341 11.7902 10.1732 11.98 10.413 11.99C10.7227 12 10.9525 11.7802 10.9525 11.4405C10.9525 10.6412 10.9525 9.83189 10.9525 9.03259V8.19332C10.9525 7.65379 10.9525 7.10427 10.9525 6.56474C10.9525 6.19506 10.5929 5.95527 10.2632 6.08516Z"></path></svg>
+            <span id="reproduzir-texto">Escutar</span>
+            </a>
+            </div>
+            
+            
+            
+		</div>
+							<div id="amazon-polly-subscribe-tab"></div>
+							<div id="amazon-polly-by-tab"></div>
+						</td>
+						</tr>
+					</table>
+                    
+                    </div>                   
+        
+                    
+                    </nav>	
+            
+            
+        </div>
+        </div>
+    </div>
+    <!--/alphabet-->
+        
+</header>
+<!--/header-->
+
+
+
+<section class="single">
+	<div class="container">
+		<div class="small-container">
+        
+        <div class="whole-title"><span class="single__title">Conceito de </span><h1 class="single__title">Fantasia</h1></div>
+			
+			<div class="single__content">
+				<div class="entry">
+					<div class="single__thumb" style="background-image: url(https://conceito.de/wp-content/uploads/2012/05/fantasia.jpg);"></div>
+					<p>Do latim phantasĭa (que, por sua vez, provém de um vocábulo grego), a fantasia é a faculdade humana que permite reproduzir, através de imagens mentais, coisas passadas ou representar acontecimentos que não pertencem ao âmbito da realidade. Estes eventos podem ser possíveis (por exemplo, fantasiar em viajar até à praia no próximo verão) ou irrealizáveis (caminhar no meio de dinossauros ou conversar com um cão).</p>
+
+        <div class='anuncio' id='main_ad'>
+<!-- /22357687369/Conceito_main_ad -->
+<div id='div-gpt-ad-1596083353377-0'>
+<script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1596083353377-0'); });
+  </script>
+  </div>
+</div>
+  
+<p>A fantasia também pode ser entendida como o grau superior da imaginação ou do pensamento espiritual. Estes pensamentos podem ser retratados em obras artísticas, como contos, romances ou filmes.</p>
+<p>Na literatura, o género fantástico é aquele que apresenta elementos imaginários e sobrenaturais no seu argumento. Trata-se de um género que viola as regras da realidade, com animais que falam, monstros, pessoais imortais e seres que viajam no tempo.</p>
+
+        <div class='anuncio'>
+<!-- /22357687369/Conceito_intext_ad -->
+<div id='div-gpt-ad-1596083383709-0'>
+<script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1596083383709-0'); });
+  </script>
+  </div>
+</div>
+
+
+
+<p>A <a href="https://conceito.de/ficcao">ficção</a> científica, igualmente chamada de literatura de antecipação, é um género que surge pela combinação da fantasia (aquilo que não existe verdadeiramente) e da ciência. Prevê situações que nunca aconteceram (irreais, portanto), mas que poderiam ter lugar graças ao avanço do <a href="https://conceito.de/conhecimento-cientifico">conhecimento científico</a>.</p>
+<p>O conceito de fantasia pode ser associado ao de jogo sexual. Uma fantasia sexual é aquilo que uma pessoa gostaria de concretizar na hora de ter relações.</p>
+<p>Fantasia é também um tipo de vestimenta qual as pessoas usam para representar um traje típico de uma época, local ou cultura, bem como para representar um personagem, por exemplo: &#8220;naquele dia da festa todos vieram com fantasia, o Paulo veio fantasiado de Homem-Aranha, a Maria veio de Mulher Maravilha, o Ricardo de Batman e a Francisca veio com fantasia de Scully da série Arquivo X&#8221;.</p>
+<p>Nesse sentido, uma fantasia não é apenas uma vestimenta referente a algum personagem popular ou que diz respeito a algum tipo de cultura, por exemplo, mas pode ser qualquer tipo de roupa que seja referente a algo ou alguém: uma pessoa pode ter uma fantasia de sanduíche ou de hidrante ou uma fantasia de policial ou bombeiro.</p>
+<p>Em festas infantis é comum o uso de fantasias tanto pelas crianças quanto também por pessoas que costumam ser contratadas para animar essas festas: a exemplo disso tem-se os palhaços ou os mágicos.</p>
+<p>No carnaval, é muito comum o uso de fantasia dos mais variados tipos: há quem se fantasie de algum personagem famoso da televisão, outros que preferem se vestir de algum tipo de político que goste ou não, sendo, nesse caso, uma forma de protesto, etc.</p>
+<p>No Brasil, foi por volta de 1870 que as pessoas que festejavam o carnaval começaram a se fantasiar, mas essas fantasias usadas na época eram fantasias mais simples, com adornos e adaptações mais modestas, pois antes o uso de fantasias (até mais elaboradas que essas) ficava por conta apenas das chamadas escoladas de samba no país.</p>
+<p>Fantasia, por fim, é o nome de um filme de <a href="https://conceito.de/animacao">animação</a> realizado por James Algar e Samuel Armstrong, cuja estreia teve lugar em 1940. O filme transcendeu graças à sua música, interpretada pela Orquestra da Filadélfia com a direcção de Leopold Stokowski.</p>
+
+
+<div class='anuncio'>
+<!-- /22357687369/conceito_novos_artigos -->
+<div id='div-gpt-ad-1654126748445-0'><script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1654126748445-0'); });
+  </script>
+  </div>
+</div>
+  <div class="fichur">
+<div class="boton-continua-com highlight2"><a href="https://conceito.de/magia">Continua com Magia &rarr;</a></div>
+</div><span class="sub-titulo">Citação</span><p>Equipe editorial de Conceito.de. (10 de Maio de 2012). Atualizado em 21 de Abril de 2021. <em>Fantasia - O que é, conceito e definição</em>. Conceito.de. https://conceito.de/fantasia</p>                    
+                    				<div class="yarpp yarpp-related yarpp-related-website yarpp-template-list">
+
+<span class="sub-titulo">Veja também</span>
+<ul>
+							<li><a href="https://conceito.de/relato-fantastico">Relato fantástico</a></li><li><a href="https://conceito.de/razao-social">Razão social</a></li><li><a href="https://conceito.de/blister">Blíster</a></li><li><a href="https://conceito.de/razao">Razão</a></li><li><a href="https://conceito.de/simbolismo">Simbolismo</a></li><li><a href="https://conceito.de/submissao">Submissão</a></li>									
+						</ul>
+
+					</div>
+				
+                
+                
+				
+				                        
+                    
+                    
+                    
+				</div>
+
+				
+                
+                
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+  
+<footer class="footer u-bg-gradient">
+
+<div class="container">
+    <div class="small-container">
+ <ul class="temas-menu-hamburga">
+  <li id="cs-naturales">
+    <a class="index-cat-encabezado" href="https://conceito.de/categoria/ciencias-naturais"><span class="ciencias-desktop">Ciencias Naturais</span><span class="ciencias-mobile">Cs Naturais</span></a>
+    <ul>
+      <li><a href="https://conceito.de/categoria/anatomia">Anatomia</a></li>
+	<li><a href="https://conceito.de/categoria/astronomia">Astronomia</a></li>
+	<li><a href="https://conceito.de/categoria/biologia">Biologia</a></li>
+	<li><a href="https://conceito.de/categoria/fauna">Fauna</a></li>
+	<li><a href="https://conceito.de/categoria/fisica">Física</a></li>
+	<li><a href="https://conceito.de/categoria/flora">Flora</a></li>
+	<li><a href="https://conceito.de/categoria/geologia">Geologia</a></li>
+	<li><a href="https://conceito.de/categoria/matematica">Matemática</a></li>
+	<li><a href="https://conceito.de/categoria/quimica">Química</a></li>
+    </ul>
+  </li>
+  <li id="cs-sociales">
+    <a class="index-cat-encabezado" href="https://conceito.de/categoria/ciencias-sociais"><span class="ciencias-desktop">Ciencias Sociais</span><span class="ciencias-mobile">Cs Sociais</span></a>
+    <ul>
+      <li><a href="https://conceito.de/categoria/antropologia">Antropologia</a></li>
+	<li><a href="https://conceito.de/categoria/direito">Direito</a></li>
+	<li><a href="https://conceito.de/categoria/educacao">Educação</a></li>
+	<li><a href="https://conceito.de/categoria/filosofia">Filosofia</a></li>
+	<li><a href="https://conceito.de/categoria/geografia">Geografia</a></li>
+	<li><a href="https://conceito.de/categoria/historia">História</a></li>
+	<li><a href="https://conceito.de/categoria/sociologia">Sociologia</a></li>
+    </ul>
+  </li>
+  <li id="cultura">
+    <a class="index-cat-encabezado" href="https://conceito.de/categoria/cultura">Cultura</a>
+    <ul>
+      <li><a href="https://conceito.de/categoria/arquitetura">Arquitetura</a></li>
+	<li><a href="https://conceito.de/categoria/arte">Arte</a></li>
+	<li><a href="https://conceito.de/categoria/design">Design</a></li>
+	<li><a href="https://conceito.de/categoria/lingua">Língua</a></li>
+	<li><a href="https://conceito.de/categoria/linguagem">Linguagem</a></li>
+	<li><a href="https://conceito.de/categoria/mitologia">Mitologia</a></li>
+	<li><a href="https://conceito.de/categoria/musica">Música</a></li>
+    </ul>
+  </li>
+  
+  
+  <li id="sociedad">
+    <a class="index-cat-encabezado" href="https://conceito.de/categoria/sociedade">Sociedade</a>
+    <ul>
+    <li><a href="https://conceito.de/categoria/alimentacao">Alimentação</a></li>
+    <li><a href="https://conceito.de/categoria/ecologia">Ecologia</a></li>
+	<li><a href="https://conceito.de/categoria/economia">Economia</a></li>
+	<li><a href="https://conceito.de/categoria/espiritualidade">Espiritualidade</a></li>
+	<li><a href="https://conceito.de/categoria/esporte">Esporte</a></li>
+	<li><a href="https://conceito.de/categoria/politica">Política</a></li>
+	<li><a href="https://conceito.de/categoria/psicologia">Psicologia</a></li>
+	<li><a href="https://conceito.de/categoria/saude">Saúde</a></li>
+	<li><a href="https://conceito.de/categoria/tecnologia">Tecnologia</a></li>
+    <li><a href="https://conceito.de/categoria/trabalho">Trabalho</a></li>
+    </ul>
+  </li>
+  
+  </ul>
+  </div>
+  </div>
+
+    <div class="alphabet">
+        <div class="container">
+        <div class="small-container">
+        <span class="explore">Explore por inicial</span>
+            <ul class="alphabet-list js-proportional-height"> 
+                        <li><a href="https://conceito.de/letra/a">A</a></li><li><a href="https://conceito.de/letra/b">B</a></li><li><a href="https://conceito.de/letra/c">C</a></li><li><a href="https://conceito.de/letra/d">D</a></li><li><a href="https://conceito.de/letra/e">E</a></li><li><a href="https://conceito.de/letra/f">F</a></li><li><a href="https://conceito.de/letra/g">G</a></li><li><a href="https://conceito.de/letra/h">H</a></li><li><a href="https://conceito.de/letra/i">I</a></li><li><a href="https://conceito.de/letra/j">J</a></li><li><a href="https://conceito.de/letra/k">K</a></li><li><a href="https://conceito.de/letra/l">L</a></li><li><a href="https://conceito.de/letra/m">M</a></li><li><a href="https://conceito.de/letra/n">N</a></li><li><a href="https://conceito.de/letra/o">O</a></li><li><a href="https://conceito.de/letra/p">P</a></li><li><a href="https://conceito.de/letra/q">Q</a></li><li><a href="https://conceito.de/letra/r">R</a></li><li><a href="https://conceito.de/letra/s">S</a></li><li><a href="https://conceito.de/letra/t">T</a></li><li><a href="https://conceito.de/letra/u">U</a></li><li><a href="https://conceito.de/letra/v">V</a></li><li><a href="https://conceito.de/letra/w">W</a></li><li><a href="https://conceito.de/letra/x">X</a></li><li><a href="https://conceito.de/letra/y">Y</a></li><li><a href="https://conceito.de/letra/z">Z</a></li>
+            </ul>
+        </div>
+        </div>
+    </div>
+    <!--/alphabet-->
+	<div class="container">
+    <div class="small-container">
+    
+		<div style="text-align:center;margin:30px 0;font-size:16px"><a href="https://conceito.de/contato" class="footer__link">Contato</a> - <a href="https://conceito.de/politica-de-privacidade" class="footer__link">Privacidade</a></div>
+		<span class="footer__copyright">Conceito.de | Copyright © 2010-2025 </span>
+			</div>
+            </div>
+</footer>
+
+
+
+
+<script>var postId = 2703;</script>
+    <script src="https://conceito.de/wp-content/themes/conceito/js/globale-js.js" defer></script>
+</body>
+</html>

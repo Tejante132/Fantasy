@@ -1,0 +1,735 @@
+    #Feed para Lacuna » Feed de comentários para Lacuna » alternate
+   alternate Lacuna WordPress.com
+
+   Pular para o conteúdo
+
+Lacuna
+
+   Uma revista de psicanálise – ISSN 2447-2663
+
+Navegação Principal
+
+   (BUTTON) Menu
+     * A Lacuna
+          + Sobre nós
+          + Corpo editorial
+     * Edições
+          + Edição atual
+          + Números anteriores
+     * Normas
+          + Envio de contribuições
+          + Como citar
+
+   Revista Lacuna 12 de agosto de 2024 -16, Tradução
+
+A fantasia não é um fantasma
+
+   [La fantasía no es un fantasma]
+
+   por Anthony Sampson
+
+   Tradução | Paulo Sérgio de Souza Jr.
+
+     Sampson, A. (1992) “La fantasía no es un fantasma”, Artefacto, n. 3,
+     México.
+
+     Longe de fazer com que as línguas se comuniquem, a tradução enfatiza
+     o que as torna estranhas umas às outras.
+
+     *
+
+     Michel Cresta^[1]
+
+   Numa atividade que vem se tornando cada vez mais crítica — e criticável
+   —, resulta conveniente, até mesmo indispensável, explicitar certas
+   opções feitas pelo tradutor. De fato, há quem tenha visto na tarefa de
+   tradução nada além de uma série ininterrupta de escolhas^[2]. Segundo
+   essa tese, a essência da tradução consistiria no próprio ato de
+   escolher. Talvez seja nessa primordialidade da escolha que o caráter
+   ético da tarefa do tradutor, de acordo com Benjamin, possa ser visto
+   mais facilmente^[3].
+
+   Seja como for, temos obrigação de explicar nossa escolha por “fantasia”
+   para traduzir o francês fantasme, e não “fantasma”, como costumam fazer
+   alguns.
+
+   Antes de mais nada, vamos estabelecer alguns pontos incontroversos.
+   Fantasme, em francês, é o termo especificamente psicanalítico empregado
+   — pelo menos originalmente, desde a década de 1920 — para traduzir o
+   termo alemão Phantasie. Esse termo, exatamente como o inglês fantasy ou
+   o espanhol fantasía, embora possua uma gama de sentidos ampla, designa
+   basicamente a imaginação: “Não tanto a faculdade de imaginar”, dizem
+   Laplanche e Pontalis em seu Vocabulário da psicanálise, “no sentido
+   filosófico do termo (Einbildungskraft), mas o mundo imaginário, os seus
+   conteúdos, a atividade criadora que o anima (das Phantasieren). Freud
+   retomou essas diferentes acepções da língua alemã”^[4]. Laplanche e
+   Pontalis continuam explicando que, em francês, o termo fantasme foi
+   revivido pelos analistas, fato que explica por que suas ressonâncias
+   psicanalíticas são maiores que as do vocábulo Phantasie e por que ele
+   possui uma extensão menor que o homólogo alemão. Eles também lembram
+   que Lagache propôs a reutilização do termo fantaisie em seu sentido
+   antigo, “mas que, para a consciência linguística, contemporânea, [esse
+   termo] dificilmente pode deixar de sugerir os matizes de capricho,
+   originalidade, ausência de seriedade etc.”
+
+   Noutros termos, fantasme é o vocábulo ao qual os primeiros tradutores
+   das obras de Freud tiveram obrigatoriamente de recorrer. Porque a
+   palavra fantaisie — que teria sido o equivalente natural —, devido à
+   evolução específica da língua francesa, era simplesmente inutilizável,
+   uma vez que carregava ideias de leviandade, de liberdade imaginativa,
+   até mesmo de sorte ou felicidade, absolutamente incompatíveis com o
+   caráter constritivo ou coercitivo da Phantasie freudiana (aliás,
+   observamos que, de acordo com o Diccionario crítico etimológico de la
+   lengua castellana [Dicionário crítico etimológico da língua
+   castelhana], de J. Corominas, foi esse sentido “italiano” de “fantasia”
+   como capricho, vontade caprichosa, que Juan de Valdés — autor do
+   Diálogo de la lengua española [Diálogo da língua espanhola], e falecido
+   em 1541 — quis aclimatar em espanhol, mas sem sucesso).
+
+   Assim, os franceses não tinham à disposição imediata uma palavra com a
+   mesma carga semântica que fantasy, em inglês, ou fantasía, em espanhol.
+   Em francês, uma frase como fantaisie de castration (capricho de
+   castração) ou fantaisie de meurtre (capricho de assassinato) seria
+   impensável; surgiria um puro contrassenso. De modo que os tradutores se
+   viram compelidos a ressuscitar um termo antigo que havia caído em
+   desuso desde o século XIII. Parece que essa escolha era tão óbvia e tão
+   inevitável que não houve sequer necessidade de uma reunião da
+   Commission Linguistique pour L’Unification du Vocabulaire
+   Psychanalytique Français [Comissão Linguística para a Unificação do
+   Vocabulário Psicanalítico Francês], cuja existência e funcionamento são
+   documentados por Elisabeth Roudinesco em sua história da psicanálise na
+   França^[5]. Os tradutores escolheram um termo, então, cujo significado
+   “original” — diferentemente do que acontece com o fantasma espanhol —
+   se havia perdido por completo; e que era capaz, por seu caráter neutro,
+   de receber qualquer sentido: de felicidade ou de infelicidade, material
+   ou abstrato etc.
+
+   Mas desde a sua introdução, como aponta Guy Le Gaufey no seminário De
+   la réalité du fantasme [A realidade da fantasia]^[6], esse feliz achado
+   dos tradutores teve um sucesso inaudito: deixou de ser um termo
+   meramente técnico num vocabulário específico e restrito, e passou a ser
+   uma palavra extremamente corrente na língua cotidiana. Hoje, portanto,
+   em francês, fantasme é uma expressão que pode aparecer em qualquer
+   conversa ou em qualquer leitura, sem que a pessoa que a emprega esteja
+   necessariamente ciente de sua origem psicanalítica.^[7]
+
+   Vamos deixar claro o seguinte, então: em francês, fantasme não é um
+   termo próprio de Lacan e dos lacanianos. Ele foi introduzido para
+   traduzir Phantasie, e hoje em dia é pura e simplesmente o francês que
+   todos os psicanalistas de língua francesa escrevem quando pretendem
+   falar do que Freud chamou de Phantasie, quaisquer que sejam suas
+   posições doutrinárias. Em termos ainda mais claros, acharemos phantasme
+   nos textos de Sacha Nacht, Benassy, Bouvet, Levobici, Diatkine,
+   Laplanche, assim como nos textos de Lacan e dos seus alunos. Não tem
+   absolutamente nada de específico quanto à indicação de uma determinada
+   posição teórica.
+
+   De modo geral, os tradutores dos textos dos primeiros autores
+   mencionados (Nacht, Diatkine etc.) para o espanhol se deram conta
+   disso, pois não costumam traduzir fantasme por fantasma. E os
+   tradutores ingleses, tanto dos primeiros citados quanto de Lacan,
+   também se deram conta disso: traduzem por fantasy, que é, nem mais nem
+   menos, o único termo equivalente ao alemão Phantasie. E decerto não
+   recorreram a ghost para traduzir fantasme quando na pena de Lacan!
+
+   Consideramos que fantasme, em francês, e fantasma, em espanhol, são o
+   que os franceses chamam de faux amis (literalmente, “falsos amigos”):
+   termos que, por sua semelhança fonética, induzem ao engano os
+   iniciantes no estudo de uma língua estrangeira, pois seu aparente ar de
+   familiaridade produz a impressão de uma equivalência de sentido que, na
+   realidade, não existe.
+
+   Com efeito, apostaríamos que os primeiros leitores de Lacan
+   hispanofalantes, deslumbrados com a extraordinária novidade do ensino
+   lacaniano, tomaram como certo que fantasme só poderia ser mais uma das
+   inovações e neologismos de Lacan. Pensamos que muitos nunca se deram
+   conta dessa equivocação, e que outros, os quais talvez se tenham dado
+   conta disso, tomaram o partido dessa tradução com a finalidade de
+   transformar fantasma numa espécie de cavalo de batalha para tentar, por
+   meio de um léxico, estabelecer distâncias em relação a grupos e
+   doutrinas não lacanianos. Nesse ponto, aludimos especialmente aos
+   kleinianos — cujos textos apelam em massa para a noção de “fantasia” —,
+   tão abundantes, em particular no Cone Sul.
+
+   A luta dos lacanianos nesses países para implementar a renovação
+   lacaniana da clínica desperta a nossa simpatia e a nossa solidariedade.
+   No entanto, se o objetivo é conferir vida nova a um conceito,
+   modificando seu emprego e seu conteúdo, é completamente inútil
+   abandonar o termo existente e recorrer a um novo, cujo sentido atual —
+   resultado de um longo processo histórico — se pretende eliminar à
+   canetada.
+
+   A reformulação lacaniana do conceito freudiano de “fantasia” passa pela
+   elucidação de sua lógica, e não pela cunhagem de um novo vocábulo, o
+   que, como vimos, Lacan nunca realizou, contentando-se com o termo
+   francês fantasme, comum a todos os psicanalistas de língua francesa.
+
+   Suspeitamos que, para muitos, “fantasma” nada mais é que uma espécie de
+   criptografia, um modo de reconhecer-se entre si como antagonistas de
+   outros. Assim, seu uso se reduz, na melhor das hipóteses, a um
+   santo-e-senha^[8]; e, na pior, a um crachá de congresso.
+
+   Fantasma é um termo de uso muito antigo em espanhol; é atestado desde o
+   século XIII:
+
+   En el Apocalisi Sant Juán Evangelista / Non vido tal figura nin
+   espantable vista; / En grand hato daríe gran lucha é grand conquista; /
+   Non sé de quál diablo es tal fantasma quista. (Arcipreste de Hita,
+   Libro de buen amor, 1011).
+
+   Só séculos mais tarde fantasma mudou de gênero, de feminino para
+   masculino, pois mesmo em 1770 Ramón de la Cruz intitula o seu sainete
+   La fantasma del lugar [A fantasma do lugar]^[9]. Mas igualmente antigo
+   é o termo fantasía:
+
+   Fiziéronse las gentes todas maravilladas, / tenién que fantasía las
+   avié engannadas, / pero a pocca d’ora fueron certifigadas / rendién
+   gracias a Christo todas manos alzadas. (Gonzalo de Berceo, Milagros de
+   Nuestra Señora [El parto maravilloso], 443).
+
+   Portanto, os dois termos coexistiram ininterruptamente desde os
+   primórdios do idioma. Além disso, nenhum deles jamais caiu em desuso ou
+   foi confundido com o outro. Eles tiveram uma existência paralela e
+   independente, com a manutenção de seus sentidos específicos sem nunca
+   se sobrepor ou baralhar.
+
+   O Diccionario de la Real Academia [Dicionário da Real Academia]
+   registra quatro acepções para o vocábulo fantasma:
+
+   (a) Visão quimérica, como a proporcionada por sonhos ou pela acalorada
+   imaginação; (b) Imagem de um objeto que fica impressa na fantasia; (c)
+   Pessoa entojada, sisuda e presunçosa; (d) Abantesma ou pessoa
+   fantasiada que sai à noite para assustar as gentes.
+
+   Não há dúvida de que o uso atual privilegia as acepções (a) e (d).
+   Basta ler os jornais e a literatura contemporânea para verificar.
+   Manchete do La Prensa (Bogotá) de 28/3/1990: “Fantasmas rondan en
+   Casaloma” [Fantasmas assombram Casaloma]. Ou no mesmo jornal, em
+   25/9/1990, a crônica de folhetim proveniente de Valverde de Leganés, na
+   Espanha, em que “os vizinhos vivem em estado de alerta há dias por
+   causa das andanças de um ‘fantasma’ que, segundo a Guarda Civil, sai
+   ‘quase todas as noites’”; e, num nível muito diferente, o livro de
+   poemas de Luis Vidales, El Libro de los fantasmas [O livro dos
+   fantasmas] (os exemplos poderiam ser multiplicados indefinidamente —
+   sem necessidade alguma de trazer à baila aquele personagem mascarado de
+   uma conhecidíssima história em quadrinhos).
+
+   Que exemplo de “fantasma” seria melhor que o espectro do pai de Hamlet
+   — acepção (a) — ou o pai de Ofelia? — acepção (c): “pessoa entojada,
+   sisuda e presunçosa”. Vamos dizer, então, que o pai é, por definição,
+   um fantasma? Talvez seja, mas não descartemos tão rapidamente a
+   distinção freudiana entre a imago do pai e a função paterna, em sua
+   decisiva incidência sobre a fantasia, conforme a estuda Freud, por
+   exemplo, em Uma criança apanha^[10].
+
+   A Enciclopedia del idioma: diccionario histórico y moderno de la lengua
+   española (Siglos XII al XX) etimológico, tecnológico, regional e
+   hispanoamericano [Enciclopédia do idioma: dicionário histórico e
+   moderno da língua espanhola (séculos XII a XX), etimológico,
+   tecnológico, regional e hispano-americano], de Martín Alonso,
+   acrescenta mais alguns significados aos quatro do Diccionario de la
+   Academia [Dicionário da Academia]:
+
+   (e) Na terminologia escolástica, imagem sensível, individual e concreta
+   das coisas, em oposição a uma ideia geral e abstrata: f. TELEV.
+   Aparecimento gradual da imagem na tela, passando da escuridão total à
+   plena visibilidade [visivelmente, tradução de ghost (fantasma), e
+   equivalente televisivo do fading radiofônico], g. Pl. S. XIII,
+   ocasion., Berceo: S. Dom., 70; h. F. magnético. FÍS. Figura obtida
+   quando se jogam limalhas de ferro sobre uma folha de papel colocada no
+   campo magnético de um ímã, que se agrupam formando figuras que
+   determinam as linhas de força do campo magnético mencionado.
+
+   A tudo isso, a Enciclopedia universal ilustrada europeo-americana
+   [Enciclopédia universal ilustrada euroamericana], da editora
+   Espasa-Calpe, volume XXIII, acrescenta uma outra acepção:
+
+   estátua de madeira, na qual os cirurgiões praticam a aplicação de
+   bandagens em operações de parto.
+
+   No entanto, a parte central do artigo que a referida enciclopédia
+   dedica ao conceito de fantasma gira em torno dos espectros e da crença
+   universal no retorno das almas dos mortos após o falecimento. Ele
+   termina remetendo às publicações contemporâneas da Society for
+   Psychical Research [Sociedade de Pesquisas Psíquicas] — da qual Jung
+   foi membro — sobre os Phantasms of the living [Os fantasmas dos vivos]
+   e sua relação com a telepatia^[11].
+
+   O testemunho do Diccionario crítico etimológico de la lengua
+   castellana, de J. Corominas, também é inequívoco: no verbete Fantasía,
+   faz menção a fantasma (certificando seu emprego desde Berceo, Juan Ruiz
+   e Nebrija) definido como “aparição”, “imagem”, “espectro”.
+
+   De modo que a coisa pareceria bastante clara: desde o Arcipreste de
+   Hita até os dias de hoje, fantasma, exceto por raros usos ocasionais e
+   técnicos, quer dizer “espectro”. Observemos também, para o leitor não
+   familiarizado com o idioma francês, que o fantasma espanhol, em
+   francês, não se diz fantasme, mas fantôme — ghost, em inglês, e
+   Phantom, em alemão. E em italiano, de igual maneira, fantasma tem o
+   sentido de espectro:
+
+   Volgarmente si chiamano fantasmi le anime dei morti che ritornano o
+   s’aggirano sulla terra sotto la forma di scheletri o di corpi umani
+   avvolti in un aereo velo.^[12]
+
+   Parece-nos, por isso mesmo, completamente inútil buscar “um sentido não
+   comum” (Dicionário de filosofia de José Ferrater Mora) de “fantasma”
+   como produto: “as imagens produzidas pela fantasia”. Essa distinção
+   fantasia/fantasma (phantasía/phántasma) é uma distinção gnoseológica
+   que remonta a Aristóteles, a quem deve suas cartas nobiliárquicas, e
+   dele provém essa problemática em torno da qual, nas palavras de Lacan,
+   a filosofia ocidental tem girado desde então^[13].
+
+   Porque essa problemática, da qual o par fantasia/fantasma é
+   inseparável, não é outra senão a própria problemática da representação.
+   Ferrater Mora traduz phantásmata (plural, em grego, de phántasma)
+   precisamente como “representações”, e em seu Dicionário nos ensina que
+   a sistematização desse par de termos complementares se deve a
+   Aristóteles, para quem a fantasia está relacionada à apetência, aos
+   movimentos apetitivos em direção a algo desejado, ao passo que os
+   phantásmata (fantasmas) seriam as representações em potência ou
+   “ideias” atualizáveis por meio das percepções. Desse modo, “a fantasia
+   reside em nosso poder de suscitar (‘conjurar’) imagens mesmo quando os
+   objetos ou fontes de sensações não se achem imediatamente
+   presentes”^[14]. Mas qual é, então, o estatuto gnoseológico da fantasia
+   e de seu produto, o fantasma? Eles podem ser objeto de crença e
+   convicção, ou são apenas criações de um espírito ocioso que se diverte
+   com suas imaginações improdutivas? Desde o início, portanto, com essa
+   problemática inaugurada por Aristóteles, nós nos encontramos
+   inevitavelmente imersos em toda a lodosa questão do verdadeiro e do
+   falso, da ilusão e da alucinação, da percepção fiel e da percepção
+   falaciosa. Foram inúmeras as reelaborações e soluções propostas, desde
+   Crisipo, o estoico — que introduziu finas distinções entre a phantasía,
+   o phantastón, o phantastikón e o phántasma^[15] —, até Sartre e os
+   fenomenólogos^[16]. Porém, por mais apaixonantes que sejam as análises
+   dos metafísicos, antigos e modernos, Freud não se inscreve nessa
+   tradição filosófica ocidental^[17] — ao menos se a opinião de Lacan
+   merece de nós algum crédito.
+
+   Na sessão de 16 de dezembro de 1959 do seu seminário A ética da
+   psicanálise, Lacan examina em detalhe a natureza da “representação”, a
+   Vorstellung alemã:
+
+   O caráter de composição imaginária, de elemento imaginário do objeto,
+   faz dele o que se poderia chamar de a substância da aparência, o
+   material de um engodo vital, uma aparição sujeita à decepção de uma
+   Erscheinung [aparição, espectro, fantasma, segundo o Langenscheidts
+   Handwörterbuch Deutsch-Spanisch], diria eu se me permitisse falar
+   alemão, isto é, aquilo em que a aparência se sustenta, mas que é
+   igualmente a aparição da assombração, a aparição corriqueira […]. A
+   Vorstellung é algo de essencialmente descomposto. É aquilo em torno do
+   qual gira, desde sempre, a filosofia do Ocidente, desde Aristóteles, e
+   a phantasía.
+
+   Em Freud a Vorstellung é apreendida em seu caráter radical sob a forma
+   pela qual é introduzida numa filosofia que é essencialmente traçada
+   pela teoria do conhecimento. E é isso que é notável — ele lhe designa,
+   até ao extremo, o caráter ao qual os filósofos, precisamente, não
+   puderam decidir-se a reduzi-la, o de um corpo vazio, de um fantasma
+   [enfatizo, fantôme, no original francês], de um pálido íncubo da
+   relação com o mundo, de um gozo extenuado que constitui seu traço
+   essencial através de toda a interrogação do filósofo. E isolando-a
+   nessa função, Freud a extrai da tradição.^[18]
+
+   Assim, se Freud extrai o conceito de “representação” (Vorstellung) de
+   toda a tradição filosófica ocidental, atribuindo-lhe o caráter de um
+   “fantasma”, “pálido íncubo da relação com o mundo”, não seria
+   aconselhável admitir que, precisamente, a sua “fantasia” (Phantasie)
+   também carece de todo e qualquer vínculo com a metafísica — onde se
+   emparelhava com seu correlato, o “fantasma” —, seja ela qual for
+   (aristotélica, estoica, epicurista, tomista… ou qualquer outra)?
+
+   Desde o início, desde o Projeto de 1895, o próton pseudos^[19] deixará
+   de fazer parte da teoria do silogismo e, como primeira mentira, será a
+   maneira pela qual o sujeito, no nível do inconsciente, diz a primeira
+   verdade; a “fantasia” freudiana não terá mais com a verdade a mesma
+   relação que a problemática metafísica do par indissolúvel
+   “fantasia/fantasma”. A Phantasie freudiana é outra coisa, e é por isso
+   que não vamos encontrar seu sentido especificado em nenhum
+   Wörterbuch^[20].
+
+   Contudo, Phantasie tem uma gama tão ampla de sentidos quanto fantasía,
+   em espanhol — que, de acordo com o Diccionario de la Real Academia
+   [Dicionário da Real Academia], tem ainda mais significados que
+   fantasma. Mas cumpre saber que, se Freud quisesse ter escrito Phantasma
+   (“fantasma”), poderia ter feito, já que esse vocábulo também existe em
+   alemão — embora de uso reconhecidamente escasso fora do contexto da
+   metafísica e da medicina psiquiátrica^[21] —, mas, como quase sempre
+   acontece com Freud, ele preferiu um termo comum do idioma e descartou o
+   vocábulo pouco frequente. Mas, em contrapartida, esse termo Phantasma
+   foi empregado por alguém próximo de Freud, ninguém menos que…. Josef
+   Breuer, em Estudos sobre a histeria, no célebre histórico clínico da
+   “Srta. Anna O”!^[22] E praticamente não há necessidade de lembrar que
+   Freud havia assistido — como deveria ser de conhecimento comum — aos
+   cursos de Frantz Brentano, o grande comentador de Aristóteles e teórico
+   da representação e da fantasia^[23], e nos quais Freud necessariamente
+   se familiarizaria com o uso do par aristotélico fantasia/fantasma.
+   Diante dessas duas referências contemporâneas, que sentido tem invocar
+   — como fazem alguns para justificar a tradução de fantasme por
+   “fantasma” — a função propriamente retórica da “dêixis em fantasma”
+   (Deixis am Phantasma), proposta por K. Bühler, que se produz “quando um
+   narrador leva o ouvinte para o reino do ausente recordável, ou para o
+   reino da fantasia construtiva, e ali o presenteia com os mesmos
+   demonstrativos para que ele possa ver e ouvir o que há ali para ver e
+   ouvir (e tocar, como se sabe, e talvez também cheirar e saborear)?^
+   ^[24]
+
+   Além disso, pode-se sustentar que empregar na psicanálise o conceito
+   metafísico de “fantasma” — por oposição ao seu sentido comum de
+   “espectro” — seria, sem dúvida, privilegiar excessivamente o
+   produto-imagem-objeto às custas da atividade, da “ficção” que a produz.
+   A fantasia freudiana não se reduz a ser a imagem pura e extenuada do
+   objeto. Isso seria desconhecer a sua estrutura gramatical — sua
+   estrutura de relato, estrutura narrativa que implica um sujeito, um
+   verbo e um predicado. Daí apresentar-se como um palco, um roteiro, uma
+   encenação, com atores e libretos. Por certo, o objeto não poderia estar
+   ausente em semelhante encenação (a escrita lacaniana, sem dúvida,
+   salientou isso), mas tampouco se deve esquecer que justamente o objeto
+   a não é suscetível a nenhuma representação especular.
+
+   Por todas essas razões, então, não é de surpreender que todos os
+   tradutores de Freud para o espanhol — desde Luis López Ballesteros y de
+   Torre, passando por Ludovico Rosenthal até José Luis Etcheverry — não
+   tenham hesitado, por um instante sequer, em traduzir Phantasie por
+   fantasía, exatamente como, por razões que já explicitamos, todos os
+   tradutores franceses traduziram o mesmo termo alemão por fantasme
+   (Phantasie = fantasme = fantasía = “fantasia”, ou na ordem que se bem
+   quiser).
+
+   Parece-nos totalmente inverossímil^[25] e incongruente com a posição
+   freudiana toda e qualquer tentativa de traduzir por “fantasma” quando
+   se trata, supostamente, da fantasia originária ou inconsciente
+   propriamente dita, e por “fantasia” quando se trata da fantasia
+   pré-consciente ou do sonho diurno. Sabe-se que, tanto em inglês quanto
+   em francês, há quem tenha tentado introduzir ortograficamente essa
+   distinção, escrevendo phantasy ou phantasme no primeiro caso, e fantasy
+   ou fantasme no segundo. Essas tentativas não prosperaram e, até onde
+   sabemos, Lacan nunca as aprovou ou imitou. Há uma incontornável
+   ambiguidade no emprego freudiano do vocábulo Phantasie, uma oscilação
+   constante que é o que permite a Freud todas as suas análises dos
+   processos criativos nos artistas, as formações das memórias
+   encobridoras, os ataques histéricos, as compulsões obsessivas e também
+   suas especulações acerca das origens da cultura humana etc.; por isso,
+   nenhuma grafia, nenhum truque lexical pode absolver o leitor de sua
+   distração ou desinteresse.
+
+   Por último, então, reservamos para o final o argumento que nos parece
+   mais decisivo: se o termo em espanhol, quando se trata de Freud, é
+   fantasía, não poderia haver um termo distinto quando se trata de Lacan.
+   Isso é muito claro e contundente. Se há dois, um para Freud e outro
+   para Lacan, um dos dois fica sobrando. Na nossa opinião, sobra
+   fantasma.♦
+
+Referências
+
+   BRENTANO, Frantz (1874) “Psicología (Psicología desde el punto de vista
+   empírico)” [Trad. J. Gaos], Revista de Occidente, Madrid, 1926.
+
+   CARRETER, Fernando Lázaro. Diccionario de términos filológicos. Madrid:
+   Credos, 1968.
+
+   CRESTA, Michel (1986) “Sobre los fragmentos de un lenguaje más amplio :
+   para una introducción a ‘La tarea del traductor’ de Walter Benjamin”,
+   Littoral: textos de psicoanálisis, vol. 1. Córdoba: La Torre Abolida.
+
+   DE LA CRUZ, Ramón (1770) Saynete intitulado La fantasma del lugar.
+   Madrid: Librería de Quiroga, 1791.
+
+   FERRATER MORA, José (1981) Diccionario de filosofía, vol. 2, 3a ed..
+   Madrid: Alianza.
+
+   FREUD, Sigmund (1893-95) Obras completas, vol. 2: “Estudos sobre a
+   histeria”. Trad. L. Barreto. São Paulo: Companhia das Letras, 2016.
+
+   _____.  (1895) “Projeto de uma psicologia”. In: GABBI, Jr., Osmyr Faria
+   (2003) Notas a Projeto de uma psicologia. Rio de Janeiro: Imago.
+
+   _____. (1919) Uma criança apanha. Trad. P. S. de Souza Jr. São Paulo:
+   Blucher, no prelo.
+
+   LACAN, Jacques ([1959-60]) O seminário, livro 7: “A ética da
+   psicanálise”. Trad. A. Quinet. Rio de Janeiro: Zahar, 1988.
+
+   LAPLANCHE, Jean; PONTALIS, Jean-Baptisle (1967) Vocabulário da
+   psicanálise. Trad. P. Tamen. São Paulo: Martins Fontes, 1991.
+
+   LE GAUFEY, Guy (1984) “A propósito de la realidad de la fantasía”,
+   Stylus, n. 3. Cali, Colômbia, 1991.
+
+   L’Enciclopedia Italiana di scienze, lettere ed arti, vol. XIV. Roma:
+   Istituto dell’Enciclopedia Italiana, 1949.
+
+   MACKENSEN, Lutz. Deutsches Wörterbuch. Laupheim (Wttbg.): Pfahl Verlag.
+
+   MURATORI, Lodovico (1745) De la fuerza de la fantasía humana [edição
+   fac-similar]. Trad. F. Martínez. Bogotá: Biblioteca Médica Lepetit,
+   1973.
+
+   NAVARRO, Javier (1984) “La subversión lacaniana de la fenomenología”,
+   Stylus, n. 3. Cali, Colômbia.
+
+   PIGEAUD, Jackie (1987) Folies et cures de la folie chez les médecins de
+   l’Antiquité Gréco-Romaine. Paris: Les Belles Lettres.
+
+   RABASA, Gregory, “No two snowflakes are alike: translation as
+   metaphor”. In: BIGUENET, John; SCHULTE, Rainer (1989) The craft of
+   translation. Chicago: The University of Chicago Press.
+
+   ROUDINESCO, Elisabeth (1982) Histoire de la psychanalyse en France, vol
+   1: La bataille de cent ans 1885-1939. Paris: Seuil.
+     __________________________________________________________________
+
+   * Anthony Sampson é professor titular de psicologia clínica no
+   Instituto de Psicologia da Universidad del Valle (Cali, Colômbia).
+   Graduado em psicologia pela mesma instituição, aprofundou seus estudos
+   em psicanálise na Université Paris VII (França). Continuou sua formação
+   clínica em psicanálise na École Lacanienne e no Depto. de Clínica
+   Psicanalítica da Paris VIII. Realiza pesquisas nas áreas de família e
+   cultura, violência e família, identidade e diversidade, e evasão
+   universitária. É membro da École Lacanienne de Paris.
+     __________________________________________________________________
+
+   ** Paulo Sérgio de Souza Jr. é psicanalista e tradutor. Bacharel e
+   doutor em linguística pelo IEL-Unicamp, realizou pós-doutoramento pela
+   Faculdade de Letras da UFRJ. Atuou como professor associado na
+   Universitatea Alexandru Ioan Cuza, em Iași, e como tradutor residente
+   no Institutul Cultural Român, em Bucareste. É pesquisador associado dos
+   grupos de pesquisa Outrarte (Unicamp) e Tradução e Psicanálise (UnB),
+   coordenador da série “pequena biblioteca invulgar” na Editora Blucher,
+   e um dos editores da Lacuna: uma revista de psicanálise. Autor de O
+   fluxo e a cesura: um ensaio em linguística, poética e psicanálise
+   (Blucher, 2023), assina traduções de diversos idiomas ao português
+   brasileiro, sobretudo no campo psicanalítico.
+     __________________________________________________________________
+     __________________________________________________________________
+
+   ^[1]^  CRESTA, Michel (1986) “Sobre los fragmentos de un lenguaje más
+   amplio : para una introducción a ‘La tarea del traductor’ de Walter
+   Benjamin”, Littoral: textos de psicoanálisis, vol. 1. Córdoba: La Torre
+   Abolida, p. 99.
+
+   ^[2] Cf. RABASA, Gregory, “No two snowflakes are alike: translation as
+   metaphor”. In: BIGUENET, John; SCHULTE, Rainer (1989) The craft of
+   translation. Chicago: The University of Chicago Press, p. 6.
+
+   ^[3]^  Citado por Michel Cresta no artigo mencionado.
+
+   ^[4] LAPLANCHE, Jean; PONTALIS, Jean-Baptisle (1967) Vocabulário da
+   psicanálise. Trad. P. Tamen. São Paulo: Martins Fontes, 1991, p. 169;
+   trad. modificada.
+
+   ^[5] ROUDINESCO, Elisabeth (1982) Histoire de la psychanalyse en
+   France, vol 1: La bataille de cent ans 1885-1939. Paris: Seuil, pp.
+   376-395.
+
+   ^[6] LE GAUFEY, Guy (1984) “A propósito de la realidad de la fantasía”,
+   Stylus, n. 3. Cali, Colômbia, 1991, p. 17 [Original francês disponível
+   em: <https://legaufey.fr/seminaires/>  (N. do T.)]
+
+   ^[7] Cumpre notar, além disso, que o termo fantasme comparece na
+   literatura erótico-pornográfica, nos mais variados níveis de
+   formalidade, dentro do sintagma fantasme sexuel [fantasia sexual] — ou,
+   quando fora dele, ecoando-o ainda assim. A bibliografia é vasta:
+
+   (N. do T.)
+
+   ^[8] Em contexto militar, palavras que se comunicam a guardas e
+   sentinelas para reconhecimento de quem se aproxima. (N. de T.)
+
+   ^[9] DE LA CRUZ, Ramón (1770) Saynete intitulado La fantasma del lugar.
+   Madrid: Librería de Quiroga, 1791. Disponível em:
+   <https://archive.org/details/sayneteintitulad02cruz>.
+
+   ^[10] FREUD, Sigmund (1919) Uma criança apanha. Trad. P. S. de Souza
+   Jr. São Paulo: Blucher, no prelo.
+
+   ^[11] Deve-se a criação do termo “telepatia” a Frederic Myers
+   (1843-1901), ensaísta e poeta britânico que dedicou parte da vida às
+   investigações realizadas na Sociedade de Pesquisas Psíquicas, a qual
+   ele ajudou a fundar no Reino Unido em 1882. Professor em Cambridge até
+   1865, interessaram-lhe o psiquismo humano e as atividades paranormais,
+   sendo responsável por livros como Human Personality and its Survival of
+   Bodily Death [A personalidade humana e sua sobrevivência à morte
+   corporal], publicado postumamente em 1903 e editado no Brasil como A
+   personalidade humana (trad. S. O. Freitas, São Paulo: Edigraf, 1971); e
+   o primeiro estudo intensivo sobre aparições, intitulado Phantasms of
+   the Living [Os fantasmas dos vivos] (London: Trübner and Co., 1886).
+   Nos anos 1900, o próprio Freud já se interessava pela possibilidade da
+   transferência de pensamentos, o que se pode constatar na
+   correspondência com Sándor Ferenczi (1873-1933) a respeito desse tópico
+   e de outros relacionados ao ocultismo; e também no fato de que, em
+   1911, o próprio Freud se torna membro honorário da referida sociedade
+   fundada por Myers. Cf. FREUD, Sigmund (1919) O incômodo. Trad. P. S. de
+   Souza Jr.. São Paulo: Blucher, 2021, pp. 78-79.
+
+   ^[12] L’Enciclopedia Italiana di scienze, lettere ed arti, vol. XIV.
+   Roma: Istituto dell’Enciclopedia Italiana, 1949. [Disponível em:
+   <www.treccani.it/enciclopedia/fantasma_(Enciclopedia-Italiana)> (N. do
+   T.)]
+
+   ^[13] LACAN, Jacques ([1959-60]) O seminário, livro 7: “A ética da
+   psicanálise”. Trad. A. Quinet. Rio de Janeiro: Zahar, 1988, sessão de
+   16 de dezembro de 1959.
+
+   ^[14] FERRATER MORA, José (1981) Diccionario de filosofía, vol. 2, 3a
+   ed.. Madrid: Alianza, p. 1127.
+
+   ^[15] Cf. PIGEAUD, Jackie (1987) Folies et cures de la folie chez les
+   médecins de l’Antiquité Gréco-Romaine. Paris: Les Belles Lettres, pp.
+   97-100. [Do grego, respectivamente: φαντασία, φανταστόν, φανταστικόν,
+   φάντασμα (N. do T.)].
+
+   ^[16] Cf. NAVARRO, Javier (1984) “La subversión lacaniana de la
+   fenomenología”, Stylus, n. 3. Cali, Colômbia, pp. 55-61.
+
+   ^[17] Um exemplo simpático da presença desse problema em Nova Granada
+   (1793) pode ser encontrado no tratado De la fuerza de la fantasía
+   humana, de Lodovico Muratori, traduzido por Francisco Martínez, decano
+   da Santa Igreja Metropolitana de Santafé de Bogotá: “Tamanha é, no
+   entanto, a força desses falsos fantasmas profundamente impressos no
+   cérebro, que supera a força da Alma, isto é, da substância pensante, de
+   modo que a própria Alma não só não pode corrigir nessas coisas a
+   viciada fantasia, mas também não percebe o falso e o ridículo dessa
+   sedutora imagem”. MURATORI, Lodovico (1745) De la fuerza de la fantasía
+   humana [edição fac-similar]. Trad. F. Martínez. Bogotá: Biblioteca
+   Médica Lepetit, 1973, p. 107.
+
+   ^[18] LACAN, Jacques ([1959-60]) O seminário, livro 7: “A ética da
+   psicanálise”. Trad. A. Quinet. Rio de Janeiro: Zahar, 1988, p. 79. A
+   versão da Paidós é inutilizável, pois no primeiro parágrafo citado a
+   leviandade da tradução suprime o verbo (“faz”), transformando tudo em
+   puro galimatias. O partido tomado por “fantasma” em vez de “fantasia”
+   impede que fantôme seja traduzido por fantasma, que é o que o
+   dicionário francês-espanhol Larousse propõe como primeira opção —
+   seguida por “quimera”, “ilusão” e “espectro” — para traduzir fantôme.
+
+   ^[19] Cf. FREUD, Sigmund “Projeto de uma psicologia”. In: GABBI, Jr.,
+   Osmyr Faria (2003) Notas a Projeto de uma psicologia. Rio de Janeiro:
+   Imago. (N. do T.)
+
+   ^[20] Do alemão, “dicionário”. (N. do T.)
+
+   ^[21] Cf. MACKENSEN, Lutz. Deutsches Wörterbuch. Laupheim (Wttbg.):
+   Pfahl Verlag, p. 581: “Phantasma: Trugbild, Hirngespinst,
+   Phantasmagorie, Wahnbild, Geistererscheinung auf der Bühne (“Fantasma”:
+   miragem, quimera, fantasmagoria, ilusão, aparição fantasmagórica no
+   palco).
+
+   ^[22] “Durante toda a evolução da doença, os dois estados de
+   consciência coexistiram: o primário, em que a paciente era de todo
+   normal psiquicamente, e o “segundo” estado, que bem podemos comparar ao
+   sonho, em função de sua riqueza em fantasmas [Phantasme] e
+   alucinações”. BREUER, Josef, “Srta. Anna O.”. In: FREUD, Sigmund
+   (1893-95) Obras completas, vol. 2: “Estudos sobre a histeria”. Trad. L.
+   Barreto. São Paulo: Companhia das Letras, 2016, pp. 72-73; trad.
+   modificada.
+
+   ^[23] Cf. BRENTANO, Frantz (1874) “Psicología (Psicología desde el
+   punto de vista empírico)” [Trad. J. Gaos], Revista de Occidente,
+   Madrid, 1926.
+
+   ^[24] CARRETER, Fernando Lázaro. Diccionario de términos filológicos.
+   Madrid: Credos, 1968, p. 130.
+
+   ^[25] Nessa inverosimilhança incorre o tradutor do Vocabulário de
+   Laplanche e Pontalis para o espanhol. O original francês indica que
+   fantasme se traduz por fantasía, em espanhol, mas o Dr. Fernando
+   Cervantes Gimeno, professor associado de Psicologia Médica na Faculdade
+   de Medicina de Barcelona, prefere realizar a complicada manobra, que o
+   próprio Freud nunca quis fazer, de oscilar entre “fantasma” e
+   “fantasia”, na vã esperança de, por fim, ancorar o navio-fantasma nas
+   profundezas do inconsciente, enquanto a fantasia pode ser deixada
+   flutuando à deriva da imaginação totalmente livre. Isso o leva a
+   traduzir, por exemplo, assim: “Parece, então, que a problemática
+   freudiana do fantasma (sic) não apenas não permite efetuar uma
+   distinção de natureza entre fantasma (sic) inconsciente e fantasia
+   (sic) consciente, mas tende a apontar suas analogias, suas relações
+   estreitas, os passos entre elas”. Somos obrigados a nos perguntar se o
+   tradutor lê o que ele traduz.
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+
+   COMO CITAR ESTE ARTIGO | SAMPSON, Anthony (2024) A fantasia não é um
+   fantasma [Trad. Paulo Sérgio de Souza Jr.]. Lacuna: uma revista de
+   psicanálise, São Paulo, n. -16, p. 1, 2024. Disponível em:
+   <https://revistalacuna.com/2024/08/01/n-16-01/>.
+
+Compartilhar
+
+     * Clique para compartilhar no X(abre em nova janela) 18+
+     * Clique para compartilhar no Facebook(abre em nova janela) Facebook
+     *
+
+   Curtir Carregando...
+
+Relacionado
+
+   Publicado em -16, Tradução e etiquetado como fantasia, fantasma, Lacan,
+   Tradução. Favorite o permalink
+
+   Blog no WordPress.com.
+
+Navegação no rodapé
+
+     * Sobre nós
+     * Corpo editorial
+     * Edições anteriores
+     * Normas para publicação (oculta)
+
+Navegação Secundária
+
+     * Facebook
+     * Instagram
+
+     * Pesquisa
+
+Navegação de Posts
+
+   Relações não-monogâmicas como tentativa de cura
+   Editorial
+
+   Pesquisar por: ____________________ Pesquisar
+
+   Digite sua pesquisa acima e pressione Enter para pesquisar. Pressione
+   Esc para cancelar.
+
+     * Reblogar
+     * Assinar Assinado
+          + Lacuna
+            Junte-se a 491 outros assinantes
+            ____________________
+            (Cadastre-me) Cadastre-me
+          + Já tem uma conta do WordPress.com? Faça login agora.
+     * Privacidade
+     *
+          + Lacuna
+          + Assinar Assinado
+          + Registre-se
+          + Fazer login
+          + Copiar link curto
+          + Denunciar este conteúdo
+          + Ver post no Leitor
+          + Gerenciar assinaturas
+          + Esconder esta barra
+
+
+   Carregando comentários...
+
+   Escreva um Comentário
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   E-mail (obrigatório) ____________________
+
+   Nome (obrigatório) ____________________
+
+   Site ____________________
+
+   Publicar comentário
+
+   IFRAME: likes-master
+
+   %d
