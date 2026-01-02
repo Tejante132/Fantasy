@@ -1,0 +1,1412 @@
+   #next
+
+   [tr?id=329765261060453&ev=PageView&noscript=1]
+
+   VI-CONTROL
+   Log in Register
+   System Light Dark
+   What's new
+
+Search
+
+   ____________________ [Everywhere_]
+   [ ] Search titles only
+   By: ____________________
+   (BUTTON) Search (BUTTON) Advanced search…
+   (BUTTON) Menu
+   VI-CONTROL
+   Log in Register
+   What's new
+
+Search
+
+   ____________________ [Everywhere_]
+   [ ] Search titles only
+   By: ____________________
+   (BUTTON) Search (BUTTON) Advanced search…
+
+     * Home
+     * Forums
+       Latest Posts Search forums
+     * What's new
+       Featured content New posts
+     * Song Prod Forum
+
+Alerts
+
+   Loading…
+   Show all… Preferences
+   ____________________
+   [Everywhere_]
+   [ ] Search titles only
+   By: ____________________
+   (BUTTON) Search (BUTTON) Advanced search…
+     * Latest Posts
+     * Search forums
+
+     * Forums
+
+     VIRTUAL INSTRUMENTS & SAMPLE LIBRARIES
+
+     Sample Talk
+
+   JavaScript is disabled. For a better experience, please enable
+   JavaScript in your browser before proceeding.
+
+   You are using an out of date browser. It may not display this or other
+   websites correctly.
+   You should upgrade or use an alternative browser.
+
+Best fantasy music VST?
+
+     * Thread starter darx
+     * Start date Nov 7, 2024
+     * Watchers 25
+
+     * 1
+     * 2
+     * 3
+
+   Next
+   1 of 3
+
+Go to page
+
+   1___________________
+   (BUTTON) Go
+   Next Last
+
+   darx
+
+darx
+
+Member
+
+     * Nov 7, 2024
+
+     *
+     *
+     * #1
+
+   Hey, what are some best fantasy instrument VSTs that you guys think are
+   good? Thinking mainly of something like "Western/European" fantasy like
+   Skyrim and Tavern and minstrel stuff. I've been looking at EastWest
+   Hollywood Fantasy Orchestra, is it good? Can it do quieter tavern
+   stuff? What other VSTs do you all recommend.
+   Thanks in advance!
+   Click to read more...
+
+     * Like
+
+   Reactions: Casiquire
+
+   bosone
+
+bosone
+
+Senior Member
+
+     * Nov 7, 2024
+
+     *
+     *
+     * #2
+
+   EW fantasy is mostly bombastic and "big", and not intimistic or "calm".
+   For quiter mood i would rely on "rinascimento" from fluffy audio (i
+   don't have it)
+
+     * Like
+     * Wow
+
+   Reactions: Casiquire, Namatikapi and darx
+
+   L
+
+Limeopolis
+
+Member
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #3
+
+   ERA II Medieval Legends should fit the bill perfectly.
+
+     * Like
+     * Wow
+
+   Reactions: rlundv, CreativeSpark, EdwinPickett and 5 others
+
+   GtrString
+
+GtrString
+
+Senior Member
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #4
+
+   ProjectSam Lumina is made for the Fantasy genre, and it is absolutely
+   brilliant for it.
+
+     * Like
+     * Wow
+
+   Reactions: Reid Rosefelt, CreativeSpark, reimerpdx and 5 others
+
+   OP
+   OP
+   darx
+
+darx
+
+Member
+
+   Thread starter
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #5
+
+   bosone said:
+
+   EW fantasy is mostly bombastic and "big", and not intimistic or "calm".
+   For quiter mood i would rely on "rinascimento" from fluffy audio (i
+   don't have it)
+   Click to expand...
+
+   Looks interesting! Though i would have to get the full version of
+   kontakt. I see. I'll have to take a deeper look at what kind of sound I
+   want, cuz from what I've heard of Fantasy orchestra, it sounds really
+   nice.
+
+   Limeopolis said:
+
+   ERA II Medieval Legends should fit the bill perfectly.
+   Click to expand...
+
+   hmm, what is the difference between that and the Celtic ERA II? It
+   seems a few years old, does it still hold up well?
+
+   GtrString said:
+
+   ProjectSam Lumina is made for the Fantasy genre, and it is absolutely
+   brilliant for it.
+   Click to expand...
+
+   I've come across this before. I'll take a further look!
+
+   Last edited: Nov 8, 2024
+
+   Draco Solis
+
+Draco Solis
+
+Caffeine Addicted Derp
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #6
+
+   darx said:
+
+   hmm, what is the difference between that and the Celtic ERA II? It
+   seems a few years old, does it still hold up well?
+   Click to expand...
+
+   Era II Medieval Legends takes after more general continental Europe,
+   with a few outliers sprinkled here and there. Celtic Era II focuses
+   specifically on Celtic instruments.
+
+     * Like
+
+   Reactions: Namatikapi, Francisco Relaño Peña and darx
+
+   Gauss
+
+Gauss
+
+The Untalented
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #7
+
+   For Renaissance and Medieval vibes check
+   Rinascimento from Fluffy Audio.
+
+     * Like
+     * Wow
+
+   Reactions: Namatikapi, Francisco Relaño Peña and darx
+
+   Christopher Rocky
+
+Christopher Rocky
+
+Senior Member
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #8
+
+   Lumina in terms of overall package, Rinascimento for medieval
+   instruments, Eduardo Tarilonte: Era 2, Celtic 2 and Dark era would
+   cover everything. Also consider a good harp library, my favorite is
+   cinesamples, there's so much variation and detail with them, but you do
+   get quite a few harps in the Eduardo Tarilonte libraries. Fantasy genre
+   is absolutely my favourite!!
+
+     * Like
+
+   Reactions: Namatikapi and darx
+
+   OP
+   OP
+   darx
+
+darx
+
+Member
+
+   Thread starter
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #9
+
+   Christopher Rocky said:
+
+   Lumina in terms of overall package, Rinascimento for medieval
+   instruments, Eduardo Tarilonte: Era 2, Celtic 2 and Dark era would
+   cover everything. Also consider a good harp library, my favorite is
+   cinesamples, there's so much variation and detail with them, but you do
+   get quite a few harps in the Eduardo Tarilonte libraries. Fantasy genre
+   is absolutely my favourite!!
+   Click to expand...
+
+   How well does Era 2 play since it's an older library?
+
+   doctoremmet
+
+doctoremmet
+
+Collapse of Language
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #10
+
+   A lot of the Karoryfer stuff if you like your fantasy stuff a little
+   quirkier. And Insanity Samples Shire Winds is a nice one.
+
+     * Like
+
+   Reactions: jbuhler, DSmolken, ChiefZika and 2 others
+
+   Saint Mead Night
+
+Saint Mead Night
+
+Member
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #11
+
+   darx said:
+
+   I've been looking at EastWest Hollywood Fantasy Orchestra, is it good?
+   Can it do quieter tavern stuff? What other VSTs do you all recommend.
+   Click to expand...
+
+   What exactly do you mean by quieter tavern stuff - a harp with a flute
+   and some percussion?
+   HFO can totally be used for chill and mellow settings, however it won't
+   provide you with a harp.
+   Besides the above mentioned libraries, you might also find interesting
+   Soniccouture's The Conservatoire Collection. Alas, no harp there
+   either.
+
+     * Like
+
+   Reactions: Namatikapi and darx
+
+   OP
+   OP
+   darx
+
+darx
+
+Member
+
+   Thread starter
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #12
+
+   BeyondBoreas said:
+
+   What exactly do you mean by quieter tavern stuff - a harp with a flute
+   and some percussion?
+   HFO can totally be used for chill and mellow settings, however it won't
+   provide you with a harp.
+   Besides the above mentioned libraries, you might also find interesting
+   Soniccouture's The Conservatoire Collection. Alas, no harp there
+   either.
+   Click to expand...
+
+   Yeah, I'm trying to figure out what I want as well. HFO seems to use
+   small ensembles for a lot of its instruments instead of solo
+   instruments. Do you think it will sound weird when writing more exposed
+   chill parts?
+
+   Trash Panda
+
+Trash Panda
+
+Clueless nitwit
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #13
+
+   Orchestral Tools Grimm if the vibe matches what you’re going for.
+
+     * Like
+     * Wow
+
+   Reactions: djm, jbuhler, Namatikapi and 1 other person
+
+   OP
+   OP
+   darx
+
+darx
+
+Member
+
+   Thread starter
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #14
+
+   Also, Musio seems to offer stuff like V. Dagamba, fiddles, harps, Irish
+   sounds and Scottish sounds. Has anyone tried them?
+
+     * Like
+
+   Reactions: ananmusatili, musicalweather and Namatikapi
+
+   Namatikapi
+
+Namatikapi
+
+Senior Member
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #15
+
+   I agree with the options above !
+   EW Fantasy is good but it's not a very intimate sound because they are
+   ensembles. I also think about Albion Solstice, Groth, Lores (for dark
+   med inspired ambiant and texture) and Sonokenitic Fantasy (if you like
+   working with phrases, and for "light" fantasy).
+   You can also have some very nice solo intruments for a good price :
+   Have audio's Rebec, bass recorder, crumhorn, Kantele are really not
+   pricy, Nordik Folk Strings from Silence and Other sound, and the
+   libraries of Stefano Macarelli for the voices (and many other stuff),
+   in particular Prometheus and Atlantis 3.
+   There is a nice free Irish Harp in the Komplet Start and a beautiful
+   free grand Harp in Project Sam's free orchestra 2.
+   More classic instruments can fit very well for medieval : simple
+   mandolins, flutes, organs, voices can be very useful !
+   Also note that some eastern intruments like the Oud can blend very well
+   into medieval/fantasy inspired music.
+
+   Last edited: Nov 8, 2024
+
+     * Like
+
+   Reactions: Reid Rosefelt, babak, musicalweather and 1 other person
+
+   OP
+   OP
+   darx
+
+darx
+
+Member
+
+   Thread starter
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #16
+
+   Kontakt 8 also comes with some older/ethnic instruments. Has anyone
+   tried those? Best fantasy music VST? Best fantasy music VST?
+
+     * Like
+
+   Reactions: AntDin and tomemitsu
+
+   S
+
+ScarletJerry
+
+Senior Member
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #17
+
+   Sonokinetic Fantasy is great for adding some icing on the cake, but
+   it’s phrase-based, so you really can’t use it to compose. It’s a very
+   nice way to add some sparkle after your composition is finished.
+
+     * Like
+
+   Reactions: Syncopator and Namatikapi
+
+   Namatikapi
+
+Namatikapi
+
+Senior Member
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #18
+
+   darx said:
+
+   Kontakt 8 also comes with some older/ethnic instruments. Has anyone
+   tried those? Best fantasy music VST? Best fantasy music VST?
+   Click to expand...
+
+   There are very few medieval instruments in it (an Hurdy Gurdy - not bad
+   sounding, a fiddle that I don't really like, and some flutes, and the
+   voices maybe). Dulcimers and luths are not medieval (they are asian or
+   eastern instruments in that collection, not the medieval version, even
+   if they can do the job). They are quite simple and variable in quality
+   IMO.
+   If you are looking for an Hurdy Gurdy there are some free ones around
+   (at Sonokinetic for example)
+   Personnal opinion : the new Chris Hein's hybrid winds has a very Howard
+   Shore's sounding ! Maybe you can think about that option too :)
+
+   Last edited: Nov 8, 2024
+
+     * Like
+
+   Reactions: darx
+
+   Draco Solis
+
+Draco Solis
+
+Caffeine Addicted Derp
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #19
+
+   For what it's worth, I've played around with Fantasy Orchestra and
+   agree with others' assessment of it. It surely is a good library and
+   can be used to make a fantasy score really well. If you're just
+   thinking Skyrim overworld, it can surely do that. Probably even an epic
+   tavern-esque theme, if you get creative with it.
+   But if you want something small-scale that can make actual traditional
+   tavern/folk music, then no, it isn't good for that. And to be fair,
+   even Nick Phoenix himself has said that it was never meant to be a
+   competitor to the ERA series or the like. It's an alternate take on the
+   orchestra, not a folk library.
+
+   Last edited: Nov 8, 2024
+
+     * Like
+
+   Reactions: darx, musicalweather and Namatikapi
+
+   ChiefZika
+
+ChiefZika
+
+Hobbyist Lurker
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #20
+
+   For quiet medieval-ish music, I can recommend a few that haven't been
+   mentioned here. Too many, perhaps. But I feel morally obligated to dump
+   this info on you, so BEAR WITH ME!
+   Karoryfer has a great fantasy collection. For the sake of brevity, I
+   won't go into detail, but yes, I agree with the Doc that they have good
+   stuff. Lovely tagelharpas.
+   Embertone's Recorders is a really bangin' collection. Gives you 5
+   recorder registers, from bass to sopranino. You might get also a
+   special discount on it out of nowhere if you get Ivory Wind from them,
+   which is a FREE recorder! If you're not hung on having true legato,
+   though, the Kontakt Factory recorders are perfectly serviceable.
+   You might want some kind of zither or a psaltery. Loops de la Crème's
+   Gipsy Zither is lovely. You can also get a solid free psaltery from
+   Bolder Sounds or Versilian Studio's VCSL collection. VCSL also has a
+   lot of other acoustic instruments, including recorders. A dirt cheap
+   psaltery can be purchased from Xperimenta, who also have a tasty
+   harpsichord. While I'm on the topic of keyboards, you can also get a
+   solid virginal from Sampletekk.
+   Harps. Gotta love harps. The free Irish harp in Komplete Start is quite
+   good. The Fairy Tale Harp from Hephaestus Sounds has a good amount of
+   "dirt" to it, and I'm sure the new harp freebie from Straight Ahead
+   Samples would work well too. A lyre could also work, and Unreal
+   Instruments has a nice one in their free Small Instruments Collection.
+   A frame drum for percussion would be good too. There are tons of good
+   free options, but my personal favorite is Framedrum 22″, available in
+   the Pulse Store... the brushed articulation lets me pretend i'm making
+   weird medieval jazz. (Pro tip: use the SnareBuzz VST on your frame
+   drums to get a cool bristly sound. That said, for other percussion
+   instruments, just about anything is fair game and probably has a solid
+   free option for it as well. Tambourines, triangles, bodhrans,
+   whatever.)
+   As for a fiddle, I'd not only be looking into violin libraries but also
+   viola libraries, as violas sound more like medieval vielles. Obviously
+   an actual vielle would be ideal, but yeah. 8Dio's Deep Solo Viola has
+   the right character for it in my opinion... not an ideal option, but if
+   you want a viola and also want to save money, it'll do the trick. Just
+   don't use the normal legato... literally every other legato patch
+   sounds better.
+   For whistles/flutes, lots of good free options once again, but I really
+   dig the control/variety you can get out of O'Malley's Irish Whistles.
+   Unreal Instruments has a great and very usable free set in their Two
+   Whistles library too.
+   If I knew I'd buy/download all of these, regardless of the discounts I
+   got, I'd have invested in one of the larger packages like ERA II,
+   Rinascimento, Goblinity, or Orcophony. The latter two are very nicely
+   discounted right now actually. You would most definitely get material
+   that overlaps with what i've said, and it'd likely be more
+   cost-effective if you're serious about making fantasy music.
+   But hey, if you need a cheap/free/niche addition to the cast, my list
+   is here for you. I can maybe add a few louder instruments later but
+   this post is long enough as is.
+
+     * Like
+     * Love
+
+   Reactions: Backwards L, Elsewhere8, doctoremmet and 4 others
+
+     * 1
+     * 2
+     * 3
+
+   Next
+   1 of 3
+
+Go to page
+
+   1___________________
+   (BUTTON) Go
+   Next Last
+   You must log in or register to reply here.
+
+   Share:
+   Bluesky Share
+
+     * Forums
+
+     VIRTUAL INSTRUMENTS & SAMPLE LIBRARIES
+
+     Sample Talk
+
+     * System Light Dark
+     *
+
+     * Contact us
+     * Terms and rules
+     * Privacy Policy
+     * Help
+     * Home
+     * RSS
+
+   Community platform by XenForo^® © 2010-2025 XenForo Ltd. | Media embeds
+   via s9e/MediaSites XenForo theme by xenfocus
+
+   Menu
+   Log in
+     __________________________________________________________________
+
+   Register
+     __________________________________________________________________
+
+   Install the app
+   (BUTTON) Install
+   How to install the app on iOS
+
+   Follow along with the video below to see how to install our site as a
+   web app on your home screen.
+
+   Note: This feature may not be available in some browsers.
+
+     * Forums
+     * What's new
+     * Log in
+     * Register
+     * Search
+
+   (BUTTON)
+
+   Back
+
+   Top Bottom
+
+   ____________________
+
+   Web Analytics
+   #next
+
+   [tr?id=329765261060453&ev=PageView&noscript=1]
+
+   VI-CONTROL
+   Log in Register
+   System Light Dark
+   What's new
+
+Search
+
+   ____________________ [Everywhere_]
+   [ ] Search titles only
+   By: ____________________
+   (BUTTON) Search (BUTTON) Advanced search…
+   (BUTTON) Menu
+   VI-CONTROL
+   Log in Register
+   What's new
+
+Search
+
+   ____________________ [Everywhere_]
+   [ ] Search titles only
+   By: ____________________
+   (BUTTON) Search (BUTTON) Advanced search…
+
+     * Home
+     * Forums
+       Latest Posts Search forums
+     * What's new
+       Featured content New posts
+     * Song Prod Forum
+
+Alerts
+
+   Loading…
+   Show all… Preferences
+   ____________________
+   [Everywhere_]
+   [ ] Search titles only
+   By: ____________________
+   (BUTTON) Search (BUTTON) Advanced search…
+     * Latest Posts
+     * Search forums
+
+     * Forums
+
+     VIRTUAL INSTRUMENTS & SAMPLE LIBRARIES
+
+     Sample Talk
+
+   JavaScript is disabled. For a better experience, please enable
+   JavaScript in your browser before proceeding.
+
+   You are using an out of date browser. It may not display this or other
+   websites correctly.
+   You should upgrade or use an alternative browser.
+
+Best fantasy music VST?
+
+     * Thread starter darx
+     * Start date Nov 7, 2024
+     * Watchers 25
+
+     * 1
+     * 2
+     * 3
+
+   Next
+   1 of 3
+
+Go to page
+
+   1___________________
+   (BUTTON) Go
+   Next Last
+
+   darx
+
+darx
+
+Member
+
+     * Nov 7, 2024
+
+     *
+     *
+     * #1
+
+   Hey, what are some best fantasy instrument VSTs that you guys think are
+   good? Thinking mainly of something like "Western/European" fantasy like
+   Skyrim and Tavern and minstrel stuff. I've been looking at EastWest
+   Hollywood Fantasy Orchestra, is it good? Can it do quieter tavern
+   stuff? What other VSTs do you all recommend.
+   Thanks in advance!
+   Click to read more...
+
+     * Like
+
+   Reactions: Casiquire
+
+   bosone
+
+bosone
+
+Senior Member
+
+     * Nov 7, 2024
+
+     *
+     *
+     * #2
+
+   EW fantasy is mostly bombastic and "big", and not intimistic or "calm".
+   For quiter mood i would rely on "rinascimento" from fluffy audio (i
+   don't have it)
+
+     * Like
+     * Wow
+
+   Reactions: Casiquire, Namatikapi and darx
+
+   L
+
+Limeopolis
+
+Member
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #3
+
+   ERA II Medieval Legends should fit the bill perfectly.
+
+     * Like
+     * Wow
+
+   Reactions: rlundv, CreativeSpark, EdwinPickett and 5 others
+
+   GtrString
+
+GtrString
+
+Senior Member
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #4
+
+   ProjectSam Lumina is made for the Fantasy genre, and it is absolutely
+   brilliant for it.
+
+     * Like
+     * Wow
+
+   Reactions: Reid Rosefelt, CreativeSpark, reimerpdx and 5 others
+
+   OP
+   OP
+   darx
+
+darx
+
+Member
+
+   Thread starter
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #5
+
+   bosone said:
+
+   EW fantasy is mostly bombastic and "big", and not intimistic or "calm".
+   For quiter mood i would rely on "rinascimento" from fluffy audio (i
+   don't have it)
+   Click to expand...
+
+   Looks interesting! Though i would have to get the full version of
+   kontakt. I see. I'll have to take a deeper look at what kind of sound I
+   want, cuz from what I've heard of Fantasy orchestra, it sounds really
+   nice.
+
+   Limeopolis said:
+
+   ERA II Medieval Legends should fit the bill perfectly.
+   Click to expand...
+
+   hmm, what is the difference between that and the Celtic ERA II? It
+   seems a few years old, does it still hold up well?
+
+   GtrString said:
+
+   ProjectSam Lumina is made for the Fantasy genre, and it is absolutely
+   brilliant for it.
+   Click to expand...
+
+   I've come across this before. I'll take a further look!
+
+   Last edited: Nov 8, 2024
+
+   Draco Solis
+
+Draco Solis
+
+Caffeine Addicted Derp
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #6
+
+   darx said:
+
+   hmm, what is the difference between that and the Celtic ERA II? It
+   seems a few years old, does it still hold up well?
+   Click to expand...
+
+   Era II Medieval Legends takes after more general continental Europe,
+   with a few outliers sprinkled here and there. Celtic Era II focuses
+   specifically on Celtic instruments.
+
+     * Like
+
+   Reactions: Namatikapi, Francisco Relaño Peña and darx
+
+   Gauss
+
+Gauss
+
+The Untalented
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #7
+
+   For Renaissance and Medieval vibes check
+   Rinascimento from Fluffy Audio.
+
+     * Like
+     * Wow
+
+   Reactions: Namatikapi, Francisco Relaño Peña and darx
+
+   Christopher Rocky
+
+Christopher Rocky
+
+Senior Member
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #8
+
+   Lumina in terms of overall package, Rinascimento for medieval
+   instruments, Eduardo Tarilonte: Era 2, Celtic 2 and Dark era would
+   cover everything. Also consider a good harp library, my favorite is
+   cinesamples, there's so much variation and detail with them, but you do
+   get quite a few harps in the Eduardo Tarilonte libraries. Fantasy genre
+   is absolutely my favourite!!
+
+     * Like
+
+   Reactions: Namatikapi and darx
+
+   OP
+   OP
+   darx
+
+darx
+
+Member
+
+   Thread starter
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #9
+
+   Christopher Rocky said:
+
+   Lumina in terms of overall package, Rinascimento for medieval
+   instruments, Eduardo Tarilonte: Era 2, Celtic 2 and Dark era would
+   cover everything. Also consider a good harp library, my favorite is
+   cinesamples, there's so much variation and detail with them, but you do
+   get quite a few harps in the Eduardo Tarilonte libraries. Fantasy genre
+   is absolutely my favourite!!
+   Click to expand...
+
+   How well does Era 2 play since it's an older library?
+
+   doctoremmet
+
+doctoremmet
+
+Collapse of Language
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #10
+
+   A lot of the Karoryfer stuff if you like your fantasy stuff a little
+   quirkier. And Insanity Samples Shire Winds is a nice one.
+
+     * Like
+
+   Reactions: jbuhler, DSmolken, ChiefZika and 2 others
+
+   Saint Mead Night
+
+Saint Mead Night
+
+Member
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #11
+
+   darx said:
+
+   I've been looking at EastWest Hollywood Fantasy Orchestra, is it good?
+   Can it do quieter tavern stuff? What other VSTs do you all recommend.
+   Click to expand...
+
+   What exactly do you mean by quieter tavern stuff - a harp with a flute
+   and some percussion?
+   HFO can totally be used for chill and mellow settings, however it won't
+   provide you with a harp.
+   Besides the above mentioned libraries, you might also find interesting
+   Soniccouture's The Conservatoire Collection. Alas, no harp there
+   either.
+
+     * Like
+
+   Reactions: Namatikapi and darx
+
+   OP
+   OP
+   darx
+
+darx
+
+Member
+
+   Thread starter
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #12
+
+   BeyondBoreas said:
+
+   What exactly do you mean by quieter tavern stuff - a harp with a flute
+   and some percussion?
+   HFO can totally be used for chill and mellow settings, however it won't
+   provide you with a harp.
+   Besides the above mentioned libraries, you might also find interesting
+   Soniccouture's The Conservatoire Collection. Alas, no harp there
+   either.
+   Click to expand...
+
+   Yeah, I'm trying to figure out what I want as well. HFO seems to use
+   small ensembles for a lot of its instruments instead of solo
+   instruments. Do you think it will sound weird when writing more exposed
+   chill parts?
+
+   Trash Panda
+
+Trash Panda
+
+Clueless nitwit
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #13
+
+   Orchestral Tools Grimm if the vibe matches what you’re going for.
+
+     * Like
+     * Wow
+
+   Reactions: djm, jbuhler, Namatikapi and 1 other person
+
+   OP
+   OP
+   darx
+
+darx
+
+Member
+
+   Thread starter
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #14
+
+   Also, Musio seems to offer stuff like V. Dagamba, fiddles, harps, Irish
+   sounds and Scottish sounds. Has anyone tried them?
+
+     * Like
+
+   Reactions: ananmusatili, musicalweather and Namatikapi
+
+   Namatikapi
+
+Namatikapi
+
+Senior Member
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #15
+
+   I agree with the options above !
+   EW Fantasy is good but it's not a very intimate sound because they are
+   ensembles. I also think about Albion Solstice, Groth, Lores (for dark
+   med inspired ambiant and texture) and Sonokenitic Fantasy (if you like
+   working with phrases, and for "light" fantasy).
+   You can also have some very nice solo intruments for a good price :
+   Have audio's Rebec, bass recorder, crumhorn, Kantele are really not
+   pricy, Nordik Folk Strings from Silence and Other sound, and the
+   libraries of Stefano Macarelli for the voices (and many other stuff),
+   in particular Prometheus and Atlantis 3.
+   There is a nice free Irish Harp in the Komplet Start and a beautiful
+   free grand Harp in Project Sam's free orchestra 2.
+   More classic instruments can fit very well for medieval : simple
+   mandolins, flutes, organs, voices can be very useful !
+   Also note that some eastern intruments like the Oud can blend very well
+   into medieval/fantasy inspired music.
+
+   Last edited: Nov 8, 2024
+
+     * Like
+
+   Reactions: Reid Rosefelt, babak, musicalweather and 1 other person
+
+   OP
+   OP
+   darx
+
+darx
+
+Member
+
+   Thread starter
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #16
+
+   Kontakt 8 also comes with some older/ethnic instruments. Has anyone
+   tried those? Best fantasy music VST? Best fantasy music VST?
+
+     * Like
+
+   Reactions: AntDin and tomemitsu
+
+   S
+
+ScarletJerry
+
+Senior Member
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #17
+
+   Sonokinetic Fantasy is great for adding some icing on the cake, but
+   it’s phrase-based, so you really can’t use it to compose. It’s a very
+   nice way to add some sparkle after your composition is finished.
+
+     * Like
+
+   Reactions: Syncopator and Namatikapi
+
+   Namatikapi
+
+Namatikapi
+
+Senior Member
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #18
+
+   darx said:
+
+   Kontakt 8 also comes with some older/ethnic instruments. Has anyone
+   tried those? Best fantasy music VST? Best fantasy music VST?
+   Click to expand...
+
+   There are very few medieval instruments in it (an Hurdy Gurdy - not bad
+   sounding, a fiddle that I don't really like, and some flutes, and the
+   voices maybe). Dulcimers and luths are not medieval (they are asian or
+   eastern instruments in that collection, not the medieval version, even
+   if they can do the job). They are quite simple and variable in quality
+   IMO.
+   If you are looking for an Hurdy Gurdy there are some free ones around
+   (at Sonokinetic for example)
+   Personnal opinion : the new Chris Hein's hybrid winds has a very Howard
+   Shore's sounding ! Maybe you can think about that option too :)
+
+   Last edited: Nov 8, 2024
+
+     * Like
+
+   Reactions: darx
+
+   Draco Solis
+
+Draco Solis
+
+Caffeine Addicted Derp
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #19
+
+   For what it's worth, I've played around with Fantasy Orchestra and
+   agree with others' assessment of it. It surely is a good library and
+   can be used to make a fantasy score really well. If you're just
+   thinking Skyrim overworld, it can surely do that. Probably even an epic
+   tavern-esque theme, if you get creative with it.
+   But if you want something small-scale that can make actual traditional
+   tavern/folk music, then no, it isn't good for that. And to be fair,
+   even Nick Phoenix himself has said that it was never meant to be a
+   competitor to the ERA series or the like. It's an alternate take on the
+   orchestra, not a folk library.
+
+   Last edited: Nov 8, 2024
+
+     * Like
+
+   Reactions: darx, musicalweather and Namatikapi
+
+   ChiefZika
+
+ChiefZika
+
+Hobbyist Lurker
+
+     * Nov 8, 2024
+
+     *
+     *
+     * #20
+
+   For quiet medieval-ish music, I can recommend a few that haven't been
+   mentioned here. Too many, perhaps. But I feel morally obligated to dump
+   this info on you, so BEAR WITH ME!
+   Karoryfer has a great fantasy collection. For the sake of brevity, I
+   won't go into detail, but yes, I agree with the Doc that they have good
+   stuff. Lovely tagelharpas.
+   Embertone's Recorders is a really bangin' collection. Gives you 5
+   recorder registers, from bass to sopranino. You might get also a
+   special discount on it out of nowhere if you get Ivory Wind from them,
+   which is a FREE recorder! If you're not hung on having true legato,
+   though, the Kontakt Factory recorders are perfectly serviceable.
+   You might want some kind of zither or a psaltery. Loops de la Crème's
+   Gipsy Zither is lovely. You can also get a solid free psaltery from
+   Bolder Sounds or Versilian Studio's VCSL collection. VCSL also has a
+   lot of other acoustic instruments, including recorders. A dirt cheap
+   psaltery can be purchased from Xperimenta, who also have a tasty
+   harpsichord. While I'm on the topic of keyboards, you can also get a
+   solid virginal from Sampletekk.
+   Harps. Gotta love harps. The free Irish harp in Komplete Start is quite
+   good. The Fairy Tale Harp from Hephaestus Sounds has a good amount of
+   "dirt" to it, and I'm sure the new harp freebie from Straight Ahead
+   Samples would work well too. A lyre could also work, and Unreal
+   Instruments has a nice one in their free Small Instruments Collection.
+   A frame drum for percussion would be good too. There are tons of good
+   free options, but my personal favorite is Framedrum 22″, available in
+   the Pulse Store... the brushed articulation lets me pretend i'm making
+   weird medieval jazz. (Pro tip: use the SnareBuzz VST on your frame
+   drums to get a cool bristly sound. That said, for other percussion
+   instruments, just about anything is fair game and probably has a solid
+   free option for it as well. Tambourines, triangles, bodhrans,
+   whatever.)
+   As for a fiddle, I'd not only be looking into violin libraries but also
+   viola libraries, as violas sound more like medieval vielles. Obviously
+   an actual vielle would be ideal, but yeah. 8Dio's Deep Solo Viola has
+   the right character for it in my opinion... not an ideal option, but if
+   you want a viola and also want to save money, it'll do the trick. Just
+   don't use the normal legato... literally every other legato patch
+   sounds better.
+   For whistles/flutes, lots of good free options once again, but I really
+   dig the control/variety you can get out of O'Malley's Irish Whistles.
+   Unreal Instruments has a great and very usable free set in their Two
+   Whistles library too.
+   If I knew I'd buy/download all of these, regardless of the discounts I
+   got, I'd have invested in one of the larger packages like ERA II,
+   Rinascimento, Goblinity, or Orcophony. The latter two are very nicely
+   discounted right now actually. You would most definitely get material
+   that overlaps with what i've said, and it'd likely be more
+   cost-effective if you're serious about making fantasy music.
+   But hey, if you need a cheap/free/niche addition to the cast, my list
+   is here for you. I can maybe add a few louder instruments later but
+   this post is long enough as is.
+
+     * Like
+     * Love
+
+   Reactions: Backwards L, Elsewhere8, doctoremmet and 4 others
+
+     * 1
+     * 2
+     * 3
+
+   Next
+   1 of 3
+
+Go to page
+
+   1___________________
+   (BUTTON) Go
+   Next Last
+   You must log in or register to reply here.
+
+   Share:
+   Bluesky Share
+
+     * Forums
+
+     VIRTUAL INSTRUMENTS & SAMPLE LIBRARIES
+
+     Sample Talk
+
+     * System Light Dark
+     *
+
+     * Contact us
+     * Terms and rules
+     * Privacy Policy
+     * Help
+     * Home
+     * RSS
+
+   Community platform by XenForo^® © 2010-2025 XenForo Ltd. | Media embeds
+   via s9e/MediaSites XenForo theme by xenfocus
+
+   Menu
+   Log in
+     __________________________________________________________________
+
+   Register
+     __________________________________________________________________
+
+   Install the app
+   (BUTTON) Install
+   How to install the app on iOS
+
+   Follow along with the video below to see how to install our site as a
+   web app on your home screen.
+
+   Note: This feature may not be available in some browsers.
+
+     * Forums
+     * What's new
+     * Log in
+     * Register
+     * Search
+
+   (BUTTON)
+
+   Back
+
+   Top Bottom
+
+   ____________________
+
+   Web Analytics

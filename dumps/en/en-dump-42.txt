@@ -1,0 +1,4200 @@
+
+     * Home
+     * Tools
+       ▼
+         1. Armor Creator
+         2.
+         3. Army Formation Creator
+         4.
+         5. Blueprint Creator
+         6.
+         7. Calendar Creator
+         8.
+         9. Castle Creator
+        10.
+        11. Coat of Arms Creator
+        12.
+        13. Coin Creator
+        14.
+        15. Combat & Initiative Tracker
+        16.
+         1. Constellation Map Creator
+         2.
+         3. Culture Creator
+         4.
+         5. Currencies
+         6.
+         7. Dice Generator
+         8.
+         9. Dungeon Creator
+        10.
+        11. Emblem Creator
+        12.
+        13. Encounter Difficulty Calculator
+        14.
+        15. Family Tree Creator
+        16.
+         1. Flag Creator
+         2.
+         3. Grammar Creator
+         4.
+         5. Language Generator
+         6.
+         7. Map Creator
+         8.
+         9. Monster/Spell Card Creator
+        10.
+        11. Notice Board Creator
+        12.
+        13. Outfit Creator
+        14.
+        15. Pantheon Creator
+        16.
+         1. Periodic Table Creator
+         2.
+         3. Planet Interior Creator
+         4.
+         5. Population Generator
+         6.
+         7. Random Loot Generator
+         8.
+         9. Random Shop Inventory
+        10.
+        11. Random Tavern Menu
+        12.
+        13. RPG Villain Generator
+        14.
+        15. Scroll Creator
+        16.
+         1. Solar System Creator
+         2.
+         3. Space Base Creator
+         4.
+         5. Space Encounter
+         6.
+         7. Summoning Circle
+         8.
+         9. Tarot Cards
+        10.
+        11. Timeline Creator
+        12.
+        13. Town Creator
+        14.
+        15. Weapon Creator
+        16.
+
+     Guides
+   ▼
+       Game master (GM) guides
+
+    1. Avoiding Character Deaths
+    2.
+    3. Becoming a Better GM
+    4.
+    5. Campaign Creation Example >
+        Main guide
+         1. NPCs
+    6.
+    7. Character Ideas: Corruption
+    8.
+    9. Character Ideas: Immortality
+   10.
+   11. Character Ideas: Puns!
+   12.
+   13. Creating NPCs
+   14.
+   15. Critical Failures
+   16.
+
+    1. Describing Spells
+    2.
+    3. Describing Voices
+    4.
+    5. Dungeon Creation
+    6.
+    7. Encounters: Combat
+    8.
+    9. Encounters: Puzzles & Traps
+   10.
+   11. Encounters: Social
+   12.
+   13. Evil Campaigns
+   14.
+   15. First Time GM
+   16.
+
+    1. Handling Character Deaths
+    2.
+    3. Handling Meta Gaming
+    4.
+    5. Handling Min-Maxing
+    6.
+    7. Homebrewing Classes
+    8.
+    9. Homebrewing Loot
+   10.
+   11. Homebrewing Monsters
+   12.
+   13. Improvisation
+   14.
+
+    1. Leveling Through Story Telling
+    2.
+    3. Loot Distribution
+    4.
+    5. No GM, Now What?
+    6.
+    7. Party Bonding
+    8.
+    9. Quest Ideas & Prompts
+   10.
+   11. Rotating GMs
+   12.
+   13. Railroad or sandbox?
+   14.
+
+    1. RPG Campaign Prompts
+    2.
+    3. RPG Campaign Prompts (Sci-Fi)
+    4.
+    5. RPG Location Ideas
+    6.
+    7. RPG Locations: Cities
+    8.
+    9. RPG Locations: Dungeons
+   10.
+   11. Setting the Mood
+   12.
+   13. Starting a Campaign
+   14.
+
+   Writing & other guides
+    1. Animal Creation
+    2.
+    3. Armor & Weapon Creation
+    4.
+    5. Army Creation
+    6.
+    7. Book Titles
+    8.
+    9. Building Creation
+   10.
+   11. Character Creation
+   12.
+   13. City/Town Creation
+   14.
+   15. Clothing Creation
+   16.
+
+    1. Fictional Technology
+    2.
+    3. Foreshadowing
+    4.
+    5. History Creation >
+         1. Guide
+         2. Example
+    6.
+    7. Language Creation >
+         1. Part 1
+         2. Part 2
+         3. Part 3
+         4. Part 4
+         5. Part 5
+    8.
+    9. Magic Creation
+   10.
+   11. Map Creation >
+         1. 1. Tectonic Plates
+         2. 2. Climates
+         3. 3. Nature
+   12.
+   13. Name Styles
+   14.
+   15. Overcoming Creative Blocks
+   16.
+
+    1. Plot Creation
+    2.
+    3. Religion Creation >
+         1. Part 1
+         2. Part 2
+         3. Part 3
+    4.
+    5. Society Creation
+    6.
+    7. Species Creation
+    8.
+    9. Starting a Story
+   10.
+   11. Superpower Creation
+   12.
+   13. Units of Measurement
+   14.
+
+    1. Warrior Types >
+         1. Africa
+         2. Americas
+         3.
+         4. East Asian
+         5.
+         6. India
+         7.
+    2.
+    3. World Building >
+         1. Part 1
+         2. Part 2
+         3. Part 3
+    4.
+    5. Writing Body Language >
+         1. Part 1
+         2. Part 2
+    6.
+    7. Writing Character Motivations
+    8.
+    9. Writing Combat
+   10.
+   11. Writing Dialogue >
+         1. Part 1
+         2. Part 2
+         3. Part 3
+         4. Part 4
+         5. Exercises
+   12.
+   13. Writing Evil Characters
+   14.
+
+    1. Writing Humor
+    2.
+    3. Writing Pain
+    4.
+    5. Writing Romance
+    6.
+    7. Writing Scenery
+    8.
+    9. Writing Scenes
+   10.
+   11. Writing Speeches
+   12.
+   13. Writing a Story Within a Story
+   14.
+
+     Puzzles
+   ▼
+       Regular puzzles
+
+    1. Balance Puzzle
+    2.
+    3. Between the Folds
+    4.
+    5. Dissection Puzzle
+    6.
+    7. Eight Queens
+    8.
+    9. False Pillar
+   10.
+
+    1. Four Seasons
+    2.
+    3. Fill the Bowl
+    4.
+    5. Green Eyes
+    6.
+    7. Identity Paradoxes
+    8.
+    9. Knights & Knaves
+   10.
+
+    1. Missing Coin
+    2.
+    3. Mixing Problem
+    4.
+    5. Pirate's Gold
+    6.
+    7. Prisoners & Hats
+    8.
+    9. River Crossing
+   10.
+
+    1. Socks Puzzle
+    2.
+    3. Speak to Enter
+    4.
+    5. Table of Coins
+    6.
+    7. Theseus & the Minotaur
+    8.
+
+    1. Time Out
+    2.
+    3. Train Shunting
+    4.
+    5. World's Hardest Logic Puzzle
+    6.
+    7. Zebra Puzzle
+    8.
+
+   Nikoli puzzles (grid based)
+    1. Corral
+    2.
+    3. Country Road
+    4.
+    5. Dosun Fuwari
+    6.
+    7. Five Cells
+    8.
+    9. Hashiwokakero
+   10.
+
+    1. Hebi
+    2.
+    3. Heyawake
+    4.
+    5. Hotaru Beam
+    6.
+    7. Inshi no Heya
+    8.
+    9. Keisuke
+   10.
+
+    1. Kurodoko
+    2.
+    3. Light Up
+    4.
+    5. Moon or Sun
+    6.
+    7. Nansuke
+    8.
+    9. Numberlink
+   10.
+
+    1. Satogaeri
+    2.
+    3. Shikaku
+    4.
+    5. Slitherlink
+    6.
+    7. Stained Glass
+    8.
+
+    1. Suraromu
+    2.
+    3. Tatamibari
+    4.
+    5. Yajilin
+    6.
+    7. Yosenabe
+    8.
+
+     Music
+   ▼
+     * Songs
+     * How free?
+
+     DIY
+   ▼
+
+    1. Cards >
+         1. Expanding Cards
+         2. Dr. Who Tardis Card
+    2.
+    3. Crystals (Salt)
+    4.
+    5. Crystals (Sugar)
+    6.
+    7. Coasters (Cork)
+    8.
+
+    1. Coasters (Epoxy)
+    2.
+    3. Customize Glasses
+    4.
+    5. Dice Bag (Round Bottom)
+    6.
+    7. Dice Bag (Simple)
+    8.
+
+    1. Game Master Screen >
+         1. Main Guide
+         2. Tips & Tricks
+    2.
+    3. Hologram Phone
+    4.
+    5. Paper Chests
+    6.
+
+    1. Paper Figurines
+    2.
+    3. Paper Gems
+    4.
+    5. Parchment
+    6.
+
+    1. Scented Candles
+    2.
+    3. Scent Guide - Candles
+    4.
+    5. Tabletop Trees
+    6.
+
+     Contact
+
+     Thank You
+
+   Feel free to share
+
+   [logoDef.png] Using this site means trees will be planted. ^.^
+   (Find out more)
+
+Fantasy music
+
+   Below you'll find a huge range of royalty free music made by me. I'm
+   not that great at it, so don't expect professionally crafted music, I'm
+   still learning. But it is free to use, to some extent anyway. For more
+   information on how you can and cannot use it, click here.
+   I love creating music, so there will be more songs in the future,
+   probably one every week.
+
+   You can download my music on Soundcloud using the links below each
+   song.
+
+   Click on an album cover to display their songs down below. You can
+   click on multiple to show more of them. They will be listed
+   alphabetically, from left to right.
+   [kitsune.jpg] Total songs: 10
+   [phoenix.jpg] Total songs: 11
+   [fairy.jpg] Total songs: 6
+   [dryad.jpg] Total songs: 7 (8)
+   [yeti.jpg] Total songs: 7
+   [banshee.jpg] Total songs: 5 (6)
+   [wisp.jpg] Total songs: 8
+   [kraken.jpg] Total songs: 6
+   [spaceWhale.jpg] Total songs: 10
+   [arachne.jpg] Total songs: 8
+   [orc.jpg] Total songs: 8
+   [elf.jpg] Total songs: 11
+   [vampire.jpg] Total songs: 10
+   [sphinx.jpg] Total songs: 7
+   [oni.jpg] Total songs: 9
+   [automaton.jpg] Total songs: 7
+   [valkyrie.jpg] Total songs: 9
+   [quetzalcoatl.jpg] Total songs: 2
+   [treant.jpg] Total songs: 3
+   [felineFamiliar.jpg] Total songs: 2
+   [earth.jpg] Total songs: 1
+   [showAll.jpg] All songs: 155 (157)
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   A New Hunger
+
+   A coldness descends from your neck down your entire body. With every
+   breath you take you can feel the humanity leaving you. Your skin grows
+   colder and whiter, you feel a creeping sensation in your mouth as fangs
+   grow longer, and your heart pumps faster and faster in a frenzied panic
+   until it stops beating at all. All that is left is a cold shell and an
+   insatiable hunger for blood.
+   [felineFamiliar.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Abra-Cat-Abra
+
+   Prey caught fresh and bowl of milk. Eye of newt and spider's silk. Brew
+   for hours until mid-night, to fill it with a wondrous fright.
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Adrenaline Rush
+
+   The battle rages and the tides are in your favor. Enemy after enemy
+   falls before your blade and wave after wave of adrenaline rushes
+   through your vein as if waging a battle of their own.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Anticipation
+
+   Heart's racing, blood's pumping, adrenaline's coursing through every
+   vein. Soon the moment of truth will be upon you, but all you can do for
+   now is wait in anticipation.
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Approaching Hel
+
+   The path to the dead is long and treacherous, but one that could be
+   taken by both gods and mortals seeking to bring back a loved one from
+   their untimely end. Yet the most dangerous part of all lies at the end
+   of your journey: bargaining with Hel to reclaim the soul of your dearly
+   departed.
+   [arachne.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Arachne's Web
+
+   A prey caught in a web, shadows move along its edges. Footsteps
+   approach. Many, many footsteps. A huge creature emerges, half spider,
+   half woman, followed by countless spiders both big and small. She
+   welcomes her prey, clearly revelling in the prey's sticky situation.
+   The prey knows its over, but not before Arachne's had her fun. It will
+   be a long and agonizing end.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Attack
+
+   A song of the rush of adrenaline during battle, the drums of impending
+   doom, and the looming grasp of death.
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Awaiting A Valkyrie
+
+   The battle is fought and death was glorious. With ax in hand the
+   valkyries will surely be upon you soon. Life was rough, but
+   magnificent. The home you love will surely be missed, and those left
+   behind might not all make it to Valhalla. The realization is bitter,
+   but the Valkyries will bring you to the eternal halls as promised and
+   within them you shall feast among the gods and all hurt and pain will
+   be but a distant memory.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Balance
+
+   A song of inner peace, tranquility, and a sense of calm.
+   [orc.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Battle of Chiefs
+
+   Power is everything to orcs and the only way to gain more is by
+   defeating warchiefs for their share of it. Two chiefs enter, only one
+   tends to leave, but everyone wins. The victor gains more power, the
+   spectators a spectacle, and the defeated warchief gets to die honorably
+   in a blaze of glory.
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Battle Rush
+
+   As the battle rages on and the tides begin to turn evermore into your
+   favor, the rush of adrenaline and fear turns to one of bloodlust and
+   joy. This battle can be won, these enemies can be vanquished, you can
+   destroy them all!
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Bifröst
+
+   From far away the bifröst seems like a glimmering spectacle of a path
+   fit only for the gods. You can only imagine what it must be like to
+   traverse it. Moving further and further from home and deeper and deeper
+   into the loneliness of space. But each step further away from home is a
+   step closer to the gods, a step closer to the realm of glory and
+   unimaginable magnificence. Perhaps one day you'll catch a glimpse of
+   it.
+   [banshee.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Bittersweet
+
+   Everything comes to an end sooner or later, but few things leave us
+   with a feeling of contentment when their end comes. The sadness of an
+   end can overpower the feelings of joy and the precious memories we can
+   still enjoy, and when we do enjoy those moments they're often
+   bittersweet to say the least.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Blood sacrifice
+
+   A song of growing and growing chants, louder and louder drums, the
+   impending doom of what awaits at the end.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Breaking Through
+
+   Two armies battle, soldier after soldier falls on both sides, and for a
+   while it seems to be an even match. Adrenaline and fear dominate the
+   battlefield, but particularly skilled, or perhaps simply lucky,
+   soldiers manage to break up the ranks of their enemies. A chance for
+   victory, fear is replaced with hope, hope of making it out alive, but
+   the battle is far from over.
+   [automaton.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Broken Cogs
+
+   Life on the street is difficult even for an automaton. Without
+   maintenance the elements gradually chip away at the little cogs and
+   wheels within, and the lack of fresh oil prevents everything from
+   moving as smoothly as it once did. The future looks most grim and
+   uncertain at this hour.
+   [arachne.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Burn Down Their Homes
+
+   Eye for an eye is the spider's motto and they've got plenty to spare.
+   Over and over again they watched as humans burned down their webs and
+   eradicated all traces of their homes. Now it's time to turn the tables
+   and give those two-legged monsters what they deserve.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Burn to Ashes
+
+   The night horizon glows orange, a blazing fire rages in the distance.
+   The torches of monsters set everything ablaze. Slowly the inferno
+   creeps closer, burning everything in its path. Fields of crops, homes
+   and villages, forests once lush and green, the livelihood and memories
+   of countless people. Only soot and ash will remain.
+
+   IFRAME: https://www.youtube.com/embed/oZ8jBa927VQ
+
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Caught in a web
+
+   You're stuck. Twelve hellish furies, you're stuck. The more you move,
+   the more you get yourself stuck in their tenacious webs. Stay calm and
+   think for a moment, there must be a way out. Too late, they're coming.
+   More and more of them, big ones, small ones, huge ones too. They're
+   crawling all of you. Not a moment is wasted before they begin to wrap
+   you in a cocoon. Hundreds of furry legs eagerly prepare you, their
+   meal, and soon all that's left is a creepy darkness. The sounds of
+   their crawling still audible through the cocoon, but that will end soon
+   enough too.
+   [yeti.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Carpet of Snow
+
+   As you sit huddled up in a comfy chair by the crackling fire, a cup of
+   body warming chocolate milk between your hands and your eyes staring
+   through the window at the vast landscape beyond snow starts falling
+   every so slightly at first. It doesn't take long before it intensifies
+   and all the land becomes covered in a thick layer of fresh snow that
+   lights up what seems like the entire world.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Charge!
+
+   The horns sound the incoming cavalry, the chaos of battle, and the
+   turning of tides. More horns, incoming reinforcements. The tides turn
+   again.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Chased
+
+   A song inspired by the terrible feeling of being followed, but in a
+   more dramatic and terrifying fashion.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Children of the Forest
+
+   Even in the deepest center of the elves' town, countless creatures dart
+   and dash their way from branch to branch, bush to bush, and through
+   homes and shops without a care in the world. The young elves take great
+   pleasure in chasing the small forest bunnies, the young deer and the
+   stumbling owlets. The older elves simply enjoy the spectacle from a
+   hopefully safe distance.
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   City of Monsters
+
+   Deep within the darkest shadows exists a city of creatures unseen by
+   most. Creatures big and small, furry and slimy, and everything in
+   between, the city of monsters is home to all those who relish in the
+   fear they strike in the hearts of men.
+   [orc.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Clashing Armies
+
+   The horns of war echo through the air. Two armies charge for one
+   another, and with a clash of swords, spears, shields, and screams they
+   meet. Battle shouts quickly turn to screams of terror and lust for
+   blood, countless arrows fly from one side to the other, and a stampede
+   of a cavalry comes in from the side. The battle rages on, it's
+   impossible to tell who will lose the most, but that's about the last
+   thing on the minds of those caught in the midst of it.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Company of Stars
+
+   Endless space and an eternal darkness, yet around you is nothing but
+   light from stars too distant to reach. They light your path as if
+   inviting you to visit them, unfortunately you cannot. Your mission
+   takes you elsewhere, though far away it still lies. But until you reach
+   your destination, the company of stars is a one you gladly keep.
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Conquering Aegir
+
+   Wave after wave clashes against the wooden ships, their beams creak and
+   moan with every hit. Still, the sailors are determined to make it
+   through and not even Aegir himself can stop them, though not for a lack
+   of trying.
+   [arachne.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Crawling All Over
+
+   One by one they creep and crawl
+   Up your legs and up your wall
+   Run you may, escape you can't
+   "Tonight we feast", they sing and chant
+   All around they hunt you down
+   In tiny legs you'll surely drown
+   Surrounded now from floor to ceiling
+   To the spider queen you will be kneeling
+   [kraken.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Creatures In The Depths
+
+   Deeper and deeper your vessel ventures, darker and darker the waters
+   get. Even with torches you see very little, but there are creatures who
+   can see you perfectly fine. What was that sound? Just the sounds of
+   metal from your vessel, right?
+   [arachne.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Creeping Royalty
+
+   Deep within dark caverns covered in webs and cocoons, live dark
+   creatures eager to catch their next prey. Terrifying as they may be,
+   they have a queen they worship, and a court to go with it. But it's
+   best to avoid this court at all costs if you value your life.
+   [sphinx.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Crumbling City
+
+   Sanded stones and wind beaten pillars of a once mighty wall now grant
+   you access to the city within without as much as a struggle. Inside you
+   find a city half covered in sand, half crumbling to become sand.
+   Nothing awaits you within this lost city, yet something irks you on to
+   take a closer look.
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Cursed Immortality
+
+   A single bite gave you immortality and powers beyond your dreams, but
+   at a grave cost. Countless years have gone by and countless friends
+   were taken from you. Your powers, impressive as they may be, can't save
+   them. Not unless you inflict upon them the same curse inflicted upon
+   you.
+   [fairy.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Dance of the Fae
+
+   An enchanting song inspired by fae creatures, hidden within communities
+   in the thickest and lushest forests.
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Darkest Lair
+
+   Darkness, cold and lifeless tunnels lead from a cave entrance all the
+   way down to the quarters of a vampire lord. No creature dares to enter
+   these tunnels, not even spiders or bats, for dark magics are at play
+   and one would be wise to avoid contact at all costs.
+   [earth.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Dawning of Life
+
+   Here, on a small, lucky planet, life began to flourish many eternities
+   ago. Today, countless creatures live together in a precarious balance
+   of life and death, for the life of some is only possible through the
+   death of others. Though despite or perhaps because of this, the world
+   is full of beauty and wonder.
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Death, Destruction & Despair
+
+   When a clan of vampires descends upon a town, there's no running and
+   there's no hiding. The faster your heart beats, the faster they'll find
+   you, and they'll stop at nothing before they do. Their thirst for blood
+   can only be quenched by death, but they'll make you wish it was only
+   death they bring to your door.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Death March
+
+   A song of impending doom, or perhaps the dreadful final walk before the
+   final goodbye.
+   [kraken.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Deep-Sea Predator
+
+   Searching the ocean depths for life in a tiny vessel is dangerous and
+   eerie work, but the wonders of the ocean are a mystery waiting to be
+   uncovered. One such mystery revealed itself to you now as it rams the
+   vessel with a powerful force. Fear and wonder mix together into strange
+   emotions. You're the first to discover this monstrous species, and
+   while you should be safe within this vessel, these darkest depths can
+   be a lonely and frightening place for a beastly encounter.
+   [sphinx.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Desert Journey
+
+   A journey of danger and adventure awaits between the edge of the desert
+   and the trade city in the middle of it. Scorching days and freezing
+   nights, sandy dunes upon sandy dunes without any water in sight,
+   dangerous creatures lurking below the sands, and a whole lot more stand
+   in between you and your end goal. Good luck.
+   [dryad.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Desolate Wasteland
+
+   A song inspired by dry landscapes, devoid of all but the most tenacious
+   life forms.
+   [quetzalcoatl.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Early Bird
+
+   After the morning rain is chased away by a rising sun, the early bird
+   begins its song. Unsure at first, it tests for an audience. Upon
+   hearing others, it begins to sing its morning song before being joined
+   by others. Even the jungle itself seems to hum along.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Elusive Elves
+
+   Deep within the thickest and lushest of forests live elves unseen by
+   most. Stories of encounters have turned into legends, only adding to
+   the elves' elusive reputation. The truth is far simpler, of course, as
+   the elves simply do not wish to be found. They're masters at hiding and
+   using the forests, their homes, to make sure they're only found when
+   they choose to be found.
+   [sphinx.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Endless Dunes
+
+   Travel in the desert can be monotonous and endless to those unfamiliar
+   with its secrets. Scorching days are followed by freezing nights in an
+   endless loop, every dune seems to be followed by another that looks
+   exactly the same, and, no matter where you look, there never seems to
+   be anything other than sand and sky.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Enemy Vessel
+
+   An enormous vessel approaches. Its dark, looming presence eclipses your
+   much smaller vessel as red alarm lights flicker on and off. Against
+   your better judgment you hope it hasn't spotted you, but you soon
+   notice their tractor beam is pulling your vessel closer and closer to
+   theirs.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Eternal Life
+
+   Eternal life offers eternal opportunities. Time to perfect skills, time
+   to truly get to know the world, and time to see the world change over
+   the centuries. With every passing season, new changes bring new
+   experiences and new ways to create, enjoy, and experience the world for
+   all its glory.
+   [wisp.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Exploring
+
+   A song inspired by the lust for adventure, the excitement of
+   exploration, and the wonder of what lurks behind the next hill.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Fear the Dark
+
+   Terrible things lurk in the dark, glistening eyes watch from the
+   shadows, and nothing good awaits those who dare to venture into the
+   dark abyss. Or it could just be regular shadows, who knows. ^.^
+   [fairy.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Follow My Steps
+
+   A playful dance between two different beings, one copying the other,
+   until both are intertwined in a playful dance.
+   [orc.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Forges of War
+
+   Clanking hammers, raging fires, and thick clouds of smoke and ash can
+   be seen, heard, and smelled for miles around. Hideous weapons are
+   forged by and for hideous creatures, each of them eager to test their
+   creations, and coat them in blood.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Four Horsemen
+
+   War, Death, Famine, and Pestilence, the Four Horsemen of the
+   Apocalypse. The chase is on, panic sets in, and the thundering of
+   hooves gets closer and closer, will they catch up with you or will you
+   escape just in time?
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   From Ashes Reborn
+
+   As ash and soot are cast away by wind, rain and time, new trees and
+   plants grow to form a new forest. New homes are built and new fields of
+   a wide range of crops are sown and grown. The undoing of destruction is
+   slowly undone. No soot or ash will remain.
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   From Fjord to Njord
+
+   Icy winds push your ship through the fjord's freezing waters. High
+   above, the sun peeks over the rocky edges, but none of it reaches down
+   to touch your skin. The winds howl like sledge dogs eager to take you
+   to your promised riches, but down here your fate lies within the hands
+   of the gods. Time will tell how they favor you.
+   [yeti.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Frozen Plains
+
+   A song inspired by the vast, open fields of snow, the glistening sparks
+   of ice, and the tranquil silence within these fields.
+   [yeti.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Frozen Sunrise
+
+   Even before the first beams of light rise over the horizon, the
+   landscape is bathed in the clear light of the moon. Crisp snow reflects
+   its light everywhere and it's soon joined by the warm rays of the sun.
+   The pristine white snow becomes a radiant orange turning the snowy
+   landscape into one that seems like it is on fire.
+   [yeti.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Frozen Wonders
+
+   A song inspired by the crisp, wintry landscapes, the cold blanket that
+   covers everything in a quiet layer of sparkles, and the secrets hidden
+   beneath this layer of white.
+   [orc.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Gathering Armies
+
+   Two armies gather, their drums echo from afar, and their footsteps
+   march as one. Huge orcs versus a smaller enemy, but they share their
+   lust for blood and desires for war. They may look different, they may
+   fight for slightly different reasons, but in their drums and cries for
+   war they're all the same.
+   [fairy.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Glade of Delight
+
+   Thick, lush trees make way for a single path toward the tranquil
+   clearing. Sunlight and shadows dance through the leaves, while
+   butterflies, bees, and other insects flutter and flap from flower to
+   flower. Playful creatures frolic in the tall grasses, all under the
+   watchful eye of the guardians of the forest; strange beings, with an
+   infinite love for nature. This is their glade, their pride and joy.
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Glorious End
+
+   Surrounded by enemies during an ambush, you ready yourself for what
+   will very likely be your final fight. Swords at the ready, hearts
+   racing, and a bittersweet feeling overcomes you. To die in battle would
+   be to die with honor, but it's a shame this battle might be your last.
+   [wisp.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Good Old Days
+
+   Gone are the good old days of playing with friends without a care in
+   the world, living life to the fullest without a burden. Still, even in
+   their ghostly form, the wisps love to think of the good old days and
+   reenact them with fellow wisps or unknowing woodland travelers. But
+   it's never the same.
+   [kraken.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Great reef
+
+   A song inspired by the majestic blues of the deep, the sparkling lights
+   on the coral reefs, the darting fish between the rocks, and the gentle
+   swaying of the waves.
+   [treant.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Growing and Growing
+
+   Year after year after year, the young trees grow and grow to ever
+   increasing heights in a constant battle for sunlight. Time passes and
+   the world changes around them, yet steady on they grow until they reach
+   an age of maturity and are ready to become a true titan among trees and
+   treants.
+   [treant.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Growing Spurs
+
+   Tiny seedlings grow into young saplings in no time, but they have a
+   long way to grow yet. A fight for light means a race to the top, but
+   strong winds and careless animals are a far bigger worry. But those who
+   make it will have a good chance of joining the company of the mighty
+   treants around them.
+   [banshee.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Heartstrings
+
+   Pun totally intended. A song inspired by the bittersweet pain felt
+   after a loss, or felt just before an inevitable end.
+   [sphinx.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Hidden Treasures
+
+   Hidden beneath layers of sand and rock are hidden treasures of ancient
+   times. Riddled with traps, but waiting to be found by those who seek
+   them, or perhaps eagerly awaiting new specimens to their collection.
+   [wisp.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Home Sweet Home
+
+   Home is where the heart is, and while it has taken the wisp quite a bit
+   of time to adjust to their new life after death, they now feel at home
+   in the woods they inhabit. Once scary trees are now familiar faces,
+   woodland critters are no longer the source of scary sounds, but of
+   sounds of joy, and some have even grown to like the wisp in return.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Hope is not Lost
+
+   A song inspired by the rising feeling of knowing it's not over, knowing
+   there's one more chance, knowing now is the time for that final push.
+   [orc.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   The Hunters Gather
+
+   Tribes from all around the land have gathered for the great hunt and
+   many still continue to arrive. The many little tribes now an army of
+   spears, bows, muscle and an eagerness to hunt their prey. Who or what
+   their prey will be is still undecided for rituals have to be fulfilled
+   to be granted this answer by the higher powers.
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   I May Have This Dance
+
+   A classy ball progresses deeper into the night with dance after dance
+   keeping the spirits high. An eerily pale, yet somewhat charming looking
+   stranger approaches and, without as much as a bow, looks you in the
+   eyes. For a moment fear takes over, you realize what this stranger is!
+   But a sinister, hair-raising force takes control of you, and you get up
+   to join him on the ballroom floor for a dance.
+   [automaton.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   I'm Alive
+
+   With every turn of the key, life begins to tick within me. My eyes open
+   slowly, my arm moves with a quick burst of energy, and a cog in my
+   chest starts to tick at a steady pace. Enthusiasm and wonder take hold
+   of me as I run around the room from object to object, far too eager to
+   explore everything I can. Soon I find a window and I stop in awe. An
+   entire world awaits me, an entire world is there to be explored and
+   experienced, and I can't wait to do so.
+   [automaton.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   In Shambles
+
+   Little is left of what was once a happy little automaton. Memories of
+   what was mix in with what is, broken cogs and twisted parts prevent the
+   automaton from marching on, and much needed repairs seem to be a
+   wishful hope of a foolish machine.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   In Too Deep
+
+   Deep within the lair of evil, surrounded by forces on all sides,
+   caution is critical lest you're spotted. Being seen, being heard, being
+   smelled, or being felt, all of these will lead to certain doom.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Incoming
+
+   A song of impending doom, a barrage of a violence, and a brief moment
+   of rest, before the next attack commences.
+   [kraken.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Into the Abyss
+
+   Deeper and deeper into the darkest depths you sink alongside the steep
+   cliff-side wall that offers the only sign of being anywhere at all.
+   Darkness has surrounded you for hours, but you could swear you see a
+   faint lights in the distance now. The deeper you sink, the brighter
+   they become. What could possibly be out there?
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Into the Den
+
+   Tread carefully into the den of a monster, dangers lurk in every
+   corner, and the monster may already know you're coming.
+   [arachne.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Itsy Bitsy Legion
+
+   Itsy bitsy legion
+   Marched down the hill as one
+   Down with the humans
+   Your fire has not won
+   Caught in our webs
+   We'll eat your flesh tonight
+   And the itsy bitsy legion
+   Marched on with all their might
+   [dryad.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Jungle Morning
+
+   A quiet jungle morning, the still air only broken by the distant sound
+   of animals waking up to the morning sun. But they in turn cause others
+   to wake up, and the jungle soon begins to bustle with life once more.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Lazy Afternoon
+
+   When the sun sits high in the sky and its rays trickle through the
+   forest canopies, nothing beats a lazy afternoon of hanging in a
+   hammock, sipping on a drink and basking in the radiant warmth of the
+   sun while the forest continues its vibrant display of life around you.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Leaf on the River
+
+   A song inspired by the flowing motions of a leaf floating on a river,
+   the path it takes along the calming flows, the rushing rapids, and the
+   eventual end of the journey.
+   [dryad.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Lonely Desert
+
+   Endless sands without a sign of life, the scorching sun followed by the
+   freezing moon, the desert can be a lonely place indeed.
+   [dryad.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Lonely Desert (No Drums)
+
+   Endless sands without a sign of life, the scorching sun followed by the
+   freezing moon, the desert can be a lonely place indeed.
+   This is a version without the drums in the background, for an added
+   layer of loneliness.
+   [wisp.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Lonely Light
+
+   A once bright life cut short by a tragic event now wanders these
+   forests as a dim, floating force of light. Seemingly without purpose
+   and without end, the little wisp exists on within the forests who know
+   more than they let on.
+   [orc.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   The Long Journey
+
+   Finding new lands to rebuild their home was no easy feat. Day after day
+   of desert, wasteland and swamps stood in the way of their newfound
+   prairie lands. The soils are rich and ready to be farmed, the forests
+   dense and ready to be harvested, and the orcs and tired and ready to
+   setup camp before rebuilding their new capital city.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Looking Back
+
+   Eternal life offers eternal possibilities to work toward a better
+   future, but once in a while it's good to look back at all that came
+   before. Life came and went, friendships grew, settlements expanded and
+   quality of life increased. Not all of it was a smooth journey, but
+   these lessons of the past will aide future efforts.
+   [fairy.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Lost Child
+
+   A song of the despair felt when lost, with the innocent thread of a
+   child intertwined among the chaos.
+   [automaton.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Lost, Not Found
+
+   With no show, no home and less and less friends, the little automaton
+   was lost in a bigger and bigger world. With nowhere to go, all the
+   automaton could do is roam the same streets he once paraded on. The
+   future was uncertain and terrifying, but the automaton kept going
+   nonetheless. Perhaps one day he'll find a place to call home once more.
+   [banshee.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Love and Loss
+
+   A bittersweet song inspired by the end of love, which can come in all
+   too many forms.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   March of Giants
+
+   Gigantic, docile beasts march through the equally towering landscape of
+   mountains. All you can do is stand and watch in awe as they trek
+   through the mountain passages, each beast as breathtaking as the next.
+   There's so many of them, and so many different species too. But before
+   you know it, the last one already ventures behind a mountain slope, out
+   of sight, but not yet out of mind.
+   [orc.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   March to War
+
+   A mass of orcs marches as one. Armor clanks with every step, drums set
+   the pace with every beat, and warscreams fill the air with ferocious
+   tenacity. The orcs are on a path to war, and they will bring death and
+   destruction wherever they go.
+   [arachne.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Master's Plan
+
+   Countless legs and little voices carry whispers through the night,
+   whispers of a grand plan their master came up with. Should everything
+   go well, the feast will be grand and the little voices will turn from
+   quiet whispers to squeals of delight.
+   [automaton.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Mecha Parade
+
+   Without as much as a word of instruction, the little automaton was put
+   in a line with countless other mechanical beings. Huge, round beings
+   with gigantic drums, smaller ones like him, except with a long,
+   trumpet-like nose they were holding with both hands, and countless
+   more. But before he had the time to take them all in, the big ones
+   started to bang their drums, and everybody started moving as one.
+   Whether it was the rhythm or some sort of instinct, the little
+   automaton soon started to dance and enjoy himself, perhaps even more so
+   than the crowd of people that had gathered to watch this parade. He
+   felt like it was as if he was made for this.
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Melancholia
+
+   What was supposed to be an exciting hunt for the next unwilling blood
+   donor turned into a melancholic trip down memory lane. An unfortunate
+   victim turns out to be quite a look-a-like and triggers memories of
+   lives past and tragedies of old. This victim will live, for now.
+   [wisp.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Memories
+
+   A song inspired by the bittersweet feelings felt when reminiscing about
+   the past, longing for those amazing moments you had, but knowing you'll
+   never have those exact moments again. At least there's always moments
+   to be had in the future. ^.^
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Metamorphosis
+
+   You fight the urge to drink the blood of the innocent, but the more you
+   fight, the more you feel a change within you. The thirst starts to
+   manifest itself in the form of a true monster as your veins pulse with
+   a creepy energy, one that immediately begins to change your very being.
+   Your hands grow longer and gnarly, twisted claws grow from your finger
+   nails. Your back arcs forward as two leathery wings sprout from
+   nowhere. Your irises disappear as your eyes grow and turn milky, and
+   your visage turns elongated and thin. This is your true vampiric form,
+   the true monster within you.
+   [fairy.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Midnight Sneak
+
+   A song of the night, the careful steps of one who tries to sneak out of
+   the house, or perhaps into someone else's.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Moment of Solitude
+
+   Once in a while a calm moment of reflection serves as a perfect way to
+   clear your mind. Watching the world go by from a simple leaf drifting
+   in the wind to the currents of a nearby creek take its waters to a sea
+   far beyond the horizon, it's a great way to connect with the world and
+   disconnect from whatever may trouble your mind at any given moment.
+   [quetzalcoatl.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Monkey Kingdom
+
+   When the sun is out and the fruits are ripe, the monkey tribe hangs out
+   in the trees and fills their bellies with fruity riches. The old take
+   it slow, eager to regain some energy while the young play about and
+   swing from tree to tree without a single care in the world.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Moonrise
+
+   As the sun sinks lower and lower behind the horizon, the forest grows
+   darker and darker. It seems to go quiet, peaceful even as animals begin
+   to prepare for their nightly slumber, but soon a whole different kind
+   of life begins to awaken. As soon as the sun makes way for the moon,
+   countless flowers open up and turn their crowns toward the sky.
+   Nocturnal creatures of all sizes can be seen and heard all around, and
+   the forest itself comes to life with a luminescent energy.
+   [fairy.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Morning Strolling
+
+   A peaceful song inspired by the quiet of the morning, the moment when
+   nocturnal creatures go to rest, and diurnal creatures slowly wake up.
+   [dryad.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Mystery Forest
+
+   A song inspired by the many secrets hidden within a forest, the
+   creatures lurking in silence until you pass, and the tiny lifeforms
+   seen only when you pay close attention.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Nearly There
+
+   Almost, just a little more. A rush of adrenaline, the joy of knowing
+   it's not much longer, time for that final push.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   New Beginnings
+
+   What may start as a single, simple seed can grow into a vast oasis of
+   life and splendor. The elves regularly plant such seeds in chosen spots
+   and give it time, love, and care when need be to ensure these little
+   trees grow into large trees, who in turn offer the right environment
+   for other trees, plants, shrubs and animals to grow and thrive.
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   New Enemy Approaches
+
+   On the horizon a group of riders approach. They look in your direction,
+   talk to each other, and then wave a banner high in the air. Nothing
+   happens for a moment, but then, with the sound of thunder, an immense
+   horde of riders on horseback appears along the horizon too. This can't
+   be good.
+   [automaton.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   New Home, New Friends
+
+   Amazing friends is all the little automaton needed to feel at home in
+   his new home, and that's exactly what he's been given. The diverse cast
+   of the marching band has quickly welcomed him into their home. Music,
+   games and a world of laughter and fun are the daily routine in between
+   the various marching band performances; the little automaton can't get
+   enough of it.
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Night Infiltration
+
+   A few quick movements in the shadows, noticed by a couple of guards,
+   quickly turn into swift strikes leaving the guards unconscious. The
+   figures continue on through the city, remaining hidden as best they
+   can. A patrol spots them, but after a quick fight are taken out as
+   well. The figures continue to reach their target, preparing for an
+   assassination.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   No Escape
+
+   There's nowhere to run, and nowhere to hide. The vast emptiness of
+   space was once a gorgeous sight, but now a thorn in your eye. An
+   unrelenting chase continues through the vastness of space as your
+   pursuer's ship keeps up with your every move.
+   [dryad.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Observant Jungle
+
+   Countless creatures lurk in the jungles, some playful and curious to
+   see who you are, others menacing and out to see what you taste like.
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   On The Hunt
+
+   With bow in hand and a target in sight, nothing can stop the huntress.
+   No snow too thick, no mountain too high and no weather too cold. Mighty
+   beasts will make for grandiose feasts fit for the gods and the huntress
+   is sure to provide.
+   [orc.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Orc Capital
+
+   Hidden within the frozen mountain peaks of a desolate land lies the orc
+   capital in plain sight. Walls of metal and wood stand out clearly even
+   against the ashen-soiled snows of the surrounding area, and the plumes
+   of thick, black smoke coming from the many forges and furnaces can be
+   seen even on a cloudy day. Home sweet home for the orcs.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Out of Time
+
+   A song inspired by the impending doom of an end, the end, any end. The
+   feeling of dread that comes with knowing you can't avoid this end.
+   [wisp.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Passage of Time
+
+   A song inspired by the passage of time, often depicted through stunning
+   time-lapses in which the effects of time can truly be shown.
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Preparations For War
+
+   Swords are sharpened and shields are readied. All the banner-men are
+   rallied and soon the drums of war will begin their songs of courage.
+   Glory awaits to those who fight, dishonor to those who run. But the
+   battle will show who's heart is strong enough to face their enemy.
+   [dryad.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Quiet Lake
+
+   A peaceful lake of sapphire water sits amids gentle sloping hills in
+   the middle of nowhere. It is home to a variety of animals, each buzzing
+   and crawling about their daily lives. For those less busy, this lake is
+   a perfect place to come to relax and reflect upon life.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Quiet Mountaintop
+
+   High atop an overgrown mountain awaits a world of solitude and peace.
+   Below the world continues, but here above a breath of fresh air can
+   provide a well needed moment of tranquility among the often peculiar
+   creatures who make this mountain their home. All around you birds can
+   be heard, some from down below, others from heights beyond even your
+   reach.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Reaching Home
+
+   The planet, your planet, grows bigger and bigger as you get closer and
+   closer. Just a little while longer. So many things will have changed,
+   so many people will have changed, you have changed. But none of that
+   matters now, soon you'll be home again.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Reluctant Enemies
+
+   Neither one wants to fight, both know they have to. Only one will come
+   out on top, which is the very fact that makes both opponents so
+   reluctant.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Rise Minions
+
+   Rise, minions, your time has come. Rise, minions, and dance to this
+   beat! I mean, conquer the enemy or something. ^.^
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Rising Tensions
+
+   Two great nations live side by side, each with their own ideas and
+   ambitions, but both in relative peace. Their ambitions would see the
+   destruction of the other however, and both sides know it. Borders
+   become reinforced, armies for defence are seen as preparations for war,
+   and war starts to be seen as more and more inevitable.
+   [sphinx.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Ruins of Dendezar
+
+   Within the city walls of Dendezar death is all there is, yet the echos
+   of what once was continue to breathe a ghostly semblance of life into
+   the labyrinth of roads. Even the winds are capable of bringing life
+   back by playing tricks on the ear. Bustling markets, playing children
+   and musical performances seem to come from nowhere.
+   [sphinx.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Scorching Sun
+
+   There's no escape from the heat. Scorching rays of the sun bombard
+   everything from above, and the hot, shifting sands cover every foot
+   with every step. The journey is still far from over, unless this heat
+   doesn't end it prematurely.
+   [treant.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Seedlings
+
+   As the last of the winter's snow melts, thousands of seedlings awaken
+   from their slumber. Protected by the canopies of their elders, they
+   race toward the light and spread their leaves to take full advantage of
+   its life giving energies. This first season of their lives is of the
+   utmost importance and will determine whether these seedlings will join
+   their ancient siblings high up in the canopy or whether they will
+   perish and return to the soils below.
+   [sphinx.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Serpent Pass
+
+   Endless dunes of hot sand stretch out beyond every horizon like a path
+   carved by a giant snake. It's the only way to get from city to city,
+   but shifting sands and changing dunes make it near impossible to
+   navigate for anyone but the locals.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Shields Are Down
+
+   Blast after blast hits with an eerie precision. The shields are down,
+   the ship won't hold forever, escape is the only way out. But there's
+   nowhere to run or hide in space, nowhere except for the most dangerous
+   parts. Asteroid fields may be the only way, but without shields they
+   may just as easily be the end as well.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Shockwaves
+
+   As your ship cruises through space your ship sounds the alarms for an
+   incoming energy wave. You're not sure what the type or cause of it is,
+   but bracing for impact is all you can do. Is it an enemy ship?
+   Unforeseen solar flares? Perhaps a different kind of space phenomena?
+   Who knows, but it keeps happening over and over.
+   [automaton.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Show's Over
+
+   It seemed like only yesterday the little automaton had gotten to be
+   part of the grand parade, but now the show was over. A lack of interest
+   meant a lack of funding and so the little automaton and his friends
+   were kicked out on the street. They still had each other, even if some
+   chose different paths, but with an uncertain future things looked dire
+   indeed.
+   [yeti.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Snowflakes At Night
+
+   The night is dark and quiet under a thick layer of clouds. The air is
+   crisp and unmoving, but then, out of the vast blackness above, a
+   snowflake dwindled from the air. Then another and another. Countless
+   thick snowflakes begin to fall out of the blackness above, as if coming
+   from some magical abyss.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Song for Spring
+
+   The days grow longer and warmer, though winter still remains. To help
+   the coming of spring, the elves sing and chant to welcome life's
+   abundance back to their homes. Wait a little long they must, but if
+   nothing else, their songs warm their hearts until the sun's full
+   return.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Spirit Parade
+
+   Countless spirits big and small march and float through the forest
+   path. Their luminescent forms turn the forest into a kaleidoscope of
+   colors, ever changing, and seemingly infinite. More and more spirits
+   pass your vision, but they barely acknowledge you, if at all. They
+   wiggle, twirl, and dance their way to some unknown destiny, and all you
+   can do is enjoy the show.
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Spoils of War
+
+   With new lands and conquests divided among the victors, all there's
+   left to do is to enjoy the spoils of war and celebrate with a grand
+   feast. Life is good for the living, and those who sacrificed themselves
+   will be celebrated and remembered.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Spring's Arrival
+
+   With the arrival of spring coming closer and closer, flowers take
+   advantage of the moist soils and a bounty of sunlight able to penetrate
+   through the barren treetops. Eager to bask in this radiant warmth, more
+   and more plants and flowers pop up from beneath a crisp layer of snow
+   with the single message: spring is coming.
+   [arachne.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Stealing Fire
+
+   Countless legs creep through the night, unseen for now in the darkest
+   shadows. They creep across the ceiling, crawl across the floor, and
+   seek the light used to fuel their demise. They find it soon and squee
+   in glee, as their tiny hands grab bits of flaming wood. Soon a trail of
+   little flames lights the thousands of little invaders and a trail from
+   fire to hideout. Those who listen closely might hear faint, happy
+   voices say things like: "Who will kill with fire now?".
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Storm
+
+   A song inspired by the thunder in the distant, the rain growing and
+   growing in intensity, and the barrage of noise unleashed when the storm
+   truly hits.
+   [dryad.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Summer Rain
+
+   A song inspired by the gentle, soothing rain in summer. The welcome
+   coolness, and the washing away of dust by the lukewarm drops.
+   [kraken.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Sunken City
+
+   Algae covered columns, coral encrusted walls, flowing seaweed on the
+   flooded roads. A city lost in a sea of time, pun intended. ^.^
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Sunny Afternoon
+
+   What better way to take advantage of a long, elvish lifespan than to
+   enjoy the quiet days for what they are. The sun glistens through the
+   treetops, water from a nearby creek cascades gently down the smoothened
+   rocks, birds sing their songs across the forest tops. There's so much
+   to enjoy, and plenty of time to enjoy it.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Sunrise
+
+   As the night slowly makes way for day and the first rays of sun pierce
+   the morning sky, a new cycle starts again. While the nocturnal
+   creatures make for their beds, the diurnal creatures stretch their
+   bodies to prepare for the day. It's a slow awakening, a far stretch
+   from the bustling, colorful life found during the night.
+   [banshee.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Temple Ruins
+
+   Broken pillars, cracked paintings, and forgotten statuettes. The
+   remnants of what once was, but is now nothing but shadows and dust. The
+   voices of the past can still be heard in the wind, but it's just not
+   the same.
+   [wisp.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Temple Secrets
+
+   Dancing shadows cast by candle light, the smell of incense, and the
+   faint whispers of devout followers within the temple grounds lead you
+   through countless corridors. Each room and corridor you pass offers you
+   a glimpse at the hidden mysteries of the temple, but it'd be rude to
+   linger and stare.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Terror in the Dark
+
+   Sometimes the shadows truly do hold a terrible horror, sometimes that
+   horror decides to come out, and if it does, you better run. Fast!
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Through The Atmosphere
+
+   Everything begins to shake, alarms blink, the time for reentry is here.
+   Adrenaline pumps through your veins, sweat drips from your forehead as
+   your vessel begins to heat up more and more. The sound of shaking metal
+   drowns out all the alarms, but you remain focused. Just a little while
+   longer, soon you'll be through the atmosphere.
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Thor, God of Thunder
+
+   The sky grows darker and darker as rain begins to pour without an end
+   in sight. Flashes of lightning light up the world every now and then
+   and are soon followed by deafening roars of thunder. Thor has arrived
+   and, by the sounds of it, isn't planning on leaving any time soon.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Tides Have Turned
+
+   A battle between you and an enemy ship rages on. Countless shots have
+   been fired, your shields are low, and outmaneuvering them proved
+   futile. You and your crew fight on, but know this is likely the end,
+   but then, out of nowhere, another ship arrives. You recognise it! A
+   friendly voice calls over the intercom: "Looks like you could use a
+   hand.".
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Time to Prepare
+
+   With the gift and curse of immortality comes infinite time to reflect,
+   create and prepare for an endless future ripe for the picking, at least
+   if you're so inclined. For some it simply means learning all they can,
+   reading all the books or traversing the world as it changes throughout
+   the ages. But others prefer to conquer this world and shape it into
+   their own image.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Time to Strike
+
+   Waiting in the bushes, ready to strike. The enemy will pass soon,
+   unsuspecting. Their footsteps can be heard first, then their shadows on
+   the road. They're seen by the unseen, still completely oblivious. Just
+   a little further, just a little longer.. Now! Strike swiftly from the
+   shadows! Then return to them as if nobody was there.
+   [felineFamiliar.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Tough and Mighty
+
+   Run, run, run she goes, with little paws and little nose. Tap, tap, tap
+   her feet, racing faster and indiscreet. Nothing can stop her, nothing
+   can slow her, nothing can keep her from her goal. Nothing will block
+   her, nothing will rock her, nothing will keep her from her bowl.
+   A song for/about one of our cats: Toph (the mighty)
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Treetop Homes
+
+   High up in the canopies, hidden from those wandering down below, lives
+   an entire community among the curling and intertwining branches. Homes
+   grown by bending and directing the growth of branches and air plants,
+   paths directed by the biggest of tree branches, and even a temple rests
+   in the crown of the biggest tree of all.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Tranquil Garden
+
+   A song inspired by peaceful gardens, the babbling of water from layered
+   fountains, and the sound of the wind that carries the scent of the
+   flowers from all around.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Traversing Mountains
+
+   A song inspired by trekking in the highest mountains, the rush of
+   reaching a top, followed by the urge to conquer another, and there's
+   always another.
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Trickster's Plan
+
+   When the trickster's plans come to fruition, you better hope you're not
+   involved. Like a snake, they'll wrap around you, trapping you like a
+   wolf chained and bound to a rock. The trickster's mischief rarely ends
+   well for simple mortals, so make like a fish and flee, hoping you don't
+   get caught in a net.
+   [kraken.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Underwater Mysteries
+
+   Deep blue waters with deeper secrets. Creatures lurking beneath the
+   sands, creatures watching from between the rocks. An endless ocean of
+   tranquility.
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Victorious
+
+   With the enemy vanquished, a victory run on horseback is a well earned
+   treat. Galloping through newly expanded territories toward your base
+   for a hearty meal, lots of drinks, and even more laughter.
+   [wisp.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Waiting
+
+   A song inspired by the joys of waiting, that specific kind of waiting
+   during which you feel both calm and excited. Calm because you know what
+   comes doesn't require you to worry, and excited because what comes will
+   be amazing.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Whale Dive
+
+   Even within a possibly eternal and infinite universe, the sight of a
+   whale-like creature gliding through space was something you thought
+   you'd never come across. But, like the whales of Earth, massive
+   creatures are seemingly playing and diving before your very eyes. A
+   spectacle you cannot take your eyes off of.
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   The Wanderer
+
+   Across hills and mountains and through fjords and glades, the wanderer
+   wanders across the lands to destinations unknown. But a wanderer's
+   journey knows no end, only breaks to rest and take in the lands to
+   which they belong.
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   We Are Legion
+
+   Two fangs appear in a charming smile, and fear instantly creeps up your
+   spine. Elsewhere a scream echoes through the air; "Vampire!". You look
+   around and see to your dismay, more fanged smiles all around. Panic
+   breaks out as people run, but the vampires simply follow in a fast, yet
+   held back walking pace, eager to taste the fear running through their
+   victims' veins.
+   [yeti.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   White Capped Mountains
+
+   An exhausting trek along rocky mountain paths lead you upward and
+   upward, further and further toward the top of one of the smaller
+   mountains in this range. The higher you get, the more snowflakes you
+   see dwindling from the sky, and the more you see your breath in the air
+   every time you exhale. You soon reach the top, and as you peek over the
+   summit, you're welcomed by a vast landscape of white mountain tops,
+   each fed by a constant drift of snow, and all waiting to be climbed
+   next.
+   [yeti.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Winter Longing
+
+   A song inspired by the longing for winter, fueled by the first sparkles
+   of frost on the ground, the crisp, cold winds, and the thing layer of
+   white created by the fields of frozen dew.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Wonders of Space
+
+   Looking out into the distant infinity you can see much of the beauty
+   space has to offer. Galaxies far, far away shine bright and may be home
+   to countless beings, supernovae shine bright and stand out in a last
+   show of existence. Black holes offer eerie sights of light and dark,
+   and so much more beyond everything in sight.
+   [banshee.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Yesteryearning
+
+   A song inspired by the feeling of yearning for the past, for
+   yesteryear. A bittersweet feeling.
+   [banshee.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Yesteryearning (Instrumental)
+
+   A song inspired by the feeling of yearning for the past, for
+   yesteryear. A bittersweet feeling. This version is an instrumental
+   version, and thus without the vocal track.
+
+   Copyright© 2017-2025 RollForFantasy.com
+   Privacy
+   (BUTTON) Update cookie preferences
+
+     * Home
+     * Tools
+       ▼
+         1. Armor Creator
+         2.
+         3. Army Formation Creator
+         4.
+         5. Blueprint Creator
+         6.
+         7. Calendar Creator
+         8.
+         9. Castle Creator
+        10.
+        11. Coat of Arms Creator
+        12.
+        13. Coin Creator
+        14.
+        15. Combat & Initiative Tracker
+        16.
+         1. Constellation Map Creator
+         2.
+         3. Culture Creator
+         4.
+         5. Currencies
+         6.
+         7. Dice Generator
+         8.
+         9. Dungeon Creator
+        10.
+        11. Emblem Creator
+        12.
+        13. Encounter Difficulty Calculator
+        14.
+        15. Family Tree Creator
+        16.
+         1. Flag Creator
+         2.
+         3. Grammar Creator
+         4.
+         5. Language Generator
+         6.
+         7. Map Creator
+         8.
+         9. Monster/Spell Card Creator
+        10.
+        11. Notice Board Creator
+        12.
+        13. Outfit Creator
+        14.
+        15. Pantheon Creator
+        16.
+         1. Periodic Table Creator
+         2.
+         3. Planet Interior Creator
+         4.
+         5. Population Generator
+         6.
+         7. Random Loot Generator
+         8.
+         9. Random Shop Inventory
+        10.
+        11. Random Tavern Menu
+        12.
+        13. RPG Villain Generator
+        14.
+        15. Scroll Creator
+        16.
+         1. Solar System Creator
+         2.
+         3. Space Base Creator
+         4.
+         5. Space Encounter
+         6.
+         7. Summoning Circle
+         8.
+         9. Tarot Cards
+        10.
+        11. Timeline Creator
+        12.
+        13. Town Creator
+        14.
+        15. Weapon Creator
+        16.
+
+     Guides
+   ▼
+       Game master (GM) guides
+
+    1. Avoiding Character Deaths
+    2.
+    3. Becoming a Better GM
+    4.
+    5. Campaign Creation Example >
+        Main guide
+         1. NPCs
+    6.
+    7. Character Ideas: Corruption
+    8.
+    9. Character Ideas: Immortality
+   10.
+   11. Character Ideas: Puns!
+   12.
+   13. Creating NPCs
+   14.
+   15. Critical Failures
+   16.
+
+    1. Describing Spells
+    2.
+    3. Describing Voices
+    4.
+    5. Dungeon Creation
+    6.
+    7. Encounters: Combat
+    8.
+    9. Encounters: Puzzles & Traps
+   10.
+   11. Encounters: Social
+   12.
+   13. Evil Campaigns
+   14.
+   15. First Time GM
+   16.
+
+    1. Handling Character Deaths
+    2.
+    3. Handling Meta Gaming
+    4.
+    5. Handling Min-Maxing
+    6.
+    7. Homebrewing Classes
+    8.
+    9. Homebrewing Loot
+   10.
+   11. Homebrewing Monsters
+   12.
+   13. Improvisation
+   14.
+
+    1. Leveling Through Story Telling
+    2.
+    3. Loot Distribution
+    4.
+    5. No GM, Now What?
+    6.
+    7. Party Bonding
+    8.
+    9. Quest Ideas & Prompts
+   10.
+   11. Rotating GMs
+   12.
+   13. Railroad or sandbox?
+   14.
+
+    1. RPG Campaign Prompts
+    2.
+    3. RPG Campaign Prompts (Sci-Fi)
+    4.
+    5. RPG Location Ideas
+    6.
+    7. RPG Locations: Cities
+    8.
+    9. RPG Locations: Dungeons
+   10.
+   11. Setting the Mood
+   12.
+   13. Starting a Campaign
+   14.
+
+   Writing & other guides
+    1. Animal Creation
+    2.
+    3. Armor & Weapon Creation
+    4.
+    5. Army Creation
+    6.
+    7. Book Titles
+    8.
+    9. Building Creation
+   10.
+   11. Character Creation
+   12.
+   13. City/Town Creation
+   14.
+   15. Clothing Creation
+   16.
+
+    1. Fictional Technology
+    2.
+    3. Foreshadowing
+    4.
+    5. History Creation >
+         1. Guide
+         2. Example
+    6.
+    7. Language Creation >
+         1. Part 1
+         2. Part 2
+         3. Part 3
+         4. Part 4
+         5. Part 5
+    8.
+    9. Magic Creation
+   10.
+   11. Map Creation >
+         1. 1. Tectonic Plates
+         2. 2. Climates
+         3. 3. Nature
+   12.
+   13. Name Styles
+   14.
+   15. Overcoming Creative Blocks
+   16.
+
+    1. Plot Creation
+    2.
+    3. Religion Creation >
+         1. Part 1
+         2. Part 2
+         3. Part 3
+    4.
+    5. Society Creation
+    6.
+    7. Species Creation
+    8.
+    9. Starting a Story
+   10.
+   11. Superpower Creation
+   12.
+   13. Units of Measurement
+   14.
+
+    1. Warrior Types >
+         1. Africa
+         2. Americas
+         3.
+         4. East Asian
+         5.
+         6. India
+         7.
+    2.
+    3. World Building >
+         1. Part 1
+         2. Part 2
+         3. Part 3
+    4.
+    5. Writing Body Language >
+         1. Part 1
+         2. Part 2
+    6.
+    7. Writing Character Motivations
+    8.
+    9. Writing Combat
+   10.
+   11. Writing Dialogue >
+         1. Part 1
+         2. Part 2
+         3. Part 3
+         4. Part 4
+         5. Exercises
+   12.
+   13. Writing Evil Characters
+   14.
+
+    1. Writing Humor
+    2.
+    3. Writing Pain
+    4.
+    5. Writing Romance
+    6.
+    7. Writing Scenery
+    8.
+    9. Writing Scenes
+   10.
+   11. Writing Speeches
+   12.
+   13. Writing a Story Within a Story
+   14.
+
+     Puzzles
+   ▼
+       Regular puzzles
+
+    1. Balance Puzzle
+    2.
+    3. Between the Folds
+    4.
+    5. Dissection Puzzle
+    6.
+    7. Eight Queens
+    8.
+    9. False Pillar
+   10.
+
+    1. Four Seasons
+    2.
+    3. Fill the Bowl
+    4.
+    5. Green Eyes
+    6.
+    7. Identity Paradoxes
+    8.
+    9. Knights & Knaves
+   10.
+
+    1. Missing Coin
+    2.
+    3. Mixing Problem
+    4.
+    5. Pirate's Gold
+    6.
+    7. Prisoners & Hats
+    8.
+    9. River Crossing
+   10.
+
+    1. Socks Puzzle
+    2.
+    3. Speak to Enter
+    4.
+    5. Table of Coins
+    6.
+    7. Theseus & the Minotaur
+    8.
+
+    1. Time Out
+    2.
+    3. Train Shunting
+    4.
+    5. World's Hardest Logic Puzzle
+    6.
+    7. Zebra Puzzle
+    8.
+
+   Nikoli puzzles (grid based)
+    1. Corral
+    2.
+    3. Country Road
+    4.
+    5. Dosun Fuwari
+    6.
+    7. Five Cells
+    8.
+    9. Hashiwokakero
+   10.
+
+    1. Hebi
+    2.
+    3. Heyawake
+    4.
+    5. Hotaru Beam
+    6.
+    7. Inshi no Heya
+    8.
+    9. Keisuke
+   10.
+
+    1. Kurodoko
+    2.
+    3. Light Up
+    4.
+    5. Moon or Sun
+    6.
+    7. Nansuke
+    8.
+    9. Numberlink
+   10.
+
+    1. Satogaeri
+    2.
+    3. Shikaku
+    4.
+    5. Slitherlink
+    6.
+    7. Stained Glass
+    8.
+
+    1. Suraromu
+    2.
+    3. Tatamibari
+    4.
+    5. Yajilin
+    6.
+    7. Yosenabe
+    8.
+
+     Music
+   ▼
+     * Songs
+     * How free?
+
+     DIY
+   ▼
+
+    1. Cards >
+         1. Expanding Cards
+         2. Dr. Who Tardis Card
+    2.
+    3. Crystals (Salt)
+    4.
+    5. Crystals (Sugar)
+    6.
+    7. Coasters (Cork)
+    8.
+
+    1. Coasters (Epoxy)
+    2.
+    3. Customize Glasses
+    4.
+    5. Dice Bag (Round Bottom)
+    6.
+    7. Dice Bag (Simple)
+    8.
+
+    1. Game Master Screen >
+         1. Main Guide
+         2. Tips & Tricks
+    2.
+    3. Hologram Phone
+    4.
+    5. Paper Chests
+    6.
+
+    1. Paper Figurines
+    2.
+    3. Paper Gems
+    4.
+    5. Parchment
+    6.
+
+    1. Scented Candles
+    2.
+    3. Scent Guide - Candles
+    4.
+    5. Tabletop Trees
+    6.
+
+     Contact
+
+     Thank You
+
+   Feel free to share
+
+   [logoDef.png] Using this site means trees will be planted. ^.^
+   (Find out more)
+
+Fantasy music
+
+   Below you'll find a huge range of royalty free music made by me. I'm
+   not that great at it, so don't expect professionally crafted music, I'm
+   still learning. But it is free to use, to some extent anyway. For more
+   information on how you can and cannot use it, click here.
+   I love creating music, so there will be more songs in the future,
+   probably one every week.
+
+   You can download my music on Soundcloud using the links below each
+   song.
+
+   Click on an album cover to display their songs down below. You can
+   click on multiple to show more of them. They will be listed
+   alphabetically, from left to right.
+   [kitsune.jpg] Total songs: 10
+   [phoenix.jpg] Total songs: 11
+   [fairy.jpg] Total songs: 6
+   [dryad.jpg] Total songs: 7 (8)
+   [yeti.jpg] Total songs: 7
+   [banshee.jpg] Total songs: 5 (6)
+   [wisp.jpg] Total songs: 8
+   [kraken.jpg] Total songs: 6
+   [spaceWhale.jpg] Total songs: 10
+   [arachne.jpg] Total songs: 8
+   [orc.jpg] Total songs: 8
+   [elf.jpg] Total songs: 11
+   [vampire.jpg] Total songs: 10
+   [sphinx.jpg] Total songs: 7
+   [oni.jpg] Total songs: 9
+   [automaton.jpg] Total songs: 7
+   [valkyrie.jpg] Total songs: 9
+   [quetzalcoatl.jpg] Total songs: 2
+   [treant.jpg] Total songs: 3
+   [felineFamiliar.jpg] Total songs: 2
+   [earth.jpg] Total songs: 1
+   [showAll.jpg] All songs: 155 (157)
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   A New Hunger
+
+   A coldness descends from your neck down your entire body. With every
+   breath you take you can feel the humanity leaving you. Your skin grows
+   colder and whiter, you feel a creeping sensation in your mouth as fangs
+   grow longer, and your heart pumps faster and faster in a frenzied panic
+   until it stops beating at all. All that is left is a cold shell and an
+   insatiable hunger for blood.
+   [felineFamiliar.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Abra-Cat-Abra
+
+   Prey caught fresh and bowl of milk. Eye of newt and spider's silk. Brew
+   for hours until mid-night, to fill it with a wondrous fright.
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Adrenaline Rush
+
+   The battle rages and the tides are in your favor. Enemy after enemy
+   falls before your blade and wave after wave of adrenaline rushes
+   through your vein as if waging a battle of their own.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Anticipation
+
+   Heart's racing, blood's pumping, adrenaline's coursing through every
+   vein. Soon the moment of truth will be upon you, but all you can do for
+   now is wait in anticipation.
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Approaching Hel
+
+   The path to the dead is long and treacherous, but one that could be
+   taken by both gods and mortals seeking to bring back a loved one from
+   their untimely end. Yet the most dangerous part of all lies at the end
+   of your journey: bargaining with Hel to reclaim the soul of your dearly
+   departed.
+   [arachne.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Arachne's Web
+
+   A prey caught in a web, shadows move along its edges. Footsteps
+   approach. Many, many footsteps. A huge creature emerges, half spider,
+   half woman, followed by countless spiders both big and small. She
+   welcomes her prey, clearly revelling in the prey's sticky situation.
+   The prey knows its over, but not before Arachne's had her fun. It will
+   be a long and agonizing end.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Attack
+
+   A song of the rush of adrenaline during battle, the drums of impending
+   doom, and the looming grasp of death.
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Awaiting A Valkyrie
+
+   The battle is fought and death was glorious. With ax in hand the
+   valkyries will surely be upon you soon. Life was rough, but
+   magnificent. The home you love will surely be missed, and those left
+   behind might not all make it to Valhalla. The realization is bitter,
+   but the Valkyries will bring you to the eternal halls as promised and
+   within them you shall feast among the gods and all hurt and pain will
+   be but a distant memory.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Balance
+
+   A song of inner peace, tranquility, and a sense of calm.
+   [orc.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Battle of Chiefs
+
+   Power is everything to orcs and the only way to gain more is by
+   defeating warchiefs for their share of it. Two chiefs enter, only one
+   tends to leave, but everyone wins. The victor gains more power, the
+   spectators a spectacle, and the defeated warchief gets to die honorably
+   in a blaze of glory.
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Battle Rush
+
+   As the battle rages on and the tides begin to turn evermore into your
+   favor, the rush of adrenaline and fear turns to one of bloodlust and
+   joy. This battle can be won, these enemies can be vanquished, you can
+   destroy them all!
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Bifröst
+
+   From far away the bifröst seems like a glimmering spectacle of a path
+   fit only for the gods. You can only imagine what it must be like to
+   traverse it. Moving further and further from home and deeper and deeper
+   into the loneliness of space. But each step further away from home is a
+   step closer to the gods, a step closer to the realm of glory and
+   unimaginable magnificence. Perhaps one day you'll catch a glimpse of
+   it.
+   [banshee.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Bittersweet
+
+   Everything comes to an end sooner or later, but few things leave us
+   with a feeling of contentment when their end comes. The sadness of an
+   end can overpower the feelings of joy and the precious memories we can
+   still enjoy, and when we do enjoy those moments they're often
+   bittersweet to say the least.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Blood sacrifice
+
+   A song of growing and growing chants, louder and louder drums, the
+   impending doom of what awaits at the end.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Breaking Through
+
+   Two armies battle, soldier after soldier falls on both sides, and for a
+   while it seems to be an even match. Adrenaline and fear dominate the
+   battlefield, but particularly skilled, or perhaps simply lucky,
+   soldiers manage to break up the ranks of their enemies. A chance for
+   victory, fear is replaced with hope, hope of making it out alive, but
+   the battle is far from over.
+   [automaton.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Broken Cogs
+
+   Life on the street is difficult even for an automaton. Without
+   maintenance the elements gradually chip away at the little cogs and
+   wheels within, and the lack of fresh oil prevents everything from
+   moving as smoothly as it once did. The future looks most grim and
+   uncertain at this hour.
+   [arachne.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Burn Down Their Homes
+
+   Eye for an eye is the spider's motto and they've got plenty to spare.
+   Over and over again they watched as humans burned down their webs and
+   eradicated all traces of their homes. Now it's time to turn the tables
+   and give those two-legged monsters what they deserve.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Burn to Ashes
+
+   The night horizon glows orange, a blazing fire rages in the distance.
+   The torches of monsters set everything ablaze. Slowly the inferno
+   creeps closer, burning everything in its path. Fields of crops, homes
+   and villages, forests once lush and green, the livelihood and memories
+   of countless people. Only soot and ash will remain.
+
+   IFRAME: https://www.youtube.com/embed/oZ8jBa927VQ
+
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Caught in a web
+
+   You're stuck. Twelve hellish furies, you're stuck. The more you move,
+   the more you get yourself stuck in their tenacious webs. Stay calm and
+   think for a moment, there must be a way out. Too late, they're coming.
+   More and more of them, big ones, small ones, huge ones too. They're
+   crawling all of you. Not a moment is wasted before they begin to wrap
+   you in a cocoon. Hundreds of furry legs eagerly prepare you, their
+   meal, and soon all that's left is a creepy darkness. The sounds of
+   their crawling still audible through the cocoon, but that will end soon
+   enough too.
+   [yeti.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Carpet of Snow
+
+   As you sit huddled up in a comfy chair by the crackling fire, a cup of
+   body warming chocolate milk between your hands and your eyes staring
+   through the window at the vast landscape beyond snow starts falling
+   every so slightly at first. It doesn't take long before it intensifies
+   and all the land becomes covered in a thick layer of fresh snow that
+   lights up what seems like the entire world.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Charge!
+
+   The horns sound the incoming cavalry, the chaos of battle, and the
+   turning of tides. More horns, incoming reinforcements. The tides turn
+   again.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Chased
+
+   A song inspired by the terrible feeling of being followed, but in a
+   more dramatic and terrifying fashion.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Children of the Forest
+
+   Even in the deepest center of the elves' town, countless creatures dart
+   and dash their way from branch to branch, bush to bush, and through
+   homes and shops without a care in the world. The young elves take great
+   pleasure in chasing the small forest bunnies, the young deer and the
+   stumbling owlets. The older elves simply enjoy the spectacle from a
+   hopefully safe distance.
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   City of Monsters
+
+   Deep within the darkest shadows exists a city of creatures unseen by
+   most. Creatures big and small, furry and slimy, and everything in
+   between, the city of monsters is home to all those who relish in the
+   fear they strike in the hearts of men.
+   [orc.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Clashing Armies
+
+   The horns of war echo through the air. Two armies charge for one
+   another, and with a clash of swords, spears, shields, and screams they
+   meet. Battle shouts quickly turn to screams of terror and lust for
+   blood, countless arrows fly from one side to the other, and a stampede
+   of a cavalry comes in from the side. The battle rages on, it's
+   impossible to tell who will lose the most, but that's about the last
+   thing on the minds of those caught in the midst of it.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Company of Stars
+
+   Endless space and an eternal darkness, yet around you is nothing but
+   light from stars too distant to reach. They light your path as if
+   inviting you to visit them, unfortunately you cannot. Your mission
+   takes you elsewhere, though far away it still lies. But until you reach
+   your destination, the company of stars is a one you gladly keep.
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Conquering Aegir
+
+   Wave after wave clashes against the wooden ships, their beams creak and
+   moan with every hit. Still, the sailors are determined to make it
+   through and not even Aegir himself can stop them, though not for a lack
+   of trying.
+   [arachne.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Crawling All Over
+
+   One by one they creep and crawl
+   Up your legs and up your wall
+   Run you may, escape you can't
+   "Tonight we feast", they sing and chant
+   All around they hunt you down
+   In tiny legs you'll surely drown
+   Surrounded now from floor to ceiling
+   To the spider queen you will be kneeling
+   [kraken.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Creatures In The Depths
+
+   Deeper and deeper your vessel ventures, darker and darker the waters
+   get. Even with torches you see very little, but there are creatures who
+   can see you perfectly fine. What was that sound? Just the sounds of
+   metal from your vessel, right?
+   [arachne.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Creeping Royalty
+
+   Deep within dark caverns covered in webs and cocoons, live dark
+   creatures eager to catch their next prey. Terrifying as they may be,
+   they have a queen they worship, and a court to go with it. But it's
+   best to avoid this court at all costs if you value your life.
+   [sphinx.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Crumbling City
+
+   Sanded stones and wind beaten pillars of a once mighty wall now grant
+   you access to the city within without as much as a struggle. Inside you
+   find a city half covered in sand, half crumbling to become sand.
+   Nothing awaits you within this lost city, yet something irks you on to
+   take a closer look.
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Cursed Immortality
+
+   A single bite gave you immortality and powers beyond your dreams, but
+   at a grave cost. Countless years have gone by and countless friends
+   were taken from you. Your powers, impressive as they may be, can't save
+   them. Not unless you inflict upon them the same curse inflicted upon
+   you.
+   [fairy.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Dance of the Fae
+
+   An enchanting song inspired by fae creatures, hidden within communities
+   in the thickest and lushest forests.
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Darkest Lair
+
+   Darkness, cold and lifeless tunnels lead from a cave entrance all the
+   way down to the quarters of a vampire lord. No creature dares to enter
+   these tunnels, not even spiders or bats, for dark magics are at play
+   and one would be wise to avoid contact at all costs.
+   [earth.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Dawning of Life
+
+   Here, on a small, lucky planet, life began to flourish many eternities
+   ago. Today, countless creatures live together in a precarious balance
+   of life and death, for the life of some is only possible through the
+   death of others. Though despite or perhaps because of this, the world
+   is full of beauty and wonder.
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Death, Destruction & Despair
+
+   When a clan of vampires descends upon a town, there's no running and
+   there's no hiding. The faster your heart beats, the faster they'll find
+   you, and they'll stop at nothing before they do. Their thirst for blood
+   can only be quenched by death, but they'll make you wish it was only
+   death they bring to your door.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Death March
+
+   A song of impending doom, or perhaps the dreadful final walk before the
+   final goodbye.
+   [kraken.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Deep-Sea Predator
+
+   Searching the ocean depths for life in a tiny vessel is dangerous and
+   eerie work, but the wonders of the ocean are a mystery waiting to be
+   uncovered. One such mystery revealed itself to you now as it rams the
+   vessel with a powerful force. Fear and wonder mix together into strange
+   emotions. You're the first to discover this monstrous species, and
+   while you should be safe within this vessel, these darkest depths can
+   be a lonely and frightening place for a beastly encounter.
+   [sphinx.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Desert Journey
+
+   A journey of danger and adventure awaits between the edge of the desert
+   and the trade city in the middle of it. Scorching days and freezing
+   nights, sandy dunes upon sandy dunes without any water in sight,
+   dangerous creatures lurking below the sands, and a whole lot more stand
+   in between you and your end goal. Good luck.
+   [dryad.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Desolate Wasteland
+
+   A song inspired by dry landscapes, devoid of all but the most tenacious
+   life forms.
+   [quetzalcoatl.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Early Bird
+
+   After the morning rain is chased away by a rising sun, the early bird
+   begins its song. Unsure at first, it tests for an audience. Upon
+   hearing others, it begins to sing its morning song before being joined
+   by others. Even the jungle itself seems to hum along.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Elusive Elves
+
+   Deep within the thickest and lushest of forests live elves unseen by
+   most. Stories of encounters have turned into legends, only adding to
+   the elves' elusive reputation. The truth is far simpler, of course, as
+   the elves simply do not wish to be found. They're masters at hiding and
+   using the forests, their homes, to make sure they're only found when
+   they choose to be found.
+   [sphinx.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Endless Dunes
+
+   Travel in the desert can be monotonous and endless to those unfamiliar
+   with its secrets. Scorching days are followed by freezing nights in an
+   endless loop, every dune seems to be followed by another that looks
+   exactly the same, and, no matter where you look, there never seems to
+   be anything other than sand and sky.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Enemy Vessel
+
+   An enormous vessel approaches. Its dark, looming presence eclipses your
+   much smaller vessel as red alarm lights flicker on and off. Against
+   your better judgment you hope it hasn't spotted you, but you soon
+   notice their tractor beam is pulling your vessel closer and closer to
+   theirs.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Eternal Life
+
+   Eternal life offers eternal opportunities. Time to perfect skills, time
+   to truly get to know the world, and time to see the world change over
+   the centuries. With every passing season, new changes bring new
+   experiences and new ways to create, enjoy, and experience the world for
+   all its glory.
+   [wisp.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Exploring
+
+   A song inspired by the lust for adventure, the excitement of
+   exploration, and the wonder of what lurks behind the next hill.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Fear the Dark
+
+   Terrible things lurk in the dark, glistening eyes watch from the
+   shadows, and nothing good awaits those who dare to venture into the
+   dark abyss. Or it could just be regular shadows, who knows. ^.^
+   [fairy.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Follow My Steps
+
+   A playful dance between two different beings, one copying the other,
+   until both are intertwined in a playful dance.
+   [orc.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Forges of War
+
+   Clanking hammers, raging fires, and thick clouds of smoke and ash can
+   be seen, heard, and smelled for miles around. Hideous weapons are
+   forged by and for hideous creatures, each of them eager to test their
+   creations, and coat them in blood.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Four Horsemen
+
+   War, Death, Famine, and Pestilence, the Four Horsemen of the
+   Apocalypse. The chase is on, panic sets in, and the thundering of
+   hooves gets closer and closer, will they catch up with you or will you
+   escape just in time?
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   From Ashes Reborn
+
+   As ash and soot are cast away by wind, rain and time, new trees and
+   plants grow to form a new forest. New homes are built and new fields of
+   a wide range of crops are sown and grown. The undoing of destruction is
+   slowly undone. No soot or ash will remain.
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   From Fjord to Njord
+
+   Icy winds push your ship through the fjord's freezing waters. High
+   above, the sun peeks over the rocky edges, but none of it reaches down
+   to touch your skin. The winds howl like sledge dogs eager to take you
+   to your promised riches, but down here your fate lies within the hands
+   of the gods. Time will tell how they favor you.
+   [yeti.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Frozen Plains
+
+   A song inspired by the vast, open fields of snow, the glistening sparks
+   of ice, and the tranquil silence within these fields.
+   [yeti.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Frozen Sunrise
+
+   Even before the first beams of light rise over the horizon, the
+   landscape is bathed in the clear light of the moon. Crisp snow reflects
+   its light everywhere and it's soon joined by the warm rays of the sun.
+   The pristine white snow becomes a radiant orange turning the snowy
+   landscape into one that seems like it is on fire.
+   [yeti.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Frozen Wonders
+
+   A song inspired by the crisp, wintry landscapes, the cold blanket that
+   covers everything in a quiet layer of sparkles, and the secrets hidden
+   beneath this layer of white.
+   [orc.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Gathering Armies
+
+   Two armies gather, their drums echo from afar, and their footsteps
+   march as one. Huge orcs versus a smaller enemy, but they share their
+   lust for blood and desires for war. They may look different, they may
+   fight for slightly different reasons, but in their drums and cries for
+   war they're all the same.
+   [fairy.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Glade of Delight
+
+   Thick, lush trees make way for a single path toward the tranquil
+   clearing. Sunlight and shadows dance through the leaves, while
+   butterflies, bees, and other insects flutter and flap from flower to
+   flower. Playful creatures frolic in the tall grasses, all under the
+   watchful eye of the guardians of the forest; strange beings, with an
+   infinite love for nature. This is their glade, their pride and joy.
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Glorious End
+
+   Surrounded by enemies during an ambush, you ready yourself for what
+   will very likely be your final fight. Swords at the ready, hearts
+   racing, and a bittersweet feeling overcomes you. To die in battle would
+   be to die with honor, but it's a shame this battle might be your last.
+   [wisp.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Good Old Days
+
+   Gone are the good old days of playing with friends without a care in
+   the world, living life to the fullest without a burden. Still, even in
+   their ghostly form, the wisps love to think of the good old days and
+   reenact them with fellow wisps or unknowing woodland travelers. But
+   it's never the same.
+   [kraken.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Great reef
+
+   A song inspired by the majestic blues of the deep, the sparkling lights
+   on the coral reefs, the darting fish between the rocks, and the gentle
+   swaying of the waves.
+   [treant.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Growing and Growing
+
+   Year after year after year, the young trees grow and grow to ever
+   increasing heights in a constant battle for sunlight. Time passes and
+   the world changes around them, yet steady on they grow until they reach
+   an age of maturity and are ready to become a true titan among trees and
+   treants.
+   [treant.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Growing Spurs
+
+   Tiny seedlings grow into young saplings in no time, but they have a
+   long way to grow yet. A fight for light means a race to the top, but
+   strong winds and careless animals are a far bigger worry. But those who
+   make it will have a good chance of joining the company of the mighty
+   treants around them.
+   [banshee.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Heartstrings
+
+   Pun totally intended. A song inspired by the bittersweet pain felt
+   after a loss, or felt just before an inevitable end.
+   [sphinx.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Hidden Treasures
+
+   Hidden beneath layers of sand and rock are hidden treasures of ancient
+   times. Riddled with traps, but waiting to be found by those who seek
+   them, or perhaps eagerly awaiting new specimens to their collection.
+   [wisp.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Home Sweet Home
+
+   Home is where the heart is, and while it has taken the wisp quite a bit
+   of time to adjust to their new life after death, they now feel at home
+   in the woods they inhabit. Once scary trees are now familiar faces,
+   woodland critters are no longer the source of scary sounds, but of
+   sounds of joy, and some have even grown to like the wisp in return.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Hope is not Lost
+
+   A song inspired by the rising feeling of knowing it's not over, knowing
+   there's one more chance, knowing now is the time for that final push.
+   [orc.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   The Hunters Gather
+
+   Tribes from all around the land have gathered for the great hunt and
+   many still continue to arrive. The many little tribes now an army of
+   spears, bows, muscle and an eagerness to hunt their prey. Who or what
+   their prey will be is still undecided for rituals have to be fulfilled
+   to be granted this answer by the higher powers.
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   I May Have This Dance
+
+   A classy ball progresses deeper into the night with dance after dance
+   keeping the spirits high. An eerily pale, yet somewhat charming looking
+   stranger approaches and, without as much as a bow, looks you in the
+   eyes. For a moment fear takes over, you realize what this stranger is!
+   But a sinister, hair-raising force takes control of you, and you get up
+   to join him on the ballroom floor for a dance.
+   [automaton.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   I'm Alive
+
+   With every turn of the key, life begins to tick within me. My eyes open
+   slowly, my arm moves with a quick burst of energy, and a cog in my
+   chest starts to tick at a steady pace. Enthusiasm and wonder take hold
+   of me as I run around the room from object to object, far too eager to
+   explore everything I can. Soon I find a window and I stop in awe. An
+   entire world awaits me, an entire world is there to be explored and
+   experienced, and I can't wait to do so.
+   [automaton.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   In Shambles
+
+   Little is left of what was once a happy little automaton. Memories of
+   what was mix in with what is, broken cogs and twisted parts prevent the
+   automaton from marching on, and much needed repairs seem to be a
+   wishful hope of a foolish machine.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   In Too Deep
+
+   Deep within the lair of evil, surrounded by forces on all sides,
+   caution is critical lest you're spotted. Being seen, being heard, being
+   smelled, or being felt, all of these will lead to certain doom.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Incoming
+
+   A song of impending doom, a barrage of a violence, and a brief moment
+   of rest, before the next attack commences.
+   [kraken.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Into the Abyss
+
+   Deeper and deeper into the darkest depths you sink alongside the steep
+   cliff-side wall that offers the only sign of being anywhere at all.
+   Darkness has surrounded you for hours, but you could swear you see a
+   faint lights in the distance now. The deeper you sink, the brighter
+   they become. What could possibly be out there?
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Into the Den
+
+   Tread carefully into the den of a monster, dangers lurk in every
+   corner, and the monster may already know you're coming.
+   [arachne.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Itsy Bitsy Legion
+
+   Itsy bitsy legion
+   Marched down the hill as one
+   Down with the humans
+   Your fire has not won
+   Caught in our webs
+   We'll eat your flesh tonight
+   And the itsy bitsy legion
+   Marched on with all their might
+   [dryad.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Jungle Morning
+
+   A quiet jungle morning, the still air only broken by the distant sound
+   of animals waking up to the morning sun. But they in turn cause others
+   to wake up, and the jungle soon begins to bustle with life once more.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Lazy Afternoon
+
+   When the sun sits high in the sky and its rays trickle through the
+   forest canopies, nothing beats a lazy afternoon of hanging in a
+   hammock, sipping on a drink and basking in the radiant warmth of the
+   sun while the forest continues its vibrant display of life around you.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Leaf on the River
+
+   A song inspired by the flowing motions of a leaf floating on a river,
+   the path it takes along the calming flows, the rushing rapids, and the
+   eventual end of the journey.
+   [dryad.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Lonely Desert
+
+   Endless sands without a sign of life, the scorching sun followed by the
+   freezing moon, the desert can be a lonely place indeed.
+   [dryad.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Lonely Desert (No Drums)
+
+   Endless sands without a sign of life, the scorching sun followed by the
+   freezing moon, the desert can be a lonely place indeed.
+   This is a version without the drums in the background, for an added
+   layer of loneliness.
+   [wisp.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Lonely Light
+
+   A once bright life cut short by a tragic event now wanders these
+   forests as a dim, floating force of light. Seemingly without purpose
+   and without end, the little wisp exists on within the forests who know
+   more than they let on.
+   [orc.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   The Long Journey
+
+   Finding new lands to rebuild their home was no easy feat. Day after day
+   of desert, wasteland and swamps stood in the way of their newfound
+   prairie lands. The soils are rich and ready to be farmed, the forests
+   dense and ready to be harvested, and the orcs and tired and ready to
+   setup camp before rebuilding their new capital city.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Looking Back
+
+   Eternal life offers eternal possibilities to work toward a better
+   future, but once in a while it's good to look back at all that came
+   before. Life came and went, friendships grew, settlements expanded and
+   quality of life increased. Not all of it was a smooth journey, but
+   these lessons of the past will aide future efforts.
+   [fairy.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Lost Child
+
+   A song of the despair felt when lost, with the innocent thread of a
+   child intertwined among the chaos.
+   [automaton.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Lost, Not Found
+
+   With no show, no home and less and less friends, the little automaton
+   was lost in a bigger and bigger world. With nowhere to go, all the
+   automaton could do is roam the same streets he once paraded on. The
+   future was uncertain and terrifying, but the automaton kept going
+   nonetheless. Perhaps one day he'll find a place to call home once more.
+   [banshee.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Love and Loss
+
+   A bittersweet song inspired by the end of love, which can come in all
+   too many forms.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   March of Giants
+
+   Gigantic, docile beasts march through the equally towering landscape of
+   mountains. All you can do is stand and watch in awe as they trek
+   through the mountain passages, each beast as breathtaking as the next.
+   There's so many of them, and so many different species too. But before
+   you know it, the last one already ventures behind a mountain slope, out
+   of sight, but not yet out of mind.
+   [orc.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   March to War
+
+   A mass of orcs marches as one. Armor clanks with every step, drums set
+   the pace with every beat, and warscreams fill the air with ferocious
+   tenacity. The orcs are on a path to war, and they will bring death and
+   destruction wherever they go.
+   [arachne.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Master's Plan
+
+   Countless legs and little voices carry whispers through the night,
+   whispers of a grand plan their master came up with. Should everything
+   go well, the feast will be grand and the little voices will turn from
+   quiet whispers to squeals of delight.
+   [automaton.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Mecha Parade
+
+   Without as much as a word of instruction, the little automaton was put
+   in a line with countless other mechanical beings. Huge, round beings
+   with gigantic drums, smaller ones like him, except with a long,
+   trumpet-like nose they were holding with both hands, and countless
+   more. But before he had the time to take them all in, the big ones
+   started to bang their drums, and everybody started moving as one.
+   Whether it was the rhythm or some sort of instinct, the little
+   automaton soon started to dance and enjoy himself, perhaps even more so
+   than the crowd of people that had gathered to watch this parade. He
+   felt like it was as if he was made for this.
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Melancholia
+
+   What was supposed to be an exciting hunt for the next unwilling blood
+   donor turned into a melancholic trip down memory lane. An unfortunate
+   victim turns out to be quite a look-a-like and triggers memories of
+   lives past and tragedies of old. This victim will live, for now.
+   [wisp.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Memories
+
+   A song inspired by the bittersweet feelings felt when reminiscing about
+   the past, longing for those amazing moments you had, but knowing you'll
+   never have those exact moments again. At least there's always moments
+   to be had in the future. ^.^
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Metamorphosis
+
+   You fight the urge to drink the blood of the innocent, but the more you
+   fight, the more you feel a change within you. The thirst starts to
+   manifest itself in the form of a true monster as your veins pulse with
+   a creepy energy, one that immediately begins to change your very being.
+   Your hands grow longer and gnarly, twisted claws grow from your finger
+   nails. Your back arcs forward as two leathery wings sprout from
+   nowhere. Your irises disappear as your eyes grow and turn milky, and
+   your visage turns elongated and thin. This is your true vampiric form,
+   the true monster within you.
+   [fairy.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Midnight Sneak
+
+   A song of the night, the careful steps of one who tries to sneak out of
+   the house, or perhaps into someone else's.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Moment of Solitude
+
+   Once in a while a calm moment of reflection serves as a perfect way to
+   clear your mind. Watching the world go by from a simple leaf drifting
+   in the wind to the currents of a nearby creek take its waters to a sea
+   far beyond the horizon, it's a great way to connect with the world and
+   disconnect from whatever may trouble your mind at any given moment.
+   [quetzalcoatl.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Monkey Kingdom
+
+   When the sun is out and the fruits are ripe, the monkey tribe hangs out
+   in the trees and fills their bellies with fruity riches. The old take
+   it slow, eager to regain some energy while the young play about and
+   swing from tree to tree without a single care in the world.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Moonrise
+
+   As the sun sinks lower and lower behind the horizon, the forest grows
+   darker and darker. It seems to go quiet, peaceful even as animals begin
+   to prepare for their nightly slumber, but soon a whole different kind
+   of life begins to awaken. As soon as the sun makes way for the moon,
+   countless flowers open up and turn their crowns toward the sky.
+   Nocturnal creatures of all sizes can be seen and heard all around, and
+   the forest itself comes to life with a luminescent energy.
+   [fairy.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Morning Strolling
+
+   A peaceful song inspired by the quiet of the morning, the moment when
+   nocturnal creatures go to rest, and diurnal creatures slowly wake up.
+   [dryad.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Mystery Forest
+
+   A song inspired by the many secrets hidden within a forest, the
+   creatures lurking in silence until you pass, and the tiny lifeforms
+   seen only when you pay close attention.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Nearly There
+
+   Almost, just a little more. A rush of adrenaline, the joy of knowing
+   it's not much longer, time for that final push.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   New Beginnings
+
+   What may start as a single, simple seed can grow into a vast oasis of
+   life and splendor. The elves regularly plant such seeds in chosen spots
+   and give it time, love, and care when need be to ensure these little
+   trees grow into large trees, who in turn offer the right environment
+   for other trees, plants, shrubs and animals to grow and thrive.
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   New Enemy Approaches
+
+   On the horizon a group of riders approach. They look in your direction,
+   talk to each other, and then wave a banner high in the air. Nothing
+   happens for a moment, but then, with the sound of thunder, an immense
+   horde of riders on horseback appears along the horizon too. This can't
+   be good.
+   [automaton.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   New Home, New Friends
+
+   Amazing friends is all the little automaton needed to feel at home in
+   his new home, and that's exactly what he's been given. The diverse cast
+   of the marching band has quickly welcomed him into their home. Music,
+   games and a world of laughter and fun are the daily routine in between
+   the various marching band performances; the little automaton can't get
+   enough of it.
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Night Infiltration
+
+   A few quick movements in the shadows, noticed by a couple of guards,
+   quickly turn into swift strikes leaving the guards unconscious. The
+   figures continue on through the city, remaining hidden as best they
+   can. A patrol spots them, but after a quick fight are taken out as
+   well. The figures continue to reach their target, preparing for an
+   assassination.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   No Escape
+
+   There's nowhere to run, and nowhere to hide. The vast emptiness of
+   space was once a gorgeous sight, but now a thorn in your eye. An
+   unrelenting chase continues through the vastness of space as your
+   pursuer's ship keeps up with your every move.
+   [dryad.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Observant Jungle
+
+   Countless creatures lurk in the jungles, some playful and curious to
+   see who you are, others menacing and out to see what you taste like.
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   On The Hunt
+
+   With bow in hand and a target in sight, nothing can stop the huntress.
+   No snow too thick, no mountain too high and no weather too cold. Mighty
+   beasts will make for grandiose feasts fit for the gods and the huntress
+   is sure to provide.
+   [orc.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Orc Capital
+
+   Hidden within the frozen mountain peaks of a desolate land lies the orc
+   capital in plain sight. Walls of metal and wood stand out clearly even
+   against the ashen-soiled snows of the surrounding area, and the plumes
+   of thick, black smoke coming from the many forges and furnaces can be
+   seen even on a cloudy day. Home sweet home for the orcs.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Out of Time
+
+   A song inspired by the impending doom of an end, the end, any end. The
+   feeling of dread that comes with knowing you can't avoid this end.
+   [wisp.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Passage of Time
+
+   A song inspired by the passage of time, often depicted through stunning
+   time-lapses in which the effects of time can truly be shown.
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Preparations For War
+
+   Swords are sharpened and shields are readied. All the banner-men are
+   rallied and soon the drums of war will begin their songs of courage.
+   Glory awaits to those who fight, dishonor to those who run. But the
+   battle will show who's heart is strong enough to face their enemy.
+   [dryad.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Quiet Lake
+
+   A peaceful lake of sapphire water sits amids gentle sloping hills in
+   the middle of nowhere. It is home to a variety of animals, each buzzing
+   and crawling about their daily lives. For those less busy, this lake is
+   a perfect place to come to relax and reflect upon life.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Quiet Mountaintop
+
+   High atop an overgrown mountain awaits a world of solitude and peace.
+   Below the world continues, but here above a breath of fresh air can
+   provide a well needed moment of tranquility among the often peculiar
+   creatures who make this mountain their home. All around you birds can
+   be heard, some from down below, others from heights beyond even your
+   reach.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Reaching Home
+
+   The planet, your planet, grows bigger and bigger as you get closer and
+   closer. Just a little while longer. So many things will have changed,
+   so many people will have changed, you have changed. But none of that
+   matters now, soon you'll be home again.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Reluctant Enemies
+
+   Neither one wants to fight, both know they have to. Only one will come
+   out on top, which is the very fact that makes both opponents so
+   reluctant.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Rise Minions
+
+   Rise, minions, your time has come. Rise, minions, and dance to this
+   beat! I mean, conquer the enemy or something. ^.^
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Rising Tensions
+
+   Two great nations live side by side, each with their own ideas and
+   ambitions, but both in relative peace. Their ambitions would see the
+   destruction of the other however, and both sides know it. Borders
+   become reinforced, armies for defence are seen as preparations for war,
+   and war starts to be seen as more and more inevitable.
+   [sphinx.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Ruins of Dendezar
+
+   Within the city walls of Dendezar death is all there is, yet the echos
+   of what once was continue to breathe a ghostly semblance of life into
+   the labyrinth of roads. Even the winds are capable of bringing life
+   back by playing tricks on the ear. Bustling markets, playing children
+   and musical performances seem to come from nowhere.
+   [sphinx.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Scorching Sun
+
+   There's no escape from the heat. Scorching rays of the sun bombard
+   everything from above, and the hot, shifting sands cover every foot
+   with every step. The journey is still far from over, unless this heat
+   doesn't end it prematurely.
+   [treant.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Seedlings
+
+   As the last of the winter's snow melts, thousands of seedlings awaken
+   from their slumber. Protected by the canopies of their elders, they
+   race toward the light and spread their leaves to take full advantage of
+   its life giving energies. This first season of their lives is of the
+   utmost importance and will determine whether these seedlings will join
+   their ancient siblings high up in the canopy or whether they will
+   perish and return to the soils below.
+   [sphinx.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Serpent Pass
+
+   Endless dunes of hot sand stretch out beyond every horizon like a path
+   carved by a giant snake. It's the only way to get from city to city,
+   but shifting sands and changing dunes make it near impossible to
+   navigate for anyone but the locals.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Shields Are Down
+
+   Blast after blast hits with an eerie precision. The shields are down,
+   the ship won't hold forever, escape is the only way out. But there's
+   nowhere to run or hide in space, nowhere except for the most dangerous
+   parts. Asteroid fields may be the only way, but without shields they
+   may just as easily be the end as well.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Shockwaves
+
+   As your ship cruises through space your ship sounds the alarms for an
+   incoming energy wave. You're not sure what the type or cause of it is,
+   but bracing for impact is all you can do. Is it an enemy ship?
+   Unforeseen solar flares? Perhaps a different kind of space phenomena?
+   Who knows, but it keeps happening over and over.
+   [automaton.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Show's Over
+
+   It seemed like only yesterday the little automaton had gotten to be
+   part of the grand parade, but now the show was over. A lack of interest
+   meant a lack of funding and so the little automaton and his friends
+   were kicked out on the street. They still had each other, even if some
+   chose different paths, but with an uncertain future things looked dire
+   indeed.
+   [yeti.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Snowflakes At Night
+
+   The night is dark and quiet under a thick layer of clouds. The air is
+   crisp and unmoving, but then, out of the vast blackness above, a
+   snowflake dwindled from the air. Then another and another. Countless
+   thick snowflakes begin to fall out of the blackness above, as if coming
+   from some magical abyss.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Song for Spring
+
+   The days grow longer and warmer, though winter still remains. To help
+   the coming of spring, the elves sing and chant to welcome life's
+   abundance back to their homes. Wait a little long they must, but if
+   nothing else, their songs warm their hearts until the sun's full
+   return.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Spirit Parade
+
+   Countless spirits big and small march and float through the forest
+   path. Their luminescent forms turn the forest into a kaleidoscope of
+   colors, ever changing, and seemingly infinite. More and more spirits
+   pass your vision, but they barely acknowledge you, if at all. They
+   wiggle, twirl, and dance their way to some unknown destiny, and all you
+   can do is enjoy the show.
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Spoils of War
+
+   With new lands and conquests divided among the victors, all there's
+   left to do is to enjoy the spoils of war and celebrate with a grand
+   feast. Life is good for the living, and those who sacrificed themselves
+   will be celebrated and remembered.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Spring's Arrival
+
+   With the arrival of spring coming closer and closer, flowers take
+   advantage of the moist soils and a bounty of sunlight able to penetrate
+   through the barren treetops. Eager to bask in this radiant warmth, more
+   and more plants and flowers pop up from beneath a crisp layer of snow
+   with the single message: spring is coming.
+   [arachne.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Stealing Fire
+
+   Countless legs creep through the night, unseen for now in the darkest
+   shadows. They creep across the ceiling, crawl across the floor, and
+   seek the light used to fuel their demise. They find it soon and squee
+   in glee, as their tiny hands grab bits of flaming wood. Soon a trail of
+   little flames lights the thousands of little invaders and a trail from
+   fire to hideout. Those who listen closely might hear faint, happy
+   voices say things like: "Who will kill with fire now?".
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Storm
+
+   A song inspired by the thunder in the distant, the rain growing and
+   growing in intensity, and the barrage of noise unleashed when the storm
+   truly hits.
+   [dryad.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Summer Rain
+
+   A song inspired by the gentle, soothing rain in summer. The welcome
+   coolness, and the washing away of dust by the lukewarm drops.
+   [kraken.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Sunken City
+
+   Algae covered columns, coral encrusted walls, flowing seaweed on the
+   flooded roads. A city lost in a sea of time, pun intended. ^.^
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Sunny Afternoon
+
+   What better way to take advantage of a long, elvish lifespan than to
+   enjoy the quiet days for what they are. The sun glistens through the
+   treetops, water from a nearby creek cascades gently down the smoothened
+   rocks, birds sing their songs across the forest tops. There's so much
+   to enjoy, and plenty of time to enjoy it.
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Sunrise
+
+   As the night slowly makes way for day and the first rays of sun pierce
+   the morning sky, a new cycle starts again. While the nocturnal
+   creatures make for their beds, the diurnal creatures stretch their
+   bodies to prepare for the day. It's a slow awakening, a far stretch
+   from the bustling, colorful life found during the night.
+   [banshee.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Temple Ruins
+
+   Broken pillars, cracked paintings, and forgotten statuettes. The
+   remnants of what once was, but is now nothing but shadows and dust. The
+   voices of the past can still be heard in the wind, but it's just not
+   the same.
+   [wisp.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Temple Secrets
+
+   Dancing shadows cast by candle light, the smell of incense, and the
+   faint whispers of devout followers within the temple grounds lead you
+   through countless corridors. Each room and corridor you pass offers you
+   a glimpse at the hidden mysteries of the temple, but it'd be rude to
+   linger and stare.
+   [wendigo.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Terror in the Dark
+
+   Sometimes the shadows truly do hold a terrible horror, sometimes that
+   horror decides to come out, and if it does, you better run. Fast!
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Through The Atmosphere
+
+   Everything begins to shake, alarms blink, the time for reentry is here.
+   Adrenaline pumps through your veins, sweat drips from your forehead as
+   your vessel begins to heat up more and more. The sound of shaking metal
+   drowns out all the alarms, but you remain focused. Just a little while
+   longer, soon you'll be through the atmosphere.
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Thor, God of Thunder
+
+   The sky grows darker and darker as rain begins to pour without an end
+   in sight. Flashes of lightning light up the world every now and then
+   and are soon followed by deafening roars of thunder. Thor has arrived
+   and, by the sounds of it, isn't planning on leaving any time soon.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Tides Have Turned
+
+   A battle between you and an enemy ship rages on. Countless shots have
+   been fired, your shields are low, and outmaneuvering them proved
+   futile. You and your crew fight on, but know this is likely the end,
+   but then, out of nowhere, another ship arrives. You recognise it! A
+   friendly voice calls over the intercom: "Looks like you could use a
+   hand.".
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Time to Prepare
+
+   With the gift and curse of immortality comes infinite time to reflect,
+   create and prepare for an endless future ripe for the picking, at least
+   if you're so inclined. For some it simply means learning all they can,
+   reading all the books or traversing the world as it changes throughout
+   the ages. But others prefer to conquer this world and shape it into
+   their own image.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Time to Strike
+
+   Waiting in the bushes, ready to strike. The enemy will pass soon,
+   unsuspecting. Their footsteps can be heard first, then their shadows on
+   the road. They're seen by the unseen, still completely oblivious. Just
+   a little further, just a little longer.. Now! Strike swiftly from the
+   shadows! Then return to them as if nobody was there.
+   [felineFamiliar.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Tough and Mighty
+
+   Run, run, run she goes, with little paws and little nose. Tap, tap, tap
+   her feet, racing faster and indiscreet. Nothing can stop her, nothing
+   can slow her, nothing can keep her from her goal. Nothing will block
+   her, nothing will rock her, nothing will keep her from her bowl.
+   A song for/about one of our cats: Toph (the mighty)
+   [elf.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Treetop Homes
+
+   High up in the canopies, hidden from those wandering down below, lives
+   an entire community among the curling and intertwining branches. Homes
+   grown by bending and directing the growth of branches and air plants,
+   paths directed by the biggest of tree branches, and even a temple rests
+   in the crown of the biggest tree of all.
+   [kitsune.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Tranquil Garden
+
+   A song inspired by peaceful gardens, the babbling of water from layered
+   fountains, and the sound of the wind that carries the scent of the
+   flowers from all around.
+   [phoenix.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Traversing Mountains
+
+   A song inspired by trekking in the highest mountains, the rush of
+   reaching a top, followed by the urge to conquer another, and there's
+   always another.
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Trickster's Plan
+
+   When the trickster's plans come to fruition, you better hope you're not
+   involved. Like a snake, they'll wrap around you, trapping you like a
+   wolf chained and bound to a rock. The trickster's mischief rarely ends
+   well for simple mortals, so make like a fish and flee, hoping you don't
+   get caught in a net.
+   [kraken.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Underwater Mysteries
+
+   Deep blue waters with deeper secrets. Creatures lurking beneath the
+   sands, creatures watching from between the rocks. An endless ocean of
+   tranquility.
+   [oni.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Victorious
+
+   With the enemy vanquished, a victory run on horseback is a well earned
+   treat. Galloping through newly expanded territories toward your base
+   for a hearty meal, lots of drinks, and even more laughter.
+   [wisp.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Waiting
+
+   A song inspired by the joys of waiting, that specific kind of waiting
+   during which you feel both calm and excited. Calm because you know what
+   comes doesn't require you to worry, and excited because what comes will
+   be amazing.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   Whale Dive
+
+   Even within a possibly eternal and infinite universe, the sight of a
+   whale-like creature gliding through space was something you thought
+   you'd never come across. But, like the whales of Earth, massive
+   creatures are seemingly playing and diving before your very eyes. A
+   spectacle you cannot take your eyes off of.
+   [valkyrie.jpg]
+   [youtube.png] [soundcloud.png] [itunes.png] [googleplay.png]
+
+   The Wanderer
+
+   Across hills and mountains and through fjords and glades, the wanderer
+   wanders across the lands to destinations unknown. But a wanderer's
+   journey knows no end, only breaks to rest and take in the lands to
+   which they belong.
+   [vampire.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   We Are Legion
+
+   Two fangs appear in a charming smile, and fear instantly creeps up your
+   spine. Elsewhere a scream echoes through the air; "Vampire!". You look
+   around and see to your dismay, more fanged smiles all around. Panic
+   breaks out as people run, but the vampires simply follow in a fast, yet
+   held back walking pace, eager to taste the fear running through their
+   victims' veins.
+   [yeti.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   White Capped Mountains
+
+   An exhausting trek along rocky mountain paths lead you upward and
+   upward, further and further toward the top of one of the smaller
+   mountains in this range. The higher you get, the more snowflakes you
+   see dwindling from the sky, and the more you see your breath in the air
+   every time you exhale. You soon reach the top, and as you peek over the
+   summit, you're welcomed by a vast landscape of white mountain tops,
+   each fed by a constant drift of snow, and all waiting to be climbed
+   next.
+   [yeti.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Winter Longing
+
+   A song inspired by the longing for winter, fueled by the first sparkles
+   of frost on the ground, the crisp, cold winds, and the thing layer of
+   white created by the fields of frozen dew.
+   [spaceWhale.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Wonders of Space
+
+   Looking out into the distant infinity you can see much of the beauty
+   space has to offer. Galaxies far, far away shine bright and may be home
+   to countless beings, supernovae shine bright and stand out in a last
+   show of existence. Black holes offer eerie sights of light and dark,
+   and so much more beyond everything in sight.
+   [banshee.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Yesteryearning
+
+   A song inspired by the feeling of yearning for the past, for
+   yesteryear. A bittersweet feeling.
+   [banshee.jpg]
+   [youtube.png] [soundcloud.png] [fanburst.png] [itunes.png]
+   [googleplay.png]
+
+   Yesteryearning (Instrumental)
+
+   A song inspired by the feeling of yearning for the past, for
+   yesteryear. A bittersweet feeling. This version is an instrumental
+   version, and thus without the vocal track.
+
+   Copyright© 2017-2025 RollForFantasy.com
+   Privacy
+   (BUTTON) Update cookie preferences
