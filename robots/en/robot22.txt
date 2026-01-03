@@ -1,0 +1,103 @@
+User-agent: *
+Disallow: /5637150827/All/  
+Disallow: /Notifications/
+Disallow: /Notifications/Index*?*productId=
+Disallow: /user-pages/
+Disallow: /user-pages/*
+Disallow: /redirect/
+Disallow: /out/
+Disallow: /*.pdf$
+Disallow: /*.zip$
+Disallow: /*.exe$
+Disallow: /*?utm_source=*
+Disallow: /*?ref=*
+
+Allow: /search
+Allow: /search?q=*
+Allow: /search/?*
+Allow: /search/?filter=*
+Allow: /search/?sort=*
+Allow: /search/?price=*
+Allow: /search/?category=*
+
+
+User-agent: Googlebot
+Crawl-delay: 0
+Disallow:
+
+User-agent: Googlebot-Image
+Crawl-delay: 0
+Allow: /
+
+
+User-agent: Bingbot
+Crawl-delay: 0
+Disallow:
+
+
+User-agent: facebookexternalhit
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.gif$
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /login/
+Disallow: /account/
+Disallow: /search/
+Disallow: /user-pages/
+Disallow: /private/
+
+User-agent: Twitterbot
+Disallow: /
+
+User-agent: LinkedInBot
+Disallow: /
+
+User-agent: WhatsApp
+Disallow: /
+
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: semrush
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Zabbix
+Disallow: /
+
+User-agent: Barkrowler
+Disallow: /
+
+User-agent: MegaIndex
+Disallow: /
+
+User-agent: Seoscanners
+Disallow: /
+
+User-agent: SEOkicks
+Disallow: /
+
+User-agent: NetcraftSurveyAgent
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+
+Sitemap: https://www.easons.com/sitemapindex.xml

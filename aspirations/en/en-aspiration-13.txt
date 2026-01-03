@@ -18,3 +18,13 @@ Reference&#32;&#35;18&#46;23ef1602&#46;1767386212&#46;19761e78
 <P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;23ef1602&#46;1767386212&#46;19761e78</P>
 </BODY>
 </HTML>
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;draftkings&#46;com&#47;fantasy&#45;football" on this server.<P>
+Reference&#32;&#35;18&#46;23ef1602&#46;1767477869&#46;1b2f8655
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;23ef1602&#46;1767477869&#46;1b2f8655</P>
+</BODY>
+</HTML>

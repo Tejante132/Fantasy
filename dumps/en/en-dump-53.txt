@@ -6,3 +6,7 @@
    (BUTTON) Try again
 
    Please enable Javascript and refresh the page to continue
+   Something went wrong. Wait a moment and try again.
+   (BUTTON) Try again
+
+   Please enable Javascript and refresh the page to continue

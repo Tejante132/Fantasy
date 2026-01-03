@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+
+User-Agent: *
+Disallow: /*wiki
+
+# Sitemap files
+Sitemap: http://thebench.com.au/sitemap.xml

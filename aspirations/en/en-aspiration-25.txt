@@ -86,3 +86,47 @@
     </noscript>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+    <style>
+        body {
+            font-family: "Arial";
+        }
+    </style>
+    <script type="text/javascript">
+    window.awsWafCookieDomainList = [];
+    window.gokuProps = {
+"key":"AQIDAHjcYu/GjX+QlghicBgQ/7bFaQZ+m5FKCMDnO+vTbNg96AEgUuHfm6NZjDhR5/1svRvxAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2PWLZ26RTwd3flnjAgEQgDufH7cFPEWv//H85Sy26Yfv1uV1BiRuSkMvEMTAIkoqSHAhjdzTeUc86Fst0woGg0afoeH2wPN8n/OB3g==",
+          "iv":"CgAF7RlvwAAACxMY",
+          "context":"uPGWHs0ELu9tI8F7mPB77Jm/thPllI5dca4PK2XMMA2iGXeTTXi98shUaYob+HQWGWBgKDGj97E+dVUo5PhozmzX2sPMyQKianCp9KSvNkvv7zfhKa4d9/B6zOXqZJixPm7gQbM55hzaTJtdTw3KCiyjbCrJLE5nAAaLEKKQtwjrcPdXffQQcNBh4Ip5uoY1fuLxzrrLRwM1Zqw7pAwxTpFnULaiYJSvxZnY/uGF6Uc5CnB0JZbitpYWuQA4H+79XgsEuKiVeVBW3DI3NxbFTeZVXJutayh2FGrUmzVFMxD4gjxfxro1VgcRbE+OutW4iaKoLJtXALyutf7OVsHcDRmFGQ+r2LOlOm4="
+};
+    </script>
+    <script src="https://5a2af06700d8.e11bfa68.ca-central-1.token.awswaf.com/5a2af06700d8/69c4fb2cdf22/2ce8393d0f4b/challenge.js"></script>
+</head>
+<body>
+    <div id="challenge-container"></div>
+    <script type="text/javascript">
+        AwsWafIntegration.saveReferrer();
+        AwsWafIntegration.checkForceRefresh().then((forceRefresh) => {
+            if (forceRefresh) {
+                AwsWafIntegration.forceRefreshToken().then(() => {
+                    window.location.reload(true);
+                });
+            } else {
+                AwsWafIntegration.getToken().then(() => {
+                    window.location.reload(true);
+                });
+            }
+        });
+    </script>
+    <noscript>
+        <h1>JavaScript is disabled</h1>
+        In order to continue, we need to verify that you're not a robot.
+        This requires JavaScript. Enable JavaScript and then reload the page.
+    </noscript>
+</body>
+</html>

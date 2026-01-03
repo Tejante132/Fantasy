@@ -1,0 +1,5 @@
+Sitemap: https://demfirecreation.com/sitemap.xml
+Sitemap: https://demfirecreation.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

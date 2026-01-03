@@ -2042,3 +2042,1025 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
 </html>
 
 <!-- Cached by WP-Optimize - https://getwpo.com - Last modified: January 2, 2026 11:02 am (America/New_York UTC:-4) -->
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>2025 Fantasy Football: Week 15 Start &#039;Em, Sit &#039;Em, Picks And Busts - PressBox</title>
+	<meta name="description" content="Joe Serpico shares his top fantasy football plays, favorite picks and sleepers for Week 15." />
+	<link rel="canonical" href="https://pressboxonline.com/2025/12/09/2025-fantasy-football-week-15-start-em-sit-em-picks-and-busts/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="2025 Fantasy Football: Week 15 Start &#039;Em, Sit &#039;Em, Picks And Busts - PressBox" />
+	<meta property="og:description" content="Joe Serpico shares his top fantasy football plays, favorite picks and sleepers for Week 15." />
+	<meta property="og:url" content="https://pressboxonline.com/2025/12/09/2025-fantasy-football-week-15-start-em-sit-em-picks-and-busts/" />
+	<meta property="og:site_name" content="PressBox" />
+	<meta property="article:publisher" content="https://www.facebook.com/PressBoxSports/" />
+	<meta property="article:published_time" content="2025-12-09T15:15:17+00:00" />
+	<meta property="article:modified_time" content="2025-12-09T21:19:03+00:00" />
+	<meta property="og:image" content="https://pressboxonline.com/wp-content/uploads/2025/09/nfl2025_Dylan-Sampson-3.jpg" />
+	<meta property="og:image:width" content="1000" />
+	<meta property="og:image:height" content="563" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Joe Serpico" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@pressboxonline" />
+	<meta name="twitter:site" content="@pressboxonline" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Joe Serpico" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="4 minutes" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="PressBox &raquo; Feed" href="https://pressboxonline.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PressBox &raquo; Comments Feed" href="https://pressboxonline.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PressBox &raquo; 2025 Fantasy Football: Week 15 Start &#8216;Em, Sit &#8216;Em, Picks And Busts Comments Feed" href="https://pressboxonline.com/2025/12/09/2025-fantasy-football-week-15-start-em-sit-em-picks-and-busts/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://pressboxonline.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpressboxonline.com%2F2025%2F12%2F09%2F2025-fantasy-football-week-15-start-em-sit-em-picks-and-busts%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://pressboxonline.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpressboxonline.com%2F2025%2F12%2F09%2F2025-fantasy-football-week-15-start-em-sit-em-picks-and-busts%2F&#038;format=xml" />
+<style type="text/css">
+.hasCountdown{text-shadow:transparent 0 1px 1px;overflow:hidden;padding:5px}
+.countdown_rtl{direction:rtl}
+.countdown_holding span{background-color:#ccc}
+.countdown_row{clear:both;width:100%;text-align:center}
+.countdown_show1 .countdown_section{width:98%}
+.countdown_show2 .countdown_section{width:48%}
+.countdown_show3 .countdown_section{width:32.5%}
+.countdown_show4 .countdown_section{width:24.5%}
+.countdown_show5 .countdown_section{width:19.5%}
+.countdown_show6 .countdown_section{width:16.25%}
+.countdown_show7 .countdown_section{width:14%}
+.countdown_section{display:block;float:left;font-size:75%;text-align:center;margin:3px 0}
+.countdown_amount{font-size:200%}
+.countdown_descr{display:block;width:100%}
+a.countdown_infolink{display:block;border-radius:10px;width:14px;height:13px;float:right;font-size:9px;line-height:13px;font-weight:700;text-align:center;position:relative;top:-15px;border:1px solid}
+#countdown-preview{padding:10px}
+</style>
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style><style id='wp-block-heading-inline-css' type='text/css'>
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://pressboxonline.com/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id='wp-block-paragraph-inline-css' type='text/css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://pressboxonline.com/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='ctct_form_styles-css' href='https://pressboxonline.com/wp-content/plugins/constant-contact-forms/assets/css/style.css?ver=2.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='share-this-share-buttons-sticky-css' href='https://pressboxonline.com/wp-content/plugins/sharethis-share-buttons/css/mu-style.css?ver=1724432551' type='text/css' media='all' />
+<link rel='stylesheet' id='widgetopts-styles-css' href='https://pressboxonline.com/wp-content/plugins/widget-options/assets/css/widget-options.css?ver=4.0.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='colormag_style-css' href='https://pressboxonline.com/wp-content/themes/colormag-pro/style.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='colormag_googlefonts-css' href='//fonts.googleapis.com/css?family=Open+Sans&#038;ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='colormag-fontawesome-css' href='https://pressboxonline.com/wp-content/themes/colormag-pro/fontawesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='__EPYT__style-css' href='https://pressboxonline.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=14.2.1.2' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 25%;
+                }
+                
+                         @media (min-width:0px) and (max-width: 767px) {
+                            .epyt-gallery-rowbreak {
+                                display: none;
+                            }
+                            .epyt-gallery-allthumbs[class*="epyt-cols"] .epyt-gallery-thumb {
+                                width: 100% !important;
+                            }
+                          }
+/*# sourceURL=__EPYT__style-inline-css */
+</style>
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js?ver=2.3.2#property=642dbed145aa460012e101dd&amp;product=sticky-buttons&amp;source=sharethis-share-buttons-wordpress" id="share-this-share-buttons-mu-js"></script>
+<script type="text/javascript" src="https://pressboxonline.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://pressboxonline.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="__ytprefs__-js-extra">
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https://pressboxonline.com/wp-admin/admin-ajax.php","security":"e1b48156e9","gallery_scrolloffset":"20","eppathtoscripts":"https://pressboxonline.com/wp-content/plugins/youtube-embed-plus/scripts/","eppath":"https://pressboxonline.com/wp-content/plugins/youtube-embed-plus/","epresponsiveselector":"[\"iframe.__youtube_prefs__\",\"iframe[src*='youtube.com']\",\"iframe[src*='youtube-nocookie.com']\",\"iframe[data-ep-src*='youtube.com']\",\"iframe[data-ep-src*='youtube-nocookie.com']\",\"iframe[data-ep-gallerysrc*='youtube.com']\"]","epdovol":"1","version":"14.2.1.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com/embed/\"], iframe[src*=\"youtube-nocookie.com/embed/\"]","ajax_compat":"","maxres_facade":"eager","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","facade_mode":"","not_live_on_channel":"","vi_active":"","vi_js_posttypes":[]};
+//# sourceURL=__ytprefs__-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://pressboxonline.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=14.2.1.2" id="__ytprefs__-js"></script>
+<link rel="https://api.w.org/" href="https://pressboxonline.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://pressboxonline.com/wp-json/wp/v2/posts/82871" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pressboxonline.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<link rel='shortlink' href='https://pressboxonline.com/?p=82871' />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-151115901-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-151115901-1');
+</script>
+<!-- Google AdTags -->
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/530078208/Homepage_300x600', [300, 600], 'div-gpt-ad-1605549535600-0').addService(googletag.pubads());
+    googletag.defineSlot('/530078208/ROS_Banner_Top', [[320, 50], [728, 90]], 'div-gpt-ad-1572992339263-0').addService(googletag.pubads());
+    googletag.defineSlot('/530078208/ROS_Banner_Middle', [[320, 50], [728, 90]], 'div-gpt-ad-1572992427503-0').addService(googletag.pubads());
+    googletag.defineSlot('/530078208/ROS_Banner_Bottom', [[728, 90], [320, 50]], 'div-gpt-ad-1572992483075-0').addService(googletag.pubads());
+    googletag.defineSlot('/530078208/ROS_300x250_Top', [300, 250], 'div-gpt-ad-1572992516437-0').addService(googletag.pubads());
+    googletag.defineSlot('/530078208/ROS_300x250_Body1', [300, 250], 'div-gpt-ad-1572992563434-0').addService(googletag.pubads());
+    googletag.defineSlot('/530078208/ROS_300x250_Body2', [300, 250], 'div-gpt-ad-1573053814307-0').addService(googletag.pubads());
+    googletag.defineSlot('/530078208/ROS_300x250_Body3', [300, 250], 'div-gpt-ad-1572992703079-0').addService(googletag.pubads());
+	googletag.defineSlot('/530078208/NEW_Betting-Banner', [[320, 50], [728, 90], [300, 250]], 'div-gpt-ad-1655926825251-0').addService(googletag.pubads());
+    googletag.defineSlot('/530078208/PB-Travel', [[320, 50], [728, 90]], 'div-gpt-ad-1686768690858-0').addService(googletag.pubads());
+	  googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<!-- Begin BlueKai Tag -->
+<script type="text/javascript" src="https://tags.bkrtx.com/js/bk-coretag.js"></script>
+<script type="text/javascript">
+bk_addPageCtx('SiteVistor', 'PressboxSports');
+bk_doJSTag(88905, 1);
+</script>
+
+<!-- This site is optimized with the Schema plugin v1.7.9.6 - https://schema.press -->
+<script type="application/ld+json">[{"@context":"http:\/\/schema.org\/","@type":"WPHeader","url":"https:\/\/pressboxonline.com\/2025\/12\/09\/2025-fantasy-football-week-15-start-em-sit-em-picks-and-busts\/","headline":"2025 Fantasy Football: Week 15 Start &#8216;Em, Sit &#8216;Em, Picks And Busts","description":"Joe Serpico shares his top fantasy football plays, favorite picks and sleepers for Week 15."},{"@context":"http:\/\/schema.org\/","@type":"WPFooter","url":"https:\/\/pressboxonline.com\/2025\/12\/09\/2025-fantasy-football-week-15-start-em-sit-em-picks-and-busts\/","headline":"2025 Fantasy Football: Week 15 Start &#8216;Em, Sit &#8216;Em, Picks And Busts","description":"Joe Serpico shares his top fantasy football plays, favorite picks and sleepers for Week 15.","copyrightYear":"2025"}]</script>
+
+
+
+<!-- This site is optimized with the Schema plugin v1.7.9.6 - https://schema.press -->
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/pressboxonline.com\/2025\/12\/09\/2025-fantasy-football-week-15-start-em-sit-em-picks-and-busts\/"},"url":"https:\/\/pressboxonline.com\/2025\/12\/09\/2025-fantasy-football-week-15-start-em-sit-em-picks-and-busts\/","headline":"2025 Fantasy Football: Week 15 Start 'Em, Sit 'Em, Picks And Busts","datePublished":"2025-12-09T10:15:17-05:00","dateModified":"2025-12-09T16:19:03-05:00","publisher":{"@type":"Organization","@id":"https:\/\/pressboxonline.com\/#organization","name":"PressBox","logo":{"@type":"ImageObject","url":"https:\/\/pressboxonline.com\/wp-content\/uploads\/2019\/11\/pressbox-header-logo.jpg","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/pressboxonline.com\/wp-content\/uploads\/2025\/09\/nfl2025_Dylan-Sampson-3.jpg","width":1000,"height":563},"articleSection":"Fantasy Football","description":"Joe Serpico shares his top fantasy football plays, favorite picks and sleepers for Week 15.","author":{"@type":"Person","name":"Joe Serpico","url":"https:\/\/pressboxonline.com\/author\/joe-serpico\/","description":"See all posts by Joe Serpico. Follow Joe Serpico on Twitter at @JoeSerp","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/6ee615bfb20dd265e948668014be067920bf81eb47cc2c93075bf998ba9aaa9e?s=96&d=mm&r=g","height":96,"width":96}},"commentCount":"0"}</script>
+
+<link rel="pingback" href="https://pressboxonline.com/xmlrpc.php"><link rel="icon" href="https://pressboxonline.com/wp-content/uploads/2019/12/cropped-pressbox_square-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://pressboxonline.com/wp-content/uploads/2019/12/cropped-pressbox_square-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://pressboxonline.com/wp-content/uploads/2019/12/cropped-pressbox_square-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://pressboxonline.com/wp-content/uploads/2019/12/cropped-pressbox_square-270x270.jpg" />
+<!-- PressBox Internal Styles -->		<style type="text/css"> .colormag-button,blockquote,button,input[type=reset],input[type=button],
+		input[type=submit]{background-color:#990000}
+		a,#masthead .main-small-navigation li:hover > .sub-toggle i,
+		#masthead .main-small-navigation li.current-page-ancestor > .sub-toggle i,
+		#masthead .main-small-navigation li.current-menu-ancestor > .sub-toggle i,
+		#masthead .main-small-navigation li.current-page-item > .sub-toggle i,
+		#masthead .main-small-navigation li.current-menu-item > .sub-toggle i,
+		#masthead.colormag-header-classic #site-navigation .fa.search-top:hover,
+		#masthead.colormag-header-classic #site-navigation.main-small-navigation .random-post a:hover .fa-random,
+		#masthead.colormag-header-classic #site-navigation.main-navigation .random-post a:hover .fa-random,
+		#masthead.colormag-header-classic .breaking-news .newsticker a:hover,
+		.dark-skin #masthead.colormag-header-classic #site-navigation.main-navigation .home-icon:hover .fa{color:#990000}
+		#site-navigation{border-top:4px solid #990000}
+		.home-icon.front_page_on,.main-navigation a:hover,.main-navigation ul li ul li a:hover,
+		.main-navigation ul li ul li:hover>a,
+		.main-navigation ul li.current-menu-ancestor>a,
+		.main-navigation ul li.current-menu-item ul li a:hover,
+		.main-navigation ul li.current-menu-item>a,
+		.main-navigation ul li.current_page_ancestor>a,.main-navigation ul li.current_page_item>a,
+		.main-navigation ul li:hover>a,.main-small-navigation li a:hover,.site-header .menu-toggle:hover,
+		#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li:hover > a,
+		#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.current-menu-ancestor > a,
+		#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.current-menu-item > a,
+		#masthead.colormag-header-clean #site-navigation .menu-toggle:hover,
+		#masthead.colormag-header-clean #site-navigation.main-small-navigation .menu-toggle,
+		#masthead.colormag-header-classic #site-navigation.main-small-navigation .menu-toggle,
+		#masthead .main-small-navigation li:hover > a, #masthead .main-small-navigation li.current-page-ancestor > a,
+		#masthead .main-small-navigation li.current-menu-ancestor > a, #masthead .main-small-navigation li.current-page-item > a,
+		#masthead .main-small-navigation li.current-menu-item > a,
+		#masthead.colormag-header-classic #site-navigation .menu-toggle:hover,
+		.main-navigation ul li.focus > a,
+        #masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.focus > a { background-color:#990000}
+		#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li:hover,
+		#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.current-menu-ancestor,
+		#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.current-menu-item,
+		#masthead.colormag-header-classic #site-navigation .menu-toggle:hover,
+		#masthead.colormag-header-classic #site-navigation.main-small-navigation .menu-toggle,
+
+		#masthead.colormag-header-classic .main-navigation ul > li:hover > a,
+        #masthead.colormag-header-classic .main-navigation ul > li.current-menu-item > a,
+        #masthead.colormag-header-classic .main-navigation ul > li.current-menu-ancestor > a,
+        #masthead.colormag-header-classic .main-navigation ul li.focus > a { border-color:#990000}
+        #masthead.colormag-header-classic .main-navigation .home-icon a:hover .fa { color:#990000}
+		.main-small-navigation .current-menu-item>a,.main-small-navigation .current_page_item>a,
+		#masthead.colormag-header-clean .main-small-navigation li:hover > a,
+		#masthead.colormag-header-clean .main-small-navigation li.current-page-ancestor > a,
+		#masthead.colormag-header-clean .main-small-navigation li.current-menu-ancestor > a,
+		#masthead.colormag-header-clean .main-small-navigation li.current-page-item > a,
+		#masthead.colormag-header-clean .main-small-navigation li.current-menu-item > a { background:#990000}
+		#main .breaking-news-latest,.fa.search-top:hover{background-color:#990000}
+		.byline a:hover,.comments a:hover,.edit-link a:hover,.posted-on a:hover,
+		.social-links i.fa:hover,.tag-links a:hover,
+		#masthead.colormag-header-clean .social-links li:hover i.fa,
+		#masthead.colormag-header-classic .social-links li:hover i.fa,
+		#masthead.colormag-header-clean .breaking-news .newsticker a:hover{color:#990000}
+		.widget_featured_posts .article-content .above-entry-meta .cat-links a,
+		.widget_call_to_action .btn--primary,.colormag-footer--classic .footer-widgets-area .widget-title span::before,
+		.colormag-footer--classic-bordered .footer-widgets-area .widget-title span::before{background-color:#990000}
+		.widget_featured_posts .article-content .entry-title a:hover{color:#990000}
+		.widget_featured_posts .widget-title{border-bottom:2px solid #990000}
+		.widget_featured_posts .widget-title span,
+		.widget_featured_slider .slide-content .above-entry-meta .cat-links a{background-color:#990000}
+		.widget_featured_slider .slide-content .below-entry-meta .byline a:hover,
+		.widget_featured_slider .slide-content .below-entry-meta .comments a:hover,
+		.widget_featured_slider .slide-content .below-entry-meta .posted-on a:hover,
+		.widget_featured_slider .slide-content .entry-title a:hover{color:#990000}
+		.widget_highlighted_posts .article-content .above-entry-meta .cat-links a{background-color:#990000}
+		.widget_block_picture_news.widget_featured_posts .article-content .entry-title a:hover,
+		.widget_highlighted_posts .article-content .below-entry-meta .byline a:hover,
+		.widget_highlighted_posts .article-content .below-entry-meta .comments a:hover,
+		.widget_highlighted_posts .article-content .below-entry-meta .posted-on a:hover,
+		.widget_highlighted_posts .article-content .entry-title a:hover{color:#990000}
+		.category-slide-next,.category-slide-prev,.slide-next,
+		.slide-prev,.tabbed-widget ul li{background-color:#990000}
+		i.fa-arrow-up, i.fa-arrow-down{color:#990000}
+		#secondary .widget-title{border-bottom:2px solid #990000}
+		#content .wp-pagenavi .current,#content .wp-pagenavi a:hover,
+		#secondary .widget-title span{background-color:#990000}
+		#site-title a{color:#990000}
+		.page-header .page-title{border-bottom:2px solid #990000}
+		#content .post .article-content .above-entry-meta .cat-links a,
+		.page-header .page-title span{background-color:#990000}
+		#content .post .article-content .entry-title a:hover,.entry-meta .byline i,
+		.entry-meta .cat-links i,.entry-meta a,.post .entry-title a:hover,.search .entry-title a:hover{color:#990000}
+		.entry-meta .post-format i{background-color:#990000}
+		.entry-meta .comments-link a:hover,.entry-meta .edit-link a:hover,.entry-meta .posted-on a:hover,
+		.entry-meta .tag-links a:hover,.single #content .tags a:hover{color:#990000}
+		.format-link .entry-content a,.more-link{background-color:#990000}
+		.count,.next a:hover,.previous a:hover,.related-posts-main-title .fa,
+		.single-related-posts .article-content .entry-title a:hover{color:#990000}
+		.pagination a span:hover{color:#990000;border-color:#990000}
+		.pagination span{background-color:#990000}
+		#content .comments-area a.comment-edit-link:hover,#content .comments-area a.comment-permalink:hover,
+		#content .comments-area article header cite a:hover,.comments-area .comment-author-link a:hover{color:#990000}
+		.comments-area .comment-author-link span{background-color:#990000}
+		.comment .comment-reply-link:hover,.nav-next a,.nav-previous a{color:#990000}
+		.footer-widgets-area .widget-title{border-bottom:2px solid #990000}
+		.footer-widgets-area .widget-title span{background-color:#990000}
+		#colophon .footer-menu ul li a:hover,.footer-widgets-area a:hover,a#scroll-up i{color:#990000}
+		.advertisement_above_footer .widget-title{border-bottom:2px solid #990000}
+		.advertisement_above_footer .widget-title span{background-color:#990000}
+		.sub-toggle{background:#990000}
+		.main-small-navigation li.current-menu-item > .sub-toggle i {color:#990000}
+		.error{background:#990000}
+		.num-404{color:#990000}
+		#primary .widget-title{border-bottom: 2px solid #990000}
+		#primary .widget-title span{background-color:#990000}
+		.related-posts-wrapper-flyout .entry-title a:hover{color:#990000}
+		.related-posts-wrapper.style-three .article-content .entry-title a:hover:before{background:#990000}
+		.human-diff-time .human-diff-time-display:hover{color:#990000} 
+		.widget_slider_area .widget-title,.widget_beside_slider .widget-title { border-bottom:2px solid#990000}
+		.widget_slider_area .widget-title span,.widget_beside_slider .widget-title span { background-color:#990000}
+		.top-full-width-sidebar .widget-title{border-bottom: 2px solid #990000}
+		.top-full-width-sidebar .widget-title span{background-color:#990000} h1, h2, h3, h4, h5, h6 { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif; } body, button, input, select, textarea, p, blockquote p, .entry-meta, .more-link { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif; } #site-title a { color: #990000; } #site-navigation { border-top-color: #990000; } h1, h2, h3, h4, h5, h6 { color: #000000; } .post .entry-title, .post .entry-title a { color: #000000; } .type-page .entry-title { color: #000000; } .colormag-button, input[type="reset"], input[type="button"], input[type="submit"], button, .more-link span { background-color: #990000; } #colophon .tg-upper-footer-widgets .widget { background-color: #2c2e34; } .above-entry-meta,.tg-post-categories{display:none;} .below-entry-meta .comments,.elementor .tg-module-wrapper .tg-module-meta .tg-module-comments{display:none;} .below-entry-meta .tag-links{display:none;}#colophon { background-position: center center; }#colophon { background-size: auto; }#colophon { background-attachment: scroll; }#colophon { background-repeat: repeat; }</style>
+				<style type="text/css" id="wp-custom-css">
+			.widget_featured_slider .below-entry-meta {
+display: none;
+}
+.metaslider .caption,
+.metaslider .cs-title,
+.metaslider .nivo-caption {
+    font-size: 26px;
+}
+.entry-title {
+font-weight: 600;
+
+}
+	
+@media (max-width: 600px) {
+.default-wp-page.thumbnail-background-pagination a {
+font-size: 12px;
+}
+}
+.main-navigation a {
+font-weight: 400;
+}
+.below-entry-meta span .fa {
+display: none;
+}
+.below-entry-meta .byline a::before {
+content: "By ";
+}
+.widget_featured_posts .below-entry-meta {
+display: none;
+}
+.wp-block-image figure img {
+margin-bottom: 0;
+}
+.wp-block-image .alignleft > figcaption {
+margin-top: 0;
+margin-bottom: 20px;
+}
+@media screen and (max-width: 768px) {
+    .widget_featured_posts_small_thumbnails .single-article {
+        display: flex;
+    }
+
+    .widget_featured_posts_small_thumbnails .following-post figure {
+        flex: 0 0 30%;
+    }
+
+    .widget_featured_posts_small_thumbnails .article-content {
+        flex: 0 0 70%;
+    }
+   
+    .widget_featured_posts_small_thumbnails .following-post img {
+        width: 100%;
+    }
+}		</style>
+		</head>
+
+<body class="wp-singular post-template-default single single-post postid-82871 single-format-standard wp-custom-logo wp-theme-colormag-pro ctct-colormag-pro  box-layout">
+
+
+
+
+
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+	
+	
+	<header id="masthead" class="site-header clearfix ">
+		<div id="header-text-nav-container" class="clearfix">
+
+			
+							<div class="news-bar">
+				<div class="inner-wrap clearfix">
+					
+					
+					
+		
+		<div class="social-links clearfix">
+			<ul>
+				<li><a href="https://www.facebook.com/PressBoxSports/" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/pressboxonline" target="_blank"><i class="fa fa-twitter"></i></a></li><li><a href="https://www.youtube.com/user/PressBoxSports" target="_blank"><i class="fa fa-youtube"></i></a></li>
+							</ul>
+		</div><!-- .social-links -->
+						</div>
+			</div>
+		
+				
+				
+		<div class="inner-wrap">
+
+			<div id="header-text-nav-wrap" class="clearfix">
+				<div id="header-left-section">
+											<div id="header-logo-image">
+							<a href="https://pressboxonline.com/" class="custom-logo-link" rel="home"><img width="360" height="90" src="https://pressboxonline.com/wp-content/uploads/2019/12/pressbox-header-360.jpg" class="custom-logo" alt="PressBox logo" decoding="async" srcset="https://pressboxonline.com/wp-content/uploads/2019/12/pressbox-header-360.jpg 360w, https://pressboxonline.com/wp-content/uploads/2019/12/pressbox-header-360-300x75.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a>						</div><!-- #header-logo-image -->
+											<div id="header-text" class="screen-reader-text">
+													<h3 id="site-title">
+								<a href="https://pressboxonline.com/" title="PressBox" rel="home">PressBox</a>
+							</h3>
+						
+												<p id="site-description">Baltimore Sports. Period</p>
+						<!-- #site-description -->
+					</div><!-- #header-text -->
+				</div><!-- #header-left-section -->
+				<div id="header-right-section">
+											<div id="header-right-sidebar" class="clearfix">
+							<aside id="custom_html-9" class="widget_text widget widget_custom_html clearfix"><div class="textwidget custom-html-widget"><!-- /530078208/ROS_Banner_Top -->
+<div id='div-gpt-ad-1572992339263-0'>
+<script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1572992339263-0'); });
+  </script>
+</div></div></aside>						</div>
+										</div><!-- #header-right-section -->
+
+			</div><!-- #header-text-nav-wrap -->
+
+		</div><!-- .inner-wrap -->
+
+		
+				
+				
+					<nav id="site-navigation" class="main-navigation clearfix">
+				<div class="inner-wrap clearfix">
+											<div class="home-icon">
+							<a href="https://pressboxonline.com/" title="PressBox"><i class="fa fa-home"></i></a>
+						</div>
+						
+											<div class="search-random-icons-container">
+															<div class="top-search-wrap">
+									<i class="fa fa-search search-top"></i>
+									<div class="search-form-top">
+										<form action="https://pressboxonline.com/" class="search-form searchform clearfix" method="get">
+	<div class="search-wrap">
+		<input type="text" placeholder="Search" class="s field" name="s">
+		<button class="search-icon" type="submit"></button>
+	</div>
+</form><!-- .searchform -->
+									</div>
+								</div>
+													</div>
+					
+					<p class="menu-toggle"></p>
+					<div class="menu-primary-container"><ul id="menu-top-navigation-menu" class="menu"><li id="menu-item-511" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-511 menu-item-category-3"><a href="https://pressboxonline.com/baseball/">Orioles</a>
+<ul class="sub-menu">
+	<li id="menu-item-54422" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-54422 menu-item-category-3"><a href="https://pressboxonline.com/baseball/">Orioles</a></li>
+	<li id="menu-item-6435" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6435 menu-item-category-11"><a href="https://pressboxonline.com/mlb-power-rankings/">MLB Power Rankings</a></li>
+</ul>
+</li>
+<li id="menu-item-512" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-512 menu-item-category-4"><a href="https://pressboxonline.com/football/">Ravens</a>
+<ul class="sub-menu">
+	<li id="menu-item-4212" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-4212 menu-item-category-10"><a href="https://pressboxonline.com/fantasy-football/">Fantasy Football</a></li>
+	<li id="menu-item-11649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11649"><a href="https://pressboxonline.com/2025/06/12/2025-fantasy-football-draft-rankings/">Fantasy Player Rankings</a></li>
+	<li id="menu-item-4211" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4211 menu-item-category-12"><a href="https://pressboxonline.com/nfl-draft/">NFL Draft</a></li>
+	<li id="menu-item-4210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4210"><a href="https://pressboxonline.com/ray/">Ray Lewis HOF</a></li>
+	<li id="menu-item-4209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4209"><a href="https://pressboxonline.com/reed/">Ed Reed HOF</a></li>
+</ul>
+</li>
+<li id="menu-item-78086" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-78086 menu-item-category-10"><a href="https://pressboxonline.com/fantasy-football/">Fantasy</a>
+<ul class="sub-menu">
+	<li id="menu-item-78087" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-78087 menu-item-category-10"><a href="https://pressboxonline.com/fantasy-football/">Fantasy Football</a></li>
+	<li id="menu-item-78088" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-78088"><a href="https://pressboxonline.com/2025/09/03/2025-fantasy-football-player-rankings/">Fantasy Player Rankings</a></li>
+</ul>
+</li>
+<li id="menu-item-513" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-513 menu-item-category-7"><a href="https://pressboxonline.com/college/">College</a></li>
+<li id="menu-item-514" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-514 menu-item-category-8"><a href="https://pressboxonline.com/high-school/">High School</a></li>
+<li id="menu-item-17583" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-17583 menu-item-category-19"><a href="https://pressboxonline.com/sports-betting/">Betting</a>
+<ul class="sub-menu">
+	<li id="menu-item-43219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43219"><a href="https://pressboxonline.com/offers/">Sign-Up Offers</a></li>
+	<li id="menu-item-17584" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17584 menu-item-category-19"><a href="https://pressboxonline.com/sports-betting/">Sports Betting</a></li>
+	<li id="menu-item-17585" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17585 menu-item-category-9"><a href="https://pressboxonline.com/fantasy-baseball/">Fantasy Baseball</a></li>
+	<li id="menu-item-21737" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-21737 menu-item-category-10"><a href="https://pressboxonline.com/fantasy-football/">Fantasy Football</a></li>
+	<li id="menu-item-518" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-518 menu-item-category-18"><a href="https://pressboxonline.com/horse-racing/">Horse Racing</a></li>
+</ul>
+</li>
+<li id="menu-item-525" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-525 menu-item-category-17"><a href="https://pressboxonline.com/more-sports/">More</a>
+<ul class="sub-menu">
+	<li id="menu-item-3765" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3765"><a href="/bestof/">Best Of</a></li>
+	<li id="menu-item-519" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-519 menu-item-category-15"><a href="https://pressboxonline.com/lacrosse/">Lacrosse</a></li>
+	<li id="menu-item-520" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-520 menu-item-category-16"><a href="https://pressboxonline.com/soccer/">Soccer</a></li>
+	<li id="menu-item-4213" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4213 menu-item-category-17"><a href="https://pressboxonline.com/more-sports/">More Sports</a></li>
+	<li id="menu-item-52144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52144"><a href="https://pressboxonline.com/travel/">Travel</a></li>
+	<li id="menu-item-4214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4214"><a href="https://pressboxonline.com/about/">About PressBox</a></li>
+	<li id="menu-item-4215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4215"><a href="https://pressboxonline.com/store/">PressBox Store</a></li>
+</ul>
+</li>
+<li id="menu-item-524" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-524 menu-item-category-30"><a href="https://pressboxonline.com/columns/">Columns</a>
+<ul class="sub-menu">
+	<li id="menu-item-437" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-437 menu-item-category-21"><a href="https://pressboxonline.com/stan-the-fan-charles/">Stan &#8216;The Fan&#8217; Charles</a></li>
+	<li id="menu-item-435" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-435 menu-item-category-22"><a href="https://pressboxonline.com/glenn-clark/">Glenn Clark</a></li>
+	<li id="menu-item-438" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-438 menu-item-category-23"><a href="https://pressboxonline.com/jim-henneman/">Jim Henneman</a></li>
+</ul>
+</li>
+<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-47"><a href="https://pressboxonline.com/in-the-paper/">Print</a>
+<ul class="sub-menu">
+	<li id="menu-item-434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-434"><a href="https://pressboxonline.com/in-the-paper/">Latest Issue</a></li>
+	<li id="menu-item-2514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2514"><a href="/find/">Where To Find</a></li>
+	<li id="menu-item-3142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3142"><a href="https://pressboxonline.com/store">Subscribe</a></li>
+</ul>
+</li>
+<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48"><a href="https://pressboxonline.com/radio/">Shows</a>
+<ul class="sub-menu">
+	<li id="menu-item-25410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25410"><a target="_blank" href="https://glennclarkradio.com/">Glenn Clark Radio</a></li>
+	<li id="menu-item-25413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25413"><a href="https://pressboxonline.com/thebataround/">The Bat Around</a></li>
+	<li id="menu-item-63657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63657 menu-item-category-3458"><a href="https://pressboxonline.com/drawing-a-crowd/">Drawing A Crowd</a></li>
+	<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="https://pressboxonline.com/video/">Video</a></li>
+</ul>
+</li>
+<li id="menu-item-83572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83572"><a href="https://pressboxonline.com/bestof2025/">Best Of</a></li>
+</ul></div>
+				</div>
+			</nav>
+		
+		
+			
+		</div><!-- #header-text-nav-container -->
+
+		
+	</header>
+
+		
+	<div id="main" class="clearfix">
+		
+		
+		<div class="inner-wrap clearfix">
+			
+
+<div id="primary">
+	<div id="content" class="clearfix">
+
+		
+			
+<article id="post-82871" class="post-82871 post type-post status-publish format-standard has-post-thumbnail hentry category-fantasy-football category-football category-top-stories tag-fantasy-football tag-fantasy-football-advice tag-fantasy-football-sleepers tag-fantasy-football-start-em-sit-em tag-fantasy-football-week-15">
+	
+			<div class="single-title-above">
+			<div class="above-entry-meta"><span class="cat-links"><a href="https://pressboxonline.com/fantasy-football/"  rel="category tag">Fantasy Football</a>&nbsp;<a href="https://pressboxonline.com/football/"  rel="category tag">Football</a>&nbsp;<a href="https://pressboxonline.com/top-stories/"  rel="category tag">Top Stories</a>&nbsp;</span></div>
+			<header class="entry-header">
+				<h1 class="entry-title">
+					2025 Fantasy Football: Week 15 Start &#8216;Em, Sit &#8216;Em, Picks And Busts				</h1>
+			</header>
+
+			<div class="below-entry-meta ">
+			<span class="posted-on"><a href="https://pressboxonline.com/2025/12/09/2025-fantasy-football-week-15-start-em-sit-em-picks-and-busts/" title="10:15 am" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2025-12-09T10:15:17-05:00">December 9, 2025</time><time class="updated" datetime="2025-12-09T16:19:03-05:00">December 9, 2025</time></a></span>
+			<span class="byline"><span class="author vcard" itemprop="name"><i class="fa fa-user"></i><a class="url fn n" href="https://pressboxonline.com/author/joe-serpico/" title="Joe Serpico">Joe Serpico</a></span></span>
+
+			
+			<span class="tag-links"><i class="fa fa-tags"></i><a href="https://pressboxonline.com/tag/fantasy-football/" rel="tag">Fantasy Football</a>, <a href="https://pressboxonline.com/tag/fantasy-football-advice/" rel="tag">Fantasy Football Advice</a>, <a href="https://pressboxonline.com/tag/fantasy-football-sleepers/" rel="tag">Fantasy football sleepers</a>, <a href="https://pressboxonline.com/tag/fantasy-football-start-em-sit-em/" rel="tag">fantasy football start em sit em</a>, <a href="https://pressboxonline.com/tag/fantasy-football-week-15/" rel="tag">fantasy football week 15</a></span></div>		</div>
+	
+	
+	
+					<div class="featured-image">
+									<img width="800" height="445" src="https://pressboxonline.com/wp-content/uploads/2025/09/nfl2025_Dylan-Sampson-3-800x445.jpg" class="attachment-colormag-featured-image size-colormag-featured-image wp-post-image" alt="Dylan Sampson" decoding="async" fetchpriority="high" />											</div>
+
+					
+	
+	<div class="article-content clearfix">
+
+		
+		
+		<div class="entry-content clearfix">
+			<div style="margin-top: 0px; margin-bottom: 0px;" class="sharethis-inline-share-buttons" ></div>
+<p>Let’s dive into some news and notes around the league, my top fantasy plays and favorite picks for Week 15.</p>
+
+
+
+<p><strong>Notes:</strong></p>
+
+
+
+<p><strong>•</strong> If you made it to the fantasy football playoffs, congratulations! If you did not, hopefully your league still has something to play for. If you finished in last place, take the punishment without any issues.</p>
+
+
+
+<p><strong>•</strong> The injury bug was back in Week 15, and it could not have come at a worse time for fantasy owners. Daniel Jones is currently QB10 but is now out for the season with an Achilles injury. Jayden Daniels was a surprise return to the lineup for the Commanders but was forced out in the second half in Minnesota. CeeDee Lamb, Tee Higgins and De&#8217;Von Achane were all knocked out of action. Zach Ertz likely saw the end of his terrific career with a knee injury. As always, check my player rankings for the best available players.</p>
+
+
+
+<p><strong>•</strong> The biggest unknown this time of the year is whether fantasy stars will get benched to rest for the playoffs. The Bills-Patriots matchup this weekend could have implications that could lead to this very scenario. This is something to keep a track of the next couple of weeks. It is plausible that Drake Maye is not an option for fantasy owners in Week 17.</p>
+
+
+
+<p><strong>•</strong> Remember to check the weather heading into Sunday for your kicker selection. Target kickers playing in domes and fair weather conditions. Every point matters this time of the year.</p>
+
+
+
+<p><strong>Thursday Night Game: </strong>Falcons vs. Buccaneers<br><strong>Sunday Night Game: </strong>Vikings vs. Cowboys<br><strong>Monday Night Game: </strong>Dolphins vs. Steelers</p>
+
+
+
+<h4 class="wp-block-heading"><strong>Start &#8216;Em:</strong></h4>
+
+
+
+<p>Quarterback: Marcus Mariota<br>Running Back: Devin Singletary<br>Wide Receiver: Jauan Jennings<br>Tight End: Harold Fannin Jr.<br>Defense: Panthers</p>
+
+
+
+<h4 class="wp-block-heading"><strong>Sit &#8216;Em:</strong></h4>
+
+
+
+<p>Quarterback: Tua Tagovailoa<br>Running Back: Tony Pollard<br>Wide Receiver: Troy Franklin<br>Tight End: Mark Andrews<br>Defense: Rams</p>
+
+
+
+<h4 class="wp-block-heading"><strong>Sleepers:</strong></h4>
+
+
+
+<p>Quarterback: Tyler Shough<br>Running Back: Dylan Sampson<br>Wide Receiver: Andre Iosivas<br>Tight End: Gunnar Helm<br>Defense: Cowboys</p>
+
+
+
+<h4 class="wp-block-heading"><strong>NFL Picks for Week 15</strong></h4>
+
+
+
+<p><em>All odds are from FanDuel Sportsbook at time of writing</em></p>
+
+
+
+<p><strong>Weekly Pick &#8216;Em (Season Record: 137-69-1)</strong></p>
+
+
+
+<p>Buccaneers (vs. Falcons)<br>Texans (vs. Cardinals)<br>Eagles (vs. Raiders)<br>Jaguars (vs. Jets)<br>Bears (vs. Browns)<br>Patriots (vs. Bills)<br>Ravens (at Bengals)<br>Chiefs (vs. Chargers)<br>Giants (vs. Commanders)<br>Seahawks (vs. Colts)<br>Broncos (vs. Packers)<br>Panthers (at Saints)<br>Rams (vs. Lions)<br>49ers (vs. Titans)<br>Cowboys (vs. Vikings)<br>Steelers (vs. Dolphins)</p>
+
+
+
+<p><strong>Five Picks Against the Spread (Season Record: 34-33-3)</strong></p>
+
+
+
+<p>Pats +1.5 vs. Bills<br>Ravens -2.5 at Bengals<br>Broncos +2.5 vs. Packers<br>49ers -12.5 vs. Titans<br>Cowboys -6 vs. Vikings</p>
+
+
+
+<p><strong>Five Over-Under Totals (Season Record: 36-34)</strong></p>
+
+
+
+<p>Falcons-Buccaneers Under 44.5<br>Chargers-Chiefs Over 41.5<br>Commanders-Giants Under 47.5<br>Panties-Saints Under 40.5<br>Dolphins-Steelers Under 42.5</p>
+
+
+
+<p><strong>One Bold Prediction for the Week<br></strong>Week 1: Trevor Lawrence finishes as a top-10 QB against the Panthers (miss)<br>Week 2: Zay Flowers remains the overall WR1 after torching the Browns (miss)<br>Week 3: Daniel Jones makes it three straight weeks finishing as a top-five fantasy quarterback (miss)<br>Week 4: Josh Allen accounts for five total touchdowns against the Saints (miss)<br>Week 5: A tight end leads all FLEX-worthy players in scoring (miss)<br>Week 6: Matthew Stafford finishes as a QB1 against the Ravens (miss)<br>Week 7: Quinshon Judkins is a top-10 RB against the Dolphins (finally got one!)<br>Week 8: Joe Flacco throws for more than 300 yards against the Jets (miss)<br>Week 9: Marvin Harrison Jr. records more than 150 receiving yards against the Cowboys (miss)<br>Week 10: Jalen Hurts throws for more than 300 yards against the Packers on “Monday Night Football” (miss)<br>Week 11: C.J. Stroud finishes as a QB1 against the Titans (miss)<br>Week 13: Jaxon Smith-Njigba is held under 100 receiving yards (winner winner!)<br>Week 14: Lamar Jackson gets back on track and finishes as a top-three fantasy quarterback against the Steelers (miss)<br>Week 15: Nico Collins posts more than 150 receiving yards against the Cardinals</p>
+
+
+
+<p><em>Photo Credit: Kenya Allen/PressBox</em></p>
+		</div>
+
+			</div>
+
+	</article>
+
+		
+	</div><!-- #content -->
+
+		
+		
+			
+			<div class="author-box author-bio-style-one">
+				<div class="author-description-wrapper">
+					<h4 class="author-name">Joe Serpico</h4>
+
+					
+					<p class="author-description"><a href="/author/joe-serpico/">See all posts by Joe Serpico</a>. Follow Joe Serpico on Twitter at <a href="https://twitter.com/joeserp">@JoeSerp</a></p>
+
+					
+									</div>
+				<div class="author-img"></div>
+			</div>
+		
+		
+	
+	
+</div><!-- #primary -->
+
+
+<div id="secondary">
+			
+		<aside id="text-30" class="widget widget_text clearfix">			<div class="textwidget"><p><a href="https://pressboxonline.com/travel/"><img loading="lazy" decoding="async" class="wp-image-52562 size-full aligncenter" src="https://pressboxonline.com/wp-content/uploads/2023/06/OSayHaveYouSeenMarylandTravelIdeas_WEB_300x80_2023.gif" alt="O Say Have You Seen Maryland Travel Ideas" width="300" height="80" /></a></p>
+</div>
+		</aside><aside id="text-26" class="widget widget_text clearfix"><h3 class="widget-title"><span>Sports Betting Sign-Up Offers</span></h3>			<div class="textwidget"><p><strong>FanDuel: </strong><a href="https://bettinghero.com/go/pressbox-md-fanduel-sportsbook" target="_blank" rel="noopener">Bet $5 Get $150 Bonus Bets If Bet Wins</a><br />
+<strong> DraftKings:</strong> <a href="https://bettinghero.com/go/pressbox-md-draftkings-sportsbook" target="_blank" rel="noopener">No Sweat First Bet up to $1,000</a><br />
+<strong>BetRivers:</strong> <a href="https://bettinghero.com/go/pressbox-md-betrivers-sportsbook" target="_blank" rel="noopener">Second Chance Bet up to $500</a><br />
+<strong>BetMGM:</strong> <a href="https://bettinghero.com/go/pressbox-md-betmgm-sportsbook" target="_blank" rel="noopener">Bet $5 Get $150 in Bonus Bets Instantly</a><br />
+<strong>Caesars: </strong><a href="https://bettinghero.com/go/pressbox-md-caesars-sportsbook" target="_blank" rel="noopener">First Bet on Caesars up to $1,000</a><br />
+<strong>    <a href="https://pressboxonline.com/offers/">Check out all of PressBox&#8217;s sign-up offers.</a></strong></p>
+</div>
+		</aside><aside id="custom_html-17" class="widget_text widget widget_custom_html clearfix"><div class="textwidget custom-html-widget"><div style="text-align: center">
+<!-- /530078208/ROS_300x250_Top --> 
+<div id='div-gpt-ad-1572992516437-0'>
+<script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1572992516437-0'); });
+</script>
+</div>
+</div></div></aside><aside id="colormag_featured_posts_small_thumbnails-8" class="extendedwopts-hide extendedwopts-mobile widget widget_featured_posts widget_featured_posts_small_thumbnails widget_featured_meta clearfix">		<h3 class="widget-title" ><span >Latest News</span></h3>		<div class="following-post">
+							<div class="single-article clearfix " >
+					<figure><a href="https://pressboxonline.com/2026/01/03/glenn-clark-radio-week-in-review-dec-29-2025-jan-2-2026/" title="Glenn Clark Radio Week In Review: Dec. 29, 2025 &#8211; Jan. 2, 2026"><img width="130" height="90" src="https://pressboxonline.com/wp-content/uploads/2025/01/Zion-Elee-3-130x90.jpg" class="attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Glenn Clark Radio Week In Review: Dec. 29, 2025 &#8211; Jan. 2, 2026" title="Glenn Clark Radio Week In Review: Dec. 29, 2025 &#8211; Jan. 2, 2026" decoding="async" loading="lazy" srcset="https://pressboxonline.com/wp-content/uploads/2025/01/Zion-Elee-3-130x90.jpg 130w, https://pressboxonline.com/wp-content/uploads/2025/01/Zion-Elee-3-392x272.jpg 392w" sizes="auto, (max-width: 130px) 100vw, 130px" /></a></figure>					<div class="article-content">
+						<div class="above-entry-meta"><span class="cat-links"><a href="https://pressboxonline.com/glenn-clark/"  rel="category tag">The Reality Check With Glenn Clark</a>&nbsp;<a href="https://pressboxonline.com/top-stories/"  rel="category tag">Top Stories</a>&nbsp;</span></div>						<h3 class="entry-title">
+							<a href="https://pressboxonline.com/2026/01/03/glenn-clark-radio-week-in-review-dec-29-2025-jan-2-2026/" title="Glenn Clark Radio Week In Review: Dec. 29, 2025 &#8211; Jan. 2, 2026">Glenn Clark Radio Week In Review: Dec. 29, 2025 &#8211; Jan. 2, 2026</a>
+						</h3>
+
+						
+						<div class="below-entry-meta ">
+							<span class="posted-on"><a href="https://pressboxonline.com/2026/01/03/glenn-clark-radio-week-in-review-dec-29-2025-jan-2-2026/" title="8:25 am" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2026-01-03T08:25:00-05:00">January 3, 2026</time><time class="updated" datetime="2026-01-02T14:06:24-05:00">January 2, 2026</time></a></span>							<span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="https://pressboxonline.com/author/glenn-clark/" title="Glenn Clark">Glenn Clark</a></span></span>
+																				</div>
+					</div>
+				</div>
+								<div class="single-article clearfix " >
+					<figure><a href="https://pressboxonline.com/2026/01/02/maryland-mens-basketball-still-searching-for-first-big-ten-win-following-64-54-loss-to-oregon/" title="Maryland Men&#8217;s Basketball Still Searching For First Big Ten Win Following 64-54 Loss To Oregon"><img width="130" height="90" src="https://pressboxonline.com/wp-content/uploads/2026/01/Solomon-Washington-vs-Oregon-130x90.jpg" class="attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Maryland Men&#8217;s Basketball Still Searching For First Big Ten Win Following 64-54 Loss To Oregon" title="Maryland Men&#8217;s Basketball Still Searching For First Big Ten Win Following 64-54 Loss To Oregon" decoding="async" loading="lazy" srcset="https://pressboxonline.com/wp-content/uploads/2026/01/Solomon-Washington-vs-Oregon-130x90.jpg 130w, https://pressboxonline.com/wp-content/uploads/2026/01/Solomon-Washington-vs-Oregon-392x272.jpg 392w" sizes="auto, (max-width: 130px) 100vw, 130px" /></a></figure>					<div class="article-content">
+						<div class="above-entry-meta"><span class="cat-links"><a href="https://pressboxonline.com/college/"  rel="category tag">College Sports</a>&nbsp;<a href="https://pressboxonline.com/top-stories/"  rel="category tag">Top Stories</a>&nbsp;</span></div>						<h3 class="entry-title">
+							<a href="https://pressboxonline.com/2026/01/02/maryland-mens-basketball-still-searching-for-first-big-ten-win-following-64-54-loss-to-oregon/" title="Maryland Men&#8217;s Basketball Still Searching For First Big Ten Win Following 64-54 Loss To Oregon">Maryland Men&#8217;s Basketball Still Searching For First Big Ten Win Following 64-54 Loss To Oregon</a>
+						</h3>
+
+						
+						<div class="below-entry-meta ">
+							<span class="posted-on"><a href="https://pressboxonline.com/2026/01/02/maryland-mens-basketball-still-searching-for-first-big-ten-win-following-64-54-loss-to-oregon/" title="11:03 pm" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2026-01-02T23:03:18-05:00">January 2, 2026</time><time class="updated" datetime="2026-01-02T23:07:15-05:00">January 2, 2026</time></a></span>							<span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="https://pressboxonline.com/author/joshua-sampson/" title="Joshua Sampson">Joshua Sampson</a></span></span>
+																				</div>
+					</div>
+				</div>
+								<div class="single-article clearfix " >
+					<figure><a href="https://pressboxonline.com/2026/01/02/best-of-2025-best-smash-mouth/" title="Best Of 2025: Best Smash Mouth"><img width="130" height="90" src="https://pressboxonline.com/wp-content/uploads/2025/01/Derrick-Henry-12-130x90.jpg" class="attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Best Of 2025: Best Smash Mouth" title="Best Of 2025: Best Smash Mouth" decoding="async" loading="lazy" srcset="https://pressboxonline.com/wp-content/uploads/2025/01/Derrick-Henry-12-130x90.jpg 130w, https://pressboxonline.com/wp-content/uploads/2025/01/Derrick-Henry-12-392x272.jpg 392w" sizes="auto, (max-width: 130px) 100vw, 130px" /></a></figure>					<div class="article-content">
+						<div class="above-entry-meta"><span class="cat-links"><a href="https://pressboxonline.com/best-of-2025/"  rel="category tag">Best Of 2025</a>&nbsp;<a href="https://pressboxonline.com/top-stories/"  rel="category tag">Top Stories</a>&nbsp;</span></div>						<h3 class="entry-title">
+							<a href="https://pressboxonline.com/2026/01/02/best-of-2025-best-smash-mouth/" title="Best Of 2025: Best Smash Mouth">Best Of 2025: Best Smash Mouth</a>
+						</h3>
+
+						
+						<div class="below-entry-meta ">
+							<span class="posted-on"><a href="https://pressboxonline.com/2026/01/02/best-of-2025-best-smash-mouth/" title="11:05 am" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2026-01-02T11:05:00-05:00">January 2, 2026</time><time class="updated" datetime="2026-01-02T13:25:55-05:00">January 2, 2026</time></a></span>							<span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="https://pressboxonline.com/author/pressbox/" title="PressBox">PressBox</a></span></span>
+																				</div>
+					</div>
+				</div>
+								<div class="single-article clearfix " >
+					<figure><a href="https://pressboxonline.com/2026/01/02/towsons-dylan-williamson-a-unicorn-in-modern-college-hoops/" title="Towson&#8217;s Dylan Williamson A Unicorn In Modern College Hoops"><img width="130" height="90" src="https://pressboxonline.com/wp-content/uploads/2025/12/Dylan-Williamson-130x90.jpg" class="attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Towson&#8217;s Dylan Williamson A Unicorn In Modern College Hoops" title="Towson&#8217;s Dylan Williamson A Unicorn In Modern College Hoops" decoding="async" loading="lazy" srcset="https://pressboxonline.com/wp-content/uploads/2025/12/Dylan-Williamson-130x90.jpg 130w, https://pressboxonline.com/wp-content/uploads/2025/12/Dylan-Williamson-392x272.jpg 392w" sizes="auto, (max-width: 130px) 100vw, 130px" /></a></figure>					<div class="article-content">
+						<div class="above-entry-meta"><span class="cat-links"><a href="https://pressboxonline.com/college/"  rel="category tag">College Sports</a>&nbsp;<a href="https://pressboxonline.com/top-stories/"  rel="category tag">Top Stories</a>&nbsp;</span></div>						<h3 class="entry-title">
+							<a href="https://pressboxonline.com/2026/01/02/towsons-dylan-williamson-a-unicorn-in-modern-college-hoops/" title="Towson&#8217;s Dylan Williamson A Unicorn In Modern College Hoops">Towson&#8217;s Dylan Williamson A Unicorn In Modern College Hoops</a>
+						</h3>
+
+						
+						<div class="below-entry-meta ">
+							<span class="posted-on"><a href="https://pressboxonline.com/2026/01/02/towsons-dylan-williamson-a-unicorn-in-modern-college-hoops/" title="9:10 am" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2026-01-02T09:10:00-05:00">January 2, 2026</time><time class="updated" datetime="2026-01-02T09:13:25-05:00">January 2, 2026</time></a></span>							<span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="https://pressboxonline.com/author/luke-jackson/" title="Luke Jackson">Luke Jackson</a></span></span>
+																				</div>
+					</div>
+				</div>
+								<div class="single-article clearfix " >
+					<figure><a href="https://pressboxonline.com/2026/01/02/2025-nfl-picks-ravens-vs-steelers-week-18-picks/" title="2025 NFL Picks: Ravens Vs. Steelers Week 18 Picks"><img width="130" height="90" src="https://pressboxonline.com/wp-content/uploads/2019/11/matchup-ravens-vs-steelers-130x90.jpg" class="attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="2025 NFL Picks: Ravens Vs. Steelers Week 18 Picks" title="2025 NFL Picks: Ravens Vs. Steelers Week 18 Picks" decoding="async" loading="lazy" srcset="https://pressboxonline.com/wp-content/uploads/2019/11/matchup-ravens-vs-steelers-130x90.jpg 130w, https://pressboxonline.com/wp-content/uploads/2019/11/matchup-ravens-vs-steelers-392x272.jpg 392w" sizes="auto, (max-width: 130px) 100vw, 130px" /></a></figure>					<div class="article-content">
+						<div class="above-entry-meta"><span class="cat-links"><a href="https://pressboxonline.com/football/"  rel="category tag">Football</a>&nbsp;<a href="https://pressboxonline.com/sports-betting/"  rel="category tag">Sports Betting</a>&nbsp;<a href="https://pressboxonline.com/top-stories/"  rel="category tag">Top Stories</a>&nbsp;</span></div>						<h3 class="entry-title">
+							<a href="https://pressboxonline.com/2026/01/02/2025-nfl-picks-ravens-vs-steelers-week-18-picks/" title="2025 NFL Picks: Ravens Vs. Steelers Week 18 Picks">2025 NFL Picks: Ravens Vs. Steelers Week 18 Picks</a>
+						</h3>
+
+						
+						<div class="below-entry-meta ">
+							<span class="posted-on"><a href="https://pressboxonline.com/2026/01/02/2025-nfl-picks-ravens-vs-steelers-week-18-picks/" title="8:05 am" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2026-01-02T08:05:00-05:00">January 2, 2026</time><time class="updated" datetime="2026-01-01T22:39:35-05:00">January 1, 2026</time></a></span>							<span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="https://pressboxonline.com/author/pressbox/" title="PressBox">PressBox</a></span></span>
+																				</div>
+					</div>
+				</div>
+						</div>
+						</aside><aside id="custom_html-11" class="widget_text extendedwopts-md-center widget widget_custom_html clearfix"><div class="textwidget custom-html-widget"><div style="text-align: center">
+<!-- /530078208/ROS_300x250_Body1 -->
+<div id='div-gpt-ad-1572992563434-0'>
+<script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1572992563434-0'); });
+</script>
+</div>
+</div></div></aside><aside id="custom_html-18" class="widget_text widget widget_custom_html clearfix"><div class="textwidget custom-html-widget"><div style="text-align: center">
+	<iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/page.php?href=https://www.facebook.com/PressBoxSports/&amp;tabs=timeline&amp;width=300&amp;height=360&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=true&amp;show_facepile=false&amp;appId" width="300" height="360" frameborder="0" scrolling="no"></iframe>
+</div></div></aside><aside id="custom_html-12" class="widget_text extendedwopts-md-center widget widget_custom_html clearfix"><div class="textwidget custom-html-widget"><div style="text-align: center">
+	<!-- /530078208/ROS_300x250_Body2 -->
+<div id='div-gpt-ad-1573053814307-0'>
+<script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1573053814307-0'); });
+  </script>
+</div>
+</div></div></aside><aside id="text-15" class="widget widget_text clearfix"><h3 class="widget-title"><span>Email Newsletter</span></h3>			<div class="textwidget"><p><a href="/newsletter/">Click here</a> to sign up for PressBox&#8217;s free weekly email newsletter.</p>
+</div>
+		</aside><aside id="custom_html-13" class="widget_text extendedwopts-md-center widget widget_custom_html clearfix"><div class="textwidget custom-html-widget"><div style="text-align: center">
+	<!-- /530078208/ROS_300x250_Body3 -->
+<div id='div-gpt-ad-1572992703079-0'>
+<script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1572992703079-0'); });
+  </script>
+</div>
+</div></div></aside>
+	</div>
+
+
+
+</div><!-- .inner-wrap -->
+</div><!-- #main -->
+
+	<div class="advertisement_above_footer">
+		<div class="inner-wrap">
+			<aside id="colormag_ticker_news_widget-3" class="extendedwopts-hide extendedwopts-tablet extendedwopts-mobile widget widget_ticker_news_colormag widget_featured_posts clearfix">				<h3 class="widget-title" style="border-bottom-color:;"><span style="background-color:;">Read More</span></h3>
+		<div id="category_slider_colormag_ticker_news_widget-3" class="image-ticker-news" data-speed="50000">
+							<div class="single-article clearfix">
+					<a href="https://pressboxonline.com/2026/01/03/glenn-clark-radio-week-in-review-dec-29-2025-jan-2-2026/" data-fragment="#content" class="colormag-ticker-news-popup-link">
+						<figure><a href="https://pressboxonline.com/2026/01/03/glenn-clark-radio-week-in-review-dec-29-2025-jan-2-2026/" title="Glenn Clark Radio Week In Review: Dec. 29, 2025 &#8211; Jan. 2, 2026"><img width="150" height="150" src="https://pressboxonline.com/wp-content/uploads/2025/01/Zion-Elee-3-150x150.jpg" class="attachment-colormag-default-news size-colormag-default-news wp-post-image" alt="Glenn Clark Radio Week In Review: Dec. 29, 2025 &#8211; Jan. 2, 2026" title="Glenn Clark Radio Week In Review: Dec. 29, 2025 &#8211; Jan. 2, 2026" decoding="async" loading="lazy" /></a></figure>					</a>
+					<div class="article-content">
+						<div class="above-entry-meta"><span class="cat-links"><a href="https://pressboxonline.com/glenn-clark/"  rel="category tag">The Reality Check With Glenn Clark</a>&nbsp;<a href="https://pressboxonline.com/top-stories/"  rel="category tag">Top Stories</a>&nbsp;</span></div>						<h3 class="entry-title">
+							<a href="https://pressboxonline.com/2026/01/03/glenn-clark-radio-week-in-review-dec-29-2025-jan-2-2026/" title="Glenn Clark Radio Week In Review: Dec. 29, 2025 &#8211; Jan. 2, 2026">Glenn Clark Radio Week In Review: Dec. 29, 2025 &#8211; Jan. 2, 2026</a>
+						</h3>
+					</div>
+				</div>
+								<div class="single-article clearfix">
+					<a href="https://pressboxonline.com/2026/01/02/maryland-mens-basketball-still-searching-for-first-big-ten-win-following-64-54-loss-to-oregon/" data-fragment="#content" class="colormag-ticker-news-popup-link">
+						<figure><a href="https://pressboxonline.com/2026/01/02/maryland-mens-basketball-still-searching-for-first-big-ten-win-following-64-54-loss-to-oregon/" title="Maryland Men&#8217;s Basketball Still Searching For First Big Ten Win Following 64-54 Loss To Oregon"><img width="150" height="150" src="https://pressboxonline.com/wp-content/uploads/2026/01/Solomon-Washington-vs-Oregon-150x150.jpg" class="attachment-colormag-default-news size-colormag-default-news wp-post-image" alt="Maryland Men&#8217;s Basketball Still Searching For First Big Ten Win Following 64-54 Loss To Oregon" title="Maryland Men&#8217;s Basketball Still Searching For First Big Ten Win Following 64-54 Loss To Oregon" decoding="async" loading="lazy" /></a></figure>					</a>
+					<div class="article-content">
+						<div class="above-entry-meta"><span class="cat-links"><a href="https://pressboxonline.com/college/"  rel="category tag">College Sports</a>&nbsp;<a href="https://pressboxonline.com/top-stories/"  rel="category tag">Top Stories</a>&nbsp;</span></div>						<h3 class="entry-title">
+							<a href="https://pressboxonline.com/2026/01/02/maryland-mens-basketball-still-searching-for-first-big-ten-win-following-64-54-loss-to-oregon/" title="Maryland Men&#8217;s Basketball Still Searching For First Big Ten Win Following 64-54 Loss To Oregon">Maryland Men&#8217;s Basketball Still Searching For First Big Ten Win Following 64-54 Loss To Oregon</a>
+						</h3>
+					</div>
+				</div>
+								<div class="single-article clearfix">
+					<a href="https://pressboxonline.com/2026/01/02/best-of-2025-best-smash-mouth/" data-fragment="#content" class="colormag-ticker-news-popup-link">
+						<figure><a href="https://pressboxonline.com/2026/01/02/best-of-2025-best-smash-mouth/" title="Best Of 2025: Best Smash Mouth"><img width="150" height="150" src="https://pressboxonline.com/wp-content/uploads/2025/01/Derrick-Henry-12-150x150.jpg" class="attachment-colormag-default-news size-colormag-default-news wp-post-image" alt="Best Of 2025: Best Smash Mouth" title="Best Of 2025: Best Smash Mouth" decoding="async" loading="lazy" /></a></figure>					</a>
+					<div class="article-content">
+						<div class="above-entry-meta"><span class="cat-links"><a href="https://pressboxonline.com/best-of-2025/"  rel="category tag">Best Of 2025</a>&nbsp;<a href="https://pressboxonline.com/top-stories/"  rel="category tag">Top Stories</a>&nbsp;</span></div>						<h3 class="entry-title">
+							<a href="https://pressboxonline.com/2026/01/02/best-of-2025-best-smash-mouth/" title="Best Of 2025: Best Smash Mouth">Best Of 2025: Best Smash Mouth</a>
+						</h3>
+					</div>
+				</div>
+								<div class="single-article clearfix">
+					<a href="https://pressboxonline.com/2026/01/02/towsons-dylan-williamson-a-unicorn-in-modern-college-hoops/" data-fragment="#content" class="colormag-ticker-news-popup-link">
+						<figure><a href="https://pressboxonline.com/2026/01/02/towsons-dylan-williamson-a-unicorn-in-modern-college-hoops/" title="Towson&#8217;s Dylan Williamson A Unicorn In Modern College Hoops"><img width="150" height="150" src="https://pressboxonline.com/wp-content/uploads/2025/12/Dylan-Williamson-150x150.jpg" class="attachment-colormag-default-news size-colormag-default-news wp-post-image" alt="Towson&#8217;s Dylan Williamson A Unicorn In Modern College Hoops" title="Towson&#8217;s Dylan Williamson A Unicorn In Modern College Hoops" decoding="async" loading="lazy" /></a></figure>					</a>
+					<div class="article-content">
+						<div class="above-entry-meta"><span class="cat-links"><a href="https://pressboxonline.com/college/"  rel="category tag">College Sports</a>&nbsp;<a href="https://pressboxonline.com/top-stories/"  rel="category tag">Top Stories</a>&nbsp;</span></div>						<h3 class="entry-title">
+							<a href="https://pressboxonline.com/2026/01/02/towsons-dylan-williamson-a-unicorn-in-modern-college-hoops/" title="Towson&#8217;s Dylan Williamson A Unicorn In Modern College Hoops">Towson&#8217;s Dylan Williamson A Unicorn In Modern College Hoops</a>
+						</h3>
+					</div>
+				</div>
+								<div class="single-article clearfix">
+					<a href="https://pressboxonline.com/2026/01/02/2025-nfl-picks-ravens-vs-steelers-week-18-picks/" data-fragment="#content" class="colormag-ticker-news-popup-link">
+						<figure><a href="https://pressboxonline.com/2026/01/02/2025-nfl-picks-ravens-vs-steelers-week-18-picks/" title="2025 NFL Picks: Ravens Vs. Steelers Week 18 Picks"><img width="150" height="150" src="https://pressboxonline.com/wp-content/uploads/2019/11/matchup-ravens-vs-steelers-150x150.jpg" class="attachment-colormag-default-news size-colormag-default-news wp-post-image" alt="2025 NFL Picks: Ravens Vs. Steelers Week 18 Picks" title="2025 NFL Picks: Ravens Vs. Steelers Week 18 Picks" decoding="async" loading="lazy" /></a></figure>					</a>
+					<div class="article-content">
+						<div class="above-entry-meta"><span class="cat-links"><a href="https://pressboxonline.com/football/"  rel="category tag">Football</a>&nbsp;<a href="https://pressboxonline.com/sports-betting/"  rel="category tag">Sports Betting</a>&nbsp;<a href="https://pressboxonline.com/top-stories/"  rel="category tag">Top Stories</a>&nbsp;</span></div>						<h3 class="entry-title">
+							<a href="https://pressboxonline.com/2026/01/02/2025-nfl-picks-ravens-vs-steelers-week-18-picks/" title="2025 NFL Picks: Ravens Vs. Steelers Week 18 Picks">2025 NFL Picks: Ravens Vs. Steelers Week 18 Picks</a>
+						</h3>
+					</div>
+				</div>
+								<div class="single-article clearfix">
+					<a href="https://pressboxonline.com/2026/01/01/the-15-2026-sports-highlights/" data-fragment="#content" class="colormag-ticker-news-popup-link">
+						<figure><a href="https://pressboxonline.com/2026/01/01/the-15-2026-sports-highlights/" title="The 15: 2026 Sports Highlights"><img width="150" height="150" src="https://pressboxonline.com/wp-content/uploads/2019/12/laurel-park-1-150x150.jpg" class="attachment-colormag-default-news size-colormag-default-news wp-post-image" alt="The 15: 2026 Sports Highlights" title="The 15: 2026 Sports Highlights" decoding="async" loading="lazy" /></a></figure>					</a>
+					<div class="article-content">
+						<div class="above-entry-meta"><span class="cat-links"><a href="https://pressboxonline.com/more-sports/"  rel="category tag">More Sports</a>&nbsp;<a href="https://pressboxonline.com/top-stories/"  rel="category tag">Top Stories</a>&nbsp;</span></div>						<h3 class="entry-title">
+							<a href="https://pressboxonline.com/2026/01/01/the-15-2026-sports-highlights/" title="The 15: 2026 Sports Highlights">The 15: 2026 Sports Highlights</a>
+						</h3>
+					</div>
+				</div>
+								<div class="single-article clearfix">
+					<a href="https://pressboxonline.com/2025/12/31/best-of-2025-best-book/" data-fragment="#content" class="colormag-ticker-news-popup-link">
+						<figure><a href="https://pressboxonline.com/2025/12/31/best-of-2025-best-book/" title="Best Of 2025: Best Book"><img width="150" height="150" src="https://pressboxonline.com/wp-content/uploads/2024/12/290_last-manager2-150x150.jpg" class="attachment-colormag-default-news size-colormag-default-news wp-post-image" alt="Best Of 2025: Best Book" title="Best Of 2025: Best Book" decoding="async" loading="lazy" /></a></figure>					</a>
+					<div class="article-content">
+						<div class="above-entry-meta"><span class="cat-links"><a href="https://pressboxonline.com/best-of-2025/"  rel="category tag">Best Of 2025</a>&nbsp;<a href="https://pressboxonline.com/top-stories/"  rel="category tag">Top Stories</a>&nbsp;</span></div>						<h3 class="entry-title">
+							<a href="https://pressboxonline.com/2025/12/31/best-of-2025-best-book/" title="Best Of 2025: Best Book">Best Of 2025: Best Book</a>
+						</h3>
+					</div>
+				</div>
+								<div class="single-article clearfix">
+					<a href="https://pressboxonline.com/2025/12/31/they-said-it-best-quotes-from-2025/" data-fragment="#content" class="colormag-ticker-news-popup-link">
+						<figure><a href="https://pressboxonline.com/2025/12/31/they-said-it-best-quotes-from-2025/" title="They Said It: Best Quotes From 2025"><img width="150" height="150" src="https://pressboxonline.com/wp-content/uploads/2025/12/296-they-said-it-150x150.jpg" class="attachment-colormag-default-news size-colormag-default-news wp-post-image" alt="They Said It: Best Quotes From 2025" title="They Said It: Best Quotes From 2025" decoding="async" loading="lazy" /></a></figure>					</a>
+					<div class="article-content">
+						<div class="above-entry-meta"><span class="cat-links"><a href="https://pressboxonline.com/best-of-2025/"  rel="category tag">Best Of 2025</a>&nbsp;<a href="https://pressboxonline.com/top-stories/"  rel="category tag">Top Stories</a>&nbsp;</span></div>						<h3 class="entry-title">
+							<a href="https://pressboxonline.com/2025/12/31/they-said-it-best-quotes-from-2025/" title="They Said It: Best Quotes From 2025">They Said It: Best Quotes From 2025</a>
+						</h3>
+					</div>
+				</div>
+						</div>
+		</aside><aside id="custom_html-15" class="widget_text widget widget_custom_html clearfix"><div class="textwidget custom-html-widget"><div style="text-align: center">
+<!-- /530078208/ROS_Banner_Bottom -->
+<div id='div-gpt-ad-1572992483075-0'>
+<script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1572992483075-0'); });
+  </script>
+	</div></div>
+<br><br></div></aside>		</div>
+	</div>
+
+
+
+<footer id="colophon" class="clearfix  ">
+	
+<div class="footer-widgets-wrapper">
+	<div class="inner-wrap">
+		<div class="footer-widgets-area clearfix">
+			<div class="tg-upper-footer-widgets clearfix">
+				<div class="footer_upper_widget_area tg-one-third">
+									</div>
+				<div class="footer_upper_widget_area tg-one-third">
+									</div>
+				<div class="footer_upper_widget_area tg-one-third tg-one-third-last">
+									</div>
+			</div>
+
+			<div class="tg-footer-main-widget">
+				<div class="tg-first-footer-widget">
+					<aside id="text-3" class="widget widget_text clearfix"><h3 class="widget-title"><span>Baltimore Sports. Period.</span></h3>			<div class="textwidget"><p><em>Covering Baltimore sports, from high school to the pros since 2006.</em></p>
+<p><a href="/"><img loading="lazy" decoding="async" class="aligncenter wp-image-9 size-full" src="https://pressboxonline.com/wp-content/uploads/2019/11/pb-square-log-90.jpg" alt="PressBox" width="147" height="90" /></a></p>
+</div>
+		</aside>				</div>
+			</div>
+
+			<div class="tg-footer-other-widgets">
+				<div class="tg-second-footer-widget">
+					<aside id="nav_menu-5" class="widget widget_nav_menu clearfix"><h3 class="widget-title"><span>About</span></h3><div class="menu-about-container"><ul id="menu-about" class="menu"><li id="menu-item-209" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-209"><a href="/about/">About PressBox</a></li>
+<li id="menu-item-210" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-210"><a href="/jobs/">Jobs</a></li>
+<li id="menu-item-211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211"><a href="/sponsors/">Advertise</a></li>
+<li id="menu-item-36805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36805"><a href="https://pressboxonline.com/custom/">MJM Custom Media</a></li>
+</ul></div></aside>				</div>
+				<div class="tg-third-footer-widget">
+					<aside id="nav_menu-8" class="widget widget_nav_menu clearfix"><h3 class="widget-title"><span>Connect</span></h3><div class="menu-connect-container"><ul id="menu-connect" class="menu"><li id="menu-item-218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218"><a href="/store/">PressBox Store</a></li>
+<li id="menu-item-219" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-219"><a href="/newsletter/">Email Newsletter</a></li>
+<li id="menu-item-220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220"><a href="/follow/">Follow PressBox</a></li>
+</ul></div></aside>				</div>
+				<div class="tg-fourth-footer-widget">
+					<aside id="nav_menu-4" class="widget widget_nav_menu clearfix"><h3 class="widget-title"><span>Partner Sites</span></h3><div class="menu-partner-sites-container"><ul id="menu-partner-sites" class="menu"><li id="menu-item-3144" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3144"><a target="_blank" href="https://www.countysports.zone/">CountySportsZone</a></li>
+<li id="menu-item-3145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3145"><a target="_blank" href="https://www.jmoreliving.com/">Jmore</a></li>
+</ul></div></aside>				</div>
+			</div>
+
+			<div class="footer-full-width-sidebar inner-wrap clearfix">
+							</div>
+		</div>
+	</div>
+</div>
+	<div class="footer-socket-wrapper clearfix">
+		<div class="inner-wrap">
+			<div class="footer-socket-area">
+				<div class="footer-socket-right-section">
+					
+		
+		<div class="social-links clearfix">
+			<ul>
+				<li><a href="https://www.facebook.com/PressBoxSports/" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/pressboxonline" target="_blank"><i class="fa fa-twitter"></i></a></li><li><a href="https://www.youtube.com/user/PressBoxSports" target="_blank"><i class="fa fa-youtube"></i></a></li>
+							</ul>
+		</div><!-- .social-links -->
+		
+					<nav class="footer-menu clearfix">
+											</nav>
+				</div>
+
+				<div class="footer-socket-left-section">
+					<div class="copyright">Copyright ©  2026 WordSmith Media Ventures, LLC. All rights reserved. | <a href="/privacy-policy">Privacy Policy</a></div>				</div>
+			</div>
+
+		</div>
+	</div>
+</footer>
+
+
+
+
+</div><!-- #page -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/colormag-pro/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="https://pressboxonline.com/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min.js?ver=2.6.0" id="recaptcha-v2-js"></script>
+<script async="async" defer type="text/javascript" src="//www.google.com/recaptcha/api.js?onload=renderReCaptcha&amp;render=explicit&amp;ver=2.6.0" id="recaptcha-lib-v2-js"></script>
+<script type="text/javascript" src="https://pressboxonline.com/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-frontend.min.js?ver=2.6.0" id="ctct_frontend_forms-js"></script>
+<script type="text/javascript" src="https://pressboxonline.com/wp-content/themes/colormag-pro/js/navigation.min.js?ver=6.9" id="colormag-navigation-js"></script>
+<script type="text/javascript" src="https://pressboxonline.com/wp-content/themes/colormag-pro/js/fitvids/jquery.fitvids.min.js?ver=1.2.0" id="colormag-fitvids-js"></script>
+<script type="text/javascript" src="https://pressboxonline.com/wp-content/themes/colormag-pro/js/skip-link-focus-fix.min.js?ver=6.9" id="colormag-skip-link-focus-fix-js"></script>
+<script type="text/javascript" id="colormag-custom-js-extra">
+/* <![CDATA[ */
+var colormag_load_more = {"tg_nonce":"63a56b46d4","ajax_url":"https://pressboxonline.com/wp-admin/admin-ajax.php"};
+//# sourceURL=colormag-custom-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://pressboxonline.com/wp-content/themes/colormag-pro/js/colormag-custom.min.js?ver=6.9" id="colormag-custom-js"></script>
+<script type="text/javascript" id="colormag-loadmore-js-extra">
+/* <![CDATA[ */
+var colormag_script_vars = {"no_more_posts":"No more post"};
+//# sourceURL=colormag-loadmore-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://pressboxonline.com/wp-content/themes/colormag-pro/js/loadmore.min.js?ver=6.9" id="colormag-loadmore-js"></script>
+<script type="text/javascript" src="https://pressboxonline.com/wp-content/plugins/wordpress-countdown-widget/js/jquery.countdown.min.js?ver=1.0" id="countdown-js"></script>
+<script type="text/javascript" src="https://pressboxonline.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=14.2.1.2" id="__ytprefsfitvids__-js"></script>
+<script type="text/javascript" src="https://pressboxonline.com/wp-content/themes/colormag-pro/js/jquery.bxslider.min.js?ver=4.2.10" id="colormag-bxslider-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://pressboxonline.com/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://pressboxonline.com/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+
+<script>(function($) {
+  $.countdown.regional['custom'] = {
+    labels: [
+      'Years', 
+      'Months', 
+      'Weeks', 
+      'Days', 
+      'Hours', 
+      'Minutes', 
+      'Seconds'
+      ], 
+    labels1: [
+      'Year', 
+      'Month', 
+      'Week', 
+      'Day', 
+      'Hour', 
+      'Minute', 
+      'Second'
+    ], 
+    compactLabels: ['y', 'a', 'h', 'g'], 
+    whichLabels: null, 
+    timeSeparator: ':', 
+    isRTL: false
+  }; 
+  $.countdown.setDefaults($.countdown.regional['custom']); 
+})(jQuery);
+</script>
+</body>
+</html>
+
+<!-- Cached by WP-Optimize - https://getwpo.com - Last modified: January 3, 2026 5:10 pm (America/New_York UTC:-4) -->

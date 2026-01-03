@@ -1,0 +1,7 @@
+Sitemap: http://lmdurand.com/sitemap.xml
+Sitemap: http://lmdurand.com/news-sitemap.xml
+Sitemap: http://lmdurand.com/sitemap_index.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
