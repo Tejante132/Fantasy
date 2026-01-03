@@ -1,0 +1,252 @@
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Background, composition, and premiere
+     * 2 The Choral Fantasy and the Ninth Symphony
+     * 3 Form
+     * 4 Text
+     * 5 Notes
+--
+
+   [ ] Toggle the table of contents
+
+Choral Fantasy (Beethoven)
+
+   [ ] 14 languages
+     * Afrikaans
+--
+   From Wikipedia, the free encyclopedia
+   Musical composition by Ludwig van Beethoven
+
+                Choral Fantasy
+   by Ludwig van Beethoven
+   [250px-Beethoven_3.jpg]
+   Detail of a 1804–05 portrait of Beethoven by J. W. Mähler
+--
+    Location   Theater an der Wien, Vienna
+   Performers  Ludwig van Beethoven (piano)
+
+   The Fantasy for piano, vocal soloists, mixed chorus, and orchestra,
+   Op. 80, usually called the Choral Fantasy, was composed in 1808 by then
+   38-year-old Ludwig van Beethoven.
+
+   Beethoven intended the Fantasy to serve as the concluding work for the
+   benefit concert he put on for himself on 22 December 1808; the
+   performers consisted of vocal soloists, mixed chorus, an orchestra, and
+   Beethoven himself as piano soloist. The Fantasy was designed to include
+   all the participants in the program and thus unites all of these
+   musical forces.
+
+--
+     repeats?' 'Yes', came the answer, and now the thing went straight as
+     a string.
+
+The Choral Fantasy and the Ninth Symphony
+
+   [edit]
+
+--
+
+          \new Score { \new Staff { \relative c'' { \time 2/4 \key c
+          \major \clef treble \tempo 4 = 88 \omit Score.MetronomeMark
+          \partial 4 e8^\markup { \halign #-0.5 "Choral Fantasy"} e f( e d
+          c) c( b a b) c( c d e) e( d) } } } Audio playback is not
+          supported in your browser. You can download the audio file.
+
+--
+   share essentially the same harmonic sequence at their climactic
+   moments, the chords (in C major) C–F–D–(G)–E♭, where the E♭ stands out
+   from its harmonic context and is performed fortissimo. The words sung
+   at this point are (for the Choral Fantasy) "Lieb und Kraft" ("love and
+   strength") and (for the Ninth Symphony) "Über'm Sternenzelt! Über
+   Sternen muss er wohnen." ("Above the tent of the stars, above the stars
+   he must dwell.")^[7]
+
+   There are also affinities in the texts. The theme of the Choral Fantasy
+   text – universal fraternity with the meeting of arts – evokes similar
+   feelings as the "Ode to Joy" text.
+
+--
+   die Freude' in the same way as my pianoforte fantasia with chorus, but
+   on a far grander scale."^[8]
+
+   The Choral Fantasy theme is itself taken from an earlier work by
+   Beethoven: it is a slightly modified version of the composer's "Seufzer
+   eines Ungeliebten – Gegenliebe,” a lied for high voice and piano
+   written c. 1794–1795.^[9]
+--
+
+   [edit]
+                              External audio
+   audio icon Choral Fantasy performed by the Dexter Community Orchestra
+   and the Washtenaw Community Orchestra Chorus in 2009
+
+   The Choral Fantasy, which lasts about twenty minutes, is divided into
+   two movements, played without a break:
+    1. Adagio
+    2. Finale. Allegro – Meno allegro (Allegretto) – Allegro molto –
+--
+   consisting of two flutes, two oboes, two clarinets, two bassoons, two
+   horns, two trumpets, timpani and strings.
+
+   The Fantasy opens with a slow but virtuosic 26-bar piano introduction,
+   beginning in C minor and modulating through a variety of keys in
+   florid, improvisatory fashion. At its midpoint it settles on the
+   dominant of the dominant, G major, with an extended cadenza. The
+--
+       German)
+   13. ^ "Becher, Johannes R." by Wolfgang Näser, [2002] 3 January 2013,
+       uni-marburg.de (in German)
+   14. ^ Audio on YouTube, Choral Fantasy, Peter Rösel (piano), Dresden
+       Philharmonic, Herbert Kegel conducting
+   15. ^ Audio on YouTube, Choral Fantasy, Günter Kootz [de] (piano),
+       Leipzig Gewandhaus Orchestra, Franz Konwitschny conducting
+
+References
+--
+   Other works for piano and orchestra
+
+     * Rondo for Piano and Orchestra, WoO 6
+     * Choral Fantasy, Op. 80
+
+   Other works for violin and orchestra
+
+--
+     * MusicBrainz work
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Choral_Fantasy_(Beethoven)&
+   oldid=1252014331"
+
+   Categories:
+--
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Choral Fantasy (Beethoven)
+   (BUTTON) 14 languages Add topic
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Background, composition, and premiere
+     * 2 The Choral Fantasy and the Ninth Symphony
+     * 3 Form
+     * 4 Text
+     * 5 Notes
+--
+
+   [ ] Toggle the table of contents
+
+Choral Fantasy (Beethoven)
+
+   [ ] 14 languages
+     * Afrikaans
+--
+   From Wikipedia, the free encyclopedia
+   Musical composition by Ludwig van Beethoven
+
+                Choral Fantasy
+   by Ludwig van Beethoven
+   [250px-Beethoven_3.jpg]
+   Detail of a 1804–05 portrait of Beethoven by J. W. Mähler
+--
+    Location   Theater an der Wien, Vienna
+   Performers  Ludwig van Beethoven (piano)
+
+   The Fantasy for piano, vocal soloists, mixed chorus, and orchestra,
+   Op. 80, usually called the Choral Fantasy, was composed in 1808 by then
+   38-year-old Ludwig van Beethoven.
+
+   Beethoven intended the Fantasy to serve as the concluding work for the
+   benefit concert he put on for himself on 22 December 1808; the
+   performers consisted of vocal soloists, mixed chorus, an orchestra, and
+   Beethoven himself as piano soloist. The Fantasy was designed to include
+   all the participants in the program and thus unites all of these
+   musical forces.
+
+--
+     repeats?' 'Yes', came the answer, and now the thing went straight as
+     a string.
+
+The Choral Fantasy and the Ninth Symphony
+
+   [edit]
+
+--
+
+          \new Score { \new Staff { \relative c'' { \time 2/4 \key c
+          \major \clef treble \tempo 4 = 88 \omit Score.MetronomeMark
+          \partial 4 e8^\markup { \halign #-0.5 "Choral Fantasy"} e f( e d
+          c) c( b a b) c( c d e) e( d) } } } Audio playback is not
+          supported in your browser. You can download the audio file.
+
+--
+   share essentially the same harmonic sequence at their climactic
+   moments, the chords (in C major) C–F–D–(G)–E♭, where the E♭ stands out
+   from its harmonic context and is performed fortissimo. The words sung
+   at this point are (for the Choral Fantasy) "Lieb und Kraft" ("love and
+   strength") and (for the Ninth Symphony) "Über'm Sternenzelt! Über
+   Sternen muss er wohnen." ("Above the tent of the stars, above the stars
+   he must dwell.")^[7]
+
+   There are also affinities in the texts. The theme of the Choral Fantasy
+   text – universal fraternity with the meeting of arts – evokes similar
+   feelings as the "Ode to Joy" text.
+
+--
+   die Freude' in the same way as my pianoforte fantasia with chorus, but
+   on a far grander scale."^[8]
+
+   The Choral Fantasy theme is itself taken from an earlier work by
+   Beethoven: it is a slightly modified version of the composer's "Seufzer
+   eines Ungeliebten – Gegenliebe,” a lied for high voice and piano
+   written c. 1794–1795.^[9]
+--
+
+   [edit]
+                              External audio
+   audio icon Choral Fantasy performed by the Dexter Community Orchestra
+   and the Washtenaw Community Orchestra Chorus in 2009
+
+   The Choral Fantasy, which lasts about twenty minutes, is divided into
+   two movements, played without a break:
+    1. Adagio
+    2. Finale. Allegro – Meno allegro (Allegretto) – Allegro molto –
+--
+   consisting of two flutes, two oboes, two clarinets, two bassoons, two
+   horns, two trumpets, timpani and strings.
+
+   The Fantasy opens with a slow but virtuosic 26-bar piano introduction,
+   beginning in C minor and modulating through a variety of keys in
+   florid, improvisatory fashion. At its midpoint it settles on the
+   dominant of the dominant, G major, with an extended cadenza. The
+--
+       German)
+   13. ^ "Becher, Johannes R." by Wolfgang Näser, [2002] 3 January 2013,
+       uni-marburg.de (in German)
+   14. ^ Audio on YouTube, Choral Fantasy, Peter Rösel (piano), Dresden
+       Philharmonic, Herbert Kegel conducting
+   15. ^ Audio on YouTube, Choral Fantasy, Günter Kootz [de] (piano),
+       Leipzig Gewandhaus Orchestra, Franz Konwitschny conducting
+
+References
+--
+   Other works for piano and orchestra
+
+     * Rondo for Piano and Orchestra, WoO 6
+     * Choral Fantasy, Op. 80
+
+   Other works for violin and orchestra
+
+--
+     * MusicBrainz work
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Choral_Fantasy_(Beethoven)&
+   oldid=1252014331"
+
+   Categories:
+--
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Choral Fantasy (Beethoven)
+   (BUTTON) 14 languages Add topic

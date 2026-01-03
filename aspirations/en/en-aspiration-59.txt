@@ -1,0 +1,835 @@
+<!DOCTYPE html><!--  This site was created in Webflow. https://webflow.com  --><!--  Last Published: Wed Jun 12 2024 14:52:10 GMT+0000 (Coordinated Universal Time)  -->
+<html data-wf-page="66610d93e0f4435a29c02a5b" data-wf-site="66610d93e0f4435a29c02a55">
+<head>
+  <meta charset="utf-8">
+  <title>Fantasy Grounds</title>
+<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<!-- jQuery Code -->
+<script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous">
+</script> 
+<!-- END jQuery Code -->
+<!-- Google Tag Manager ddavison@smiteworks.com -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P2JJLGRK');</script>
+<!-- End Google Tag Manager --> 
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta content="Webflow" name="generator">
+    <meta property='og:image' content='https://www.fantasygrounds.com/images/fg-og-image.jpg' />
+  <meta property='og:image:secure_url' content='https://www.fantasygrounds.com/images/fg-og-image.jpg' />  
+  <!-- Favicon -->
+  <link rel="icon" href="/images/favicon/favicon.ico" type="image/x-icon">
+
+  <!-- Favicon for various devices and formats -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+
+  <!-- Android Chrome icons -->
+  <link rel="icon" type="image/png" sizes="192x192" href="/images/favicon/android-chrome-192x192.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="/images/favicon/android-chrome-512x512.png">
+
+  <!-- Site manifest -->
+  <link rel="manifest" href="/images/favicon/site.webmanifest">  <link href="/css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="/css/webflow.css" rel="stylesheet" type="text/css">
+  <link href="/css/fantasy-grounds.webflow.css" rel="stylesheet" type="text/css">
+  <link href="/css/custom.css" rel="stylesheet" type="text/css">
+  
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+  <script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic","Poppins:regular,italic,700,700italic,900,900italic"]  }});</script>
+  <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+  <link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link href="/images/webclip.png" rel="apple-touch-icon">
+
+<!-- Add to Cart Code -->
+
+<script type="text/javascript">
+    
+      function addToCart(addUrl){
+    $.ajax({
+      url: "https://www.fantasygrounds.com/store/addtocartmenuAB.php" + addUrl,
+      type: 'GET',
+
+     })
+     .done(function(response ) {
+         //response - this is the response from the server
+        // Refresh Cart indicator here 
+        //location.reload();       
+        $('#ShoppingCartMenu').html(response);
+        alert("Shopping Cart Updated");
+        
+     });
+ }
+
+</script>
+<!-- END Add to Cart Code --><!DOCTYPE html>
+
+</head>
+<body class="body">
+  <!-- INCLUDE MENU NAV HERE -->
+  <!-- Google Tag Manager (noscript) ddavison@smiteworks.com -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P2JJLGRK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+ <!-- desktop menu -->
+  <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar desktop-navbar w-nav">
+    <div class="top-nav-container w-container">
+      <a href="/" class="brand w-nav-brand"><img src="/images/FG-Logo.png" loading="lazy" width="Auto" height="36" alt="Fantasy Grounds VTT Logo" srcset="/images/FG-Logo-p-500.png 500w, /images/FG-Logo.png 658w" sizes="(max-width: 767px) 100vw, 157.9166717529297px" class="fg-logo-block"></a>
+      <nav role="navigation" class="nav-menu w-nav-menu">
+		<a href="/library" class="nav-link w-nav-link library-nav">My Library</a>	  
+        <div data-hover="false" data-delay="0" class="w-dropdown">
+          <div class="nav-link store-link w-dropdown-toggle">
+            <div class="icon w-icon-dropdown-toggle"></div>
+            <div>Store</div>
+          </div>
+          <nav class="top-nav-menu-list w-dropdown-list">
+            <div class="top-nav-menu-wrapper"><img src="/images/store-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="/store/" class="top-nav-menu-list-link with-icon store-menu w-dropdown-link">Fantasy Grounds Store</a>
+            </div>
+            <a href="/store/productbundles.php" class="top-nav-menu-list-link w-dropdown-link">Save with Bundles!</a>
+            <a href="/home/FGUArtSub.php" class="top-nav-menu-list-link w-dropdown-link">Art Subscription</a>
+            <a href="https://forge.fantasygrounds.com/" class="top-nav-menu-list-link w-dropdown-link" target="_blank">The Forge <span class="menu-subtitle">Community Content</span></a>
+            <a href="/store/discovery.php" class="top-nav-menu-list-link w-dropdown-link">Personalized Suggestions</a>
+            <div class="top-nav-menu-wrapper"><img src="/images/cart-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="/store/ViewCart.php" class="top-nav-menu-list-link new-section with-icon store-menu w-dropdown-link">View Cart</a>
+            </div>
+            <a href="/store/myorders.php" class="top-nav-menu-list-link w-dropdown-link">Order History</a>
+            <a href="/store/syncPaizoAccount.php" class="top-nav-menu-list-link new-section w-dropdown-link">Paizo Account Sync</a>
+            <a href="/store/discovery_Paizo.php" class="top-nav-menu-list-link w-dropdown-link">View My Paizo Discounts</a>
+            <a href="/store/syncSteamAccount.php" class="top-nav-menu-list-link w-dropdown-link">Steam Account Sync</a>
+            <div class="top-nav-menu-wrapper"><img src="/images/key-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="/store/activateKey.php" class="top-nav-menu-list-link new-section with-icon store-menu w-dropdown-link">Activate a Product Key</a>
+            </div>
+          </nav>
+        </div>
+        <a href="/forums/" class="nav-link w-nav-link" target="_blank">Forums</a>
+        <div data-hover="false" data-delay="0" class="w-dropdown">
+          <div class="nav-link support-link w-dropdown-toggle">
+            <div class="icon w-icon-dropdown-toggle"></div>
+            <div>Support</div>
+          </div>
+          <nav class="top-nav-menu-list w-dropdown-list">
+            <div class="top-nav-menu-wrapper"><img src="/images/play-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="/home/QuickStartGuide.php" class="top-nav-menu-list-link with-icon w-dropdown-link">Quick Start Guide</a>
+            </div>
+            <a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/pages/996638915/Frequently+Asked+Questions" class="top-nav-menu-list-link w-dropdown-link" target="_blank">FAQ / Knowledge Base</a>
+            <a href="/home/Discord.php" class="top-nav-menu-list-link w-dropdown-link">Discord Server</a>
+            <a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/pages/996638950/License+Keys+F.A.Q" class="top-nav-menu-list-link w-dropdown-link" target="_blank">Help with Subscriptions</a>
+            <a href="https://fantasygroundsunity.atlassian.net/servicedesk/customer/portals" class="top-nav-menu-list-link w-dropdown-link" target="_blank">Contact Support</a>
+            <a href="/featurerequests" class="top-nav-menu-list-link w-dropdown-link" target="_blank">Feature Requests</a>
+            <div class="top-nav-menu-wrapper"><img src="/images/info-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/pages/996639303/Installing+Fantasy+Grounds+Unity" class="top-nav-menu-list-link new-section with-icon w-dropdown-link" target="_blank">Install Instructions</a>
+            </div>
+            <a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/pages/996639165/Fantasy+Grounds+Unity+User+Manual" class="top-nav-menu-list-link w-dropdown-link" target="_blank">User Manual</a>
+            <a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/overview" class="top-nav-menu-list-link new-section w-dropdown-link" target="_blank">Fantasy Grounds Wiki</a>
+            <a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/pages/996639040/License+to+produce+Fantasy+Grounds+modules" class="top-nav-menu-list-link w-dropdown-link" target="_blank">Creating &amp; Selling Content</a>
+            <a href="https://lp.constantcontactpages.com/sl/vPft2cm/newsletter" class="top-nav-menu-list-link w-dropdown-link" target="_blank">Sign up for the Newsletter</a>
+            <div class="top-nav-menu-wrapper"><img src="/images/bullhorn-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="https://affiliates.fantasygrounds.com/" class="top-nav-menu-list-link new-section with-icon w-dropdown-link" target="_blank">Become an Affiliate</a>
+            </div>
+          </nav>
+        </div>
+        <div data-hover="false" data-delay="0" class="w-dropdown">
+          <div class="nav-link support-link w-dropdown-toggle">
+            <div class="icon w-icon-dropdown-toggle"></div>
+            <div>Find a Game</div>
+          </div>
+          <nav class="top-nav-menu-list w-dropdown-list">
+            <div class="top-nav-menu-wrapper"><img src="/images/flag-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="https://warhorn.net/events/fantasy-grounds-game-day/schedule/agenda" class="top-nav-menu-list-link with-icon lfg-menu new-section w-dropdown-link" target="_blank">Fantasy Grounds Game Day</a>
+            </div>
+            <a href="https://discord.com/channels/274582899045695488/492591624506048512" class="top-nav-menu-list-link w-dropdown-link" target="_blank">FG Discord - #players_lfg</a>
+            <a href="https://discord.com/channels/274582899045695488/274958294479536128" class="top-nav-menu-list-link w-dropdown-link" target="_blank">FG Discord - #gm_lfp</a>
+            <div class="top-nav-menu-wrapper"><img src="/images/people-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="https://warhorn.net/games/search?q=&amp;loc=&amp;vtt=fantasy_grounds_classic&amp;vtt=fantasy_grounds_unity" class="top-nav-menu-list-link new-section with-icon lfg-menu w-dropdown-link" target="_blank">Warhorn <span class="menu-subtitle">free</span></a>
+            </div>
+            <a href="https://discord.gg/fggl" class="top-nav-menu-list-link w-dropdown-link" target="_blank">FG Gaming Lounge <span class="menu-subtitle">Free</span></a>
+            <a href="https://startplaying.games/search?q=Fantasy+Grounds" class="top-nav-menu-list-link w-dropdown-link" target="_blank">StartPlaying.Games <span class="menu-subtitle">Paid</span></a>
+            <a href="https://app.rpgmatch.org/user-list?vtt=4" class="top-nav-menu-list-link new-section w-dropdown-link" target="_blank">RPGMatch <span class="menu-subtitle">Free</span></a>
+            <a href="/forums/forumdisplay.php?76-Find-a-Game" class="top-nav-menu-list-link w-dropdown-link" target="_blank">FG Forums - Looking for Group</a>
+            <div class="top-nav-menu-wrapper"><img src="/images/info-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="/gamecalendar/dashboard.php" class="top-nav-menu-list-link new-section with-icon lfg-menu w-dropdown-link" target="_blank">FG Game Calendar</a>
+            </div>
+          </nav>
+        </div>
+        <div data-hover="false" data-delay="0" class="w-dropdown">
+          <div class="nav-link support-link w-dropdown-toggle">
+            <div class="icon download-icon w-icon-dropdown-toggle"></div>
+            <div>Download</div>
+          </div>
+          <nav class="top-nav-menu-list w-dropdown-list">
+            <div class="top-nav-menu-wrapper"><img src="/images/download-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="/home/FantasyGroundsUnity.php" class="top-nav-menu-list-link with-icon download-menu w-dropdown-link">Get Fantasy Grounds Unity</a>
+            </div>
+            <div class="top-nav-menu-wrapper"><img src="/images/steam-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="https://store.steampowered.com/app/1196310/Fantasy_Grounds_Unity/" class="top-nav-menu-list-link with-icon w-dropdown-link" target="_blank">Get the Steam Version</a>
+            </div>
+            <div class="top-nav-menu-wrapper"><img src="/images/list-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/pages/996641133/Available+Rulesets" class="top-nav-menu-list-link new-section with-icon store-menu w-dropdown-link" target="_blank">Browse Available Rulesets</a>
+              </div>
+          </nav>
+        </div>
+<!-- Placeholder for the cart -->
+                          <a href="/store/ViewCart.php" class="nav-link w-nav-link" id="ShoppingCartMenu"><img src="/images/cart-icon.png" loading="lazy" width="30" height="30" alt="" class="cart-icon-img" title="View Cart"></a>
+                       
+                
+                <div class="top-nav-holder">
+                  <div class="top-nav-block">
+                    <div class="profile-image-block"><img src="/images/profile-icon.png" loading="lazy" width="30" height="30" alt="" class="profile-img"></div>
+                    <div data-hover="false" data-delay="0" class="w-dropdown">
+                      <div class="nav-link support-link username-menu w-dropdown-toggle">
+                        <div class="icon download-icon w-icon-dropdown-toggle"></div>
+                        <div>Login</div>
+                      </div>
+                      <nav class="top-nav-menu-list w-dropdown-list">
+                        <div class="top-nav-menu-wrapper"><img src="/images/login-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+                          <a href="/dologin.php" class="top-nav-menu-list-link new-section with-icon store-menu black-bg w-dropdown-link">Log In</a>
+                        </div>                       
+                        <div class="top-nav-menu-wrapper"><img src="/images/profile-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+                          <a href="/forums/register.php" class="top-nav-menu-list-link with-icon download-menu black-bg w-dropdown-link">Register New User Account</a>
+                        </div>
+                        <div class="top-nav-menu-wrapper"><img src="/images/lock-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+                          <a href="/forums/login.php?do=lostpw" class="top-nav-menu-list-link with-icon black-bg w-dropdown-link">Forgot Password</a>
+                        </div>
+                      </nav>
+                    </div>
+                  </div>
+                </div>
+                            
+                    
+      </nav>
+    </div>
+  </div>
+  
+ <!-- Mobile Menu -->
+<div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="mobile-navbar navbar w-nav">
+    <div class="w-container">
+      <a href="/" class="brand w-nav-brand"><img src="/images/FG-Logo.png" loading="lazy" width="Auto" height="36" alt="Fantasy Grounds VTT Logo" srcset="/images/FG-Logo-p-500.png 500w, /images/FG-Logo.png 658w" sizes="(max-width: 479px) 86vw, (max-width: 767px) 157.9166717529297px, 100vw" class="fg-logo-block"></a>
+      <nav role="navigation" class="nav-menu-2 w-nav-menu">
+	  <a href="/library" class="nav-link w-nav-link library-nav library-nav-mobile">My Library</a>
+        <div data-hover="false" data-delay="0" class="dropdown w-dropdown">
+          <div class="nav-link store-link mobile-menu-item w-dropdown-toggle">
+            <div class="icon w-icon-dropdown-toggle"></div>
+            <div>Store</div>
+          </div>
+          <nav class="top-nav-menu-list mobile-menu-item w-dropdown-list">
+            <div class="top-nav-menu-wrapper"><img src="/images/store-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="/store/" class="top-nav-menu-list-link with-icon store-menu mobile-menu-item w-dropdown-link">Fantasy Grounds Store</a>
+            </div>
+            <a href="/store/productbundles.php" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link">Save with Bundles!</a>
+            <a href="/home/FGUArtSub.php" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link">Art Subscription</a>
+            <a href="https://forge.fantasygrounds.com/" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link" target="_blank">The Forge <span class="menu-subtitle">Community Content</span></a>
+            <a href="/store/discovery.php" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link">Personalized Suggestions</a>
+            <div class="top-nav-menu-wrapper mobile-menu-item"><img src="/images/cart-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="/store/ViewCart.php" class="top-nav-menu-list-link new-section with-icon store-menu mobile-menu-item w-dropdown-link">View Cart</a>
+            </div>
+            <a href="/store/myorders.php" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link">Order History</a>
+            <a href="/store/syncPaizoAccount.php" class="top-nav-menu-list-link new-section mobile-menu-item w-dropdown-link">Paizo Account Sync</a>
+            <a href="/store/discovery_Paizo.php" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link">View My Paizo Discounts</a>
+            <a href="/store/syncSteamAccount.php" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link">Steam Account Sync</a>
+            <div class="top-nav-menu-wrapper"><img src="/images/key-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="/store/activateKey.php" class="top-nav-menu-list-link new-section with-icon store-menu mobile-menu-item w-dropdown-link">Activate a Product Key</a>
+            </div>
+          </nav>
+        </div>
+        <a href="/forums/" class="nav-link w-nav-link" target="_blank">Forums</a>
+        <div data-hover="false" data-delay="0" class="dropdown w-dropdown">
+          <div class="nav-link support-link mobile-menu-item w-dropdown-toggle">
+            <div class="icon w-icon-dropdown-toggle"></div>
+            <div>Support</div>
+          </div>
+          <nav class="top-nav-menu-list w-dropdown-list">
+            <div class="top-nav-menu-wrapper mobile-menu-item"><img src="/images/play-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="/home/QuickStartGuide.php" class="top-nav-menu-list-link with-icon mobile-menu-item w-dropdown-link">Quick Start Guide</a>
+            </div>
+            <a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/pages/996638915/Frequently+Asked+Questions" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link" target="_blank">FAQ / Knowledge Base</a>
+            <a href="/home/Discord.php" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link">Discord Server</a>
+            <a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/pages/996638950/License+Keys+F.A.Q" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link" target="_blank">Help with Subscriptions</a>
+            <a href="https://fantasygroundsunity.atlassian.net/servicedesk/customer/portals" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link" target="_blank">Contact Support</a>
+            <a href="/featurerequests" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link" target="_blank">Feature Requests</a>
+            <div class="top-nav-menu-wrapper mobile-menu-item"><img src="/images/info-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/pages/996639303/Installing+Fantasy+Grounds+Unity" class="top-nav-menu-list-link new-section with-icon mobile-menu-item w-dropdown-link" target="_blank">Install Instructions</a>
+            </div>
+            <a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/pages/996639165/Fantasy Grounds Unity User Manual" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link" target="_blank">User Manual</a>
+            <a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/overview" class="top-nav-menu-list-link new-section mobile-menu-item w-dropdown-link" target="_blank">Fantasy Grounds Wiki</a>
+            <a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/pages/996639040/License to produce Fantasy Grounds modules" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link" target="_blank">Creating & Selling Content</a>
+            <a href="http://eepurl.com/g5g8oj" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link" target="_blank">Sign up for the Newsletter</a>
+            <div class="top-nav-menu-wrapper"><img src="/images/bullhorn-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="https://affiliates.fantasygrounds.com/" class="top-nav-menu-list-link new-section with-icon mobile-menu-item w-dropdown-link" target="_blank">Become an Affiliate</a>
+            </div>
+          </nav>
+        </div>
+        <div data-hover="false" data-delay="0" class="dropdown w-dropdown">
+          <div class="nav-link support-link w-dropdown-toggle">
+            <div class="icon w-icon-dropdown-toggle"></div>
+            <div>Find a Game</div>
+          </div>
+          <nav class="top-nav-menu-list w-dropdown-list">
+            <div class="top-nav-menu-wrapper mobile-menu-item"><img src="/images/flag-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="https://warhorn.net/events/fantasy-grounds-game-day/schedule/agenda" class="top-nav-menu-list-link with-icon lfg-menu mobile-menu-item w-dropdown-link" target="_blank">Fantasy Grounds Game Day</a>
+            </div>
+            <a href="https://discord.com/channels/274582899045695488/492591624506048512" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link" target="_blank">FG Discord - #players_lfg</a>
+            <a href="https://discord.com/channels/274582899045695488/274958294479536128" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link" target="_blank">FG Discord - #gm_lfp</a>
+            <div class="top-nav-menu-wrapper"><img src="/images/people-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="https://warhorn.net/games/search?q=&amp;loc=&amp;vtt=fantasy_grounds_classic&amp;vtt=fantasy_grounds_unity" class="top-nav-menu-list-link new-section with-icon lfg-menu mobile-menu-item w-dropdown-link" target="_blank">Warhorn <span class="menu-subtitle">free</span></a>
+            </div>
+           <a href="https://discord.gg/fggl" class="top-nav-menu-list-link new-section mobile-menu-item w-dropdown-link" target="_blank">FG Gaming Lounge <span class="menu-subtitle">Free</span></a>
+            <a href="https://startplaying.games/search?q=Fantasy+Grounds" class="top-nav-menu-list-link new-section mobile-menu-item w-dropdown-link" target="_blank">StartPlaying.Games <span class="menu-subtitle">Paid</span></a>
+            <a href="https://app.rpgmatch.org/user-list?vtt=4" class="top-nav-menu-list-link new-section mobile-menu-item w-dropdown-link" target="_blank">RPGMatch <span class="menu-subtitle">Free</span></a>
+            <a href="/forums/forumdisplay.php?76-Find-a-Game" class="top-nav-menu-list-link mobile-menu-item w-dropdown-link" target="_blank">FG Forums - Looking for Group</a>
+            <div class="top-nav-menu-wrapper"><img src="/images/info-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="/gamecalendar/dashboard.php" class="top-nav-menu-list-link new-section with-icon lfg-menu mobile-menu-item w-dropdown-link" target="_blank">FG Game Calendar</a>
+            </div>
+          </nav>
+        </div>
+        <div data-hover="false" data-delay="0" class="dropdown w-dropdown">
+          <div class="nav-link support-link w-dropdown-toggle">
+            <div class="icon download-icon w-icon-dropdown-toggle"></div>
+            <div>Download</div>
+          </div>
+          <nav class="top-nav-menu-list w-dropdown-list">
+            <div class="top-nav-menu-wrapper"><img src="/images/download-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="/home/FantasyGroundsUnity.php" class="top-nav-menu-list-link with-icon download-menu mobile-menu-item w-dropdown-link">Get Fantasy Grounds Unity</a>
+            </div>
+            <div class="top-nav-menu-wrapper"><img src="/images/steam-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="https://store.steampowered.com/app/1196310/Fantasy_Grounds_Unity/" class="top-nav-menu-list-link with-icon mobile-menu-item w-dropdown-link" target="_blank">Get the Steam Version</a>
+            </div>
+            <div class="top-nav-menu-wrapper"><img src="/images/list-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+              <a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/pages/996641133/Available+Rulesets" class="top-nav-menu-list-link new-section with-icon store-menu mobile-menu-item w-dropdown-link" target="_blank">Browse Available Rulesets</a>
+            </div>
+          </nav>
+        </div>
+                
+                <div class="top-nav-holder mobile-menu">
+                  <div class="top-nav-block">
+                    <div class="profile-image-block mobile"><img src="/images/profile-icon.png" loading="lazy" width="30" height="30" alt="" class="profile-img"></div>
+                    <div data-hover="false" data-delay="0" class="dropdown w-dropdown">
+                      <div class="nav-link support-link username-menu mobile-menu w-dropdown-toggle">
+                        <div class="icon download-icon w-icon-dropdown-toggle"></div>
+                        <div>Login</div>
+                      </div>
+                      <nav class="top-nav-menu-list w-dropdown-list">
+                        <div class="top-nav-menu-wrapper"><img src="/images/login-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+                          <a href="/forums/usercp.php" class="top-nav-menu-list-link new-section with-icon store-menu mobile-menu-item w-dropdown-link">Log In</a>
+                        </div>                       
+                        <div class="top-nav-menu-wrapper"><img src="/images/profile-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+                          <a href="/forums/register.php" class="top-nav-menu-list-link with-icon download-menu mobile-menu-item w-dropdown-link">Register New User Account</a>
+                        </div>
+                        <div class="top-nav-menu-wrapper"><img src="/images/lock-icon.png" loading="lazy" width="16" alt="" class="nav-icon">
+                          <a href="/forums/login.php?do=lostpw" class="top-nav-menu-list-link with-icon mobile-menu-item w-dropdown-link">Forgot Password</a>
+                        </div>
+                      </nav>
+                    </div>
+                  </div>
+                </div>
+              </nav>
+      <div class="mobile-menu-button w-nav-button">
+        <div class="icon-4 w-icon-nav-menu"></div>
+      </div>
+    </div>
+</div>
+   
+  <section class="hero-section">
+    <div data-delay="8000" data-animation="slide" class="slider w-slider" data-autoplay="true" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="8" data-duration="500" data-infinite="true">
+      <div class="w-slider-mask">
+        <div class="slide w-slide">
+          <div class="slide-container">
+            <div class="slide-text-block">
+              <h1 class="heading-3">All of the Power<br><span class="headline-span">None of the Cost</span></h1><img width="360" sizes="(max-width: 360px) 100vw, 360px" alt="Fantasy Grounds VTT Logo" src="images/FG-Logo.png" loading="lazy" srcset="images/FG-Logo-p-500.png 500w, images/FG-Logo.png 658w" class="image fg-logo">
+              <div class="text-block-3">Virtual Tabletop (VTT)</div>
+              <div class="hero-buttons-block">
+                                   <a href="/dologin.php" class="hero-button top-header-button w-button">Sign In / Register</a>    
+                                
+                <a href="#games-section" class="hero-button explore-games-button top-header-button bottom-top w-button">Explore Games</a>
+              </div>
+            </div>
+          </div>
+        </div>	
+		
+		
+		<div class="w-slide">
+          <div class="slide-container not-first-slide dnd50-slide cosmere-rpg-ks-slide">
+            <div class="dnd50-block cosmere-block">
+              <div class="slide-text-block middle-aligned">
+                <div class="hero-buttons-block">
+                  <a href="/store/?sys=60&pub=77&typ=-1&search=&sort=1&pagesize=20&minDiscount=&hidecore=1" class="hero-button sale-button dnd50 w-button cosmere-button">Shop Stormlight</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+		
+        <div class="w-slide">
+          <div class="slide-container not-first-slide dnd50-slide pf2e-remaster-bundle-slide forge-slide">
+            <div class="dnd50-block pf2e-block forge-block">
+              <div class="slide-text-block middle-aligned">
+                <h1 class="sale-header">EXPAND<br>YOUR GAME</h1>
+                <div class="slide-description">WITH COMMUNITY CONTENT</div>
+                <div class="hero-buttons-block">
+                  <a href="https://forge.fantasygrounds.com/" class="hero-button sale-button dnd50 pf2e-button w-button forge-button">BROWSE THE FORGE</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+		
+        <div class="w-slide">
+          <div class="slide-container not-first-slide dnd50-slide">
+            <div class="dnd50-block">
+				<div class="slide-text-block middle-aligned">
+                <h1 class="sale-header">NEW D&amp;D<br>PRODUCTS</h1>
+                <div class="slide-description">UNLOCK EXCLUSIVE DICE SETS</div>
+                <div class="hero-buttons-block">
+                  <a href="/store/?sys=16&pub=29&typ=-1&search=&sort=1&pagesize=20&minDiscount=&hidecore=1" class="hero-button sale-button dnd50 w-button">GET ROLLING NOW</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="w-slide">
+          <div class="slide-container not-first-slide dnd50-slide pf2e-remaster-bundle-slide">
+            <div class="dnd50-block pf2e-block">
+              <div class="slide-text-block middle-aligned">
+                <h1 class="sale-header">PATHFINDER<br>REMASTERED</h1>
+                <div class="slide-description">NEW CORE RULEBOOKS</div>
+                <div class="hero-buttons-block">
+                  <a href="/store/productbundle.php?bundleid=PFRPG2REMASTERED" class="hero-button sale-button dnd50 pf2e-button w-button">GET THE BUNDLE</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+      <div class="w-slider-arrow-left">
+        <div class="icon-2 w-icon-slider-left"></div>
+      </div>
+      <div class="right-arrow w-slider-arrow-right">
+        <div class="w-icon-slider-right"></div>
+      </div>
+      <div class="slide-nav w-slider-nav w-shadow w-round"></div>
+    </div>
+  </section>
+<section class="licenses-section">
+    <div class="getting-started-subtitle"><p>Jump right into action with <span class="fg-name fg-name-larger">FANTASY&nbsp;GROUNDS&nbsp;VTT</span> to play tabletop roleplaying games online by completing three easy steps:</p>
+    </div>
+<div class="games-container license-flex">
+      
+      <div class="license-block core-license f2p-update">
+	    <div id="license-sale-callout" class="hidden"></div>
+        <div class="license-name-block core-license-name-block">
+          <div class="license-name">Login or Register</div>
+        </div>
+        <div class="license-writeup">
+          <div class="license-text-block">
+            <div class="license-block-text">Log into your account or create one to get started with your Fantasy Grounds adventure.</div>
+            <div class="license-buttons-container shop-content">
+              
+              <a style="background: #490074; border-color: rgba(170, 0, 255, .6);" class="button buy-button shop-content-button w-button" href="/dologin.php">Login</a>
+			  
+            <a style="background: #16286f;border-color: #617ce8;" href="/forums/register.php" class="button buy-button shop-content-button w-button">Create an Account</a></div>
+          </div>
+        </div><img src="/images/cover-demo.png" loading="lazy" width="136" sizes="136px" alt="" srcset="/images/cover-demo-p-500.png 500w, /images/cover-demo.png 585w" class="cover-image">
+      </div>
+      <div class="license-block f2p-update">
+        <div class="license-name-block free-demo">
+          <div class="license-name">Download &amp; Install</div>
+        </div>
+        <div class="text-img-wrapper">
+          <div class="license-writeup">
+            <div class="license-text-block">
+              <div class="license-block-text">Choose your operating system to get Fantasy Grounds installed - the full app is completely <span style="font-style: italic; color: #7ac5cc; font-weight: bold;">FREE</span>.</div>
+              <div class="license-buttons-container">
+                <a href="/filelibrary/FGUWebInstall.exe" target="_blank" class="button w-button">Windows</a>
+                <a href="/filelibrary/FGUWebInstall.pkg" target="_blank" class="button mac-button w-button">Mac</a>
+                <a href="/filelibrary/FGUWebInstall.bin" target="_blank" class="button linux-button w-button">Linux</a>
+              </div>
+            </div><img src="/images/cover-core.png" loading="lazy" width="136" sizes="136px" alt="" srcset="/images/cover-core-p-500.png 500w, /images/cover-core.png 585w" class="cover-image">
+          </div>
+        </div>
+      </div>
+	  <div class="license-block ultimate-license f2p-update">
+	    <div id="sale-timer-countdown" class="hidden"></div>
+        <div class="license-name-block ultime-license-name-block">
+          <div class="license-name">Play Your Way</div>
+        </div>
+        <div class="license-writeup">
+          <div class="license-text-block">
+            <div class="license-block-text">Host or play in games with the free built-in rulesets, or unlock thousands of titles in our store!</div>
+            <div class="license-buttons-container shop-content">
+              
+              <a class="button buy-button shop-content-button w-button" href="/store">Browse Store</a>
+			  
+            <a style="background: #4c6b22; border-color: #beee11;" href="/store/?minDiscount=0.1&amp;pagesize=40&amp;hidecore=1" class="button buy-button shop-content-button w-button">Shop On Sale</a></div>
+          </div>
+        </div><img src="/images/StoreBadge.png" loading="lazy" width="140" sizes="140px" alt="" srcset="/images/StoreBadge.png 500w, /images/StoreBadge.png 585w" class="cover-image">
+      </div>
+    </div>
+		<div id="saletimer" class="getting-started-subtitle license-update-notification">        <p><span class="new-tag">OWN A LICENSE?</span> - If you already had a Fantasy Grounds license prior to the Free to Play transition, you can <strong><a href="https://fantasygrounds.com/claimrewards" class="link">claim epic rewards</a></strong> from us and our partners!</p></div>
+  </section>
+  
+  <section id="games-section" class="games-section">
+    <h1 class="heading-2">The Largest Catalog of Officially-Licensed Content</h1>
+    <div class="browse-games-subtitle"><span class="fg-name fg-name-larger">FANTASY GROUNDS VTT</span> partners with all the top TTRPG publishers in the world to provide a unique experience for each game we support, with Fantasy Ground&#x27;s powerful automation, your games are easier to prep, more immersive for your players, and more convenient than ever to run.</div>
+	
+    <div class="games-container">
+      <a href="/store/?sys=16&amp;hidecore=1&amp;sort=1#TopSellers" class="game-block w-inline-block"><img src="images/WOTC.webp" loading="lazy" width="240" alt="" class="game-logo">
+        <div class="additional-info-label">5e / 5th Edition</div>
+        <div class="hero-button explore-games-button">Browse Modules</div>
+      </a>
+      <a href="/store/?sys=27&amp;sort=1#TopSellers" class="game-block dnd-classic w-inline-block"><img src="images/DnD_ClassicLogo.webp" loading="lazy" width="240" alt="" class="game-logo">
+        <div class="hero-button explore-games-button">Browse Modules</div>
+        <div class="additional-info-label">AD&amp;D 1E/2E</div>
+      </a>
+      <a href="/store/?sys=24" class="game-block pf-2e w-inline-block"><img src="images/PFRPG2E-Logo.webp" loading="lazy" width="240" alt="" class="game-logo">
+        <div class="hero-button explore-games-button">Browse Modules</div>
+        <div class="additional-info-label">2E / Remastered</div>
+      </a>
+      <a href="/store/?sys=9#TopSellers" class="game-block pf-1e w-inline-block"><img src="images/PathfinderRoleplayingGame.webp" loading="lazy" width="240" alt="" class="game-logo">
+        <div class="hero-button explore-games-button">Browse Modules</div>
+        <div class="additional-info-label">1st edition</div>
+      </a>
+      <a href="/store/?sys=22&amp;sort=1#TopSellers" class="game-block sf-1e w-inline-block"><img src="images/Starfinder.webp" loading="lazy" width="260" alt="" class="game-logo">
+        <div class="hero-button explore-games-button">Browse Modules</div>
+        <div class="additional-info-label">1st edition</div>
+      </a>
+      <a href="/store/?sys=46&amp;sort=1#TopSellers" class="game-block fallout w-inline-block"><img src="images/FalloutLogo.webp" loading="lazy" width="190" alt="" class="game-logo fallout">
+        <div class="hero-button explore-games-button">Browse Modules</div>
+      </a>
+      <a href="/store/?search=Cthulhu#TopSellers" class="game-block cthulu w-inline-block"><img src="images/coc-logo.webp" loading="lazy" width="200" sizes="200px" alt="" srcset="images/coc-logo-p-500.webp 500w, images/coc-logo-p-800.webp 800w, images/coc-logo-p-1080.webp 1080w, images/coc-logo.webp 1850w" class="game-logo cthulhu">
+        <div class="hero-button explore-games-button">Browse Modules</div>
+        <div class="additional-info-label">7e</div>
+      </a>
+      <a href="/store/?sys=56#TopSellers" class="game-block wod w-inline-block"><img src="images/World-of-Darkness-Logo.webp" loading="lazy" width="230" alt="" class="game-logo">
+        <div class="hero-button explore-games-button">Browse Modules</div>
+        <div class="additional-info-label">Fifth edition</div>
+      </a>
+      <a href="/store/?sys=3&amp;sort=1#TopSellers" class="game-block swade w-inline-block"><img src="images/savage_worlds_logo.webp" loading="lazy" width="180" alt="" class="game-logo swade">
+        <div class="hero-button explore-games-button">Browse Modules</div>
+        <div class="additional-info-label">Adventure Edition</div>
+      </a>
+      <a href="/store/?sys=49#TopSellers" class="game-block cyberpunk w-inline-block"><img src="images/Cyber-Punk-RED.webp" loading="lazy" width="220" alt="" class="game-logo cyberpunk">
+        <div class="hero-button explore-games-button">Browse Modules</div>
+      </a>
+      <a href="/store/?sys=30&amp;sort=1#TopSellers" class="game-block traveller w-inline-block"><img src="images/traveller-logo.webp" loading="lazy" width="200" sizes="200px" alt="" srcset="images/traveller-logo-p-500.webp 500w, images/traveller-logo-p-800.webp 800w, images/traveller-logo-p-1080.webp 1080w, images/traveller-logo.webp 1200w" class="game-logo traveller">
+        <div class="hero-button explore-games-button">Browse Modules</div>
+        <div class="additional-info-label">Second Edition</div>
+      </a>
+      <a href="/store/?sys=20&amp;sort=2#TopSellers" class="game-block _13th-age w-inline-block"><img src="images/logo13thAge2.webp" loading="lazy" width="220" alt="" class="game-logo _13th-age">
+        <div class="hero-button explore-games-button">Browse Modules</div>
+      </a>
+      <a href="/store/?sys=43&amp;sort=1#TopSellers" class="game-block star-trek-adventures w-inline-block"><img src="images/sta_logo-bold.webp" loading="lazy" width="195" alt="" class="game-logo star-trek-adventures">
+        <div class="hero-button explore-games-button">Browse Modules</div>
+      </a>
+      <a href="/store/?sys=13#TopSellers" class="game-block mnm w-inline-block"><img src="images/mnm_logo.webp" loading="lazy" width="230" alt="" class="game-logo mnm">
+        <div class="hero-button explore-games-button">Browse Modules</div>
+      </a>
+      <a href="/store/?sys=34&amp;sort=1#TopSellers" class="game-block alien-rpg w-inline-block"><img src="images/AlienRPG.webp" loading="lazy" width="240" alt="" class="game-logo">
+        <div class="hero-button explore-games-button">Browse Modules</div>
+      </a>
+      <a href="/store/index.php?sys=50#TopSellers" class="game-block transformers w-inline-block"><img src="images/TRANSFORMERS.webp" loading="lazy" width="240" alt="" class="game-logo transformers">
+        <div class="hero-button explore-games-button">Browse Modules</div>
+      </a>
+    </div>
+	
+	
+	<div data-delay="8000" data-animation="slide" class="games-carousel w-slider" data-autoplay="true" data-easing="linear" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
+      <div class="w-slider-mask">
+        <div class="w-slide">
+          <div class="games-container games-carousel-container">
+            <a href="store/?sys=16&amp;hidecore=1&amp;sort=1#TopSellers" class="game-block w-inline-block"><img width="240" loading="lazy" alt="" src="/images/WOTC.webp" class="game-logo">
+              <div class="additional-info-label">5e / 5th Edition</div>
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=27&amp;sort=1#TopSellers" class="game-block dnd-classic w-inline-block"><img width="240" loading="lazy" alt="" src="/images/DnD_ClassicLogo.webp" class="game-logo">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+              <div class="additional-info-label">AD&amp;D 1E/2E</div>
+            </a>
+            <a href="store/?sys=24" class="game-block pf-2e w-inline-block"><img width="240" loading="lazy" alt="" src="/images/PFRPG2E-Logo.webp" class="game-logo">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+              <div class="additional-info-label">2E / Remastered</div>
+            </a>
+            <a href="store/?sys=9#TopSellers" class="game-block pf-1e w-inline-block"><img width="240" loading="lazy" alt="" src="/images/PathfinderRoleplayingGame.webp" class="game-logo">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+              <div class="additional-info-label">1st edition</div>
+            </a>
+            <a href="store/?sys=22&amp;sort=1#TopSellers" class="game-block sf-1e w-inline-block"><img width="260" loading="lazy" alt="" src="/images/Starfinder.webp" class="game-logo">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+              <div class="additional-info-label">1st edition</div>
+            </a>	
+			<a href="store/?sys=58&pub=-1&typ=-1&search=&sort=1&pagesize=20&minDiscount=&hidecore=1" class="game-block starfinder-2e w-inline-block"><img width="260" loading="lazy" alt="" src="/images/starfinder-2e.webp" class="game-logo starfinder-2e">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+			  <div class="additional-info-label">2nd edition</div>
+            </a>
+            <a href="store/?search=Cthulhu#TopSellers" class="game-block cthulu w-inline-block"><img width="200" sizes="200px" alt="" src="/images/coc-logo.webp" loading="lazy" srcset="/images/coc-logo-p-500.webp 500w, /images/coc-logo-p-800.webp 800w, /images/coc-logo-p-1080.webp 1080w, /images/coc-logo.webp 1850w" class="game-logo cthulhu">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+              <div class="additional-info-label">7e</div>
+            </a>
+            <a href="store/?sys=3&amp;sort=1#TopSellers" class="game-block swade w-inline-block"><img width="180" loading="lazy" alt="" src="/images/savage_worlds_logo.webp" class="game-logo swade">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+              <div class="additional-info-label">Adventure Edition</div>
+            </a>
+            <a href="store/?sys=49#TopSellers" class="game-block cyberpunk w-inline-block"><img width="220" loading="lazy" alt="" src="/images/Cyber-Punk-RED.webp" class="game-logo cyberpunk">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=30&amp;sort=1#TopSellers" class="game-block traveller w-inline-block"><img width="200" sizes="200px" alt="" src="/images/traveller-logo.webp" loading="lazy" srcset="/images/traveller-logo-p-500.webp 500w, /images/traveller-logo-p-800.webp 800w, /images/traveller-logo-p-1080.webp 1080w, /images/traveller-logo.webp 1200w" class="game-logo traveller">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+              <div class="additional-info-label">Second Edition</div>
+            </a>
+            <a href="store/?sys=46&amp;sort=1#TopSellers" class="game-block fallout w-inline-block"><img width="190" loading="lazy" alt="" src="/images/FalloutLogo.webp" class="game-logo fallout">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="/store/?sys=60&pub=77&typ=-1&search=&sort=1&pagesize=20&minDiscount=&hidecore=1" class="game-block cosmere-rpg w-inline-block"><img width="180" sizes="180px" alt="" src="/images/cosmere-rpg.webp" loading="lazy" srcset="/images/cosmere-rpg.webp 500w, /images/cosmere-rpg.webp 680w" class="game-logo cosmere-rpg">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=56#TopSellers" class="game-block wod w-inline-block"><img width="230" loading="lazy" alt="" src="/images/World-of-Darkness-Logo.webp" class="game-logo">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+              <div class="additional-info-label">Fifth edition</div>
+            </a>
+            <a href="store/?sys=56&pub=-1&typ=-1&search=Vampire&sort=1#TopSellers" class="game-block vtm w-inline-block"><img width="210" loading="lazy" alt="" src="/images/VampireMasqueradeV5Logo.webp" class="game-logo">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/product.php?id=WOD5ERGS09624" class="game-block htr w-inline-block"><img width="210" loading="lazy" alt="" src="/images/HUNTER-Logo.webp" class="game-logo">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/product.php?id=WOD5ERGS01136#TopSellers" class="game-block wta w-inline-block"><img width="240" loading="lazy" alt="" src="/images/WEREWOLF-Logo.webp" class="game-logo">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=47&amp;pub=-1&amp;typ=-1&amp;search=&amp;sort=2#TopSellers" class="game-block dune w-inline-block"><img width="210" loading="lazy" alt="" src="/images/dune-bold.webp" class="game-logo dune-rpg">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=48&amp;pub=-1&amp;typ=-1&amp;search=&amp;sort=1#TopSellers" class="game-block dnd-classic w-inline-block"><img width="240" loading="lazy" alt="" src="/images/shadow_of_the_demon_lord.webp" class="game-logo sotdl">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/index.php?sys=50#TopSellers" class="game-block transformers w-inline-block"><img width="240" loading="lazy" alt="" src="/images/TRANSFORMERS.webp" class="game-logo transformers">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=43&amp;sort=1#TopSellers" class="game-block star-trek-adventures w-inline-block"><img width="195" loading="lazy" alt="" src="/images/sta_logo-bold.webp" class="game-logo star-trek-adventures">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+          </div>
+        </div>
+        <div class="w-slide">
+          <div class="games-container games-carousel-container">
+            <a href="store/?sys=34&amp;sort=1#TopSellers" class="game-block alien-rpg w-inline-block"><img width="240" loading="lazy" alt="" src="/images/AlienRPG.webp" class="game-logo">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=35&amp;pub=-1&amp;typ=-1&amp;search=&amp;sort=1#TopSellers" class="game-block vaesen w-inline-block"><img width="210" loading="lazy" alt="" src="/images/vaesen_text_only_alt.webp" class="game-logo vaesen">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=26&amp;pub=-1&amp;typ=-1&amp;search=&amp;sort=1" class="game-block symbaroum w-inline-block"><img width="210" loading="lazy" alt="" src="/images/Symbaroum.webp" class="game-logo symbaroum">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/product.php?id=DPDHCS" class="game-block daggerheart w-inline-block"><img width="190" loading="lazy" alt="" src="/images/DaggerheartLogo.webp" class="game-logo daggerheart">
+              <div class="hero-button explore-games-button">Coming Soon</div>
+            </a>
+            <a href="store/?sys=55&amp;pub=-1&amp;typ=-1&amp;search=&amp;sort=1#TopSellers" class="game-block shadowdark w-inline-block"><img width="200" loading="lazy" alt="" src="/images/ShadowDark.png" class="game-logo">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=5&amp;pub=-1&amp;typ=-1&amp;search=&amp;sort=1#TopSellers" class="game-block castles-and-crusades w-inline-block"><img width="240" loading="lazy" alt="" src="/images/CandC.webp" class="game-logo">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=28&amp;pub=-1&amp;typ=-1&amp;search=&amp;sort=1#TopSellers" class="game-block dungeon-crawl-classics w-inline-block"><img width="190" loading="lazy" alt="" src="/images/DCCRPGLogo.webp" class="game-logo dcc">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=39&amp;pub=-1&amp;typ=-1&amp;search=&amp;sort=1" class="game-block mutant-crawl-classics w-inline-block"><img width="200" loading="lazy" alt="" src="/images/MUTANT-CRAWL-CLASSICS.webp" class="game-logo">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=13#TopSellers" class="game-block mnm w-inline-block"><img width="230" loading="lazy" alt="" src="/images/mnm_logo.webp" class="game-logo mnm">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=17&amp;pub=-1&amp;typ=-1&amp;search=&amp;sort=1" class="game-block _5e-compatible w-inline-block"><img width="100" loading="lazy" alt="" src="/images/5e-compatible-logo.webp" class="game-logo _5e-compatible">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+              <div class="additional-info-label">Fifth edition</div>
+            </a>
+            <a href="store/?sys=21&amp;pub=-1&amp;typ=-1&amp;search=&amp;sort=1#TopSellers" class="game-block woin w-inline-block"><img width="230" loading="lazy" alt="" src="/images/WOIN.webp" class="game-logo woin">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=59&pub=-1&typ=-1&search=&sort=1&pagesize=20&minDiscount=&hidecore=1" class="game-block dolmenwood w-inline-block"><img width="210" loading="lazy" alt="" src="/images/DolmenwoodLogo.webp" class="game-logo dolmenwood">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=11&amp;pub=-1&amp;typ=-1&amp;search=&amp;sort=1" class="game-block basic-roleplaying w-inline-block"><img width="220" loading="lazy" alt="" src="/images/basic-roleplaying.webp" class="game-logo basic-roleplaying">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/index.php?search=Fifth+Edition+Fantasy" class="game-block fifth-edition-fantasy w-inline-block"><img width="200" loading="lazy" alt="" src="/images/FEF.webp" class="game-logo _5e-fantasy">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+              <div class="additional-info-label">Fifth edition</div>
+            </a>
+            <a href="store/?search=Deadlands" class="game-block deadlands w-inline-block"><img width="220" loading="lazy" alt="" src="/images/Deadlands.webp" class="game-logo">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=14&amp;pub=-1&amp;typ=-1&amp;search=&amp;sort=1" class="game-block fate-core w-inline-block"><img width="200" loading="lazy" alt="" src="/images/fate-core.webp" class="game-logo">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=45&amp;pub=-1&amp;typ=-1&amp;search=&amp;sort=1" class="game-block icons w-inline-block"><img width="194" sizes="194px" alt="" src="/images/icons-logo.webp" loading="lazy" srcset="/images/icons-logo.webp 500w, /images/icons-logo.webp 656w" class="game-logo icons">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=15&amp;pub=-1&amp;typ=-1&amp;search=&amp;sort=1" class="game-block d20-modern w-inline-block"><img width="200" loading="lazy" alt="" src="/images/d20-modern.webp" class="game-logo _5e-fantasy">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=20&amp;sort=2#TopSellers" class="game-block _13th-age w-inline-block"><img width="220" loading="lazy" alt="" src="/images/logo13thAge2.webp" class="game-logo _13th-age">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+            <a href="store/?sys=-1&pub=-1&typ=-1&search=Tales+of+the+Valiant&sort=1" class="game-block tales-of-the-valiant w-inline-block"><img width="120" loading="lazy" alt="" src="/images/tales-of-the-valiant.webp" class="game-logo tales-of-the-valiant">
+              <div class="hero-button explore-games-button">Browse Modules</div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="left-arrow-2 w-slider-arrow-left">
+        <div class="icon-6 icon-6-bottom w-icon-slider-left"></div>
+        <div class="icon-6 w-icon-slider-left"></div>
+      </div>
+      <div class="right-arrow-2 w-slider-arrow-right">
+        <div class="icon-5 icon-5-bottom w-icon-slider-right"></div>
+        <div class="icon-5 w-icon-slider-right"></div>
+      </div>
+      <div class="w-slider-nav w-round"></div>
+    </div>
+	
+	    <div class="games-buttons-block">
+      <a href="/store/" class="hero-button all-games w-button">Browse Modules</a>
+      <a href="/store/productbundles.php" class="hero-button all-games explore-games-button w-button">Browse Bundles</a>
+    </div>
+	
+	
+  </section>
+  <section class="art-subscription-section">
+    <div class="art-subscription-container">
+      <div class="art-sub-inner">
+        <h1 class="heading-2 blurb-header">Art Subscription</h1>
+        <div class="games-subtitle">The <span class="fg-name">FANTASY GROUNDS</span> art subscription is a great way to access loads of custom SmiteWorks art for a low monthly cost. You gain access to anything that has previously been released for the subscription as well as all new assets as they are released.</div>
+        <a href="/home/FGUArtSub.php" class="hero-button blurb-button art-sub-button w-button">Subscribe Now</a>
+      </div>
+    </div>
+  </section>
+  <section class="features-section">
+    <div class="features-block">
+      <div class="blurb-two-columns w-row">
+        <div class="column-2 w-col w-col-8">
+          <h1 class="heading-2 blurb-header">Discover the Wiki</h1>
+          <div class="games-subtitle">The wiki is home to the <span class="fg-name">Fantasy Grounds</span> User Manual and thousands of articles that range from quick start guides to feature deep dives. Get all the help you need to get started or expand your Fantasy Grounds mastery!</div>
+          <a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/overview" class="hero-button blurb-button w-button">Go to the Wiki</a>
+        </div>
+        <div class="column w-col w-col-4"><img src="images/fg-wiki-blurb.png" loading="lazy" width="240" sizes="(max-width: 479px) 206.08334350585938px, (max-width: 767px) 43vw, (max-width: 991px) 23vw, 13vw" alt="" srcset="images/fg-wiki-blurb-p-500.png 500w, images/fg-wiki-blurb.png 658w"></div>
+      </div>
+      <div class="blurb-two-columns w-row">
+        <div class="column-3 w-col w-col-8">
+          <h1 class="heading-2 blurb-header">Fantasy Grounds Forge</h1>
+          <div class="games-subtitle">The<span class="fg-name"> Fantasy Grounds</span> Forge (the FG Forge or FGF) is a community developer portal where creators can share content for free or sell it. Forge users can then purchase or subscribe to content and use the creations in their games!</div>
+          <a href="https://forge.fantasygrounds.com/" class="hero-button blurb-button w-button">Go to the Forge</a>
+        </div>
+        <div class="column w-col w-col-4"><img src="images/anvil-blurb.png" loading="lazy" width="260" sizes="(max-width: 479px) 207.6666717529297px, (max-width: 767px) 44vw, (max-width: 991px) 23vw, 14vw" alt="" srcset="images/anvil-blurb-p-500.png 500w, images/anvil-blurb.png 561w"></div>
+      </div>
+    </div>
+  </section>
+  
+  <!-- INSERT FOOTER HERE -->
+  <section class="footer">
+    <div class="footer-content">
+      <div class="footer-logo">
+        <a href="/" aria-current="page" class="w-inline-block w--current"><img src="/images/FG-Logo.png" loading="lazy" width="220" sizes="(max-width: 479px) 100vw, 220px" alt="Fantasy Grounds VTT Logo" srcset="/images/FG-Logo-p-500.png 500w, /images/FG-Logo.png 658w"></a>
+      </div>
+      <div class="games-subtitle footer-text">FANTASY GROUNDS is copyright &copy; SmiteWorks USA LLC, 2004-2025. All Rights Reserved.</div>
+      <div class="social-buttons">
+        <a href="http://eepurl.com/g5g8oj" class="mobile-social w-inline-block"><img src="/images/newsletter-icon.png" loading="lazy" width="36" title="Subscribe to the Newsletter" alt=""></a>
+        <a title="Follow Us on Facebook" href="https://www.facebook.com/fantasygrounds" class="w-inline-block"><img src="/images/fb-icon.png" loading="lazy" width="36" alt="" class="mobile-social"></a>
+        <a href="https://www.x.com/fantasygrounds2" class="w-inline-block"><img src="/images/x-icon.png" loading="lazy" width="36" title="Follow Us on X (Twitter)" alt="" class="mobile-social"></a>
+		<a href="https://bsky.app/profile/fantasygrounds.com" class="w-inline-block"><img src="/images/bluesky-icon.png" loading="lazy" width="36" title="Follow Us on Bluesky" alt="" class="mobile-social"></a>
+        <a title="Subscribe to Our YouTube Channel" href="https://www.youtube.com/c/Fantasygrounds" class="w-inline-block"><img src="/images/yt-icon.png" loading="lazy" width="36" alt="" class="mobile-social"></a>
+        <a title="Follow Us on Twitch" href="https://www.twitch.tv/fantasygrounds" class="w-inline-block"><img src="/images/twitch-icon.png" loading="lazy" width="36" alt="" class="mobile-social"></a>
+        <a title="Join Our Discord Server" href="/home/Discord.php" class="w-inline-block"><img src="/images/discord-icon.png" loading="lazy" width="36" alt="" class="mobile-social"></a>
+        <a title="Follow Us on Instagram" href="https://www.instagram.com/fantasygrounds2/" class="w-inline-block"><img src="/images/ig-icon.png" loading="lazy" width="36" alt="" class="mobile-social"></a>
+        <a title="Explore the Fantasy Grounds Subreddit" href="https://www.reddit.com/r/FantasyGrounds/" class="w-inline-block"><img src="/images/reddit-icon.png" loading="lazy" width="36" alt="" class="mobile-social"></a>
+        <div class="legal-block">
+          <a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/pages/996638889/END+USER+LICENSE+AGREEMENT+%28EULA%29+FOR+FANTASY+GROUNDS+AND+FANTASY+GROUNDS+UNITY" class="link-2">End User License Agreement</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/pages/996638902/Privacy+Policy" class="link-3">Privacy Policy</a>
+        </div>
+      </div>
+    </div>
+  </section>  <!-- License Sale Code --> 
+<script>
+// Data passed from PHP
+var saleStartDate = new Date("").getTime();
+var saleEndDate = new Date("").getTime();
+var saleDiscount = ;
+var majorSale = ;
+var originalPrice = ;
+var newPrice = originalPrice * (1 - saleDiscount); 
+var now = new Date().getTime();
+
+// Add the sale indicator for licenses
+var discountDiv = document.getElementById("license-sale-callout");
+if (now >= saleStartDate && now <= saleEndDate) {
+	if (discountDiv) {
+		var percentOff  = Math.round(saleDiscount * 100);
+		
+		discountDiv.innerHTML = percentOff  + "% OFF";
+		discountDiv.classList.remove("hidden");
+	}
+} else {
+	discountDiv.classList.add("hidden");
+}
+
+// Add the correct price
+var licensePrice = document.getElementById("licensePrice");
+if (now >= saleStartDate && now <= saleEndDate) {
+	if (licensePrice) {
+		licensePrice.innerText = newPrice.toFixed(2);
+	}
+}
+
+// Add the timer that tells when the sale ends
+var x = setInterval(function() {
+  var now = new Date().getTime();
+  var targetDiv = document.getElementById("sale-timer-countdown");
+
+  if (now >= saleStartDate && now <= saleEndDate) {
+	targetDiv.classList.remove("hidden");
+    var distance = saleEndDate - now;
+    
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    var percent = Math.round(saleDiscount * 100);
+    
+    var existingBanner = document.getElementById("sale-message");
+
+    if (!existingBanner && targetDiv) {
+      var salePara = document.createElement("p");
+      salePara.id = "sale-message";
+	  salePara.innerHTML = "ENDS in <span id='sale-countdown'></span>";
+	  targetDiv.insertBefore(salePara, targetDiv.firstChild);
+    }
+
+    var countdownSpan = document.getElementById("sale-countdown");
+    if (countdownSpan) {
+      countdownSpan.innerText = days + "d " + hours + "h " + minutes + "m " + seconds + "s";
+    }
+
+  } else {
+	targetDiv.classList.add("hidden");
+    clearInterval(x);
+    var banner = document.getElementById("sale-message");
+    if (banner) {
+      banner.remove();
+    }
+  }
+}, 1000);
+</script>  
+  <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=66610d93e0f4435a29c02a55" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <script src="js/webflow.js" type="text/javascript"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"785a4af17559413bb1d82624025b7f7a","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>

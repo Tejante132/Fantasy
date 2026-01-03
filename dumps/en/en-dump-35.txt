@@ -1,0 +1,1098 @@
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Background, composition, and premiere
+     * 2 The Choral Fantasy and the Ninth Symphony
+     * 3 Form
+     * 4 Text
+     * 5 Notes
+     * 6 References
+     * 7 External links
+
+   [ ] Toggle the table of contents
+
+Choral Fantasy (Beethoven)
+
+   [ ] 14 languages
+     * Afrikaans
+     * Català
+     * Čeština
+     * Deutsch
+     * Español
+     * Esperanto
+     * Français
+     * 한국어
+     * Hrvatski
+     * Italiano
+     * 日本語
+     * Norsk bokmål
+     * Türkçe
+     * Українська
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Musical composition by Ludwig van Beethoven
+
+                Choral Fantasy
+   by Ludwig van Beethoven
+   [250px-Beethoven_3.jpg]
+   Detail of a 1804–05 portrait of Beethoven by J. W. Mähler
+   Native name Fantasia
+       Key     C minor, modulating to C major
+      Opus     80
+    Language   German
+    Composed   1808
+    Duration   About 20 minutes
+     Scoring
+     * piano
+     * vocal soloists
+     * mixed chorus
+     * orchestra
+
+                   Premiere
+      Date     22 December 1808
+    Location   Theater an der Wien, Vienna
+   Performers  Ludwig van Beethoven (piano)
+
+   The Fantasy for piano, vocal soloists, mixed chorus, and orchestra,
+   Op. 80, usually called the Choral Fantasy, was composed in 1808 by then
+   38-year-old Ludwig van Beethoven.
+
+   Beethoven intended the Fantasy to serve as the concluding work for the
+   benefit concert he put on for himself on 22 December 1808; the
+   performers consisted of vocal soloists, mixed chorus, an orchestra, and
+   Beethoven himself as piano soloist. The Fantasy was designed to include
+   all the participants in the program and thus unites all of these
+   musical forces.
+
+   The work is noted as a precursor to the later Ninth Symphony.
+
+Background, composition, and premiere
+
+   [edit]
+
+   The Fantasia was first performed at the Akademie of 22 December 1808, a
+   benefit concert which also saw the premieres of the Fifth and Sixth
+   Symphonies and the Fourth Piano Concerto as well as a performance of
+   excerpts of the Mass in C major. To conclude this memorable concert
+   program, Beethoven wanted a "brilliant finale" that would unite in a
+   single piece the different musical elements highlighted in the concert
+   night: piano solo, mixed chorus and orchestra. The Fantasia, Op. 80,
+   written shortly before, was thus composed expressly to fulfil this
+   role. Beethoven himself played the piano part and the opening solo
+   offers an example of his improvisational style (at the premiere he did,
+   in fact, improvise this section).
+
+   Beethoven wrote the piece during the second half of December 1808 in an
+   unusually short time by his standards. He commissioned a poet—whose
+   identity is disputed—to write the words shortly before the performance
+   to fit the already written parts. According to Beethoven's pupil Carl
+   Czerny, the poet was Christoph Kuffner [de],^[1] but the later
+   Beethoven scholar Gustav Nottebohm doubted this attribution and
+   suggested it may have been Georg Friedrich Treitschke, who in 1814
+   prepared the final text of Beethoven's opera Fidelio.^[2]
+
+   The premiere performance seems to have been a rather troubled one;
+   according to the composer's secretary, Anton Schindler, it "simply fell
+   apart", a result most likely attributable to insufficient rehearsal
+   time. Because of a mistake in the execution of the piece, it was
+   stopped halfway through and restarted.^[3] In Ignaz von Seyfried's
+   words:^[4]^[5]
+
+     When the master brought out his orchestral Fantasia with choruses,
+     he arranged with me at the somewhat hurried rehearsal, with wet^[6]
+     voice-parts as usual, that the second variation should be played
+     without repeat. In the evening, however, absorbed in his creation,
+     he forgot all about the instructions which he had given, repeated
+     the first part while the orchestra accompanied the second, which
+     sounded not altogether edifying. A trifle too late, the
+     Concertmaster, Unrath, noticed the mistake, looked in surprise at
+     his lost companions, stopped playing and called out dryly: 'Again!'
+     A little displeased, the violinist Anton Wranitzky asked 'With
+     repeats?' 'Yes', came the answer, and now the thing went straight as
+     a string.
+
+The Choral Fantasy and the Ninth Symphony
+
+   [edit]
+
+   The work includes a sequence of variations on a theme that is widely
+   felt to be an early version of a far better known variation theme,
+   namely the one to which Beethoven set the words of Friedrich Schiller's
+   "Ode to Joy" in his Ninth Symphony. The two themes are compared below.
+
+          \new Score { \new Staff { \relative c'' { \time 2/4 \key c
+          \major \clef treble \tempo 4 = 88 \omit Score.MetronomeMark
+          \partial 4 e8^\markup { \halign #-0.5 "Choral Fantasy"} e f( e d
+          c) c( b a b) c( c d e) e( d) } } } Audio playback is not
+          supported in your browser. You can download the audio file.
+
+          \new Score { \new Staff { \relative c { \time 4/4 \key d \major
+          \clef bass \tempo 2 = 60 \omit Score.MetronomeMark fis2^\markup
+          { \halign #-0.5 "Ninth Symphony"}( g4 a) | a4( g fis e) | d2( e4
+          fis) | fis4.( e8) e2 } } } Audio playback is not supported in
+          your browser. You can download the audio file.
+
+   Michael Broyles has suggested another musical similarity: the two works
+   share essentially the same harmonic sequence at their climactic
+   moments, the chords (in C major) C–F–D–(G)–E♭, where the E♭ stands out
+   from its harmonic context and is performed fortissimo. The words sung
+   at this point are (for the Choral Fantasy) "Lieb und Kraft" ("love and
+   strength") and (for the Ninth Symphony) "Über'm Sternenzelt! Über
+   Sternen muss er wohnen." ("Above the tent of the stars, above the stars
+   he must dwell.")^[7]
+
+   There are also affinities in the texts. The theme of the Choral Fantasy
+   text – universal fraternity with the meeting of arts – evokes similar
+   feelings as the "Ode to Joy" text.
+
+   Beethoven himself acknowledged the kinship of the two works. In a
+   letter of 1824, when he was writing the Ninth Symphony, he described
+   his project as "a setting of the words of Schiller's immortal 'Lied an
+   die Freude' in the same way as my pianoforte fantasia with chorus, but
+   on a far grander scale."^[8]
+
+   The Choral Fantasy theme is itself taken from an earlier work by
+   Beethoven: it is a slightly modified version of the composer's "Seufzer
+   eines Ungeliebten – Gegenliebe,” a lied for high voice and piano
+   written c. 1794–1795.^[9]
+
+Form
+
+   [edit]
+                              External audio
+   audio icon Choral Fantasy performed by the Dexter Community Orchestra
+   and the Washtenaw Community Orchestra Chorus in 2009
+
+   The Choral Fantasy, which lasts about twenty minutes, is divided into
+   two movements, played without a break:
+    1. Adagio
+    2. Finale. Allegro – Meno allegro (Allegretto) – Allegro molto –
+       Adagio ma non troppo – Marcia, assai vivace – Allegro – Allegretto
+       ma non troppo quasi andante con moto Schmeichelnd hold und lieblich
+       klingen – Presto
+
+   The piece is scored for solo piano, mixed chorus, two soprano soloists,
+   an alto soloist, two tenor soloists, a bass soloist, and an orchestra
+   consisting of two flutes, two oboes, two clarinets, two bassoons, two
+   horns, two trumpets, timpani and strings.
+
+   The Fantasy opens with a slow but virtuosic 26-bar piano introduction,
+   beginning in C minor and modulating through a variety of keys in
+   florid, improvisatory fashion. At its midpoint it settles on the
+   dominant of the dominant, G major, with an extended cadenza. The
+   implied key is never confirmed and the music eventually returns to C
+   minor in a stormy passage, which at the last moment turns once more
+   toward the dominant seventh of G in a sweeping arpeggio. This concludes
+   the opening section.
+
+   The main part of the piece, marked "Finale", begins with a march-like
+   motive (Allegro) played by the cellos and basses, alternating with
+   recitative-like interjections from the piano. The music eventually
+   brightens into C major and the solo piano introduces the principal
+   theme (meno allegro) discussed above. Variations on the theme are then
+   played by gradually increasing contingents of instruments: a solo
+   flute, two oboes, a trio of two clarinets and bassoon, and string
+   quartet. A full orchestral version of the theme played at a forte
+   dynamic leads to the re-entry of the piano and to what seems at first
+   like a postlude to this variation set, but that once again turns toward
+   the dominant. The music pauses with a cadenza on the dominant seventh
+   for the solo piano.
+
+   There is an abrupt change of mood as the minor mode returns in a stormy
+   Allegro molto. The alternating phrases for piano and orchestra are a
+   disguised variation of the principal theme. In fact, the three sections
+   that follow the first variation set form another, larger-scale set of
+   variations. The allegro molto soon takes on a developmental quality
+   with a series of modulations, the strings playing phrases of the theme
+   accompanied by rapid broken chords on the solo piano. After another
+   cadenza on an E major triad the second large variation (Adagio, ma non
+   troppo) follows, a calm, flowing A major section prominently featuring
+   the clarinets. This ends with a call-and-response section between
+   double reeds, horn, and piano, and leads without break into the key of
+   F major and the third variation on the main theme, Marcia (assai
+   vivace). A reprise of the instrumental theme from the first Allegro
+   forms the transition into the choral finale (Allegretto).
+
+   The first half of this is essentially a recapitulation of previously
+   heard material at the beginning of the Finale with the addition of solo
+   voices and chorus, another point of similarity with the finale of the
+   Ninth Symphony. After a prolonged dominant pedal and arpeggios from the
+   soloist the chorus, two solo sopranos sing the main theme, followed by
+   a variation featuring a trio of men's voices. After these two
+   variations the entire chorus is joined by the orchestra for the first
+   time in a tutti rendition of the theme. The music gains excitement and
+   eventually breaks into an accelerated coda (Presto) with all forces
+   joining to bring the piece to a triumphant close.
+
+Text
+
+   [edit]
+
+   Schmeichelnd hold und lieblich klingen
+   unseres Lebens Harmonien,
+   und dem Schönheitssinn entschwingen
+   Blumen sich, die ewig blühn.
+   Fried und Freude gleiten freundlich
+   wie der Wellen Wechselspiel.
+   Was sich drängte rauh und feindlich,
+   ordnet sich zu Hochgefühl.
+   Wenn der Töne Zauber walten
+   und des Wortes Weihe spricht,
+   muss sich Herrliches gestalten,
+   Nacht und Stürme werden Licht.
+   Äuß're Ruhe, inn're Wonne
+   herrschen für den Glücklichen.
+   Doch der Künste Frühlingssonne
+   läßt aus beiden Licht entstehn.
+   Großes, das ins Herz gedrungen,
+   blüht dann neu und schön empor.
+   Hat ein Geist sich aufgeschwungen,
+   hallt ihm stets ein Geisterchor.
+   Nehmt denn hin, ihr schönen Seelen,
+   froh die Gaben schöner Kunst
+   Wenn sich Lieb und Kraft vermählen,
+   lohnt den Menschen Göttergunst.^[10]
+
+   Graceful, charming and sweet is the sound
+   Of our life's harmonies,
+   and from a sense of beauty arise
+   Flowers which eternally bloom.
+   Peace and joy advance in perfect concord,
+   like the changing play of the waves.
+   All that was harsh and hostile,
+   has turned into sublime delight.
+   When music's enchantment reigns,
+   speaking of the sacred word,
+   Magnificence takes form,
+   The night and the tempest turns to light:
+   Outer peace and inner bliss
+   Reign o'er the fortunate ones.
+   All art in the spring's sun
+   Lets light flow from both.
+   Greatness, once it has pierced the heart,
+   Then blooms anew in all its beauty.
+   Once one's being has taken flight,
+   A choir of spirits resounds in response.
+   Accept then, you beautiful souls,
+   Joyously the gifts of high art.
+   When love and strength are united,
+   Divine grace is bestowed upon Man.^[10]
+
+   The piece ends with repetition of phrases from the last four lines.
+
+   As noted above, the words were written in haste, and Beethoven was
+   perhaps not entirely pleased with them. He later wrote to his publisher
+   Breitkopf & Härtel:
+
+     You may wish to print another text, as the text like the music was
+     written very quickly ... Still with another set of words I want the
+     word kraft ["strength"] to be kept or one similar to it in its
+     place.
+
+   As Kalischer et al. observe, the word Kraft "is treated with grand
+   style in the music."^[11]
+
+   A new German text was written by a German poet and Communist politician
+   Johannes R. Becher in 1951, keeping the word Kraft in the same
+   position. Becher's text, inspired by Beethoven's explicit permission to
+   change the lyrics, is an ode to peace that reflects the post-war
+   atmosphere. Becher's lyrics were used in several recordings especially
+   in East Germany, for example those of Franz Konwitschny or Herbert
+   Kegel.^[12]^[13]^[14]^[15]
+
+Notes
+
+   [edit]
+    1. ^ Albrecht et al. (1996, 10) identify Kuffner (1780–1846) as "an
+       official at the War Ministry, musically talented poet, author of
+       the text of the Choral Fantasia Op. 80, and of the drama Tarpeja,
+       for which Beethoven supplied incidental music WoO 2, in 1813."
+    2. ^ Kinderman (1995, 132)
+    3. ^ Landon, H. C. Robbins. Beethoven: His Life, Work, and World.
+       Thames and Hudson. New York City. 1992; p. 149
+    4. ^ Roger Ruggeri. "Program notes". Archived from the original on 4
+       March 2007. Retrieved 24 September 2010.
+    5. ^ A. W. Thayer, Life of Beethoven, edited by Elliot Forbes.
+       Princeton, New Jersey, Princeton University Press, 1964, pp.
+       448–449
+    6. ^ "Wet" refers to the ink; in Beethoven's day the performance parts
+       would have been prepared by copyists using pens.
+    7. ^ Broyles (1987, 263–264)
+    8. ^ Quoted from Kinderman (1995, 132)
+    9. ^ Lühning 1990, 200
+   10. ^ ^a ^b "Program #3". Totally Beethoven. Arts NC State. North
+       Carolina State University: 19–20. Fall 2013 – via issuu.
+   11. ^ Source for quotation and "Kraft" comment: Kalischer et al. (1972,
+       106).
+   12. ^ "Fantasie für Klavier, Orchester und Chor c-Moll op. 80", notes
+       by Bernd Stremmel, [2004] 2 December 2013, klassik-prisma.de (in
+       German)
+   13. ^ "Becher, Johannes R." by Wolfgang Näser, [2002] 3 January 2013,
+       uni-marburg.de (in German)
+   14. ^ Audio on YouTube, Choral Fantasy, Peter Rösel (piano), Dresden
+       Philharmonic, Herbert Kegel conducting
+   15. ^ Audio on YouTube, Choral Fantasy, Günter Kootz [de] (piano),
+       Leipzig Gewandhaus Orchestra, Franz Konwitschny conducting
+
+References
+
+   [edit]
+     * Albrecht, Theodore et al. (1996) Letters to Beethoven and Other
+       Correspondence: 1824–1828. University of Nebraska Press.
+     * Broyles, Michael (1987) Beethoven: The Emergence and Evolution of
+       Beethoven's Heroic Style. Taylor and Francis.
+     * Kalischer, Alfred Christlieb [de], John South Shedlock, and Arthur
+       Eaglefield Hull (1972) Beethoven's Letters. Courier Dover
+       Publications.
+     * Kinderman, William (1995) Beethoven. Berkeley and Los Angeles:
+       University of California Press.
+     * Lühning, Helga [de] (1990) Beethoven: Lieder und Gesänge, Band II.
+       Munich: G. Henle.
+
+External links
+
+   [edit]
+     * Fantasia in C minor, Op. 80: Scores at the International Music
+       Score Library Project
+     *
+
+   "Fantasia in C minor, Op.80 (Performed by Mahler Chamber Orchestra with
+   the BBC Singers, Leif Ove Andsnes (Pianist & Conductor))". YouTube. 26
+   July 2015. Archived from the original on 9 March 2018.
+
+     Program notes from the Los Angeles Philharmonic (Herbert Glass)
+     * v
+     * t
+     * e
+
+   Concertos by Ludwig van Beethoven
+
+   Piano concertos
+
+     * No. 1 in C major, Op. 15
+     * No. 2 in B♭ major, Op. 19
+     * No. 3 in C minor, Op. 37
+     * No. 4 in G major, Op. 58
+     * No. 5 in E♭ major, Op. 73 (Emperor)
+
+     * No. 0 in E♭ major, WoO 4 (early, fragmentary work)
+     * No. 6 in D major, Hess 15 (unfinished)
+
+   Violin concerto
+
+     * Concerto in D major, Op. 61
+     * Concerto in D major, Op. 61a (arranged for the Piano solo)
+     * Concerto in C major, WoO 5, Hess 10 (fragmentary work)
+
+   Triple concerto
+
+     * Triple Concerto in C major, Op. 56
+
+   Other works for piano and orchestra
+
+     * Rondo for Piano and Orchestra, WoO 6
+     * Choral Fantasy, Op. 80
+
+   Other works for violin and orchestra
+
+     * Romance No. 1 in G major, Op. 40
+     * Romance No. 2 in F major, Op. 50
+
+   List of compositions by Ludwig van Beethoven
+
+   Portal:
+     * Classical music
+
+   Authority control databases Edit this at Wikidata
+   International
+     * VIAF
+          + 2
+     * GND
+
+   National
+     * United States
+     * France
+     * BnF data
+     * Czech Republic
+     * Spain
+     * Israel
+
+       Other
+     * MusicBrainz work
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Choral_Fantasy_(Beethoven)&
+   oldid=1252014331"
+
+   Categories:
+     * Choral compositions by Ludwig van Beethoven
+     * Compositions for piano, chorus and orchestra
+     * 1808 compositions
+     * Fantasias (music)
+     * Compositions in C minor
+     * Concertante works by Ludwig van Beethoven
+
+   Hidden categories:
+     * Pages using the Score extension
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Use dmy dates from July 2020
+     * Articles containing German-language text
+     * Works with IMSLP links
+     * Articles with International Music Score Library Project links
+
+     * This page was last edited on 19 October 2024, at 09:23 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Choral Fantasy (Beethoven)
+   (BUTTON) 14 languages Add topic
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Background, composition, and premiere
+     * 2 The Choral Fantasy and the Ninth Symphony
+     * 3 Form
+     * 4 Text
+     * 5 Notes
+     * 6 References
+     * 7 External links
+
+   [ ] Toggle the table of contents
+
+Choral Fantasy (Beethoven)
+
+   [ ] 14 languages
+     * Afrikaans
+     * Català
+     * Čeština
+     * Deutsch
+     * Español
+     * Esperanto
+     * Français
+     * 한국어
+     * Hrvatski
+     * Italiano
+     * 日本語
+     * Norsk bokmål
+     * Türkçe
+     * Українська
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Musical composition by Ludwig van Beethoven
+
+                Choral Fantasy
+   by Ludwig van Beethoven
+   [250px-Beethoven_3.jpg]
+   Detail of a 1804–05 portrait of Beethoven by J. W. Mähler
+   Native name Fantasia
+       Key     C minor, modulating to C major
+      Opus     80
+    Language   German
+    Composed   1808
+    Duration   About 20 minutes
+     Scoring
+     * piano
+     * vocal soloists
+     * mixed chorus
+     * orchestra
+
+                   Premiere
+      Date     22 December 1808
+    Location   Theater an der Wien, Vienna
+   Performers  Ludwig van Beethoven (piano)
+
+   The Fantasy for piano, vocal soloists, mixed chorus, and orchestra,
+   Op. 80, usually called the Choral Fantasy, was composed in 1808 by then
+   38-year-old Ludwig van Beethoven.
+
+   Beethoven intended the Fantasy to serve as the concluding work for the
+   benefit concert he put on for himself on 22 December 1808; the
+   performers consisted of vocal soloists, mixed chorus, an orchestra, and
+   Beethoven himself as piano soloist. The Fantasy was designed to include
+   all the participants in the program and thus unites all of these
+   musical forces.
+
+   The work is noted as a precursor to the later Ninth Symphony.
+
+Background, composition, and premiere
+
+   [edit]
+
+   The Fantasia was first performed at the Akademie of 22 December 1808, a
+   benefit concert which also saw the premieres of the Fifth and Sixth
+   Symphonies and the Fourth Piano Concerto as well as a performance of
+   excerpts of the Mass in C major. To conclude this memorable concert
+   program, Beethoven wanted a "brilliant finale" that would unite in a
+   single piece the different musical elements highlighted in the concert
+   night: piano solo, mixed chorus and orchestra. The Fantasia, Op. 80,
+   written shortly before, was thus composed expressly to fulfil this
+   role. Beethoven himself played the piano part and the opening solo
+   offers an example of his improvisational style (at the premiere he did,
+   in fact, improvise this section).
+
+   Beethoven wrote the piece during the second half of December 1808 in an
+   unusually short time by his standards. He commissioned a poet—whose
+   identity is disputed—to write the words shortly before the performance
+   to fit the already written parts. According to Beethoven's pupil Carl
+   Czerny, the poet was Christoph Kuffner [de],^[1] but the later
+   Beethoven scholar Gustav Nottebohm doubted this attribution and
+   suggested it may have been Georg Friedrich Treitschke, who in 1814
+   prepared the final text of Beethoven's opera Fidelio.^[2]
+
+   The premiere performance seems to have been a rather troubled one;
+   according to the composer's secretary, Anton Schindler, it "simply fell
+   apart", a result most likely attributable to insufficient rehearsal
+   time. Because of a mistake in the execution of the piece, it was
+   stopped halfway through and restarted.^[3] In Ignaz von Seyfried's
+   words:^[4]^[5]
+
+     When the master brought out his orchestral Fantasia with choruses,
+     he arranged with me at the somewhat hurried rehearsal, with wet^[6]
+     voice-parts as usual, that the second variation should be played
+     without repeat. In the evening, however, absorbed in his creation,
+     he forgot all about the instructions which he had given, repeated
+     the first part while the orchestra accompanied the second, which
+     sounded not altogether edifying. A trifle too late, the
+     Concertmaster, Unrath, noticed the mistake, looked in surprise at
+     his lost companions, stopped playing and called out dryly: 'Again!'
+     A little displeased, the violinist Anton Wranitzky asked 'With
+     repeats?' 'Yes', came the answer, and now the thing went straight as
+     a string.
+
+The Choral Fantasy and the Ninth Symphony
+
+   [edit]
+
+   The work includes a sequence of variations on a theme that is widely
+   felt to be an early version of a far better known variation theme,
+   namely the one to which Beethoven set the words of Friedrich Schiller's
+   "Ode to Joy" in his Ninth Symphony. The two themes are compared below.
+
+          \new Score { \new Staff { \relative c'' { \time 2/4 \key c
+          \major \clef treble \tempo 4 = 88 \omit Score.MetronomeMark
+          \partial 4 e8^\markup { \halign #-0.5 "Choral Fantasy"} e f( e d
+          c) c( b a b) c( c d e) e( d) } } } Audio playback is not
+          supported in your browser. You can download the audio file.
+
+          \new Score { \new Staff { \relative c { \time 4/4 \key d \major
+          \clef bass \tempo 2 = 60 \omit Score.MetronomeMark fis2^\markup
+          { \halign #-0.5 "Ninth Symphony"}( g4 a) | a4( g fis e) | d2( e4
+          fis) | fis4.( e8) e2 } } } Audio playback is not supported in
+          your browser. You can download the audio file.
+
+   Michael Broyles has suggested another musical similarity: the two works
+   share essentially the same harmonic sequence at their climactic
+   moments, the chords (in C major) C–F–D–(G)–E♭, where the E♭ stands out
+   from its harmonic context and is performed fortissimo. The words sung
+   at this point are (for the Choral Fantasy) "Lieb und Kraft" ("love and
+   strength") and (for the Ninth Symphony) "Über'm Sternenzelt! Über
+   Sternen muss er wohnen." ("Above the tent of the stars, above the stars
+   he must dwell.")^[7]
+
+   There are also affinities in the texts. The theme of the Choral Fantasy
+   text – universal fraternity with the meeting of arts – evokes similar
+   feelings as the "Ode to Joy" text.
+
+   Beethoven himself acknowledged the kinship of the two works. In a
+   letter of 1824, when he was writing the Ninth Symphony, he described
+   his project as "a setting of the words of Schiller's immortal 'Lied an
+   die Freude' in the same way as my pianoforte fantasia with chorus, but
+   on a far grander scale."^[8]
+
+   The Choral Fantasy theme is itself taken from an earlier work by
+   Beethoven: it is a slightly modified version of the composer's "Seufzer
+   eines Ungeliebten – Gegenliebe,” a lied for high voice and piano
+   written c. 1794–1795.^[9]
+
+Form
+
+   [edit]
+                              External audio
+   audio icon Choral Fantasy performed by the Dexter Community Orchestra
+   and the Washtenaw Community Orchestra Chorus in 2009
+
+   The Choral Fantasy, which lasts about twenty minutes, is divided into
+   two movements, played without a break:
+    1. Adagio
+    2. Finale. Allegro – Meno allegro (Allegretto) – Allegro molto –
+       Adagio ma non troppo – Marcia, assai vivace – Allegro – Allegretto
+       ma non troppo quasi andante con moto Schmeichelnd hold und lieblich
+       klingen – Presto
+
+   The piece is scored for solo piano, mixed chorus, two soprano soloists,
+   an alto soloist, two tenor soloists, a bass soloist, and an orchestra
+   consisting of two flutes, two oboes, two clarinets, two bassoons, two
+   horns, two trumpets, timpani and strings.
+
+   The Fantasy opens with a slow but virtuosic 26-bar piano introduction,
+   beginning in C minor and modulating through a variety of keys in
+   florid, improvisatory fashion. At its midpoint it settles on the
+   dominant of the dominant, G major, with an extended cadenza. The
+   implied key is never confirmed and the music eventually returns to C
+   minor in a stormy passage, which at the last moment turns once more
+   toward the dominant seventh of G in a sweeping arpeggio. This concludes
+   the opening section.
+
+   The main part of the piece, marked "Finale", begins with a march-like
+   motive (Allegro) played by the cellos and basses, alternating with
+   recitative-like interjections from the piano. The music eventually
+   brightens into C major and the solo piano introduces the principal
+   theme (meno allegro) discussed above. Variations on the theme are then
+   played by gradually increasing contingents of instruments: a solo
+   flute, two oboes, a trio of two clarinets and bassoon, and string
+   quartet. A full orchestral version of the theme played at a forte
+   dynamic leads to the re-entry of the piano and to what seems at first
+   like a postlude to this variation set, but that once again turns toward
+   the dominant. The music pauses with a cadenza on the dominant seventh
+   for the solo piano.
+
+   There is an abrupt change of mood as the minor mode returns in a stormy
+   Allegro molto. The alternating phrases for piano and orchestra are a
+   disguised variation of the principal theme. In fact, the three sections
+   that follow the first variation set form another, larger-scale set of
+   variations. The allegro molto soon takes on a developmental quality
+   with a series of modulations, the strings playing phrases of the theme
+   accompanied by rapid broken chords on the solo piano. After another
+   cadenza on an E major triad the second large variation (Adagio, ma non
+   troppo) follows, a calm, flowing A major section prominently featuring
+   the clarinets. This ends with a call-and-response section between
+   double reeds, horn, and piano, and leads without break into the key of
+   F major and the third variation on the main theme, Marcia (assai
+   vivace). A reprise of the instrumental theme from the first Allegro
+   forms the transition into the choral finale (Allegretto).
+
+   The first half of this is essentially a recapitulation of previously
+   heard material at the beginning of the Finale with the addition of solo
+   voices and chorus, another point of similarity with the finale of the
+   Ninth Symphony. After a prolonged dominant pedal and arpeggios from the
+   soloist the chorus, two solo sopranos sing the main theme, followed by
+   a variation featuring a trio of men's voices. After these two
+   variations the entire chorus is joined by the orchestra for the first
+   time in a tutti rendition of the theme. The music gains excitement and
+   eventually breaks into an accelerated coda (Presto) with all forces
+   joining to bring the piece to a triumphant close.
+
+Text
+
+   [edit]
+
+   Schmeichelnd hold und lieblich klingen
+   unseres Lebens Harmonien,
+   und dem Schönheitssinn entschwingen
+   Blumen sich, die ewig blühn.
+   Fried und Freude gleiten freundlich
+   wie der Wellen Wechselspiel.
+   Was sich drängte rauh und feindlich,
+   ordnet sich zu Hochgefühl.
+   Wenn der Töne Zauber walten
+   und des Wortes Weihe spricht,
+   muss sich Herrliches gestalten,
+   Nacht und Stürme werden Licht.
+   Äuß're Ruhe, inn're Wonne
+   herrschen für den Glücklichen.
+   Doch der Künste Frühlingssonne
+   läßt aus beiden Licht entstehn.
+   Großes, das ins Herz gedrungen,
+   blüht dann neu und schön empor.
+   Hat ein Geist sich aufgeschwungen,
+   hallt ihm stets ein Geisterchor.
+   Nehmt denn hin, ihr schönen Seelen,
+   froh die Gaben schöner Kunst
+   Wenn sich Lieb und Kraft vermählen,
+   lohnt den Menschen Göttergunst.^[10]
+
+   Graceful, charming and sweet is the sound
+   Of our life's harmonies,
+   and from a sense of beauty arise
+   Flowers which eternally bloom.
+   Peace and joy advance in perfect concord,
+   like the changing play of the waves.
+   All that was harsh and hostile,
+   has turned into sublime delight.
+   When music's enchantment reigns,
+   speaking of the sacred word,
+   Magnificence takes form,
+   The night and the tempest turns to light:
+   Outer peace and inner bliss
+   Reign o'er the fortunate ones.
+   All art in the spring's sun
+   Lets light flow from both.
+   Greatness, once it has pierced the heart,
+   Then blooms anew in all its beauty.
+   Once one's being has taken flight,
+   A choir of spirits resounds in response.
+   Accept then, you beautiful souls,
+   Joyously the gifts of high art.
+   When love and strength are united,
+   Divine grace is bestowed upon Man.^[10]
+
+   The piece ends with repetition of phrases from the last four lines.
+
+   As noted above, the words were written in haste, and Beethoven was
+   perhaps not entirely pleased with them. He later wrote to his publisher
+   Breitkopf & Härtel:
+
+     You may wish to print another text, as the text like the music was
+     written very quickly ... Still with another set of words I want the
+     word kraft ["strength"] to be kept or one similar to it in its
+     place.
+
+   As Kalischer et al. observe, the word Kraft "is treated with grand
+   style in the music."^[11]
+
+   A new German text was written by a German poet and Communist politician
+   Johannes R. Becher in 1951, keeping the word Kraft in the same
+   position. Becher's text, inspired by Beethoven's explicit permission to
+   change the lyrics, is an ode to peace that reflects the post-war
+   atmosphere. Becher's lyrics were used in several recordings especially
+   in East Germany, for example those of Franz Konwitschny or Herbert
+   Kegel.^[12]^[13]^[14]^[15]
+
+Notes
+
+   [edit]
+    1. ^ Albrecht et al. (1996, 10) identify Kuffner (1780–1846) as "an
+       official at the War Ministry, musically talented poet, author of
+       the text of the Choral Fantasia Op. 80, and of the drama Tarpeja,
+       for which Beethoven supplied incidental music WoO 2, in 1813."
+    2. ^ Kinderman (1995, 132)
+    3. ^ Landon, H. C. Robbins. Beethoven: His Life, Work, and World.
+       Thames and Hudson. New York City. 1992; p. 149
+    4. ^ Roger Ruggeri. "Program notes". Archived from the original on 4
+       March 2007. Retrieved 24 September 2010.
+    5. ^ A. W. Thayer, Life of Beethoven, edited by Elliot Forbes.
+       Princeton, New Jersey, Princeton University Press, 1964, pp.
+       448–449
+    6. ^ "Wet" refers to the ink; in Beethoven's day the performance parts
+       would have been prepared by copyists using pens.
+    7. ^ Broyles (1987, 263–264)
+    8. ^ Quoted from Kinderman (1995, 132)
+    9. ^ Lühning 1990, 200
+   10. ^ ^a ^b "Program #3". Totally Beethoven. Arts NC State. North
+       Carolina State University: 19–20. Fall 2013 – via issuu.
+   11. ^ Source for quotation and "Kraft" comment: Kalischer et al. (1972,
+       106).
+   12. ^ "Fantasie für Klavier, Orchester und Chor c-Moll op. 80", notes
+       by Bernd Stremmel, [2004] 2 December 2013, klassik-prisma.de (in
+       German)
+   13. ^ "Becher, Johannes R." by Wolfgang Näser, [2002] 3 January 2013,
+       uni-marburg.de (in German)
+   14. ^ Audio on YouTube, Choral Fantasy, Peter Rösel (piano), Dresden
+       Philharmonic, Herbert Kegel conducting
+   15. ^ Audio on YouTube, Choral Fantasy, Günter Kootz [de] (piano),
+       Leipzig Gewandhaus Orchestra, Franz Konwitschny conducting
+
+References
+
+   [edit]
+     * Albrecht, Theodore et al. (1996) Letters to Beethoven and Other
+       Correspondence: 1824–1828. University of Nebraska Press.
+     * Broyles, Michael (1987) Beethoven: The Emergence and Evolution of
+       Beethoven's Heroic Style. Taylor and Francis.
+     * Kalischer, Alfred Christlieb [de], John South Shedlock, and Arthur
+       Eaglefield Hull (1972) Beethoven's Letters. Courier Dover
+       Publications.
+     * Kinderman, William (1995) Beethoven. Berkeley and Los Angeles:
+       University of California Press.
+     * Lühning, Helga [de] (1990) Beethoven: Lieder und Gesänge, Band II.
+       Munich: G. Henle.
+
+External links
+
+   [edit]
+     * Fantasia in C minor, Op. 80: Scores at the International Music
+       Score Library Project
+     *
+
+   "Fantasia in C minor, Op.80 (Performed by Mahler Chamber Orchestra with
+   the BBC Singers, Leif Ove Andsnes (Pianist & Conductor))". YouTube. 26
+   July 2015. Archived from the original on 9 March 2018.
+
+     Program notes from the Los Angeles Philharmonic (Herbert Glass)
+     * v
+     * t
+     * e
+
+   Concertos by Ludwig van Beethoven
+
+   Piano concertos
+
+     * No. 1 in C major, Op. 15
+     * No. 2 in B♭ major, Op. 19
+     * No. 3 in C minor, Op. 37
+     * No. 4 in G major, Op. 58
+     * No. 5 in E♭ major, Op. 73 (Emperor)
+
+     * No. 0 in E♭ major, WoO 4 (early, fragmentary work)
+     * No. 6 in D major, Hess 15 (unfinished)
+
+   Violin concerto
+
+     * Concerto in D major, Op. 61
+     * Concerto in D major, Op. 61a (arranged for the Piano solo)
+     * Concerto in C major, WoO 5, Hess 10 (fragmentary work)
+
+   Triple concerto
+
+     * Triple Concerto in C major, Op. 56
+
+   Other works for piano and orchestra
+
+     * Rondo for Piano and Orchestra, WoO 6
+     * Choral Fantasy, Op. 80
+
+   Other works for violin and orchestra
+
+     * Romance No. 1 in G major, Op. 40
+     * Romance No. 2 in F major, Op. 50
+
+   List of compositions by Ludwig van Beethoven
+
+   Portal:
+     * Classical music
+
+   Authority control databases Edit this at Wikidata
+   International
+     * VIAF
+          + 2
+     * GND
+
+   National
+     * United States
+     * France
+     * BnF data
+     * Czech Republic
+     * Spain
+     * Israel
+
+       Other
+     * MusicBrainz work
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Choral_Fantasy_(Beethoven)&
+   oldid=1252014331"
+
+   Categories:
+     * Choral compositions by Ludwig van Beethoven
+     * Compositions for piano, chorus and orchestra
+     * 1808 compositions
+     * Fantasias (music)
+     * Compositions in C minor
+     * Concertante works by Ludwig van Beethoven
+
+   Hidden categories:
+     * Pages using the Score extension
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Use dmy dates from July 2020
+     * Articles containing German-language text
+     * Works with IMSLP links
+     * Articles with International Music Score Library Project links
+
+     * This page was last edited on 19 October 2024, at 09:23 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Choral Fantasy (Beethoven)
+   (BUTTON) 14 languages Add topic
