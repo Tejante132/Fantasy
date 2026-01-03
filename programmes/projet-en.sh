@@ -119,7 +119,8 @@ do
 	HTTP_REP="N/A";#si c'est vide
 	fi
 
-	MOTS=$(echo "$ASPIRATIONS" | wc -w)
+	MOTS=$(wc -w < "../aspirations/en/en-aspiration-$nbr_lignes.txt")
+
 
     ENCODAGE=$(echo "$INFOS_CURL" | grep -i "content-type:" | grep -i charset | cut -d "=" -f 2 | tr -d '\r')
     if [ -z "$ENCODAGE" ]; then #si vide
