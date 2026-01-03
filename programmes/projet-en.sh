@@ -7,7 +7,7 @@ then
     echo "Donnez deux arguments !"
     exit
 fi
-if [ ! -f "$CHEMIN_FICHIER" ] ;
+if [ ! -f "$CHEMIN_FICHIER" ]; #attention_espace_crochet
 then
     echo "$CHEMIN_FICHIER Ce n'est pas un fichier!"
     exit
@@ -40,7 +40,7 @@ echo -e "<html>
 nbr_lignes=1
 while read -r LINE;
 do
-    if [[ $LINE =~ ^https?:// ]]; then
+    if [[ $LINE =~ ^https?:// ]]; then #attention_espace_crochet
 
 
     ASPIRATIONS=$(lynx -source "$LINE" 2>/dev/null) #attention_à_bien_mettre_un_espace_devant_le_2
