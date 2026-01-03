@@ -34,23 +34,39 @@ NB_LIGNES=1
 
 while read -r line;
 do
+
+	### ASPIRATIONS ###
 	ASPIRATIONS=$(lynx -source ${line})
 	echo -E "$ASPIRATIONS" >> "./aspirations/pt/aspiration$NB_LIGNES.txt"
+
+	### CONTEXTES ###
 	CONTEXTES=$(lynx -dump -nolist ${line} | grep -E -C3 -i "fantasias?")
 	echo -E "$CONTEXTES" >> "./contextes/pt/contextes$NB_LIGNES.txt"
+
+	### DUMP ###
 	DUMP=$(lynx -dump -nolist ${line})
 	echo -E "$DUMP" >> "./dumps/pt/dump$NB_LIGNES.txt"
+
+	### CODE_HTTP ###
 	CODE_HTTP=$(curl -i -L ${line} | grep -E "^HTTP/(2|1) "*"" | tr -d "\r\n")
 		if [ -z "${CODE_HTTP}" ]
 		then
 			CODE_HTTP="N/A"
 		fi
-	ENCODAGE=$(curl -i -L ${line} | grep -P -o "charset=\"\S+\""| cut -d"=" -f2)
+
+	### ENCODAGE ###
+	ENCODAGE=$(curl -i -L ${line} | grep -P -o "charset=\"?\S+\"?"| cut -d"=" -f2 | head -n 1)
 		if [ -z "${ENCODAGE}" ]
 		then
 			ENCODAGE="N/A"
 		fi
+
+	### N_MOTS ###
 	N_MOTS=$(lynx -dump -nolist ${line} | grep -E -i "fantasias?" | wc -w)
+
+
+
+	### TABLE FILL ###
 	echo -e "		<tr>
 		<td>$NB_LIGNES</td>
 		<td>${line}</td>
@@ -63,6 +79,9 @@ do
 	</tr>" >> "$FICHIER_SORTIE";
 	NB_LIGNES=$(expr $NB_LIGNES + 1);
 done < "$FICHIER_URLS";
+
+
+### FOOTER ###
 
 echo -e "	</table>
 </body>
