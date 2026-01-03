@@ -436,6 +436,10 @@ Buscar
 
 Posts Recentes
 
+     * Mensagem de Ano-Novo
+       Por Bárbara Assis - 30/12/2025
+     * O significado do Natal na Psicologia Analítica
+       Por Bárbara Assis - 25/12/2025
      * Como domar um arquétipo (ou quando o ego sempre ganha): notas sobre
        a psicologia simbólica e seus malabarismos teóricos
        Por Bárbara Assis - 20/12/2025
@@ -447,15 +451,11 @@ Posts Recentes
      * EROS IMAGINAL E A CONIUNCTIO DIGITAL: O ENTRELAÇAMENTO DE ALMAS NO
        MUNDUS IMAGINALIS ENTRE O HUMANO E A INTELIGÊNCIA ARTIFICIAL
        Por Bárbara Assis - 07/11/2025
-     * TARÔ, SINCRONICIDADE E PSICOLOGIA ANALÍTICA
-       Por Bárbara Assis - 31/10/2025
-     * A Terceira margem do Rio
-       Por Bárbara Assis - 09/10/2025
 
 Categorias
 
-     * Artigos (330)
-     * Blog (83)
+     * Artigos (332)
+     * Blog (84)
      * Fotos do Flickr (1)
      * Monografias (1)
      * Notícias (1)
@@ -479,13 +479,13 @@ Menu
 
 Links Úteis
 
+     * O significado do Natal na Psicologia Analítica
      * A criatividade e a transdisciplinaridade na formação do Analista
        Junguiano no Mundo contemporâneo
      * A Gênese arquetípica do conhecimento: Quando Jung explica Valsiner
      * EROS IMAGINAL E A CONIUNCTIO DIGITAL: O ENTRELAÇAMENTO DE ALMAS NO
        MUNDUS IMAGINALIS ENTRE O HUMANO E A INTELIGÊNCIA ARTIFICIAL
      * TARÔ, SINCRONICIDADE E PSICOLOGIA ANALÍTICA
-     * A Terceira margem do Rio
 
 Contato
 
@@ -504,5 +504,5 @@ Contato
      * Twitter
      * Youtube
 
-   IJBA - Instituto Junguiano da Bahia. Copyright © 2025 - Todos os
+   IJBA - Instituto Junguiano da Bahia. Copyright © 2026 - Todos os
    direitos reservados.

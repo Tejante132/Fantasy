@@ -15,7 +15,8 @@
      * English English
      * Español Español
 
-   Dúvidas? Visite a nossa área de perguntas frequentes.
+   Dúvidas? Consulte as Perguntas Frequentes ou contacte a linha de
+   apoio 220996711 (custo chamada para a rede fixa).
      * Entrar na Minha Conta
      * cliente partimpim Registo do Utilizador
 
@@ -211,7 +212,8 @@
                o Trollsfalse
                o Unicórniofalse
                o Veículosfalse
-               o Wednesday Addams Family
+               o Wednesday Addams Familyfalse
+               o Guerreiras K-Pop
             false
           + Best Dealsfalse
           + Fatos de Carnavalfalse
@@ -430,7 +432,8 @@
                o Trollsfalse
                o Unicórniofalse
                o Veículosfalse
-               o Wednesday Addams Family
+               o Wednesday Addams Familyfalse
+               o Guerreiras K-Pop
             false
           + Best Dealsfalse
           + Fatos de Carnavalfalse
@@ -1167,6 +1170,7 @@ Produtos
                o Disfarces e Acessórios
                o Outros Artigos de Festa
           + Wednesday Addams Family
+          + Guerreiras K-Pop
      * Best Deals
           + Balões Látex
           + Balões Foil
@@ -1827,6 +1831,12 @@ Produtos
      * Bolas de Sabão
      * Material para Embrulhos
           + Papel de Embrulho
+               o Corações
+               o Infantil
+               o Impressos
+               o Licenciados
+               o Lisos
+               o Natal
           + Sacos para Embrulhos
           + Laços para Embrulhos
           + Etiquetas e Autocolantes
@@ -1951,9 +1961,6 @@ Onde estamos:
 
    Livro de Reclamações PME Líder
    © 2016-2021 Partimpim. Todos os direitos reservados.
-
-   Feliz Natal! Prepare já a sua Passagem de Ano! Lojas de Matosinhos,
-   Gaia e Espinho ou compre online até 2ª feira.
 
    Gerir preferências de privacidade
 

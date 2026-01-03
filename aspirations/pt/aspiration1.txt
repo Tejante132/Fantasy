@@ -154,8 +154,7 @@
                   </button>
                   <ul class="dropdown-menu"><li><a href="/lang/PT/" class="lang-link" title="Português"><img src="https://static.lvengine.net/partimpim/interface/imgs/flag_PT.png" alt="Português"><span>Português</span></a></li><li><a href="/lang/EN/" class="lang-link" title="English"><img src="https://static.lvengine.net/partimpim/interface/imgs/flag_EN.png" alt="English"><span>English</span></a></li><li><a href="/lang/ES/" class="lang-link" title="Español"><img src="https://static.lvengine.net/partimpim/interface/imgs/flag_ES.png" alt="Español"><span>Español</span></a></li></ul>                </div>
               </div>
-              <div class="top-bar-message">Dúvidas? Visite a nossa área de <a href="/pt/area-de-cliente/perguntas-frequentes" title="Perguntas frequentes">perguntas frequentes</a>.
-</div>
+              <div class="top-bar-message">Dúvidas? Consulte as <a href="https://www.partimpim.pt/pt/area-de-cliente/perguntas-frequentes">Perguntas Frequentes</a> ou contacte a linha de apoio <a href="tel:+351220996711">220996711</a> (custo chamada para a rede fixa).</div>
               <div class="ml-auto hidden-xs">
                 <ul class="right" id="top_bar_menu">
                      
@@ -185,7 +184,7 @@
 <li style="padding:5px;"><a href="/pt/area-reservada/registo" class="link visible-inline-xs">Novo registo</a></li>
 <li style="padding:5px;"><a href="/pt/area-reservada/recuperacao-password" class="link">Esqueceu a sua password?</a></li>
 </ul>
-</div><input type='hidden' name='url' value="%2Fprodutos%2Ffatos-halloween-crianca"><input type='hidden' name='lvcheck' value="590d3c3720f1f92728cc13e139c24d8b" ></div></form></div>              </div>
+</div><input type='hidden' name='url' value="%2Fprodutos%2Ffatos-halloween-crianca"><input type='hidden' name='lvcheck' value="c0a585f8550f559ab9d3d24676fed8a1" ></div></form></div>              </div>
             </div>
           </div>
         </div>
@@ -416,7 +415,8 @@
 <li><a href="/pt/produtos/festa-aniversario-trolls" >Trolls</a>false</li>
 <li><a href="/pt/produtos/festa-aniversario-unicornio" >Unic&oacute;rnio</a>false</li>
 <li><a href="/pt/produtos/festa-aniversario-veiculos" >Ve&iacute;culos</a>false</li>
-<li><a href="/pt/produtos/wednesday-addams-family" class="last" >Wednesday Addams Family</a></li>
+<li><a href="/pt/produtos/wednesday-addams-family" >Wednesday Addams Family</a>false</li>
+<li><a href="/pt/produtos/guerreiras-k-pop" class="last" >Guerreiras K-Pop</a></li>
 </ul>
 false</li>
 <li><a href="/pt/produtos/bestdeals"  title='Best Deals'>Best Deals</a>false</li>
@@ -427,7 +427,7 @@ false</li>
 <li><a href="/pt/produtos/baloes-foil-aluminio"  title='Bal&otilde;es Foil'>Bal&otilde;es Foil</a>false</li>
 <li><a href="/pt/produtos/baloes-bubbles"  title='Bal&otilde;es Bubbles'>Bal&otilde;es Bubbles</a>false</li>
 <li><a href="/pt/produtos/acessorios-baloes"  title='Acess&oacute;rios para Bal&otilde;es'>Acess&oacute;rios para Bal&otilde;es</a>false</li>
-<li><a href="/pt/produtos/helio"  title='H&eacute;lio'>H&eacute;lio</a>false</li>
+<li><a href="/pt/produtos/encher-baloes-helio"  title='H&eacute;lio'>H&eacute;lio</a>false</li>
 <li><a href="/pt/produtos/decoracao-festa"  title='Decora&ccedil;&atilde;o de Festa'>Decora&ccedil;&atilde;o de Festa</a>false</li>
 <li><a href="/pt/produtos/descartaveis-festas"  title='Descart&aacute;veis'>Descart&aacute;veis</a>false</li>
 <li><a href="/pt/produtos/velas-aniversario"  title='Velas'>Velas</a>false</li>
@@ -483,7 +483,7 @@ false</li>
 <li style="padding:5px;"><a href="/pt/area-reservada/registo" class="link visible-inline-xs">Novo registo</a></li>
 <li style="padding:5px;"><a href="/pt/area-reservada/recuperacao-password" class="link">Esqueceu a sua password?</a></li>
 </ul>
-</div><input type='hidden' name='url' value="%2Fprodutos%2Ffatos-halloween-crianca"><input type='hidden' name='lvcheck' value="590d3c3720f1f92728cc13e139c24d8b" ></div></form></div>              <a href="/pt/area-reservada/carrinho-de-compras" id="cart_xs_show">
+</div><input type='hidden' name='url' value="%2Fprodutos%2Ffatos-halloween-crianca"><input type='hidden' name='lvcheck' value="c0a585f8550f559ab9d3d24676fed8a1" ></div></form></div>              <a href="/pt/area-reservada/carrinho-de-compras" id="cart_xs_show">
                 <img src="https://static.lvengine.net/partimpim/interface/imgs/cart_min_xs.svg" alt="Ver carrinho" title="Ver carrinho">
                 <div style="position: absolute;top: -1px;right: 2px;width: 18px;height: 13px;text-align: center;">
                   <span class="cart_xs_qtd" style="font-size: 10px;vertical-align: top; color: white;">
@@ -671,7 +671,8 @@ false</li>
 <li><a href="/pt/produtos/festa-aniversario-trolls" >Trolls</a>false</li>
 <li><a href="/pt/produtos/festa-aniversario-unicornio" >Unic&oacute;rnio</a>false</li>
 <li><a href="/pt/produtos/festa-aniversario-veiculos" >Ve&iacute;culos</a>false</li>
-<li><a href="/pt/produtos/wednesday-addams-family" class="last" >Wednesday Addams Family</a></li>
+<li><a href="/pt/produtos/wednesday-addams-family" >Wednesday Addams Family</a>false</li>
+<li><a href="/pt/produtos/guerreiras-k-pop" class="last" >Guerreiras K-Pop</a></li>
 </ul>
 false</li>
 <li><a href="/pt/produtos/bestdeals"  title='Best Deals'>Best Deals</a>false</li>
@@ -682,7 +683,7 @@ false</li>
 <li><a href="/pt/produtos/baloes-foil-aluminio"  title='Bal&otilde;es Foil'>Bal&otilde;es Foil</a>false</li>
 <li><a href="/pt/produtos/baloes-bubbles"  title='Bal&otilde;es Bubbles'>Bal&otilde;es Bubbles</a>false</li>
 <li><a href="/pt/produtos/acessorios-baloes"  title='Acess&oacute;rios para Bal&otilde;es'>Acess&oacute;rios para Bal&otilde;es</a>false</li>
-<li><a href="/pt/produtos/helio"  title='H&eacute;lio'>H&eacute;lio</a>false</li>
+<li><a href="/pt/produtos/encher-baloes-helio"  title='H&eacute;lio'>H&eacute;lio</a>false</li>
 <li><a href="/pt/produtos/decoracao-festa"  title='Decora&ccedil;&atilde;o de Festa'>Decora&ccedil;&atilde;o de Festa</a>false</li>
 <li><a href="/pt/produtos/descartaveis-festas"  title='Descart&aacute;veis'>Descart&aacute;veis</a>false</li>
 <li><a href="/pt/produtos/velas-aniversario"  title='Velas'>Velas</a>false</li>
@@ -1473,7 +1474,8 @@ false</li>
 <li><a href="/pt/produtos/disfarces-acessorios-veiculos" >Disfarces e Acess&oacute;rios</a></li>
 <li class="last"><a href="/pt/produtos/artigos-festa-veiculos" >Outros Artigos de Festa</a></li>
 </ul></li>
-<li class="last"><a href="/pt/produtos/wednesday-addams-family" >Wednesday Addams Family</a></li>
+<li><a href="/pt/produtos/wednesday-addams-family" >Wednesday Addams Family</a></li>
+<li class="last"><a href="/pt/produtos/guerreiras-k-pop" >Guerreiras K-Pop</a></li>
 </ul>
 </li>
 <li class="dropdown"><a href="/pt/produtos/bestdeals" class="dropdown-toggle" data-toggle="dropdown" title='Best Deals'>Best Deals</a><ul class='dropdown-menu'><li class="first"><a href="/pt/produtos/super-preco-baloes-latex" >Bal&otilde;es L&aacute;tex</a></li>
@@ -1955,7 +1957,7 @@ false</li>
 <li class="last"><a href="/pt/produtos/precos-especiais-acessorios-baloes-festa" >Pre&ccedil;os Especiais</a></li>
 </ul>
 </li>
-<li class="dropdown"><a href="/pt/produtos/helio" class="dropdown-toggle" data-toggle="dropdown" title='H&eacute;lio'>H&eacute;lio</a><ul class='dropdown-menu'><li class="first"><a href="/pt/produtos/botijas-helio-descartaveis-baloes" >Botijas Descart&aacute;veis</a></li>
+<li class="dropdown"><a href="/pt/produtos/encher-baloes-helio" class="dropdown-toggle" data-toggle="dropdown" title='H&eacute;lio'>H&eacute;lio</a><ul class='dropdown-menu'><li class="first"><a href="/pt/produtos/botijas-helio-descartaveis-baloes" >Botijas Descart&aacute;veis</a></li>
 <li><a href="/pt/produtos/adaptadores-enchedores-baloes-helio" >Adaptadores / Enchedores</a></li>
 <li><a href="/pt/produtos/enchimento-baloes-eventos" >Enchimento de Bal&otilde;es em Eventos</a></li>
 <li class="last"><a href="/pt/produtos/enchimento-helio-baloes-loja" >Enchimento de Bal&otilde;es em Loja</a></li>
@@ -2151,7 +2153,13 @@ false</li>
 </ul>
 </li>
 <li><a href="/pt/produtos/bolas-sabao-aniversario"  title='Bolas de Sab&atilde;o'>Bolas de Sab&atilde;o</a></li>
-<li class="dropdown"><a href="/pt/produtos/material-embrulhos" class="dropdown-toggle" data-toggle="dropdown" title='Material para Embrulhos'>Material para Embrulhos</a><ul class='dropdown-menu'><li class="first"><a href="/pt/produtos/papel-embrulho" >Papel de Embrulho</a></li>
+<li class="dropdown"><a href="/pt/produtos/material-embrulhos" class="dropdown-toggle" data-toggle="dropdown" title='Material para Embrulhos'>Material para Embrulhos</a><ul class='dropdown-menu'><li class="first"><a href="/pt/produtos/papel-embrulho" >Papel de Embrulho</a><ul><li class="first"><a href="/pt/produtos/papel-embrulho-coracoes-namorados" >Cora&ccedil;&otilde;es</a></li>
+<li><a href="/pt/produtos/papel-embrulho-infantil-criancas" >Infantil</a></li>
+<li><a href="/pt/produtos/papel-embrulho-presentes-aniversario" >Impressos</a></li>
+<li><a href="/pt/produtos/papel-embrulho-desenhos-licenciados" >Licenciados</a></li>
+<li><a href="/pt/produtos/papel-embrulho-liso-rolo" >Lisos</a></li>
+<li class="last"><a href="/pt/produtos/papel-embrulho-natal-presentes" >Natal</a></li>
+</ul></li>
 <li><a href="/pt/produtos/sacos-embrulhos" >Sacos para Embrulhos</a></li>
 <li><a href="/pt/produtos/lacos-embrulhos" >La&ccedil;os para Embrulhos</a></li>
 <li><a href="/pt/produtos/etiquetas-autocolantes-embrulhos" >Etiquetas e Autocolantes</a></li>
@@ -2391,8 +2399,7 @@ false</li>
       </div>
     </div>
 
-    <div class="important-container hidden-print"><p><font color="#ffffff"><b>Feliz Natal! Prepare já a sua Passagem de Ano! Lojas de Matosinhos, Gaia e Espinho ou compre online até 2ª feira.</b></font></p>
-<a href="#close" title="" class="important-container-close"><i class="fa fa-times"></i></a></div>
+    
     <div class="modal modal-cookie fade" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static" data-keyboard="false">
       <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable" role="document">
         <div class="modal-content">

@@ -335,6 +335,18 @@ font-size: 29px;
 <h5>Posts Recentes</h5>
 <ul>
 <li>
+<a href="https://www.ijba.com.br/blog/mensagem-de-ano-novo/">
+<p>Mensagem de Ano-Novo</p>
+</a>
+<span>Por Bárbara Assis - 30/12/2025</span>
+</li>
+<li>
+<a href="https://www.ijba.com.br/blog/o-significado-do-natal-na-psicologia-analitica/">
+<p>O significado do Natal na Psicologia Analítica</p>
+</a>
+<span>Por Bárbara Assis - 25/12/2025</span>
+</li>
+<li>
 <a href="https://www.ijba.com.br/blog/como-domar-um-arquetipo-ou-quando-o-ego-sempre-ganha-notas-sobre-a-psicologia-simbolica-e-seus-malabarismos-teoricos/">
 <p>Como domar um arquétipo (ou quando o ego sempre ganha): notas sobre a psicologia simbólica e seus malabarismos teóricos</p>
 </a>
@@ -358,18 +370,6 @@ font-size: 29px;
 </a>
 <span>Por Bárbara Assis - 07/11/2025</span>
 </li>
-<li>
-<a href="https://www.ijba.com.br/blog/taro-sincronicidade-e-psicologia-analitica/">
-<p>TARÔ, SINCRONICIDADE E PSICOLOGIA ANALÍTICA</p>
-</a>
-<span>Por Bárbara Assis - 31/10/2025</span>
-</li>
-<li>
-<a href="https://www.ijba.com.br/blog/a-terceira-margem-do-rio/">
-<p>A Terceira margem do Rio</p>
-</a>
-<span>Por Bárbara Assis - 09/10/2025</span>
-</li>
 </ul>
 </div>
 <!-- categories-->
@@ -379,13 +379,13 @@ font-size: 29px;
 <li>
 <a href="https://www.ijba.com.br/category/artigos">
 Artigos                                            </a>
-<span>(330)
+<span>(332)
 </span>
 </li>
 <li>
 <a href="https://www.ijba.com.br/category/blog">
 Blog                                            </a>
-<span>(83)
+<span>(84)
 </span>
 </li>
 <li>
@@ -536,6 +536,10 @@ var wpcf7_recaptcha = {
 <div class="col-md-4 mb-4">
 <h4>Links Úteis</h4>
 <ul>                        <li>
+<a href="https://www.ijba.com.br/blog/o-significado-do-natal-na-psicologia-analitica/">
+O significado do Natal na Psicologia Analítica                            </a>
+</li>
+<li>
 <a href="https://www.ijba.com.br/blog/a-criatividade-e-a-transdisciplinaridade-na-formacao-do-analista-junguiano-no-mundo-contemporaneo/">
 A criatividade e a transdisciplinaridade na formação do Analista Junguiano no Mundo contemporâneo                            </a>
 </li>
@@ -550,10 +554,6 @@ EROS IMAGINAL E A CONIUNCTIO DIGITAL: O ENTRELAÇAMENTO DE ALMAS NO MUNDUS IMAG
 <li>
 <a href="https://www.ijba.com.br/blog/taro-sincronicidade-e-psicologia-analitica/">
 TARÔ, SINCRONICIDADE E PSICOLOGIA ANALÍTICA                            </a>
-</li>
-<li>
-<a href="https://www.ijba.com.br/blog/a-terceira-margem-do-rio/">
-A Terceira margem do Rio                            </a>
 </li>
 </ul>            </div>
 <div class="col-md-4">
@@ -636,7 +636,7 @@ A Terceira margem do Rio                            </a>
 </div>
 <div class="row">
 <div class="col mt-4">
-<p class="text-center">IJBA - Instituto Junguiano da Bahia. Copyright © 2025 - Todos os direitos reservados. </p>
+<p class="text-center">IJBA - Instituto Junguiano da Bahia. Copyright © 2026 - Todos os direitos reservados. </p>
 </div>
 </div>
 </div>
@@ -651,4 +651,4 @@ A Terceira margem do Rio                            </a>
 <script src="https://www.ijba.com.br/wp-content/themes/ijba/js/main.js" crossorigin="anonymous"></script>
 <script src="https://www.ijba.com.br/wp-content/themes/ijba/js/slide-feed-course.js" crossorigin="anonymous"></script>
 </body>
-</html><!-- WP Fastest Cache file was created in 0.762 seconds, on 23/12/2025 @ 07:17 -->
+</html><!-- WP Fastest Cache file was created in 0.714 seconds, on 02/01/2026 @ 05:53 -->

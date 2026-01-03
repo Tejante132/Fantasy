@@ -44,7 +44,7 @@ OpçõesNotificações
 
      * (BUTTON) Ver notificações
 
-   exibições de letras 67.511
+   exibições de letras 67.529
 
 Fantasia
 
@@ -164,24 +164,24 @@ Mais ouvidas de Chico Buarque
 
     1. A Banda
     2. Construção
-    3. João e Maria (part. Nara Leão)
-    4. Cálice (part. Milton Nascimento)
+    3. Cálice (part. Milton Nascimento)
+    4. João e Maria (part. Nara Leão)
     5. Apesar de Você
     6. O Que Será (À Flor da Pele) (part. Milton Nascimento)
     7. Geni e o Zepelim
     8. Cotidiano
-    9. Beatriz
-   10. Mulheres de Atenas
-   11. Iolanda (part. Simone)
-   12. Valsinha
-   13. Ciranda da Bailarina
-   14. O Que Será (À Flor da Terra)
-   15. Roda Viva
-   16. Olhos Nos Olhos
-   17. Canção de Natal
-   18. Minha História (Gesubambino)
-   19. Eu Te Amo
-   20. Minha Canção
+    9. Iolanda (part. Simone)
+   10. Beatriz
+   11. Mulheres de Atenas
+   12. Ciranda da Bailarina
+   13. Roda Viva
+   14. Valsinha
+   15. O Que Será (À Flor da Terra)
+   16. Minha História (Gesubambino)
+   17. Brisa do mar
+   18. Canção de Natal
+   19. Olhos Nos Olhos
+   20. Eu Te Amo
      __________________________________________________________________
 
 Playlists relacionadas
@@ -197,20 +197,20 @@ Mais acessados
 
    TodosRockGospelSertanejo
    (BUTTON) Mais
-    1. The Fate of Ophelia Taylor Swift
-    2. Fanatismo Yasmin Sensação
-    3. A Sina de Ofélia Track B Music
-    4. Ordinary Alex Warren
-    5. Hino do Corinthians Corinthians
-    6. Alô Virgínia (part. Turma do Pagode) Grupo Chocolate
-    7. Noite Feliz Natal
-    8. Porque Ele Vive Harpa Cristã
-    9. Grato a Ti Harpa Cristã
-   10. Evidências Chitãozinho & Xororó
+    1. A Sina de Ofélia Track B Music
+    2. The Fate of Ophelia Taylor Swift
+    3. Ordinary Alex Warren
+    4. Te Agradeço Diante do Trono
+    5. Fanatismo Yasmin Sensação
+    6. Grato a Ti Harpa Cristã
+    7. Gratidão Florianópolis House Of Prayer (fhop music)
+    8. Evidências Chitãozinho & Xororó
+    9. JETSKI (part. Melody e MC Meno K) PEDRO SAMPAIO
+   10. Porque Ele Vive Harpa Cristã
 
     1. Harpa Cristã
     2. Taylor Swift
-    3. Músicas Católicas
+    3. Track B Music
 
 Navegue sem anúncios
 
@@ -326,7 +326,7 @@ Curta mais música com opções exclusivas
    etraspinterestletrasmusbrlinkedinletras
      __________________________________________________________________
 
-   Música começa com letras © 2003 - 2025, 3.7 milhões de letras de
+   Música começa com letras © 2003 - 2026, 3.7 milhões de letras de
    músicas Feito com amor em todo o Brasil
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KWMSHG8

@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https://cultura.uol.com.br/sitemap/index-map.xml
+User-agent: *
+Sitemap: https://cultura.uol.com.br/sitemap/index-map.xml

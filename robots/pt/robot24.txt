@@ -1,0 +1,106 @@
+# Robots V1.7
+
+User-agent: *
+
+#Bloqueo del crawling de ciertos directorios y del buscador
+Disallow: /usuaris/
+Allow: /usuaris/*.webp
+Disallow: */buscar?*
+Disallow: /*?access_token=*
+Disallow: /preview/pagina/
+Disallow: /usuaris/web_plataformas_venda/fotos/
+Disallow: /contacto/*.txt
+Disallow: /contacte/*.txt
+
+#Permitiendo recursos del directorio usuaris
+Allow: /usuaris/*/fotos/
+Allow: /usuaris/*.pdf
+
+# Permitiendo recursos de JS y CSS
+Allow: *.js
+Allow: *.css
+Allow: *.json
+Disallow: /js/obfuscator.js
+
+# Permitiendo páginas importantes
+Allow: /usuaris/libros_contenido/arxius/1/32_1_Lalineadeltiempodelanovela.doc
+
+#Sitemap
+Sitemap: https://www.planetadelivros.pt/sitemap.xml
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: BLEXBot
+User-agent: Cliqzbot
+User-agent: MojeekBot
+User-agent: musobot
+User-agent: linkdexbot
+User-agent: Seznambot
+User-agent: MJ12bot
+User-agent: EveryoneSocialBot
+User-agent: GnowitNewsbot
+User-agent: Leikibot
+User-agent: OutclicksBot
+User-agent: sudorlybot
+User-agent: woobot
+User-agent: linkdexbot
+User-agent: epicbot
+User-agent: Tweetmemebot
+User-agent: obot
+User-agent: yoozbot
+User-agent: MSN-bot
+Disallow: /
+# Robots V1.7
+
+User-agent: *
+
+#Bloqueo del crawling de ciertos directorios y del buscador
+Disallow: /usuaris/
+Allow: /usuaris/*.webp
+Disallow: */buscar?*
+Disallow: /*?access_token=*
+Disallow: /preview/pagina/
+Disallow: /usuaris/web_plataformas_venda/fotos/
+Disallow: /contacto/*.txt
+Disallow: /contacte/*.txt
+
+#Permitiendo recursos del directorio usuaris
+Allow: /usuaris/*/fotos/
+Allow: /usuaris/*.pdf
+
+# Permitiendo recursos de JS y CSS
+Allow: *.js
+Allow: *.css
+Allow: *.json
+Disallow: /js/obfuscator.js
+
+# Permitiendo páginas importantes
+Allow: /usuaris/libros_contenido/arxius/1/32_1_Lalineadeltiempodelanovela.doc
+
+#Sitemap
+Sitemap: https://www.planetadelivros.pt/sitemap.xml
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: BLEXBot
+User-agent: Cliqzbot
+User-agent: MojeekBot
+User-agent: musobot
+User-agent: linkdexbot
+User-agent: Seznambot
+User-agent: MJ12bot
+User-agent: EveryoneSocialBot
+User-agent: GnowitNewsbot
+User-agent: Leikibot
+User-agent: OutclicksBot
+User-agent: sudorlybot
+User-agent: woobot
+User-agent: linkdexbot
+User-agent: epicbot
+User-agent: Tweetmemebot
+User-agent: obot
+User-agent: yoozbot
+User-agent: MSN-bot
+Disallow: /

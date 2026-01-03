@@ -287,7 +287,7 @@
     <div class="small-container">
     
 		<div style="text-align:center;margin:30px 0;font-size:16px"><a href="https://conceito.de/contato" class="footer__link">Contato</a> - <a href="https://conceito.de/politica-de-privacidade" class="footer__link">Privacidade</a></div>
-		<span class="footer__copyright">Conceito.de | Copyright © 2010-2025 </span>
+		<span class="footer__copyright">Conceito.de | Copyright © 2010-2026 </span>
 			</div>
             </div>
 </footer>

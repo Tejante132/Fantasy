@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /_admin/
+Disallow: /sis/
+Disallow: /profile/
+Noindex: /_admin/
+Noindex: /sis/
+Noindex: /profile/
+User-agent: *
+Disallow: /_admin/
+Disallow: /sis/
+Disallow: /profile/
+Noindex: /_admin/
+Noindex: /sis/
+Noindex: /profile/

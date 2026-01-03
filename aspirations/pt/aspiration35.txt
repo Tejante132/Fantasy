@@ -227,6 +227,111 @@ var twentyseventeenScreenReaderText = {"quote":"<svg class=\"icon icon-quote-rig
 		
 
 					
+<article class="excerptdiv" id="post-60129" class="post-60129 edital type-edital status-publish has-post-thumbnail hentry category-concursos-literarios-brasil category-concurso-escrita-premio-literario category-concursos-literarios-contos category-concurso-literario-distopia category-premio-literario-drama category-concurso-literario-fantasia category-concurso-literario-fevereiro category-concurso-literario-ficcao-cientifica category-concursos-literarios-gratuitos category-concursos-literarios-para-menores-de-idade category-concursos-literarios-premio-dinheiro pmpro-has-access">
+
+	<header class="entry-header">
+		
+
+		<h2 class="entry-title"><a href="https://selecoesliterarias.com.br/editais/concurso-rio-grande-do-sul-2125-contos-ate-20-02-2026/" rel="bookmark">Concurso Rio Grande do Sul 2125 (contos) – até 20-02-2026</a></h2>	</header><!-- .entry-header -->
+	
+			<div class="post-thumbnail">
+			<a href="https://selecoesliterarias.com.br/editais/concurso-rio-grande-do-sul-2125-contos-ate-20-02-2026/">
+				<div class="excerptImage">
+					<img width="640" height="800" src="https://selecoesliterarias.com.br/wp-content/uploads/2026/01/concurso-RS-2125.webp" class="attachment-twentyseventeen-featured-image size-twentyseventeen-featured-image wp-post-image" alt="" decoding="async" srcset="https://selecoesliterarias.com.br/wp-content/uploads/2026/01/concurso-RS-2125.webp 640w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/concurso-RS-2125-320x400.webp 320w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />				</div>
+			</a>
+		</div><!-- .post-thumbnail -->
+	
+	<div class="entry-summary ns">		
+			<p>Concurso de contos com inscrições abertas até 20-02-2026, organizado por Secretaria de Cultura do Rio Grande do Sul. As categorias temáticas aceitas são: distopia, drama, fantasia e ficção científica.</p>
+		
+	</div><!-- .entry-summary -->
+
+</article><!-- #post-## -->
+
+<article class="excerptdiv" id="post-60119" class="post-60119 edital type-edital status-publish has-post-thumbnail hentry category-concurso-literario-antologia category-concursos-literarios-brasil category-concursos-literarios-contos category-concurso-literario-fantasia category-concursos-literarios-gratuitos category-concurso-literario-maio pmpro-has-access">
+
+	<header class="entry-header">
+		
+
+		<h2 class="entry-title"><a href="https://selecoesliterarias.com.br/editais/escorbuto-historias-de-piratas-contos-ate-20-05-2026/" rel="bookmark">Escorbuto: Histórias de Piratas (contos) – até 20-05-2026</a></h2>	</header><!-- .entry-header -->
+	
+			<div class="post-thumbnail">
+			<a href="https://selecoesliterarias.com.br/editais/escorbuto-historias-de-piratas-contos-ate-20-05-2026/">
+				<div class="excerptImage">
+					<img width="800" height="800" src="https://selecoesliterarias.com.br/wp-content/uploads/2026/01/antologia-medusa-Escorbuto-piratas-dark-fantasy.webp" class="attachment-twentyseventeen-featured-image size-twentyseventeen-featured-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://selecoesliterarias.com.br/wp-content/uploads/2026/01/antologia-medusa-Escorbuto-piratas-dark-fantasy.webp 800w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/antologia-medusa-Escorbuto-piratas-dark-fantasy-400x400.webp 400w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/antologia-medusa-Escorbuto-piratas-dark-fantasy-150x150.webp 150w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/antologia-medusa-Escorbuto-piratas-dark-fantasy-768x768.webp 768w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/antologia-medusa-Escorbuto-piratas-dark-fantasy-100x100.webp 100w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />				</div>
+			</a>
+		</div><!-- .post-thumbnail -->
+	
+	<div class="entry-summary ns">		
+			<p>Concurso de contos com inscrições abertas até 20-05-2026, organizado por Medusa Editorial. As categorias temáticas aceitas são: fantasia.</p>
+		
+	</div><!-- .entry-summary -->
+
+</article><!-- #post-## -->
+
+<article class="excerptdiv" id="post-60118" class="post-60118 edital type-edital status-publish has-post-thumbnail hentry category-concurso-literario-abril category-concurso-literario-antologia category-concursos-literarios-brasil category-concursos-literarios-contos category-concurso-literario-fantasia category-concursos-literarios-gratuitos category-concurso-literario-terror-horror pmpro-has-access">
+
+	<header class="entry-header">
+		
+
+		<h2 class="entry-title"><a href="https://selecoesliterarias.com.br/editais/sangue-e-prata-2-maldicoes-e-espiritos-contos-ate-20-04-2026/" rel="bookmark">Sangue e Prata 2: Maldições e Espíritos (contos) – até 20-04-2026</a></h2>	</header><!-- .entry-header -->
+	
+			<div class="post-thumbnail">
+			<a href="https://selecoesliterarias.com.br/editais/sangue-e-prata-2-maldicoes-e-espiritos-contos-ate-20-04-2026/">
+				<div class="excerptImage">
+					<img width="800" height="800" src="https://selecoesliterarias.com.br/wp-content/uploads/2026/01/antologia-medusa-sangue-e-prata-2-maldicoes-e-espiritos-dark-western.webp" class="attachment-twentyseventeen-featured-image size-twentyseventeen-featured-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://selecoesliterarias.com.br/wp-content/uploads/2026/01/antologia-medusa-sangue-e-prata-2-maldicoes-e-espiritos-dark-western.webp 800w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/antologia-medusa-sangue-e-prata-2-maldicoes-e-espiritos-dark-western-400x400.webp 400w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/antologia-medusa-sangue-e-prata-2-maldicoes-e-espiritos-dark-western-150x150.webp 150w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/antologia-medusa-sangue-e-prata-2-maldicoes-e-espiritos-dark-western-768x768.webp 768w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/antologia-medusa-sangue-e-prata-2-maldicoes-e-espiritos-dark-western-100x100.webp 100w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />				</div>
+			</a>
+		</div><!-- .post-thumbnail -->
+	
+	<div class="entry-summary ns">		
+			<p>Concurso de contos com inscrições abertas até 20-04-2026, organizado por Medusa Editorial. As categorias temáticas aceitas são: fantasia e terror.</p>
+		
+	</div><!-- .entry-summary -->
+
+</article><!-- #post-## -->
+
+<article class="excerptdiv" id="post-60117" class="post-60117 edital type-edital status-publish has-post-thumbnail hentry category-concurso-literario-antologia category-concursos-literarios-brasil category-concursos-literarios-contos category-concurso-literario-fantasia category-concurso-literario-ficcao-cientifica category-concursos-literarios-gratuitos category-concursos-literarios-marco pmpro-has-access">
+
+	<header class="entry-header">
+		
+
+		<h2 class="entry-title"><a href="https://selecoesliterarias.com.br/editais/ascensao-do-sangue-2-a-era-dos-lycans-contos-ate-20-03-2026/" rel="bookmark">Ascensão do Sangue 2: A Era dos Lycans (contos) – até 20-03-2026</a></h2>	</header><!-- .entry-header -->
+	
+			<div class="post-thumbnail">
+			<a href="https://selecoesliterarias.com.br/editais/ascensao-do-sangue-2-a-era-dos-lycans-contos-ate-20-03-2026/">
+				<div class="excerptImage">
+					<img width="800" height="800" src="https://selecoesliterarias.com.br/wp-content/uploads/2026/01/Antologia-Medusa-Ascensao-do-Sangue-2-A-Era-dos-Lycans-lobisomens-cyberpunk.webp" class="attachment-twentyseventeen-featured-image size-twentyseventeen-featured-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://selecoesliterarias.com.br/wp-content/uploads/2026/01/Antologia-Medusa-Ascensao-do-Sangue-2-A-Era-dos-Lycans-lobisomens-cyberpunk.webp 800w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/Antologia-Medusa-Ascensao-do-Sangue-2-A-Era-dos-Lycans-lobisomens-cyberpunk-400x400.webp 400w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/Antologia-Medusa-Ascensao-do-Sangue-2-A-Era-dos-Lycans-lobisomens-cyberpunk-150x150.webp 150w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/Antologia-Medusa-Ascensao-do-Sangue-2-A-Era-dos-Lycans-lobisomens-cyberpunk-768x768.webp 768w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/Antologia-Medusa-Ascensao-do-Sangue-2-A-Era-dos-Lycans-lobisomens-cyberpunk-100x100.webp 100w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />				</div>
+			</a>
+		</div><!-- .post-thumbnail -->
+	
+	<div class="entry-summary ns">		
+			<p>Concurso de contos com inscrições abertas até 20-03-2026, organizado por Medusa Editorial. As categorias temáticas aceitas são: fantasia e ficção científica.</p>
+		
+	</div><!-- .entry-summary -->
+
+</article><!-- #post-## -->
+
+<article class="excerptdiv" id="post-60112" class="post-60112 edital type-edital status-publish has-post-thumbnail hentry category-concurso-literario-antologia category-concursos-literarios-brasil category-concursos-literarios-contos category-concurso-literario-fantasia category-concurso-literario-fevereiro category-concursos-literarios-gratuitos pmpro-has-access">
+
+	<header class="entry-header">
+		
+
+		<h2 class="entry-title"><a href="https://selecoesliterarias.com.br/editais/cancao-de-ninar-contos-ate-20-02-2026/" rel="bookmark">Canção de Ninar (contos) – até 20-02-2026</a></h2>	</header><!-- .entry-header -->
+	
+			<div class="post-thumbnail">
+			<a href="https://selecoesliterarias.com.br/editais/cancao-de-ninar-contos-ate-20-02-2026/">
+				<div class="excerptImage">
+					<img width="800" height="800" src="https://selecoesliterarias.com.br/wp-content/uploads/2026/01/Antologia-Medusa-Cancao-de-Ninar-Maternidade-Fantastica.webp" class="attachment-twentyseventeen-featured-image size-twentyseventeen-featured-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://selecoesliterarias.com.br/wp-content/uploads/2026/01/Antologia-Medusa-Cancao-de-Ninar-Maternidade-Fantastica.webp 800w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/Antologia-Medusa-Cancao-de-Ninar-Maternidade-Fantastica-400x400.webp 400w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/Antologia-Medusa-Cancao-de-Ninar-Maternidade-Fantastica-150x150.webp 150w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/Antologia-Medusa-Cancao-de-Ninar-Maternidade-Fantastica-768x768.webp 768w, https://selecoesliterarias.com.br/wp-content/uploads/2026/01/Antologia-Medusa-Cancao-de-Ninar-Maternidade-Fantastica-100x100.webp 100w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />				</div>
+			</a>
+		</div><!-- .post-thumbnail -->
+	
+	<div class="entry-summary ns">		
+			<p>Concurso de contos com inscrições abertas até 20-02-2026, organizado por Medusa Editorial. As categorias temáticas aceitas são: fantasia.</p>
+		
+	</div><!-- .entry-summary -->
+
+</article><!-- #post-## -->
+
 <article class="excerptdiv" id="post-59854" class="post-59854 edital type-edital status-publish has-post-thumbnail hentry category-concursos-literarios-brasil category-concurso-literario-fantasia category-concurso-literario-fevereiro category-concurso-literario-ficcao-cientifica category-concursos-literarios-gratuitos category-literatura-jovem-adulto-ya-juvenil category-premio-literario-obras-completas category-concurso-literario-terror-horror pmpro-has-access">
 
 	<header class="entry-header">
@@ -237,96 +342,12 @@ var twentyseventeenScreenReaderText = {"quote":"<svg class=\"icon icon-quote-rig
 			<div class="post-thumbnail">
 			<a href="https://selecoesliterarias.com.br/editais/chamada-de-originais-editora-elixir-livros-completos-ate-28-02-2026/">
 				<div class="excerptImage">
-					<img width="640" height="800" src="https://selecoesliterarias.com.br/wp-content/uploads/2025/12/Chamada-de-originais-editora-elixir-ficcao-especulativa.webp" class="attachment-twentyseventeen-featured-image size-twentyseventeen-featured-image wp-post-image" alt="" decoding="async" srcset="https://selecoesliterarias.com.br/wp-content/uploads/2025/12/Chamada-de-originais-editora-elixir-ficcao-especulativa.webp 640w, https://selecoesliterarias.com.br/wp-content/uploads/2025/12/Chamada-de-originais-editora-elixir-ficcao-especulativa-320x400.webp 320w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />				</div>
+					<img width="640" height="800" src="https://selecoesliterarias.com.br/wp-content/uploads/2025/12/Chamada-de-originais-editora-elixir-ficcao-especulativa.webp" class="attachment-twentyseventeen-featured-image size-twentyseventeen-featured-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://selecoesliterarias.com.br/wp-content/uploads/2025/12/Chamada-de-originais-editora-elixir-ficcao-especulativa.webp 640w, https://selecoesliterarias.com.br/wp-content/uploads/2025/12/Chamada-de-originais-editora-elixir-ficcao-especulativa-320x400.webp 320w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />				</div>
 			</a>
 		</div><!-- .post-thumbnail -->
 	
 	<div class="entry-summary ns">		
 			<p>Concurso de livros completos com inscrições abertas até 28-02-2026, organizado por Editora Elixir. As categorias temáticas aceitas são: fantasia, ficção científica, jovem adulto (ya) / juvenil e terror.</p>
-		
-	</div><!-- .entry-summary -->
-
-</article><!-- #post-## -->
-
-<article class="excerptdiv" id="post-59848" class="post-59848 edital type-edital status-publish has-post-thumbnail hentry category-concursos-literarios-brasil category-concursos-literarios-contos category-concurso-literario-dezembro category-concurso-literario-fantasia category-concurso-literario-ficcao-cientifica category-concursos-literarios-gratuitos category-concursos-literarios-premio-dinheiro category-concurso-literario-terror-horror pmpro-has-access">
-
-	<header class="entry-header">
-		
-
-		<h2 class="entry-title"><a href="https://selecoesliterarias.com.br/editais/revista-taquion-fc-14-contos-ate-31-12-2025/" rel="bookmark">Revista Táquion FC 14 (contos) – até 31-12-2025</a></h2>	</header><!-- .entry-header -->
-	
-			<div class="post-thumbnail">
-			<a href="https://selecoesliterarias.com.br/editais/revista-taquion-fc-14-contos-ate-31-12-2025/">
-				<div class="excerptImage">
-					<img width="800" height="800" src="https://selecoesliterarias.com.br/wp-content/uploads/2025/12/Revista-Taquion-FC-14-sinopses-ficcao-especulativa.webp" class="attachment-twentyseventeen-featured-image size-twentyseventeen-featured-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://selecoesliterarias.com.br/wp-content/uploads/2025/12/Revista-Taquion-FC-14-sinopses-ficcao-especulativa.webp 800w, https://selecoesliterarias.com.br/wp-content/uploads/2025/12/Revista-Taquion-FC-14-sinopses-ficcao-especulativa-400x400.webp 400w, https://selecoesliterarias.com.br/wp-content/uploads/2025/12/Revista-Taquion-FC-14-sinopses-ficcao-especulativa-150x150.webp 150w, https://selecoesliterarias.com.br/wp-content/uploads/2025/12/Revista-Taquion-FC-14-sinopses-ficcao-especulativa-768x768.webp 768w, https://selecoesliterarias.com.br/wp-content/uploads/2025/12/Revista-Taquion-FC-14-sinopses-ficcao-especulativa-100x100.webp 100w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />				</div>
-			</a>
-		</div><!-- .post-thumbnail -->
-	
-	<div class="entry-summary ns">		
-			<p>Concurso de contos com inscrições abertas até 31-12-2025, organizado por Clube Brasileiro de Ficção Científica.. As categorias temáticas aceitas são: fantasia, ficção científica e terror.</p>
-		
-	</div><!-- .entry-summary -->
-
-</article><!-- #post-## -->
-
-<article class="excerptdiv" id="post-59584" class="post-59584 edital type-edital status-publish has-post-thumbnail hentry category-concursos-literarios-brasil category-concursos-literarios-contos category-concurso-literario-dezembro category-concurso-literario-distopia category-concurso-literario-fantasia category-concurso-literario-ficcao-cientifica category-concursos-literarios-gratuitos category-concurso-literario-suspense pmpro-has-access">
-
-	<header class="entry-header">
-		
-
-		<h2 class="entry-title"><a href="https://selecoesliterarias.com.br/editais/a-enciclopedia-das-teorias-da-conspiracao-volume-2-contos-ate-31-12-2025/" rel="bookmark">A Enciclopédia das Teorias da Conspiração: Volume 2 (contos) – até 31-12-2025</a></h2>	</header><!-- .entry-header -->
-	
-			<div class="post-thumbnail">
-			<a href="https://selecoesliterarias.com.br/editais/a-enciclopedia-das-teorias-da-conspiracao-volume-2-contos-ate-31-12-2025/">
-				<div class="excerptImage">
-					<img width="800" height="800" src="https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-A-Enciclopedia-das-Teorias-da-Conspiracao-Volume-2.webp" class="attachment-twentyseventeen-featured-image size-twentyseventeen-featured-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-A-Enciclopedia-das-Teorias-da-Conspiracao-Volume-2.webp 800w, https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-A-Enciclopedia-das-Teorias-da-Conspiracao-Volume-2-400x400.webp 400w, https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-A-Enciclopedia-das-Teorias-da-Conspiracao-Volume-2-150x150.webp 150w, https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-A-Enciclopedia-das-Teorias-da-Conspiracao-Volume-2-768x768.webp 768w, https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-A-Enciclopedia-das-Teorias-da-Conspiracao-Volume-2-100x100.webp 100w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />				</div>
-			</a>
-		</div><!-- .post-thumbnail -->
-	
-	<div class="entry-summary ns">		
-			<p>Concurso de contos com inscrições abertas até 31-12-2025, organizado por Lendari. As categorias temáticas aceitas são: distopia, fantasia, ficção científica e suspense.</p>
-		
-	</div><!-- .entry-summary -->
-
-</article><!-- #post-## -->
-
-<article class="excerptdiv" id="post-59582" class="post-59582 edital type-edital status-publish has-post-thumbnail hentry category-concursos-literarios-brasil category-concursos-literarios-contos category-concurso-literario-dezembro category-premio-literario-drama category-concurso-literario-fantasia category-concursos-literarios-gratuitos category-concurso-literatura-romantica category-concurso-literario-suspense category-concurso-literario-terror-horror pmpro-has-access">
-
-	<header class="entry-header">
-		
-
-		<h2 class="entry-title"><a href="https://selecoesliterarias.com.br/editais/a-danca-dos-fantasmas-tristes-volume-2-contos-ate-31-12-2025/" rel="bookmark">A Dança dos Fantasmas Tristes: Volume 2 (contos) – até 31-12-2025</a></h2>	</header><!-- .entry-header -->
-	
-			<div class="post-thumbnail">
-			<a href="https://selecoesliterarias.com.br/editais/a-danca-dos-fantasmas-tristes-volume-2-contos-ate-31-12-2025/">
-				<div class="excerptImage">
-					<img width="800" height="800" src="https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-A-Danca-dos-Fantasmas-Tristes-Volume-2.webp" class="attachment-twentyseventeen-featured-image size-twentyseventeen-featured-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-A-Danca-dos-Fantasmas-Tristes-Volume-2.webp 800w, https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-A-Danca-dos-Fantasmas-Tristes-Volume-2-400x400.webp 400w, https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-A-Danca-dos-Fantasmas-Tristes-Volume-2-150x150.webp 150w, https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-A-Danca-dos-Fantasmas-Tristes-Volume-2-768x768.webp 768w, https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-A-Danca-dos-Fantasmas-Tristes-Volume-2-100x100.webp 100w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />				</div>
-			</a>
-		</div><!-- .post-thumbnail -->
-	
-	<div class="entry-summary ns">		
-			<p>Concurso de contos com inscrições abertas até 31-12-2025, organizado por Lendari. As categorias temáticas aceitas são: drama, fantasia, romântico, suspense e terror.</p>
-		
-	</div><!-- .entry-summary -->
-
-</article><!-- #post-## -->
-
-<article class="excerptdiv" id="post-59578" class="post-59578 edital type-edital status-publish has-post-thumbnail hentry category-concursos-literarios-aventura category-concursos-literarios-brasil category-concursos-literarios-contos category-concurso-literario-dezembro category-concurso-literario-fantasia category-concursos-literarios-gratuitos category-concurso-literario-realismo-magico category-concurso-literario-suspense category-concurso-literario-terror-horror pmpro-has-access">
-
-	<header class="entry-header">
-		
-
-		<h2 class="entry-title"><a href="https://selecoesliterarias.com.br/editais/o-museu-das-ilusoes-volume-2-contos-ate-31-12-2025/" rel="bookmark">O museu das ilusões: Volume 2 (contos) – até 31-12-2025</a></h2>	</header><!-- .entry-header -->
-	
-			<div class="post-thumbnail">
-			<a href="https://selecoesliterarias.com.br/editais/o-museu-das-ilusoes-volume-2-contos-ate-31-12-2025/">
-				<div class="excerptImage">
-					<img width="800" height="800" src="https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-O-museu-das-ilusoes-Volume-2.webp" class="attachment-twentyseventeen-featured-image size-twentyseventeen-featured-image wp-post-image" alt="Chamada para publicação na antologia Museu das Ilusões" decoding="async" loading="lazy" srcset="https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-O-museu-das-ilusoes-Volume-2.webp 800w, https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-O-museu-das-ilusoes-Volume-2-400x400.webp 400w, https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-O-museu-das-ilusoes-Volume-2-150x150.webp 150w, https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-O-museu-das-ilusoes-Volume-2-768x768.webp 768w, https://selecoesliterarias.com.br/wp-content/uploads/2025/11/Antologia-Lendari-O-museu-das-ilusoes-Volume-2-100x100.webp 100w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />				</div>
-			</a>
-		</div><!-- .post-thumbnail -->
-	
-	<div class="entry-summary ns">		
-			<p>Concurso de contos com inscrições abertas até 31-12-2025, organizado por Lendari. As categorias temáticas aceitas são: aventura, fantasia, realismo mágico, suspense e terror.</p>
 		
 	</div><!-- .entry-summary -->
 
@@ -390,48 +411,6 @@ var twentyseventeenScreenReaderText = {"quote":"<svg class=\"icon icon-quote-rig
 	
 	<div class="entry-summary ns">		
 			<p>Concurso de contos, hq, livros completos e poesia com inscrições abertas até acabarem as vagas, organizado por Minna Editora. As categorias temáticas aceitas são: fantasia, ficção científica e realismo mágico.</p>
-		
-	</div><!-- .entry-summary -->
-
-</article><!-- #post-## -->
-
-<article class="excerptdiv" id="post-40274" class="post-40274 edital type-edital status-publish has-post-thumbnail hentry category-concursos-literarios-brasil category-concurso-literario-dezembro category-concurso-literario-fantasia category-concurso-literario-tema-livre category-concursos-literarios-gratuitos category-premio-literario-obras-completas pmpro-has-access">
-
-	<header class="entry-header">
-		
-
-		<h2 class="entry-title"><a href="https://selecoesliterarias.com.br/editais/chamada-de-originais-de-fantasia-editora-morgana-livros-completos-ate-31-12-2025/" rel="bookmark">Chamada de Originais de Fantasia &#8211; Editora Morgana (livros completos) – até 31-12-2025</a></h2>	</header><!-- .entry-header -->
-	
-			<div class="post-thumbnail">
-			<a href="https://selecoesliterarias.com.br/editais/chamada-de-originais-de-fantasia-editora-morgana-livros-completos-ate-31-12-2025/">
-				<div class="excerptImage">
-					<img width="640" height="800" src="https://selecoesliterarias.com.br/wp-content/uploads/2025/10/Chamada-de-originais-fanstasia-editora-morgana.webp" class="attachment-twentyseventeen-featured-image size-twentyseventeen-featured-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://selecoesliterarias.com.br/wp-content/uploads/2025/10/Chamada-de-originais-fanstasia-editora-morgana.webp 640w, https://selecoesliterarias.com.br/wp-content/uploads/2025/10/Chamada-de-originais-fanstasia-editora-morgana-320x400.webp 320w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />				</div>
-			</a>
-		</div><!-- .post-thumbnail -->
-	
-	<div class="entry-summary ns">		
-			<p>Concurso de livros completos com inscrições abertas até 31-12-2025, organizado por Editora Morgana. As categorias temáticas aceitas são: fantasia e gênero/tema livre.</p>
-		
-	</div><!-- .entry-summary -->
-
-</article><!-- #post-## -->
-
-<article class="excerptdiv" id="post-39827" class="post-39827 edital type-edital status-publish has-post-thumbnail hentry category-concursos-literarios-aventura category-concursos-literarios-brasil category-concurso-literario-dezembro category-concurso-literario-fantasia category-concurso-literario-tema-livre category-concursos-literarios-gratuitos category-literatura-jovem-adulto-ya-juvenil category-concurso-literario-lgbt-lgbtqiap category-premio-literario-obras-completas category-concurso-literatura-romantica category-concurso-literario-suspense pmpro-has-access">
-
-	<header class="entry-header">
-		
-
-		<h2 class="entry-title"><a href="https://selecoesliterarias.com.br/editais/premio-kindle-de-literatura-jovem-3a-edicao-livros-completos-ate-31-12-2025/" rel="bookmark">Prêmio Kindle de Literatura Jovem &#8211; 3ª Edição (livros completos) – até 31-12-2025</a></h2>	</header><!-- .entry-header -->
-	
-			<div class="post-thumbnail">
-			<a href="https://selecoesliterarias.com.br/editais/premio-kindle-de-literatura-jovem-3a-edicao-livros-completos-ate-31-12-2025/">
-				<div class="excerptImage">
-					<img width="640" height="800" src="https://selecoesliterarias.com.br/wp-content/uploads/2025/09/Premio-Kindle-de-Literatura-Jovem-3a-Edicao-.webp" class="attachment-twentyseventeen-featured-image size-twentyseventeen-featured-image wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://selecoesliterarias.com.br/wp-content/uploads/2025/09/Premio-Kindle-de-Literatura-Jovem-3a-Edicao-.webp 640w, https://selecoesliterarias.com.br/wp-content/uploads/2025/09/Premio-Kindle-de-Literatura-Jovem-3a-Edicao--320x400.webp 320w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />				</div>
-			</a>
-		</div><!-- .post-thumbnail -->
-	
-	<div class="entry-summary ns">		
-			<p>Concurso de livros completos com inscrições abertas até 31-12-2025, organizado por Parceria entre Amazon.com.br, Kindle Direct Publishing (KDP), Audible e HarperCollinsBrasil. As categorias temáticas aceitas são: aventura, fantasia, gênero/tema livre, jovem adulto (ya) / juvenil, lgbtqiap+, romântico e suspense<a href="https://selecoesliterarias.com.br/editais/premio-kindle-de-literatura-jovem-3a-edicao-livros-completos-ate-31-12-2025"> <b>&#8230;Saiba mais&#8230;</b></a></p>
 		
 	</div><!-- .entry-summary -->
 

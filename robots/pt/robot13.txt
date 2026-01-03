@@ -1,0 +1,12 @@
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://jornaldebrasilia.com.br/sitemap_2025_03-10.xml
+# ---------------------------
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://jornaldebrasilia.com.br/sitemap_2025_03-10.xml
+# ---------------------------

@@ -364,15 +364,15 @@
 				<aside>
 										 	<div id="last-news"><h4>DESTAQUES</h4>	
 			    <div class="list-item">
-		    	<a href="https://cultura.uol.com.br/noticias/74049_bial-admite-que-se-arrepende-de-piada-com-lula-ele-ficou-muito-magoado.html" title="Bial admite que se arrepende de piada com Lula: "Ele ficou muito magoado"" class="link-list">
-		        <img src="https://cultura.uol.com.br/upload/tvcultura/home/program_med/20251223231625_bial.jpg" />
-		        <p>Bial admite que se arrepende de piada com Lula: "Ele ficou muito magoado" <br> <time class="thumb-time"></p>
+		    	<a href="https://cultura.uol.com.br/esporte/noticias/2025/12/30/10744_tv-cultura-exibe-documentario-em-homenagem-ao-craque-roberto-rivellino.html" title="TV Cultura exibe na próxima segunda-feira (5) documentário em homenagem ao craque Roberto Rivellino" class="link-list">
+		        <img src="https://cultura.uol.com.br/upload/tvcultura/home/program_med/20251230175234_image-40-1-.jpg" />
+		        <p>TV Cultura exibe na próxima segunda-feira (5) documentário em homenagem ao craque Roberto Rivellino <br> <time class="thumb-time"></p>
 		      </a>
 		    </div>
 	  				    <div class="list-item">
-		    	<a href="https://cultura.uol.com.br/entretenimento/noticias/2025/12/23/15298_tv-ra-tim-bum-exibe-programacao-especial-de-natal-nos-dias-24-e-25.html" title="TV Rá Tim Bum exibe programação especial de Natal nos dias 24 e 25 de dezembro" class="link-list">
-		        <img src="https://cultura.uol.com.br/upload/tvcultura/home/program_med/20251223162719_programacultura.jpg" />
-		        <p>TV Rá Tim Bum exibe programação especial de Natal nos dias 24 e 25 de dezembro <br> <time class="thumb-time"></p>
+		    	<a href="https://cultura.uol.com.br/entretenimento/noticias/2026/01/02/15305_confira-os-destaques-da-programacao-infantil-deste-final-de-semana-03-e-0401-na-tv-cultura.html" title="Confira os destaques da programação infantil deste final de semana na TV Cultura" class="link-list">
+		        <img src="https://cultura.uol.com.br/upload/tvcultura/home/program_med/20260102125944_image-45-.jpg" />
+		        <p>Confira os destaques da programação infantil deste final de semana na TV Cultura <br> <time class="thumb-time"></p>
 		      </a>
 		    </div>
 	  			</div>
@@ -414,33 +414,33 @@
 
 					 	<div id="last-news"><h4><a href="https://cultura.uol.com.br/noticias">ÚLTIMAS NOTÍCIAS</a></h4>	
 	    <div class="list-item">
-    	<a href="/noticias/74050_pedro-bial-avalia-os-dois-maiores-erros-da-rede-globo-em-seus-60-anos-de-historia.html" title="Pedro Bial avalia os dois maiores erros da Rede Globo em seus 60 anos de história" class="link-list">
-        <img src="https://cultura.uol.com.br/upload/tvcultura/noticias/20251224153547_bial-1-.jpg" alt="Pedro Bial avalia os dois maiores erros da Rede Globo em seus 60 anos de história" />
-        <p>Pedro Bial avalia os dois maiores erros da Rede Globo em seus 60 anos de história          </p>
+    	<a href="/noticias/74064_viagens-com-bebes-saiba-todas-as-regras-de-embarque-e-todos-os-cuidados-com-as-criancas.html" title="Viagens com bebês: saiba todas as regras de embarque e todos os cuidados com as crianças " class="link-list">
+        <img src="https://cultura.uol.com.br/upload/tvcultura/noticias/20260102160309_hanson-lu-qnhbxko3xbc-unsplash-1-.jpg" alt="Viagens com bebês: saiba todas as regras de embarque e todos os cuidados com as crianças " />
+        <p>Viagens com bebês: saiba todas as regras de embarque e todos os cuidados com as crianças           </p>
         </a>
     </div>
 	    <div class="list-item">
-    	<a href="/noticias/74049_bial-admite-que-se-arrepende-de-piada-com-lula-ele-ficou-muito-magoado.html" title="Bial admite que se arrepende de piada com Lula: "Ele ficou muito magoado"" class="link-list">
-        <img src="https://cultura.uol.com.br/upload/tvcultura/noticias/20251223231347_bial1.jpg" alt="Bial admite que se arrepende de piada com Lula: "Ele ficou muito magoado"" />
-        <p>Bial admite que se arrepende de piada com Lula: "Ele ficou muito magoado"          </p>
+    	<a href="/noticias/74063_exagero-no-consumo-de-alimentos-gordurosos-e-de-bebidas-pode-sobrecarregar-o-organismo.html" title="Exagero no consumo de alimentos gordurosos e de bebidas pode sobrecarregar o organismo " class="link-list">
+        <img src="https://cultura.uol.com.br/upload/tvcultura/noticias/20260102154216_pexels-cottonbro-4877857-1-.jpg" alt="Exagero no consumo de alimentos gordurosos e de bebidas pode sobrecarregar o organismo " />
+        <p>Exagero no consumo de alimentos gordurosos e de bebidas pode sobrecarregar o organismo           </p>
         </a>
     </div>
 	    <div class="list-item">
-    	<a href="/noticias/74048_educacao-empatia-e-cidadania-os-destaques-do-boas-praticas-escolares.html" title="Educação, empatia e cidadania: os destaques do Boas Práticas Escolares" class="link-list">
-        <img src="https://cultura.uol.com.br/upload/tvcultura/noticias/20251222141630_boaspraticasescolares.jpg" alt="Educação, empatia e cidadania: os destaques do Boas Práticas Escolares" />
-        <p>Educação, empatia e cidadania: os destaques do Boas Práticas Escolares          </p>
+    	<a href="/noticias/74043_boas-praticas-aborda-iniciativas-que-fizeram-a-diferenca-na-educacao-das-criancas-neste-domingo-4.html" title="Boas Práticas aborda iniciativas que fizeram a diferença na educação das crianças neste domingo (4)" class="link-list">
+        <img src="https://cultura.uol.com.br/upload/tvcultura/noticias/20251217115400_boaspraticasapresentadestaquesde2025nestedomingo04-01.jpg" alt="Boas Práticas aborda iniciativas que fizeram a diferença na educação das crianças neste domingo (4)" />
+        <p>Boas Práticas aborda iniciativas que fizeram a diferença na educação das crianças neste domingo (4)          </p>
         </a>
     </div>
 	    <div class="list-item">
-    	<a href="/noticias/74047_reporter-eco-programa-especial-apresenta-rota-das-mares.html" title="Repórter Eco: programa especial apresenta "Rota das Marés"" class="link-list">
-        <img src="https://cultura.uol.com.br/upload/tvcultura/noticias/20251219163242_rios.jpg" alt="Repórter Eco: programa especial apresenta "Rota das Marés"" />
-        <p>Repórter Eco: programa especial apresenta "Rota das Marés"          </p>
+    	<a href="/noticias/74062_relatorio-da-onu-e-oxford-aponta-que-a-crise-climatica-afeta-80-dos-mais-pobres.html" title="Relatório da ONU e Oxford aponta que a crise climática afeta 80% dos mais pobres" class="link-list">
+        <img src="https://cultura.uol.com.br/upload/tvcultura/noticias/20251230135049_image-41-.jpg" alt="Relatório da ONU e Oxford aponta que a crise climática afeta 80% dos mais pobres" />
+        <p>Relatório da ONU e Oxford aponta que a crise climática afeta 80% dos mais pobres          </p>
         </a>
     </div>
 	    <div class="list-item">
-    	<a href="/noticias/74046_opiniao-desta-sexta-feira-19-debate-sobre-o-empreendedorismo.html" title="Opinião desta sexta-feira (19) debate sobre o empreendedorismo " class="link-list">
-        <img src="https://cultura.uol.com.br/upload/tvcultura/noticias/20251219154754_daniel-dan-hkm23jxmack-unsplash-1-.jpg" alt="Opinião desta sexta-feira (19) debate sobre o empreendedorismo " />
-        <p>Opinião desta sexta-feira (19) debate sobre o empreendedorismo           </p>
+    	<a href="/noticias/74061_taxa-de-desemprego-no-brasil-cai-para-52-no-trimestre-de-novembro-aponta-ibge.html" title="Taxa de desemprego no Brasil cai para 5,2% no trimestre de novembro, aponta IBGE" class="link-list">
+        <img src="https://cultura.uol.com.br/upload/tvcultura/noticias/20251230131021_20250602152812.jpg" alt="Taxa de desemprego no Brasil cai para 5,2% no trimestre de novembro, aponta IBGE" />
+        <p>Taxa de desemprego no Brasil cai para 5,2% no trimestre de novembro, aponta IBGE          </p>
         </a>
     </div>
 		</div>

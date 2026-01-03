@@ -1,0 +1,16 @@
+user-agent: *
+Allow: /
+Disallow: /studio/
+Disallow: /feed/
+Disallow: /partials/
+Disallow: /busca
+Disallow: /embedded
+Sitemap: https://pt.quizur.com/sitemap.xml
+user-agent: *
+Allow: /
+Disallow: /studio/
+Disallow: /feed/
+Disallow: /partials/
+Disallow: /busca
+Disallow: /embedded
+Sitemap: https://pt.quizur.com/sitemap.xml

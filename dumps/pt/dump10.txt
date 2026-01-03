@@ -85,6 +85,10 @@
    Oferta Especial: R$1,90 no 1º mês
    Assine a Folha
 
+   Ao vivo
+
+Veja as últimas notícias do ataque dos EUA à Venezuela
+
    OFERTA ESPECIAL FOLHA
    Conecte-se ao jornal mais influente do Brasil
    Apenas R$ 1,90 no 1º mês
@@ -499,45 +503,22 @@ autores
 Mais lidas em Ilustrada
 
    Ver todas
-    1. Filmes Selton Mello vira garoto-propaganda de ʼAnacondaʼ após
-       ʼAinda Estou Aquiʼ
-    2. Mick Abrahams (1943-2025) Morre o guitarrista Mick Abrahams, da
-       formação original do Jethro Tull
-    3. Crítica Selton Mello se sai bem em ʼAnacondaʼ, filme que beira o
-       constrangedor
-    4. Filmes Washington Post diz que ʼO Agente Secretoʼ é ʼtalvez o filme
-       mais adorado do anoʼ
-    5. Filmes Veja o trailer de ʼVingadores: Doutor Destinoʼ, com Chris
-       Evans de volta à Marvel
+    1. Ilustrada Filha de Tommy Lee Jones é encontrada morta em hotel nos
+       Estados Unidos
+    2. Filmes ʼZootopia 2ʼ se torna a maior bilheteria da Disney e supera
+       ʼFrozen 2ʼ nos cinemas
+    3. Ilustrada Episódio final de ʼStranger Thingsʼ arrecada mais de US$
+       25 mi nos cinemas
+    4. Crítica Prazeroso, ʼDiálogos sobre a Féʼ ajuda a entender Scorsese
+    5. Ilustrada BTS anuncia data de retorno com álbum inédito após
+       intervalo de quatro anos
 
 últimas notícias
 
-   Master: banqueiros e autoridades dizem que PF também sofreu pressão de
-   Moraes Master: banqueiros e autoridades dizem que PF também sofreu
-   pressão de Moraes
+   Trump divulga foto em que Maduro está vendado e parece estar algemado
+   Trump divulga foto em que Maduro está vendado e parece estar algemado
 
-STF
-
-   (button) Compartilhar
-   (BUTTON)
-
-     (BUTTON) Salvar para ler depois
-   Salvar artigos (BUTTON)
-
-   Recurso exclusivo para assinantes
-
-   assine ou faça login
-
-Master: banqueiros e autoridades dizem que PF também sofreu pressão de Moraes
-
-   Diretor-geral nega e diz que nunca conversou com o ministro do STF
-   sobre as investigações contra o banco
-   24.dez.2025 às 11h39
-   Datafolha: Polarização atinge 74% dos brasileiros, com petistas
-   superando bolsonaristas Datafolha: Polarização atinge 74% dos
-   brasileiros, com petistas superando bolsonaristas
-
-Datafolha
+EUA x Venezuela
 
    (button) Compartilhar
    (BUTTON)
@@ -549,18 +530,16 @@ Datafolha
 
    assine ou faça login
 
-Datafolha: Polarização atinge 74% dos brasileiros, com petistas superando
-bolsonaristas
+Trump divulga foto em que Maduro está vendado e parece estar algemado
 
-   Levantamento aponta 40% mais alinhados a partido de Lula e 34%, a
-   Bolsonaro
-   24.dez.2025 às 13h00
+   Em imagem postada na rede social do presidente dos EUA, ditador é visto
+   de moletom a bordo do USS Iwo Jima
+   3.jan.2026 às 15h11
+   Trump diz que EUA governarão Venezuela até transição, e petróleo será
+   explorado por americanos Trump diz que EUA governarão Venezuela até
+   transição, e petróleo será explorado por americanos
 
-   Decreto de Lula fixa salário mínimo em R$ 1.621 em 2026; regra que
-   limita reajuste tira R$ 15 do piso Decreto de Lula fixa salário mínimo
-   em R$ 1.621 em 2026; regra que limita reajuste tira R$ 15 do piso
-
-inflação
+EUA x Venezuela
 
    (button) Compartilhar
    (BUTTON)
@@ -572,12 +551,35 @@ inflação
 
    assine ou faça login
 
-Decreto de Lula fixa salário mínimo em R$ 1.621 em 2026; regra que limita
-reajuste tira R$ 15 do piso
+Trump diz que EUA governarão Venezuela até transição, e petróleo será
+explorado por americanos
 
-   Reajuste é de 6,79% e também será aplicado em aposentadorias e pensões
-   do INSS no valor do piso
-   24.dez.2025 às 12h19
+   Presidente dos EUA cita Doutrina Monroe em pronunciamento à nação após
+   ataque contra país sul-americano
+   3.jan.2026 às 13h44
+
+   EUA atacam a Venezuela e capturam Nicolás Maduro, que será julgado em
+   Nova York EUA atacam a Venezuela e capturam Nicolás Maduro, que será
+   julgado em Nova York
+
+EUA x Venezuela
+
+   (button) Compartilhar
+   (BUTTON)
+
+     (BUTTON) Salvar para ler depois
+   Salvar artigos (BUTTON)
+
+   Recurso exclusivo para assinantes
+
+   assine ou faça login
+
+EUA atacam a Venezuela e capturam Nicolás Maduro, que será julgado em Nova
+York
+
+   Ofensivas militares ocorrem na capital e em outras três regiões; Trump
+   diz que ditador foi levado para fora do país
+   3.jan.2026 às 5h47
 
    Copyright Folha de S.Paulo. Todos os direitos reservados. É proibida a
    reprodução do conteúdo desta página em qualquer meio de comunicação,
@@ -726,17 +728,16 @@ A Folha integra o
    [ ] Planeta em Transe
    [ ] FolhaJus
    [ ] IE | Como criar hábitos *
-   [ ] Energia Limpa
-   [ ] C-Level
-   [ ] Cuide-se
    [ ] Cercanías
-   [ ] Folha Jogos
+   [ ] Cuide-se
+   [ ] C-Level
+   [ ] Energia Limpa
    [ ] Mônica Bergamo *
    [ ] Painel *
    [ ] Tudo a Ler
+   [ ] Painel S.A. *
    [ ] Folha Carreiras
    [X] Notícias do dia
-   [ ] Painel S.A. *
    [ ] China, terra do meio *
    [ ] Combo
    [ ] Folha Mercado
@@ -747,6 +748,8 @@ A Folha integra o
    [ ] FolhaMed *
    [ ] News from Brazil
    [ ] Noticias de Brasil
+   [ ] EUA x Venezuela
+   [ ] Folha Jogos
    *exclusivo para assinantes
 
    Você também gostaria de:

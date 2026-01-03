@@ -21,10 +21,11 @@ echo -e "<html>
 	<table class = \"table is-bordered is-hoverable is-fullwidth\">
 		<tr class=\"is-link\">
 			<th>Contexte Gauche</th>
-			<th>Mot</th>
+			<th>Pivot</th>
 			<th>Contexte Droit</th>
 		</tr>" >> "../concordance/pt/concordancier$NB_LIGNES.html"
-lynx -dump -nolist ${line} | grep -E -B2 -i "fantasias?" >> "./temp_concordance_gauche$NB_LIGNES.txt"
+l
+ynx -dump -nolist ${line} | grep -E -B2 -i "fantasias?" >> "./temp_concordance_gauche$NB_LIGNES.txt"
 lynx -dump -nolist ${line} | grep -E -A2 -i "fantasias?" >> "./temp_concordance_droite$NB_LIGNES.txt"
 lynx -dump -nolist ${line} | grep -E -i "fantasias?" >> "./temp_mot$NB_LIGNES.txt"
 done

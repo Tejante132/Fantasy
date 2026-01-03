@@ -1,70 +1,71 @@
 
    Menu
      *
-     * Brasil
-          + Lista alfabética de periódicos
-          + Lista temática de periódicos
-          + Busca
-          + Métricas
-          + Sobre o SciELO Brasil
-          + Contatos
-          + Reportar erro
-     * SciELO.org - Rede SciELO
-          + Coleções nacionais e temáticas
-          + Lista alfabética de periódicos
-          + Lista de periódicos por assunto
-          + Busca
-          + Métricas
-          + Acesso OAI e RSS
-          + Sobre a Rede SciELO
-          + Contatos
-     * Blog SciELO em Perspectiva
+     * Brazil
+          + Journal list by title
+          + Journal list by subject area
+          + Search
+          + Metrics
+          + About SciELO Brazil
+          + Contacts
+          + Report error
+     * SciELO.org - The SciELO Network
+          + National and thematic collections
+          + Journal list by title
+          + Journal list by subject
+          + Search
+          + Metrics
+          + OAI and RSS
+          + About the SciELO Network
+          + Contacts
+     * Blog SciELO in Perspective
 
-   Brasil
+   Brazil
    (BUTTON) Psicologia: Teoria e Pesquisa
      * Logomarca do periódico: Psicologia: Teoria e Pesquisa
-     * launch Submissão de manuscritos
-     * info Sobre o periódico
+     * launch Submission of manuscripts
+     * info About the journal
      * help_outline Política editorial
-     * people Corpo Editorial
-     * help_outline Instruções aos autores
-     * email Contato
-     * show_chart Métricas
+     * people Editorial Board
+     * help_outline Instructions to authors
+     * email Contact
+     * show_chart Metrics
 
-   (BUTTON) language pt_BR Português
-     * English
+   (BUTTON) language en English
+     * Português
      * Español
 
    (BUTTON) Psicologia: Teoria e Pesquisa
      * Logomarca do periódico: Psicologia: Teoria e Pesquisa
-     * launch Submissão de manuscritos
-     * info Sobre o periódico
+     * launch Submission of manuscripts
+     * info About the journal
      * help_outline Política editorial
-     * people Corpo Editorial
-     * help_outline Instruções aos autores
-     * email Contato
-     * show_chart Métricas
+     * people Editorial Board
+     * help_outline Instructions to authors
+     * email Contact
+     * show_chart Metrics
 
-   home Sumário navigate_before Anterior Atual Seguinte navigate_next
-   (BUTTON) Resumo
-     * Resumo (Português)
+   home Table of contents navigate_before previous current next
+   navigate_next
+   (BUTTON) Abstract
+     * Abstract (Portuguese)
      *
-     * Resumo (Inglês)
+     * Abstract (English)
      *
 
-   (BUTTON) Texto (PT)
-     * Texto (Português)
+   (BUTTON) Text (PT)
+     * Text (Portuguese)
 
    (BUTTON) PDF
-     * Download PDF (Português)
+     * Download PDF (Portuguese)
 
-   (BUTTON) article Conteúdo: Texto (PT)
-     * Resumo (Português)
+   (BUTTON) article Conteúdo: Text (PT)
+     * Abstract (Portuguese)
      *
-     * Resumo (Inglês)
+     * Abstract (English)
      *
-     * Texto (Português)
-     * Download PDF (Português)
+     * Text (Portuguese)
+     * Download PDF (Portuguese)
 
    (BUTTON) share
      * Whatsapp
@@ -73,7 +74,7 @@
      * Facebook
      * Mais
 
-   home Sumário
+   home Table of contents
    (BUTTON) share
      * Facebook
      * X
@@ -84,17 +85,17 @@
      * CiteULike
      * Mendeley
 
-   (BUTTON) Resumo
-     * Resumo (Português)
+   (BUTTON) Abstract
+     * Abstract (Portuguese)
      *
-     * Resumo (Inglês)
+     * Abstract (English)
      *
 
-   (BUTTON) Texto (PT)
-     * Texto (Português)
+   (BUTTON) Text (PT)
+     * Text (Portuguese)
 
    (BUTTON) PDF
-     * Download PDF (Português)
+     * Download PDF (Portuguese)
 
    Psicologia Clínica e Cultura • Psic.: Teor. e Pesq. 33 • 2017 •
    https://doi.org/10.1590/0102.3772e33419 linkcopiar
@@ -1183,15 +1184,16 @@ Como citar
    Psicologia, Universidade de Brasília, 70910-900 - Brasília - DF -
    Brazil, Tel./Fax: (061) 274-6455 - Brasília - DF - Brazil
    E-mail: revistaptp@gmail.com
-   rss_feed Acompanhe os números deste periódico no seu leitor de RSS
+   rss_feed Stay informed of issues for this journal through your RSS
+   reader
 
-Versão para download de PDF
+PDF version for download
 
    (BUTTON)
    PDF
-     * Português
+     * Portuguese
 
-Artigos relacionados
+Related articles
 
    (BUTTON)
      * Google
@@ -1233,9 +1235,9 @@ Como citar
    FAP-UNIFESP
    CAPES CNPq FAPESP BVS BIREME FAP-UNIFESP
 
-   Open Access Leia a Declaração de Acesso Aberto
+   Open Access Read our Open Access Statement
 
-Métricas
+Metrics
 
    (BUTTON)
    SciELO Analytics
@@ -1248,10 +1250,10 @@ Métricas
 
    (BUTTON) ×Close
 
-Mensagem
+Message
 
    (BUTTON) ×Close
 
-Mensagem
+Message
 
-   Reportar erro
+   Report error

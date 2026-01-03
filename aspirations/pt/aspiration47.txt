@@ -196,7 +196,7 @@ var woocommerce_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://c0.wp.com/p/woocommerce/10.4.3/assets/js/frontend/woocommerce.min.js" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
-<script type="text/javascript" src="https://stats.wp.com/s-202552.js" id="woocommerce-analytics-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://stats.wp.com/s-202601.js" id="woocommerce-analytics-js" defer="defer" data-wp-strategy="defer"></script>
 <link rel="https://api.w.org/" href="https://www.psicologiamsn.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.psicologiamsn.com/wp-json/wp/v2/posts/9987" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.psicologiamsn.com/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.9" />
 <meta name="generator" content="WooCommerce 10.4.3" />
@@ -407,7 +407,7 @@ body.custom-background { background-color: #ffffff; }
 				href="mailto:?subject=%5BPost%20compartilhado%5D%20A%20percep%C3%A7%C3%A3o%2C%20mem%C3%B3ria%2C%20fantasia%2C%20empatia%20e%20sonhos%20para%20Adler&#038;body=https%3A%2F%2Fwww.psicologiamsn.com%2F2014%2F08%2Fpercepcao-memoria-fantasia-empatia-e-sonhos-para-adler.html&#038;share=email"
 				target="_blank"
 				aria-labelledby="sharing-email-9987"
-				data-email-share-error-title="Você tem algum e-mail configurado?" data-email-share-error-text="Se você está tendo problemas para compartilhar por e-mail, é possível que você não tenha configurado o e-mail para seu navegador. Talvez seja necessário você mesmo criar um novo e-mail." data-email-share-nonce="387b1fc2c3" data-email-share-track-url="https://www.psicologiamsn.com/2014/08/percepcao-memoria-fantasia-empatia-e-sonhos-para-adler.html?share=email">
+				data-email-share-error-title="Você tem algum e-mail configurado?" data-email-share-error-text="Se você está tendo problemas para compartilhar por e-mail, é possível que você não tenha configurado o e-mail para seu navegador. Talvez seja necessário você mesmo criar um novo e-mail." data-email-share-nonce="58af55c6df" data-email-share-track-url="https://www.psicologiamsn.com/2014/08/percepcao-memoria-fantasia-empatia-e-sonhos-para-adler.html?share=email">
 				<span id="sharing-email-9987" hidden>Clique para enviar um link por e-mail para um amigo(abre em nova janela)</span>
 				<span>E-mail</span>
 			</a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer"
@@ -589,7 +589,7 @@ Felipe de Souza</p>
 <p class="comment-form-url"><label for="url">Site</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" autocomplete="url" /></p>
 <p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">Notifique-me sobre novos comentários por e-mail.</label></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Notifique-me sobre novas publicações por e-mail.</label></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit et_pb_button" value="Enviar Comentário" /> <input type='hidden' name='comment_post_ID' value='9987' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="a92ece6392" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="39"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="b08d5f9402" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="175"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	<p class="akismet_comment_form_privacy_notice">Este site utiliza o Akismet para reduzir spam. <a href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Saiba como seus dados em comentários são processados</a>.</p>	</section>					</div>
 				</article>
 
@@ -627,7 +627,7 @@ Felipe de Souza</p>
 						<input type="hidden" name="source" value="https://www.psicologiamsn.com/2014/08/percepcao-memoria-fantasia-empatia-e-sonhos-para-adler.html"/>
 						<input type="hidden" name="sub-type" value="widget"/>
 						<input type="hidden" name="redirect_fragment" value="subscribe-blog-blog_subscription-9"/>
-						<input type="hidden" id="_wpnonce" name="_wpnonce" value="cd9ba2d968" /><input type="hidden" name="_wp_http_referer" value="/2014/08/percepcao-memoria-fantasia-empatia-e-sonhos-para-adler.html" />						<button type="submit"
+						<input type="hidden" id="_wpnonce" name="_wpnonce" value="bae0294c59" /><input type="hidden" name="_wp_http_referer" value="/2014/08/percepcao-memoria-fantasia-empatia-e-sonhos-para-adler.html" />						<button type="submit"
 															class="wp-block-button__link"
 																					name="jetpack_subscriptions_widget"
 						>
@@ -674,7 +674,7 @@ Felipe de Souza</p>
 									</li>
 					</ul>
 
-		</div><div id="top-posts-4" class="et_pb_widget widget_top-posts"><h4 class="widgettitle">Posts &amp; páginas populares</h4><ul><li><a href="https://www.psicologiamsn.com/2014/09/100-frases-da-psicologia-que-voce-deve-conhecer.html" class="bump-view" data-bump-view="tp">100 Frases da Psicologia que você deve conhecer</a></li><li><a href="https://www.psicologiamsn.com/2017/08/comunicacao-nao-violenta-lista-de-sentimentos.html" class="bump-view" data-bump-view="tp">Comunicação Não-Violenta: Lista de Sentimentos</a></li><li><a href="https://www.psicologiamsn.com/2017/07/cnv-comunicacao-nao-violenta-lista-de-necessidades-humanas-universais.html" class="bump-view" data-bump-view="tp">CNV – Comunicação Não Violenta – Lista de Necessidades Humanas Universais</a></li><li><a href="https://www.psicologiamsn.com/2016/11/criticas-a-terapia-cognitivo-comportamental.html" class="bump-view" data-bump-view="tp">6 Críticas à Terapia Cognitivo-Comportamental - Terapia do Esquema</a></li><li><a href="https://www.psicologiamsn.com/2023/08/como-lidar-com-as-emocoes-terapia-cognitivo-comportamental.html" class="bump-view" data-bump-view="tp">Como lidar com as emoções? - Terapia Cognitivo Comportamental</a></li><li><a href="https://www.psicologiamsn.com/2014/07/10-sinais-de-que-o-profissional-da-psicologia-nao-e-bom.html" class="bump-view" data-bump-view="tp">10 sinais de que o profissional da psicologia não é bom</a></li><li><a href="https://www.psicologiamsn.com/2014/08/5-passos-para-lidar-lidar-com-as-criticas-realmente-pesadas.html" class="bump-view" data-bump-view="tp">5 Passos para lidar com as críticas realmente pesadas</a></li><li><a href="https://www.psicologiamsn.com/2013/09/a-importancia-da-estatistica-para-a-psicologia.html" class="bump-view" data-bump-view="tp">A importância da estatística para a psicologia</a></li><li><a href="https://www.psicologiamsn.com/2014/06/livros-e-psicologia-100-livros-para-quem-ama-literatura-e-psicologia.html" class="bump-view" data-bump-view="tp">Livros e Psicologia: 100 Livros para quem ama Psicologia</a></li><li><a href="https://www.psicologiamsn.com/2014/04/23-imagens-incomodas-para-quem-tem-toc.html" class="bump-view" data-bump-view="tp">23 imagens incômodas para quem tem TOC</a></li></ul></div><div id="media_image-25" class="et_pb_widget widget_media_image"><h4 class="widgettitle">Mindfulness Online</h4><a href="http://www.felipedesouza.com.br/programa-de-8-semanas-de-mindfulness-online-individual/" target="_blank"><img width="128" height="85" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/12/bigstock-webinarjam.jpeg?fit=128%2C85&amp;ssl=1" class="image wp-image-14101 alignnone attachment-0x0 size-0x0" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/12/bigstock-webinarjam.jpeg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/12/bigstock-webinarjam.jpeg?resize=510%2C340&amp;ssl=1 510w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/12/bigstock-webinarjam.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/12/bigstock-webinarjam.jpeg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/12/bigstock-webinarjam.jpeg?resize=1080%2C721&amp;ssl=1 1080w" sizes="auto, (max-width: 128px) 100vw, 128px" /></a></div><div id="nav_menu-5" class="et_pb_widget widget_nav_menu"><div class="menu-sidebar-categorias-container"><ul id="menu-sidebar-categorias" class="menu"><li id="menu-item-10702" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10702"><a href="https://www.psicologiamsn.com/categorias/comportamento">Comportamento</a></li>
+		</div><div id="top-posts-4" class="et_pb_widget widget_top-posts"><h4 class="widgettitle">Posts &amp; páginas populares</h4><ul><li><a href="https://www.psicologiamsn.com/2014/09/100-frases-da-psicologia-que-voce-deve-conhecer.html" class="bump-view" data-bump-view="tp">100 Frases da Psicologia que você deve conhecer</a></li><li><a href="https://www.psicologiamsn.com/2017/08/comunicacao-nao-violenta-lista-de-sentimentos.html" class="bump-view" data-bump-view="tp">Comunicação Não-Violenta: Lista de Sentimentos</a></li><li><a href="https://www.psicologiamsn.com/2015/10/8-periodos-do-desenvolvimento-humano-psicologia.html" class="bump-view" data-bump-view="tp">8 Períodos do Desenvolvimento Humano - Psicologia</a></li><li><a href="https://www.psicologiamsn.com/2017/07/cnv-comunicacao-nao-violenta-lista-de-necessidades-humanas-universais.html" class="bump-view" data-bump-view="tp">CNV – Comunicação Não Violenta – Lista de Necessidades Humanas Universais</a></li><li><a href="https://www.psicologiamsn.com/2014/03/curso-de-psicologia-analitica-de-jung-online-gratis.html" class="bump-view" data-bump-view="tp">Curso de Psicologia Analítica de Jung Online Grátis</a></li><li><a href="https://www.psicologiamsn.com/2014/04/genogramas-o-que-sao-e-como-fazer.html" class="bump-view" data-bump-view="tp">Genogramas: o que são e como fazer?</a></li><li><a href="https://www.psicologiamsn.com/2013/07/como-descobrir-seu-talento-profissional.html" class="bump-view" data-bump-view="tp">Como descobrir seu talento profissional?</a></li><li><a href="https://www.psicologiamsn.com/2025/08/nova-comunidade-sobre-psicologia-no-whatsapp-gratuito.html" class="bump-view" data-bump-view="tp">Nova Comunidade sobre Psicologia no WhatsApp - Gratuito</a></li><li><a href="https://www.psicologiamsn.com/2014/04/23-imagens-incomodas-para-quem-tem-toc.html" class="bump-view" data-bump-view="tp">23 imagens incômodas para quem tem TOC</a></li><li><a href="https://www.psicologiamsn.com/2013/10/psicologia-cinema-215-filmes-para-quem-ama-psicologia.html" class="bump-view" data-bump-view="tp">Psicologia e Cinema: 215 Filmes para quem ama psicologia</a></li></ul></div><div id="media_image-25" class="et_pb_widget widget_media_image"><h4 class="widgettitle">Mindfulness Online</h4><a href="http://www.felipedesouza.com.br/programa-de-8-semanas-de-mindfulness-online-individual/" target="_blank"><img width="128" height="85" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/12/bigstock-webinarjam.jpeg?fit=128%2C85&amp;ssl=1" class="image wp-image-14101 alignnone attachment-0x0 size-0x0" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/12/bigstock-webinarjam.jpeg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/12/bigstock-webinarjam.jpeg?resize=510%2C340&amp;ssl=1 510w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/12/bigstock-webinarjam.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/12/bigstock-webinarjam.jpeg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/12/bigstock-webinarjam.jpeg?resize=1080%2C721&amp;ssl=1 1080w" sizes="auto, (max-width: 128px) 100vw, 128px" /></a></div><div id="nav_menu-5" class="et_pb_widget widget_nav_menu"><div class="menu-sidebar-categorias-container"><ul id="menu-sidebar-categorias" class="menu"><li id="menu-item-10702" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10702"><a href="https://www.psicologiamsn.com/categorias/comportamento">Comportamento</a></li>
 <li id="menu-item-10704" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10704"><a href="https://www.psicologiamsn.com/categorias/dicas-praticas">Dicas Práticas</a></li>
 <li id="menu-item-10705" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10705"><a href="https://www.psicologiamsn.com/categorias/dinheiro-e-profissao">Dinheiro e Profissão</a></li>
 <li id="menu-item-10706" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10706"><a href="https://www.psicologiamsn.com/categorias/relacionamentos">Relacionamentos</a></li>
@@ -687,51 +687,6 @@ Felipe de Souza</p>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13911"><a href="https://wa.me/message/7SVPIILZVCY6C1">Sessões Online</a></li>
 </ul></div></div><div id="woocommerce_products-2" class="et_pb_widget woocommerce widget_products"><h4 class="widgettitle">Loja de Cursos e Ebooks</h4><ul class="product_list_widget"><li>
 	
-	<a href="https://www.psicologiamsn.com/produto/curso-alem-do-principio-do-prazer-freud">
-		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/07/poster_freud_andretoma_01.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Além do Princípio do Prazer - Freud" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/07/poster_freud_andretoma_01.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/07/poster_freud_andretoma_01.jpg?resize=400%2C400&amp;ssl=1 400w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Curso Além do Princípio do Prazer - Freud</span>
-	</a>
-
-				
-	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>150.00</bdi></span></del> <span class="screen-reader-text">O preço original era: &#082;&#036;150.00.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>100.00</bdi></span></ins><span class="screen-reader-text">O preço atual é: &#082;&#036;100.00.</span>
-	</li>
-<li>
-	
-	<a href="https://www.psicologiamsn.com/produto/ebook-curso-de-psicologia">
-		<img width="225" height="225" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/ebook-curso-psicologia.png?resize=225%2C225&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook - Curso de Psicologia" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/ebook-curso-psicologia.png?w=225&amp;ssl=1 225w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/ebook-curso-psicologia.png?resize=100%2C100&amp;ssl=1 100w" sizes="auto, (max-width: 225px) 100vw, 225px" />		<span class="product-title">Ebook - Curso de Psicologia</span>
-	</a>
-
-				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
-	</li>
-<li>
-	
-	<a href="https://www.psicologiamsn.com/produto/o-livro-vermelho-de-jung">
-		<img width="346" height="346" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/10/51OpR8f7qOL._AA324_PIkin4BottomRight-6022_AA346_SH20_OU32_.jpg?resize=346%2C346&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook: O Livro Vermelho de Jung" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/10/51OpR8f7qOL._AA324_PIkin4BottomRight-6022_AA346_SH20_OU32_.jpg?w=346&amp;ssl=1 346w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/10/51OpR8f7qOL._AA324_PIkin4BottomRight-6022_AA346_SH20_OU32_.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/10/51OpR8f7qOL._AA324_PIkin4BottomRight-6022_AA346_SH20_OU32_.jpg?resize=100%2C100&amp;ssl=1 100w" sizes="auto, (max-width: 346px) 100vw, 346px" />		<span class="product-title">Ebook: O Livro Vermelho de Jung</span>
-	</a>
-
-				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>24.99</bdi></span>
-	</li>
-<li>
-	
-	<a href="https://www.psicologiamsn.com/produto/ebook-curso-de-psicologia-analitica-de-jung">
-		<img width="332" height="399" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/hardcoverjacket.jpg?resize=332%2C399&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook Curso de Psicologia Analítica de Jung" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/hardcoverjacket.jpg?w=332&amp;ssl=1 332w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/hardcoverjacket.jpg?resize=249%2C300&amp;ssl=1 249w" sizes="auto, (max-width: 332px) 100vw, 332px" />		<span class="product-title">Ebook Curso de Psicologia Analítica de Jung</span>
-	</a>
-
-				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
-	</li>
-<li>
-	
-	<a href="https://www.psicologiamsn.com/produto/curso-freud-o-ego-e-o-id">
-		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2016/09/image3.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Freud: O Ego e o Id" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2016/09/image3.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2016/09/image3.jpg?resize=100%2C100&amp;ssl=1 100w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Curso Freud: O Ego e o Id</span>
-	</a>
-
-				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>100.00</bdi></span>
-	</li>
-<li>
-	
 	<a href="https://www.psicologiamsn.com/produto/coaching-online-coaching-de-vida-life-coach">
 		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2020/07/2E094B57-E7D4-4018-AADB-0D2050352532.jpeg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Coaching Online - Coaching de Vida - Life Coach" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2020/07/2E094B57-E7D4-4018-AADB-0D2050352532.jpeg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2020/07/2E094B57-E7D4-4018-AADB-0D2050352532.jpeg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2020/07/2E094B57-E7D4-4018-AADB-0D2050352532.jpeg?zoom=2&amp;resize=400%2C400 800w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Coaching Online - Coaching de Vida - Life Coach</span>
 	</a>
@@ -741,71 +696,17 @@ Felipe de Souza</p>
 	</li>
 <li>
 	
-	<a href="https://www.psicologiamsn.com/produto/ebook-como-sobreviver-ao-tcc">
-		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/10/tcc.png?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook - Como sobreviver ao TCC" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/10/tcc.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/10/tcc.png?resize=400%2C400&amp;ssl=1 400w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Ebook - Como sobreviver ao TCC</span>
-	</a>
-
-				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
-	</li>
-<li>
-	
-	<a href="https://www.psicologiamsn.com/produto/ebook-psicologia-e-educacao-infantil">
-		<img width="300" height="257" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/10/168318604.jpg?resize=300%2C257&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook - Psicologia e Educação Infantil" decoding="async" loading="lazy" />		<span class="product-title">Ebook - Psicologia e Educação Infantil</span>
-	</a>
-
-				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
-	</li>
-<li>
-	
-	<a href="https://www.psicologiamsn.com/produto/curso-jung-estudos-psiquiatricos">
-		<img width="225" height="225" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/cursojung-volume1.png?resize=225%2C225&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Jung - Estudos Psiquiátricos" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/cursojung-volume1.png?w=225&amp;ssl=1 225w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/cursojung-volume1.png?resize=100%2C100&amp;ssl=1 100w" sizes="auto, (max-width: 225px) 100vw, 225px" />		<span class="product-title">Curso Jung - Estudos Psiquiátricos</span>
+	<a href="https://www.psicologiamsn.com/produto/curso-freud-interpretacao-dos-sonhos">
+		<img width="225" height="225" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/04/freud-interpreta%C3%A7%C3%A3o-dos-sonhos-e1403894305857.jpg?resize=225%2C225&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Freud - A Interpretação dos Sonhos" decoding="async" loading="lazy" />		<span class="product-title">Curso Freud - A Interpretação dos Sonhos</span>
 	</a>
 
 				
 	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>150.00</bdi></span></del> <span class="screen-reader-text">O preço original era: &#082;&#036;150.00.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>100.00</bdi></span></ins><span class="screen-reader-text">O preço atual é: &#082;&#036;100.00.</span>
-	</li>
-<li>
-	
-	<a href="https://www.psicologiamsn.com/produto/ebook-como-falar-em-publico-em-10-licoes">
-		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/09/curso-como-falar-em-publico.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook - Como Falar em Público em 10 Lições" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/09/curso-como-falar-em-publico.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/09/curso-como-falar-em-publico.jpg?resize=400%2C400&amp;ssl=1 400w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Ebook - Como Falar em Público em 10 Lições</span>
-	</a>
-
-				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
-	</li>
-<li>
-	
-	<a href="https://www.psicologiamsn.com/produto/curso-aprofundado-act">
-		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Aprofundado ACT" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?w=1080&amp;ssl=1 1080w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?resize=980%2C980&amp;ssl=1 980w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?resize=480%2C480&amp;ssl=1 480w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?resize=510%2C510&amp;ssl=1 510w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?resize=100%2C100&amp;ssl=1 100w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Curso Aprofundado ACT</span>
-	</a>
-
-				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>200.00</bdi></span>
 	</li>
 <li>
 	
 	<a href="https://www.psicologiamsn.com/produto/curso-jung-tipos-psicologicos">
 		<img width="225" height="224" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/curso-jung-tipos-psicologicos.png?resize=225%2C224&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Jung - Tipos Psicológicos" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/curso-jung-tipos-psicologicos.png?w=225&amp;ssl=1 225w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/curso-jung-tipos-psicologicos.png?resize=100%2C100&amp;ssl=1 100w" sizes="auto, (max-width: 225px) 100vw, 225px" />		<span class="product-title">Curso Jung - Tipos Psicológicos</span>
-	</a>
-
-				
-	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>150.00</bdi></span></del> <span class="screen-reader-text">O preço original era: &#082;&#036;150.00.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>100.00</bdi></span></ins><span class="screen-reader-text">O preço atual é: &#082;&#036;100.00.</span>
-	</li>
-<li>
-	
-	<a href="https://www.psicologiamsn.com/produto/4-ferramentas-de-coaching">
-		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/12/Ferramentas-Coaching.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="4 Ferramentas de Coaching - Vídeos e PDF" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/12/Ferramentas-Coaching.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/12/Ferramentas-Coaching.jpg?resize=400%2C400&amp;ssl=1 400w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">4 Ferramentas de Coaching - Vídeos e PDF</span>
-	</a>
-
-				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>87.00</bdi></span>
-	</li>
-<li>
-	
-	<a href="https://www.psicologiamsn.com/produto/curso-tres-ensaios-sobre-sexualidade">
-		<img width="305" height="392" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/quadro-de-sigmund-freud-psiquiatra.jpg?resize=305%2C392&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Três Ensaios sobre a Sexualidade" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/quadro-de-sigmund-freud-psiquiatra.jpg?w=305&amp;ssl=1 305w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/quadro-de-sigmund-freud-psiquiatra.jpg?resize=233%2C300&amp;ssl=1 233w" sizes="auto, (max-width: 305px) 100vw, 305px" />		<span class="product-title">Curso Três Ensaios sobre a Sexualidade</span>
 	</a>
 
 				
@@ -822,17 +723,8 @@ Felipe de Souza</p>
 	</li>
 <li>
 	
-	<a href="https://www.psicologiamsn.com/produto/ebook-curso-contacao-de-historias">
-		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/paperbackstanding2_693x872.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook - Curso Contação de Histórias" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/paperbackstanding2_693x872.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/paperbackstanding2_693x872.jpg?resize=400%2C400&amp;ssl=1 400w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Ebook - Curso Contação de Histórias</span>
-	</a>
-
-				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
-	</li>
-<li>
-	
-	<a href="https://www.psicologiamsn.com/produto/curso-freud-interpretacao-dos-sonhos">
-		<img width="225" height="225" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/04/freud-interpreta%C3%A7%C3%A3o-dos-sonhos-e1403894305857.jpg?resize=225%2C225&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Freud - A Interpretação dos Sonhos" decoding="async" loading="lazy" />		<span class="product-title">Curso Freud - A Interpretação dos Sonhos</span>
+	<a href="https://www.psicologiamsn.com/produto/curso-psicologia-da-educacao-skinner">
+		<img width="300" height="297" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2016/06/skinner2-300x297.jpg?resize=300%2C297&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Psicologia da Educação - Skinner" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2016/06/skinner2-300x297.jpg?resize=300%2C297&amp;ssl=1 300w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2016/06/skinner2-300x297.jpg?resize=100%2C100&amp;ssl=1 100w" sizes="auto, (max-width: 300px) 100vw, 300px" />		<span class="product-title">Curso Psicologia da Educação - Skinner</span>
 	</a>
 
 				
@@ -849,12 +741,75 @@ Felipe de Souza</p>
 	</li>
 <li>
 	
-	<a href="https://www.psicologiamsn.com/produto/ebook-curso-de-pnl-programacao-neurolinguistica">
-		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/hardcoverjacket-3.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook - Curso de PNL - Programação Neurolinguistica" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/hardcoverjacket-3.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/hardcoverjacket-3.jpg?resize=400%2C400&amp;ssl=1 400w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Ebook - Curso de PNL - Programação Neurolinguistica</span>
+	<a href="https://www.psicologiamsn.com/produto/dsm-5-introducao-e-principais-modificacoes-dsm-iv">
+		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/08/foto-3.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="DSM-5: Introdução e Principais Modificações do DSM-IV" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/08/foto-3.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/08/foto-3.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/08/foto-3.jpg?zoom=2&amp;resize=400%2C400 800w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/08/foto-3.jpg?zoom=3&amp;resize=400%2C400 1200w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">DSM-5: Introdução e Principais Modificações do DSM-IV</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>220.00</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/ebook-curso-de-psicologia">
+		<img width="225" height="225" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/ebook-curso-psicologia.png?resize=225%2C225&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook - Curso de Psicologia" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/ebook-curso-psicologia.png?w=225&amp;ssl=1 225w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/ebook-curso-psicologia.png?resize=100%2C100&amp;ssl=1 100w" sizes="auto, (max-width: 225px) 100vw, 225px" />		<span class="product-title">Ebook - Curso de Psicologia</span>
 	</a>
 
 				
 	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/site-completo-para-psicologos">
+		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/elegantthemes-variety.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Site Completo para Psicólogos" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/elegantthemes-variety.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/elegantthemes-variety.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/elegantthemes-variety.jpg?zoom=2&amp;resize=400%2C400 800w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Site Completo para Psicólogos</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>2,200.00</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/ebook-psicologia-faculdade-e-carreira-principais-duvidas">
+		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/10/duvidas-carreira.png?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook - Psicologia: Faculdade e Carreira - Principais Dúvidas" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/10/duvidas-carreira.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/10/duvidas-carreira.png?resize=400%2C400&amp;ssl=1 400w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Ebook - Psicologia: Faculdade e Carreira - Principais Dúvidas</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/ebook-como-sobreviver-ao-tcc">
+		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/10/tcc.png?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook - Como sobreviver ao TCC" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/10/tcc.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/10/tcc.png?resize=400%2C400&amp;ssl=1 400w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Ebook - Como sobreviver ao TCC</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/ebook-curso-de-psicologia-analitica-de-jung">
+		<img width="332" height="399" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/hardcoverjacket.jpg?resize=332%2C399&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook Curso de Psicologia Analítica de Jung" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/hardcoverjacket.jpg?w=332&amp;ssl=1 332w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/hardcoverjacket.jpg?resize=249%2C300&amp;ssl=1 249w" sizes="auto, (max-width: 332px) 100vw, 332px" />		<span class="product-title">Ebook Curso de Psicologia Analítica de Jung</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/ebook-psicologia-e-educacao-infantil">
+		<img width="300" height="257" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/10/168318604.jpg?resize=300%2C257&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook - Psicologia e Educação Infantil" decoding="async" loading="lazy" />		<span class="product-title">Ebook - Psicologia e Educação Infantil</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/curso-freud-psicopatologia-da-vida-cotidiana">
+		<img width="244" height="250" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/sigmund-freud4.jpg?resize=244%2C250&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso os Atos Falhos para Freud - Psicopatologia da Vida Cotidiana" decoding="async" loading="lazy" />		<span class="product-title">Curso os Atos Falhos para Freud - Psicopatologia da Vida Cotidiana</span>
+	</a>
+
+				
+	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>150.00</bdi></span></del> <span class="screen-reader-text">O preço original era: &#082;&#036;150.00.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>100.00</bdi></span></ins><span class="screen-reader-text">O preço atual é: &#082;&#036;100.00.</span>
 	</li>
 <li>
 	
@@ -876,53 +831,17 @@ Felipe de Souza</p>
 	</li>
 <li>
 	
-	<a href="https://www.psicologiamsn.com/produto/site-completo-para-psicologos">
-		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/elegantthemes-variety.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Site Completo para Psicólogos" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/elegantthemes-variety.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/elegantthemes-variety.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/elegantthemes-variety.jpg?zoom=2&amp;resize=400%2C400 800w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Site Completo para Psicólogos</span>
+	<a href="https://www.psicologiamsn.com/produto/curso-jung-estudos-psiquiatricos">
+		<img width="225" height="225" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/cursojung-volume1.png?resize=225%2C225&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Jung - Estudos Psiquiátricos" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/cursojung-volume1.png?w=225&amp;ssl=1 225w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/cursojung-volume1.png?resize=100%2C100&amp;ssl=1 100w" sizes="auto, (max-width: 225px) 100vw, 225px" />		<span class="product-title">Curso Jung - Estudos Psiquiátricos</span>
 	</a>
 
 				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>2,200.00</bdi></span>
+	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>150.00</bdi></span></del> <span class="screen-reader-text">O preço original era: &#082;&#036;150.00.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>100.00</bdi></span></ins><span class="screen-reader-text">O preço atual é: &#082;&#036;100.00.</span>
 	</li>
 <li>
 	
 	<a href="https://www.psicologiamsn.com/produto/curso-jung-estudos-experimentais">
 		<img width="250" height="250" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/jung-curso-estudos-experimentais.png?resize=250%2C250&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Jung - Estudos Experimentais" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/jung-curso-estudos-experimentais.png?w=250&amp;ssl=1 250w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/jung-curso-estudos-experimentais.png?resize=100%2C100&amp;ssl=1 100w" sizes="auto, (max-width: 250px) 100vw, 250px" />		<span class="product-title">Curso Jung - Estudos Experimentais</span>
-	</a>
-
-				
-	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>150.00</bdi></span></del> <span class="screen-reader-text">O preço original era: &#082;&#036;150.00.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>100.00</bdi></span></ins><span class="screen-reader-text">O preço atual é: &#082;&#036;100.00.</span>
-	</li>
-<li>
-	
-	<a href="https://www.psicologiamsn.com/produto/curso-skinner-comportamento-verbal">
-		<img width="360" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2016/01/55376_625.jpg?resize=360%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Skinner - Comportamento Verbal" decoding="async" loading="lazy" />		<span class="product-title">Curso Skinner - Comportamento Verbal</span>
-	</a>
-
-				
-	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>150.00</bdi></span></del> <span class="screen-reader-text">O preço original era: &#082;&#036;150.00.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>100.00</bdi></span></ins><span class="screen-reader-text">O preço atual é: &#082;&#036;100.00.</span>
-	</li>
-<li>
-	
-	<a href="https://www.psicologiamsn.com/produto/ebook-curso-de-psicologia-comportamental">
-		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/psicologia-empresas-sigilo.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook Curso de Psicologia Comportamental" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/psicologia-empresas-sigilo.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/psicologia-empresas-sigilo.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/psicologia-empresas-sigilo.jpg?zoom=2&amp;resize=400%2C400 800w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Ebook Curso de Psicologia Comportamental</span>
-	</a>
-
-				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
-	</li>
-<li>
-	
-	<a href="https://www.psicologiamsn.com/produto/ebook-curso-psicologia-da-persuasao">
-		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/11/fofoca-psicologia.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook - Curso Psicologia da Persuasão" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/11/fofoca-psicologia.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/11/fofoca-psicologia.jpg?resize=400%2C400&amp;ssl=1 400w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Ebook - Curso Psicologia da Persuasão</span>
-	</a>
-
-				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
-	</li>
-<li>
-	
-	<a href="https://www.psicologiamsn.com/produto/curso-skinner-sobre-o-behaviorismo">
-		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/09/60422_4.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Skinner - Sobre o behaviorismo" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/09/60422_4.jpg?w=500&amp;ssl=1 500w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/09/60422_4.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/09/60422_4.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/09/60422_4.jpg?resize=450%2C450&amp;ssl=1 450w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/09/60422_4.jpg?resize=300%2C300&amp;ssl=1 300w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Curso Skinner - Sobre o behaviorismo</span>
 	</a>
 
 				
@@ -939,12 +858,30 @@ Felipe de Souza</p>
 	</li>
 <li>
 	
-	<a href="https://www.psicologiamsn.com/produto/curso-psicologia-da-educacao-skinner">
-		<img width="300" height="297" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2016/06/skinner2-300x297.jpg?resize=300%2C297&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Psicologia da Educação - Skinner" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2016/06/skinner2-300x297.jpg?resize=300%2C297&amp;ssl=1 300w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2016/06/skinner2-300x297.jpg?resize=100%2C100&amp;ssl=1 100w" sizes="auto, (max-width: 300px) 100vw, 300px" />		<span class="product-title">Curso Psicologia da Educação - Skinner</span>
+	<a href="https://www.psicologiamsn.com/produto/curso-psicologia-cognitiva-dos-transtornos-de-ansiedade">
+		<img width="226" height="223" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/curso-ansiedade.png?resize=226%2C223&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso - Psicologia Cognitiva dos Transtornos de Ansiedade" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/curso-ansiedade.png?w=226&amp;ssl=1 226w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/curso-ansiedade.png?resize=100%2C100&amp;ssl=1 100w" sizes="auto, (max-width: 226px) 100vw, 226px" />		<span class="product-title">Curso - Psicologia Cognitiva dos Transtornos de Ansiedade</span>
 	</a>
 
 				
 	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>150.00</bdi></span></del> <span class="screen-reader-text">O preço original era: &#082;&#036;150.00.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>100.00</bdi></span></ins><span class="screen-reader-text">O preço atual é: &#082;&#036;100.00.</span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/curso-alem-do-principio-do-prazer-freud">
+		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/07/poster_freud_andretoma_01.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Além do Princípio do Prazer - Freud" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/07/poster_freud_andretoma_01.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/07/poster_freud_andretoma_01.jpg?resize=400%2C400&amp;ssl=1 400w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Curso Além do Princípio do Prazer - Freud</span>
+	</a>
+
+				
+	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>150.00</bdi></span></del> <span class="screen-reader-text">O preço original era: &#082;&#036;150.00.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>100.00</bdi></span></ins><span class="screen-reader-text">O preço atual é: &#082;&#036;100.00.</span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/curso-aprofundado-act">
+		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Aprofundado ACT" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?w=1080&amp;ssl=1 1080w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?resize=980%2C980&amp;ssl=1 980w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?resize=480%2C480&amp;ssl=1 480w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?resize=510%2C510&amp;ssl=1 510w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2024/09/Curso-Aprofundado-ACT.png?resize=100%2C100&amp;ssl=1 100w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Curso Aprofundado ACT</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>200.00</bdi></span>
 	</li>
 <li>
 	
@@ -957,17 +894,8 @@ Felipe de Souza</p>
 	</li>
 <li>
 	
-	<a href="https://www.psicologiamsn.com/produto/dsm-5-introducao-e-principais-modificacoes-dsm-iv">
-		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/08/foto-3.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="DSM-5: Introdução e Principais Modificações do DSM-IV" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/08/foto-3.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/08/foto-3.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/08/foto-3.jpg?zoom=2&amp;resize=400%2C400 800w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/08/foto-3.jpg?zoom=3&amp;resize=400%2C400 1200w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">DSM-5: Introdução e Principais Modificações do DSM-IV</span>
-	</a>
-
-				
-	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>220.00</bdi></span>
-	</li>
-<li>
-	
-	<a href="https://www.psicologiamsn.com/produto/curso-psicologia-cognitiva-dos-transtornos-de-ansiedade">
-		<img width="226" height="223" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/curso-ansiedade.png?resize=226%2C223&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso - Psicologia Cognitiva dos Transtornos de Ansiedade" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/curso-ansiedade.png?w=226&amp;ssl=1 226w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/curso-ansiedade.png?resize=100%2C100&amp;ssl=1 100w" sizes="auto, (max-width: 226px) 100vw, 226px" />		<span class="product-title">Curso - Psicologia Cognitiva dos Transtornos de Ansiedade</span>
+	<a href="https://www.psicologiamsn.com/produto/curso-skinner-comportamento-verbal">
+		<img width="360" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2016/01/55376_625.jpg?resize=360%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Skinner - Comportamento Verbal" decoding="async" loading="lazy" />		<span class="product-title">Curso Skinner - Comportamento Verbal</span>
 	</a>
 
 				
@@ -975,8 +903,8 @@ Felipe de Souza</p>
 	</li>
 <li>
 	
-	<a href="https://www.psicologiamsn.com/produto/curso-freud-psicopatologia-da-vida-cotidiana">
-		<img width="244" height="250" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/sigmund-freud4.jpg?resize=244%2C250&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso os Atos Falhos para Freud - Psicopatologia da Vida Cotidiana" decoding="async" loading="lazy" />		<span class="product-title">Curso os Atos Falhos para Freud - Psicopatologia da Vida Cotidiana</span>
+	<a href="https://www.psicologiamsn.com/produto/curso-tres-ensaios-sobre-sexualidade">
+		<img width="305" height="392" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/quadro-de-sigmund-freud-psiquiatra.jpg?resize=305%2C392&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Três Ensaios sobre a Sexualidade" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/quadro-de-sigmund-freud-psiquiatra.jpg?w=305&amp;ssl=1 305w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/quadro-de-sigmund-freud-psiquiatra.jpg?resize=233%2C300&amp;ssl=1 233w" sizes="auto, (max-width: 305px) 100vw, 305px" />		<span class="product-title">Curso Três Ensaios sobre a Sexualidade</span>
 	</a>
 
 				
@@ -984,12 +912,84 @@ Felipe de Souza</p>
 	</li>
 <li>
 	
-	<a href="https://www.psicologiamsn.com/produto/ebook-psicologia-faculdade-e-carreira-principais-duvidas">
-		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/10/duvidas-carreira.png?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook - Psicologia: Faculdade e Carreira - Principais Dúvidas" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/10/duvidas-carreira.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/10/duvidas-carreira.png?resize=400%2C400&amp;ssl=1 400w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Ebook - Psicologia: Faculdade e Carreira - Principais Dúvidas</span>
+	<a href="https://www.psicologiamsn.com/produto/ebook-curso-de-psicologia-comportamental">
+		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/psicologia-empresas-sigilo.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook Curso de Psicologia Comportamental" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/psicologia-empresas-sigilo.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/psicologia-empresas-sigilo.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/01/psicologia-empresas-sigilo.jpg?zoom=2&amp;resize=400%2C400 800w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Ebook Curso de Psicologia Comportamental</span>
 	</a>
 
 				
 	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/o-livro-vermelho-de-jung">
+		<img width="346" height="346" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/10/51OpR8f7qOL._AA324_PIkin4BottomRight-6022_AA346_SH20_OU32_.jpg?resize=346%2C346&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook: O Livro Vermelho de Jung" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/10/51OpR8f7qOL._AA324_PIkin4BottomRight-6022_AA346_SH20_OU32_.jpg?w=346&amp;ssl=1 346w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/10/51OpR8f7qOL._AA324_PIkin4BottomRight-6022_AA346_SH20_OU32_.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/10/51OpR8f7qOL._AA324_PIkin4BottomRight-6022_AA346_SH20_OU32_.jpg?resize=100%2C100&amp;ssl=1 100w" sizes="auto, (max-width: 346px) 100vw, 346px" />		<span class="product-title">Ebook: O Livro Vermelho de Jung</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>24.99</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/ebook-curso-de-pnl-programacao-neurolinguistica">
+		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/hardcoverjacket-3.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook - Curso de PNL - Programação Neurolinguistica" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/hardcoverjacket-3.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/06/hardcoverjacket-3.jpg?resize=400%2C400&amp;ssl=1 400w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Ebook - Curso de PNL - Programação Neurolinguistica</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/curso-freud-o-ego-e-o-id">
+		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2016/09/image3.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Freud: O Ego e o Id" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2016/09/image3.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2016/09/image3.jpg?resize=100%2C100&amp;ssl=1 100w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Curso Freud: O Ego e o Id</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>100.00</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/4-ferramentas-de-coaching">
+		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/12/Ferramentas-Coaching.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="4 Ferramentas de Coaching - Vídeos e PDF" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/12/Ferramentas-Coaching.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/12/Ferramentas-Coaching.jpg?resize=400%2C400&amp;ssl=1 400w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">4 Ferramentas de Coaching - Vídeos e PDF</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>87.00</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/ebook-curso-psicologia-da-persuasao">
+		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/11/fofoca-psicologia.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook - Curso Psicologia da Persuasão" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/11/fofoca-psicologia.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/11/fofoca-psicologia.jpg?resize=400%2C400&amp;ssl=1 400w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Ebook - Curso Psicologia da Persuasão</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/ebook-como-falar-em-publico-em-10-licoes">
+		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/09/curso-como-falar-em-publico.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook - Como Falar em Público em 10 Lições" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/09/curso-como-falar-em-publico.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/09/curso-como-falar-em-publico.jpg?resize=400%2C400&amp;ssl=1 400w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Ebook - Como Falar em Público em 10 Lições</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/ebook-curso-contacao-de-historias">
+		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/paperbackstanding2_693x872.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ebook - Curso Contação de Histórias" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/paperbackstanding2_693x872.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2014/07/paperbackstanding2_693x872.jpg?resize=400%2C400&amp;ssl=1 400w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Ebook - Curso Contação de Histórias</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>26.00</bdi></span>
+	</li>
+<li>
+	
+	<a href="https://www.psicologiamsn.com/produto/curso-skinner-sobre-o-behaviorismo">
+		<img width="400" height="400" src="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/09/60422_4.jpg?resize=400%2C400&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curso Skinner - Sobre o behaviorismo" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/09/60422_4.jpg?w=500&amp;ssl=1 500w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/09/60422_4.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/09/60422_4.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/09/60422_4.jpg?resize=450%2C450&amp;ssl=1 450w, https://i0.wp.com/www.psicologiamsn.com/wp-content/uploads/2015/09/60422_4.jpg?resize=300%2C300&amp;ssl=1 300w" sizes="auto, (max-width: 400px) 100vw, 400px" />		<span class="product-title">Curso Skinner - Sobre o behaviorismo</span>
+	</a>
+
+				
+	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>150.00</bdi></span></del> <span class="screen-reader-text">O preço original era: &#082;&#036;150.00.</span><ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#82;&#36;</span>100.00</bdi></span></ins><span class="screen-reader-text">O preço atual é: &#082;&#036;100.00.</span>
 	</li>
 </ul></div>	</div>
 		</div>
@@ -1055,7 +1055,7 @@ Felipe de Souza</p>
 	</script>
 				<script type="text/javascript" id="ce4wp_form_submit-js-extra">
 /* <![CDATA[ */
-var ce4wp_form_submit_data = {"siteUrl":"https://www.psicologiamsn.com","url":"https://www.psicologiamsn.com/wp-admin/admin-ajax.php","nonce":"53c9f7efe2","listNonce":"094381832b","activatedNonce":"6d21cd2194"};
+var ce4wp_form_submit_data = {"siteUrl":"https://www.psicologiamsn.com","url":"https://www.psicologiamsn.com/wp-admin/admin-ajax.php","nonce":"26ee231a4f","listNonce":"a3dab974db","activatedNonce":"dbceabccf1"};
 //# sourceURL=ce4wp_form_submit-js-extra
 /* ]]> */
 </script>
@@ -1065,7 +1065,7 @@ var ce4wp_form_submit_data = {"siteUrl":"https://www.psicologiamsn.com","url":"h
 var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
 var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
 var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
-var et_pb_custom = {"ajaxurl":"https://www.psicologiamsn.com/wp-admin/admin-ajax.php","images_uri":"https://www.psicologiamsn.com/wp-content/themes/Divi/images","builder_images_uri":"https://www.psicologiamsn.com/wp-content/themes/Divi/includes/builder/images","et_frontend_nonce":"5116385f23","subscription_failed":"Por favor, verifique os campos abaixo para verifique se voc\u00ea digitou as informa\u00e7\u00f5es corretas.","et_ab_log_nonce":"3ed83d3428","fill_message":"Por favor, preencha os seguintes campos:","contact_error_message":"Por favor, corrija os seguintes erros:","invalid":"E-mail inv\u00e1lido","captcha":"Captcha","prev":"Anterior","previous":"Anterior","next":"Pr\u00f3ximo","wrong_captcha":"Voc\u00ea digitou o n\u00famero captcha errado.","wrong_checkbox":"Caixa de sele\u00e7\u00e3o","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"9987","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https://www.psicologiamsn.com/wp-content/themes/Divi/includes/builder/frontend-builder/assets/vendors","accent_color":"#1e73be","waypoints_options":[]};
+var et_pb_custom = {"ajaxurl":"https://www.psicologiamsn.com/wp-admin/admin-ajax.php","images_uri":"https://www.psicologiamsn.com/wp-content/themes/Divi/images","builder_images_uri":"https://www.psicologiamsn.com/wp-content/themes/Divi/includes/builder/images","et_frontend_nonce":"016f39981c","subscription_failed":"Por favor, verifique os campos abaixo para verifique se voc\u00ea digitou as informa\u00e7\u00f5es corretas.","et_ab_log_nonce":"79fb7c960c","fill_message":"Por favor, preencha os seguintes campos:","contact_error_message":"Por favor, corrija os seguintes erros:","invalid":"E-mail inv\u00e1lido","captcha":"Captcha","prev":"Anterior","previous":"Anterior","next":"Pr\u00f3ximo","wrong_captcha":"Voc\u00ea digitou o n\u00famero captcha errado.","wrong_checkbox":"Caixa de sele\u00e7\u00e3o","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"9987","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https://www.psicologiamsn.com/wp-content/themes/Divi/includes/builder/frontend-builder/assets/vendors","accent_color":"#1e73be","waypoints_options":[]};
 var et_pb_box_shadow_elements = [];
 //# sourceURL=divi-custom-script-js-extra
 /* ]]> */
@@ -1092,7 +1092,7 @@ _stq.push([ "clickTrackerInit", "41279296", "9987" ]);
 //# sourceURL=jetpack-stats-js-before
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://stats.wp.com/e-202552.js" id="jetpack-stats-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-202601.js" id="jetpack-stats-js" defer="defer" data-wp-strategy="defer"></script>
 <script defer type="text/javascript" src="https://www.psicologiamsn.com/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1750156377" id="akismet-frontend-js"></script>
 <script type="text/javascript" id="sharing-js-js-extra">
 /* <![CDATA[ */

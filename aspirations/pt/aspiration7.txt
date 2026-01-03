@@ -133,11 +133,11 @@
 		
         <div id="contentwrapper" class="clearfix">
             
-            	<div id='INTER_MXHT' data-iol-comercial-format='INTER' class='iol-comercial-placement'></div>
-            	<div id='POPIN_FLCR' data-iol-comercial-format='POPIN' class='iol-comercial-placement'></div>
+            	<div id='INTER_NP7O' data-iol-comercial-format='INTER' class='iol-comercial-placement'></div>
+            	<div id='POPIN_42XN' data-iol-comercial-format='POPIN' class='iol-comercial-placement'></div>
 
 	            <div class="pubheader">
-	                <div id='BILLBOARD_XL_4EH2' data-iol-comercial-format='BILLBOARD_XL' class='iol-comercial-placement'></div>
+	                <div id='BILLBOARD_XL_0F60' data-iol-comercial-format='BILLBOARD_XL' class='iol-comercial-placement'></div>
 	            </div>
 	        
             <header>
@@ -688,6 +688,74 @@
     
 				
 	    
+	    	<div class="jogosTopo">
+	         	
+	         		
+     					
+     						
+                            	<div class="jogoItem">
+									
+										<a href="/desporto/jogo/benfica/estoril/13828163" class="linkJogoEuro">
+					                        
+        <div class="card_soccer live" data-card-jogo-id="13828163">
+            <div class="single_match">
+                <div class="match-item match-itemA">
+                    <div class="club">
+                        <div class="club-name">Benfica</div>
+                        <div class="club-logo">
+                            <img src="https://mfimages.iol.pt/soccer/teams/150x150/1679.png" alt="Benfica">
+                        </div>
+
+                    </div>
+                </div>
+                <div class="match-item statsWrapper">
+                    <div class="stats">
+                        <div class="info">
+                            <!--div class="match-time">2ª Parte</div-->
+                            
+
+                            
+                            
+                                <div class="match-minutes" data-match-div-minutes="13828163">
+                                    <em data-minutos-jogo-id="13828163" data-live-minutes="35">35&#39;</em>
+                                    <div class="match-minutes-graph">
+                                        <div class="match-minutes-bar">
+                                            <div class="match-minutes-current time-up" style="width: calc(38%)" data-barra-minutos-jogo-id="13828163"></div>
+                                            <div class="marker time-up" style="left: calc(38% - 3px)" data-barra-marker-jogo-id="13828163"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                            <div class="match-score">
+                                <em data-goals-equipaA-jogo-id="13828163">1</em>
+                                <span>-</span>
+                                <em data-goals-equipaB-jogo-id="13828163">0</em>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="match-item match-itemB">
+                    <div class="club">
+                        <div class="club-logo">
+                            <img src="https://mfimages.iol.pt/soccer/teams/150x150/1695.png" alt="Estoril">
+                        </div>
+                        <div class="club-name">Estoril</div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    
+					                    </a>
+				                    
+				                    
+                            	</div>
+		                    
+          				
+	              	
+	             
+	         </div>
+	     
     
 
                 <div class="content">
@@ -781,7 +849,7 @@
         
     
 	            <div class="artigo-data" title="30-11-2025 19:05">
-	                30 nov, 19:05
+	                30 nov 2025, 19:05
 	            </div>
 	        
 	            
@@ -916,10 +984,10 @@
 	
 	                        
 	                            <div class="item">
-        <a href="https://cnnportugal.iol.pt/aominuto/6207bf6c0cf2cc58e7e276ff" title="GUERRA AO MINUTO | Zelensky propõe recuo no Donbass &amp;quot;se Rússia fizer exatamente o mesmo&amp;quot;">
+        <a href="https://cnnportugal.iol.pt/ue/donald-trump/a-ue-foi-treinada-para-ser-um-futebolista-fantasticamente-bom-e-de-repente-esta-num-jogo-de-raguebi/20260103/694568bbd34e2bd5c6d552bc" title="&amp;quot;A UE foi treinada para ser um futebolista fantasticamente bom e de repente está num jogo de râguebi&amp;quot;">
             
                 <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/68cd57abd34ee0c2fed04b90/400.jpg">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/68b5f467d34ef72ee44a0aec/400.jpg">
                             
                                 
                                 
@@ -929,10 +997,10 @@
                     </div><h2 ordem-nome="titulo" class="item-title">
                     	
                     	
-                        GUERRA AO MINUTO | Zelensky propõe recuo no Donbass &quot;se Rússia fizer exatamente o mesmo&quot;
+                        &quot;A UE foi treinada para ser um futebolista fantasticamente bom e de repente está num jogo de râguebi&quot;
                         
                     </h2><div ordem-nome="data" class="item-date">
-                        Há 3h e 34min
+                        Hoje às 08:00
                     </div>
             
         </a>
@@ -947,10 +1015,41 @@
 	
 	                        
 	                            <div class="item">
-        <a href="https://cnnportugal.iol.pt/videos/zelensky-propoe-recuo-no-donbass-se-russia-fizer-exatamente-o-mesmo/694bcb2c0cf229bd2f8d857e" title="Zelensky propõe recuo no Donbass &amp;quot;se Rússia fizer exatamente o mesmo&amp;quot;">
+        <a href="https://cnnportugal.iol.pt/incendio/suica/portuguesa-dada-como-ferida-em-incendio-na-suica-estava-no-hospital-devido-a-pequeno-acidente-domestico-confirma-secretario-de-estado-das-comunidades/20260102/69584cc8d34e3caad84d0bc8" title="Portuguesa dada como ferida em incêndio na Suíça estava no hospital devido a &amp;quot;pequeno acidente doméstico&amp;quot;, confirma secretário de Estado das Comunidades">
             
                 <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/694be6f1d34e2bd5c6d57eac/400.jpg">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/695667f5d34e2bd5c6d5b4ca/400.jpg">
+                            
+                                
+                                
+                                
+                            
+                        </div>
+                    </div><h2 ordem-nome="titulo" class="item-title">
+                    	
+                    	
+                        Portuguesa dada como ferida em incêndio na Suíça estava no hospital devido a &quot;pequeno acidente doméstico&quot;, confirma secretário de Estado das Comunidades
+                        
+                    </h2><div ordem-nome="data" class="item-date">
+                        Ontem às 23:02
+                    </div>
+            
+        </a>
+    </div>
+	                        
+	
+	                    
+	                
+	                    
+	
+	                        
+	
+	                        
+	                            <div class="item">
+        <a href="https://cnnportugal.iol.pt/videos/portugues-de-22-anos-e-um-dos-feridos-na-tragedia-nos-alpes-suicos-mas-ja-teve-alta/695842ca0cf2c7eb2445d55f" title="Português de 22 anos é um dos feridos na tragédia nos Alpes Suíços, mas &amp;quot;já teve alta&amp;quot;">
+            
+                <div ordem-nome="capa" class="item-picture-wrapper">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/6958450bd34e2bd5c6d5c4ba/400.jpg">
                             
                                 
                                 <div>
@@ -958,7 +1057,7 @@
                                     
                                         <div class="duracao">
                                             <span class="icon-play"></span>		                            		
-                                            03:32
+                                            03:31
                                         </div>	
                                     
                                 </div>
@@ -968,10 +1067,10 @@
                     </div><h2 ordem-nome="titulo" class="item-title">
                     	
                     	
-                        Zelensky propõe recuo no Donbass &quot;se Rússia fizer exatamente o mesmo&quot;
+                        Português de 22 anos é um dos feridos na tragédia nos Alpes Suíços, mas &quot;já teve alta&quot;
                         
                     </h2><div ordem-nome="data" class="item-date">
-                        Hoje às 13:10
+                        Ontem às 22:51
                     </div>
             
         </a>
@@ -986,72 +1085,10 @@
 	
 	                        
 	                            <div class="item">
-        <a href="https://cnnportugal.iol.pt/guerra/ucrania/este-documento-e-um-pacto-de-nao-agressao-total-e-incondicional-entre-a-russia-e-a-ucrania-leia-aqui-os-20-pontos-do-plano-de-zelensky-apoiado-pelos-eua/20251224/694bbe48d34e3caad84cc50c" title="Garantias de segurança, cessar-fogo imediato e fundos para reconstrução: estes são os 20 pontos do plano de Zelensky apoiado pelos EUA">
+        <a href="https://cnnportugal.iol.pt/bar/le-constellation/axel-salvou-se-gracas-a-uma-mesa-natan-escapou-porque-foi-cada-um-por-si-a-tragedia-no-le-constellation-por-quem-a-viveu/20260102/69580c86d34e2bd5c6d5c2bc" title="Axel salvou-se graças a uma mesa, Natan escapou porque &amp;quot;foi cada um por si&amp;quot;: a tragédia no Le Constellation por quem a viveu">
             
                 <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/68f8955cd34ee0c2fed18771/400.jpg">
-                            
-                                
-                                
-                                
-                            
-                        </div>
-                    </div><h2 ordem-nome="titulo" class="item-title">
-                    	
-                    	
-                        Garantias de segurança, cessar-fogo imediato e fundos para reconstrução: estes são os 20 pontos do plano de Zelensky apoiado pelos EUA
-                        
-                    </h2><div ordem-nome="data" class="item-date">
-                        Hoje às 10:19
-                    </div>
-            
-        </a>
-    </div>
-	                        
-	
-	                    
-	                
-	                    
-	
-	                        
-	
-	                        
-	                            <div class="item">
-        <a href="https://cnnportugal.iol.pt/guerra-na-ucrania/russia/ucrania-a-guerra-que-em-2025-ficou-de-pernas-para-o-ar-com-a-chegada-de-um-novo-protagonista/20251224/6942a677d34e3caad84c7cea" title="Ucrânia: a guerra que em 2025 ficou de pernas para o ar com a chegada de um novo protagonista">
-            
-                <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/68f28beed34ee0c2fed1625b/400.jpg">
-                            
-                                
-                                
-                                
-                            
-                        </div>
-                    </div><h2 ordem-nome="titulo" class="item-title">
-                    	
-                    	
-                        Ucrânia: a guerra que em 2025 ficou de pernas para o ar com a chegada de um novo protagonista
-                        
-                    </h2><div ordem-nome="data" class="item-date">
-                        Hoje às 10:00
-                    </div>
-            
-        </a>
-    </div>
-	                        
-	
-	                    
-	                
-	                    
-	
-	                        
-	
-	                        
-	                            <div class="item">
-        <a href="https://cnnportugal.iol.pt/estado-islamico/isis/evitaram-o-ataque-terrorista-mais-mortifero-da-historia-do-reino-unido-extremistas-do-isis-planeavam-matar-o-maior-numero-possivel-de-judeus/20251223/694b2709d34e3caad84cc405" title="Evitaram o &amp;quot;ataque terrorista mais mortífero da história do Reino Unido&amp;quot;. Extremistas do ISIS planeavam matar &amp;quot;o maior número possível&amp;quot; de judeus">
-            
-                <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/694ae90ed34e2bd5c6d57a02/400.jpg">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/69580a3cd34e3caad84d098f/400.jpg">
                             
                                 
                                 <div>
@@ -1064,10 +1101,10 @@
                     </div><h2 ordem-nome="titulo" class="item-title">
                     	
                     	
-                        Evitaram o &quot;ataque terrorista mais mortífero da história do Reino Unido&quot;. Extremistas do ISIS planeavam matar &quot;o maior número possível&quot; de judeus
+                        Axel salvou-se graças a uma mesa, Natan escapou porque &quot;foi cada um por si&quot;: a tragédia no Le Constellation por quem a viveu
                         
                     </h2><div ordem-nome="data" class="item-date">
-                        Ontem às 23:47
+                        Ontem às 22:49
                     </div>
             
         </a>
@@ -1082,31 +1119,54 @@
 	
 	                        
 	                            <div class="item">
-        <a href="https://cnnportugal.iol.pt/videos/pelas-declaracoes-de-lavrov-ja-se-percebeu-que-a-russia-esta-muito-renitente-em-aceitar-o-que-quer-que-seja/694aebd10cf28fe43048912d" title="&amp;quot;Pelas declarações de Lavrov, já se percebeu que a Rússia está muito renitente em aceitar o que quer que seja&amp;quot;">
+        <a href="https://cnnportugal.iol.pt/le-constellation/suica/fogo-de-artificio-em-champanhe-e-um-inferno-que-se-espalhou-rapidamente-como-se-desenrolou-uma-tragedia-mortal-nos-alpes-suicos/20260102/695825b9d34e3caad84d0a80" title="Velas pirotécnicas em champanhe e um inferno que se espalhou rapidamente: como se desenrolou uma tragédia mortal nos Alpes Suíços">
             
                 <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/694aedd9d34e2bd5c6d57a56/400.jpg">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/695667e0d34e3caad84cfbd7/400.jpg">
                             
                                 
-                                <div>
-                                    
-                                    
-                                        <div class="duracao">
-                                            <span class="icon-play"></span>		                            		
-                                            06:26
-                                        </div>	
-                                    
-                                </div>
+                                
                                 
                             
                         </div>
                     </div><h2 ordem-nome="titulo" class="item-title">
                     	
                     	
-                        &quot;Pelas declarações de Lavrov, já se percebeu que a Rússia está muito renitente em aceitar o que quer que seja&quot;
+                        Velas pirotécnicas em champanhe e um inferno que se espalhou rapidamente: como se desenrolou uma tragédia mortal nos Alpes Suíços
                         
                     </h2><div ordem-nome="data" class="item-date">
-                        Ontem às 19:33
+                        Ontem às 22:00
+                    </div>
+            
+        </a>
+    </div>
+	                        
+	
+	                    
+	                
+	                    
+	
+	                        
+	
+	                        
+	                            <div class="item">
+        <a href="https://cnnportugal.iol.pt/suica/incendio/dono-do-bar-nos-alpes-suicos-garante-que-tudo-estava-em-conformidade-com-as-normas/20260102/69583869d34e3caad84d0b28" title="Dono do bar nos Alpes Suíços garante que &amp;quot;tudo estava em conformidade com as normas&amp;quot;">
+            
+                <div ordem-nome="capa" class="item-picture-wrapper">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/695667e2d34e2bd5c6d5b4be/400.jpg">
+                            
+                                
+                                
+                                
+                            
+                        </div>
+                    </div><h2 ordem-nome="titulo" class="item-title">
+                    	
+                    	
+                        Dono do bar nos Alpes Suíços garante que &quot;tudo estava em conformidade com as normas&quot;
+                        
+                    </h2><div ordem-nome="data" class="item-date">
+                        Ontem às 21:45
                     </div>
             
         </a>
@@ -1141,61 +1201,61 @@
             <div class="listaDestaques">
                 
                     <div class="item">
-                        <a href="https://cnnportugal.iol.pt/made-in/al-nassr/video-al-nassr-goleia-com-grande-golo-construido-por-felix-e-ronaldo">
+                        <a href="https://cnnportugal.iol.pt/videos/se-nao-houver-uma-ponderacao-das-caracteristicas-da-populacao-venezuelana-poder-se-a-chegar-ao-cenario-de-guerra-civil/69595d000cf2c7eb24463a30">
                             <div class="item-picture-wrapper">
-                                <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/694c2bd1d34e2bd5c6d57fd6/300.jpg"></div>
+                                <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/695960a6d34e2bd5c6d5c8ab/300.jpg"></div>
                             </div>
                             <div class="item-title">
                             	
-                                VÍDEO: Al Nassr goleia com grande golo construído por Félix e Ronaldo
+                                &quot;Se não houver uma ponderação das características da população venezuelana, poder-se-á chegar ao cenário de guerra civil&quot;
                             </div>
                         </a>
                     </div>
                 
                     <div class="item">
-                        <a href="https://cnnportugal.iol.pt/natal/mesa/ainda-ha-tempo-este-guia-de-sobrevivencia-pode-evitar-lhe-e-remediar-abusos-na-mesa-de-natal/20251224/6940558ed34e3caad84c695e">
+                        <a href="https://cnnportugal.iol.pt/videos/trump-nao-quer-saber-de-corina-machado-e-da-resistencia-venezuelana-seria-engracado-contar-quantas-vezes-disse-petroleo/69595c660cf28fe4304a4c20">
                             <div class="item-picture-wrapper">
-                                <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/69405410d34e3caad84c6954/300.jpg"></div>
+                                <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/69595e21d34e3caad84d0fa8/300.jpg"></div>
                             </div>
                             <div class="item-title">
                             	
-                                Ainda há tempo. Este guia de sobrevivência pode evitar-lhe e remediar abusos na mesa de Natal
+                                &quot;Trump não quer saber de Corina Machado e da resistência venezuelana. Seria engraçado contar quantas vezes disse &#39;petróleo&#39;&quot;
                             </div>
                         </a>
                     </div>
                 
                     <div class="item">
-                        <a href="https://cnnportugal.iol.pt/guerra-na-ucrania/volodymyr-zelensky/zelensky-associa-mais-ataques-russos-a-imagens-captadas-por-satelites-chineses/20251224/694c2859d34e3caad84cc776">
+                        <a href="https://cnnportugal.iol.pt/franca/lyon/video-bis-de-sulc-confirma-segundo-triunfo-seguido-para-paulo-fonseca">
                             <div class="item-picture-wrapper">
-                                <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/67dbf2add34ef72ee443a71c/300.jpg"></div>
+                                <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/69595973d34e3caad84d0f8b/300.jpg"></div>
                             </div>
                             <div class="item-title">
                             	
-                                Zelensky associa mais ataques russos a imagens captadas por satélites chineses
+                                VÍDEO: «bis» de Sulc confirma segundo triunfo seguido para Paulo Fonseca
                             </div>
                         </a>
                     </div>
                 
                     <div class="item">
-                        <a href="https://cnnportugal.iol.pt/videos/a-seguranca-da-europa-e-a-da-ucrania-tornaram-se-indivisiveis-o-que-acontecer-a-uma-acontece-a-outra/694c1d7c0cf2c7eb2444903c">
+                        <a href="https://cnnportugal.iol.pt/benfica/tomas-araujo/benfica-lesao-de-ultima-hora-troca-antonio-silva-por-tomas-araujo-no-onze">
                             <div class="item-picture-wrapper">
-                                <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/694c26bcd34e2bd5c6d57fca/300.jpg"></div>
+                                <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/693e92a4d34e2bd5c6d514ef/300.jpg"></div>
                             </div>
                             <div class="item-title">
                             	
-                                &quot;A segurança da Europa e a da Ucrânia tornaram-se indivisíveis: o que acontecer a uma, acontece à outra&quot;
+                                Benfica: lesão de última hora troca António Silva por Tomás Araújo no onze
                             </div>
                         </a>
                     </div>
                 
                     <div class="item">
-                        <a href="https://cnnportugal.iol.pt/venezuela/maria-corina-machado/opositora-venezuelana-maria-corina-machado-denuncia-ameacas-de-execucao-extrajudicial-de-presos-politicos/20251224/694c2268d34e3caad84cc761">
+                        <a href="https://cnnportugal.iol.pt/videos/operacao-dos-eua-na-venezuela-justifica-acao-da-china-em-taiwan/6959597d0cf2c7eb24463917">
                             <div class="item-picture-wrapper">
-                                <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/68e8ff84d34ee0c2fed11b7f/300.jpg"></div>
+                                <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/69595bd2d34e3caad84d0f96/300.jpg"></div>
                             </div>
                             <div class="item-title">
                             	
-                                Opositora venezuelana María Corina Machado denuncia ameaças de &quot;execução extrajudicial&quot; de presos políticos
+                                Operação dos EUA na Venezuela &quot;justifica ação da China em Taiwan&quot;
                             </div>
                         </a>
                     </div>
@@ -1239,10 +1299,10 @@
 		
 		              
 		                  <div class="item">
-        <a href="https://cnnportugal.iol.pt/videos/os-russos-estao-em-ofensiva-desde-o-verao-e-ja-conquistaram-o-correspondente-ao-tamanho-do-algarve/694b0ed10cf2559133763eb8" title="&amp;quot;Os russos estão em ofensiva desde o verão e já conquistaram o correspondente ao tamanho do Algarve&amp;quot;">
+        <a href="https://cnnportugal.iol.pt/videos/as-imagens-das-explosoes-desta-madrugada-na-venezuela/6958d4020cf255913377ca73" title="As imagens das explosões desta madrugada na Venezuela">
             
                 <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/694b112fd34e3caad84cc35d/400.jpg">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/6958d569d34e2bd5c6d5c585/400.jpg">
                             
                                 
                                 <div>
@@ -1250,7 +1310,87 @@
                                     
                                         <div class="duracao">
                                             <span class="icon-play"></span>		                            		
-                                            06:20
+                                            04:05
+                                        </div>	
+                                    
+                                </div>
+                                
+                            
+                        </div>
+                    </div><h2 ordem-nome="titulo" class="item-title">
+                    	
+                    	
+                        As imagens das explosões desta madrugada na Venezuela
+                        
+                    </h2><div ordem-nome="data" class="item-date">
+                        Hoje às 08:37
+                    </div>
+            
+        </a>
+    </div>
+		              
+		
+		          
+		
+		          
+		          
+		
+		              
+		
+		              
+		                  <div class="item">
+        <a href="https://cnnportugal.iol.pt/videos/o-golo-de-mora-que-enlouqueceu-o-dragao/6956a9f90cf2559133774be7" title="O golo de Mora que enlouqueceu o Dragão">
+            
+                <div ordem-nome="capa" class="item-picture-wrapper">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/6956aadfd34e2bd5c6d5b6ab/400.jpg">
+                            
+                                
+                                <div>
+                                    
+                                    
+                                        <div class="duracao">
+                                            <span class="icon-play"></span>		                            		
+                                            00:21
+                                        </div>	
+                                    
+                                </div>
+                                
+                            
+                        </div>
+                    </div><h2 ordem-nome="titulo" class="item-title">
+                    	
+                    	
+                        O golo de Mora que enlouqueceu o Dragão
+                        
+                    </h2><div ordem-nome="data" class="item-date">
+                        1 jan, 17:08
+                    </div>
+            
+        </a>
+    </div>
+		              
+		
+		          
+		
+		          
+		          
+		
+		              
+		
+		              
+		                  <div class="item">
+        <a href="https://cnnportugal.iol.pt/videos/putin-perguntou-a-trump-como-e-que-os-ucranianos-sabiam-onde-estava-agostinho-costa-alerta-isto-e-mais-que-uma-residencia/6953d79f0cf28fe430493d7d" title="&amp;quot;Putin perguntou a Trump: &amp;#39;Como é que os ucranianos sabiam onde estava?&amp;#39;&amp;quot;. Agostinho Costa alerta: &amp;quot;Isto é mais que uma residência&amp;quot;">
+            
+                <div ordem-nome="capa" class="item-picture-wrapper">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/6953e4aed34e3caad84ceee4/400.jpg">
+                            
+                                
+                                <div>
+                                    
+                                    
+                                        <div class="duracao">
+                                            <span class="icon-play"></span>		                            		
+                                            15:36
                                         </div>	
                                     
                                 </div>
@@ -1274,10 +1414,10 @@
                     </div><h2 ordem-nome="titulo" class="item-title">
                     	
                     	
-                        &quot;Os russos estão em ofensiva desde o verão e já conquistaram o correspondente ao tamanho do Algarve&quot;
+                        &quot;Putin perguntou a Trump: &#39;Como é que os ucranianos sabiam onde estava?&#39;&quot;. Agostinho Costa alerta: &quot;Isto é mais que uma residência&quot;
                         
                     </h2><div ordem-nome="data" class="item-date">
-                        Ontem às 22:29
+                        30 dez 2025, 15:16
                     </div>
             
         </a>
@@ -1293,10 +1433,10 @@
 		
 		              
 		                  <div class="item">
-        <a href="https://cnnportugal.iol.pt/videos/o-sol-nasceu-as-11-08-e-pos-se-as-13-22-nesta-viagem-imperdivel-ate-isso-faz-parte-da-magia/694980a70cf25591337639c7" title="O sol nasceu às 11:08 e pôs-se às 13:22. Nesta viagem imperdível, até isso faz parte da magia">
+        <a href="https://cnnportugal.iol.pt/videos/novo-chefe-de-gabinete-de-zelensky-e-um-homem-de-mao-dos-americanos/69581c450cf2559133778a91" title="Novo chefe de gabinete de Zelensky &amp;quot;é um homem de mão dos americanos&amp;quot;">
             
                 <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/6949845dd34e3caad84cb41e/400.jpg">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/69582051d34e3caad84d0a3f/400.jpg">
                             
                                 
                                 <div>
@@ -1304,127 +1444,7 @@
                                     
                                         <div class="duracao">
                                             <span class="icon-play"></span>		                            		
-                                            15:17
-                                        </div>	
-                                    
-                                </div>
-                                
-                            
-                        </div>
-                    </div><h2 ordem-nome="titulo" class="item-title">
-                    	
-                    	
-                        O sol nasceu às 11:08 e pôs-se às 13:22. Nesta viagem imperdível, até isso faz parte da magia
-                        
-                    </h2><div ordem-nome="data" class="item-date">
-                        22 dez, 17:53
-                    </div>
-            
-        </a>
-    </div>
-		              
-		
-		          
-		
-		          
-		          
-		
-		              
-		
-		              
-		                  <div class="item">
-        <a href="https://cnnportugal.iol.pt/videos/esta-histeria-coletiva-e-gasolina-super-para-o-tricampeonato-do-sporting/694b30f80cf28fe430489161" title="«Esta histeria coletiva é gasolina super para o tricampeonato do Sporting»">
-            
-                <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/694b31e2d34e3caad84cc449/400.jpg">
-                            
-                                
-                                <div>
-                                    
-                                    
-                                        <div class="duracao">
-                                            <span class="icon-play"></span>		                            		
-                                            14:01
-                                        </div>	
-                                    
-                                </div>
-                                
-                            
-                        </div>
-                    </div><h2 ordem-nome="titulo" class="item-title">
-                    	
-                    	
-                        «Esta histeria coletiva é gasolina super para o tricampeonato do Sporting»
-                        
-                    </h2><div ordem-nome="data" class="item-date">
-                        Hoje às 00:17
-                    </div>
-            
-        </a>
-    </div>
-		              
-		
-		          
-		
-		          
-		          
-		
-		              
-		
-		              
-		                  <div class="item">
-        <a href="https://cnnportugal.iol.pt/videos/o-debate-entre-henrique-gouveia-e-melo-e-luis-marques-mendes-na-integra/6949c4bf0cf229bd2f8d6ea7" title="O debate entre Henrique Gouveia e Melo e Luís Marques Mendes na íntegra">
-            
-                <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/6949c5b7d34e2bd5c6d56f7d/400.jpg">
-                            
-                                
-                                <div>
-                                    
-                                    
-                                        <div class="duracao">
-                                            <span class="icon-play"></span>		                            		
-                                            34:14
-                                        </div>	
-                                    
-                                </div>
-                                
-                            
-                        </div>
-                    </div><h2 ordem-nome="titulo" class="item-title">
-                    	
-                    	
-                        O debate entre Henrique Gouveia e Melo e Luís Marques Mendes na íntegra
-                        
-                    </h2><div ordem-nome="data" class="item-date">
-                        22 dez, 22:27
-                    </div>
-            
-        </a>
-    </div>
-		              
-		
-		          
-		
-		          
-		          
-		
-		              
-		
-		              
-		                  <div class="item">
-        <a href="https://cnnportugal.iol.pt/videos/ataque-a-general-russo-mostra-que-os-servicos-secretos-ucranianos-conseguem-atingir-o-coracao-de-moscovo/6949954e0cf25591337639da" title="Ataque a general russo &amp;quot;mostra que os serviços secretos ucranianos conseguem atingir o coração de Moscovo&amp;quot;">
-            
-                <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/69499722d34e3caad84cb55f/400.jpg">
-                            
-                                
-                                <div>
-                                    
-                                    
-                                        <div class="duracao">
-                                            <span class="icon-play"></span>		                            		
-                                            02:47
+                                            04:11
                                         </div>	
                                     
                                 </div>
@@ -1436,22 +1456,22 @@
         <div class="personalidade">
             <div class="personalidade-foto-wrapper">
                 
-                    <div class="personalidade-foto" style="background-image:url(&#39;https://img.iol.pt/image/id/68123e2fd34e3f0bae9d9066/200.jpg&#39;)"></div>
+                    <div class="personalidade-foto" style="background-image:url(&#39;https://img.iol.pt/image/id/623c30220cf21a10a427022b/200.jpg&#39;)"></div>
                 
             </div>
             <div class="section-title">opinião</div>
             <div class="personalidade-nome">
-                Miguel Baumgartner
+                Agostinho Costa
             </div>
         </div>
     
                     </div><h2 ordem-nome="titulo" class="item-title">
                     	
                     	
-                        Ataque a general russo &quot;mostra que os serviços secretos ucranianos conseguem atingir o coração de Moscovo&quot;
+                        Novo chefe de gabinete de Zelensky &quot;é um homem de mão dos americanos&quot;
                         
                     </h2><div ordem-nome="data" class="item-date">
-                        22 dez, 19:08
+                        Ontem às 20:15
                     </div>
             
         </a>
@@ -1467,10 +1487,10 @@
 		
 		              
 		                  <div class="item">
-        <a href="https://cnnportugal.iol.pt/videos/podemos-chegar-a-conclusao-de-que-a-morte-de-nuno-loureiro-teve-muito-que-ver-com-frustracoes-do-ponto-de-vista-academico/69459e920cf2c7eb24447762" title="&amp;quot;Podemos chegar à conclusão de que a morte de Nuno Loureiro teve muito que ver com frustrações do ponto de vista académico&amp;quot;">
+        <a href="https://cnnportugal.iol.pt/videos/agostinho-costa-anteve-uma-retaliacao-russa-dentro-de-menos-de-uma-semana/6957c4740cf229bd2f8ea443" title="Agostinho Costa antevê uma retaliação russa dentro de menos de uma semana">
             
                 <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/6945a04bd34e2bd5c6d55656/400.jpg">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/6957c566d34e2bd5c6d5be29/400.jpg">
                             
                                 
                                 <div>
@@ -1478,7 +1498,61 @@
                                     
                                         <div class="duracao">
                                             <span class="icon-play"></span>		                            		
-                                            03:04
+                                            12:15
+                                        </div>	
+                                    
+                                </div>
+                                
+                            
+                        </div>
+                    </div><div ordem-nome="personalidade-opiniao" class="lista-personalidade">
+                    	
+        <div class="personalidade">
+            <div class="personalidade-foto-wrapper">
+                
+                    <div class="personalidade-foto" style="background-image:url(&#39;https://img.iol.pt/image/id/623c30220cf21a10a427022b/200.jpg&#39;)"></div>
+                
+            </div>
+            <div class="section-title">opinião</div>
+            <div class="personalidade-nome">
+                Agostinho Costa
+            </div>
+        </div>
+    
+                    </div><h2 ordem-nome="titulo" class="item-title">
+                    	
+                    	
+                        Agostinho Costa antevê uma retaliação russa dentro de menos de uma semana
+                        
+                    </h2><div ordem-nome="data" class="item-date">
+                        Ontem às 13:41
+                    </div>
+            
+        </a>
+    </div>
+		              
+		
+		          
+		
+		          
+		          
+		
+		              
+		
+		              
+		                  <div class="item">
+        <a href="https://cnnportugal.iol.pt/videos/o-inicio-e-o-panico-que-se-seguiu-imagens-dentro-do-local-da-tragedia-na-suica/6957c1010cf2c7eb2445adf0" title="O início e o pânico que se seguiu: imagens dentro do local da tragédia na Suíça">
+            
+                <div ordem-nome="capa" class="item-picture-wrapper">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/6957c1afd34e3caad84d052f/400.jpg">
+                            
+                                
+                                <div>
+                                    
+                                    
+                                        <div class="duracao">
+                                            <span class="icon-play"></span>		                            		
+                                            00:58
                                         </div>	
                                     
                                 </div>
@@ -1488,10 +1562,10 @@
                     </div><h2 ordem-nome="titulo" class="item-title">
                     	
                     	
-                        &quot;Podemos chegar à conclusão de que a morte de Nuno Loureiro teve muito que ver com frustrações do ponto de vista académico&quot;
+                        O início e o pânico que se seguiu: imagens dentro do local da tragédia na Suíça
                         
                     </h2><div ordem-nome="data" class="item-date">
-                        19 dez, 19:35
+                        Ontem às 13:01
                     </div>
             
         </a>
@@ -1507,10 +1581,10 @@
 		
 		              
 		                  <div class="item">
-        <a href="https://cnnportugal.iol.pt/videos/caiu-a-mascara-a-gouveia-e-melo-diz-duarte-marques-que-afirma-que-o-almirante-lhe-fez-lembrar-joana-amaral-dias-e-ate-jose-socrates/694b15bc0cf28fe43048914e" title="&amp;quot;Caiu a máscara a Gouveia e Melo&amp;quot;, diz Duarte Marques, que afirma que o almirante lhe fez lembrar Joana Amaral Dias e até José Sócrates">
+        <a href="https://cnnportugal.iol.pt/videos/uma-coisa-e-retirar-o-presidente-do-pais-outra-e-mudar-o-regime/695915130cf229bd2f8f194c" title="&amp;quot;Uma coisa é retirar o presidente do país, outra é mudar o regime&amp;quot;">
             
                 <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/694b1b35d34e2bd5c6d57bf4/400.jpg">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/695919c0d34e2bd5c6d5c71e/400.jpg">
                             
                                 
                                 <div>
@@ -1518,7 +1592,61 @@
                                     
                                         <div class="duracao">
                                             <span class="icon-play"></span>		                            		
-                                            04:10
+                                            05:15
+                                        </div>	
+                                    
+                                </div>
+                                
+                            
+                        </div>
+                    </div><div ordem-nome="personalidade-opiniao" class="lista-personalidade">
+                    	
+        <div class="personalidade">
+            <div class="personalidade-foto-wrapper">
+                
+                    <div class="personalidade-foto" style="background-image:url(&#39;https://img.iol.pt/image/id/623c30220cf21a10a427022b/200.jpg&#39;)"></div>
+                
+            </div>
+            <div class="section-title">opinião</div>
+            <div class="personalidade-nome">
+                Agostinho Costa
+            </div>
+        </div>
+    
+                    </div><h2 ordem-nome="titulo" class="item-title">
+                    	
+                    	
+                        &quot;Uma coisa é retirar o presidente do país, outra é mudar o regime&quot;
+                        
+                    </h2><div ordem-nome="data" class="item-date">
+                        Hoje às 13:29
+                    </div>
+            
+        </a>
+    </div>
+		              
+		
+		          
+		
+		          
+		          
+		
+		              
+		
+		              
+		                  <div class="item">
+        <a href="https://cnnportugal.iol.pt/videos/a-situacao-no-donbass-esta-extremamente-complicada-russos-avancam-e-ucranianos-tentam-consolidar-posicoes/69578e9b0cf229bd2f8e9102" title="&amp;quot;A situação no Donbass está extremamente complicada&amp;quot;: russos avançam e ucranianos tentam &amp;quot;consolidar posições&amp;quot;">
+            
+                <div ordem-nome="capa" class="item-picture-wrapper">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/69578fa5d34e3caad84d01fb/400.jpg">
+                            
+                                
+                                <div>
+                                    
+                                    
+                                        <div class="duracao">
+                                            <span class="icon-play"></span>		                            		
+                                            03:27
                                         </div>	
                                     
                                 </div>
@@ -1528,10 +1656,10 @@
                     </div><h2 ordem-nome="titulo" class="item-title">
                     	
                     	
-                        &quot;Caiu a máscara a Gouveia e Melo&quot;, diz Duarte Marques, que afirma que o almirante lhe fez lembrar Joana Amaral Dias e até José Sócrates
+                        &quot;A situação no Donbass está extremamente complicada&quot;: russos avançam e ucranianos tentam &quot;consolidar posições&quot;
                         
                     </h2><div ordem-nome="data" class="item-date">
-                        Ontem às 23:27
+                        Ontem às 09:43
                     </div>
             
         </a>
@@ -1547,10 +1675,10 @@
 		
 		              
 		                  <div class="item">
-        <a href="https://cnnportugal.iol.pt/videos/as-imagens-do-enorme-buraco-num-canal-de-inglaterra/6949877f0cf229bd2f8d6e88" title="As imagens do enorme buraco num canal de Inglaterra">
+        <a href="https://cnnportugal.iol.pt/videos/o-poder-aereo-brutal-a-que-os-eua-recorreram-no-ataque-a-venezuela/69592d990cf28fe4304a3dc9" title="O &amp;quot;poder aéreo brutal&amp;quot; a que os EUA recorreram no ataque à Venezuela">
             
                 <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/694987d0d34e3caad84cb44e/400.jpg">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/695931c4d34e3caad84d0e97/400.jpg">
                             
                                 
                                 <div>
@@ -1558,7 +1686,61 @@
                                     
                                         <div class="duracao">
                                             <span class="icon-play"></span>		                            		
-                                            00:31
+                                            12:07
+                                        </div>	
+                                    
+                                </div>
+                                
+                            
+                        </div>
+                    </div><div ordem-nome="personalidade-opiniao" class="lista-personalidade">
+                    	
+        <div class="personalidade">
+            <div class="personalidade-foto-wrapper">
+                
+                    <div class="personalidade-foto" style="background-image:url(&#39;https://img.iol.pt/image/id/6852bb51d34ef72ee44754db/200.jpg&#39;)"></div>
+                
+            </div>
+            <div class="section-title">opinião</div>
+            <div class="personalidade-nome">
+                Jorge Saramago
+            </div>
+        </div>
+    
+                    </div><h2 ordem-nome="titulo" class="item-title">
+                    	
+                    	
+                        O &quot;poder aéreo brutal&quot; a que os EUA recorreram no ataque à Venezuela
+                        
+                    </h2><div ordem-nome="data" class="item-date">
+                        Há 3h e 26min
+                    </div>
+            
+        </a>
+    </div>
+		              
+		
+		          
+		
+		          
+		          
+		
+		              
+		
+		              
+		                  <div class="item">
+        <a href="https://cnnportugal.iol.pt/videos/grupo-de-homens-filma-se-a-disparar-com-armas-de-guerra-em-pleno-bairro-de-lisboa/6957c8690cf28fe43049c2e2" title="Grupo de homens filma-se a disparar com armas de guerra em pleno bairro de Lisboa">
+            
+                <div ordem-nome="capa" class="item-picture-wrapper">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/6957d5e3d34e3caad84d0617/400.jpg">
+                            
+                                
+                                <div>
+                                    
+                                    
+                                        <div class="duracao">
+                                            <span class="icon-play"></span>		                            		
+                                            01:37
                                         </div>	
                                     
                                 </div>
@@ -1568,10 +1750,10 @@
                     </div><h2 ordem-nome="titulo" class="item-title">
                     	
                     	
-                        As imagens do enorme buraco num canal de Inglaterra
+                        Grupo de homens filma-se a disparar com armas de guerra em pleno bairro de Lisboa
                         
                     </h2><div ordem-nome="data" class="item-date">
-                        22 dez, 18:02
+                        Ontem às 13:40
                     </div>
             
         </a>
@@ -1587,10 +1769,10 @@
 		
 		              
 		                  <div class="item">
-        <a href="https://cnnportugal.iol.pt/videos/as-garantias-de-seguranca-estao-a-transformar-se-numa-especie-de-unicornio-das-negociacoes/694bad110cf2559133765107" title="&amp;quot;As garantias de segurança estão a transformar-se numa espécie de unicórnio das negociações&amp;quot;">
+        <a href="https://cnnportugal.iol.pt/videos/centenas-de-venezuelanos-festejam-detencao-de-nicolas-maduro-nos-eua/695908670cf229bd2f8f1509" title="Centenas de venezuelanos festejam detenção de Nicolás Maduro nos EUA">
             
                 <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/694bdfbad34e2bd5c6d57e7c/400.jpg">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/695909c1d34e2bd5c6d5c6db/400.jpg">
                             
                                 
                                 <div>
@@ -1598,7 +1780,47 @@
                                     
                                         <div class="duracao">
                                             <span class="icon-play"></span>		                            		
-                                            06:14
+                                            05:58
+                                        </div>	
+                                    
+                                </div>
+                                
+                            
+                        </div>
+                    </div><h2 ordem-nome="titulo" class="item-title">
+                    	
+                    	
+                        Centenas de venezuelanos festejam detenção de Nicolás Maduro nos EUA
+                        
+                    </h2><div ordem-nome="data" class="item-date">
+                        Hoje às 12:16
+                    </div>
+            
+        </a>
+    </div>
+		              
+		
+		          
+		
+		          
+		          
+		
+		              
+		
+		              
+		                  <div class="item">
+        <a href="https://cnnportugal.iol.pt/videos/este-ataque-podia-ter-como-alvo-o-chefe-de-estado-da-venezuela/6958d6750cf28fe4304a1d24" title="&amp;quot;Este ataque podia ter como alvo o chefe de Estado da Venezuela&amp;quot;">
+            
+                <div ordem-nome="capa" class="item-picture-wrapper">
+                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/6958d7eed34e2bd5c6d5c5a1/400.jpg">
+                            
+                                
+                                <div>
+                                    
+                                    
+                                        <div class="duracao">
+                                            <span class="icon-play"></span>		                            		
+                                            08:29
                                         </div>	
                                     
                                 </div>
@@ -1622,158 +1844,10 @@
                     </div><h2 ordem-nome="titulo" class="item-title">
                     	
                     	
-                        &quot;As garantias de segurança estão a transformar-se numa espécie de unicórnio das negociações&quot;
+                        &quot;Este ataque podia ter como alvo o chefe de Estado da Venezuela&quot;
                         
                     </h2><div ordem-nome="data" class="item-date">
-                        Hoje às 12:42
-                    </div>
-            
-        </a>
-    </div>
-		              
-		
-		          
-		
-		          
-		          
-		
-		              
-		
-		              
-		                  <div class="item">
-        <a href="https://cnnportugal.iol.pt/videos/comeca-a-nao-haver-muita-coisa-para-destruir-na-ucrania-em-termos-de-infraestruturas-de-energia/694b22fe0cf2c7eb24447db0" title="&amp;quot;Começa a não haver muita coisa para destruir na Ucrânia em termos de infraestruturas de energia&amp;quot;">
-            
-                <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/694b247fd34e3caad84cc3e8/400.jpg">
-                            
-                                
-                                <div>
-                                    
-                                    
-                                        <div class="duracao">
-                                            <span class="icon-play"></span>		                            		
-                                            03:15
-                                        </div>	
-                                    
-                                </div>
-                                
-                            
-                        </div>
-                    </div><h2 ordem-nome="titulo" class="item-title">
-                    	
-                    	
-                        &quot;Começa a não haver muita coisa para destruir na Ucrânia em termos de infraestruturas de energia&quot;
-                        
-                    </h2><div ordem-nome="data" class="item-date">
-                        Ontem às 23:28
-                    </div>
-            
-        </a>
-    </div>
-		              
-		
-		          
-		
-		          
-		          
-		
-		              
-		
-		              
-		                  <div class="item">
-        <a href="https://cnnportugal.iol.pt/videos/nao-e-mais-um-pacote-de-sancoes-que-vai-travar-a-russia/694a8a710cf28fe430488cd1" title="&amp;quot;Não é mais um pacote de sanções que vai travar a Rússia&amp;quot;">
-            
-                <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/694a9ffdd34e3caad84cbbea/400.jpg">
-                            
-                                
-                                <div>
-                                    
-                                    
-                                        <div class="duracao">
-                                            <span class="icon-play"></span>		                            		
-                                            05:12
-                                        </div>	
-                                    
-                                </div>
-                                
-                            
-                        </div>
-                    </div><div ordem-nome="personalidade-opiniao" class="lista-personalidade">
-                    	
-        <div class="personalidade">
-            <div class="personalidade-foto-wrapper">
-                
-                    <div class="personalidade-foto" style="background-image:url(&#39;https://img.iol.pt/image/id/621d134f0cf21a10a42240cc/200.jpg&#39;)"></div>
-                
-            </div>
-            <div class="section-title">opinião</div>
-            <div class="personalidade-nome">
-                José Alberto Azeredo Lopes
-            </div>
-        </div>
-    
-                    </div><h2 ordem-nome="titulo" class="item-title">
-                    	
-                    	
-                        &quot;Não é mais um pacote de sanções que vai travar a Rússia&quot;
-                        
-                    </h2><div ordem-nome="data" class="item-date">
-                        Ontem às 14:00
-                    </div>
-            
-        </a>
-    </div>
-		              
-		
-		          
-		
-		          
-		          
-		
-		              
-		
-		              
-		                  <div class="item">
-        <a href="https://cnnportugal.iol.pt/videos/trump-e-putin-achavam-que-podiam-encostar-zelensky-a-parede-e-faze-lo-assinar-um-acordo-de-paz-em-que-houvesse-quase-uma-capitulacao-da-ucrania/694b24290cf229bd2f8d731e" title="&amp;quot;Trump e Putin achavam que podiam encostar Zelensky à parede e fazê-lo assinar um acordo de paz em que houvesse quase uma capitulação da Ucrânia&amp;quot;">
-            
-                <div ordem-nome="capa" class="item-picture-wrapper">
-                        <div class="picture16x9 b-lazy" data-src="https://img.iol.pt/image/id/694b256fd34e3caad84cc3f4/400.jpg">
-                            
-                                
-                                <div>
-                                    
-                                    
-                                        <div class="duracao">
-                                            <span class="icon-play"></span>		                            		
-                                            03:02
-                                        </div>	
-                                    
-                                </div>
-                                
-                            
-                        </div>
-                    </div><div ordem-nome="personalidade-opiniao" class="lista-personalidade">
-                    	
-        <div class="personalidade">
-            <div class="personalidade-foto-wrapper">
-                
-                    <div class="personalidade-foto" style="background-image:url(&#39;https://img.iol.pt/image/id/68123e2fd34e3f0bae9d9066/200.jpg&#39;)"></div>
-                
-            </div>
-            <div class="section-title">opinião</div>
-            <div class="personalidade-nome">
-                Miguel Baumgartner
-            </div>
-        </div>
-    
-                    </div><h2 ordem-nome="titulo" class="item-title">
-                    	
-                    	
-                        &quot;Trump e Putin achavam que podiam encostar Zelensky à parede e fazê-lo assinar um acordo de paz em que houvesse quase uma capitulação da Ucrânia&quot;
-                        
-                    </h2><div ordem-nome="data" class="item-date">
-                        Ontem às 23:28
+                        Hoje às 08:48
                     </div>
             
         </a>
@@ -2421,7 +2495,7 @@
 	                </div>
 	                
 	                <div class="footer-copy">
-	                    <div >COPYRIGHT © 2025 IOL.PT</div>
+	                    <div >COPYRIGHT © 2026 IOL.PT</div>
 	                </div>
 	            </div>
 	        </div>

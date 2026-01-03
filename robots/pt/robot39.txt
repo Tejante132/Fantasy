@@ -1,0 +1,22 @@
+User-agent: *
+
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /author/raphael-santos/page/
+Disallow: /feed/
+
+Sitemap: https://escritaselvagem.com.br/sitemap_index.xml
+Sitemap: https://escritaselvagem.com.br/post-sitemap.xml
+Sitemap: https://escritaselvagem.com.br/page-sitemap.xml
+Sitemap: https://escritaselvagem.com.br/category-sitemap.xml
+User-agent: *
+
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /author/raphael-santos/page/
+Disallow: /feed/
+
+Sitemap: https://escritaselvagem.com.br/sitemap_index.xml
+Sitemap: https://escritaselvagem.com.br/post-sitemap.xml
+Sitemap: https://escritaselvagem.com.br/page-sitemap.xml
+Sitemap: https://escritaselvagem.com.br/category-sitemap.xml

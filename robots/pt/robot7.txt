@@ -1,0 +1,84 @@
+User-agent: *
+Disallow: /search
+Disallow: /7811748
+Disallow: /300x100
+Disallow: /320x50
+Disallow: /LDB1
+Disallow: /embedemissao/*
+Disallow: /_preview
+
+User-agent: OpenAI
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Googlebot-Bard
+Disallow: /
+
+User-agent: OpenAI-Crawler
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+Sitemap: https://cnnportugal.iol.pt/sitemap.xml
+Sitemap: https://cnnportugal.iol.pt/sitemaps/news.xml
+Sitemap: https://cnnportugal.iol.pt/sitemaps/index.xml
+Sitemap: https://cnnportugal.iol.pt/sitemaps/videos.xml
+
+
+Sitemap: https://cnnportugal.iol.pt/eleicoes/sitemaps/legislativas2025.xml
+
+Sitemap: https://cnnportugal.iol.pt/eleicoes/sitemaps/autarquicas2025.xml
+
+Sitemap: https://cnnportugal.iol.pt/eleicoes/sitemaps/europeias2024.xml
+
+Sitemap: https://cnnportugal.iol.pt/eleicoes/sitemaps/legislativas2024.xml
+
+Sitemap: https://cnnportugal.iol.pt/eleicoes/sitemaps/legislativas2022.xml
+User-agent: *
+Disallow: /search
+Disallow: /7811748
+Disallow: /300x100
+Disallow: /320x50
+Disallow: /LDB1
+Disallow: /embedemissao/*
+Disallow: /_preview
+
+User-agent: OpenAI
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Googlebot-Bard
+Disallow: /
+
+User-agent: OpenAI-Crawler
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+Sitemap: https://cnnportugal.iol.pt/sitemap.xml
+Sitemap: https://cnnportugal.iol.pt/sitemaps/news.xml
+Sitemap: https://cnnportugal.iol.pt/sitemaps/index.xml
+Sitemap: https://cnnportugal.iol.pt/sitemaps/videos.xml
+
+
+Sitemap: https://cnnportugal.iol.pt/eleicoes/sitemaps/legislativas2025.xml
+
+Sitemap: https://cnnportugal.iol.pt/eleicoes/sitemaps/autarquicas2025.xml
+
+Sitemap: https://cnnportugal.iol.pt/eleicoes/sitemaps/europeias2024.xml
+
+Sitemap: https://cnnportugal.iol.pt/eleicoes/sitemaps/legislativas2024.xml
+
+Sitemap: https://cnnportugal.iol.pt/eleicoes/sitemaps/legislativas2022.xml

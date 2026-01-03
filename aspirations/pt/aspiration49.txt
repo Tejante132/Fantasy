@@ -177,7 +177,7 @@ window.addEventListener( "DOMContentLoaded", function( e ) {
 		}
 		/* ]]> */
 	</script>
-	<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-1' href='/_static/??-eJxtzEkKgDAQRNELGZs4EDfiWUJsxMzYHby+RARB3BQ8KD6cWZgUGSNDKCL7su2RwCJnbdxjCCnVWYtHggO9ZlxFTsQftYaogf+k3x2+4Vv1voRZqrHvpkHJwV5glDTa&cssminify=yes' type='text/css' media='all' />
+	<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-1' href='/_static/??-eJxtzEkKgDAMQNELWYNjcSGeRdog1Q7BpHh9UQRBXD74fDhImRQFo0DIinxeXGRYUWg222PgHCEkmz0y7OhnQasosXxUGuYC/o/ebfh+b135FMZKd02th77t1hMpiDR+&cssminify=yes' type='text/css' media='all' />
 <style id='wp-emoji-styles-inline-css'>
 
 	img.wp-smiley, img.emoji {
@@ -218,7 +218,7 @@ window.addEventListener( "DOMContentLoaded", function( e ) {
 :root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
 /*# sourceURL=jetpack-global-styles-frontend-style-inline-css */
 </style>
-<link crossorigin='anonymous' rel='stylesheet' id='all-css-8-1' href='/_static/??-eJyNjcEKwjAQRH/IuFRT6kX8FNkmS5K6yQY3Qfx7bfEiXrwM82B4A49qnJRGpUHupnIPqSgs1Cq624chi6zhO5OCRryTR++fW00l7J3qDv43XVNxoOISsmEJol/wY2uR8vs3WggsM/I6uOTzMI3Hw8lOg11eUT1JKA==&cssminify=yes' type='text/css' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-8-1' href='/_static/??-eJyNjcsKAjEMRX/IGtQZBxfip0hMS9sxTYppGfx7H7gRN+7ugcs5sFRHKi1Ig9Jd5R6zGMyhVaTrh8G6QFHfORhYwlvw6P39PbPENZmt4G/ROQuBKWVkxxrVvuBH1lIoz2waILJekF+HUzlupnG3nQ77YZwfuRJIaQ==&cssminify=yes' type='text/css' media='all' />
 <script type="text/javascript" id="jetpack_related-posts-js-extra">
 /* <![CDATA[ */
 var related_posts_js_options = {"post_heading":"h4"};
@@ -227,17 +227,17 @@ var related_posts_js_options = {"post_heading":"h4"};
 </script>
 <script type="text/javascript" id="wpcom-actionbar-placeholder-js-extra">
 /* <![CDATA[ */
-var actionbardata = {"siteID":"94402315","postID":"5937","siteURL":"https://revistalacuna.com","xhrURL":"https://revistalacuna.com/wp-admin/admin-ajax.php","nonce":"f70ec016d6","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https://s0.wp.com/wp-content/js/wpcom-proxy-request.js?m=1513050504i&amp;ver=20211021","shortlink":"https://wp.me/p6o6lZ-1xL","i18n":{"followedText":"Novas publica\u00e7\u00f5es deste site agora aparecer\u00e3o no seu \u003Ca href=\"https://wordpress.com/reader\"\u003ELeitor\u003C/a\u003E","foldBar":"Esconder esta barra","unfoldBar":"Mostrar esta barra","shortLinkCopied":"Link curto copiado."}};
+var actionbardata = {"siteID":"94402315","postID":"5937","siteURL":"https://revistalacuna.com","xhrURL":"https://revistalacuna.com/wp-admin/admin-ajax.php","nonce":"dd4b6dffe1","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https://s0.wp.com/wp-content/js/wpcom-proxy-request.js?m=1513050504i&amp;ver=20211021","shortlink":"https://wp.me/p6o6lZ-1xL","i18n":{"followedText":"Novas publica\u00e7\u00f5es deste site agora aparecer\u00e3o no seu \u003Ca href=\"https://wordpress.com/reader\"\u003ELeitor\u003C/a\u003E","foldBar":"Esconder esta barra","unfoldBar":"Mostrar esta barra","shortLinkCopied":"Link curto copiado."}};
 //# sourceURL=wpcom-actionbar-placeholder-js-extra
 /* ]]> */
 </script>
 <script type="text/javascript" id="jetpack-mu-wpcom-settings-js-before">
 /* <![CDATA[ */
-var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s1.wp.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/moon/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/"};
+var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s1.wp.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/"};
 //# sourceURL=jetpack-mu-wpcom-settings-js-before
 /* ]]> */
 </script>
-<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJx1jcEOwiAQRH/I7dYm6Mn4KabCpgFhQVhS+/digkk9eJpM5uUNrgl0ZCEWDBWSr4vlgo4kzfrRO4YYGW+WNd6r9QYz+VnIQIpFym8bguXBlQPuxK4xXiDl+Nq+W5P5aqh8RveslLcee8FfCIJdcjvt8DVcjmelxvE0Tcq9AV2gTlk='></script>
+<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJx1jcEOwiAQRH9IunJo2ovxU0yFTQPCguyS2r8XE0zqwdNkMi9vYMvKJBIkgVhVDnV1xOBR8mIevQNXgpsjA/fqgoWCYRG0KicW/m1DdDR4PsHB6xsTROWSXvt3a7JQLfJn9M+KZe9xFPyFVHRraacdvsaLnsbxrPU0z/4NC+ROAA=='></script>
 <script type="text/javascript" id="rlt-proxy-js-after">
 /* <![CDATA[ */
 	rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
@@ -342,7 +342,7 @@ a, .comment-reply-link { color: #6D6D6D;}
 		}
 	</script>
 	<!--<![endif]-->
-<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-3' href='/_static/??-eJyNjMEKgzAQBX9Ifdha9CJ+StF1KdFkN7gJ+X0RbM89zjAMSqxJJbEkhFxHnz9ODBunONN+M4Kq4O2EsHil3WDFRT4aMqvw/yHomj0baD40G/tf9BXXcApj27+ej6Hr2247ASkBO20=&cssminify=yes' type='text/css' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-3' href='/_static/??-eJyNjM0KgzAQBl9I/ag/lR6KjyK6LhJNNsHN4uuXQuvZ4wzD4EwlRcksGcHK5G11otg4p4n2H0NNMDohzD7SrtDTJT4qUi1wexDiYp4VNB3RlP3V/MX3N4T3o++aun892277AK5vOq4=&cssminify=yes' type='text/css' media='all' />
 </head>
 
 <body class="wp-singular post-template-default single single-post postid-5937 single-format-standard wp-embed-responsive wp-theme-premiumhive customizer-styles-applied jetpack-reblog-enabled custom-colors">
@@ -548,7 +548,7 @@ a, .comment-reply-link { color: #6D6D6D;}
 				>
 				<span id="sharing-facebook-5937" hidden>Clique para compartilhar no Facebook(abre em nova janela)</span>
 				<span>Facebook</span>
-			</a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-94402315-5937-694c2eb21b518' data-src='//widgets.wp.com/likes/index.html?ver=20251224#blog_id=94402315&amp;post_id=5937&amp;origin=lacunarevista.wordpress.com&amp;obj_id=94402315-5937-694c2eb21b518&amp;domain=revistalacuna.com' data-name='like-post-frame-94402315-5937-694c2eb21b518' data-title='Curtir ou reblogar'><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Curtir</span></span> <span class='loading'>Carregando...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+			</a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-94402315-5937-6959631f08817' data-src='//widgets.wp.com/likes/index.html?ver=20260103#blog_id=94402315&amp;post_id=5937&amp;origin=lacunarevista.wordpress.com&amp;obj_id=94402315-5937-6959631f08817&amp;domain=revistalacuna.com' data-name='like-post-frame-94402315-5937-6959631f08817' data-title='Curtir ou reblogar'><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Curtir</span></span> <span class='loading'>Carregando...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
 <div id='jp-relatedposts' class='jp-relatedposts' >
 	<h3 class="jp-relatedposts-headline"><em>Relacionado</em></h3>
 </div></div>	</div><!-- .entry-content -->
@@ -659,7 +659,7 @@ a, .comment-reply-link { color: #6D6D6D;}
 										<input type="hidden" name="blog_id" value="94402315" />
 										<input type="hidden" name="source" value="https://revistalacuna.com/2024/08/12/n-16-01/" />
 										<input type="hidden" name="sub-type" value="actionbar-follow" />
-										<input type="hidden" id="_wpnonce" name="_wpnonce" value="18eae0a2cb" />										<div class="actnbr-button-wrap">
+										<input type="hidden" id="_wpnonce" name="_wpnonce" value="1207de3e76" />										<div class="actnbr-button-wrap">
 											<button type="submit" value="Cadastre-me">
 												Cadastre-me											</button>
 										</div>
@@ -952,8 +952,8 @@ var comment_like_text = {"loading":"Carregando...","swipeUrl":"https://s2.wp.com
 </script>
 <script type="text/javascript" id="jetpack-carousel-js-extra">
 /* <![CDATA[ */
-var jetpackSwiperLibraryPath = {"url":"/wp-content/mu-plugins/jetpack-plugin/moon/_inc/blocks/swiper.js"};
-var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"pt","ajaxurl":"https://revistalacuna.com/wp-admin/admin-ajax.php","nonce":"c2e8f1dfbc","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Coment\u00e1rio","post_comment":"Publicar coment\u00e1rio","write_comment":"Escreva um Coment\u00e1rio","loading_comments":"Carregando coment\u00e1rios...","image_label":"Abrir imagem em tela cheia.","download_original":"Visualizar tamanho original \u003Cspan class=\"photo-size\"\u003E{0}\u003Cspan class=\"photo-size-times\"\u003E\u00d7\u003C/span\u003E{1}\u003C/span\u003E","no_comment_text":"Certifique-se de enviar algum texto com o seu coment\u00e1rio.","no_comment_email":"Informe um endere\u00e7o de e-mail para comentar.","no_comment_author":"Forne\u00e7a seu nome para comentar.","comment_post_error":"Desculpe, mas ocorreu um erro ao postar seu coment\u00e1rio. Tente novamente mais tarde.","comment_approved":"Seu coment\u00e1rio foi aprovado.","comment_unapproved":"Seu coment\u00e1rio est\u00e1 aguardando modera\u00e7\u00e3o.","camera":"C\u00e2mera","aperture":"Abertura","shutter_speed":"Velocidade do Obturador","focal_length":"Comprimento Focal","copyright":"Direito autoral","comment_registration":"0","require_name_email":"1","login_url":"https://lacunarevista.wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Frevistalacuna.com%2F2024%2F08%2F12%2Fn-16-01%2F","blog_id":"94402315","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"stats_query_args":"blog=94402315&v=wpcom&tz=-3&user_id=0&subd=lacunarevista","is_public":"1"};
+var jetpackSwiperLibraryPath = {"url":"/wp-content/mu-plugins/jetpack-plugin/sun/_inc/blocks/swiper.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"pt","ajaxurl":"https://revistalacuna.com/wp-admin/admin-ajax.php","nonce":"144dce438f","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Coment\u00e1rio","post_comment":"Publicar coment\u00e1rio","write_comment":"Escreva um Coment\u00e1rio","loading_comments":"Carregando coment\u00e1rios...","image_label":"Abrir imagem em tela cheia.","download_original":"Visualizar tamanho original \u003Cspan class=\"photo-size\"\u003E{0}\u003Cspan class=\"photo-size-times\"\u003E\u00d7\u003C/span\u003E{1}\u003C/span\u003E","no_comment_text":"Certifique-se de enviar algum texto com o seu coment\u00e1rio.","no_comment_email":"Informe um endere\u00e7o de e-mail para comentar.","no_comment_author":"Forne\u00e7a seu nome para comentar.","comment_post_error":"Desculpe, mas ocorreu um erro ao postar seu coment\u00e1rio. Tente novamente mais tarde.","comment_approved":"Seu coment\u00e1rio foi aprovado.","comment_unapproved":"Seu coment\u00e1rio est\u00e1 aguardando modera\u00e7\u00e3o.","camera":"C\u00e2mera","aperture":"Abertura","shutter_speed":"Velocidade do Obturador","focal_length":"Comprimento Focal","copyright":"Direito autoral","comment_registration":"0","require_name_email":"1","login_url":"https://lacunarevista.wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Frevistalacuna.com%2F2024%2F08%2F12%2Fn-16-01%2F","blog_id":"94402315","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"stats_query_args":"blog=94402315&v=wpcom&tz=-3&user_id=0&subd=lacunarevista","is_public":"1"};
 //# sourceURL=jetpack-carousel-js-extra
 /* ]]> */
 </script>
@@ -963,7 +963,7 @@ var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
 //# sourceURL=sharing-js-js-extra
 /* ]]> */
 </script>
-<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJydkUluwzAMRS9Uh8iiSbMIuu4pClYiLCqipGpw4NtXSOzCSLxxduLnf+IE19ip4Av5AlK76GrPPoPjC2X4rVTJoNeO0s7mN1g3qyDSpO4O2QdhBtkrV/XdwII9ZRdQk94J+zWPYA4+jcv0XLsYkmaKiYSrgOGBAHOm8vz5JtK2gVtFEwZKXzdgGz+QC4rLuI0SfJ5wsV1LJaK6TDFICB6+26Lgp7LToDCFmsn9+2ZhbXHLo0227hrbuR7C19vJBhNp1Hq8Pdn3Ux+fct4fD/uP0+n4frB/Ziftwg=='></script>
+<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJydkUluwzAMRS9Uh8iiSbMIuu4pClYiLCqipGpw4NtXSOzCSLxxduLnf+IE19ip4Av5AlK76GrPPoPjC2X4rVTJoNeO0s7mN1g3qyDSpO4O2QdhBtkrV/XdwII9ZRdQk94J+zWPYA4+jcv0XLsYkmaKiYSrgOGBAHOm8vz5JtK2gVtFEwZKXzdgGz+QC4rLuI0SfJ5wsV1LJaK6TDHk6uG77Ql+KjsNClOomdy/bRbW9ra82WTrrrFd6yF8uZtsMJFGrcfbk30/tfEp5/3xsP84nY7vB/sHhY7s/A=='></script>
 <script type="text/javascript" id="sharing-js-js-after">
 /* <![CDATA[ */
 var windowOpen;
@@ -1045,7 +1045,7 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
 //# sourceURL=/wp-includes/js/wp-emoji-loader.min.js
 /* ]]> */
 </script>
-	<iframe src='https://widgets.wp.com/likes/master.html?ver=20251224#ver=20251224&#038;lang=pt-br' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<iframe src='https://widgets.wp.com/likes/master.html?ver=20260103#ver=20260103&#038;lang=pt-br' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
 	<div id='likes-other-gravatars' role="dialog" aria-hidden="true" tabindex="-1"><div class="likes-text"><span>%d</span></div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
 	<script src="//stats.wp.com/w.js?68" defer></script> <script type="text/javascript">
 _tkq = window._tkq || [];
@@ -1053,11 +1053,11 @@ _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'94402315','blog_tz':'-3','user_lang':'pt-br','blog_lang':'pt-br','user_id':'0'}]);
 		// Prevent sending pageview tracking from WP-Admin pages.
 		_stq.push(['view', {'blog':'94402315','v':'wpcom','tz':'-3','user_id':'0','post':'5937','subd':'lacunarevista'}]);
-		_stq.push(['extra', {'crypt':'UE5tW3cvZGRxXWhIdk1BQzU4TUNKY0dHWzBxc2NCUFpbS35HMi93Z2NlZ1lnbCtFYWUvPzJtcFZwSS55dkt0Zy9aW3BCJjEwckxoSDNzOWw2RF1bWmJ+XzVHZ3MxL1locFZ5RzRmX0c/SlFORlZuZ2J5VzddMkpaV1E3X25zU1Jib29MMT91dWExfklPb3paSTRTaW9CQURoeVdwc2VKNmt4RTQ0NVFxdG13Yj1mQ1p6bU92TDM4SC58YVR1a3dOU2NoZFlifCVYQzkrd09rUjNiYzhXT0xZN2Z5VHZiZQ=='}]);
+		_stq.push(['extra', {'crypt':'UE5tW3cvZGRxXWhIdk1BQzU4TUNKY0dHWzBxc2NCUFpbS35HMi93Z2NlZ1lnbCtFYWUvPzJtcFZwSS55dkt0Zy9aW3BHLlRzeDZ3RXdRN3F3b1Q9bWQlSS5DLm1xLUo9WUJ6VTI2Jmxsal18cFRISHFLRlo5MGVET1RtSUZaOTF6UW0yYlJIWUZLa0NnTUMtWDh2L20rZi1+X2dQdjUuMzI9WThMblpScFQ9R0E2TlFSVnVtPX42RVkmdXZIaHJxXUgyP3RSMVt8VW9UQUg4QzA/RT1IUHkwPUQwLTNILw=='}]);
 _stq.push([ 'clickTrackerInit', '94402315', '5937' ]);
 </script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
 <meta id="bilmur" property="bilmur:data" content="" data-provider="wordpress.com" data-service="simple" data-site-tz="Etc/GMT+3" data-custom-props="{&quot;enq_jquery&quot;:&quot;1&quot;,&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;premium\/hive&quot;,&quot;wptheme_is_block&quot;:&quot;0&quot;}"  >
-		<script defer src="/wp-content/js/bilmur.min.js?i=17&amp;m=202552"></script> 	
+		<script defer src="/wp-content/js/bilmur.min.js?i=17&amp;m=202601"></script> 	
 </body>
 </html>

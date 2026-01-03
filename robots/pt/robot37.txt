@@ -1,0 +1,50 @@
+User-agent: Slurp
+Disallow: /
+
+User-agent: Baidoospider
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: Baidoospider
+Disallow: /
+
+User-Agent: *
+Allow: /
+Disallow: /_conteudos/
+Disallow: /*.json
+Disallow: /*.php
+Disallow: /webparts/
+Disallow: /search/
+Sitemap: https://www.diariodepernambuco.com.br/sitemap-index.xml
+Sitemap: https://www.diariodepernambuco.com.br/sitemap.xml
+Sitemap: https://diariodepernambuco.com.br/dpmais/sitemap_index.xml
+User-agent: Slurp
+Disallow: /
+
+User-agent: Baidoospider
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: Baidoospider
+Disallow: /
+
+User-Agent: *
+Allow: /
+Disallow: /_conteudos/
+Disallow: /*.json
+Disallow: /*.php
+Disallow: /webparts/
+Disallow: /search/
+Sitemap: https://www.diariodepernambuco.com.br/sitemap-index.xml
+Sitemap: https://www.diariodepernambuco.com.br/sitemap.xml
+Sitemap: https://diariodepernambuco.com.br/dpmais/sitemap_index.xml

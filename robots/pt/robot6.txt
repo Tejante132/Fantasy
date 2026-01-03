@@ -1,0 +1,48 @@
+#
+# robots.txt
+#
+User-Agent: *
+Disallow: /busca/
+Disallow: /beta/
+Disallow: /delivery
+Disallow: *globo-cdn-src/*
+Disallow: /espiar/
+Sitemap: https://gshow.globo.com/sitemap/gshow/sitemap.xml
+
+
+###### 
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+######
+#
+# robots.txt
+#
+User-Agent: *
+Disallow: /busca/
+Disallow: /beta/
+Disallow: /delivery
+Disallow: *globo-cdn-src/*
+Disallow: /espiar/
+Sitemap: https://gshow.globo.com/sitemap/gshow/sitemap.xml
+
+
+###### 
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+######

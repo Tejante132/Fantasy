@@ -18,7 +18,7 @@
 
     <form method="post" action="/Empresas/Pedir-o-Certificado-de-Admissibilidade" id="Form" enctype="multipart/form-data">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="WvFX6QJF5ilhVa+rnQigqtguQopyG+qdtT4cAo3XN4npeLpRCNiCvVP05J6OpUx0CfHuBhfAKei28d9/ksdx7zzpgq0zGEp8ChaUimjt2g089LNCJQ7PTE3jAk1T7Uj8HixfS2kB+fGg0tlPs5dTc4pFpnasDTaMw9LA1bOKaRwCXFPbKAYYTIvCUCilKiGtNzCTLFV5OwFPPxZ5EdQBHaRhjoHQPbJ01fg5OjlUMR6OggvKgBav+A8ihIRJSAZyNujdyk5OeUdW9/OUg5zr0g6ww8yU/4ftnL+nRQ==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="2Gb17c1SPUehBODRxs0Y3S3uHNPo7JmXpRomdxD8fpZCaQJH1hi5NS6kFnCk7SjqEDVHD4AsU/qeJMAZ/zH9e5KR0GyCBvDL7NAQDEr64xrfOq2c2c++VRW/Mzv1P/WB910EDxgwH2bR+hIu61VBI0RI/viRGVf58TdISthHAbeSBeGpswTHrj7Me22i7Eejn4oNRBAiFiSFKeZpJLWOYjGUTOd2sCfT01Y7z2pY++bAku4wBH8Gyso40xkD+CtOrDSkCAs/qCFJ9Lzqpperjco45pOOWMr9HPIdpg==" />
 </div>
 
 
@@ -33,7 +33,7 @@ var __cultureInfo = {"name":"pt-PT","numberFormat":{"CurrencyDecimalDigits":2,"C
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
 	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="Jd86hi68DIHNTeIYjCAcd3XJXS+8PRfDAELKMUSW3UkLd/L/KP6mjJR7S+zS8Nb2eEX1C1NhRzIvKRHVDDZydpJj+Fd6TyZ0T3TJHPIYsrrAwgM+hyCfn756RTvJ64D1i4/9AIW4GhaCwTeyv2hrtdWxIno=" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="5+fBCqtUX5WcFPtFfcTygZkKwNj8ZGwYmNtrXjHvy+iVDFMsvgj1agu3Ca/Re+vye1spXzYW6Rh1rlHgF32SYqIowb1jvSI65rSxnnuuf8uDgn2DcKP0XIUCBxuOUnuD76fqXMX6IKHV1SegOA2A8+I+f64=" />
 </div><script src="/js/dnn.modalpopup.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/bootstrap/vendor/aos/aos.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/bootstrap/vendor/bootstrap/js/bootstrap.bundle.min.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/bootstrap/vendor/glightbox/js/glightbox.min.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/bootstrap/vendor/isotope-layout/isotope.pkgd.min.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/bootstrap/vendor/swiper/swiper-bundle.min.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/bootstrap/vendor/waypoints/noframework.waypoints.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/bootstrap/vendor/php-email-form/validate.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/jquery.smartmenus.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/jquery.smartmenus.bootstrap.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/scripts.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/bootstrap/js/main.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/MultibancoRedirectionAfterPayment.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/FirstHeaderBinding.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/SecondHeaderBinding.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/LanguageDropdownBinding.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/assets/js/main.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/irn_meta_Fields_PageBinding.js?cdv=143" type="text/javascript"></script><script src="/Portals/_default/skins/irn_agora/js/toastr.min.js?cdv=143" type="text/javascript"></script><script src="/js/dnncore.js?cdv=143" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
@@ -702,7 +702,7 @@ Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [],
                 </div>
                 <div class="footer-bottom__copy">
                     <span>© </span>
-                    <span><span id="dnn_ctr395_FooterCompleto_dnnCurrentDate_lblDate" class="SkinObject">2025</span>
+                    <span><span id="dnn_ctr395_FooterCompleto_dnnCurrentDate_lblDate" class="SkinObject">2026</span>
  </span>
                     <span>República Portuguesa. Todos os direitos reservados.</span>
                 </div>

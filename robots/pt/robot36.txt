@@ -1,0 +1,32 @@
+User-agent: *
+
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-json/
+Disallow: /search/
+Disallow: /*?s=
+Disallow: /*?*date=
+Disallow: /*?*ym=
+Disallow: /*?*orderby=
+Disallow: /*?*filter=
+Disallow: /*?*sort=
+
+Allow: /wp-content/plugins/madmen-opengraph-image-v2/madmen-opengraph-image.php*
+
+Crawl-Delay: 120
+User-agent: *
+
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-json/
+Disallow: /search/
+Disallow: /*?s=
+Disallow: /*?*date=
+Disallow: /*?*ym=
+Disallow: /*?*orderby=
+Disallow: /*?*filter=
+Disallow: /*?*sort=
+
+Allow: /wp-content/plugins/madmen-opengraph-image-v2/madmen-opengraph-image.php*
+
+Crawl-Delay: 120

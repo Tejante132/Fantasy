@@ -1,0 +1,3386 @@
+
+
+
+# Leave the top line blank due to BOM (UTF-8 marker)  - http://www.12titans.net/p/robots-txt-bom.aspx
+
+User-agent: *
+Sitemap: https://www.storyboardthat.com/sitemap/xml
+
+Disallow: /hp
+
+Disallow: /account/logonpop
+Disallow: /account/registerpop
+Disallow: /account/logonforcorporate
+Disallow: /account/logonforclassroom
+Disallow: /account/externallogin
+Disallow: /account/externallogin*
+
+Disallow: /account/logon$
+Disallow: /account/logon/*
+Disallow: /account/logon?ReturnUrl=*
+Disallow: /account/logon2/*
+Disallow: /account/logon2?ReturnUrl=*
+
+Disallow: /my-account$
+Disallow: /my-account/*
+
+Disallow: /my-account2$
+Disallow: /my-account2/*
+
+Disallow: /apiportal/*
+Disallow: /api_portal/*
+Disallow: /api-portal/*
+
+Disallow: /imageserver/embed/*
+Disallow: /estimate/*
+
+Disallow: /backend/
+Disallow: /backend/*
+
+Disallow: /biz$
+Disallow: /biz/*
+
+
+
+Disallow: /classroom
+Disallow: /classroom/*
+Disallow: /portal/*
+Disallow: /api/*
+Disallow: /copy-assignment/*
+
+Disallow: /injected-html
+Disallow: /storyboard-creator/core-library/test-cdn.txt
+Disallow: /handle-dom
+Disallow: /utils
+Disallow: /photo-downloads/*
+
+Disallow: /team-edition/create-my-first-storyboard
+Disallow: /team-edition/copy-storyboard/*
+Disallow: /team-edition/download*
+Disallow: /free-gift/
+Disallow: /free-gift/*
+Disallow: /free-gift/*/*
+
+Disallow: /teacher-edition/create-my-first-storyboard
+Disallow: /teacher-edition/copy-storyboard/*
+
+Disallow: /education/teacher-start-trial
+Disallow: /education/start-my-free-teacher-trial-today
+Disallow: /education/start-my-free-teacher-trial?username=*
+
+Disallow: /storyboard-template-gallery/*
+
+Disallow: /lesson-plans/addlessonplan
+
+Disallow: /privateboards/
+Disallow: /privateboards/*
+Disallow: /privateboards/*/*
+Disallow: /privateboards/*/*/*
+
+Disallow: /purchase/startorder
+Disallow: /purchase/stripecorporate
+Disallow: /purchase/stripeclassroom
+Disallow: /purchase/stripeindividual
+Disallow: /purchase/startclassroomorder
+Disallow: /purchase/sign-in-for-paypal
+Disallow: /purchase/sign-in-for-credit-card
+Disallow: /purchase/corporate-quote-buy-now
+
+Disallow: /diagnostics
+Disallow: /diagnostics/clear-cookies
+Disallow: /purple
+Disallow: /token
+
+
+Disallow: /email
+Disallow: /email/
+Disallow: /email/*
+
+Disallow: /error$
+Disallow: /error/*
+
+Disallow: /servererror
+Disallow: /servererror/*
+
+
+Disallow: /rmunify
+Disallow: /rmunify/
+Disallow: /rmunify/*
+
+Disallow: /schoology/*
+Disallow: /schoology/*
+
+Disallow: /Storybo..
+Disallow: /storyboardcreator/copystoryboard?title=addressing-poor-software-quality&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=budget-razors&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=context-approach-end-goal&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=context-approach-end-goal-long&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=coupon-codes-hurt-conversion-rates&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=expense-reports&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=logging-a-bug&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=Pick-Me-Up&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=poor-attendance-conversation&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=product-solution-benefit-long&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=product-solution-benefit-short&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=storyboard-that-can-be-too-fun&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=this-then-that-long&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=this-then-that-short&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=when-steps-success-short&Permission=User
+Disallow: /Storyboards/RecentStoryb..
+Disallow: /storyboards/viewstoryboard?title=addressing-poor-software-quality&permission=User
+Disallow: /storyboards/viewstoryboard?title=budget-razors&permission=User
+Disallow: /storyboards/viewstoryboard?title=context-approach-end-goal&permission=User
+Disallow: /storyboards/viewstoryboard?title=context-approach-end-goal-long&permission=User
+Disallow: /storyboards/viewstoryboard?title=coupon-codes-hurt-conversion-rates&permission=User
+Disallow: /storyboards/viewstoryboard?title=expense-reports&permission=User
+Disallow: /storyboards/viewstoryboard?title=logging-a-bug&permission=User
+Disallow: /storyboards/viewstoryboard?title=Pick-Me-Up&permission=User
+Disallow: /Storyboards/ViewStoryBoard?title=poor-attendance-conversation&permission=User
+Disallow: /Storyboards/ViewStoryBoard?title=product-solution-benefit-long&permission=User
+Disallow: /storyboards/viewstoryboard?title=product-solution-benefit-long&permission=User
+Disallow: /Storyboards/ViewStoryBoard?title=product-solution-benefit-short&permission=User
+Disallow: /storyboards/viewstoryboard?title=product-solution-benefit-short&permission=User
+Disallow: /Storyboards/ViewStoryBoard?title=storyboard-that-can-be-too-fun&permission=User
+Disallow: /storyboards/viewstoryboard?title=storyboard-that-can-be-too-fun&permission=User
+Disallow: /storyboards/viewstoryboard?title=this-then-that-long&permission=User
+Disallow: /storyboards/viewstoryboard?title=this-then-that-short&permission=User
+Disallow: /storyboards/viewstoryboard?title=when-steps-success-long&permission=User
+Disallow: /storyboards/viewstoryboard?title=when-steps-success-short&permission=User
+
+Disallow: /superimpose/sorry
+
+Disallow: /userboards/*/*/copy
+Disallow: /userboards/*/*/print
+Disallow: /userboards/*/*/print/print-choices
+Disallow: /userboards/*/*/image-pack
+Disallow: /userboards/*/*/powerpoint
+Disallow: /userboards/*/*/card
+Disallow: /userboards/*/*/slide-show
+Disallow: /userboards/*/*/image
+
+Disallow: /storyboards/*/*/copy
+Disallow: /storyboards/*/*/print
+Disallow: /storyboards/*/*/print/print-choices
+Disallow: /storyboards/*/*/image-pack
+Disallow: /storyboards/*/*/powerpoint
+Disallow: /storyboards/*/*/card
+Disallow: /storyboards/*/*/slide-show
+Disallow: /storyboards/*/*/image
+
+Disallow: /{language}/*
+Disallow: /---language---/*
+Disallow: /---language---/storyboards/*/*
+Disallow: /---language---/storyboards/*/*/copy
+Disallow: /---language---/storyboards/*/*/print
+Disallow: /---language---/storyboards/*/*/print/print-choices
+Disallow: /---language---/storyboards/*/*/image-pack
+Disallow: /---language---/storyboards/*/*/powerpoint
+Disallow: /---language---/storyboards/*/*/card
+Disallow: /---language---/storyboards/*/*/slide-show
+Disallow: /---language---/storyboards/*/*/image
+
+Disallow: /team-edition/create-my-first-storyboard
+Disallow: /team-edition/buy-now
+
+Disallow: /teacher-guide/*/activity/*
+Disallow: /lesson-plans/*/activity/*
+
+Disallow: /api_storyboardcreator/logstoryboardjserror
+
+Disallow: /teacher/promo/*
+Disallow: /team/promo/*
+
+
+
+Disallow: /photo-download/*
+Disallow: /purchase/promotion/*
+Disallow: /en/partials/*
+Disallow: /privateboards/
+Disallow: /privateboards/*
+Disallow: /privateboards/*/*
+Disallow: /privateboards/*/*/*
+Disallow: /storyboards/*/*/copy
+Disallow: /storyboards/*/*/print
+Disallow: /storyboards/*/*/print/print-choices
+Disallow: /storyboards/*/*/image-pack
+Disallow: /storyboards/*/*/powerpoint
+Disallow: /storyboards/*/*/slide-show
+Disallow: /storyboards/*/*/image
+Disallow: /storyboards/*/*/card
+Disallow: /teacher-guide/*/activity/*
+Disallow: /lesson-plans/*/activity/*
+Disallow: /biz$
+Disallow: /biz/*
+Disallow: /storyboards/*/<span*
+Disallow: /classroom/join$
+Disallow: /classroom/join/*
+Disallow: /biz/join$
+Disallow: /biz/join/*
+Disallow: /teacher-edition/create-my-first-storyboard$
+Disallow: /teacher-edition/create-my-first-storyboard/*
+Disallow: /team-edition/create-my-first-storyboard$
+Disallow: /team-edition/create-my-first-storyboard/*
+Disallow: /business/start-free-trial$
+Disallow: /business/start-free-trial/*
+Disallow: /education/start-my-free-teacher-trial$
+Disallow: /education/start-my-free-teacher-trial/*
+
+Disallow: /es/photo-download/*
+Disallow: /es/purchase/promotion/*
+Disallow: /es/partials/*
+Disallow: /es/privateboards/
+Disallow: /es/privateboards/*
+Disallow: /es/privateboards/*/*
+Disallow: /es/privateboards/*/*/*
+Disallow: /es/storyboards/*/*/copy
+Disallow: /es/storyboards/*/*/print
+Disallow: /es/storyboards/*/*/print/print-choices
+Disallow: /es/storyboards/*/*/image-pack
+Disallow: /es/storyboards/*/*/powerpoint
+Disallow: /es/storyboards/*/*/slide-show
+Disallow: /es/storyboards/*/*/image
+Disallow: /es/storyboards/*/*/card
+Disallow: /es/teacher-guide/*/activity/*
+Disallow: /es/lesson-plans/*/activity/*
+Disallow: /es/biz$
+Disallow: /es/biz/*
+Disallow: /es/storyboards/*/<span*
+Disallow: /es/classroom/join$
+Disallow: /es/classroom/join/*
+Disallow: /es/biz-join$
+Disallow: /es/biz-join/*
+
+Disallow: /es/edici%c3%b3n-docente-crear-mi-primer-gui%c3%b3n-gr%c3%a1fico$
+Disallow: /es/edici&#243;n-docente-crear-mi-primer-gui&#243;n-gr&#225;fico$
+Disallow: /es/edición-docente-crear-mi-primer-guión-gráfico$
+Disallow: /es/edici%c3%b3n-docente-crear-mi-primer-gui%c3%b3n-gr%c3%a1fico/*
+Disallow: /es/edici&#243;n-docente-crear-mi-primer-gui&#243;n-gr&#225;fico/*
+Disallow: /es/edición-docente-crear-mi-primer-guión-gráfico/*
+
+
+Disallow: /es/edici%c3%b3n-de-equipo-crear-mi-primer-gui%c3%b3n-gr%c3%a1fico$
+Disallow: /es/edici&#243;n-de-equipo-crear-mi-primer-gui&#243;n-gr&#225;fico$
+Disallow: /es/edición-de-equipo-crear-mi-primer-guión-gráfico$
+Disallow: /es/edici%c3%b3n-de-equipo-crear-mi-primer-gui%c3%b3n-gr%c3%a1fico/*
+Disallow: /es/edici&#243;n-de-equipo-crear-mi-primer-gui&#243;n-gr&#225;fico/*
+Disallow: /es/edición-de-equipo-crear-mi-primer-guión-gráfico/*
+
+Disallow: /es/empresa/iniciar-mi-prueba-gratuita$
+Disallow: /es/empresa/iniciar-mi-prueba-gratuita/*
+
+Disallow: /es/educaci%c3%b3n/iniciar-mi-prueba-gratuita$
+Disallow: /es/educaci&#243;n/iniciar-mi-prueba-gratuita$
+Disallow: /es/educación/iniciar-mi-prueba-gratuita$
+Disallow: /es/educaci%c3%b3n/iniciar-mi-prueba-gratuita/*
+Disallow: /es/educaci&#243;n/iniciar-mi-prueba-gratuita/*
+Disallow: /es/educación/iniciar-mi-prueba-gratuita/*
+
+
+Disallow: /fr/photo-download/*
+Disallow: /fr/purchase/promotion/*
+Disallow: /fr/partials/*
+Disallow: /fr/privateboards/
+Disallow: /fr/privateboards/*
+Disallow: /fr/privateboards/*/*
+Disallow: /fr/privateboards/*/*/*
+Disallow: /fr/storyboards/*/*/copy
+Disallow: /fr/storyboards/*/*/print
+Disallow: /fr/storyboards/*/*/print/print-choices
+Disallow: /fr/storyboards/*/*/image-pack
+Disallow: /fr/storyboards/*/*/powerpoint
+Disallow: /fr/storyboards/*/*/slide-show
+Disallow: /fr/storyboards/*/*/image
+Disallow: /fr/storyboards/*/*/card
+Disallow: /fr/teacher-guide/*/activity/*
+Disallow: /fr/lesson-plans/*/activity/*
+Disallow: /fr/biz$
+Disallow: /fr/biz/*
+Disallow: /fr/storyboards/*/<span*
+Disallow: /fr/salle-de-classe/joindre$
+Disallow: /fr/salle-de-classe/joindre/*
+Disallow: /fr/biz/joindre$
+Disallow: /fr/biz/joindre/*
+
+Disallow: /fr/%c3%a9dition-de-l&#39;enseignant-cr%c3%a9er-mon-premier-storyboard$
+Disallow: /fr/&#233;dition-de-l&#39;enseignant-cr&#233;er-mon-premier-storyboard$
+Disallow: /fr/édition-de-l'enseignant-créer-mon-premier-storyboard$
+Disallow: /fr/%c3%a9dition-de-l&#39;enseignant-cr%c3%a9er-mon-premier-storyboard/*
+Disallow: /fr/&#233;dition-de-l&#39;enseignant-cr&#233;er-mon-premier-storyboard/*
+Disallow: /fr/édition-de-l'enseignant-créer-mon-premier-storyboard/*
+
+
+Disallow: /fr/%c3%a9dition-d&#39;%c3%a9quipe-cr%c3%a9er-mon-premier-storyboard$
+Disallow: /fr/&#233;dition-d&#39;&#233;quipe-cr&#233;er-mon-premier-storyboard$
+Disallow: /fr/édition-d'équipe-créer-mon-premier-storyboard$
+Disallow: /fr/%c3%a9dition-d&#39;%c3%a9quipe-cr%c3%a9er-mon-premier-storyboard/*
+Disallow: /fr/&#233;dition-d&#39;&#233;quipe-cr&#233;er-mon-premier-storyboard/*
+Disallow: /fr/édition-d'équipe-créer-mon-premier-storyboard/*
+
+Disallow: /fr/entreprise/essayez-storyboard-that-gratuitement$
+Disallow: /fr/entreprise/essayez-storyboard-that-gratuitement/*
+
+Disallow: /fr/%c3%a9ducation/essayez-storyboard-that-gratuitement$
+Disallow: /fr/&#233;ducation/essayez-storyboard-that-gratuitement$
+Disallow: /fr/éducation/essayez-storyboard-that-gratuitement$
+Disallow: /fr/%c3%a9ducation/essayez-storyboard-that-gratuitement/*
+Disallow: /fr/&#233;ducation/essayez-storyboard-that-gratuitement/*
+Disallow: /fr/éducation/essayez-storyboard-that-gratuitement/*
+
+
+Disallow: /de/photo-download/*
+Disallow: /de/purchase/promotion/*
+Disallow: /de/partials/*
+Disallow: /de/privateboards/
+Disallow: /de/privateboards/*
+Disallow: /de/privateboards/*/*
+Disallow: /de/privateboards/*/*/*
+Disallow: /de/storyboards/*/*/copy
+Disallow: /de/storyboards/*/*/print
+Disallow: /de/storyboards/*/*/print/print-choices
+Disallow: /de/storyboards/*/*/image-pack
+Disallow: /de/storyboards/*/*/powerpoint
+Disallow: /de/storyboards/*/*/slide-show
+Disallow: /de/storyboards/*/*/image
+Disallow: /de/storyboards/*/*/card
+Disallow: /de/teacher-guide/*/activity/*
+Disallow: /de/lesson-plans/*/activity/*
+Disallow: /de/biz$
+Disallow: /de/biz/*
+Disallow: /de/storyboards/*/<span*
+Disallow: /de/klassenzimmer/beitreten$
+Disallow: /de/klassenzimmer/beitreten/*
+Disallow: /de/biz/beitreten$
+Disallow: /de/biz/beitreten/*
+Disallow: /de/lehrerausgabe-erstellen-mein-erstes-storyboard$
+Disallow: /de/lehrerausgabe-erstellen-mein-erstes-storyboard/*
+Disallow: /de/team-edition-erstelle-mein-erstes-storyboard$
+Disallow: /de/team-edition-erstelle-mein-erstes-storyboard/*
+
+Disallow: /de/gesch%c3%a4ft/start-frei-versuch$
+Disallow: /de/gesch&#228;ft/start-frei-versuch$
+Disallow: /de/geschäft/start-frei-versuch$
+Disallow: /de/gesch%c3%a4ft/start-frei-versuch/*
+Disallow: /de/gesch&#228;ft/start-frei-versuch/*
+Disallow: /de/geschäft/start-frei-versuch/*
+
+Disallow: /de/bildung/start-meine-freie-lehrer-studie$
+Disallow: /de/bildung/start-meine-freie-lehrer-studie/*
+
+Disallow: /it/photo-download/*
+Disallow: /it/purchase/promotion/*
+Disallow: /it/partials/*
+Disallow: /it/privateboards/
+Disallow: /it/privateboards/*
+Disallow: /it/privateboards/*/*
+Disallow: /it/privateboards/*/*/*
+Disallow: /it/storyboards/*/*/copy
+Disallow: /it/storyboards/*/*/print
+Disallow: /it/storyboards/*/*/print/print-choices
+Disallow: /it/storyboards/*/*/image-pack
+Disallow: /it/storyboards/*/*/powerpoint
+Disallow: /it/storyboards/*/*/slide-show
+Disallow: /it/storyboards/*/*/image
+Disallow: /it/storyboards/*/*/card
+Disallow: /it/teacher-guide/*/activity/*
+Disallow: /it/lesson-plans/*/activity/*
+Disallow: /it/biz$
+Disallow: /it/biz/*
+Disallow: /it/storyboards/*/<span*
+Disallow: /it/aula/join$
+Disallow: /it/aula/join/*
+Disallow: /it/biz/join$
+Disallow: /it/biz/join/*
+Disallow: /it/l&#39;edizione-per-insegnanti-crea-il-mio-primo-storyboard$
+Disallow: /it/l&#39;edizione-per-insegnanti-crea-il-mio-primo-storyboard/*
+Disallow: /it/l&#39;edizione-della-squadra-crea-il-mio-primo-storyboard$
+Disallow: /it/l&#39;edizione-della-squadra-crea-il-mio-primo-storyboard/*
+Disallow: /it/imprese/start-libera-trial$
+Disallow: /it/imprese/start-libera-trial/*
+Disallow: /it/istruzione/start-my-libera-insegnante-trial$
+Disallow: /it/istruzione/start-my-libera-insegnante-trial/*
+
+Disallow: /nl/photo-download/*
+Disallow: /nl/purchase/promotion/*
+Disallow: /nl/partials/*
+Disallow: /nl/privateboards/
+Disallow: /nl/privateboards/*
+Disallow: /nl/privateboards/*/*
+Disallow: /nl/privateboards/*/*/*
+Disallow: /nl/storyboards/*/*/copy
+Disallow: /nl/storyboards/*/*/print
+Disallow: /nl/storyboards/*/*/print/print-choices
+Disallow: /nl/storyboards/*/*/image-pack
+Disallow: /nl/storyboards/*/*/powerpoint
+Disallow: /nl/storyboards/*/*/slide-show
+Disallow: /nl/storyboards/*/*/image
+Disallow: /nl/storyboards/*/*/card
+Disallow: /nl/teacher-guide/*/activity/*
+Disallow: /nl/lesson-plans/*/activity/*
+Disallow: /nl/biz$
+Disallow: /nl/biz/*
+Disallow: /nl/storyboards/*/<span*
+Disallow: /nl/klaslokaal/join$
+Disallow: /nl/klaslokaal/join/*
+Disallow: /nl/biz/join$
+Disallow: /nl/biz/join/*
+Disallow: /nl/teacher-edition-maak-mijn-eerste-storyboard$
+Disallow: /nl/teacher-edition-maak-mijn-eerste-storyboard/*
+Disallow: /nl/team-editie-maak-mijn-eerste-storyboard$
+Disallow: /nl/team-editie-maak-mijn-eerste-storyboard/*
+Disallow: /nl/business/start-free-proef$
+Disallow: /nl/business/start-free-proef/*
+Disallow: /nl/onderwijs/start-my-free-leraar-proef$
+Disallow: /nl/onderwijs/start-my-free-leraar-proef/*
+
+Disallow: /pt/photo-download/*
+Disallow: /pt/purchase/promotion/*
+Disallow: /pt/partials/*
+Disallow: /pt/privateboards/
+Disallow: /pt/privateboards/*
+Disallow: /pt/privateboards/*/*
+Disallow: /pt/privateboards/*/*/*
+Disallow: /pt/storyboards/*/*/copy
+Disallow: /pt/storyboards/*/*/print
+Disallow: /pt/storyboards/*/*/print/print-choices
+Disallow: /pt/storyboards/*/*/image-pack
+Disallow: /pt/storyboards/*/*/powerpoint
+Disallow: /pt/storyboards/*/*/slide-show
+Disallow: /pt/storyboards/*/*/image
+Disallow: /pt/storyboards/*/*/card
+Disallow: /pt/teacher-guide/*/activity/*
+Disallow: /pt/lesson-plans/*/activity/*
+Disallow: /pt/biz$
+Disallow: /pt/biz/*
+Disallow: /pt/storyboards/*/<span*
+Disallow: /pt/sala-de-aula/participar$
+Disallow: /pt/sala-de-aula/participar/*
+Disallow: /pt/biz/join$
+Disallow: /pt/biz/join/*
+
+Disallow: /pt/edi%c3%a7%c3%a3o-do-professor-criar-meu-primeiro-storyboard$
+Disallow: /pt/edi&#231;&#227;o-do-professor-criar-meu-primeiro-storyboard$
+Disallow: /pt/edição-do-professor-criar-meu-primeiro-storyboard$
+Disallow: /pt/edi%c3%a7%c3%a3o-do-professor-criar-meu-primeiro-storyboard/*
+Disallow: /pt/edi&#231;&#227;o-do-professor-criar-meu-primeiro-storyboard/*
+Disallow: /pt/edição-do-professor-criar-meu-primeiro-storyboard/*
+
+
+Disallow: /pt/edi%c3%a7%c3%a3o-de-equipe-criar-meu-primeiro-storyboard$
+Disallow: /pt/edi&#231;&#227;o-de-equipe-criar-meu-primeiro-storyboard$
+Disallow: /pt/edição-de-equipe-criar-meu-primeiro-storyboard$
+Disallow: /pt/edi%c3%a7%c3%a3o-de-equipe-criar-meu-primeiro-storyboard/*
+Disallow: /pt/edi&#231;&#227;o-de-equipe-criar-meu-primeiro-storyboard/*
+Disallow: /pt/edição-de-equipe-criar-meu-primeiro-storyboard/*
+
+Disallow: /pt/empresa/iniciar-free-trial$
+Disallow: /pt/empresa/iniciar-free-trial/*
+
+Disallow: /pt/educa%c3%a7%c3%a3o/start-my-free-teacher-trial$
+Disallow: /pt/educa&#231;&#227;o/start-my-free-teacher-trial$
+Disallow: /pt/educação/start-my-free-teacher-trial$
+Disallow: /pt/educa%c3%a7%c3%a3o/start-my-free-teacher-trial/*
+Disallow: /pt/educa&#231;&#227;o/start-my-free-teacher-trial/*
+Disallow: /pt/educação/start-my-free-teacher-trial/*
+
+
+Disallow: /he/photo-download/*
+Disallow: /he/purchase/promotion/*
+Disallow: /he/partials/*
+Disallow: /he/privateboards/
+Disallow: /he/privateboards/*
+Disallow: /he/privateboards/*/*
+Disallow: /he/privateboards/*/*/*
+Disallow: /he/storyboards/*/*/copy
+Disallow: /he/storyboards/*/*/print
+Disallow: /he/storyboards/*/*/print/print-choices
+Disallow: /he/storyboards/*/*/image-pack
+Disallow: /he/storyboards/*/*/powerpoint
+Disallow: /he/storyboards/*/*/slide-show
+Disallow: /he/storyboards/*/*/image
+Disallow: /he/storyboards/*/*/card
+Disallow: /he/teacher-guide/*/activity/*
+Disallow: /he/lesson-plans/*/activity/*
+Disallow: /he/biz$
+Disallow: /he/biz/*
+Disallow: /he/storyboards/*/<span*
+
+Disallow: /he/%d7%91%d7%9b%d7%99%d7%aa%d7%94/%d7%9c%d7%94%d7%a6%d7%98%d7%a8%d7%a3$
+Disallow: /he/בכיתה/להצטרף$
+Disallow: /he/בכיתה/להצטרף$
+Disallow: /he/%d7%91%d7%9b%d7%99%d7%aa%d7%94/%d7%9c%d7%94%d7%a6%d7%98%d7%a8%d7%a3/*
+Disallow: /he/בכיתה/להצטרף/*
+Disallow: /he/בכיתה/להצטרף/*
+
+
+Disallow: /he/biz/%d7%9c%d7%94%d7%a6%d7%98%d7%a8%d7%a3$
+Disallow: /he/biz/להצטרף$
+Disallow: /he/biz/להצטרף$
+Disallow: /he/biz/%d7%9c%d7%94%d7%a6%d7%98%d7%a8%d7%a3/*
+Disallow: /he/biz/להצטרף/*
+Disallow: /he/biz/להצטרף/*
+
+
+Disallow: /he/%d7%9e%d7%94%d7%93%d7%95%d7%a8%d7%aa-%d7%94%d7%9e%d7%95%d7%a8%d7%94-%d7%9c%d7%99%d7%a6%d7%95%d7%a8-%d7%90%d7%aa-%d7%94%d7%aa%d7%9b%d7%a0%d7%95%d7%9f-%d7%94%d7%a8%d7%90%d7%a9%d7%95%d7%9f-%d7%a9%d7%9c%d7%99$
+Disallow: /he/מהדורת-המורה-ליצור-את-התכנון-הראשון-שלי$
+Disallow: /he/מהדורת-המורה-ליצור-את-התכנון-הראשון-שלי$
+Disallow: /he/%d7%9e%d7%94%d7%93%d7%95%d7%a8%d7%aa-%d7%94%d7%9e%d7%95%d7%a8%d7%94-%d7%9c%d7%99%d7%a6%d7%95%d7%a8-%d7%90%d7%aa-%d7%94%d7%aa%d7%9b%d7%a0%d7%95%d7%9f-%d7%94%d7%a8%d7%90%d7%a9%d7%95%d7%9f-%d7%a9%d7%9c%d7%99/*
+Disallow: /he/מהדורת-המורה-ליצור-את-התכנון-הראשון-שלי/*
+Disallow: /he/מהדורת-המורה-ליצור-את-התכנון-הראשון-שלי/*
+
+
+Disallow: /he/%d7%9e%d7%94%d7%93%d7%95%d7%a8%d7%aa-%d7%a6%d7%95%d7%95%d7%aa-%d7%9c%d7%99%d7%a6%d7%95%d7%a8-%d7%90%d7%aa-%d7%94%d7%aa%d7%9b%d7%a0%d7%95%d7%9f-%d7%94%d7%a8%d7%90%d7%a9%d7%95%d7%9f-%d7%a9%d7%9c%d7%99$
+Disallow: /he/מהדורת-צוות-ליצור-את-התכנון-הראשון-שלי$
+Disallow: /he/מהדורת-צוות-ליצור-את-התכנון-הראשון-שלי$
+Disallow: /he/%d7%9e%d7%94%d7%93%d7%95%d7%a8%d7%aa-%d7%a6%d7%95%d7%95%d7%aa-%d7%9c%d7%99%d7%a6%d7%95%d7%a8-%d7%90%d7%aa-%d7%94%d7%aa%d7%9b%d7%a0%d7%95%d7%9f-%d7%94%d7%a8%d7%90%d7%a9%d7%95%d7%9f-%d7%a9%d7%9c%d7%99/*
+Disallow: /he/מהדורת-צוות-ליצור-את-התכנון-הראשון-שלי/*
+Disallow: /he/מהדורת-צוות-ליצור-את-התכנון-הראשון-שלי/*
+
+
+Disallow: /he/%d7%a2%d7%a1%d7%a7%d7%99%d7%9d/%d7%a1%d7%98%d7%90%d7%a8%d7%98-%d7%97%d7%99%d7%a0%d7%9d-%d7%9e%d7%a9%d7%a4%d7%98$
+Disallow: /he/עסקים/סטארט-חינם-משפט$
+Disallow: /he/עסקים/סטארט-חינם-משפט$
+Disallow: /he/%d7%a2%d7%a1%d7%a7%d7%99%d7%9d/%d7%a1%d7%98%d7%90%d7%a8%d7%98-%d7%97%d7%99%d7%a0%d7%9d-%d7%9e%d7%a9%d7%a4%d7%98/*
+Disallow: /he/עסקים/סטארט-חינם-משפט/*
+Disallow: /he/עסקים/סטארט-חינם-משפט/*
+
+
+Disallow: /he/%d7%97%d7%99%d7%a0%d7%95%d7%9a/%d7%a1%d7%98%d7%90%d7%a8%d7%98-%d7%9e%d7%95%d7%a8%d7%94-%d7%97%d7%99%d7%a0%d7%9d-%d7%a9%d7%9c%d7%99-%d7%9e%d7%a9%d7%a4%d7%98$
+Disallow: /he/חינוך/סטארט-מורה-חינם-שלי-משפט$
+Disallow: /he/חינוך/סטארט-מורה-חינם-שלי-משפט$
+Disallow: /he/%d7%97%d7%99%d7%a0%d7%95%d7%9a/%d7%a1%d7%98%d7%90%d7%a8%d7%98-%d7%9e%d7%95%d7%a8%d7%94-%d7%97%d7%99%d7%a0%d7%9d-%d7%a9%d7%9c%d7%99-%d7%9e%d7%a9%d7%a4%d7%98/*
+Disallow: /he/חינוך/סטארט-מורה-חינם-שלי-משפט/*
+Disallow: /he/חינוך/סטארט-מורה-חינם-שלי-משפט/*
+
+
+Disallow: /ar/photo-download/*
+Disallow: /ar/purchase/promotion/*
+Disallow: /ar/partials/*
+Disallow: /ar/privateboards/
+Disallow: /ar/privateboards/*
+Disallow: /ar/privateboards/*/*
+Disallow: /ar/privateboards/*/*/*
+Disallow: /ar/storyboards/*/*/copy
+Disallow: /ar/storyboards/*/*/print
+Disallow: /ar/storyboards/*/*/print/print-choices
+Disallow: /ar/storyboards/*/*/image-pack
+Disallow: /ar/storyboards/*/*/powerpoint
+Disallow: /ar/storyboards/*/*/slide-show
+Disallow: /ar/storyboards/*/*/image
+Disallow: /ar/storyboards/*/*/card
+Disallow: /ar/teacher-guide/*/activity/*
+Disallow: /ar/lesson-plans/*/activity/*
+Disallow: /ar/biz$
+Disallow: /ar/biz/*
+Disallow: /ar/storyboards/*/<span*
+
+Disallow: /ar/%d8%a7%d9%84%d9%81%d8%b5%d9%88%d9%84-%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d8%a9/%d8%a7%d9%86%d8%b6%d9%85%d8%a7%d9%85$
+Disallow: /ar/الفصول-الدراسية/انضمام$
+Disallow: /ar/الفصول-الدراسية/انضمام$
+Disallow: /ar/%d8%a7%d9%84%d9%81%d8%b5%d9%88%d9%84-%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d8%a9/%d8%a7%d9%86%d8%b6%d9%85%d8%a7%d9%85/*
+Disallow: /ar/الفصول-الدراسية/انضمام/*
+Disallow: /ar/الفصول-الدراسية/انضمام/*
+
+
+Disallow: /ar/%d8%a8%d9%8a%d8%b2/%d8%a7%d9%86%d8%b6%d9%85%d8%a7%d9%85$
+Disallow: /ar/بيز/انضمام$
+Disallow: /ar/بيز/انضمام$
+Disallow: /ar/%d8%a8%d9%8a%d8%b2/%d8%a7%d9%86%d8%b6%d9%85%d8%a7%d9%85/*
+Disallow: /ar/بيز/انضمام/*
+Disallow: /ar/بيز/انضمام/*
+
+
+Disallow: /ar/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d9%82%d8%b5%d8%aa%d9%8a-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89$
+Disallow: /ar/إصدار-المعلم-إنشاء-قصتي-الأولى$
+Disallow: /ar/إصدار-المعلم-إنشاء-قصتي-الأولى$
+Disallow: /ar/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d9%82%d8%b5%d8%aa%d9%8a-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89/*
+Disallow: /ar/إصدار-المعلم-إنشاء-قصتي-الأولى/*
+Disallow: /ar/إصدار-المعلم-إنشاء-قصتي-الأولى/*
+
+
+Disallow: /ar/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82-%d9%84%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d9%84%d9%88%d8%ad%d8%a9-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89$
+Disallow: /ar/إصدار-الفريق-لإنشاء-لوحة-العمل-الأولى$
+Disallow: /ar/إصدار-الفريق-لإنشاء-لوحة-العمل-الأولى$
+Disallow: /ar/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82-%d9%84%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d9%84%d9%88%d8%ad%d8%a9-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89/*
+Disallow: /ar/إصدار-الفريق-لإنشاء-لوحة-العمل-الأولى/*
+Disallow: /ar/إصدار-الفريق-لإنشاء-لوحة-العمل-الأولى/*
+
+
+Disallow: /ar/%d8%a7%d9%84%d8%b9%d9%85%d9%84/%d8%ae%d8%a7%d9%84%d9%8a%d8%a9-%d9%85%d9%86-%d8%a8%d8%af%d8%a1-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%83%d9%85%d8%a9$
+Disallow: /ar/العمل/خالية-من-بدء-المحاكمة$
+Disallow: /ar/العمل/خالية-من-بدء-المحاكمة$
+Disallow: /ar/%d8%a7%d9%84%d8%b9%d9%85%d9%84/%d8%ae%d8%a7%d9%84%d9%8a%d8%a9-%d9%85%d9%86-%d8%a8%d8%af%d8%a1-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%83%d9%85%d8%a9/*
+Disallow: /ar/العمل/خالية-من-بدء-المحاكمة/*
+Disallow: /ar/العمل/خالية-من-بدء-المحاكمة/*
+
+
+Disallow: /ar/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85/%d8%a8%d8%af%d8%a1-%d8%a8%d9%84%d8%af%d9%8a-%d8%ae%d8%a7%d9%84%d9%8a%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85%d9%8a%d9%86-%d9%84%d9%84%d9%85%d8%ad%d8%a7%d9%83%d9%85%d8%a9$
+Disallow: /ar/التعليم/بدء-بلدي-خالية-من-المعلمين-للمحاكمة$
+Disallow: /ar/التعليم/بدء-بلدي-خالية-من-المعلمين-للمحاكمة$
+Disallow: /ar/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85/%d8%a8%d8%af%d8%a1-%d8%a8%d9%84%d8%af%d9%8a-%d8%ae%d8%a7%d9%84%d9%8a%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85%d9%8a%d9%86-%d9%84%d9%84%d9%85%d8%ad%d8%a7%d9%83%d9%85%d8%a9/*
+Disallow: /ar/التعليم/بدء-بلدي-خالية-من-المعلمين-للمحاكمة/*
+Disallow: /ar/التعليم/بدء-بلدي-خالية-من-المعلمين-للمحاكمة/*
+
+
+Disallow: /hi/photo-download/*
+Disallow: /hi/purchase/promotion/*
+Disallow: /hi/partials/*
+Disallow: /hi/privateboards/
+Disallow: /hi/privateboards/*
+Disallow: /hi/privateboards/*/*
+Disallow: /hi/privateboards/*/*/*
+Disallow: /hi/storyboards/*/*/copy
+Disallow: /hi/storyboards/*/*/print
+Disallow: /hi/storyboards/*/*/print/print-choices
+Disallow: /hi/storyboards/*/*/image-pack
+Disallow: /hi/storyboards/*/*/powerpoint
+Disallow: /hi/storyboards/*/*/slide-show
+Disallow: /hi/storyboards/*/*/image
+Disallow: /hi/storyboards/*/*/card
+Disallow: /hi/teacher-guide/*/activity/*
+Disallow: /hi/lesson-plans/*/activity/*
+Disallow: /hi/biz$
+Disallow: /hi/biz/*
+Disallow: /hi/storyboards/*/<span*
+
+Disallow: /hi/%e0%a4%95%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be/%e0%a4%b6%e0%a4%be%e0%a4%ae%e0%a4%bf%e0%a4%b2$
+Disallow: /hi/कक्षा/शामिल$
+Disallow: /hi/कक्षा/शामिल$
+Disallow: /hi/%e0%a4%95%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be/%e0%a4%b6%e0%a4%be%e0%a4%ae%e0%a4%bf%e0%a4%b2/*
+Disallow: /hi/कक्षा/शामिल/*
+Disallow: /hi/कक्षा/शामिल/*
+
+
+Disallow: /hi/%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%bc/%e0%a4%b6%e0%a4%be%e0%a4%ae%e0%a4%bf%e0%a4%b2$
+Disallow: /hi/बिज़/शामिल$
+Disallow: /hi/बिज़/शामिल$
+Disallow: /hi/%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%bc/%e0%a4%b6%e0%a4%be%e0%a4%ae%e0%a4%bf%e0%a4%b2/*
+Disallow: /hi/बिज़/शामिल/*
+Disallow: /hi/बिज़/शामिल/*
+
+
+Disallow: /hi/%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95-%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0%e0%a4%a3-%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a4%be-%e0%a4%aa%e0%a4%b9%e0%a4%b2%e0%a4%be-%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8b%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1-%e0%a4%ac%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a5%87-%e0%a4%b9%e0%a5%88%e0%a4%82$
+Disallow: /hi/शिक्षक-संस्करण-मेरा-पहला-स्टोरीबोर्ड-बनाते-हैं$
+Disallow: /hi/शिक्षक-संस्करण-मेरा-पहला-स्टोरीबोर्ड-बनाते-हैं$
+Disallow: /hi/%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95-%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0%e0%a4%a3-%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a4%be-%e0%a4%aa%e0%a4%b9%e0%a4%b2%e0%a4%be-%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8b%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1-%e0%a4%ac%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a5%87-%e0%a4%b9%e0%a5%88%e0%a4%82/*
+Disallow: /hi/शिक्षक-संस्करण-मेरा-पहला-स्टोरीबोर्ड-बनाते-हैं/*
+Disallow: /hi/शिक्षक-संस्करण-मेरा-पहला-स्टोरीबोर्ड-बनाते-हैं/*
+
+
+Disallow: /hi/%e0%a4%9f%e0%a5%80%e0%a4%ae-%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0%e0%a4%a3-%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a4%be-%e0%a4%aa%e0%a4%b9%e0%a4%b2%e0%a4%be-%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8b%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1-%e0%a4%ac%e0%a4%a8%e0%a4%be%e0%a4%8f%e0%a4%82$
+Disallow: /hi/टीम-संस्करण-मेरा-पहला-स्टोरीबोर्ड-बनाएं$
+Disallow: /hi/टीम-संस्करण-मेरा-पहला-स्टोरीबोर्ड-बनाएं$
+Disallow: /hi/%e0%a4%9f%e0%a5%80%e0%a4%ae-%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0%e0%a4%a3-%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a4%be-%e0%a4%aa%e0%a4%b9%e0%a4%b2%e0%a4%be-%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8b%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1-%e0%a4%ac%e0%a4%a8%e0%a4%be%e0%a4%8f%e0%a4%82/*
+Disallow: /hi/टीम-संस्करण-मेरा-पहला-स्टोरीबोर्ड-बनाएं/*
+Disallow: /hi/टीम-संस्करण-मेरा-पहला-स्टोरीबोर्ड-बनाएं/*
+
+
+Disallow: /hi/%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%b5%e0%a4%b8%e0%a4%be%e0%a4%af/%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a5%82-free-%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3$
+Disallow: /hi/व्यवसाय/शुरू-free-परीक्षण$
+Disallow: /hi/व्यवसाय/शुरू-free-परीक्षण$
+Disallow: /hi/%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%b5%e0%a4%b8%e0%a4%be%e0%a4%af/%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a5%82-free-%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3/*
+Disallow: /hi/व्यवसाय/शुरू-free-परीक्षण/*
+Disallow: /hi/व्यवसाय/शुरू-free-परीक्षण/*
+
+
+Disallow: /hi/%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be/%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a5%82-%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a5%80-free-%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95-%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3$
+Disallow: /hi/शिक्षा/शुरू-मेरी-free-शिक्षक-परीक्षण$
+Disallow: /hi/शिक्षा/शुरू-मेरी-free-शिक्षक-परीक्षण$
+Disallow: /hi/%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be/%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a5%82-%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a5%80-free-%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95-%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3/*
+Disallow: /hi/शिक्षा/शुरू-मेरी-free-शिक्षक-परीक्षण/*
+Disallow: /hi/शिक्षा/शुरू-मेरी-free-शिक्षक-परीक्षण/*
+
+
+Disallow: /ru/photo-download/*
+Disallow: /ru/purchase/promotion/*
+Disallow: /ru/partials/*
+Disallow: /ru/privateboards/
+Disallow: /ru/privateboards/*
+Disallow: /ru/privateboards/*/*
+Disallow: /ru/privateboards/*/*/*
+Disallow: /ru/storyboards/*/*/copy
+Disallow: /ru/storyboards/*/*/print
+Disallow: /ru/storyboards/*/*/print/print-choices
+Disallow: /ru/storyboards/*/*/image-pack
+Disallow: /ru/storyboards/*/*/powerpoint
+Disallow: /ru/storyboards/*/*/slide-show
+Disallow: /ru/storyboards/*/*/image
+Disallow: /ru/storyboards/*/*/card
+Disallow: /ru/teacher-guide/*/activity/*
+Disallow: /ru/lesson-plans/*/activity/*
+Disallow: /ru/biz$
+Disallow: /ru/biz/*
+Disallow: /ru/storyboards/*/<span*
+
+Disallow: /ru/%d0%ba%d0%bb%d0%b0%d1%81%d1%81/%d0%bf%d1%80%d0%b8%d1%81%d0%be%d0%b5%d0%b4%d0%b8%d0%bd%d0%b8%d1%82%d1%8c%d1%81%d1%8f$
+Disallow: /ru/класс/присоединиться$
+Disallow: /ru/класс/присоединиться$
+Disallow: /ru/%d0%ba%d0%bb%d0%b0%d1%81%d1%81/%d0%bf%d1%80%d0%b8%d1%81%d0%be%d0%b5%d0%b4%d0%b8%d0%bd%d0%b8%d1%82%d1%8c%d1%81%d1%8f/*
+Disallow: /ru/класс/присоединиться/*
+Disallow: /ru/класс/присоединиться/*
+
+
+Disallow: /ru/%d0%b1%d0%b8%d0%b7/%d0%bf%d1%80%d0%b8%d1%81%d0%be%d0%b5%d0%b4%d0%b8%d0%bd%d0%b8%d1%82%d1%8c%d1%81%d1%8f$
+Disallow: /ru/биз/присоединиться$
+Disallow: /ru/биз/присоединиться$
+Disallow: /ru/%d0%b1%d0%b8%d0%b7/%d0%bf%d1%80%d0%b8%d1%81%d0%be%d0%b5%d0%b4%d0%b8%d0%bd%d0%b8%d1%82%d1%8c%d1%81%d1%8f/*
+Disallow: /ru/биз/присоединиться/*
+Disallow: /ru/биз/присоединиться/*
+
+
+Disallow: /ru/%d0%bf%d1%80%d0%b5%d0%bf%d0%be%d0%b4%d0%b0%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b8%d0%b9-%d0%b2%d1%8b%d0%bf%d1%83%d1%81%d0%ba-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%b9%d1%82%d0%b5-%d0%bc%d0%be%d1%8e-%d0%bf%d0%b5%d1%80%d0%b2%d1%83%d1%8e-%d1%80%d0%b0%d1%81%d0%ba%d0%b0%d0%b4%d1%80%d0%be%d0%b2%d0%ba%d1%83$
+Disallow: /ru/преподавательский-выпуск-создайте-мою-первую-раскадровку$
+Disallow: /ru/преподавательский-выпуск-создайте-мою-первую-раскадровку$
+Disallow: /ru/%d0%bf%d1%80%d0%b5%d0%bf%d0%be%d0%b4%d0%b0%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b8%d0%b9-%d0%b2%d1%8b%d0%bf%d1%83%d1%81%d0%ba-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%b9%d1%82%d0%b5-%d0%bc%d0%be%d1%8e-%d0%bf%d0%b5%d1%80%d0%b2%d1%83%d1%8e-%d1%80%d0%b0%d1%81%d0%ba%d0%b0%d0%b4%d1%80%d0%be%d0%b2%d0%ba%d1%83/*
+Disallow: /ru/преподавательский-выпуск-создайте-мою-первую-раскадровку/*
+Disallow: /ru/преподавательский-выпуск-создайте-мою-первую-раскадровку/*
+
+
+Disallow: /ru/team-edition-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%b9%d1%82%d0%b5-%d0%bc%d0%be%d1%8e-%d0%bf%d0%b5%d1%80%d0%b2%d1%83%d1%8e-%d1%80%d0%b0%d1%81%d0%ba%d0%b0%d0%b4%d1%80%d0%be%d0%b2%d0%ba%d1%83$
+Disallow: /ru/team-edition-создайте-мою-первую-раскадровку$
+Disallow: /ru/team-edition-создайте-мою-первую-раскадровку$
+Disallow: /ru/team-edition-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%b9%d1%82%d0%b5-%d0%bc%d0%be%d1%8e-%d0%bf%d0%b5%d1%80%d0%b2%d1%83%d1%8e-%d1%80%d0%b0%d1%81%d0%ba%d0%b0%d0%b4%d1%80%d0%be%d0%b2%d0%ba%d1%83/*
+Disallow: /ru/team-edition-создайте-мою-первую-раскадровку/*
+Disallow: /ru/team-edition-создайте-мою-первую-раскадровку/*
+
+
+Disallow: /ru/%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81/%d0%b7%d0%b0%d0%bf%d1%83%d1%81%d0%ba-%d0%b1%d0%b5%d1%81%d0%bf%d0%bb%d0%b0%d1%82%d0%bd%d0%be-%d1%81%d1%83%d0%b4%d0%b0$
+Disallow: /ru/бизнес/запуск-бесплатно-суда$
+Disallow: /ru/бизнес/запуск-бесплатно-суда$
+Disallow: /ru/%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81/%d0%b7%d0%b0%d0%bf%d1%83%d1%81%d0%ba-%d0%b1%d0%b5%d1%81%d0%bf%d0%bb%d0%b0%d1%82%d0%bd%d0%be-%d1%81%d1%83%d0%b4%d0%b0/*
+Disallow: /ru/бизнес/запуск-бесплатно-суда/*
+Disallow: /ru/бизнес/запуск-бесплатно-суда/*
+
+
+Disallow: /ru/%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5/%d1%81%d1%82%d0%b0%d1%80%d1%82-%d0%bc%d0%be%d0%b9-%d0%be%d1%81%d0%b2%d0%be%d0%b1%d0%be%d0%b6%d0%b4%d0%b0%d1%8e%d1%89%d0%b5%d0%b3%d0%be-%d1%83%d1%87%d0%b8%d1%82%d0%b5%d0%bb%d1%8c-%d1%81%d1%83%d0%b4$
+Disallow: /ru/образование/старт-мой-освобождающего-учитель-суд$
+Disallow: /ru/образование/старт-мой-освобождающего-учитель-суд$
+Disallow: /ru/%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5/%d1%81%d1%82%d0%b0%d1%80%d1%82-%d0%bc%d0%be%d0%b9-%d0%be%d1%81%d0%b2%d0%be%d0%b1%d0%be%d0%b6%d0%b4%d0%b0%d1%8e%d1%89%d0%b5%d0%b3%d0%be-%d1%83%d1%87%d0%b8%d1%82%d0%b5%d0%bb%d1%8c-%d1%81%d1%83%d0%b4/*
+Disallow: /ru/образование/старт-мой-освобождающего-учитель-суд/*
+Disallow: /ru/образование/старт-мой-освобождающего-учитель-суд/*
+
+
+Disallow: /da/photo-download/*
+Disallow: /da/purchase/promotion/*
+Disallow: /da/partials/*
+Disallow: /da/privateboards/
+Disallow: /da/privateboards/*
+Disallow: /da/privateboards/*/*
+Disallow: /da/privateboards/*/*/*
+Disallow: /da/storyboards/*/*/copy
+Disallow: /da/storyboards/*/*/print
+Disallow: /da/storyboards/*/*/print/print-choices
+Disallow: /da/storyboards/*/*/image-pack
+Disallow: /da/storyboards/*/*/powerpoint
+Disallow: /da/storyboards/*/*/slide-show
+Disallow: /da/storyboards/*/*/image
+Disallow: /da/storyboards/*/*/card
+Disallow: /da/teacher-guide/*/activity/*
+Disallow: /da/lesson-plans/*/activity/*
+Disallow: /da/biz$
+Disallow: /da/biz/*
+Disallow: /da/storyboards/*/<span*
+
+Disallow: /da/klassev%c3%a6relse/join$
+Disallow: /da/klassev&#230;relse/join$
+Disallow: /da/klasseværelse/join$
+Disallow: /da/klassev%c3%a6relse/join/*
+Disallow: /da/klassev&#230;relse/join/*
+Disallow: /da/klasseværelse/join/*
+
+Disallow: /da/biz/join$
+Disallow: /da/biz/join/*
+
+Disallow: /da/l%c3%a6rerudgave-oprette-mit-f%c3%b8rste-storyboard$
+Disallow: /da/l&#230;rerudgave-oprette-mit-f&#248;rste-storyboard$
+Disallow: /da/lærerudgave-oprette-mit-første-storyboard$
+Disallow: /da/l%c3%a6rerudgave-oprette-mit-f%c3%b8rste-storyboard/*
+Disallow: /da/l&#230;rerudgave-oprette-mit-f&#248;rste-storyboard/*
+Disallow: /da/lærerudgave-oprette-mit-første-storyboard/*
+
+
+Disallow: /da/teamudgave-oprette-mit-f%c3%b8rste-storyboard$
+Disallow: /da/teamudgave-oprette-mit-f&#248;rste-storyboard$
+Disallow: /da/teamudgave-oprette-mit-første-storyboard$
+Disallow: /da/teamudgave-oprette-mit-f%c3%b8rste-storyboard/*
+Disallow: /da/teamudgave-oprette-mit-f&#248;rste-storyboard/*
+Disallow: /da/teamudgave-oprette-mit-første-storyboard/*
+
+Disallow: /da/virksomhed/start-free-trial$
+Disallow: /da/virksomhed/start-free-trial/*
+
+Disallow: /da/uddannelse/start-mit-fri-l%c3%a6rer-fors%c3%b8g$
+Disallow: /da/uddannelse/start-mit-fri-l&#230;rer-fors&#248;g$
+Disallow: /da/uddannelse/start-mit-fri-lærer-forsøg$
+Disallow: /da/uddannelse/start-mit-fri-l%c3%a6rer-fors%c3%b8g/*
+Disallow: /da/uddannelse/start-mit-fri-l&#230;rer-fors&#248;g/*
+Disallow: /da/uddannelse/start-mit-fri-lærer-forsøg/*
+
+
+Disallow: /sv/photo-download/*
+Disallow: /sv/purchase/promotion/*
+Disallow: /sv/partials/*
+Disallow: /sv/privateboards/
+Disallow: /sv/privateboards/*
+Disallow: /sv/privateboards/*/*
+Disallow: /sv/privateboards/*/*/*
+Disallow: /sv/storyboards/*/*/copy
+Disallow: /sv/storyboards/*/*/print
+Disallow: /sv/storyboards/*/*/print/print-choices
+Disallow: /sv/storyboards/*/*/image-pack
+Disallow: /sv/storyboards/*/*/powerpoint
+Disallow: /sv/storyboards/*/*/slide-show
+Disallow: /sv/storyboards/*/*/image
+Disallow: /sv/storyboards/*/*/card
+Disallow: /sv/teacher-guide/*/activity/*
+Disallow: /sv/lesson-plans/*/activity/*
+Disallow: /sv/biz$
+Disallow: /sv/biz/*
+Disallow: /sv/storyboards/*/<span*
+Disallow: /sv/klassrum/join$
+Disallow: /sv/klassrum/join/*
+Disallow: /sv/biz/join$
+Disallow: /sv/biz/join/*
+
+Disallow: /sv/l%c3%a4rarutg%c3%a5va-skapa-min-f%c3%b6rsta-storyboard$
+Disallow: /sv/l&#228;rarutg&#229;va-skapa-min-f&#246;rsta-storyboard$
+Disallow: /sv/lärarutgåva-skapa-min-första-storyboard$
+Disallow: /sv/l%c3%a4rarutg%c3%a5va-skapa-min-f%c3%b6rsta-storyboard/*
+Disallow: /sv/l&#228;rarutg&#229;va-skapa-min-f&#246;rsta-storyboard/*
+Disallow: /sv/lärarutgåva-skapa-min-första-storyboard/*
+
+
+Disallow: /sv/lagutg%c3%a5va-skapa-mitt-f%c3%b6rsta-storyboard$
+Disallow: /sv/lagutg&#229;va-skapa-mitt-f&#246;rsta-storyboard$
+Disallow: /sv/lagutgåva-skapa-mitt-första-storyboard$
+Disallow: /sv/lagutg%c3%a5va-skapa-mitt-f%c3%b6rsta-storyboard/*
+Disallow: /sv/lagutg&#229;va-skapa-mitt-f&#246;rsta-storyboard/*
+Disallow: /sv/lagutgåva-skapa-mitt-första-storyboard/*
+
+Disallow: /sv/business/start-free-trial$
+Disallow: /sv/business/start-free-trial/*
+
+Disallow: /sv/utbildning/start-my-free-l%c3%a4rare-r%c3%a4tteg%c3%a5ng$
+Disallow: /sv/utbildning/start-my-free-l&#228;rare-r&#228;tteg&#229;ng$
+Disallow: /sv/utbildning/start-my-free-lärare-rättegång$
+Disallow: /sv/utbildning/start-my-free-l%c3%a4rare-r%c3%a4tteg%c3%a5ng/*
+Disallow: /sv/utbildning/start-my-free-l&#228;rare-r&#228;tteg&#229;ng/*
+Disallow: /sv/utbildning/start-my-free-lärare-rättegång/*
+
+
+Disallow: /fi/photo-download/*
+Disallow: /fi/purchase/promotion/*
+Disallow: /fi/partials/*
+Disallow: /fi/privateboards/
+Disallow: /fi/privateboards/*
+Disallow: /fi/privateboards/*/*
+Disallow: /fi/privateboards/*/*/*
+Disallow: /fi/storyboards/*/*/copy
+Disallow: /fi/storyboards/*/*/print
+Disallow: /fi/storyboards/*/*/print/print-choices
+Disallow: /fi/storyboards/*/*/image-pack
+Disallow: /fi/storyboards/*/*/powerpoint
+Disallow: /fi/storyboards/*/*/slide-show
+Disallow: /fi/storyboards/*/*/image
+Disallow: /fi/storyboards/*/*/card
+Disallow: /fi/teacher-guide/*/activity/*
+Disallow: /fi/lesson-plans/*/activity/*
+Disallow: /fi/biz$
+Disallow: /fi/biz/*
+Disallow: /fi/storyboards/*/<span*
+Disallow: /fi/luokkahuone/join$
+Disallow: /fi/luokkahuone/join/*
+Disallow: /fi/biz/join$
+Disallow: /fi/biz/join/*
+
+Disallow: /fi/opettajan-painos-luovat-ensimm%c3%a4isen-tarinan$
+Disallow: /fi/opettajan-painos-luovat-ensimm&#228;isen-tarinan$
+Disallow: /fi/opettajan-painos-luovat-ensimmäisen-tarinan$
+Disallow: /fi/opettajan-painos-luovat-ensimm%c3%a4isen-tarinan/*
+Disallow: /fi/opettajan-painos-luovat-ensimm&#228;isen-tarinan/*
+Disallow: /fi/opettajan-painos-luovat-ensimmäisen-tarinan/*
+
+
+Disallow: /fi/team-painos-luo-ensimm%c3%a4isen-tarinan$
+Disallow: /fi/team-painos-luo-ensimm&#228;isen-tarinan$
+Disallow: /fi/team-painos-luo-ensimmäisen-tarinan$
+Disallow: /fi/team-painos-luo-ensimm%c3%a4isen-tarinan/*
+Disallow: /fi/team-painos-luo-ensimm&#228;isen-tarinan/*
+Disallow: /fi/team-painos-luo-ensimmäisen-tarinan/*
+
+Disallow: /fi/liike/start-vapaa-kokeiluversio$
+Disallow: /fi/liike/start-vapaa-kokeiluversio/*
+Disallow: /fi/koulutus/start-my-vapaa-opettaja-kokeilu$
+Disallow: /fi/koulutus/start-my-vapaa-opettaja-kokeilu/*
+
+Disallow: /no/photo-download/*
+Disallow: /no/purchase/promotion/*
+Disallow: /no/partials/*
+Disallow: /no/privateboards/
+Disallow: /no/privateboards/*
+Disallow: /no/privateboards/*/*
+Disallow: /no/privateboards/*/*/*
+Disallow: /no/storyboards/*/*/copy
+Disallow: /no/storyboards/*/*/print
+Disallow: /no/storyboards/*/*/print/print-choices
+Disallow: /no/storyboards/*/*/image-pack
+Disallow: /no/storyboards/*/*/powerpoint
+Disallow: /no/storyboards/*/*/slide-show
+Disallow: /no/storyboards/*/*/image
+Disallow: /no/storyboards/*/*/card
+Disallow: /no/teacher-guide/*/activity/*
+Disallow: /no/lesson-plans/*/activity/*
+Disallow: /no/biz$
+Disallow: /no/biz/*
+Disallow: /no/storyboards/*/<span*
+Disallow: /no/klasserom/join$
+Disallow: /no/klasserom/join/*
+Disallow: /no/biz/join$
+Disallow: /no/biz/join/*
+
+Disallow: /no/l%c3%a6rerutgave-lage-mitt-f%c3%b8rste-storyboard$
+Disallow: /no/l&#230;rerutgave-lage-mitt-f&#248;rste-storyboard$
+Disallow: /no/lærerutgave-lage-mitt-første-storyboard$
+Disallow: /no/l%c3%a6rerutgave-lage-mitt-f%c3%b8rste-storyboard/*
+Disallow: /no/l&#230;rerutgave-lage-mitt-f&#248;rste-storyboard/*
+Disallow: /no/lærerutgave-lage-mitt-første-storyboard/*
+
+
+Disallow: /no/lagutgave-lage-mitt-f%c3%b8rste-storyboard$
+Disallow: /no/lagutgave-lage-mitt-f&#248;rste-storyboard$
+Disallow: /no/lagutgave-lage-mitt-første-storyboard$
+Disallow: /no/lagutgave-lage-mitt-f%c3%b8rste-storyboard/*
+Disallow: /no/lagutgave-lage-mitt-f&#248;rste-storyboard/*
+Disallow: /no/lagutgave-lage-mitt-første-storyboard/*
+
+Disallow: /no/business/start-free-rettssaken$
+Disallow: /no/business/start-free-rettssaken/*
+
+Disallow: /no/utdanning/start-my-free-l%c3%a6rer-rettssaken$
+Disallow: /no/utdanning/start-my-free-l&#230;rer-rettssaken$
+Disallow: /no/utdanning/start-my-free-lærer-rettssaken$
+Disallow: /no/utdanning/start-my-free-l%c3%a6rer-rettssaken/*
+Disallow: /no/utdanning/start-my-free-l&#230;rer-rettssaken/*
+Disallow: /no/utdanning/start-my-free-lærer-rettssaken/*
+
+
+Disallow: /tr/photo-download/*
+Disallow: /tr/purchase/promotion/*
+Disallow: /tr/partials/*
+Disallow: /tr/privateboards/
+Disallow: /tr/privateboards/*
+Disallow: /tr/privateboards/*/*
+Disallow: /tr/privateboards/*/*/*
+Disallow: /tr/storyboards/*/*/copy
+Disallow: /tr/storyboards/*/*/print
+Disallow: /tr/storyboards/*/*/print/print-choices
+Disallow: /tr/storyboards/*/*/image-pack
+Disallow: /tr/storyboards/*/*/powerpoint
+Disallow: /tr/storyboards/*/*/slide-show
+Disallow: /tr/storyboards/*/*/image
+Disallow: /tr/storyboards/*/*/card
+Disallow: /tr/teacher-guide/*/activity/*
+Disallow: /tr/lesson-plans/*/activity/*
+Disallow: /tr/biz$
+Disallow: /tr/biz/*
+Disallow: /tr/storyboards/*/<span*
+
+Disallow: /tr/s%c4%b1n%c4%b1f/kat%c4%b1lmak$
+Disallow: /tr/sınıf/katılmak$
+Disallow: /tr/sınıf/katılmak$
+Disallow: /tr/s%c4%b1n%c4%b1f/kat%c4%b1lmak/*
+Disallow: /tr/sınıf/katılmak/*
+Disallow: /tr/sınıf/katılmak/*
+
+Disallow: /tr/biz/join$
+Disallow: /tr/biz/join/*
+
+Disallow: /tr/%c3%b6%c4%9fretmen-s%c3%bcr%c3%bcm%c3%bc-ilk-film-%c5%9feridemi-olu%c5%9ftur$
+Disallow: /tr/&#246;ğretmen-s&#252;r&#252;m&#252;-ilk-film-şeridemi-oluştur$
+Disallow: /tr/öğretmen-sürümü-ilk-film-şeridemi-oluştur$
+Disallow: /tr/%c3%b6%c4%9fretmen-s%c3%bcr%c3%bcm%c3%bc-ilk-film-%c5%9feridemi-olu%c5%9ftur/*
+Disallow: /tr/&#246;ğretmen-s&#252;r&#252;m&#252;-ilk-film-şeridemi-oluştur/*
+Disallow: /tr/öğretmen-sürümü-ilk-film-şeridemi-oluştur/*
+
+
+Disallow: /tr/ekip-s%c3%bcr%c3%bcm%c3%bc-ilk-film-%c5%9feridemi-olu%c5%9ftur$
+Disallow: /tr/ekip-s&#252;r&#252;m&#252;-ilk-film-şeridemi-oluştur$
+Disallow: /tr/ekip-sürümü-ilk-film-şeridemi-oluştur$
+Disallow: /tr/ekip-s%c3%bcr%c3%bcm%c3%bc-ilk-film-%c5%9feridemi-olu%c5%9ftur/*
+Disallow: /tr/ekip-s&#252;r&#252;m&#252;-ilk-film-şeridemi-oluştur/*
+Disallow: /tr/ekip-sürümü-ilk-film-şeridemi-oluştur/*
+
+
+Disallow: /tr/i%c5%9f/ba%c5%9flang%c4%b1%c3%a7-%c3%bccretsiz-deneme$
+Disallow: /tr/iş/başlangı&#231;-&#252;cretsiz-deneme$
+Disallow: /tr/iş/başlangıç-ücretsiz-deneme$
+Disallow: /tr/i%c5%9f/ba%c5%9flang%c4%b1%c3%a7-%c3%bccretsiz-deneme/*
+Disallow: /tr/iş/başlangı&#231;-&#252;cretsiz-deneme/*
+Disallow: /tr/iş/başlangıç-ücretsiz-deneme/*
+
+
+Disallow: /tr/e%c4%9fitim/ba%c5%9flama-benim-%c3%b6zg%c3%bcr-%c3%b6%c4%9fretmen-deneme$
+Disallow: /tr/eğitim/başlama-benim-&#246;zg&#252;r-&#246;ğretmen-deneme$
+Disallow: /tr/eğitim/başlama-benim-özgür-öğretmen-deneme$
+Disallow: /tr/e%c4%9fitim/ba%c5%9flama-benim-%c3%b6zg%c3%bcr-%c3%b6%c4%9fretmen-deneme/*
+Disallow: /tr/eğitim/başlama-benim-&#246;zg&#252;r-&#246;ğretmen-deneme/*
+Disallow: /tr/eğitim/başlama-benim-özgür-öğretmen-deneme/*
+
+
+Disallow: /pl/photo-download/*
+Disallow: /pl/purchase/promotion/*
+Disallow: /pl/partials/*
+Disallow: /pl/privateboards/
+Disallow: /pl/privateboards/*
+Disallow: /pl/privateboards/*/*
+Disallow: /pl/privateboards/*/*/*
+Disallow: /pl/storyboards/*/*/copy
+Disallow: /pl/storyboards/*/*/print
+Disallow: /pl/storyboards/*/*/print/print-choices
+Disallow: /pl/storyboards/*/*/image-pack
+Disallow: /pl/storyboards/*/*/powerpoint
+Disallow: /pl/storyboards/*/*/slide-show
+Disallow: /pl/storyboards/*/*/image
+Disallow: /pl/storyboards/*/*/card
+Disallow: /pl/teacher-guide/*/activity/*
+Disallow: /pl/lesson-plans/*/activity/*
+Disallow: /pl/biz$
+Disallow: /pl/biz/*
+Disallow: /pl/storyboards/*/<span*
+
+Disallow: /pl/sala/przy%c5%82%c4%85cz$
+Disallow: /pl/sala/przyłącz$
+Disallow: /pl/sala/przyłącz$
+Disallow: /pl/sala/przy%c5%82%c4%85cz/*
+Disallow: /pl/sala/przyłącz/*
+Disallow: /pl/sala/przyłącz/*
+
+Disallow: /pl/biz/join$
+Disallow: /pl/biz/join/*
+
+Disallow: /pl/edycja-dla-nauczycieli-tworzy-m%c3%b3j-pierwszy-scenorys$
+Disallow: /pl/edycja-dla-nauczycieli-tworzy-m&#243;j-pierwszy-scenorys$
+Disallow: /pl/edycja-dla-nauczycieli-tworzy-mój-pierwszy-scenorys$
+Disallow: /pl/edycja-dla-nauczycieli-tworzy-m%c3%b3j-pierwszy-scenorys/*
+Disallow: /pl/edycja-dla-nauczycieli-tworzy-m&#243;j-pierwszy-scenorys/*
+Disallow: /pl/edycja-dla-nauczycieli-tworzy-mój-pierwszy-scenorys/*
+
+
+Disallow: /pl/wydanie-zespo%c5%82u-tworzy-m%c3%b3j-pierwszy-storyboard$
+Disallow: /pl/wydanie-zespołu-tworzy-m&#243;j-pierwszy-storyboard$
+Disallow: /pl/wydanie-zespołu-tworzy-mój-pierwszy-storyboard$
+Disallow: /pl/wydanie-zespo%c5%82u-tworzy-m%c3%b3j-pierwszy-storyboard/*
+Disallow: /pl/wydanie-zespołu-tworzy-m&#243;j-pierwszy-storyboard/*
+Disallow: /pl/wydanie-zespołu-tworzy-mój-pierwszy-storyboard/*
+
+Disallow: /pl/biznes/start-free-trial$
+Disallow: /pl/biznes/start-free-trial/*
+
+Disallow: /pl/edukacja/start-m%c3%b3j-wolny-nauczyciel-trial$
+Disallow: /pl/edukacja/start-m&#243;j-wolny-nauczyciel-trial$
+Disallow: /pl/edukacja/start-mój-wolny-nauczyciel-trial$
+Disallow: /pl/edukacja/start-m%c3%b3j-wolny-nauczyciel-trial/*
+Disallow: /pl/edukacja/start-m&#243;j-wolny-nauczyciel-trial/*
+Disallow: /pl/edukacja/start-mój-wolny-nauczyciel-trial/*
+
+
+Disallow: /ro/photo-download/*
+Disallow: /ro/purchase/promotion/*
+Disallow: /ro/partials/*
+Disallow: /ro/privateboards/
+Disallow: /ro/privateboards/*
+Disallow: /ro/privateboards/*/*
+Disallow: /ro/privateboards/*/*/*
+Disallow: /ro/storyboards/*/*/copy
+Disallow: /ro/storyboards/*/*/print
+Disallow: /ro/storyboards/*/*/print/print-choices
+Disallow: /ro/storyboards/*/*/image-pack
+Disallow: /ro/storyboards/*/*/powerpoint
+Disallow: /ro/storyboards/*/*/slide-show
+Disallow: /ro/storyboards/*/*/image
+Disallow: /ro/storyboards/*/*/card
+Disallow: /ro/teacher-guide/*/activity/*
+Disallow: /ro/lesson-plans/*/activity/*
+Disallow: /ro/biz$
+Disallow: /ro/biz/*
+Disallow: /ro/storyboards/*/<span*
+
+Disallow: /ro/clas%c4%83/join$
+Disallow: /ro/clasă/join$
+Disallow: /ro/clasă/join$
+Disallow: /ro/clas%c4%83/join/*
+Disallow: /ro/clasă/join/*
+Disallow: /ro/clasă/join/*
+
+Disallow: /ro/biz/join$
+Disallow: /ro/biz/join/*
+
+Disallow: /ro/edi%c8%9bia-de-profesori-creeaz%c4%83-primul-meu-scenariu$
+Disallow: /ro/ediția-de-profesori-creează-primul-meu-scenariu$
+Disallow: /ro/ediția-de-profesori-creează-primul-meu-scenariu$
+Disallow: /ro/edi%c8%9bia-de-profesori-creeaz%c4%83-primul-meu-scenariu/*
+Disallow: /ro/ediția-de-profesori-creează-primul-meu-scenariu/*
+Disallow: /ro/ediția-de-profesori-creează-primul-meu-scenariu/*
+
+
+Disallow: /ro/edi%c8%9bia-de-echip%c4%83-creeaz%c4%83-primul-meu-scenariu$
+Disallow: /ro/ediția-de-echipă-creează-primul-meu-scenariu$
+Disallow: /ro/ediția-de-echipă-creează-primul-meu-scenariu$
+Disallow: /ro/edi%c8%9bia-de-echip%c4%83-creeaz%c4%83-primul-meu-scenariu/*
+Disallow: /ro/ediția-de-echipă-creează-primul-meu-scenariu/*
+Disallow: /ro/ediția-de-echipă-creează-primul-meu-scenariu/*
+
+Disallow: /ro/afaceri/start-free-trial$
+Disallow: /ro/afaceri/start-free-trial/*
+
+Disallow: /ro/educa%c8%9bie/start-mea-free-profesor-proces$
+Disallow: /ro/educație/start-mea-free-profesor-proces$
+Disallow: /ro/educație/start-mea-free-profesor-proces$
+Disallow: /ro/educa%c8%9bie/start-mea-free-profesor-proces/*
+Disallow: /ro/educație/start-mea-free-profesor-proces/*
+Disallow: /ro/educație/start-mea-free-profesor-proces/*
+
+
+Disallow: /cs/photo-download/*
+Disallow: /cs/purchase/promotion/*
+Disallow: /cs/partials/*
+Disallow: /cs/privateboards/
+Disallow: /cs/privateboards/*
+Disallow: /cs/privateboards/*/*
+Disallow: /cs/privateboards/*/*/*
+Disallow: /cs/storyboards/*/*/copy
+Disallow: /cs/storyboards/*/*/print
+Disallow: /cs/storyboards/*/*/print/print-choices
+Disallow: /cs/storyboards/*/*/image-pack
+Disallow: /cs/storyboards/*/*/powerpoint
+Disallow: /cs/storyboards/*/*/slide-show
+Disallow: /cs/storyboards/*/*/image
+Disallow: /cs/storyboards/*/*/card
+Disallow: /cs/teacher-guide/*/activity/*
+Disallow: /cs/lesson-plans/*/activity/*
+Disallow: /cs/biz$
+Disallow: /cs/biz/*
+Disallow: /cs/storyboards/*/<span*
+
+Disallow: /cs/t%c5%99%c3%adda/join$
+Disallow: /cs/tř&#237;da/join$
+Disallow: /cs/třída/join$
+Disallow: /cs/t%c5%99%c3%adda/join/*
+Disallow: /cs/tř&#237;da/join/*
+Disallow: /cs/třída/join/*
+
+Disallow: /cs/biz/join$
+Disallow: /cs/biz/join/*
+
+Disallow: /cs/edice-u%c4%8ditel%c5%af-vytvo%c5%99it-sv%c5%afj-prvn%c3%ad-storyboard$
+Disallow: /cs/edice-učitelů-vytvořit-svůj-prvn&#237;-storyboard$
+Disallow: /cs/edice-učitelů-vytvořit-svůj-první-storyboard$
+Disallow: /cs/edice-u%c4%8ditel%c5%af-vytvo%c5%99it-sv%c5%afj-prvn%c3%ad-storyboard/*
+Disallow: /cs/edice-učitelů-vytvořit-svůj-prvn&#237;-storyboard/*
+Disallow: /cs/edice-učitelů-vytvořit-svůj-první-storyboard/*
+
+
+Disallow: /cs/t%c3%bdmov%c3%a1-edice-vytvo%c5%99%c3%ad-sv%c5%afj-prvn%c3%ad-storyboard$
+Disallow: /cs/t&#253;mov&#225;-edice-vytvoř&#237;-svůj-prvn&#237;-storyboard$
+Disallow: /cs/týmová-edice-vytvoří-svůj-první-storyboard$
+Disallow: /cs/t%c3%bdmov%c3%a1-edice-vytvo%c5%99%c3%ad-sv%c5%afj-prvn%c3%ad-storyboard/*
+Disallow: /cs/t&#253;mov&#225;-edice-vytvoř&#237;-svůj-prvn&#237;-storyboard/*
+Disallow: /cs/týmová-edice-vytvoří-svůj-první-storyboard/*
+
+Disallow: /cs/business/start-free-trial$
+Disallow: /cs/business/start-free-trial/*
+
+Disallow: /cs/vzd%c4%9bl%c3%a1n%c3%ad/start-my-free-u%c4%8ditel-trial$
+Disallow: /cs/vzděl&#225;n&#237;/start-my-free-učitel-trial$
+Disallow: /cs/vzdělání/start-my-free-učitel-trial$
+Disallow: /cs/vzd%c4%9bl%c3%a1n%c3%ad/start-my-free-u%c4%8ditel-trial/*
+Disallow: /cs/vzděl&#225;n&#237;/start-my-free-učitel-trial/*
+Disallow: /cs/vzdělání/start-my-free-učitel-trial/*
+
+
+Disallow: /sk/photo-download/*
+Disallow: /sk/purchase/promotion/*
+Disallow: /sk/partials/*
+Disallow: /sk/privateboards/
+Disallow: /sk/privateboards/*
+Disallow: /sk/privateboards/*/*
+Disallow: /sk/privateboards/*/*/*
+Disallow: /sk/storyboards/*/*/copy
+Disallow: /sk/storyboards/*/*/print
+Disallow: /sk/storyboards/*/*/print/print-choices
+Disallow: /sk/storyboards/*/*/image-pack
+Disallow: /sk/storyboards/*/*/powerpoint
+Disallow: /sk/storyboards/*/*/slide-show
+Disallow: /sk/storyboards/*/*/image
+Disallow: /sk/storyboards/*/*/card
+Disallow: /sk/teacher-guide/*/activity/*
+Disallow: /sk/lesson-plans/*/activity/*
+Disallow: /sk/biz$
+Disallow: /sk/biz/*
+Disallow: /sk/storyboards/*/<span*
+Disallow: /sk/trieda/join$
+Disallow: /sk/trieda/join/*
+Disallow: /sk/biz/join$
+Disallow: /sk/biz/join/*
+
+Disallow: /sk/ed%c3%adcia-u%c4%8dite%c4%beov-vytvori%c5%a5-m%c3%b4j-prv%c3%bd-storyboard$
+Disallow: /sk/ed&#237;cia-učiteľov-vytvoriť-m&#244;j-prv&#253;-storyboard$
+Disallow: /sk/edícia-učiteľov-vytvoriť-môj-prvý-storyboard$
+Disallow: /sk/ed%c3%adcia-u%c4%8dite%c4%beov-vytvori%c5%a5-m%c3%b4j-prv%c3%bd-storyboard/*
+Disallow: /sk/ed&#237;cia-učiteľov-vytvoriť-m&#244;j-prv&#253;-storyboard/*
+Disallow: /sk/edícia-učiteľov-vytvoriť-môj-prvý-storyboard/*
+
+
+Disallow: /sk/team-edition-vytvori%c5%a5-m%c3%b4j-prv%c3%bd-storyboard$
+Disallow: /sk/team-edition-vytvoriť-m&#244;j-prv&#253;-storyboard$
+Disallow: /sk/team-edition-vytvoriť-môj-prvý-storyboard$
+Disallow: /sk/team-edition-vytvori%c5%a5-m%c3%b4j-prv%c3%bd-storyboard/*
+Disallow: /sk/team-edition-vytvoriť-m&#244;j-prv&#253;-storyboard/*
+Disallow: /sk/team-edition-vytvoriť-môj-prvý-storyboard/*
+
+Disallow: /sk/business/start-free-trial$
+Disallow: /sk/business/start-free-trial/*
+
+Disallow: /sk/vzdelanie/start-my-free-u%c4%8dite%c4%be-trial$
+Disallow: /sk/vzdelanie/start-my-free-učiteľ-trial$
+Disallow: /sk/vzdelanie/start-my-free-učiteľ-trial$
+Disallow: /sk/vzdelanie/start-my-free-u%c4%8dite%c4%be-trial/*
+Disallow: /sk/vzdelanie/start-my-free-učiteľ-trial/*
+Disallow: /sk/vzdelanie/start-my-free-učiteľ-trial/*
+
+
+Disallow: /hu/photo-download/*
+Disallow: /hu/purchase/promotion/*
+Disallow: /hu/partials/*
+Disallow: /hu/privateboards/
+Disallow: /hu/privateboards/*
+Disallow: /hu/privateboards/*/*
+Disallow: /hu/privateboards/*/*/*
+Disallow: /hu/storyboards/*/*/copy
+Disallow: /hu/storyboards/*/*/print
+Disallow: /hu/storyboards/*/*/print/print-choices
+Disallow: /hu/storyboards/*/*/image-pack
+Disallow: /hu/storyboards/*/*/powerpoint
+Disallow: /hu/storyboards/*/*/slide-show
+Disallow: /hu/storyboards/*/*/image
+Disallow: /hu/storyboards/*/*/card
+Disallow: /hu/teacher-guide/*/activity/*
+Disallow: /hu/lesson-plans/*/activity/*
+Disallow: /hu/biz$
+Disallow: /hu/biz/*
+Disallow: /hu/storyboards/*/<span*
+
+Disallow: /hu/oszt%c3%a1lyban/join$
+Disallow: /hu/oszt&#225;lyban/join$
+Disallow: /hu/osztályban/join$
+Disallow: /hu/oszt%c3%a1lyban/join/*
+Disallow: /hu/oszt&#225;lyban/join/*
+Disallow: /hu/osztályban/join/*
+
+Disallow: /hu/biz/join$
+Disallow: /hu/biz/join/*
+
+Disallow: /hu/tan%c3%a1ri-kiad%c3%a1s-hozza-l%c3%a9tre-az-els%c5%91-forgat%c3%b3k%c3%b6nyvet$
+Disallow: /hu/tan&#225;ri-kiad&#225;s-hozza-l&#233;tre-az-első-forgat&#243;k&#246;nyvet$
+Disallow: /hu/tanári-kiadás-hozza-létre-az-első-forgatókönyvet$
+Disallow: /hu/tan%c3%a1ri-kiad%c3%a1s-hozza-l%c3%a9tre-az-els%c5%91-forgat%c3%b3k%c3%b6nyvet/*
+Disallow: /hu/tan&#225;ri-kiad&#225;s-hozza-l&#233;tre-az-első-forgat&#243;k&#246;nyvet/*
+Disallow: /hu/tanári-kiadás-hozza-létre-az-első-forgatókönyvet/*
+
+
+Disallow: /hu/csapat-kiad%c3%a1sa-l%c3%a9trehozza-az-els%c5%91-forgat%c3%b3k%c3%b6nyvet$
+Disallow: /hu/csapat-kiad&#225;sa-l&#233;trehozza-az-első-forgat&#243;k&#246;nyvet$
+Disallow: /hu/csapat-kiadása-létrehozza-az-első-forgatókönyvet$
+Disallow: /hu/csapat-kiad%c3%a1sa-l%c3%a9trehozza-az-els%c5%91-forgat%c3%b3k%c3%b6nyvet/*
+Disallow: /hu/csapat-kiad&#225;sa-l&#233;trehozza-az-első-forgat&#243;k&#246;nyvet/*
+Disallow: /hu/csapat-kiadása-létrehozza-az-első-forgatókönyvet/*
+
+
+Disallow: /hu/%c3%bczleti/start-free-pr%c3%b3ba$
+Disallow: /hu/&#252;zleti/start-free-pr&#243;ba$
+Disallow: /hu/üzleti/start-free-próba$
+Disallow: /hu/%c3%bczleti/start-free-pr%c3%b3ba/*
+Disallow: /hu/&#252;zleti/start-free-pr&#243;ba/*
+Disallow: /hu/üzleti/start-free-próba/*
+
+
+Disallow: /hu/k%c3%a9pz%c3%a9s/start-%c3%a9n-free-tan%c3%a1r-t%c3%a1rgyal%c3%a1s$
+Disallow: /hu/k&#233;pz&#233;s/start-&#233;n-free-tan&#225;r-t&#225;rgyal&#225;s$
+Disallow: /hu/képzés/start-én-free-tanár-tárgyalás$
+Disallow: /hu/k%c3%a9pz%c3%a9s/start-%c3%a9n-free-tan%c3%a1r-t%c3%a1rgyal%c3%a1s/*
+Disallow: /hu/k&#233;pz&#233;s/start-&#233;n-free-tan&#225;r-t&#225;rgyal&#225;s/*
+Disallow: /hu/képzés/start-én-free-tanár-tárgyalás/*
+
+
+Disallow: /hr/photo-download/*
+Disallow: /hr/purchase/promotion/*
+Disallow: /hr/partials/*
+Disallow: /hr/privateboards/
+Disallow: /hr/privateboards/*
+Disallow: /hr/privateboards/*/*
+Disallow: /hr/privateboards/*/*/*
+Disallow: /hr/storyboards/*/*/copy
+Disallow: /hr/storyboards/*/*/print
+Disallow: /hr/storyboards/*/*/print/print-choices
+Disallow: /hr/storyboards/*/*/image-pack
+Disallow: /hr/storyboards/*/*/powerpoint
+Disallow: /hr/storyboards/*/*/slide-show
+Disallow: /hr/storyboards/*/*/image
+Disallow: /hr/storyboards/*/*/card
+Disallow: /hr/teacher-guide/*/activity/*
+Disallow: /hr/lesson-plans/*/activity/*
+Disallow: /hr/biz$
+Disallow: /hr/biz/*
+Disallow: /hr/storyboards/*/<span*
+
+Disallow: /hr/u%c4%8dionica/pridru%c5%bee$
+Disallow: /hr/učionica/pridruže$
+Disallow: /hr/učionica/pridruže$
+Disallow: /hr/u%c4%8dionica/pridru%c5%bee/*
+Disallow: /hr/učionica/pridruže/*
+Disallow: /hr/učionica/pridruže/*
+
+
+Disallow: /hr/biz/pridru%c5%bee$
+Disallow: /hr/biz/pridruže$
+Disallow: /hr/biz/pridruže$
+Disallow: /hr/biz/pridru%c5%bee/*
+Disallow: /hr/biz/pridruže/*
+Disallow: /hr/biz/pridruže/*
+
+
+Disallow: /hr/u%c4%8diteljsko-izdanje-stvoriti-moju-prvu-scenografiju$
+Disallow: /hr/učiteljsko-izdanje-stvoriti-moju-prvu-scenografiju$
+Disallow: /hr/učiteljsko-izdanje-stvoriti-moju-prvu-scenografiju$
+Disallow: /hr/u%c4%8diteljsko-izdanje-stvoriti-moju-prvu-scenografiju/*
+Disallow: /hr/učiteljsko-izdanje-stvoriti-moju-prvu-scenografiju/*
+Disallow: /hr/učiteljsko-izdanje-stvoriti-moju-prvu-scenografiju/*
+
+
+Disallow: /hr/timski-izdanje-kreira-moju-prvu-plo%c4%8du-scenarija$
+Disallow: /hr/timski-izdanje-kreira-moju-prvu-ploču-scenarija$
+Disallow: /hr/timski-izdanje-kreira-moju-prvu-ploču-scenarija$
+Disallow: /hr/timski-izdanje-kreira-moju-prvu-plo%c4%8du-scenarija/*
+Disallow: /hr/timski-izdanje-kreira-moju-prvu-ploču-scenarija/*
+Disallow: /hr/timski-izdanje-kreira-moju-prvu-ploču-scenarija/*
+
+
+Disallow: /hr/poslovno/start-bez-su%c4%91enja$
+Disallow: /hr/poslovno/start-bez-suđenja$
+Disallow: /hr/poslovno/start-bez-suđenja$
+Disallow: /hr/poslovno/start-bez-su%c4%91enja/*
+Disallow: /hr/poslovno/start-bez-suđenja/*
+Disallow: /hr/poslovno/start-bez-suđenja/*
+
+
+Disallow: /hr/obrazovanje/start-moj-free-nastavnik-su%c4%91enje$
+Disallow: /hr/obrazovanje/start-moj-free-nastavnik-suđenje$
+Disallow: /hr/obrazovanje/start-moj-free-nastavnik-suđenje$
+Disallow: /hr/obrazovanje/start-moj-free-nastavnik-su%c4%91enje/*
+Disallow: /hr/obrazovanje/start-moj-free-nastavnik-suđenje/*
+Disallow: /hr/obrazovanje/start-moj-free-nastavnik-suđenje/*
+
+
+Disallow: /bg/photo-download/*
+Disallow: /bg/purchase/promotion/*
+Disallow: /bg/partials/*
+Disallow: /bg/privateboards/
+Disallow: /bg/privateboards/*
+Disallow: /bg/privateboards/*/*
+Disallow: /bg/privateboards/*/*/*
+Disallow: /bg/storyboards/*/*/copy
+Disallow: /bg/storyboards/*/*/print
+Disallow: /bg/storyboards/*/*/print/print-choices
+Disallow: /bg/storyboards/*/*/image-pack
+Disallow: /bg/storyboards/*/*/powerpoint
+Disallow: /bg/storyboards/*/*/slide-show
+Disallow: /bg/storyboards/*/*/image
+Disallow: /bg/storyboards/*/*/card
+Disallow: /bg/teacher-guide/*/activity/*
+Disallow: /bg/lesson-plans/*/activity/*
+Disallow: /bg/biz$
+Disallow: /bg/biz/*
+Disallow: /bg/storyboards/*/<span*
+
+Disallow: /bg/%d0%ba%d0%bb%d0%b0%d1%81%d0%bd%d0%b0-%d1%81%d1%82%d0%b0%d1%8f/%d0%bf%d1%80%d0%b8%d1%81%d1%8a%d0%b5%d0%b4%d0%b8%d0%bd%d1%8f%d1%82$
+Disallow: /bg/класна-стая/присъединят$
+Disallow: /bg/класна-стая/присъединят$
+Disallow: /bg/%d0%ba%d0%bb%d0%b0%d1%81%d0%bd%d0%b0-%d1%81%d1%82%d0%b0%d1%8f/%d0%bf%d1%80%d0%b8%d1%81%d1%8a%d0%b5%d0%b4%d0%b8%d0%bd%d1%8f%d1%82/*
+Disallow: /bg/класна-стая/присъединят/*
+Disallow: /bg/класна-стая/присъединят/*
+
+
+Disallow: /bg/biz/%d0%bf%d1%80%d0%b8%d1%81%d1%8a%d0%b5%d0%b4%d0%b8%d0%bd%d1%8f%d1%82$
+Disallow: /bg/biz/присъединят$
+Disallow: /bg/biz/присъединят$
+Disallow: /bg/biz/%d0%bf%d1%80%d0%b8%d1%81%d1%8a%d0%b5%d0%b4%d0%b8%d0%bd%d1%8f%d1%82/*
+Disallow: /bg/biz/присъединят/*
+Disallow: /bg/biz/присъединят/*
+
+
+Disallow: /bg/%d1%83%d1%87%d0%b8%d1%82%d0%b5%d0%bb-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d1%81%d1%8a%d0%b7%d0%b4%d0%b0%d0%b2%d0%b0%d1%82-%d0%bc%d0%be%d1%8f-%d0%bf%d1%8a%d1%80%d0%b2%d0%b8-%d1%80%d0%b0%d0%b7%d0%ba%d0%b0%d0%b7$
+Disallow: /bg/учител-издание-създават-моя-първи-разказ$
+Disallow: /bg/учител-издание-създават-моя-първи-разказ$
+Disallow: /bg/%d1%83%d1%87%d0%b8%d1%82%d0%b5%d0%bb-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d1%81%d1%8a%d0%b7%d0%b4%d0%b0%d0%b2%d0%b0%d1%82-%d0%bc%d0%be%d1%8f-%d0%bf%d1%8a%d1%80%d0%b2%d0%b8-%d1%80%d0%b0%d0%b7%d0%ba%d0%b0%d0%b7/*
+Disallow: /bg/учител-издание-създават-моя-първи-разказ/*
+Disallow: /bg/учител-издание-създават-моя-първи-разказ/*
+
+
+Disallow: /bg/%d0%be%d1%82%d0%b1%d0%be%d1%80%d0%bd%d0%be%d1%82%d0%be-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d1%81%d1%8a%d0%b7%d0%b4%d0%b0%d0%b2%d0%b0-%d0%bc%d0%be%d1%8f-%d0%bf%d1%8a%d1%80%d0%b2%d0%b8-%d1%81%d1%86%d0%b5%d0%bd%d0%b0%d1%80%d0%b8%d0%b9$
+Disallow: /bg/отборното-издание-създава-моя-първи-сценарий$
+Disallow: /bg/отборното-издание-създава-моя-първи-сценарий$
+Disallow: /bg/%d0%be%d1%82%d0%b1%d0%be%d1%80%d0%bd%d0%be%d1%82%d0%be-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d1%81%d1%8a%d0%b7%d0%b4%d0%b0%d0%b2%d0%b0-%d0%bc%d0%be%d1%8f-%d0%bf%d1%8a%d1%80%d0%b2%d0%b8-%d1%81%d1%86%d0%b5%d0%bd%d0%b0%d1%80%d0%b8%d0%b9/*
+Disallow: /bg/отборното-издание-създава-моя-първи-сценарий/*
+Disallow: /bg/отборното-издание-създава-моя-първи-сценарий/*
+
+
+Disallow: /bg/%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81/%d0%b7%d0%b0%d0%bf%d0%be%d1%87%d0%bd%d0%b5-%d0%b1%d0%b5%d0%b7%d0%bf%d0%bb%d0%b0%d1%82%d0%bd%d0%be-%d0%b8%d0%b7%d0%bf%d1%80%d0%be%d0%b1%d0%b2%d0%b0%d0%bd%d0%b5$
+Disallow: /bg/бизнес/започне-безплатно-изпробване$
+Disallow: /bg/бизнес/започне-безплатно-изпробване$
+Disallow: /bg/%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81/%d0%b7%d0%b0%d0%bf%d0%be%d1%87%d0%bd%d0%b5-%d0%b1%d0%b5%d0%b7%d0%bf%d0%bb%d0%b0%d1%82%d0%bd%d0%be-%d0%b8%d0%b7%d0%bf%d1%80%d0%be%d0%b1%d0%b2%d0%b0%d0%bd%d0%b5/*
+Disallow: /bg/бизнес/започне-безплатно-изпробване/*
+Disallow: /bg/бизнес/започне-безплатно-изпробване/*
+
+
+Disallow: /bg/%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5/%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b8%d1%80%d0%b0%d0%bd%d0%b5-%d0%bc%d0%b8-%d0%b1%d0%b5%d0%b7-%d1%83%d1%87%d0%b8%d1%82%d0%b5%d0%bb-%d0%bf%d1%80%d0%be%d0%b1%d0%bd%d0%b0$
+Disallow: /bg/образование/стартиране-ми-без-учител-пробна$
+Disallow: /bg/образование/стартиране-ми-без-учител-пробна$
+Disallow: /bg/%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5/%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b8%d1%80%d0%b0%d0%bd%d0%b5-%d0%bc%d0%b8-%d0%b1%d0%b5%d0%b7-%d1%83%d1%87%d0%b8%d1%82%d0%b5%d0%bb-%d0%bf%d1%80%d0%be%d0%b1%d0%bd%d0%b0/*
+Disallow: /bg/образование/стартиране-ми-без-учител-пробна/*
+Disallow: /bg/образование/стартиране-ми-без-учител-пробна/*
+
+
+Disallow: /lt/photo-download/*
+Disallow: /lt/purchase/promotion/*
+Disallow: /lt/partials/*
+Disallow: /lt/privateboards/
+Disallow: /lt/privateboards/*
+Disallow: /lt/privateboards/*/*
+Disallow: /lt/privateboards/*/*/*
+Disallow: /lt/storyboards/*/*/copy
+Disallow: /lt/storyboards/*/*/print
+Disallow: /lt/storyboards/*/*/print/print-choices
+Disallow: /lt/storyboards/*/*/image-pack
+Disallow: /lt/storyboards/*/*/powerpoint
+Disallow: /lt/storyboards/*/*/slide-show
+Disallow: /lt/storyboards/*/*/image
+Disallow: /lt/storyboards/*/*/card
+Disallow: /lt/teacher-guide/*/activity/*
+Disallow: /lt/lesson-plans/*/activity/*
+Disallow: /lt/biz$
+Disallow: /lt/biz/*
+Disallow: /lt/storyboards/*/<span*
+
+Disallow: /lt/klas%c4%97s/prisijungti$
+Disallow: /lt/klasės/prisijungti$
+Disallow: /lt/klasės/prisijungti$
+Disallow: /lt/klas%c4%97s/prisijungti/*
+Disallow: /lt/klasės/prisijungti/*
+Disallow: /lt/klasės/prisijungti/*
+
+Disallow: /lt/biz/prisijungti-prie$
+Disallow: /lt/biz/prisijungti-prie/*
+
+Disallow: /lt/mokytojo-leidimas-sukuria-mano-pirm%c4%85j%c4%85-storyboard$
+Disallow: /lt/mokytojo-leidimas-sukuria-mano-pirmąją-storyboard$
+Disallow: /lt/mokytojo-leidimas-sukuria-mano-pirmąją-storyboard$
+Disallow: /lt/mokytojo-leidimas-sukuria-mano-pirm%c4%85j%c4%85-storyboard/*
+Disallow: /lt/mokytojo-leidimas-sukuria-mano-pirmąją-storyboard/*
+Disallow: /lt/mokytojo-leidimas-sukuria-mano-pirmąją-storyboard/*
+
+
+Disallow: /lt/komandinis-leidimas-sukuria-mano-pirm%c4%85j%c4%85-storyboard$
+Disallow: /lt/komandinis-leidimas-sukuria-mano-pirmąją-storyboard$
+Disallow: /lt/komandinis-leidimas-sukuria-mano-pirmąją-storyboard$
+Disallow: /lt/komandinis-leidimas-sukuria-mano-pirm%c4%85j%c4%85-storyboard/*
+Disallow: /lt/komandinis-leidimas-sukuria-mano-pirmąją-storyboard/*
+Disallow: /lt/komandinis-leidimas-sukuria-mano-pirmąją-storyboard/*
+
+
+Disallow: /lt/verslas/prad%c4%97ti-franko-bandymus$
+Disallow: /lt/verslas/pradėti-franko-bandymus$
+Disallow: /lt/verslas/pradėti-franko-bandymus$
+Disallow: /lt/verslas/prad%c4%97ti-franko-bandymus/*
+Disallow: /lt/verslas/pradėti-franko-bandymus/*
+Disallow: /lt/verslas/pradėti-franko-bandymus/*
+
+
+Disallow: /lt/%c5%a1vietimo/prad%c4%97ti-savo-franko-mokytoj%c5%b3-bandymus$
+Disallow: /lt/švietimo/pradėti-savo-franko-mokytojų-bandymus$
+Disallow: /lt/švietimo/pradėti-savo-franko-mokytojų-bandymus$
+Disallow: /lt/%c5%a1vietimo/prad%c4%97ti-savo-franko-mokytoj%c5%b3-bandymus/*
+Disallow: /lt/švietimo/pradėti-savo-franko-mokytojų-bandymus/*
+Disallow: /lt/švietimo/pradėti-savo-franko-mokytojų-bandymus/*
+
+
+Disallow: /sl/photo-download/*
+Disallow: /sl/purchase/promotion/*
+Disallow: /sl/partials/*
+Disallow: /sl/privateboards/
+Disallow: /sl/privateboards/*
+Disallow: /sl/privateboards/*/*
+Disallow: /sl/privateboards/*/*/*
+Disallow: /sl/storyboards/*/*/copy
+Disallow: /sl/storyboards/*/*/print
+Disallow: /sl/storyboards/*/*/print/print-choices
+Disallow: /sl/storyboards/*/*/image-pack
+Disallow: /sl/storyboards/*/*/powerpoint
+Disallow: /sl/storyboards/*/*/slide-show
+Disallow: /sl/storyboards/*/*/image
+Disallow: /sl/storyboards/*/*/card
+Disallow: /sl/teacher-guide/*/activity/*
+Disallow: /sl/lesson-plans/*/activity/*
+Disallow: /sl/biz$
+Disallow: /sl/biz/*
+Disallow: /sl/storyboards/*/<span*
+
+Disallow: /sl/u%c4%8dilnica/join$
+Disallow: /sl/učilnica/join$
+Disallow: /sl/učilnica/join$
+Disallow: /sl/u%c4%8dilnica/join/*
+Disallow: /sl/učilnica/join/*
+Disallow: /sl/učilnica/join/*
+
+Disallow: /sl/biz/join$
+Disallow: /sl/biz/join/*
+
+Disallow: /sl/u%c4%8diteljska-izdaja-ustvari-moj-prvi-%c4%8dlanek$
+Disallow: /sl/učiteljska-izdaja-ustvari-moj-prvi-članek$
+Disallow: /sl/učiteljska-izdaja-ustvari-moj-prvi-članek$
+Disallow: /sl/u%c4%8diteljska-izdaja-ustvari-moj-prvi-%c4%8dlanek/*
+Disallow: /sl/učiteljska-izdaja-ustvari-moj-prvi-članek/*
+Disallow: /sl/učiteljska-izdaja-ustvari-moj-prvi-članek/*
+
+
+Disallow: /sl/ekipna-izdaja-ustvari-moj-prvi-%c4%8dlanek$
+Disallow: /sl/ekipna-izdaja-ustvari-moj-prvi-članek$
+Disallow: /sl/ekipna-izdaja-ustvari-moj-prvi-članek$
+Disallow: /sl/ekipna-izdaja-ustvari-moj-prvi-%c4%8dlanek/*
+Disallow: /sl/ekipna-izdaja-ustvari-moj-prvi-članek/*
+Disallow: /sl/ekipna-izdaja-ustvari-moj-prvi-članek/*
+
+Disallow: /sl/poslovno/start-free-trial$
+Disallow: /sl/poslovno/start-free-trial/*
+
+Disallow: /sl/izobra%c5%beevanje/start-moj-prosti-u%c4%8diteljev-sojenja$
+Disallow: /sl/izobraževanje/start-moj-prosti-učiteljev-sojenja$
+Disallow: /sl/izobraževanje/start-moj-prosti-učiteljev-sojenja$
+Disallow: /sl/izobra%c5%beevanje/start-moj-prosti-u%c4%8diteljev-sojenja/*
+Disallow: /sl/izobraževanje/start-moj-prosti-učiteljev-sojenja/*
+Disallow: /sl/izobraževanje/start-moj-prosti-učiteljev-sojenja/*
+
+
+Disallow: /lv/photo-download/*
+Disallow: /lv/purchase/promotion/*
+Disallow: /lv/partials/*
+Disallow: /lv/privateboards/
+Disallow: /lv/privateboards/*
+Disallow: /lv/privateboards/*/*
+Disallow: /lv/privateboards/*/*/*
+Disallow: /lv/storyboards/*/*/copy
+Disallow: /lv/storyboards/*/*/print
+Disallow: /lv/storyboards/*/*/print/print-choices
+Disallow: /lv/storyboards/*/*/image-pack
+Disallow: /lv/storyboards/*/*/powerpoint
+Disallow: /lv/storyboards/*/*/slide-show
+Disallow: /lv/storyboards/*/*/image
+Disallow: /lv/storyboards/*/*/card
+Disallow: /lv/teacher-guide/*/activity/*
+Disallow: /lv/lesson-plans/*/activity/*
+Disallow: /lv/biz$
+Disallow: /lv/biz/*
+Disallow: /lv/storyboards/*/<span*
+
+Disallow: /lv/klas%c4%93/join$
+Disallow: /lv/klasē/join$
+Disallow: /lv/klasē/join$
+Disallow: /lv/klas%c4%93/join/*
+Disallow: /lv/klasē/join/*
+Disallow: /lv/klasē/join/*
+
+Disallow: /lv/biz/join$
+Disallow: /lv/biz/join/*
+
+Disallow: /lv/skolot%c4%81ja-izdevums-izveido-manu-pirmo-izkl%c4%81jlapu$
+Disallow: /lv/skolotāja-izdevums-izveido-manu-pirmo-izklājlapu$
+Disallow: /lv/skolotāja-izdevums-izveido-manu-pirmo-izklājlapu$
+Disallow: /lv/skolot%c4%81ja-izdevums-izveido-manu-pirmo-izkl%c4%81jlapu/*
+Disallow: /lv/skolotāja-izdevums-izveido-manu-pirmo-izklājlapu/*
+Disallow: /lv/skolotāja-izdevums-izveido-manu-pirmo-izklājlapu/*
+
+
+Disallow: /lv/komandu-izdevums-izveidoju-savu-pirmo-izkl%c4%81jlapu$
+Disallow: /lv/komandu-izdevums-izveidoju-savu-pirmo-izklājlapu$
+Disallow: /lv/komandu-izdevums-izveidoju-savu-pirmo-izklājlapu$
+Disallow: /lv/komandu-izdevums-izveidoju-savu-pirmo-izkl%c4%81jlapu/*
+Disallow: /lv/komandu-izdevums-izveidoju-savu-pirmo-izklājlapu/*
+Disallow: /lv/komandu-izdevums-izveidoju-savu-pirmo-izklājlapu/*
+
+
+Disallow: /lv/business/start-free-izm%c4%93%c4%a3in%c4%81jums$
+Disallow: /lv/business/start-free-izmēģinājums$
+Disallow: /lv/business/start-free-izmēģinājums$
+Disallow: /lv/business/start-free-izm%c4%93%c4%a3in%c4%81jums/*
+Disallow: /lv/business/start-free-izmēģinājums/*
+Disallow: /lv/business/start-free-izmēģinājums/*
+
+
+Disallow: /lv/izgl%c4%abt%c4%abbas/s%c4%81kuma-manu-free-skolot%c4%81ju-izm%c4%93%c4%a3in%c4%81juma$
+Disallow: /lv/izglītības/sākuma-manu-free-skolotāju-izmēģinājuma$
+Disallow: /lv/izglītības/sākuma-manu-free-skolotāju-izmēģinājuma$
+Disallow: /lv/izgl%c4%abt%c4%abbas/s%c4%81kuma-manu-free-skolot%c4%81ju-izm%c4%93%c4%a3in%c4%81juma/*
+Disallow: /lv/izglītības/sākuma-manu-free-skolotāju-izmēģinājuma/*
+Disallow: /lv/izglītības/sākuma-manu-free-skolotāju-izmēģinājuma/*
+
+
+Disallow: /et/photo-download/*
+Disallow: /et/purchase/promotion/*
+Disallow: /et/partials/*
+Disallow: /et/privateboards/
+Disallow: /et/privateboards/*
+Disallow: /et/privateboards/*/*
+Disallow: /et/privateboards/*/*/*
+Disallow: /et/storyboards/*/*/copy
+Disallow: /et/storyboards/*/*/print
+Disallow: /et/storyboards/*/*/print/print-choices
+Disallow: /et/storyboards/*/*/image-pack
+Disallow: /et/storyboards/*/*/powerpoint
+Disallow: /et/storyboards/*/*/slide-show
+Disallow: /et/storyboards/*/*/image
+Disallow: /et/storyboards/*/*/card
+Disallow: /et/teacher-guide/*/activity/*
+Disallow: /et/lesson-plans/*/activity/*
+Disallow: /et/biz$
+Disallow: /et/biz/*
+Disallow: /et/storyboards/*/<span*
+Disallow: /et/klassiruumis/liituda$
+Disallow: /et/klassiruumis/liituda/*
+Disallow: /et/biz/liituda$
+Disallow: /et/biz/liituda/*
+
+Disallow: /et/%c3%b5petaja-v%c3%a4ljaanne-luua-minu-esimene-storyboard$
+Disallow: /et/&#245;petaja-v&#228;ljaanne-luua-minu-esimene-storyboard$
+Disallow: /et/õpetaja-väljaanne-luua-minu-esimene-storyboard$
+Disallow: /et/%c3%b5petaja-v%c3%a4ljaanne-luua-minu-esimene-storyboard/*
+Disallow: /et/&#245;petaja-v&#228;ljaanne-luua-minu-esimene-storyboard/*
+Disallow: /et/õpetaja-väljaanne-luua-minu-esimene-storyboard/*
+
+
+Disallow: /et/meeskonna-v%c3%a4ljaanne-loo-minu-esimene-ridaplank$
+Disallow: /et/meeskonna-v&#228;ljaanne-loo-minu-esimene-ridaplank$
+Disallow: /et/meeskonna-väljaanne-loo-minu-esimene-ridaplank$
+Disallow: /et/meeskonna-v%c3%a4ljaanne-loo-minu-esimene-ridaplank/*
+Disallow: /et/meeskonna-v&#228;ljaanne-loo-minu-esimene-ridaplank/*
+Disallow: /et/meeskonna-väljaanne-loo-minu-esimene-ridaplank/*
+
+
+Disallow: /et/%c3%a4ri/start-vaba-kohtuprotsessi$
+Disallow: /et/&#228;ri/start-vaba-kohtuprotsessi$
+Disallow: /et/äri/start-vaba-kohtuprotsessi$
+Disallow: /et/%c3%a4ri/start-vaba-kohtuprotsessi/*
+Disallow: /et/&#228;ri/start-vaba-kohtuprotsessi/*
+Disallow: /et/äri/start-vaba-kohtuprotsessi/*
+
+
+Disallow: /et/haridus/start-minu-free-%c3%b5petaja-uuring$
+Disallow: /et/haridus/start-minu-free-&#245;petaja-uuring$
+Disallow: /et/haridus/start-minu-free-õpetaja-uuring$
+Disallow: /et/haridus/start-minu-free-%c3%b5petaja-uuring/*
+Disallow: /et/haridus/start-minu-free-&#245;petaja-uuring/*
+Disallow: /et/haridus/start-minu-free-õpetaja-uuring/*
+
+
+
+
+
+
+
+# Leave the top line blank due to BOM (UTF-8 marker)  - http://www.12titans.net/p/robots-txt-bom.aspx
+
+User-agent: *
+Sitemap: https://www.storyboardthat.com/sitemap/xml
+
+Disallow: /hp
+
+Disallow: /account/logonpop
+Disallow: /account/registerpop
+Disallow: /account/logonforcorporate
+Disallow: /account/logonforclassroom
+Disallow: /account/externallogin
+Disallow: /account/externallogin*
+
+Disallow: /account/logon$
+Disallow: /account/logon/*
+Disallow: /account/logon?ReturnUrl=*
+Disallow: /account/logon2/*
+Disallow: /account/logon2?ReturnUrl=*
+
+Disallow: /my-account$
+Disallow: /my-account/*
+
+Disallow: /my-account2$
+Disallow: /my-account2/*
+
+Disallow: /apiportal/*
+Disallow: /api_portal/*
+Disallow: /api-portal/*
+
+Disallow: /imageserver/embed/*
+Disallow: /estimate/*
+
+Disallow: /backend/
+Disallow: /backend/*
+
+Disallow: /biz$
+Disallow: /biz/*
+
+
+
+Disallow: /classroom
+Disallow: /classroom/*
+Disallow: /portal/*
+Disallow: /api/*
+Disallow: /copy-assignment/*
+
+Disallow: /injected-html
+Disallow: /storyboard-creator/core-library/test-cdn.txt
+Disallow: /handle-dom
+Disallow: /utils
+Disallow: /photo-downloads/*
+
+Disallow: /team-edition/create-my-first-storyboard
+Disallow: /team-edition/copy-storyboard/*
+Disallow: /team-edition/download*
+Disallow: /free-gift/
+Disallow: /free-gift/*
+Disallow: /free-gift/*/*
+
+Disallow: /teacher-edition/create-my-first-storyboard
+Disallow: /teacher-edition/copy-storyboard/*
+
+Disallow: /education/teacher-start-trial
+Disallow: /education/start-my-free-teacher-trial-today
+Disallow: /education/start-my-free-teacher-trial?username=*
+
+Disallow: /storyboard-template-gallery/*
+
+Disallow: /lesson-plans/addlessonplan
+
+Disallow: /privateboards/
+Disallow: /privateboards/*
+Disallow: /privateboards/*/*
+Disallow: /privateboards/*/*/*
+
+Disallow: /purchase/startorder
+Disallow: /purchase/stripecorporate
+Disallow: /purchase/stripeclassroom
+Disallow: /purchase/stripeindividual
+Disallow: /purchase/startclassroomorder
+Disallow: /purchase/sign-in-for-paypal
+Disallow: /purchase/sign-in-for-credit-card
+Disallow: /purchase/corporate-quote-buy-now
+
+Disallow: /diagnostics
+Disallow: /diagnostics/clear-cookies
+Disallow: /purple
+Disallow: /token
+
+
+Disallow: /email
+Disallow: /email/
+Disallow: /email/*
+
+Disallow: /error$
+Disallow: /error/*
+
+Disallow: /servererror
+Disallow: /servererror/*
+
+
+Disallow: /rmunify
+Disallow: /rmunify/
+Disallow: /rmunify/*
+
+Disallow: /schoology/*
+Disallow: /schoology/*
+
+Disallow: /Storybo..
+Disallow: /storyboardcreator/copystoryboard?title=addressing-poor-software-quality&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=budget-razors&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=context-approach-end-goal&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=context-approach-end-goal-long&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=coupon-codes-hurt-conversion-rates&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=expense-reports&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=logging-a-bug&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=Pick-Me-Up&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=poor-attendance-conversation&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=product-solution-benefit-long&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=product-solution-benefit-short&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=storyboard-that-can-be-too-fun&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=this-then-that-long&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=this-then-that-short&Permission=User
+Disallow: /storyboardcreator/copystoryboard?title=when-steps-success-short&Permission=User
+Disallow: /Storyboards/RecentStoryb..
+Disallow: /storyboards/viewstoryboard?title=addressing-poor-software-quality&permission=User
+Disallow: /storyboards/viewstoryboard?title=budget-razors&permission=User
+Disallow: /storyboards/viewstoryboard?title=context-approach-end-goal&permission=User
+Disallow: /storyboards/viewstoryboard?title=context-approach-end-goal-long&permission=User
+Disallow: /storyboards/viewstoryboard?title=coupon-codes-hurt-conversion-rates&permission=User
+Disallow: /storyboards/viewstoryboard?title=expense-reports&permission=User
+Disallow: /storyboards/viewstoryboard?title=logging-a-bug&permission=User
+Disallow: /storyboards/viewstoryboard?title=Pick-Me-Up&permission=User
+Disallow: /Storyboards/ViewStoryBoard?title=poor-attendance-conversation&permission=User
+Disallow: /Storyboards/ViewStoryBoard?title=product-solution-benefit-long&permission=User
+Disallow: /storyboards/viewstoryboard?title=product-solution-benefit-long&permission=User
+Disallow: /Storyboards/ViewStoryBoard?title=product-solution-benefit-short&permission=User
+Disallow: /storyboards/viewstoryboard?title=product-solution-benefit-short&permission=User
+Disallow: /Storyboards/ViewStoryBoard?title=storyboard-that-can-be-too-fun&permission=User
+Disallow: /storyboards/viewstoryboard?title=storyboard-that-can-be-too-fun&permission=User
+Disallow: /storyboards/viewstoryboard?title=this-then-that-long&permission=User
+Disallow: /storyboards/viewstoryboard?title=this-then-that-short&permission=User
+Disallow: /storyboards/viewstoryboard?title=when-steps-success-long&permission=User
+Disallow: /storyboards/viewstoryboard?title=when-steps-success-short&permission=User
+
+Disallow: /superimpose/sorry
+
+Disallow: /userboards/*/*/copy
+Disallow: /userboards/*/*/print
+Disallow: /userboards/*/*/print/print-choices
+Disallow: /userboards/*/*/image-pack
+Disallow: /userboards/*/*/powerpoint
+Disallow: /userboards/*/*/card
+Disallow: /userboards/*/*/slide-show
+Disallow: /userboards/*/*/image
+
+Disallow: /storyboards/*/*/copy
+Disallow: /storyboards/*/*/print
+Disallow: /storyboards/*/*/print/print-choices
+Disallow: /storyboards/*/*/image-pack
+Disallow: /storyboards/*/*/powerpoint
+Disallow: /storyboards/*/*/card
+Disallow: /storyboards/*/*/slide-show
+Disallow: /storyboards/*/*/image
+
+Disallow: /{language}/*
+Disallow: /---language---/*
+Disallow: /---language---/storyboards/*/*
+Disallow: /---language---/storyboards/*/*/copy
+Disallow: /---language---/storyboards/*/*/print
+Disallow: /---language---/storyboards/*/*/print/print-choices
+Disallow: /---language---/storyboards/*/*/image-pack
+Disallow: /---language---/storyboards/*/*/powerpoint
+Disallow: /---language---/storyboards/*/*/card
+Disallow: /---language---/storyboards/*/*/slide-show
+Disallow: /---language---/storyboards/*/*/image
+
+Disallow: /team-edition/create-my-first-storyboard
+Disallow: /team-edition/buy-now
+
+Disallow: /teacher-guide/*/activity/*
+Disallow: /lesson-plans/*/activity/*
+
+Disallow: /api_storyboardcreator/logstoryboardjserror
+
+Disallow: /teacher/promo/*
+Disallow: /team/promo/*
+
+
+
+Disallow: /photo-download/*
+Disallow: /purchase/promotion/*
+Disallow: /en/partials/*
+Disallow: /privateboards/
+Disallow: /privateboards/*
+Disallow: /privateboards/*/*
+Disallow: /privateboards/*/*/*
+Disallow: /storyboards/*/*/copy
+Disallow: /storyboards/*/*/print
+Disallow: /storyboards/*/*/print/print-choices
+Disallow: /storyboards/*/*/image-pack
+Disallow: /storyboards/*/*/powerpoint
+Disallow: /storyboards/*/*/slide-show
+Disallow: /storyboards/*/*/image
+Disallow: /storyboards/*/*/card
+Disallow: /teacher-guide/*/activity/*
+Disallow: /lesson-plans/*/activity/*
+Disallow: /biz$
+Disallow: /biz/*
+Disallow: /storyboards/*/<span*
+Disallow: /classroom/join$
+Disallow: /classroom/join/*
+Disallow: /biz/join$
+Disallow: /biz/join/*
+Disallow: /teacher-edition/create-my-first-storyboard$
+Disallow: /teacher-edition/create-my-first-storyboard/*
+Disallow: /team-edition/create-my-first-storyboard$
+Disallow: /team-edition/create-my-first-storyboard/*
+Disallow: /business/start-free-trial$
+Disallow: /business/start-free-trial/*
+Disallow: /education/start-my-free-teacher-trial$
+Disallow: /education/start-my-free-teacher-trial/*
+
+Disallow: /es/photo-download/*
+Disallow: /es/purchase/promotion/*
+Disallow: /es/partials/*
+Disallow: /es/privateboards/
+Disallow: /es/privateboards/*
+Disallow: /es/privateboards/*/*
+Disallow: /es/privateboards/*/*/*
+Disallow: /es/storyboards/*/*/copy
+Disallow: /es/storyboards/*/*/print
+Disallow: /es/storyboards/*/*/print/print-choices
+Disallow: /es/storyboards/*/*/image-pack
+Disallow: /es/storyboards/*/*/powerpoint
+Disallow: /es/storyboards/*/*/slide-show
+Disallow: /es/storyboards/*/*/image
+Disallow: /es/storyboards/*/*/card
+Disallow: /es/teacher-guide/*/activity/*
+Disallow: /es/lesson-plans/*/activity/*
+Disallow: /es/biz$
+Disallow: /es/biz/*
+Disallow: /es/storyboards/*/<span*
+Disallow: /es/classroom/join$
+Disallow: /es/classroom/join/*
+Disallow: /es/biz-join$
+Disallow: /es/biz-join/*
+
+Disallow: /es/edici%c3%b3n-docente-crear-mi-primer-gui%c3%b3n-gr%c3%a1fico$
+Disallow: /es/edici&#243;n-docente-crear-mi-primer-gui&#243;n-gr&#225;fico$
+Disallow: /es/edición-docente-crear-mi-primer-guión-gráfico$
+Disallow: /es/edici%c3%b3n-docente-crear-mi-primer-gui%c3%b3n-gr%c3%a1fico/*
+Disallow: /es/edici&#243;n-docente-crear-mi-primer-gui&#243;n-gr&#225;fico/*
+Disallow: /es/edición-docente-crear-mi-primer-guión-gráfico/*
+
+
+Disallow: /es/edici%c3%b3n-de-equipo-crear-mi-primer-gui%c3%b3n-gr%c3%a1fico$
+Disallow: /es/edici&#243;n-de-equipo-crear-mi-primer-gui&#243;n-gr&#225;fico$
+Disallow: /es/edición-de-equipo-crear-mi-primer-guión-gráfico$
+Disallow: /es/edici%c3%b3n-de-equipo-crear-mi-primer-gui%c3%b3n-gr%c3%a1fico/*
+Disallow: /es/edici&#243;n-de-equipo-crear-mi-primer-gui&#243;n-gr&#225;fico/*
+Disallow: /es/edición-de-equipo-crear-mi-primer-guión-gráfico/*
+
+Disallow: /es/empresa/iniciar-mi-prueba-gratuita$
+Disallow: /es/empresa/iniciar-mi-prueba-gratuita/*
+
+Disallow: /es/educaci%c3%b3n/iniciar-mi-prueba-gratuita$
+Disallow: /es/educaci&#243;n/iniciar-mi-prueba-gratuita$
+Disallow: /es/educación/iniciar-mi-prueba-gratuita$
+Disallow: /es/educaci%c3%b3n/iniciar-mi-prueba-gratuita/*
+Disallow: /es/educaci&#243;n/iniciar-mi-prueba-gratuita/*
+Disallow: /es/educación/iniciar-mi-prueba-gratuita/*
+
+
+Disallow: /fr/photo-download/*
+Disallow: /fr/purchase/promotion/*
+Disallow: /fr/partials/*
+Disallow: /fr/privateboards/
+Disallow: /fr/privateboards/*
+Disallow: /fr/privateboards/*/*
+Disallow: /fr/privateboards/*/*/*
+Disallow: /fr/storyboards/*/*/copy
+Disallow: /fr/storyboards/*/*/print
+Disallow: /fr/storyboards/*/*/print/print-choices
+Disallow: /fr/storyboards/*/*/image-pack
+Disallow: /fr/storyboards/*/*/powerpoint
+Disallow: /fr/storyboards/*/*/slide-show
+Disallow: /fr/storyboards/*/*/image
+Disallow: /fr/storyboards/*/*/card
+Disallow: /fr/teacher-guide/*/activity/*
+Disallow: /fr/lesson-plans/*/activity/*
+Disallow: /fr/biz$
+Disallow: /fr/biz/*
+Disallow: /fr/storyboards/*/<span*
+Disallow: /fr/salle-de-classe/joindre$
+Disallow: /fr/salle-de-classe/joindre/*
+Disallow: /fr/biz/joindre$
+Disallow: /fr/biz/joindre/*
+
+Disallow: /fr/%c3%a9dition-de-l&#39;enseignant-cr%c3%a9er-mon-premier-storyboard$
+Disallow: /fr/&#233;dition-de-l&#39;enseignant-cr&#233;er-mon-premier-storyboard$
+Disallow: /fr/édition-de-l'enseignant-créer-mon-premier-storyboard$
+Disallow: /fr/%c3%a9dition-de-l&#39;enseignant-cr%c3%a9er-mon-premier-storyboard/*
+Disallow: /fr/&#233;dition-de-l&#39;enseignant-cr&#233;er-mon-premier-storyboard/*
+Disallow: /fr/édition-de-l'enseignant-créer-mon-premier-storyboard/*
+
+
+Disallow: /fr/%c3%a9dition-d&#39;%c3%a9quipe-cr%c3%a9er-mon-premier-storyboard$
+Disallow: /fr/&#233;dition-d&#39;&#233;quipe-cr&#233;er-mon-premier-storyboard$
+Disallow: /fr/édition-d'équipe-créer-mon-premier-storyboard$
+Disallow: /fr/%c3%a9dition-d&#39;%c3%a9quipe-cr%c3%a9er-mon-premier-storyboard/*
+Disallow: /fr/&#233;dition-d&#39;&#233;quipe-cr&#233;er-mon-premier-storyboard/*
+Disallow: /fr/édition-d'équipe-créer-mon-premier-storyboard/*
+
+Disallow: /fr/entreprise/essayez-storyboard-that-gratuitement$
+Disallow: /fr/entreprise/essayez-storyboard-that-gratuitement/*
+
+Disallow: /fr/%c3%a9ducation/essayez-storyboard-that-gratuitement$
+Disallow: /fr/&#233;ducation/essayez-storyboard-that-gratuitement$
+Disallow: /fr/éducation/essayez-storyboard-that-gratuitement$
+Disallow: /fr/%c3%a9ducation/essayez-storyboard-that-gratuitement/*
+Disallow: /fr/&#233;ducation/essayez-storyboard-that-gratuitement/*
+Disallow: /fr/éducation/essayez-storyboard-that-gratuitement/*
+
+
+Disallow: /de/photo-download/*
+Disallow: /de/purchase/promotion/*
+Disallow: /de/partials/*
+Disallow: /de/privateboards/
+Disallow: /de/privateboards/*
+Disallow: /de/privateboards/*/*
+Disallow: /de/privateboards/*/*/*
+Disallow: /de/storyboards/*/*/copy
+Disallow: /de/storyboards/*/*/print
+Disallow: /de/storyboards/*/*/print/print-choices
+Disallow: /de/storyboards/*/*/image-pack
+Disallow: /de/storyboards/*/*/powerpoint
+Disallow: /de/storyboards/*/*/slide-show
+Disallow: /de/storyboards/*/*/image
+Disallow: /de/storyboards/*/*/card
+Disallow: /de/teacher-guide/*/activity/*
+Disallow: /de/lesson-plans/*/activity/*
+Disallow: /de/biz$
+Disallow: /de/biz/*
+Disallow: /de/storyboards/*/<span*
+Disallow: /de/klassenzimmer/beitreten$
+Disallow: /de/klassenzimmer/beitreten/*
+Disallow: /de/biz/beitreten$
+Disallow: /de/biz/beitreten/*
+Disallow: /de/lehrerausgabe-erstellen-mein-erstes-storyboard$
+Disallow: /de/lehrerausgabe-erstellen-mein-erstes-storyboard/*
+Disallow: /de/team-edition-erstelle-mein-erstes-storyboard$
+Disallow: /de/team-edition-erstelle-mein-erstes-storyboard/*
+
+Disallow: /de/gesch%c3%a4ft/start-frei-versuch$
+Disallow: /de/gesch&#228;ft/start-frei-versuch$
+Disallow: /de/geschäft/start-frei-versuch$
+Disallow: /de/gesch%c3%a4ft/start-frei-versuch/*
+Disallow: /de/gesch&#228;ft/start-frei-versuch/*
+Disallow: /de/geschäft/start-frei-versuch/*
+
+Disallow: /de/bildung/start-meine-freie-lehrer-studie$
+Disallow: /de/bildung/start-meine-freie-lehrer-studie/*
+
+Disallow: /it/photo-download/*
+Disallow: /it/purchase/promotion/*
+Disallow: /it/partials/*
+Disallow: /it/privateboards/
+Disallow: /it/privateboards/*
+Disallow: /it/privateboards/*/*
+Disallow: /it/privateboards/*/*/*
+Disallow: /it/storyboards/*/*/copy
+Disallow: /it/storyboards/*/*/print
+Disallow: /it/storyboards/*/*/print/print-choices
+Disallow: /it/storyboards/*/*/image-pack
+Disallow: /it/storyboards/*/*/powerpoint
+Disallow: /it/storyboards/*/*/slide-show
+Disallow: /it/storyboards/*/*/image
+Disallow: /it/storyboards/*/*/card
+Disallow: /it/teacher-guide/*/activity/*
+Disallow: /it/lesson-plans/*/activity/*
+Disallow: /it/biz$
+Disallow: /it/biz/*
+Disallow: /it/storyboards/*/<span*
+Disallow: /it/aula/join$
+Disallow: /it/aula/join/*
+Disallow: /it/biz/join$
+Disallow: /it/biz/join/*
+Disallow: /it/l&#39;edizione-per-insegnanti-crea-il-mio-primo-storyboard$
+Disallow: /it/l&#39;edizione-per-insegnanti-crea-il-mio-primo-storyboard/*
+Disallow: /it/l&#39;edizione-della-squadra-crea-il-mio-primo-storyboard$
+Disallow: /it/l&#39;edizione-della-squadra-crea-il-mio-primo-storyboard/*
+Disallow: /it/imprese/start-libera-trial$
+Disallow: /it/imprese/start-libera-trial/*
+Disallow: /it/istruzione/start-my-libera-insegnante-trial$
+Disallow: /it/istruzione/start-my-libera-insegnante-trial/*
+
+Disallow: /nl/photo-download/*
+Disallow: /nl/purchase/promotion/*
+Disallow: /nl/partials/*
+Disallow: /nl/privateboards/
+Disallow: /nl/privateboards/*
+Disallow: /nl/privateboards/*/*
+Disallow: /nl/privateboards/*/*/*
+Disallow: /nl/storyboards/*/*/copy
+Disallow: /nl/storyboards/*/*/print
+Disallow: /nl/storyboards/*/*/print/print-choices
+Disallow: /nl/storyboards/*/*/image-pack
+Disallow: /nl/storyboards/*/*/powerpoint
+Disallow: /nl/storyboards/*/*/slide-show
+Disallow: /nl/storyboards/*/*/image
+Disallow: /nl/storyboards/*/*/card
+Disallow: /nl/teacher-guide/*/activity/*
+Disallow: /nl/lesson-plans/*/activity/*
+Disallow: /nl/biz$
+Disallow: /nl/biz/*
+Disallow: /nl/storyboards/*/<span*
+Disallow: /nl/klaslokaal/join$
+Disallow: /nl/klaslokaal/join/*
+Disallow: /nl/biz/join$
+Disallow: /nl/biz/join/*
+Disallow: /nl/teacher-edition-maak-mijn-eerste-storyboard$
+Disallow: /nl/teacher-edition-maak-mijn-eerste-storyboard/*
+Disallow: /nl/team-editie-maak-mijn-eerste-storyboard$
+Disallow: /nl/team-editie-maak-mijn-eerste-storyboard/*
+Disallow: /nl/business/start-free-proef$
+Disallow: /nl/business/start-free-proef/*
+Disallow: /nl/onderwijs/start-my-free-leraar-proef$
+Disallow: /nl/onderwijs/start-my-free-leraar-proef/*
+
+Disallow: /pt/photo-download/*
+Disallow: /pt/purchase/promotion/*
+Disallow: /pt/partials/*
+Disallow: /pt/privateboards/
+Disallow: /pt/privateboards/*
+Disallow: /pt/privateboards/*/*
+Disallow: /pt/privateboards/*/*/*
+Disallow: /pt/storyboards/*/*/copy
+Disallow: /pt/storyboards/*/*/print
+Disallow: /pt/storyboards/*/*/print/print-choices
+Disallow: /pt/storyboards/*/*/image-pack
+Disallow: /pt/storyboards/*/*/powerpoint
+Disallow: /pt/storyboards/*/*/slide-show
+Disallow: /pt/storyboards/*/*/image
+Disallow: /pt/storyboards/*/*/card
+Disallow: /pt/teacher-guide/*/activity/*
+Disallow: /pt/lesson-plans/*/activity/*
+Disallow: /pt/biz$
+Disallow: /pt/biz/*
+Disallow: /pt/storyboards/*/<span*
+Disallow: /pt/sala-de-aula/participar$
+Disallow: /pt/sala-de-aula/participar/*
+Disallow: /pt/biz/join$
+Disallow: /pt/biz/join/*
+
+Disallow: /pt/edi%c3%a7%c3%a3o-do-professor-criar-meu-primeiro-storyboard$
+Disallow: /pt/edi&#231;&#227;o-do-professor-criar-meu-primeiro-storyboard$
+Disallow: /pt/edição-do-professor-criar-meu-primeiro-storyboard$
+Disallow: /pt/edi%c3%a7%c3%a3o-do-professor-criar-meu-primeiro-storyboard/*
+Disallow: /pt/edi&#231;&#227;o-do-professor-criar-meu-primeiro-storyboard/*
+Disallow: /pt/edição-do-professor-criar-meu-primeiro-storyboard/*
+
+
+Disallow: /pt/edi%c3%a7%c3%a3o-de-equipe-criar-meu-primeiro-storyboard$
+Disallow: /pt/edi&#231;&#227;o-de-equipe-criar-meu-primeiro-storyboard$
+Disallow: /pt/edição-de-equipe-criar-meu-primeiro-storyboard$
+Disallow: /pt/edi%c3%a7%c3%a3o-de-equipe-criar-meu-primeiro-storyboard/*
+Disallow: /pt/edi&#231;&#227;o-de-equipe-criar-meu-primeiro-storyboard/*
+Disallow: /pt/edição-de-equipe-criar-meu-primeiro-storyboard/*
+
+Disallow: /pt/empresa/iniciar-free-trial$
+Disallow: /pt/empresa/iniciar-free-trial/*
+
+Disallow: /pt/educa%c3%a7%c3%a3o/start-my-free-teacher-trial$
+Disallow: /pt/educa&#231;&#227;o/start-my-free-teacher-trial$
+Disallow: /pt/educação/start-my-free-teacher-trial$
+Disallow: /pt/educa%c3%a7%c3%a3o/start-my-free-teacher-trial/*
+Disallow: /pt/educa&#231;&#227;o/start-my-free-teacher-trial/*
+Disallow: /pt/educação/start-my-free-teacher-trial/*
+
+
+Disallow: /he/photo-download/*
+Disallow: /he/purchase/promotion/*
+Disallow: /he/partials/*
+Disallow: /he/privateboards/
+Disallow: /he/privateboards/*
+Disallow: /he/privateboards/*/*
+Disallow: /he/privateboards/*/*/*
+Disallow: /he/storyboards/*/*/copy
+Disallow: /he/storyboards/*/*/print
+Disallow: /he/storyboards/*/*/print/print-choices
+Disallow: /he/storyboards/*/*/image-pack
+Disallow: /he/storyboards/*/*/powerpoint
+Disallow: /he/storyboards/*/*/slide-show
+Disallow: /he/storyboards/*/*/image
+Disallow: /he/storyboards/*/*/card
+Disallow: /he/teacher-guide/*/activity/*
+Disallow: /he/lesson-plans/*/activity/*
+Disallow: /he/biz$
+Disallow: /he/biz/*
+Disallow: /he/storyboards/*/<span*
+
+Disallow: /he/%d7%91%d7%9b%d7%99%d7%aa%d7%94/%d7%9c%d7%94%d7%a6%d7%98%d7%a8%d7%a3$
+Disallow: /he/בכיתה/להצטרף$
+Disallow: /he/בכיתה/להצטרף$
+Disallow: /he/%d7%91%d7%9b%d7%99%d7%aa%d7%94/%d7%9c%d7%94%d7%a6%d7%98%d7%a8%d7%a3/*
+Disallow: /he/בכיתה/להצטרף/*
+Disallow: /he/בכיתה/להצטרף/*
+
+
+Disallow: /he/biz/%d7%9c%d7%94%d7%a6%d7%98%d7%a8%d7%a3$
+Disallow: /he/biz/להצטרף$
+Disallow: /he/biz/להצטרף$
+Disallow: /he/biz/%d7%9c%d7%94%d7%a6%d7%98%d7%a8%d7%a3/*
+Disallow: /he/biz/להצטרף/*
+Disallow: /he/biz/להצטרף/*
+
+
+Disallow: /he/%d7%9e%d7%94%d7%93%d7%95%d7%a8%d7%aa-%d7%94%d7%9e%d7%95%d7%a8%d7%94-%d7%9c%d7%99%d7%a6%d7%95%d7%a8-%d7%90%d7%aa-%d7%94%d7%aa%d7%9b%d7%a0%d7%95%d7%9f-%d7%94%d7%a8%d7%90%d7%a9%d7%95%d7%9f-%d7%a9%d7%9c%d7%99$
+Disallow: /he/מהדורת-המורה-ליצור-את-התכנון-הראשון-שלי$
+Disallow: /he/מהדורת-המורה-ליצור-את-התכנון-הראשון-שלי$
+Disallow: /he/%d7%9e%d7%94%d7%93%d7%95%d7%a8%d7%aa-%d7%94%d7%9e%d7%95%d7%a8%d7%94-%d7%9c%d7%99%d7%a6%d7%95%d7%a8-%d7%90%d7%aa-%d7%94%d7%aa%d7%9b%d7%a0%d7%95%d7%9f-%d7%94%d7%a8%d7%90%d7%a9%d7%95%d7%9f-%d7%a9%d7%9c%d7%99/*
+Disallow: /he/מהדורת-המורה-ליצור-את-התכנון-הראשון-שלי/*
+Disallow: /he/מהדורת-המורה-ליצור-את-התכנון-הראשון-שלי/*
+
+
+Disallow: /he/%d7%9e%d7%94%d7%93%d7%95%d7%a8%d7%aa-%d7%a6%d7%95%d7%95%d7%aa-%d7%9c%d7%99%d7%a6%d7%95%d7%a8-%d7%90%d7%aa-%d7%94%d7%aa%d7%9b%d7%a0%d7%95%d7%9f-%d7%94%d7%a8%d7%90%d7%a9%d7%95%d7%9f-%d7%a9%d7%9c%d7%99$
+Disallow: /he/מהדורת-צוות-ליצור-את-התכנון-הראשון-שלי$
+Disallow: /he/מהדורת-צוות-ליצור-את-התכנון-הראשון-שלי$
+Disallow: /he/%d7%9e%d7%94%d7%93%d7%95%d7%a8%d7%aa-%d7%a6%d7%95%d7%95%d7%aa-%d7%9c%d7%99%d7%a6%d7%95%d7%a8-%d7%90%d7%aa-%d7%94%d7%aa%d7%9b%d7%a0%d7%95%d7%9f-%d7%94%d7%a8%d7%90%d7%a9%d7%95%d7%9f-%d7%a9%d7%9c%d7%99/*
+Disallow: /he/מהדורת-צוות-ליצור-את-התכנון-הראשון-שלי/*
+Disallow: /he/מהדורת-צוות-ליצור-את-התכנון-הראשון-שלי/*
+
+
+Disallow: /he/%d7%a2%d7%a1%d7%a7%d7%99%d7%9d/%d7%a1%d7%98%d7%90%d7%a8%d7%98-%d7%97%d7%99%d7%a0%d7%9d-%d7%9e%d7%a9%d7%a4%d7%98$
+Disallow: /he/עסקים/סטארט-חינם-משפט$
+Disallow: /he/עסקים/סטארט-חינם-משפט$
+Disallow: /he/%d7%a2%d7%a1%d7%a7%d7%99%d7%9d/%d7%a1%d7%98%d7%90%d7%a8%d7%98-%d7%97%d7%99%d7%a0%d7%9d-%d7%9e%d7%a9%d7%a4%d7%98/*
+Disallow: /he/עסקים/סטארט-חינם-משפט/*
+Disallow: /he/עסקים/סטארט-חינם-משפט/*
+
+
+Disallow: /he/%d7%97%d7%99%d7%a0%d7%95%d7%9a/%d7%a1%d7%98%d7%90%d7%a8%d7%98-%d7%9e%d7%95%d7%a8%d7%94-%d7%97%d7%99%d7%a0%d7%9d-%d7%a9%d7%9c%d7%99-%d7%9e%d7%a9%d7%a4%d7%98$
+Disallow: /he/חינוך/סטארט-מורה-חינם-שלי-משפט$
+Disallow: /he/חינוך/סטארט-מורה-חינם-שלי-משפט$
+Disallow: /he/%d7%97%d7%99%d7%a0%d7%95%d7%9a/%d7%a1%d7%98%d7%90%d7%a8%d7%98-%d7%9e%d7%95%d7%a8%d7%94-%d7%97%d7%99%d7%a0%d7%9d-%d7%a9%d7%9c%d7%99-%d7%9e%d7%a9%d7%a4%d7%98/*
+Disallow: /he/חינוך/סטארט-מורה-חינם-שלי-משפט/*
+Disallow: /he/חינוך/סטארט-מורה-חינם-שלי-משפט/*
+
+
+Disallow: /ar/photo-download/*
+Disallow: /ar/purchase/promotion/*
+Disallow: /ar/partials/*
+Disallow: /ar/privateboards/
+Disallow: /ar/privateboards/*
+Disallow: /ar/privateboards/*/*
+Disallow: /ar/privateboards/*/*/*
+Disallow: /ar/storyboards/*/*/copy
+Disallow: /ar/storyboards/*/*/print
+Disallow: /ar/storyboards/*/*/print/print-choices
+Disallow: /ar/storyboards/*/*/image-pack
+Disallow: /ar/storyboards/*/*/powerpoint
+Disallow: /ar/storyboards/*/*/slide-show
+Disallow: /ar/storyboards/*/*/image
+Disallow: /ar/storyboards/*/*/card
+Disallow: /ar/teacher-guide/*/activity/*
+Disallow: /ar/lesson-plans/*/activity/*
+Disallow: /ar/biz$
+Disallow: /ar/biz/*
+Disallow: /ar/storyboards/*/<span*
+
+Disallow: /ar/%d8%a7%d9%84%d9%81%d8%b5%d9%88%d9%84-%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d8%a9/%d8%a7%d9%86%d8%b6%d9%85%d8%a7%d9%85$
+Disallow: /ar/الفصول-الدراسية/انضمام$
+Disallow: /ar/الفصول-الدراسية/انضمام$
+Disallow: /ar/%d8%a7%d9%84%d9%81%d8%b5%d9%88%d9%84-%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d8%a9/%d8%a7%d9%86%d8%b6%d9%85%d8%a7%d9%85/*
+Disallow: /ar/الفصول-الدراسية/انضمام/*
+Disallow: /ar/الفصول-الدراسية/انضمام/*
+
+
+Disallow: /ar/%d8%a8%d9%8a%d8%b2/%d8%a7%d9%86%d8%b6%d9%85%d8%a7%d9%85$
+Disallow: /ar/بيز/انضمام$
+Disallow: /ar/بيز/انضمام$
+Disallow: /ar/%d8%a8%d9%8a%d8%b2/%d8%a7%d9%86%d8%b6%d9%85%d8%a7%d9%85/*
+Disallow: /ar/بيز/انضمام/*
+Disallow: /ar/بيز/انضمام/*
+
+
+Disallow: /ar/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d9%82%d8%b5%d8%aa%d9%8a-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89$
+Disallow: /ar/إصدار-المعلم-إنشاء-قصتي-الأولى$
+Disallow: /ar/إصدار-المعلم-إنشاء-قصتي-الأولى$
+Disallow: /ar/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d9%82%d8%b5%d8%aa%d9%8a-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89/*
+Disallow: /ar/إصدار-المعلم-إنشاء-قصتي-الأولى/*
+Disallow: /ar/إصدار-المعلم-إنشاء-قصتي-الأولى/*
+
+
+Disallow: /ar/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82-%d9%84%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d9%84%d9%88%d8%ad%d8%a9-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89$
+Disallow: /ar/إصدار-الفريق-لإنشاء-لوحة-العمل-الأولى$
+Disallow: /ar/إصدار-الفريق-لإنشاء-لوحة-العمل-الأولى$
+Disallow: /ar/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82-%d9%84%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d9%84%d9%88%d8%ad%d8%a9-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89/*
+Disallow: /ar/إصدار-الفريق-لإنشاء-لوحة-العمل-الأولى/*
+Disallow: /ar/إصدار-الفريق-لإنشاء-لوحة-العمل-الأولى/*
+
+
+Disallow: /ar/%d8%a7%d9%84%d8%b9%d9%85%d9%84/%d8%ae%d8%a7%d9%84%d9%8a%d8%a9-%d9%85%d9%86-%d8%a8%d8%af%d8%a1-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%83%d9%85%d8%a9$
+Disallow: /ar/العمل/خالية-من-بدء-المحاكمة$
+Disallow: /ar/العمل/خالية-من-بدء-المحاكمة$
+Disallow: /ar/%d8%a7%d9%84%d8%b9%d9%85%d9%84/%d8%ae%d8%a7%d9%84%d9%8a%d8%a9-%d9%85%d9%86-%d8%a8%d8%af%d8%a1-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d9%83%d9%85%d8%a9/*
+Disallow: /ar/العمل/خالية-من-بدء-المحاكمة/*
+Disallow: /ar/العمل/خالية-من-بدء-المحاكمة/*
+
+
+Disallow: /ar/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85/%d8%a8%d8%af%d8%a1-%d8%a8%d9%84%d8%af%d9%8a-%d8%ae%d8%a7%d9%84%d9%8a%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85%d9%8a%d9%86-%d9%84%d9%84%d9%85%d8%ad%d8%a7%d9%83%d9%85%d8%a9$
+Disallow: /ar/التعليم/بدء-بلدي-خالية-من-المعلمين-للمحاكمة$
+Disallow: /ar/التعليم/بدء-بلدي-خالية-من-المعلمين-للمحاكمة$
+Disallow: /ar/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85/%d8%a8%d8%af%d8%a1-%d8%a8%d9%84%d8%af%d9%8a-%d8%ae%d8%a7%d9%84%d9%8a%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85%d9%8a%d9%86-%d9%84%d9%84%d9%85%d8%ad%d8%a7%d9%83%d9%85%d8%a9/*
+Disallow: /ar/التعليم/بدء-بلدي-خالية-من-المعلمين-للمحاكمة/*
+Disallow: /ar/التعليم/بدء-بلدي-خالية-من-المعلمين-للمحاكمة/*
+
+
+Disallow: /hi/photo-download/*
+Disallow: /hi/purchase/promotion/*
+Disallow: /hi/partials/*
+Disallow: /hi/privateboards/
+Disallow: /hi/privateboards/*
+Disallow: /hi/privateboards/*/*
+Disallow: /hi/privateboards/*/*/*
+Disallow: /hi/storyboards/*/*/copy
+Disallow: /hi/storyboards/*/*/print
+Disallow: /hi/storyboards/*/*/print/print-choices
+Disallow: /hi/storyboards/*/*/image-pack
+Disallow: /hi/storyboards/*/*/powerpoint
+Disallow: /hi/storyboards/*/*/slide-show
+Disallow: /hi/storyboards/*/*/image
+Disallow: /hi/storyboards/*/*/card
+Disallow: /hi/teacher-guide/*/activity/*
+Disallow: /hi/lesson-plans/*/activity/*
+Disallow: /hi/biz$
+Disallow: /hi/biz/*
+Disallow: /hi/storyboards/*/<span*
+
+Disallow: /hi/%e0%a4%95%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be/%e0%a4%b6%e0%a4%be%e0%a4%ae%e0%a4%bf%e0%a4%b2$
+Disallow: /hi/कक्षा/शामिल$
+Disallow: /hi/कक्षा/शामिल$
+Disallow: /hi/%e0%a4%95%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be/%e0%a4%b6%e0%a4%be%e0%a4%ae%e0%a4%bf%e0%a4%b2/*
+Disallow: /hi/कक्षा/शामिल/*
+Disallow: /hi/कक्षा/शामिल/*
+
+
+Disallow: /hi/%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%bc/%e0%a4%b6%e0%a4%be%e0%a4%ae%e0%a4%bf%e0%a4%b2$
+Disallow: /hi/बिज़/शामिल$
+Disallow: /hi/बिज़/शामिल$
+Disallow: /hi/%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%bc/%e0%a4%b6%e0%a4%be%e0%a4%ae%e0%a4%bf%e0%a4%b2/*
+Disallow: /hi/बिज़/शामिल/*
+Disallow: /hi/बिज़/शामिल/*
+
+
+Disallow: /hi/%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95-%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0%e0%a4%a3-%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a4%be-%e0%a4%aa%e0%a4%b9%e0%a4%b2%e0%a4%be-%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8b%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1-%e0%a4%ac%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a5%87-%e0%a4%b9%e0%a5%88%e0%a4%82$
+Disallow: /hi/शिक्षक-संस्करण-मेरा-पहला-स्टोरीबोर्ड-बनाते-हैं$
+Disallow: /hi/शिक्षक-संस्करण-मेरा-पहला-स्टोरीबोर्ड-बनाते-हैं$
+Disallow: /hi/%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95-%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0%e0%a4%a3-%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a4%be-%e0%a4%aa%e0%a4%b9%e0%a4%b2%e0%a4%be-%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8b%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1-%e0%a4%ac%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a5%87-%e0%a4%b9%e0%a5%88%e0%a4%82/*
+Disallow: /hi/शिक्षक-संस्करण-मेरा-पहला-स्टोरीबोर्ड-बनाते-हैं/*
+Disallow: /hi/शिक्षक-संस्करण-मेरा-पहला-स्टोरीबोर्ड-बनाते-हैं/*
+
+
+Disallow: /hi/%e0%a4%9f%e0%a5%80%e0%a4%ae-%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0%e0%a4%a3-%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a4%be-%e0%a4%aa%e0%a4%b9%e0%a4%b2%e0%a4%be-%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8b%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1-%e0%a4%ac%e0%a4%a8%e0%a4%be%e0%a4%8f%e0%a4%82$
+Disallow: /hi/टीम-संस्करण-मेरा-पहला-स्टोरीबोर्ड-बनाएं$
+Disallow: /hi/टीम-संस्करण-मेरा-पहला-स्टोरीबोर्ड-बनाएं$
+Disallow: /hi/%e0%a4%9f%e0%a5%80%e0%a4%ae-%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0%e0%a4%a3-%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a4%be-%e0%a4%aa%e0%a4%b9%e0%a4%b2%e0%a4%be-%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8b%e0%a4%b0%e0%a5%80%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1-%e0%a4%ac%e0%a4%a8%e0%a4%be%e0%a4%8f%e0%a4%82/*
+Disallow: /hi/टीम-संस्करण-मेरा-पहला-स्टोरीबोर्ड-बनाएं/*
+Disallow: /hi/टीम-संस्करण-मेरा-पहला-स्टोरीबोर्ड-बनाएं/*
+
+
+Disallow: /hi/%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%b5%e0%a4%b8%e0%a4%be%e0%a4%af/%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a5%82-free-%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3$
+Disallow: /hi/व्यवसाय/शुरू-free-परीक्षण$
+Disallow: /hi/व्यवसाय/शुरू-free-परीक्षण$
+Disallow: /hi/%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%b5%e0%a4%b8%e0%a4%be%e0%a4%af/%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a5%82-free-%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3/*
+Disallow: /hi/व्यवसाय/शुरू-free-परीक्षण/*
+Disallow: /hi/व्यवसाय/शुरू-free-परीक्षण/*
+
+
+Disallow: /hi/%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be/%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a5%82-%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a5%80-free-%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95-%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3$
+Disallow: /hi/शिक्षा/शुरू-मेरी-free-शिक्षक-परीक्षण$
+Disallow: /hi/शिक्षा/शुरू-मेरी-free-शिक्षक-परीक्षण$
+Disallow: /hi/%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be/%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a5%82-%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a5%80-free-%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95-%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3/*
+Disallow: /hi/शिक्षा/शुरू-मेरी-free-शिक्षक-परीक्षण/*
+Disallow: /hi/शिक्षा/शुरू-मेरी-free-शिक्षक-परीक्षण/*
+
+
+Disallow: /ru/photo-download/*
+Disallow: /ru/purchase/promotion/*
+Disallow: /ru/partials/*
+Disallow: /ru/privateboards/
+Disallow: /ru/privateboards/*
+Disallow: /ru/privateboards/*/*
+Disallow: /ru/privateboards/*/*/*
+Disallow: /ru/storyboards/*/*/copy
+Disallow: /ru/storyboards/*/*/print
+Disallow: /ru/storyboards/*/*/print/print-choices
+Disallow: /ru/storyboards/*/*/image-pack
+Disallow: /ru/storyboards/*/*/powerpoint
+Disallow: /ru/storyboards/*/*/slide-show
+Disallow: /ru/storyboards/*/*/image
+Disallow: /ru/storyboards/*/*/card
+Disallow: /ru/teacher-guide/*/activity/*
+Disallow: /ru/lesson-plans/*/activity/*
+Disallow: /ru/biz$
+Disallow: /ru/biz/*
+Disallow: /ru/storyboards/*/<span*
+
+Disallow: /ru/%d0%ba%d0%bb%d0%b0%d1%81%d1%81/%d0%bf%d1%80%d0%b8%d1%81%d0%be%d0%b5%d0%b4%d0%b8%d0%bd%d0%b8%d1%82%d1%8c%d1%81%d1%8f$
+Disallow: /ru/класс/присоединиться$
+Disallow: /ru/класс/присоединиться$
+Disallow: /ru/%d0%ba%d0%bb%d0%b0%d1%81%d1%81/%d0%bf%d1%80%d0%b8%d1%81%d0%be%d0%b5%d0%b4%d0%b8%d0%bd%d0%b8%d1%82%d1%8c%d1%81%d1%8f/*
+Disallow: /ru/класс/присоединиться/*
+Disallow: /ru/класс/присоединиться/*
+
+
+Disallow: /ru/%d0%b1%d0%b8%d0%b7/%d0%bf%d1%80%d0%b8%d1%81%d0%be%d0%b5%d0%b4%d0%b8%d0%bd%d0%b8%d1%82%d1%8c%d1%81%d1%8f$
+Disallow: /ru/биз/присоединиться$
+Disallow: /ru/биз/присоединиться$
+Disallow: /ru/%d0%b1%d0%b8%d0%b7/%d0%bf%d1%80%d0%b8%d1%81%d0%be%d0%b5%d0%b4%d0%b8%d0%bd%d0%b8%d1%82%d1%8c%d1%81%d1%8f/*
+Disallow: /ru/биз/присоединиться/*
+Disallow: /ru/биз/присоединиться/*
+
+
+Disallow: /ru/%d0%bf%d1%80%d0%b5%d0%bf%d0%be%d0%b4%d0%b0%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b8%d0%b9-%d0%b2%d1%8b%d0%bf%d1%83%d1%81%d0%ba-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%b9%d1%82%d0%b5-%d0%bc%d0%be%d1%8e-%d0%bf%d0%b5%d1%80%d0%b2%d1%83%d1%8e-%d1%80%d0%b0%d1%81%d0%ba%d0%b0%d0%b4%d1%80%d0%be%d0%b2%d0%ba%d1%83$
+Disallow: /ru/преподавательский-выпуск-создайте-мою-первую-раскадровку$
+Disallow: /ru/преподавательский-выпуск-создайте-мою-первую-раскадровку$
+Disallow: /ru/%d0%bf%d1%80%d0%b5%d0%bf%d0%be%d0%b4%d0%b0%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%b8%d0%b9-%d0%b2%d1%8b%d0%bf%d1%83%d1%81%d0%ba-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%b9%d1%82%d0%b5-%d0%bc%d0%be%d1%8e-%d0%bf%d0%b5%d1%80%d0%b2%d1%83%d1%8e-%d1%80%d0%b0%d1%81%d0%ba%d0%b0%d0%b4%d1%80%d0%be%d0%b2%d0%ba%d1%83/*
+Disallow: /ru/преподавательский-выпуск-создайте-мою-первую-раскадровку/*
+Disallow: /ru/преподавательский-выпуск-создайте-мою-первую-раскадровку/*
+
+
+Disallow: /ru/team-edition-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%b9%d1%82%d0%b5-%d0%bc%d0%be%d1%8e-%d0%bf%d0%b5%d1%80%d0%b2%d1%83%d1%8e-%d1%80%d0%b0%d1%81%d0%ba%d0%b0%d0%b4%d1%80%d0%be%d0%b2%d0%ba%d1%83$
+Disallow: /ru/team-edition-создайте-мою-первую-раскадровку$
+Disallow: /ru/team-edition-создайте-мою-первую-раскадровку$
+Disallow: /ru/team-edition-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%b9%d1%82%d0%b5-%d0%bc%d0%be%d1%8e-%d0%bf%d0%b5%d1%80%d0%b2%d1%83%d1%8e-%d1%80%d0%b0%d1%81%d0%ba%d0%b0%d0%b4%d1%80%d0%be%d0%b2%d0%ba%d1%83/*
+Disallow: /ru/team-edition-создайте-мою-первую-раскадровку/*
+Disallow: /ru/team-edition-создайте-мою-первую-раскадровку/*
+
+
+Disallow: /ru/%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81/%d0%b7%d0%b0%d0%bf%d1%83%d1%81%d0%ba-%d0%b1%d0%b5%d1%81%d0%bf%d0%bb%d0%b0%d1%82%d0%bd%d0%be-%d1%81%d1%83%d0%b4%d0%b0$
+Disallow: /ru/бизнес/запуск-бесплатно-суда$
+Disallow: /ru/бизнес/запуск-бесплатно-суда$
+Disallow: /ru/%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81/%d0%b7%d0%b0%d0%bf%d1%83%d1%81%d0%ba-%d0%b1%d0%b5%d1%81%d0%bf%d0%bb%d0%b0%d1%82%d0%bd%d0%be-%d1%81%d1%83%d0%b4%d0%b0/*
+Disallow: /ru/бизнес/запуск-бесплатно-суда/*
+Disallow: /ru/бизнес/запуск-бесплатно-суда/*
+
+
+Disallow: /ru/%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5/%d1%81%d1%82%d0%b0%d1%80%d1%82-%d0%bc%d0%be%d0%b9-%d0%be%d1%81%d0%b2%d0%be%d0%b1%d0%be%d0%b6%d0%b4%d0%b0%d1%8e%d1%89%d0%b5%d0%b3%d0%be-%d1%83%d1%87%d0%b8%d1%82%d0%b5%d0%bb%d1%8c-%d1%81%d1%83%d0%b4$
+Disallow: /ru/образование/старт-мой-освобождающего-учитель-суд$
+Disallow: /ru/образование/старт-мой-освобождающего-учитель-суд$
+Disallow: /ru/%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5/%d1%81%d1%82%d0%b0%d1%80%d1%82-%d0%bc%d0%be%d0%b9-%d0%be%d1%81%d0%b2%d0%be%d0%b1%d0%be%d0%b6%d0%b4%d0%b0%d1%8e%d1%89%d0%b5%d0%b3%d0%be-%d1%83%d1%87%d0%b8%d1%82%d0%b5%d0%bb%d1%8c-%d1%81%d1%83%d0%b4/*
+Disallow: /ru/образование/старт-мой-освобождающего-учитель-суд/*
+Disallow: /ru/образование/старт-мой-освобождающего-учитель-суд/*
+
+
+Disallow: /da/photo-download/*
+Disallow: /da/purchase/promotion/*
+Disallow: /da/partials/*
+Disallow: /da/privateboards/
+Disallow: /da/privateboards/*
+Disallow: /da/privateboards/*/*
+Disallow: /da/privateboards/*/*/*
+Disallow: /da/storyboards/*/*/copy
+Disallow: /da/storyboards/*/*/print
+Disallow: /da/storyboards/*/*/print/print-choices
+Disallow: /da/storyboards/*/*/image-pack
+Disallow: /da/storyboards/*/*/powerpoint
+Disallow: /da/storyboards/*/*/slide-show
+Disallow: /da/storyboards/*/*/image
+Disallow: /da/storyboards/*/*/card
+Disallow: /da/teacher-guide/*/activity/*
+Disallow: /da/lesson-plans/*/activity/*
+Disallow: /da/biz$
+Disallow: /da/biz/*
+Disallow: /da/storyboards/*/<span*
+
+Disallow: /da/klassev%c3%a6relse/join$
+Disallow: /da/klassev&#230;relse/join$
+Disallow: /da/klasseværelse/join$
+Disallow: /da/klassev%c3%a6relse/join/*
+Disallow: /da/klassev&#230;relse/join/*
+Disallow: /da/klasseværelse/join/*
+
+Disallow: /da/biz/join$
+Disallow: /da/biz/join/*
+
+Disallow: /da/l%c3%a6rerudgave-oprette-mit-f%c3%b8rste-storyboard$
+Disallow: /da/l&#230;rerudgave-oprette-mit-f&#248;rste-storyboard$
+Disallow: /da/lærerudgave-oprette-mit-første-storyboard$
+Disallow: /da/l%c3%a6rerudgave-oprette-mit-f%c3%b8rste-storyboard/*
+Disallow: /da/l&#230;rerudgave-oprette-mit-f&#248;rste-storyboard/*
+Disallow: /da/lærerudgave-oprette-mit-første-storyboard/*
+
+
+Disallow: /da/teamudgave-oprette-mit-f%c3%b8rste-storyboard$
+Disallow: /da/teamudgave-oprette-mit-f&#248;rste-storyboard$
+Disallow: /da/teamudgave-oprette-mit-første-storyboard$
+Disallow: /da/teamudgave-oprette-mit-f%c3%b8rste-storyboard/*
+Disallow: /da/teamudgave-oprette-mit-f&#248;rste-storyboard/*
+Disallow: /da/teamudgave-oprette-mit-første-storyboard/*
+
+Disallow: /da/virksomhed/start-free-trial$
+Disallow: /da/virksomhed/start-free-trial/*
+
+Disallow: /da/uddannelse/start-mit-fri-l%c3%a6rer-fors%c3%b8g$
+Disallow: /da/uddannelse/start-mit-fri-l&#230;rer-fors&#248;g$
+Disallow: /da/uddannelse/start-mit-fri-lærer-forsøg$
+Disallow: /da/uddannelse/start-mit-fri-l%c3%a6rer-fors%c3%b8g/*
+Disallow: /da/uddannelse/start-mit-fri-l&#230;rer-fors&#248;g/*
+Disallow: /da/uddannelse/start-mit-fri-lærer-forsøg/*
+
+
+Disallow: /sv/photo-download/*
+Disallow: /sv/purchase/promotion/*
+Disallow: /sv/partials/*
+Disallow: /sv/privateboards/
+Disallow: /sv/privateboards/*
+Disallow: /sv/privateboards/*/*
+Disallow: /sv/privateboards/*/*/*
+Disallow: /sv/storyboards/*/*/copy
+Disallow: /sv/storyboards/*/*/print
+Disallow: /sv/storyboards/*/*/print/print-choices
+Disallow: /sv/storyboards/*/*/image-pack
+Disallow: /sv/storyboards/*/*/powerpoint
+Disallow: /sv/storyboards/*/*/slide-show
+Disallow: /sv/storyboards/*/*/image
+Disallow: /sv/storyboards/*/*/card
+Disallow: /sv/teacher-guide/*/activity/*
+Disallow: /sv/lesson-plans/*/activity/*
+Disallow: /sv/biz$
+Disallow: /sv/biz/*
+Disallow: /sv/storyboards/*/<span*
+Disallow: /sv/klassrum/join$
+Disallow: /sv/klassrum/join/*
+Disallow: /sv/biz/join$
+Disallow: /sv/biz/join/*
+
+Disallow: /sv/l%c3%a4rarutg%c3%a5va-skapa-min-f%c3%b6rsta-storyboard$
+Disallow: /sv/l&#228;rarutg&#229;va-skapa-min-f&#246;rsta-storyboard$
+Disallow: /sv/lärarutgåva-skapa-min-första-storyboard$
+Disallow: /sv/l%c3%a4rarutg%c3%a5va-skapa-min-f%c3%b6rsta-storyboard/*
+Disallow: /sv/l&#228;rarutg&#229;va-skapa-min-f&#246;rsta-storyboard/*
+Disallow: /sv/lärarutgåva-skapa-min-första-storyboard/*
+
+
+Disallow: /sv/lagutg%c3%a5va-skapa-mitt-f%c3%b6rsta-storyboard$
+Disallow: /sv/lagutg&#229;va-skapa-mitt-f&#246;rsta-storyboard$
+Disallow: /sv/lagutgåva-skapa-mitt-första-storyboard$
+Disallow: /sv/lagutg%c3%a5va-skapa-mitt-f%c3%b6rsta-storyboard/*
+Disallow: /sv/lagutg&#229;va-skapa-mitt-f&#246;rsta-storyboard/*
+Disallow: /sv/lagutgåva-skapa-mitt-första-storyboard/*
+
+Disallow: /sv/business/start-free-trial$
+Disallow: /sv/business/start-free-trial/*
+
+Disallow: /sv/utbildning/start-my-free-l%c3%a4rare-r%c3%a4tteg%c3%a5ng$
+Disallow: /sv/utbildning/start-my-free-l&#228;rare-r&#228;tteg&#229;ng$
+Disallow: /sv/utbildning/start-my-free-lärare-rättegång$
+Disallow: /sv/utbildning/start-my-free-l%c3%a4rare-r%c3%a4tteg%c3%a5ng/*
+Disallow: /sv/utbildning/start-my-free-l&#228;rare-r&#228;tteg&#229;ng/*
+Disallow: /sv/utbildning/start-my-free-lärare-rättegång/*
+
+
+Disallow: /fi/photo-download/*
+Disallow: /fi/purchase/promotion/*
+Disallow: /fi/partials/*
+Disallow: /fi/privateboards/
+Disallow: /fi/privateboards/*
+Disallow: /fi/privateboards/*/*
+Disallow: /fi/privateboards/*/*/*
+Disallow: /fi/storyboards/*/*/copy
+Disallow: /fi/storyboards/*/*/print
+Disallow: /fi/storyboards/*/*/print/print-choices
+Disallow: /fi/storyboards/*/*/image-pack
+Disallow: /fi/storyboards/*/*/powerpoint
+Disallow: /fi/storyboards/*/*/slide-show
+Disallow: /fi/storyboards/*/*/image
+Disallow: /fi/storyboards/*/*/card
+Disallow: /fi/teacher-guide/*/activity/*
+Disallow: /fi/lesson-plans/*/activity/*
+Disallow: /fi/biz$
+Disallow: /fi/biz/*
+Disallow: /fi/storyboards/*/<span*
+Disallow: /fi/luokkahuone/join$
+Disallow: /fi/luokkahuone/join/*
+Disallow: /fi/biz/join$
+Disallow: /fi/biz/join/*
+
+Disallow: /fi/opettajan-painos-luovat-ensimm%c3%a4isen-tarinan$
+Disallow: /fi/opettajan-painos-luovat-ensimm&#228;isen-tarinan$
+Disallow: /fi/opettajan-painos-luovat-ensimmäisen-tarinan$
+Disallow: /fi/opettajan-painos-luovat-ensimm%c3%a4isen-tarinan/*
+Disallow: /fi/opettajan-painos-luovat-ensimm&#228;isen-tarinan/*
+Disallow: /fi/opettajan-painos-luovat-ensimmäisen-tarinan/*
+
+
+Disallow: /fi/team-painos-luo-ensimm%c3%a4isen-tarinan$
+Disallow: /fi/team-painos-luo-ensimm&#228;isen-tarinan$
+Disallow: /fi/team-painos-luo-ensimmäisen-tarinan$
+Disallow: /fi/team-painos-luo-ensimm%c3%a4isen-tarinan/*
+Disallow: /fi/team-painos-luo-ensimm&#228;isen-tarinan/*
+Disallow: /fi/team-painos-luo-ensimmäisen-tarinan/*
+
+Disallow: /fi/liike/start-vapaa-kokeiluversio$
+Disallow: /fi/liike/start-vapaa-kokeiluversio/*
+Disallow: /fi/koulutus/start-my-vapaa-opettaja-kokeilu$
+Disallow: /fi/koulutus/start-my-vapaa-opettaja-kokeilu/*
+
+Disallow: /no/photo-download/*
+Disallow: /no/purchase/promotion/*
+Disallow: /no/partials/*
+Disallow: /no/privateboards/
+Disallow: /no/privateboards/*
+Disallow: /no/privateboards/*/*
+Disallow: /no/privateboards/*/*/*
+Disallow: /no/storyboards/*/*/copy
+Disallow: /no/storyboards/*/*/print
+Disallow: /no/storyboards/*/*/print/print-choices
+Disallow: /no/storyboards/*/*/image-pack
+Disallow: /no/storyboards/*/*/powerpoint
+Disallow: /no/storyboards/*/*/slide-show
+Disallow: /no/storyboards/*/*/image
+Disallow: /no/storyboards/*/*/card
+Disallow: /no/teacher-guide/*/activity/*
+Disallow: /no/lesson-plans/*/activity/*
+Disallow: /no/biz$
+Disallow: /no/biz/*
+Disallow: /no/storyboards/*/<span*
+Disallow: /no/klasserom/join$
+Disallow: /no/klasserom/join/*
+Disallow: /no/biz/join$
+Disallow: /no/biz/join/*
+
+Disallow: /no/l%c3%a6rerutgave-lage-mitt-f%c3%b8rste-storyboard$
+Disallow: /no/l&#230;rerutgave-lage-mitt-f&#248;rste-storyboard$
+Disallow: /no/lærerutgave-lage-mitt-første-storyboard$
+Disallow: /no/l%c3%a6rerutgave-lage-mitt-f%c3%b8rste-storyboard/*
+Disallow: /no/l&#230;rerutgave-lage-mitt-f&#248;rste-storyboard/*
+Disallow: /no/lærerutgave-lage-mitt-første-storyboard/*
+
+
+Disallow: /no/lagutgave-lage-mitt-f%c3%b8rste-storyboard$
+Disallow: /no/lagutgave-lage-mitt-f&#248;rste-storyboard$
+Disallow: /no/lagutgave-lage-mitt-første-storyboard$
+Disallow: /no/lagutgave-lage-mitt-f%c3%b8rste-storyboard/*
+Disallow: /no/lagutgave-lage-mitt-f&#248;rste-storyboard/*
+Disallow: /no/lagutgave-lage-mitt-første-storyboard/*
+
+Disallow: /no/business/start-free-rettssaken$
+Disallow: /no/business/start-free-rettssaken/*
+
+Disallow: /no/utdanning/start-my-free-l%c3%a6rer-rettssaken$
+Disallow: /no/utdanning/start-my-free-l&#230;rer-rettssaken$
+Disallow: /no/utdanning/start-my-free-lærer-rettssaken$
+Disallow: /no/utdanning/start-my-free-l%c3%a6rer-rettssaken/*
+Disallow: /no/utdanning/start-my-free-l&#230;rer-rettssaken/*
+Disallow: /no/utdanning/start-my-free-lærer-rettssaken/*
+
+
+Disallow: /tr/photo-download/*
+Disallow: /tr/purchase/promotion/*
+Disallow: /tr/partials/*
+Disallow: /tr/privateboards/
+Disallow: /tr/privateboards/*
+Disallow: /tr/privateboards/*/*
+Disallow: /tr/privateboards/*/*/*
+Disallow: /tr/storyboards/*/*/copy
+Disallow: /tr/storyboards/*/*/print
+Disallow: /tr/storyboards/*/*/print/print-choices
+Disallow: /tr/storyboards/*/*/image-pack
+Disallow: /tr/storyboards/*/*/powerpoint
+Disallow: /tr/storyboards/*/*/slide-show
+Disallow: /tr/storyboards/*/*/image
+Disallow: /tr/storyboards/*/*/card
+Disallow: /tr/teacher-guide/*/activity/*
+Disallow: /tr/lesson-plans/*/activity/*
+Disallow: /tr/biz$
+Disallow: /tr/biz/*
+Disallow: /tr/storyboards/*/<span*
+
+Disallow: /tr/s%c4%b1n%c4%b1f/kat%c4%b1lmak$
+Disallow: /tr/sınıf/katılmak$
+Disallow: /tr/sınıf/katılmak$
+Disallow: /tr/s%c4%b1n%c4%b1f/kat%c4%b1lmak/*
+Disallow: /tr/sınıf/katılmak/*
+Disallow: /tr/sınıf/katılmak/*
+
+Disallow: /tr/biz/join$
+Disallow: /tr/biz/join/*
+
+Disallow: /tr/%c3%b6%c4%9fretmen-s%c3%bcr%c3%bcm%c3%bc-ilk-film-%c5%9feridemi-olu%c5%9ftur$
+Disallow: /tr/&#246;ğretmen-s&#252;r&#252;m&#252;-ilk-film-şeridemi-oluştur$
+Disallow: /tr/öğretmen-sürümü-ilk-film-şeridemi-oluştur$
+Disallow: /tr/%c3%b6%c4%9fretmen-s%c3%bcr%c3%bcm%c3%bc-ilk-film-%c5%9feridemi-olu%c5%9ftur/*
+Disallow: /tr/&#246;ğretmen-s&#252;r&#252;m&#252;-ilk-film-şeridemi-oluştur/*
+Disallow: /tr/öğretmen-sürümü-ilk-film-şeridemi-oluştur/*
+
+
+Disallow: /tr/ekip-s%c3%bcr%c3%bcm%c3%bc-ilk-film-%c5%9feridemi-olu%c5%9ftur$
+Disallow: /tr/ekip-s&#252;r&#252;m&#252;-ilk-film-şeridemi-oluştur$
+Disallow: /tr/ekip-sürümü-ilk-film-şeridemi-oluştur$
+Disallow: /tr/ekip-s%c3%bcr%c3%bcm%c3%bc-ilk-film-%c5%9feridemi-olu%c5%9ftur/*
+Disallow: /tr/ekip-s&#252;r&#252;m&#252;-ilk-film-şeridemi-oluştur/*
+Disallow: /tr/ekip-sürümü-ilk-film-şeridemi-oluştur/*
+
+
+Disallow: /tr/i%c5%9f/ba%c5%9flang%c4%b1%c3%a7-%c3%bccretsiz-deneme$
+Disallow: /tr/iş/başlangı&#231;-&#252;cretsiz-deneme$
+Disallow: /tr/iş/başlangıç-ücretsiz-deneme$
+Disallow: /tr/i%c5%9f/ba%c5%9flang%c4%b1%c3%a7-%c3%bccretsiz-deneme/*
+Disallow: /tr/iş/başlangı&#231;-&#252;cretsiz-deneme/*
+Disallow: /tr/iş/başlangıç-ücretsiz-deneme/*
+
+
+Disallow: /tr/e%c4%9fitim/ba%c5%9flama-benim-%c3%b6zg%c3%bcr-%c3%b6%c4%9fretmen-deneme$
+Disallow: /tr/eğitim/başlama-benim-&#246;zg&#252;r-&#246;ğretmen-deneme$
+Disallow: /tr/eğitim/başlama-benim-özgür-öğretmen-deneme$
+Disallow: /tr/e%c4%9fitim/ba%c5%9flama-benim-%c3%b6zg%c3%bcr-%c3%b6%c4%9fretmen-deneme/*
+Disallow: /tr/eğitim/başlama-benim-&#246;zg&#252;r-&#246;ğretmen-deneme/*
+Disallow: /tr/eğitim/başlama-benim-özgür-öğretmen-deneme/*
+
+
+Disallow: /pl/photo-download/*
+Disallow: /pl/purchase/promotion/*
+Disallow: /pl/partials/*
+Disallow: /pl/privateboards/
+Disallow: /pl/privateboards/*
+Disallow: /pl/privateboards/*/*
+Disallow: /pl/privateboards/*/*/*
+Disallow: /pl/storyboards/*/*/copy
+Disallow: /pl/storyboards/*/*/print
+Disallow: /pl/storyboards/*/*/print/print-choices
+Disallow: /pl/storyboards/*/*/image-pack
+Disallow: /pl/storyboards/*/*/powerpoint
+Disallow: /pl/storyboards/*/*/slide-show
+Disallow: /pl/storyboards/*/*/image
+Disallow: /pl/storyboards/*/*/card
+Disallow: /pl/teacher-guide/*/activity/*
+Disallow: /pl/lesson-plans/*/activity/*
+Disallow: /pl/biz$
+Disallow: /pl/biz/*
+Disallow: /pl/storyboards/*/<span*
+
+Disallow: /pl/sala/przy%c5%82%c4%85cz$
+Disallow: /pl/sala/przyłącz$
+Disallow: /pl/sala/przyłącz$
+Disallow: /pl/sala/przy%c5%82%c4%85cz/*
+Disallow: /pl/sala/przyłącz/*
+Disallow: /pl/sala/przyłącz/*
+
+Disallow: /pl/biz/join$
+Disallow: /pl/biz/join/*
+
+Disallow: /pl/edycja-dla-nauczycieli-tworzy-m%c3%b3j-pierwszy-scenorys$
+Disallow: /pl/edycja-dla-nauczycieli-tworzy-m&#243;j-pierwszy-scenorys$
+Disallow: /pl/edycja-dla-nauczycieli-tworzy-mój-pierwszy-scenorys$
+Disallow: /pl/edycja-dla-nauczycieli-tworzy-m%c3%b3j-pierwszy-scenorys/*
+Disallow: /pl/edycja-dla-nauczycieli-tworzy-m&#243;j-pierwszy-scenorys/*
+Disallow: /pl/edycja-dla-nauczycieli-tworzy-mój-pierwszy-scenorys/*
+
+
+Disallow: /pl/wydanie-zespo%c5%82u-tworzy-m%c3%b3j-pierwszy-storyboard$
+Disallow: /pl/wydanie-zespołu-tworzy-m&#243;j-pierwszy-storyboard$
+Disallow: /pl/wydanie-zespołu-tworzy-mój-pierwszy-storyboard$
+Disallow: /pl/wydanie-zespo%c5%82u-tworzy-m%c3%b3j-pierwszy-storyboard/*
+Disallow: /pl/wydanie-zespołu-tworzy-m&#243;j-pierwszy-storyboard/*
+Disallow: /pl/wydanie-zespołu-tworzy-mój-pierwszy-storyboard/*
+
+Disallow: /pl/biznes/start-free-trial$
+Disallow: /pl/biznes/start-free-trial/*
+
+Disallow: /pl/edukacja/start-m%c3%b3j-wolny-nauczyciel-trial$
+Disallow: /pl/edukacja/start-m&#243;j-wolny-nauczyciel-trial$
+Disallow: /pl/edukacja/start-mój-wolny-nauczyciel-trial$
+Disallow: /pl/edukacja/start-m%c3%b3j-wolny-nauczyciel-trial/*
+Disallow: /pl/edukacja/start-m&#243;j-wolny-nauczyciel-trial/*
+Disallow: /pl/edukacja/start-mój-wolny-nauczyciel-trial/*
+
+
+Disallow: /ro/photo-download/*
+Disallow: /ro/purchase/promotion/*
+Disallow: /ro/partials/*
+Disallow: /ro/privateboards/
+Disallow: /ro/privateboards/*
+Disallow: /ro/privateboards/*/*
+Disallow: /ro/privateboards/*/*/*
+Disallow: /ro/storyboards/*/*/copy
+Disallow: /ro/storyboards/*/*/print
+Disallow: /ro/storyboards/*/*/print/print-choices
+Disallow: /ro/storyboards/*/*/image-pack
+Disallow: /ro/storyboards/*/*/powerpoint
+Disallow: /ro/storyboards/*/*/slide-show
+Disallow: /ro/storyboards/*/*/image
+Disallow: /ro/storyboards/*/*/card
+Disallow: /ro/teacher-guide/*/activity/*
+Disallow: /ro/lesson-plans/*/activity/*
+Disallow: /ro/biz$
+Disallow: /ro/biz/*
+Disallow: /ro/storyboards/*/<span*
+
+Disallow: /ro/clas%c4%83/join$
+Disallow: /ro/clasă/join$
+Disallow: /ro/clasă/join$
+Disallow: /ro/clas%c4%83/join/*
+Disallow: /ro/clasă/join/*
+Disallow: /ro/clasă/join/*
+
+Disallow: /ro/biz/join$
+Disallow: /ro/biz/join/*
+
+Disallow: /ro/edi%c8%9bia-de-profesori-creeaz%c4%83-primul-meu-scenariu$
+Disallow: /ro/ediția-de-profesori-creează-primul-meu-scenariu$
+Disallow: /ro/ediția-de-profesori-creează-primul-meu-scenariu$
+Disallow: /ro/edi%c8%9bia-de-profesori-creeaz%c4%83-primul-meu-scenariu/*
+Disallow: /ro/ediția-de-profesori-creează-primul-meu-scenariu/*
+Disallow: /ro/ediția-de-profesori-creează-primul-meu-scenariu/*
+
+
+Disallow: /ro/edi%c8%9bia-de-echip%c4%83-creeaz%c4%83-primul-meu-scenariu$
+Disallow: /ro/ediția-de-echipă-creează-primul-meu-scenariu$
+Disallow: /ro/ediția-de-echipă-creează-primul-meu-scenariu$
+Disallow: /ro/edi%c8%9bia-de-echip%c4%83-creeaz%c4%83-primul-meu-scenariu/*
+Disallow: /ro/ediția-de-echipă-creează-primul-meu-scenariu/*
+Disallow: /ro/ediția-de-echipă-creează-primul-meu-scenariu/*
+
+Disallow: /ro/afaceri/start-free-trial$
+Disallow: /ro/afaceri/start-free-trial/*
+
+Disallow: /ro/educa%c8%9bie/start-mea-free-profesor-proces$
+Disallow: /ro/educație/start-mea-free-profesor-proces$
+Disallow: /ro/educație/start-mea-free-profesor-proces$
+Disallow: /ro/educa%c8%9bie/start-mea-free-profesor-proces/*
+Disallow: /ro/educație/start-mea-free-profesor-proces/*
+Disallow: /ro/educație/start-mea-free-profesor-proces/*
+
+
+Disallow: /cs/photo-download/*
+Disallow: /cs/purchase/promotion/*
+Disallow: /cs/partials/*
+Disallow: /cs/privateboards/
+Disallow: /cs/privateboards/*
+Disallow: /cs/privateboards/*/*
+Disallow: /cs/privateboards/*/*/*
+Disallow: /cs/storyboards/*/*/copy
+Disallow: /cs/storyboards/*/*/print
+Disallow: /cs/storyboards/*/*/print/print-choices
+Disallow: /cs/storyboards/*/*/image-pack
+Disallow: /cs/storyboards/*/*/powerpoint
+Disallow: /cs/storyboards/*/*/slide-show
+Disallow: /cs/storyboards/*/*/image
+Disallow: /cs/storyboards/*/*/card
+Disallow: /cs/teacher-guide/*/activity/*
+Disallow: /cs/lesson-plans/*/activity/*
+Disallow: /cs/biz$
+Disallow: /cs/biz/*
+Disallow: /cs/storyboards/*/<span*
+
+Disallow: /cs/t%c5%99%c3%adda/join$
+Disallow: /cs/tř&#237;da/join$
+Disallow: /cs/třída/join$
+Disallow: /cs/t%c5%99%c3%adda/join/*
+Disallow: /cs/tř&#237;da/join/*
+Disallow: /cs/třída/join/*
+
+Disallow: /cs/biz/join$
+Disallow: /cs/biz/join/*
+
+Disallow: /cs/edice-u%c4%8ditel%c5%af-vytvo%c5%99it-sv%c5%afj-prvn%c3%ad-storyboard$
+Disallow: /cs/edice-učitelů-vytvořit-svůj-prvn&#237;-storyboard$
+Disallow: /cs/edice-učitelů-vytvořit-svůj-první-storyboard$
+Disallow: /cs/edice-u%c4%8ditel%c5%af-vytvo%c5%99it-sv%c5%afj-prvn%c3%ad-storyboard/*
+Disallow: /cs/edice-učitelů-vytvořit-svůj-prvn&#237;-storyboard/*
+Disallow: /cs/edice-učitelů-vytvořit-svůj-první-storyboard/*
+
+
+Disallow: /cs/t%c3%bdmov%c3%a1-edice-vytvo%c5%99%c3%ad-sv%c5%afj-prvn%c3%ad-storyboard$
+Disallow: /cs/t&#253;mov&#225;-edice-vytvoř&#237;-svůj-prvn&#237;-storyboard$
+Disallow: /cs/týmová-edice-vytvoří-svůj-první-storyboard$
+Disallow: /cs/t%c3%bdmov%c3%a1-edice-vytvo%c5%99%c3%ad-sv%c5%afj-prvn%c3%ad-storyboard/*
+Disallow: /cs/t&#253;mov&#225;-edice-vytvoř&#237;-svůj-prvn&#237;-storyboard/*
+Disallow: /cs/týmová-edice-vytvoří-svůj-první-storyboard/*
+
+Disallow: /cs/business/start-free-trial$
+Disallow: /cs/business/start-free-trial/*
+
+Disallow: /cs/vzd%c4%9bl%c3%a1n%c3%ad/start-my-free-u%c4%8ditel-trial$
+Disallow: /cs/vzděl&#225;n&#237;/start-my-free-učitel-trial$
+Disallow: /cs/vzdělání/start-my-free-učitel-trial$
+Disallow: /cs/vzd%c4%9bl%c3%a1n%c3%ad/start-my-free-u%c4%8ditel-trial/*
+Disallow: /cs/vzděl&#225;n&#237;/start-my-free-učitel-trial/*
+Disallow: /cs/vzdělání/start-my-free-učitel-trial/*
+
+
+Disallow: /sk/photo-download/*
+Disallow: /sk/purchase/promotion/*
+Disallow: /sk/partials/*
+Disallow: /sk/privateboards/
+Disallow: /sk/privateboards/*
+Disallow: /sk/privateboards/*/*
+Disallow: /sk/privateboards/*/*/*
+Disallow: /sk/storyboards/*/*/copy
+Disallow: /sk/storyboards/*/*/print
+Disallow: /sk/storyboards/*/*/print/print-choices
+Disallow: /sk/storyboards/*/*/image-pack
+Disallow: /sk/storyboards/*/*/powerpoint
+Disallow: /sk/storyboards/*/*/slide-show
+Disallow: /sk/storyboards/*/*/image
+Disallow: /sk/storyboards/*/*/card
+Disallow: /sk/teacher-guide/*/activity/*
+Disallow: /sk/lesson-plans/*/activity/*
+Disallow: /sk/biz$
+Disallow: /sk/biz/*
+Disallow: /sk/storyboards/*/<span*
+Disallow: /sk/trieda/join$
+Disallow: /sk/trieda/join/*
+Disallow: /sk/biz/join$
+Disallow: /sk/biz/join/*
+
+Disallow: /sk/ed%c3%adcia-u%c4%8dite%c4%beov-vytvori%c5%a5-m%c3%b4j-prv%c3%bd-storyboard$
+Disallow: /sk/ed&#237;cia-učiteľov-vytvoriť-m&#244;j-prv&#253;-storyboard$
+Disallow: /sk/edícia-učiteľov-vytvoriť-môj-prvý-storyboard$
+Disallow: /sk/ed%c3%adcia-u%c4%8dite%c4%beov-vytvori%c5%a5-m%c3%b4j-prv%c3%bd-storyboard/*
+Disallow: /sk/ed&#237;cia-učiteľov-vytvoriť-m&#244;j-prv&#253;-storyboard/*
+Disallow: /sk/edícia-učiteľov-vytvoriť-môj-prvý-storyboard/*
+
+
+Disallow: /sk/team-edition-vytvori%c5%a5-m%c3%b4j-prv%c3%bd-storyboard$
+Disallow: /sk/team-edition-vytvoriť-m&#244;j-prv&#253;-storyboard$
+Disallow: /sk/team-edition-vytvoriť-môj-prvý-storyboard$
+Disallow: /sk/team-edition-vytvori%c5%a5-m%c3%b4j-prv%c3%bd-storyboard/*
+Disallow: /sk/team-edition-vytvoriť-m&#244;j-prv&#253;-storyboard/*
+Disallow: /sk/team-edition-vytvoriť-môj-prvý-storyboard/*
+
+Disallow: /sk/business/start-free-trial$
+Disallow: /sk/business/start-free-trial/*
+
+Disallow: /sk/vzdelanie/start-my-free-u%c4%8dite%c4%be-trial$
+Disallow: /sk/vzdelanie/start-my-free-učiteľ-trial$
+Disallow: /sk/vzdelanie/start-my-free-učiteľ-trial$
+Disallow: /sk/vzdelanie/start-my-free-u%c4%8dite%c4%be-trial/*
+Disallow: /sk/vzdelanie/start-my-free-učiteľ-trial/*
+Disallow: /sk/vzdelanie/start-my-free-učiteľ-trial/*
+
+
+Disallow: /hu/photo-download/*
+Disallow: /hu/purchase/promotion/*
+Disallow: /hu/partials/*
+Disallow: /hu/privateboards/
+Disallow: /hu/privateboards/*
+Disallow: /hu/privateboards/*/*
+Disallow: /hu/privateboards/*/*/*
+Disallow: /hu/storyboards/*/*/copy
+Disallow: /hu/storyboards/*/*/print
+Disallow: /hu/storyboards/*/*/print/print-choices
+Disallow: /hu/storyboards/*/*/image-pack
+Disallow: /hu/storyboards/*/*/powerpoint
+Disallow: /hu/storyboards/*/*/slide-show
+Disallow: /hu/storyboards/*/*/image
+Disallow: /hu/storyboards/*/*/card
+Disallow: /hu/teacher-guide/*/activity/*
+Disallow: /hu/lesson-plans/*/activity/*
+Disallow: /hu/biz$
+Disallow: /hu/biz/*
+Disallow: /hu/storyboards/*/<span*
+
+Disallow: /hu/oszt%c3%a1lyban/join$
+Disallow: /hu/oszt&#225;lyban/join$
+Disallow: /hu/osztályban/join$
+Disallow: /hu/oszt%c3%a1lyban/join/*
+Disallow: /hu/oszt&#225;lyban/join/*
+Disallow: /hu/osztályban/join/*
+
+Disallow: /hu/biz/join$
+Disallow: /hu/biz/join/*
+
+Disallow: /hu/tan%c3%a1ri-kiad%c3%a1s-hozza-l%c3%a9tre-az-els%c5%91-forgat%c3%b3k%c3%b6nyvet$
+Disallow: /hu/tan&#225;ri-kiad&#225;s-hozza-l&#233;tre-az-első-forgat&#243;k&#246;nyvet$
+Disallow: /hu/tanári-kiadás-hozza-létre-az-első-forgatókönyvet$
+Disallow: /hu/tan%c3%a1ri-kiad%c3%a1s-hozza-l%c3%a9tre-az-els%c5%91-forgat%c3%b3k%c3%b6nyvet/*
+Disallow: /hu/tan&#225;ri-kiad&#225;s-hozza-l&#233;tre-az-első-forgat&#243;k&#246;nyvet/*
+Disallow: /hu/tanári-kiadás-hozza-létre-az-első-forgatókönyvet/*
+
+
+Disallow: /hu/csapat-kiad%c3%a1sa-l%c3%a9trehozza-az-els%c5%91-forgat%c3%b3k%c3%b6nyvet$
+Disallow: /hu/csapat-kiad&#225;sa-l&#233;trehozza-az-első-forgat&#243;k&#246;nyvet$
+Disallow: /hu/csapat-kiadása-létrehozza-az-első-forgatókönyvet$
+Disallow: /hu/csapat-kiad%c3%a1sa-l%c3%a9trehozza-az-els%c5%91-forgat%c3%b3k%c3%b6nyvet/*
+Disallow: /hu/csapat-kiad&#225;sa-l&#233;trehozza-az-első-forgat&#243;k&#246;nyvet/*
+Disallow: /hu/csapat-kiadása-létrehozza-az-első-forgatókönyvet/*
+
+
+Disallow: /hu/%c3%bczleti/start-free-pr%c3%b3ba$
+Disallow: /hu/&#252;zleti/start-free-pr&#243;ba$
+Disallow: /hu/üzleti/start-free-próba$
+Disallow: /hu/%c3%bczleti/start-free-pr%c3%b3ba/*
+Disallow: /hu/&#252;zleti/start-free-pr&#243;ba/*
+Disallow: /hu/üzleti/start-free-próba/*
+
+
+Disallow: /hu/k%c3%a9pz%c3%a9s/start-%c3%a9n-free-tan%c3%a1r-t%c3%a1rgyal%c3%a1s$
+Disallow: /hu/k&#233;pz&#233;s/start-&#233;n-free-tan&#225;r-t&#225;rgyal&#225;s$
+Disallow: /hu/képzés/start-én-free-tanár-tárgyalás$
+Disallow: /hu/k%c3%a9pz%c3%a9s/start-%c3%a9n-free-tan%c3%a1r-t%c3%a1rgyal%c3%a1s/*
+Disallow: /hu/k&#233;pz&#233;s/start-&#233;n-free-tan&#225;r-t&#225;rgyal&#225;s/*
+Disallow: /hu/képzés/start-én-free-tanár-tárgyalás/*
+
+
+Disallow: /hr/photo-download/*
+Disallow: /hr/purchase/promotion/*
+Disallow: /hr/partials/*
+Disallow: /hr/privateboards/
+Disallow: /hr/privateboards/*
+Disallow: /hr/privateboards/*/*
+Disallow: /hr/privateboards/*/*/*
+Disallow: /hr/storyboards/*/*/copy
+Disallow: /hr/storyboards/*/*/print
+Disallow: /hr/storyboards/*/*/print/print-choices
+Disallow: /hr/storyboards/*/*/image-pack
+Disallow: /hr/storyboards/*/*/powerpoint
+Disallow: /hr/storyboards/*/*/slide-show
+Disallow: /hr/storyboards/*/*/image
+Disallow: /hr/storyboards/*/*/card
+Disallow: /hr/teacher-guide/*/activity/*
+Disallow: /hr/lesson-plans/*/activity/*
+Disallow: /hr/biz$
+Disallow: /hr/biz/*
+Disallow: /hr/storyboards/*/<span*
+
+Disallow: /hr/u%c4%8dionica/pridru%c5%bee$
+Disallow: /hr/učionica/pridruže$
+Disallow: /hr/učionica/pridruže$
+Disallow: /hr/u%c4%8dionica/pridru%c5%bee/*
+Disallow: /hr/učionica/pridruže/*
+Disallow: /hr/učionica/pridruže/*
+
+
+Disallow: /hr/biz/pridru%c5%bee$
+Disallow: /hr/biz/pridruže$
+Disallow: /hr/biz/pridruže$
+Disallow: /hr/biz/pridru%c5%bee/*
+Disallow: /hr/biz/pridruže/*
+Disallow: /hr/biz/pridruže/*
+
+
+Disallow: /hr/u%c4%8diteljsko-izdanje-stvoriti-moju-prvu-scenografiju$
+Disallow: /hr/učiteljsko-izdanje-stvoriti-moju-prvu-scenografiju$
+Disallow: /hr/učiteljsko-izdanje-stvoriti-moju-prvu-scenografiju$
+Disallow: /hr/u%c4%8diteljsko-izdanje-stvoriti-moju-prvu-scenografiju/*
+Disallow: /hr/učiteljsko-izdanje-stvoriti-moju-prvu-scenografiju/*
+Disallow: /hr/učiteljsko-izdanje-stvoriti-moju-prvu-scenografiju/*
+
+
+Disallow: /hr/timski-izdanje-kreira-moju-prvu-plo%c4%8du-scenarija$
+Disallow: /hr/timski-izdanje-kreira-moju-prvu-ploču-scenarija$
+Disallow: /hr/timski-izdanje-kreira-moju-prvu-ploču-scenarija$
+Disallow: /hr/timski-izdanje-kreira-moju-prvu-plo%c4%8du-scenarija/*
+Disallow: /hr/timski-izdanje-kreira-moju-prvu-ploču-scenarija/*
+Disallow: /hr/timski-izdanje-kreira-moju-prvu-ploču-scenarija/*
+
+
+Disallow: /hr/poslovno/start-bez-su%c4%91enja$
+Disallow: /hr/poslovno/start-bez-suđenja$
+Disallow: /hr/poslovno/start-bez-suđenja$
+Disallow: /hr/poslovno/start-bez-su%c4%91enja/*
+Disallow: /hr/poslovno/start-bez-suđenja/*
+Disallow: /hr/poslovno/start-bez-suđenja/*
+
+
+Disallow: /hr/obrazovanje/start-moj-free-nastavnik-su%c4%91enje$
+Disallow: /hr/obrazovanje/start-moj-free-nastavnik-suđenje$
+Disallow: /hr/obrazovanje/start-moj-free-nastavnik-suđenje$
+Disallow: /hr/obrazovanje/start-moj-free-nastavnik-su%c4%91enje/*
+Disallow: /hr/obrazovanje/start-moj-free-nastavnik-suđenje/*
+Disallow: /hr/obrazovanje/start-moj-free-nastavnik-suđenje/*
+
+
+Disallow: /bg/photo-download/*
+Disallow: /bg/purchase/promotion/*
+Disallow: /bg/partials/*
+Disallow: /bg/privateboards/
+Disallow: /bg/privateboards/*
+Disallow: /bg/privateboards/*/*
+Disallow: /bg/privateboards/*/*/*
+Disallow: /bg/storyboards/*/*/copy
+Disallow: /bg/storyboards/*/*/print
+Disallow: /bg/storyboards/*/*/print/print-choices
+Disallow: /bg/storyboards/*/*/image-pack
+Disallow: /bg/storyboards/*/*/powerpoint
+Disallow: /bg/storyboards/*/*/slide-show
+Disallow: /bg/storyboards/*/*/image
+Disallow: /bg/storyboards/*/*/card
+Disallow: /bg/teacher-guide/*/activity/*
+Disallow: /bg/lesson-plans/*/activity/*
+Disallow: /bg/biz$
+Disallow: /bg/biz/*
+Disallow: /bg/storyboards/*/<span*
+
+Disallow: /bg/%d0%ba%d0%bb%d0%b0%d1%81%d0%bd%d0%b0-%d1%81%d1%82%d0%b0%d1%8f/%d0%bf%d1%80%d0%b8%d1%81%d1%8a%d0%b5%d0%b4%d0%b8%d0%bd%d1%8f%d1%82$
+Disallow: /bg/класна-стая/присъединят$
+Disallow: /bg/класна-стая/присъединят$
+Disallow: /bg/%d0%ba%d0%bb%d0%b0%d1%81%d0%bd%d0%b0-%d1%81%d1%82%d0%b0%d1%8f/%d0%bf%d1%80%d0%b8%d1%81%d1%8a%d0%b5%d0%b4%d0%b8%d0%bd%d1%8f%d1%82/*
+Disallow: /bg/класна-стая/присъединят/*
+Disallow: /bg/класна-стая/присъединят/*
+
+
+Disallow: /bg/biz/%d0%bf%d1%80%d0%b8%d1%81%d1%8a%d0%b5%d0%b4%d0%b8%d0%bd%d1%8f%d1%82$
+Disallow: /bg/biz/присъединят$
+Disallow: /bg/biz/присъединят$
+Disallow: /bg/biz/%d0%bf%d1%80%d0%b8%d1%81%d1%8a%d0%b5%d0%b4%d0%b8%d0%bd%d1%8f%d1%82/*
+Disallow: /bg/biz/присъединят/*
+Disallow: /bg/biz/присъединят/*
+
+
+Disallow: /bg/%d1%83%d1%87%d0%b8%d1%82%d0%b5%d0%bb-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d1%81%d1%8a%d0%b7%d0%b4%d0%b0%d0%b2%d0%b0%d1%82-%d0%bc%d0%be%d1%8f-%d0%bf%d1%8a%d1%80%d0%b2%d0%b8-%d1%80%d0%b0%d0%b7%d0%ba%d0%b0%d0%b7$
+Disallow: /bg/учител-издание-създават-моя-първи-разказ$
+Disallow: /bg/учител-издание-създават-моя-първи-разказ$
+Disallow: /bg/%d1%83%d1%87%d0%b8%d1%82%d0%b5%d0%bb-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d1%81%d1%8a%d0%b7%d0%b4%d0%b0%d0%b2%d0%b0%d1%82-%d0%bc%d0%be%d1%8f-%d0%bf%d1%8a%d1%80%d0%b2%d0%b8-%d1%80%d0%b0%d0%b7%d0%ba%d0%b0%d0%b7/*
+Disallow: /bg/учител-издание-създават-моя-първи-разказ/*
+Disallow: /bg/учител-издание-създават-моя-първи-разказ/*
+
+
+Disallow: /bg/%d0%be%d1%82%d0%b1%d0%be%d1%80%d0%bd%d0%be%d1%82%d0%be-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d1%81%d1%8a%d0%b7%d0%b4%d0%b0%d0%b2%d0%b0-%d0%bc%d0%be%d1%8f-%d0%bf%d1%8a%d1%80%d0%b2%d0%b8-%d1%81%d1%86%d0%b5%d0%bd%d0%b0%d1%80%d0%b8%d0%b9$
+Disallow: /bg/отборното-издание-създава-моя-първи-сценарий$
+Disallow: /bg/отборното-издание-създава-моя-първи-сценарий$
+Disallow: /bg/%d0%be%d1%82%d0%b1%d0%be%d1%80%d0%bd%d0%be%d1%82%d0%be-%d0%b8%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d1%81%d1%8a%d0%b7%d0%b4%d0%b0%d0%b2%d0%b0-%d0%bc%d0%be%d1%8f-%d0%bf%d1%8a%d1%80%d0%b2%d0%b8-%d1%81%d1%86%d0%b5%d0%bd%d0%b0%d1%80%d0%b8%d0%b9/*
+Disallow: /bg/отборното-издание-създава-моя-първи-сценарий/*
+Disallow: /bg/отборното-издание-създава-моя-първи-сценарий/*
+
+
+Disallow: /bg/%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81/%d0%b7%d0%b0%d0%bf%d0%be%d1%87%d0%bd%d0%b5-%d0%b1%d0%b5%d0%b7%d0%bf%d0%bb%d0%b0%d1%82%d0%bd%d0%be-%d0%b8%d0%b7%d0%bf%d1%80%d0%be%d0%b1%d0%b2%d0%b0%d0%bd%d0%b5$
+Disallow: /bg/бизнес/започне-безплатно-изпробване$
+Disallow: /bg/бизнес/започне-безплатно-изпробване$
+Disallow: /bg/%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81/%d0%b7%d0%b0%d0%bf%d0%be%d1%87%d0%bd%d0%b5-%d0%b1%d0%b5%d0%b7%d0%bf%d0%bb%d0%b0%d1%82%d0%bd%d0%be-%d0%b8%d0%b7%d0%bf%d1%80%d0%be%d0%b1%d0%b2%d0%b0%d0%bd%d0%b5/*
+Disallow: /bg/бизнес/започне-безплатно-изпробване/*
+Disallow: /bg/бизнес/започне-безплатно-изпробване/*
+
+
+Disallow: /bg/%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5/%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b8%d1%80%d0%b0%d0%bd%d0%b5-%d0%bc%d0%b8-%d0%b1%d0%b5%d0%b7-%d1%83%d1%87%d0%b8%d1%82%d0%b5%d0%bb-%d0%bf%d1%80%d0%be%d0%b1%d0%bd%d0%b0$
+Disallow: /bg/образование/стартиране-ми-без-учител-пробна$
+Disallow: /bg/образование/стартиране-ми-без-учител-пробна$
+Disallow: /bg/%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5/%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b8%d1%80%d0%b0%d0%bd%d0%b5-%d0%bc%d0%b8-%d0%b1%d0%b5%d0%b7-%d1%83%d1%87%d0%b8%d1%82%d0%b5%d0%bb-%d0%bf%d1%80%d0%be%d0%b1%d0%bd%d0%b0/*
+Disallow: /bg/образование/стартиране-ми-без-учител-пробна/*
+Disallow: /bg/образование/стартиране-ми-без-учител-пробна/*
+
+
+Disallow: /lt/photo-download/*
+Disallow: /lt/purchase/promotion/*
+Disallow: /lt/partials/*
+Disallow: /lt/privateboards/
+Disallow: /lt/privateboards/*
+Disallow: /lt/privateboards/*/*
+Disallow: /lt/privateboards/*/*/*
+Disallow: /lt/storyboards/*/*/copy
+Disallow: /lt/storyboards/*/*/print
+Disallow: /lt/storyboards/*/*/print/print-choices
+Disallow: /lt/storyboards/*/*/image-pack
+Disallow: /lt/storyboards/*/*/powerpoint
+Disallow: /lt/storyboards/*/*/slide-show
+Disallow: /lt/storyboards/*/*/image
+Disallow: /lt/storyboards/*/*/card
+Disallow: /lt/teacher-guide/*/activity/*
+Disallow: /lt/lesson-plans/*/activity/*
+Disallow: /lt/biz$
+Disallow: /lt/biz/*
+Disallow: /lt/storyboards/*/<span*
+
+Disallow: /lt/klas%c4%97s/prisijungti$
+Disallow: /lt/klasės/prisijungti$
+Disallow: /lt/klasės/prisijungti$
+Disallow: /lt/klas%c4%97s/prisijungti/*
+Disallow: /lt/klasės/prisijungti/*
+Disallow: /lt/klasės/prisijungti/*
+
+Disallow: /lt/biz/prisijungti-prie$
+Disallow: /lt/biz/prisijungti-prie/*
+
+Disallow: /lt/mokytojo-leidimas-sukuria-mano-pirm%c4%85j%c4%85-storyboard$
+Disallow: /lt/mokytojo-leidimas-sukuria-mano-pirmąją-storyboard$
+Disallow: /lt/mokytojo-leidimas-sukuria-mano-pirmąją-storyboard$
+Disallow: /lt/mokytojo-leidimas-sukuria-mano-pirm%c4%85j%c4%85-storyboard/*
+Disallow: /lt/mokytojo-leidimas-sukuria-mano-pirmąją-storyboard/*
+Disallow: /lt/mokytojo-leidimas-sukuria-mano-pirmąją-storyboard/*
+
+
+Disallow: /lt/komandinis-leidimas-sukuria-mano-pirm%c4%85j%c4%85-storyboard$
+Disallow: /lt/komandinis-leidimas-sukuria-mano-pirmąją-storyboard$
+Disallow: /lt/komandinis-leidimas-sukuria-mano-pirmąją-storyboard$
+Disallow: /lt/komandinis-leidimas-sukuria-mano-pirm%c4%85j%c4%85-storyboard/*
+Disallow: /lt/komandinis-leidimas-sukuria-mano-pirmąją-storyboard/*
+Disallow: /lt/komandinis-leidimas-sukuria-mano-pirmąją-storyboard/*
+
+
+Disallow: /lt/verslas/prad%c4%97ti-franko-bandymus$
+Disallow: /lt/verslas/pradėti-franko-bandymus$
+Disallow: /lt/verslas/pradėti-franko-bandymus$
+Disallow: /lt/verslas/prad%c4%97ti-franko-bandymus/*
+Disallow: /lt/verslas/pradėti-franko-bandymus/*
+Disallow: /lt/verslas/pradėti-franko-bandymus/*
+
+
+Disallow: /lt/%c5%a1vietimo/prad%c4%97ti-savo-franko-mokytoj%c5%b3-bandymus$
+Disallow: /lt/švietimo/pradėti-savo-franko-mokytojų-bandymus$
+Disallow: /lt/švietimo/pradėti-savo-franko-mokytojų-bandymus$
+Disallow: /lt/%c5%a1vietimo/prad%c4%97ti-savo-franko-mokytoj%c5%b3-bandymus/*
+Disallow: /lt/švietimo/pradėti-savo-franko-mokytojų-bandymus/*
+Disallow: /lt/švietimo/pradėti-savo-franko-mokytojų-bandymus/*
+
+
+Disallow: /sl/photo-download/*
+Disallow: /sl/purchase/promotion/*
+Disallow: /sl/partials/*
+Disallow: /sl/privateboards/
+Disallow: /sl/privateboards/*
+Disallow: /sl/privateboards/*/*
+Disallow: /sl/privateboards/*/*/*
+Disallow: /sl/storyboards/*/*/copy
+Disallow: /sl/storyboards/*/*/print
+Disallow: /sl/storyboards/*/*/print/print-choices
+Disallow: /sl/storyboards/*/*/image-pack
+Disallow: /sl/storyboards/*/*/powerpoint
+Disallow: /sl/storyboards/*/*/slide-show
+Disallow: /sl/storyboards/*/*/image
+Disallow: /sl/storyboards/*/*/card
+Disallow: /sl/teacher-guide/*/activity/*
+Disallow: /sl/lesson-plans/*/activity/*
+Disallow: /sl/biz$
+Disallow: /sl/biz/*
+Disallow: /sl/storyboards/*/<span*
+
+Disallow: /sl/u%c4%8dilnica/join$
+Disallow: /sl/učilnica/join$
+Disallow: /sl/učilnica/join$
+Disallow: /sl/u%c4%8dilnica/join/*
+Disallow: /sl/učilnica/join/*
+Disallow: /sl/učilnica/join/*
+
+Disallow: /sl/biz/join$
+Disallow: /sl/biz/join/*
+
+Disallow: /sl/u%c4%8diteljska-izdaja-ustvari-moj-prvi-%c4%8dlanek$
+Disallow: /sl/učiteljska-izdaja-ustvari-moj-prvi-članek$
+Disallow: /sl/učiteljska-izdaja-ustvari-moj-prvi-članek$
+Disallow: /sl/u%c4%8diteljska-izdaja-ustvari-moj-prvi-%c4%8dlanek/*
+Disallow: /sl/učiteljska-izdaja-ustvari-moj-prvi-članek/*
+Disallow: /sl/učiteljska-izdaja-ustvari-moj-prvi-članek/*
+
+
+Disallow: /sl/ekipna-izdaja-ustvari-moj-prvi-%c4%8dlanek$
+Disallow: /sl/ekipna-izdaja-ustvari-moj-prvi-članek$
+Disallow: /sl/ekipna-izdaja-ustvari-moj-prvi-članek$
+Disallow: /sl/ekipna-izdaja-ustvari-moj-prvi-%c4%8dlanek/*
+Disallow: /sl/ekipna-izdaja-ustvari-moj-prvi-članek/*
+Disallow: /sl/ekipna-izdaja-ustvari-moj-prvi-članek/*
+
+Disallow: /sl/poslovno/start-free-trial$
+Disallow: /sl/poslovno/start-free-trial/*
+
+Disallow: /sl/izobra%c5%beevanje/start-moj-prosti-u%c4%8diteljev-sojenja$
+Disallow: /sl/izobraževanje/start-moj-prosti-učiteljev-sojenja$
+Disallow: /sl/izobraževanje/start-moj-prosti-učiteljev-sojenja$
+Disallow: /sl/izobra%c5%beevanje/start-moj-prosti-u%c4%8diteljev-sojenja/*
+Disallow: /sl/izobraževanje/start-moj-prosti-učiteljev-sojenja/*
+Disallow: /sl/izobraževanje/start-moj-prosti-učiteljev-sojenja/*
+
+
+Disallow: /lv/photo-download/*
+Disallow: /lv/purchase/promotion/*
+Disallow: /lv/partials/*
+Disallow: /lv/privateboards/
+Disallow: /lv/privateboards/*
+Disallow: /lv/privateboards/*/*
+Disallow: /lv/privateboards/*/*/*
+Disallow: /lv/storyboards/*/*/copy
+Disallow: /lv/storyboards/*/*/print
+Disallow: /lv/storyboards/*/*/print/print-choices
+Disallow: /lv/storyboards/*/*/image-pack
+Disallow: /lv/storyboards/*/*/powerpoint
+Disallow: /lv/storyboards/*/*/slide-show
+Disallow: /lv/storyboards/*/*/image
+Disallow: /lv/storyboards/*/*/card
+Disallow: /lv/teacher-guide/*/activity/*
+Disallow: /lv/lesson-plans/*/activity/*
+Disallow: /lv/biz$
+Disallow: /lv/biz/*
+Disallow: /lv/storyboards/*/<span*
+
+Disallow: /lv/klas%c4%93/join$
+Disallow: /lv/klasē/join$
+Disallow: /lv/klasē/join$
+Disallow: /lv/klas%c4%93/join/*
+Disallow: /lv/klasē/join/*
+Disallow: /lv/klasē/join/*
+
+Disallow: /lv/biz/join$
+Disallow: /lv/biz/join/*
+
+Disallow: /lv/skolot%c4%81ja-izdevums-izveido-manu-pirmo-izkl%c4%81jlapu$
+Disallow: /lv/skolotāja-izdevums-izveido-manu-pirmo-izklājlapu$
+Disallow: /lv/skolotāja-izdevums-izveido-manu-pirmo-izklājlapu$
+Disallow: /lv/skolot%c4%81ja-izdevums-izveido-manu-pirmo-izkl%c4%81jlapu/*
+Disallow: /lv/skolotāja-izdevums-izveido-manu-pirmo-izklājlapu/*
+Disallow: /lv/skolotāja-izdevums-izveido-manu-pirmo-izklājlapu/*
+
+
+Disallow: /lv/komandu-izdevums-izveidoju-savu-pirmo-izkl%c4%81jlapu$
+Disallow: /lv/komandu-izdevums-izveidoju-savu-pirmo-izklājlapu$
+Disallow: /lv/komandu-izdevums-izveidoju-savu-pirmo-izklājlapu$
+Disallow: /lv/komandu-izdevums-izveidoju-savu-pirmo-izkl%c4%81jlapu/*
+Disallow: /lv/komandu-izdevums-izveidoju-savu-pirmo-izklājlapu/*
+Disallow: /lv/komandu-izdevums-izveidoju-savu-pirmo-izklājlapu/*
+
+
+Disallow: /lv/business/start-free-izm%c4%93%c4%a3in%c4%81jums$
+Disallow: /lv/business/start-free-izmēģinājums$
+Disallow: /lv/business/start-free-izmēģinājums$
+Disallow: /lv/business/start-free-izm%c4%93%c4%a3in%c4%81jums/*
+Disallow: /lv/business/start-free-izmēģinājums/*
+Disallow: /lv/business/start-free-izmēģinājums/*
+
+
+Disallow: /lv/izgl%c4%abt%c4%abbas/s%c4%81kuma-manu-free-skolot%c4%81ju-izm%c4%93%c4%a3in%c4%81juma$
+Disallow: /lv/izglītības/sākuma-manu-free-skolotāju-izmēģinājuma$
+Disallow: /lv/izglītības/sākuma-manu-free-skolotāju-izmēģinājuma$
+Disallow: /lv/izgl%c4%abt%c4%abbas/s%c4%81kuma-manu-free-skolot%c4%81ju-izm%c4%93%c4%a3in%c4%81juma/*
+Disallow: /lv/izglītības/sākuma-manu-free-skolotāju-izmēģinājuma/*
+Disallow: /lv/izglītības/sākuma-manu-free-skolotāju-izmēģinājuma/*
+
+
+Disallow: /et/photo-download/*
+Disallow: /et/purchase/promotion/*
+Disallow: /et/partials/*
+Disallow: /et/privateboards/
+Disallow: /et/privateboards/*
+Disallow: /et/privateboards/*/*
+Disallow: /et/privateboards/*/*/*
+Disallow: /et/storyboards/*/*/copy
+Disallow: /et/storyboards/*/*/print
+Disallow: /et/storyboards/*/*/print/print-choices
+Disallow: /et/storyboards/*/*/image-pack
+Disallow: /et/storyboards/*/*/powerpoint
+Disallow: /et/storyboards/*/*/slide-show
+Disallow: /et/storyboards/*/*/image
+Disallow: /et/storyboards/*/*/card
+Disallow: /et/teacher-guide/*/activity/*
+Disallow: /et/lesson-plans/*/activity/*
+Disallow: /et/biz$
+Disallow: /et/biz/*
+Disallow: /et/storyboards/*/<span*
+Disallow: /et/klassiruumis/liituda$
+Disallow: /et/klassiruumis/liituda/*
+Disallow: /et/biz/liituda$
+Disallow: /et/biz/liituda/*
+
+Disallow: /et/%c3%b5petaja-v%c3%a4ljaanne-luua-minu-esimene-storyboard$
+Disallow: /et/&#245;petaja-v&#228;ljaanne-luua-minu-esimene-storyboard$
+Disallow: /et/õpetaja-väljaanne-luua-minu-esimene-storyboard$
+Disallow: /et/%c3%b5petaja-v%c3%a4ljaanne-luua-minu-esimene-storyboard/*
+Disallow: /et/&#245;petaja-v&#228;ljaanne-luua-minu-esimene-storyboard/*
+Disallow: /et/õpetaja-väljaanne-luua-minu-esimene-storyboard/*
+
+
+Disallow: /et/meeskonna-v%c3%a4ljaanne-loo-minu-esimene-ridaplank$
+Disallow: /et/meeskonna-v&#228;ljaanne-loo-minu-esimene-ridaplank$
+Disallow: /et/meeskonna-väljaanne-loo-minu-esimene-ridaplank$
+Disallow: /et/meeskonna-v%c3%a4ljaanne-loo-minu-esimene-ridaplank/*
+Disallow: /et/meeskonna-v&#228;ljaanne-loo-minu-esimene-ridaplank/*
+Disallow: /et/meeskonna-väljaanne-loo-minu-esimene-ridaplank/*
+
+
+Disallow: /et/%c3%a4ri/start-vaba-kohtuprotsessi$
+Disallow: /et/&#228;ri/start-vaba-kohtuprotsessi$
+Disallow: /et/äri/start-vaba-kohtuprotsessi$
+Disallow: /et/%c3%a4ri/start-vaba-kohtuprotsessi/*
+Disallow: /et/&#228;ri/start-vaba-kohtuprotsessi/*
+Disallow: /et/äri/start-vaba-kohtuprotsessi/*
+
+
+Disallow: /et/haridus/start-minu-free-%c3%b5petaja-uuring$
+Disallow: /et/haridus/start-minu-free-&#245;petaja-uuring$
+Disallow: /et/haridus/start-minu-free-õpetaja-uuring$
+Disallow: /et/haridus/start-minu-free-%c3%b5petaja-uuring/*
+Disallow: /et/haridus/start-minu-free-&#245;petaja-uuring/*
+Disallow: /et/haridus/start-minu-free-õpetaja-uuring/*
+
+
+
+

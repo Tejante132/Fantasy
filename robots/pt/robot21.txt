@@ -1,0 +1,300 @@
+# E proibido o uso de web crawlers ou outros métodos automáticos de navegação neste site.
+# Proibimos o rastreamento de nosso site usando um agente que não corresponda à sua identidade conforme número 2 alínea w) do artigo 75o do Decreto Lei n.o 63/85, de 14 de Março.
+# Convidamos-vos a entrar em contato connosco para subscrever uma licença de utilizador. Apenas os nossos parceiros têm o direito de utilizar o nosso conteúdo para uma finalidade que não seja estritamente individual.
+#
+#
+#
+#
+# Robots excluidos .
+
+# Sitemap location for Google and other allowed crawlers
+Sitemap: https://apix.noticiasilimitadas.pt/feed/jn/sitemap.xml
+Sitemap: https://apix.noticiasilimitadas.pt/feed/jn/news/sitemap.xml
+Sitemap: https://apix.noticiasilimitadas.pt/feed/jn/image/sitemap.xml
+Sitemap: https://apix.noticiasilimitadas.pt/feed/jn/video/sitemap.xml
+Sitemap: https://apix.noticiasilimitadas.pt/feed/jn/apostas/sitemap.xml
+Sitemap: https://apix.noticiasilimitadas.pt/feed/jn/casino/sitemap.xml
+
+User-agent: *
+Crawl-delay: 10
+Disallow: /embed/
+
+User-agent: googlebot
+User-agent: Googlebot-Video
+User-agent: bingbot
+User-agent: Baiduspider
+User-agent: Baiduspider-mobile
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+User-agent: NaverBot
+User-agent: Yeti
+User-agent: Yandex
+User-agent: YandexBot
+User-agent: YandexMobileBot
+User-agent: YandexVideo
+User-agent: YandexWebmaster
+User-agent: YandexSitelinks
+User-agent: SeznamBot
+Allow: /
+
+User-agent: AdsBot-Google
+User-agent: Twitterbot
+User-agent: Adidxbot
+Allow: /
+
+User-agent: Yahoo Pipes 1.0
+User-agent: Facebot
+User-agent: externalfacebookhit
+User-agent: SemrushBot
+User-agent: SemrushBot-SA
+User-agent: MJ12bot
+User-agent: AhrefsBot
+Disallow: /
+
+Disallow: /*?*
+Disallow: /newsgen/*
+Disallow: /page/* 
+
+User-agent: ia_archiver
+Allow: /$ 
+Disallow: /* 
+
+User-agent: ia_archiver-web.archive.org
+Allow: /$ 
+Disallow: /* 
+
+
+User-agent: Meltawer
+User-agent: Digimind
+User-agent: Knowings
+User-agent: Sindup
+User-agent: Talkwater
+User-agent: TurnitinBot
+User-agent: ConveraCrawler
+User-agent: Jetbot
+User-agent: NewsNow
+User-agent: kbcrawl
+User-agent: AmiSoftware
+User-agent: Newzbin
+User-agent: Ask n read
+User-agent: Qwam content intelligence 
+User-agent: Zite 
+User-agent: flipboard 
+User-agent: Youmag 
+User-agent: Synthesio 
+User-agent: trendybuzz 
+User-agent: spotter 
+User-agent: scoop.it 
+User-agent: linkfluence 
+User-agent: 5emeRue 
+User-agent: Augure 
+User-agent: Corporama
+User-agent: grub-client
+User-agent: k2spider 
+User-agent: libwww
+User-agent: wget
+User-agent: 5erue 
+User-agent: adequat 
+User-agent: adequat-systems 
+User-agent: auramundi 
+User-agent: coexel 
+User-agent: ellisphere 
+User-agent: leadbox 
+User-agent: mention 
+User-agent: Moreover 
+User-agent: mytwip 
+User-agent: NewsNow 
+User-agent: Newzbin 
+User-agent: opinion-tracker 
+User-agent: proxem 
+User-agent: score3 
+User-agent: trendeo 
+User-agent: vecteurplus 
+User-agent: verticalsearch 
+User-agent: vsw
+User-agent: winello 
+User-agent: Fetch 
+User-agent: infoseek
+User-agent: MSIECrawler
+User-agent: Offline Explorer 
+User-agent: sitecheck.internetseer.com 
+User-agent: Teleport
+User-agent: TeleportPro
+User-agent: WebCopier
+User-agent: WebStripper
+User-agent: Zealbot
+User-agent: asknread.com
+User-agent: ellisphere
+User-agent: spotter
+User-Agent: omgilibot
+User-Agent: omgili
+User-agent: CCBot
+User-agent: cc_bot
+Disallow: /
+
+#Disable ChatGPT crawler
+User-agent: GPTBot
+Disallow: /
+
+#Disable BARD and Vortex AI crawler
+User-agent: Google-Extended
+Disallow: / 
+
+#Enable AI Crawlers for BC content
+User-agent: GPTBot
+User-agent: Google-Extended
+Allow: /apostas
+
+#Enable specific crawler for SEO purposes for BC content
+User-agent: AhrefsBot
+Allow: /apostas
+# E proibido o uso de web crawlers ou outros métodos automáticos de navegação neste site.
+# Proibimos o rastreamento de nosso site usando um agente que não corresponda à sua identidade conforme número 2 alínea w) do artigo 75o do Decreto Lei n.o 63/85, de 14 de Março.
+# Convidamos-vos a entrar em contato connosco para subscrever uma licença de utilizador. Apenas os nossos parceiros têm o direito de utilizar o nosso conteúdo para uma finalidade que não seja estritamente individual.
+#
+#
+#
+#
+# Robots excluidos .
+
+# Sitemap location for Google and other allowed crawlers
+Sitemap: https://apix.noticiasilimitadas.pt/feed/jn/sitemap.xml
+Sitemap: https://apix.noticiasilimitadas.pt/feed/jn/news/sitemap.xml
+Sitemap: https://apix.noticiasilimitadas.pt/feed/jn/image/sitemap.xml
+Sitemap: https://apix.noticiasilimitadas.pt/feed/jn/video/sitemap.xml
+Sitemap: https://apix.noticiasilimitadas.pt/feed/jn/apostas/sitemap.xml
+Sitemap: https://apix.noticiasilimitadas.pt/feed/jn/casino/sitemap.xml
+
+User-agent: *
+Crawl-delay: 10
+Disallow: /embed/
+
+User-agent: googlebot
+User-agent: Googlebot-Video
+User-agent: bingbot
+User-agent: Baiduspider
+User-agent: Baiduspider-mobile
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+User-agent: NaverBot
+User-agent: Yeti
+User-agent: Yandex
+User-agent: YandexBot
+User-agent: YandexMobileBot
+User-agent: YandexVideo
+User-agent: YandexWebmaster
+User-agent: YandexSitelinks
+User-agent: SeznamBot
+Allow: /
+
+User-agent: AdsBot-Google
+User-agent: Twitterbot
+User-agent: Adidxbot
+Allow: /
+
+User-agent: Yahoo Pipes 1.0
+User-agent: Facebot
+User-agent: externalfacebookhit
+User-agent: SemrushBot
+User-agent: SemrushBot-SA
+User-agent: MJ12bot
+User-agent: AhrefsBot
+Disallow: /
+
+Disallow: /*?*
+Disallow: /newsgen/*
+Disallow: /page/* 
+
+User-agent: ia_archiver
+Allow: /$ 
+Disallow: /* 
+
+User-agent: ia_archiver-web.archive.org
+Allow: /$ 
+Disallow: /* 
+
+
+User-agent: Meltawer
+User-agent: Digimind
+User-agent: Knowings
+User-agent: Sindup
+User-agent: Talkwater
+User-agent: TurnitinBot
+User-agent: ConveraCrawler
+User-agent: Jetbot
+User-agent: NewsNow
+User-agent: kbcrawl
+User-agent: AmiSoftware
+User-agent: Newzbin
+User-agent: Ask n read
+User-agent: Qwam content intelligence 
+User-agent: Zite 
+User-agent: flipboard 
+User-agent: Youmag 
+User-agent: Synthesio 
+User-agent: trendybuzz 
+User-agent: spotter 
+User-agent: scoop.it 
+User-agent: linkfluence 
+User-agent: 5emeRue 
+User-agent: Augure 
+User-agent: Corporama
+User-agent: grub-client
+User-agent: k2spider 
+User-agent: libwww
+User-agent: wget
+User-agent: 5erue 
+User-agent: adequat 
+User-agent: adequat-systems 
+User-agent: auramundi 
+User-agent: coexel 
+User-agent: ellisphere 
+User-agent: leadbox 
+User-agent: mention 
+User-agent: Moreover 
+User-agent: mytwip 
+User-agent: NewsNow 
+User-agent: Newzbin 
+User-agent: opinion-tracker 
+User-agent: proxem 
+User-agent: score3 
+User-agent: trendeo 
+User-agent: vecteurplus 
+User-agent: verticalsearch 
+User-agent: vsw
+User-agent: winello 
+User-agent: Fetch 
+User-agent: infoseek
+User-agent: MSIECrawler
+User-agent: Offline Explorer 
+User-agent: sitecheck.internetseer.com 
+User-agent: Teleport
+User-agent: TeleportPro
+User-agent: WebCopier
+User-agent: WebStripper
+User-agent: Zealbot
+User-agent: asknread.com
+User-agent: ellisphere
+User-agent: spotter
+User-Agent: omgilibot
+User-Agent: omgili
+User-agent: CCBot
+User-agent: cc_bot
+Disallow: /
+
+#Disable ChatGPT crawler
+User-agent: GPTBot
+Disallow: /
+
+#Disable BARD and Vortex AI crawler
+User-agent: Google-Extended
+Disallow: / 
+
+#Enable AI Crawlers for BC content
+User-agent: GPTBot
+User-agent: Google-Extended
+Allow: /apostas
+
+#Enable specific crawler for SEO purposes for BC content
+User-agent: AhrefsBot
+Allow: /apostas

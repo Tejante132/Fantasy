@@ -2,16 +2,16 @@
 <!DOCTYPE html>
 
 
-  <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pt-BR" xmlns:mml="http://www.w3.org/1998/Math/MathML" > <![endif]-->
-  <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="pt-BR"        xmlns:mml="http://www.w3.org/1998/Math/MathML"> <![endif]-->
-  <!--[if IE 8]>         <html class="no-js lt-ie9" lang="pt-BR"               xmlns:mml="http://www.w3.org/1998/Math/MathML"> <![endif]-->
-  <!--[if gt IE 8]><!--> <html class="no-js" lang="pt-BR" xmlns:mml="http://www.w3.org/1998/Math/MathML"> <!--<![endif]-->
+  <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" > <![endif]-->
+  <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"        xmlns:mml="http://www.w3.org/1998/Math/MathML"> <![endif]-->
+  <!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"               xmlns:mml="http://www.w3.org/1998/Math/MathML"> <![endif]-->
+  <!--[if gt IE 8]><!--> <html class="no-js" lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML"> <!--<![endif]-->
 
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
-    <title>SciELO  Brasil - Do “Embelezamento dos Fatos” à “Cicatriz”: Uma Investigação sobre a Fantasia em Freud Do “Embelezamento dos Fatos” à “Cicatriz”: Uma Investigação sobre a Fantasia em Freud </title>
+    <title>SciELO  Brazil - Do “Embelezamento dos Fatos” à “Cicatriz”: Uma Investigação sobre a Fantasia em Freud Do “Embelezamento dos Fatos” à “Cicatriz”: Uma Investigação sobre a Fantasia em Freud </title>
 
     
   
@@ -92,7 +92,7 @@
   <link href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" async />
 
 
-  <script src='/.bunny-shield/bd/bunnyprint.js' data-key='BGTUGZzVE4/Mhhg0ikeOkKIjrdwcgu61GNnUJ1jUVa47U6h7PUyI1KQ34lYYcIB4CYdQn7CdD8CLsdJrFknZdK9C+Mx4T60+zkjohnLsUnCH0Yf167KEEqXYhbQXfVrSGCbitcjCBK9QWjr+4JTRxfTCp8RXrYBf7+cTDl1m4oDFQbVQVobCS66unFjhZM3wqNmMrLdthYwU4FDNeCTWqP4v6rWjrZLDx6NGzoOy0RoNEBFyvpCdGIiXIt/y1INCXMHQPuyfrHJY/heEXamQcA==' data-validation='7b0c171d7438562e3c6e6e2439441d512c0f142c470c0c251323274f231442546b1d230f3c0606793d0702710362446d3b210d3170676859412d3d3a4f0020503b3e217d0500072e14016f23365073000b47191912255302071e4d4420036807340e19591007600000072d7040750c7573790e1269190c1c1b093e74516e402024214e5e3706251937675d3e341f1f4e5a3e78251108302c07140820161121541b6d153011057f414023132c3757' id='bunnyprint' async></script></head>
+  <script src='/.bunny-shield/bd/bunnyprint.js' data-key='bmPJDyMb54L6Ii0X25ooGcRljs4Cb1Ckh28ARI/Es8UmHONJxeEPIxyrmQw4Q0fFg4xP4nGp3g8Uel9Q4ngvjJdkrkJlSmumxsY7tHFrtpXbS8TRIuGbJ5tc4T+n9b8yE5djQODIeKfO1TqbygOGGSFJsouEpxnQb93NlaHDLL7of6T9luZQv0DOyjgTgjmJdmxkOFaTmw5zwUucBzhRk5LevoUtI3HeF+it1nSKtlC8GLOW8LPmUTJvQA6bI9Ryg9qb8Se3acP36Ur3pedehQ==' data-validation='38021f28140d61015a5a2a5f3b041c20025f270a104f0714581d712e4e4122191b577e2d3d285b69447f063b0a2c620b3e233c14785436035e1b1b737d530928015d0a3d182f3502521e142600186d38590b08031e662b09180e29187f29255a4135331b1d3b001b1a192c077f4e20300d1a084e207a46577e3107014c01711770192b083b2a273d492d2b1a41171d4e362d7d300b046a3d1a01112a075408063355650240063a34782507431f4e2478001876223358361c4c' id='bunnyprint' async></script></head>
   <body class="journal article" data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="0">
     <a name="top"></a>
 
@@ -152,43 +152,43 @@
         <div class="scielo__logo-scielo--small"></div>
       </li>
       <li>
-        <a href="/" alt="Acessar site coleção Brasil" aria-label="Acessar site coleção Brasil">
-          <strong>Brasil</strong>
+        <a href="/" alt="Acessar site coleção Brazil" aria-label="Acessar site coleção Brazil">
+          <strong>Brazil</strong>
         </a>
         <ul>
             <li>
               <a href="/journals/alpha?status=current" class="tab_link">
-                Lista alfabética de periódicos
+                Journal list by title
               </a>
             </li>
             <li>
               <a href="/journals/thematic?status=current" class="tab_link">
-                Lista temática de periódicos
+                Journal list by subject area
               </a>
             </li>
             <li>
-              <a href="//search.scielo.org/?q=*&lang=pt&filter[in][]=scl">
-                Busca
+              <a href="//search.scielo.org/?q=*&lang=en&filter[in][]=scl">
+                Search
               </a>
             </li>
             <li>
               <a target="_blank" href="http://analytics.scielo.org/?collection=scl">
-                Métricas
+                Metrics
               </a>
             </li>
             <li>
               <a href="/about/">
-                Sobre o SciELO Brasil
+                About SciELO Brazil
               </a>
             </li>
             <li>
               <a href="/about/">
-                Contatos
+                Contacts
               </a>
             </li>
             <li>
               <a href="#" id="floatingBtnErrorHamburguerMenu" class="floatingBtnErrorHamburguerMenu">
-                Reportar erro
+                Report error
               </a>
             </li>
 
@@ -198,56 +198,56 @@
       </li>
       <li>
         <a target="_blank" href="//www.scielo.org">
-          <strong>SciELO.org - Rede SciELO</strong>
+          <strong>SciELO.org - The SciELO Network</strong>
         </a>
         <ul>
           <li>
             <a target="_blank" href="//www.scielo.org">
-              Coleções nacionais e temáticas
+              National and thematic collections
             </a>
           </li>
           <li>
-            <a target="_blank" href="//www.scielo.org/pt/periodicos/listar-por-ordem-alfabetica/">
-              Lista alfabética de periódicos
+            <a target="_blank" href="//www.scielo.org/en/journals/list-by-alphabetical-order/">
+              Journal list by title
             </a>
           </li>
           <li>
-            <a target="_blank" href="//www.scielo.org/pt/periodicos/listar-por-assunto/">
-              Lista de periódicos por assunto
+            <a target="_blank" href="//www.scielo.org/en/journals/list-by-subject-area/">
+              Journal list by subject
             </a>
           </li>
           <li>
             <a target="_blank" href="//search.scielo.org/">
-              Busca
+              Search
             </a>
           </li>
           <li>
             <a target="_blank" href="http://analytics.scielo.org">
-              Métricas
+              Metrics
             </a>
           </li>
           <li>
-            <a target="_blank" href="//www.scielo.org/pt/sobre-o-scielo/acesso-via-oai-e-rss/">
-              Acesso OAI e RSS
+            <a target="_blank" href="//www.scielo.org/en/about-scielo/access-via-oai-and-rss/">
+              OAI and RSS
             </a>
           </li>
           <li>
-            <a target="_blank" href="//www.scielo.org/pt/sobre-o-scielo/">
-              Sobre a Rede SciELO
+            <a target="_blank" href="//www.scielo.org/en/about-scielo/">
+              About the SciELO Network
             </a>
           </li>
           <li>
-            <a target="_blank" href="//www.scielo.org/pt/sobre-o-scielo/contato/">
-              Contatos
+            <a target="_blank" href="//www.scielo.org/en/about-scielo/contact/">
+              Contacts
             </a>
           </li>
         </ul>
       </li>
       <li>
         
-          <a target="_blank" href="//blog.scielo.org">
+          <a target="_blank" href="//blog.scielo.org/en/">
         
-            <strong>Blog SciELO em Perspectiva</strong>
+            <strong>Blog SciELO in Perspective</strong>
           </a>
       </li>
     </ul>
@@ -266,9 +266,9 @@
 </script>
             </div>
             <div class="col col-sm-3 --mainNav">
-                <a href="/" title="Ir para a homepage da coleção: Brasil">
+                <a href="/" title="Go to the home page of the collection:Brazil">
                     <div class="scielo__logo-scielo-collection mt-1 ms-5">
-                        <small>Brasil</small>
+                        <small>Brazil</small>
                     </div>
                 </a>
             </div>
@@ -288,26 +288,26 @@
                       
                       
                         <li>
-                          <a href="https://mc04.manuscriptcentral.com/ptp-scielo" class="dropdown-item" target="_blank"><span class="material-icons-outlined">launch</span> Submissão de manuscritos</a>
+                          <a href="https://mc04.manuscriptcentral.com/ptp-scielo" class="dropdown-item" target="_blank"><span class="material-icons-outlined">launch</span> Submission of manuscripts</a>
                         </li>
                       
                       <li>
-                        <a href="/journal/ptp/about/#about" class="dropdown-item"><span class="material-icons-outlined">info</span> Sobre o periódico</a>
+                        <a href="/journal/ptp/about/#about" class="dropdown-item"><span class="material-icons-outlined">info</span> About the journal</a>
                       </li>
                       <li>
                         <a href="/journal/ptp/about/#item2" class="dropdown-item"><span class="material-icons-outlined">help_outline</span> Política editorial</a>
                       </li>
                       <li>
-                        <a href="/journal/ptp/about/#editors" class="dropdown-item"><span class="material-icons-outlined">people</span> Corpo Editorial</a>
+                        <a href="/journal/ptp/about/#editors" class="dropdown-item"><span class="material-icons-outlined">people</span> Editorial Board</a>
                       </li>
                       <li>
-                        <a href="/journal/ptp/about/#instructions" class="dropdown-item"><span class="material-icons-outlined">help_outline</span> Instruções aos autores</a>
+                        <a href="/journal/ptp/about/#instructions" class="dropdown-item"><span class="material-icons-outlined">help_outline</span> Instructions to authors</a>
                       </li>
                       <li>
-                        <a href="/journal/ptp/about/#contact" class="dropdown-item"><span class="material-icons-outlined">email</span> Contato</a>
+                        <a href="/journal/ptp/about/#contact" class="dropdown-item"><span class="material-icons-outlined">email</span> Contact</a>
                       </li>
                       <li>
-                        <a href="http://analytics.scielo.org/?journal=0102-3772&collection=scl" class="dropdown-item"><span class="material-icons-outlined">show_chart</span> Métricas</a>
+                        <a href="http://analytics.scielo.org/?journal=0102-3772&collection=scl" class="dropdown-item"><span class="material-icons-outlined">show_chart</span> Metrics</a>
                       </li>
                       
                     </ul>
@@ -323,12 +323,12 @@
       
 
         
-          <span class="d-lg-none">pt_BR</span>
-          <span class="d-none d-lg-block">Português</span>
-        
 
       
 
+        
+          <span class="d-lg-none">en</span>
+          <span class="d-none d-lg-block">English</span>
         
 
       
@@ -343,11 +343,11 @@
       
     
         
+        <li><a class="dropdown-item" href="/set_locale/pt_BR/" lang="pt_BR">Português</a></li>
+        
 
       
     
-        
-        <li><a class="dropdown-item" href="/set_locale/en/" lang="en">English</a></li>
         
 
       
@@ -381,26 +381,26 @@
                   </li>
                   
                     <li>
-                      <a href="https://mc04.manuscriptcentral.com/ptp-scielo" class="dropdown-item" target="_blank"><span class="material-icons-outlined">launch</span> Submissão de manuscritos</a>
+                      <a href="https://mc04.manuscriptcentral.com/ptp-scielo" class="dropdown-item" target="_blank"><span class="material-icons-outlined">launch</span> Submission of manuscripts</a>
                     </li>
                   
                   <li>
-                    <a href="/journal/ptp/about/#about" class="dropdown-item"><span class="material-icons-outlined">info</span> Sobre o periódico</a>
+                    <a href="/journal/ptp/about/#about" class="dropdown-item"><span class="material-icons-outlined">info</span> About the journal</a>
                   </li>
                   <li>
                     <a href="/journal/ptp/about/#item2" class="dropdown-item"><span class="material-icons-outlined">help_outline</span> Política editorial</a>
                   </li>
                   <li>
-                    <a href="/journal/ptp/about/#editors" class="dropdown-item"><span class="material-icons-outlined">people</span> Corpo Editorial</a>
+                    <a href="/journal/ptp/about/#editors" class="dropdown-item"><span class="material-icons-outlined">people</span> Editorial Board</a>
                   </li>
                   <li>
-                    <a href="/journal/ptp/about/#instructions" class="dropdown-item"><span class="material-icons-outlined">help_outline</span> Instruções aos autores</a>
+                    <a href="/journal/ptp/about/#instructions" class="dropdown-item"><span class="material-icons-outlined">help_outline</span> Instructions to authors</a>
                   </li>
                   <li>
-                    <a href="/journal/ptp/about/#contact" class="dropdown-item"><span class="material-icons-outlined">email</span> Contato</a>
+                    <a href="/journal/ptp/about/#contact" class="dropdown-item"><span class="material-icons-outlined">email</span> Contact</a>
                   </li>
                   <li>
-                    <a href="http://analytics.scielo.org/?journal=0102-3772&collection=scl" class="dropdown-item"><span class="material-icons-outlined">show_chart</span> Métricas</a>
+                    <a href="http://analytics.scielo.org/?journal=0102-3772&collection=scl" class="dropdown-item"><span class="material-icons-outlined">show_chart</span> Metrics</a>
                   </li>
                 </ul>
               </div>
@@ -429,7 +429,7 @@
               
               
               <a href="/j/ptp/i/2017.v33/" class="btn mb-0">
-                  Sumário
+                  Table of contents
               </a> 
   
               
@@ -437,18 +437,18 @@
                   <a href="/j/ptp/a/sd4NvGCHMVHCSGJSP3WzJtm/?lang=pt" class="btn scielo__btn-with-icon--left mb-0 pe-md-2">
                   
                   <span class="material-icons-outlined">navigate_before</span>
-                  <span class="d-none d-xl-block">Anterior</span>
+                  <span class="d-none d-xl-block">previous</span>
                 </a>
   
               
               <a href="#" class="btn group disabled mb-0">
-                  Atual
+                  current
               </a>
   
               
               <a href="/j/ptp/a/rCB9qDCPKCNFhygQFsBhxnx/?lang=pt" class="btn scielo__btn-with-icon--right mb-0 ps-md-2">
 
-                <span class="d-none d-xl-block">Seguinte</span>
+                <span class="d-none d-xl-block">next</span>
                 <span class="material-icons-outlined">navigate_next</span>
               </a>
   
@@ -461,7 +461,7 @@
 
 <div class="btn-group">
   <button id="btnGroupDropLanguage" type="button" class="btn btn-secondary dropdown-toggle mb-0" data-bs-toggle="dropdown" aria-expanded="false">
-    Resumo
+    Abstract
     
       
     
@@ -473,9 +473,9 @@
       <li>
           
               <a href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/abstract/?lang=pt" class="dropdown-item">
-                Resumo 
+                Abstract
                 
-                  (Português)
+                  (Portuguese)
                 
               </a>
           
@@ -484,9 +484,9 @@
       <li>
           
               <a href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/abstract/?lang=en" class="dropdown-item">
-                Resumo 
+                Abstract
                 
-                  (Inglês)
+                  (English)
                 
               </a>
           
@@ -501,7 +501,7 @@
 
     <div class="btn-group">
       <button id="btnGroupDropTextLanguage" type="button" class="btn btn-secondary dropdown-toggle mb-0" data-bs-toggle="dropdown" aria-expanded="false">
-        Texto
+        Text
         
                   
             
@@ -516,9 +516,9 @@
           
             <!-- página de texto -->
             <a href="#" class="current dropdown-item"> 
-                Texto
+                Text
                 
-                  (Português)
+                  (Portuguese)
                 
             </a>
         
@@ -542,7 +542,7 @@
                 <li>
                   <a target='_blank' href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/?format=pdf&amp;lang=pt" class="dropdown-item">
                     
-                      Download PDF (Português)
+                      Download PDF (Portuguese)
                     
                   </a>
                 </li>
@@ -576,7 +576,7 @@
                 
                         
                 
-                Texto (PT)
+                Text (PT)
                 
                 
                 
@@ -589,9 +589,9 @@
                 <li>
                 
                 <a href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/abstract/?lang=pt" class="dropdown-item">
-                Resumo 
+                Abstract
                 
-                (Português)
+                (Portuguese)
                 
                 </a>
                 
@@ -600,9 +600,9 @@
                 <li>
                 
                 <a href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/abstract/?lang=en" class="dropdown-item">
-                Resumo 
+                Abstract
                 
-                (Inglês)
+                (English)
                 
                 </a>
                 
@@ -617,9 +617,9 @@
                 
                 <!-- página de texto -->
                 <a href="#" class="current dropdown-item"> 
-                Texto
+                Text
                 
-                (Português)
+                (Portuguese)
                 
                 </a>
                 
@@ -633,7 +633,7 @@
                 <li>
                 <a target='_blank' href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/?format=pdf&amp;lang=pt" class="dropdown-item">
                 
-                Download PDF (Português)
+                Download PDF (Portuguese)
                 
                 </a>
                 </li>
@@ -699,7 +699,7 @@
             
             <a href="/j/ptp/" class="btn scielo__btn-with-icon--only mb-0"><span class="material-icons-outlined">home</span></a>
             <a href="/j/ptp/i/2017.v33/" class="btn mb-0">
-              Sumário
+              Table of contents
             </a>
             
             <div class="btn-group" role="group">
@@ -730,7 +730,7 @@
 
           <div class="dropdown mt-1">
           <button id="btnGroupDropAbstractLanguage" type="button" class="btn btn-secondary dropdown-toggle mb-0" data-bs-toggle="dropdown" aria-expanded="false">
-          Resumo
+          Abstract
           
           
           
@@ -742,9 +742,9 @@
           <li>
           
           <a href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/abstract/?lang=pt" class="dropdown-item">
-          Resumo 
+          Abstract
           
-            (Português)
+            (Portuguese)
           
           </a>
           
@@ -753,9 +753,9 @@
           <li>
           
           <a href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/abstract/?lang=en" class="dropdown-item">
-          Resumo 
+          Abstract
           
-            (Inglês)
+            (English)
           
           </a>
           
@@ -772,7 +772,7 @@
           
           <div class="dropdown mt-1">
           <button id="btnGroupDropArticleTextLanguage" type="button" class="btn btn-secondary dropdown-toggle mb-0" data-bs-toggle="dropdown" aria-expanded="false">
-          Texto
+          Text
           
                   
           
@@ -787,9 +787,9 @@
           
           <!-- página de texto -->
           <a href="#" class="current dropdown-item"> 
-          Texto
+          Text
           
-          (Português)
+          (Portuguese)
           
           </a>
           
@@ -812,7 +812,7 @@
           <li>
           <a target='_blank' href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/?format=pdf&amp;lang=pt" class="dropdown-item">
           
-          Download PDF (Português)
+          Download PDF (Portuguese)
           
           </a>
           </li>
@@ -1149,7 +1149,7 @@
   <div class="col">
 
     <div class="scielo__floatingMenuCttJs3">
-      <a class="scielo__floatingMenuItem fm-button-child item-goto d-none d-lg-inline-block" data-bs-toggle="tooltip" title="Ir para o topo" href="#top">
+      <a class="scielo__floatingMenuItem fm-button-child item-goto d-none d-lg-inline-block" data-bs-toggle="tooltip" title="Go to top" href="#top">
         <span class="material-icons-outlined">
           vertical_align_top
         </span>
@@ -1161,41 +1161,41 @@
         </span>
       </a>
       -->
-      <a href="javascript:;" class="scielo__floatingMenuItem fm-button-child item-metrics d-none d-lg-inline-block" data-bs-toggle="tooltip" title="Métricas" target="_blank" data-bs-target="#metric_modal_id" tabindex="0">
+      <a href="javascript:;" class="scielo__floatingMenuItem fm-button-child item-metrics d-none d-lg-inline-block" data-bs-toggle="tooltip" title="Metrics" target="_blank" data-bs-target="#metric_modal_id" tabindex="0">
         <span class="material-icons-outlined">
           show_chart
         </span>
       </a>
       <ul class="scielo__floatingMenuJs3 fm-slidein" data-fm-toogle="hover">
         <li class="fm-wrap">
-          <a href="javascript:;" class="fm-button-main" data-bs-toggle="tooltip" title="Abrir menu" tabindex="0"><span class="material-icons-outlined material-icons-outlined-menu-default">more_horiz</span></a>
+          <a href="javascript:;" class="fm-button-main" data-bs-toggle="tooltip" title="Open menu" tabindex="0"><span class="material-icons-outlined material-icons-outlined-menu-default">more_horiz</span></a>
           <a href="javascript:;" class="fm-button-close" data-bs-toggle="tooltip" title="Fechar menu" tabindex="0"><span class="material-icons-outlined material-icons-outlined-menu-close">close</span></a>
 
           <!-- exibe em tudo menos mobile-->
           <ul class="fm-list-desktop d-none d-lg-block">
             <li>
-              <a class="fm-button-child" id="lnkFigsTables" data-bs-toggle="tooltip" title="Figuras e tabelas" data-bs-target="#ModalTablesFigures" tabindex="0">
+              <a class="fm-button-child" id="lnkFigsTables" data-bs-toggle="tooltip" title="Figures and tables" data-bs-target="#ModalTablesFigures" tabindex="0">
                 <span class="material-icons-outlined">
                   image
                 </span>
               </a>
             </li>
             <li>
-              <a class="fm-button-child" id="lnkVersTranslations" data-bs-toggle="tooltip" title="Versões e traduções" data-bs-target="#ModalVersionsTranslations" tabindex="0">
+              <a class="fm-button-child" id="lnkVersTranslations" data-bs-toggle="tooltip" title="Versions and translations" data-bs-target="#ModalVersionsTranslations" tabindex="0">
                 <span class="material-icons-outlined">
                   translate
                 </span>
               </a>
             </li>
             <li>
-              <a class="fm-button-child" id="lnkHowToCite" data-bs-toggle="tooltip" title="Como citar este artigo" data-bs-target="#ModalHowcite" tabindex="0">
+              <a class="fm-button-child" id="lnkHowToCite" data-bs-toggle="tooltip" title="How to cite this article" data-bs-target="#ModalHowcite" tabindex="0">
                 <span class="material-icons-outlined">
                   link
                 </span>
               </a>
             </li>
             <li>
-              <a class="fm-button-child" id="lnkArticles" data-bs-toggle="tooltip" title="Artigos relacionados" data-bs-target="#ModalRelatedArticles" tabindex="0">
+              <a class="fm-button-child" id="lnkArticles" data-bs-toggle="tooltip" title="Related articles" data-bs-target="#ModalRelatedArticles" tabindex="0">
                 <span class="material-icons-outlined">
                   article
                 </span>
@@ -1208,7 +1208,7 @@
           <!-- exibe apenas no mobile-->
           <ul class="fm-list-mobile d-block d-xl-none">
             <li class="">
-              <a class="fm-button-child item-goto" data-mobile-tooltip="Ir para o topo" href="#top">
+              <a class="fm-button-child item-goto" data-mobile-tooltip="Go to top" href="#top">
                 <span class="material-icons-outlined">
                   vertical_align_top
                 </span>
@@ -1222,35 +1222,35 @@
               </a>
             </li>
             <li class="">
-              <a href="javascript:;" class="fm-button-child item-metrics" data-mobile-tooltip="Métricas" data-bs-toggle="modal" data-bs-target="#metric_modal_id">
+              <a href="javascript:;" class="fm-button-child item-metrics" data-mobile-tooltip="Metrics" data-bs-toggle="modal" data-bs-target="#metric_modal_id">
                 <span class="material-icons-outlined">
                   show_chart
                 </span>
               </a>
             </li>
             <li class="">
-              <a class="fm-button-child" data-mobile-tooltip="Figuras e tabelas" data-bs-toggle="modal" data-bs-target="#ModalTablesFigures">
+              <a class="fm-button-child" data-mobile-tooltip="Figures and tables" data-bs-toggle="modal" data-bs-target="#ModalTablesFigures">
                 <span class="material-icons-outlined">
                   image
                 </span>
               </a>
             </li>
             <li class="">
-              <a class="fm-button-child" data-mobile-tooltip="Versões e traduções" data-bs-toggle="modal" data-bs-target="#ModalVersionsTranslations">
+              <a class="fm-button-child" data-mobile-tooltip="Versions and translations" data-bs-toggle="modal" data-bs-target="#ModalVersionsTranslations">
                 <span class="material-icons-outlined">
                   translate
                 </span>
               </a>
             </li>
             <li class="">
-              <a class="fm-button-child" data-mobile-tooltip="Como citar este artigo" data-bs-toggle="modal" data-bs-target="#ModalHowcite">
+              <a class="fm-button-child" data-mobile-tooltip="How to cite this article" data-bs-toggle="modal" data-bs-target="#ModalHowcite">
                 <span class="material-icons-outlined">
                   link
                 </span>
               </a>
             </li>
             <li class="">
-              <a class="fm-button-child" data-mobile-tooltip="Artigos relacionados" data-bs-toggle="modal" data-bs-target="#ModalRelatedArticles">
+              <a class="fm-button-child" data-mobile-tooltip="Related articles" data-bs-toggle="modal" data-bs-target="#ModalRelatedArticles">
                 <span class="material-icons-outlined">
                   article
                 </span>
@@ -1296,9 +1296,9 @@
       </div>
 
       <div class="col-12 col-sm-4 text-center text-sm-start pt-4 pt-sm-0">
-        <a href="/journal/ptp/feed/" data-toggle="tooltip" title="RSS do número mais recente do periódico" target="_blank"><span class="material-icons-outlined">rss_feed</span></a>
+        <a href="/journal/ptp/feed/" data-toggle="tooltip" title="RSS of this journal's latest issue" target="_blank"><span class="material-icons-outlined">rss_feed</span></a>
         <span>
-          Acompanhe os números deste periódico no seu leitor de RSS
+          Stay informed of issues for this journal through your RSS reader
         </span>
 
         
@@ -1316,7 +1316,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h2 class="h4 modal-title">
-          Versão para download de PDF
+          PDF version for download
         </h2>
         <button class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
      </div>
@@ -1333,7 +1333,7 @@
                 <li>
                   <a target='_blank' href="/j/ptp/a/YqhzchFBq6DQfDmFBkcGHRH/?lang=pt&amp;format=pdf">
                     
-                      Português
+                      Portuguese
                     
                   </a>
                 </li>
@@ -1353,7 +1353,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h2 class="h4 modal-title">
-          Artigos relacionados
+          Related articles
         </h2>
         <button class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
@@ -1638,7 +1638,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col">
-					<p class="text-center"><a href="/about/"><img src="https://www.scielo.br/static/img/logo-open-access.svg" alt="Open Access" class="me-1 logo-open-access">Leia</a> a Declaração de Acesso Aberto</p>
+					<p class="text-center"><a href="/about/"><img src="https://www.scielo.br/static/img/logo-open-access.svg" alt="Open Access" class="me-1 logo-open-access">Read</a> our Open Access Statement</p>
 				</div>
 			</div>
 		</div> 
@@ -1651,7 +1651,7 @@
       <div class="modal-content" style="width: 673px;">
         <div class="modal-header">
             <h2 class="h4 modal-title">
-                Métricas
+                Metrics
             </h2>
             <button class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
          </div>
@@ -1759,7 +1759,7 @@
           <div class="modal-content">
               <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="visually-hidden">Close</span></button>
-                  <h2 class="h4 modal-title">Mensagem</h2>
+                  <h2 class="h4 modal-title">Message</h2>
               </div>
               <div class="modal-body">
                   <div class="midGlyph">
@@ -1780,7 +1780,7 @@
           <div class="modal-content">
               <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="visually-hidden">Close</span></button>
-                  <h2 class="h4 modal-title">Mensagem</h2>
+                  <h2 class="h4 modal-title">Message</h2>
               </div>
               <div class="modal-body">
                   <div class="midGlyph">
@@ -1791,19 +1791,19 @@
     </div>
 
     <!-- Error modal -->
-    <a class="floatingBtnError btn btn-secondary" href="#" id="#floatingBtnError">Reportar erro</a>
+    <a class="floatingBtnError btn btn-secondary" href="#" id="#floatingBtnError">Report error</a>
 
     <script>
       // Variáveis para tradução da barra de acessibilidade      
       window.accessibilityTranslations = {
-        darkMode: "Modo escuro",
-        increaseText: "Aumentar texto",
-        decreaseText: "Diminuir texto",
-        originalText: "Texto original",
-        markerLine: "Marcador",
-        readingLine: "Linha guia",
-        reset: "Redefinir",
-        accessibilityMenu: "Menu de acessibilidade",
+        darkMode: "Dark mode",
+        increaseText: "Increase text",
+        decreaseText: "Decrease text",
+        originalText: "Original text",
+        markerLine: "Marker",
+        readingLine: "Guide line",
+        reset: "Reset",
+        accessibilityMenu: "Accessibility menu",
         skipLinkText: "Ir para o conteúdo principal"
       };
     </script>
@@ -1818,7 +1818,7 @@
         // Add rows article search
         let addRowBtn = $('.addRowBtn');
         let placeRow = $('.scielo__dinamic-row');
-        let newFormRow = '<div class="row"><div class="col-12"><hr></div><div class="col-2 col-lg-1 text-end"><button type="button" class="btn btn-danger scielo__btn-with-icon--only"><i class="material-icons-outlined">clear</i></button></div><div class="col-10 col-lg-11"><div class="input-group"><div class="input-group-preppend"><select class="form-select" name="bool[]"><option selected>AND</option><option>OR</option><option>AND NOT</option></select></div><textarea name="q[]" class="form-control" aria-label="With textarea" placeholder="Entre uma ou mais palavras"></textarea><div class="input-group-append"><select class="form-select"><option selected value="todos">Todos os índices</option><option value="ano">Ano</option><option value="autor">Autor</option><option value="financiador">Financiador</option><option value="periodico">Periódico</option><option value="resumo">Resumo</option><option value="titulo">Título</option></select></div></div></div></div>';
+        let newFormRow = '<div class="row"><div class="col-12"><hr></div><div class="col-2 col-lg-1 text-end"><button type="button" class="btn btn-danger scielo__btn-with-icon--only"><i class="material-icons-outlined">clear</i></button></div><div class="col-10 col-lg-11"><div class="input-group"><div class="input-group-preppend"><select class="form-select" name="bool[]"><option selected>AND</option><option>OR</option><option>AND NOT</option></select></div><textarea name="q[]" class="form-control" aria-label="With textarea" placeholder="Enter one or more words"></textarea><div class="input-group-append"><select class="form-select"><option selected value="todos">All indexes</option><option value="ano">Year</option><option value="autor">Author</option><option value="financiador">Funder</option><option value="periodico">Journal</option><option value="resumo">Abstract</option><option value="titulo">Title</option></select></div></div></div></div>';
 
         let btnRemoveRow = $('.btn-danger');
 
@@ -2038,7 +2038,7 @@
       // Garante que o valor do campo share_url é a URL corrente.
       $('#share_url').val(window.location.href);
 
-      //moment.locale('pt_BR');
+      //moment.locale('en');
 
       //$("#date").text(moment().format("L HH:mm:ss ZZ"));
 

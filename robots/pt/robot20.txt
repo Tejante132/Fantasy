@@ -1,0 +1,244 @@
+User-Agent: *
+Disallow: /_inc/
+Disallow: /_inc_novo/
+Disallow: /_img/
+Disallow: /skins/
+Disallow: /in/
+Disallow: /ece_incoming/
+Disallow: /inc/
+Disallow: /img/
+Disallow: /servicos/
+Disallow: /content/
+Disallow: /oglobo-mobile/
+Disallow: /config/
+Disallow: /email_marketing/
+Disallow: /email_mkt/
+Disallow: /rss.xml
+Disallow: /*.json
+Disallow: */ALTERNATES/*
+Disallow: */BINARY/*
+Disallow: /*?word*
+Disallow: /*?anyWord*
+Disallow: /*?noneWord*
+Disallow: /*?exactWord*
+Disallow: /*?decade*
+Disallow: /*?year*
+Disallow: /*?month*
+Disallow: /*?day*
+Disallow: /busca/ 
+Disallow: /beta/
+Allow: /in/*.jpg
+Allow: /in/*.JPG
+Allow: /in/*.jpeg
+Allow: /in/*.JPEG
+Allow: /in/*.png
+Allow: /in/*.PNG
+Allow: /in/*.gif
+Allow: /in/*.GIF
+Allow: /in/*.tif
+Allow: /in/*.TIF
+Allow: /in/*.bmp
+Allow: /in/*.BMP
+
+User-Agent: Googlebot-News
+Allow: *
+
+Sitemap: https://oglobo.globo.com/sitemap/oglobo/news.xml
+Sitemap: https://oglobo.globo.com/sitemap/topic/oglobo/sitemap.xml
+Sitemap: https://oglobo.globo.com/sitemap/oglobo/sitemap.xml
+Sitemap: https://oglobo.globo.com/sitemap/home/oglobo/sitemap.xml
+Sitemap: https://oglobo.globo.com/sitemap/section/oglobo/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: AI-Powered-Bot
+Disallow: /
+
+User-agent: SabiáBot
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: Grok
+Disallow: /
+
+User-agent: GrokBot
+Disallow: /
+
+User-agent: GrokAI
+Disallow: /
+
+User-agent: xAI
+Disallow: /
+
+User-agent: Copilot-LLM
+Disallow: /
+
+User-agent: Copilot
+Disallow: /
+
+User-agent: CopilotAI
+Disallow: /
+
+User-agent: CopilotBot
+Disallow: /
+
+User-agent: Claude-User 
+Disallow: /  
+
+User-agent: ClaudeBot 
+Disallow: /  
+
+User-agent: Claude-SearchBot 
+Disallow: /
+User-Agent: *
+Disallow: /_inc/
+Disallow: /_inc_novo/
+Disallow: /_img/
+Disallow: /skins/
+Disallow: /in/
+Disallow: /ece_incoming/
+Disallow: /inc/
+Disallow: /img/
+Disallow: /servicos/
+Disallow: /content/
+Disallow: /oglobo-mobile/
+Disallow: /config/
+Disallow: /email_marketing/
+Disallow: /email_mkt/
+Disallow: /rss.xml
+Disallow: /*.json
+Disallow: */ALTERNATES/*
+Disallow: */BINARY/*
+Disallow: /*?word*
+Disallow: /*?anyWord*
+Disallow: /*?noneWord*
+Disallow: /*?exactWord*
+Disallow: /*?decade*
+Disallow: /*?year*
+Disallow: /*?month*
+Disallow: /*?day*
+Disallow: /busca/ 
+Disallow: /beta/
+Allow: /in/*.jpg
+Allow: /in/*.JPG
+Allow: /in/*.jpeg
+Allow: /in/*.JPEG
+Allow: /in/*.png
+Allow: /in/*.PNG
+Allow: /in/*.gif
+Allow: /in/*.GIF
+Allow: /in/*.tif
+Allow: /in/*.TIF
+Allow: /in/*.bmp
+Allow: /in/*.BMP
+
+User-Agent: Googlebot-News
+Allow: *
+
+Sitemap: https://oglobo.globo.com/sitemap/oglobo/news.xml
+Sitemap: https://oglobo.globo.com/sitemap/topic/oglobo/sitemap.xml
+Sitemap: https://oglobo.globo.com/sitemap/oglobo/sitemap.xml
+Sitemap: https://oglobo.globo.com/sitemap/home/oglobo/sitemap.xml
+Sitemap: https://oglobo.globo.com/sitemap/section/oglobo/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: AI-Powered-Bot
+Disallow: /
+
+User-agent: SabiáBot
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: Grok
+Disallow: /
+
+User-agent: GrokBot
+Disallow: /
+
+User-agent: GrokAI
+Disallow: /
+
+User-agent: xAI
+Disallow: /
+
+User-agent: Copilot-LLM
+Disallow: /
+
+User-agent: Copilot
+Disallow: /
+
+User-agent: CopilotAI
+Disallow: /
+
+User-agent: CopilotBot
+Disallow: /
+
+User-agent: Claude-User 
+Disallow: /  
+
+User-agent: ClaudeBot 
+Disallow: /  
+
+User-agent: Claude-SearchBot 
+Disallow: /

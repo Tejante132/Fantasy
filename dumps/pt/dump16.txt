@@ -4,11 +4,6 @@
    view our Privacy Policy.
    (BUTTON) ×
 
-   Academia.edu no longer supports Internet Explorer.
-
-   To browse Academia.edu and the wider internet faster and more securely,
-   please take a few seconds to upgrade your browser.
-
    Academia.edu Academia.edu
    ____________________
    (BUTTON) Log In (BUTTON) Sign Up (BUTTON)
@@ -145,51 +140,49 @@ Related papers
    tradicionais e posteriormente ao estudo das mitologias greco--latina,
    nórdica e céltica.
    downloadDownload free PDFView PDFchevron_right
-   Physiological Response of Thallasia hemprichii on Antrophogenic
-   Pressure In Pari Island, Seribu Islands, DKI Jakarta
-
-   Ilmu Kelautan : Indonesian Journal of Marine Sciences, 2017
+   ปัจจัยเชิงบริบทที่ส่งผลกระทบต่อการตัดสินใจเลือกอย่างมีเหตุผลของผู้สมัคร
+   รับเลือกตั้ง ในการต่อสู้ทางการเมืองภายใต้การเลือกตั้งในบริบทการเมืองไทย
+   : ศึกษาเปรียบเทียบการเลือกตั้งสมาชิกสภาผู้แทนราษฎรเป็นการทั่วไป
+   ปีพุทธศักราช 2539 และการเลือกตั้งทั่วไป ปีพุทธศักราช 2550
+   Teantawat Srichaingarm
    downloadDownload free PDFView PDFchevron_right
-   Dapatkah Love Of Money Sebagai Variabel Intervening Pengaruh Variabel
-   Kecerdasan Terhadap Persepsi Etis Mahasiswa Akuntansi??
+   Intervensi Kognitif Dan Pendekatan Rantai Nilai Dalam Peningkatan
+   Pemanfaatan Teknologi Informasi Dan Komunikasi DI Usaha Kecil Dan
+   Menengah DI Bandung
 
-   Jurnal Ilmiah Akuntansi dan Bisnis, 2017
-
-   Kesuksesan seseorang tidak hanya dipengaruhi oleh kecerdasan
-   intelektualnya tetapi juga kecerdasan emosional dan kecerdasan
-   spiritualnya. Tujuan penelitian menguji love of money sebagai variabel
-   intervening pengaruh kecerdasan intelektual, kecerdasan emosional, dan
-   kecerdasan spiritual terhadap persepsi etis mahasiswa akuntansi.
-   Penelitian juga menguji pengaruh kecerdasan intelektual, kecerdasan
-   emosional, dan kecerdasan spiritual terhadap persepsi etis mahasiswa
-   akuntansi. Sampel penelitian sebanyak 141 mahasiswa akuntansi
-   Universitas Muhammadiyah Sidoarjo. Analisis dilakukan dengan multiple
-   regresion analysis dan analisis jalur (path analysis). Hasil penelitian
-   menyatakan love of money tidak mampu menjadi variabel intervening pada
-   variabel pengaruh kecerdasan intelektual, kecerdasan emosional, dan
-   kecerdasan spiritual terhadap persepsi etis mahasiswa akuntansi. Selain
-   itu, ada pengaruh positif kecerdasan intelektual, kecerdasan emosional,
-   dan kecerdasan spiritual terhadap persepsi etis mahasiswa akuntansi.
-   Penelitian ini diharapkan dapat memberikan kontribusi di bidang
-   pendidikan dalam upaya menumbuhkan dan mengembangkan tingkat kecerdasan
-   intelektual, kecerdasan emosional, dan kecerdasan spiritual baik
-   melalui perkuliahan ataupun non perkuliahan seperti kegiatan
-   kemahasiswaan.
+   J@ti Undip: Jurnal Teknik Industri, 2016
    downloadDownload free PDFView PDFchevron_right
-   The Diverse Role of Women in Shaping Hong Kong’s Landscape of
-   Gentrification
+   Interaction Studies Between Cyclic Peptide ADT-C3 (Ac-CADTPC-NH2) with
+   E-Cadherin Protein using the Molecular Docking Method Simulated on
+   120ns
 
-   Urban Affairs Review, 2018
+   Jurnal Kimia Sains dan Aplikasi, 2018
+
+   The treatment of diseases that attack the brain is very difficult,
+   because the delivery of drug molecules to the brain is often hindered
+   by the blood-brain barrier (BBB). So that the drug delivery is not
+   right on the target cell. Thus, was developed a method in modulation of
+   intercellular junctions using ADTC3 cadherin peptide, Where the
+   cadherin peptide is derived from the cadherin sequence itself. The
+   method used in this research is molecular dynamics (DM) and molecular
+   docking. In this study have been evaluated some peptide conformation in
+   modulating intercellular junction. The results show that cyclic peptide
+   ADT-C3 (Ac-CADTPC-NH2) was conducted DM for 120 ns (120000 ps), which
+   has considerable activity in modulating intercellular junctions with
+   binding energies of -33.10 kJ.mol -1 and Ki of 1.58 μM at the 79187 ps
+   conformation. The binding site on residues Asp1, Trp2, Ile4, Lys25,
+   Ser26, Asn27, Met92 in the adhesion armacceptor pocket region.
    downloadDownload free PDFView PDFchevron_right
-   Penyesuaian diri anak berbakat intelektual dengan pola asuh otoritarian
+   Sequence Variability in the NRAMP1 Gene among Indigenous and Exotic
+   Chicken Types
 
-   Jurnal Psikologi Udayana, 2019
+   Makara Journal of Science, 2019
    downloadDownload free PDFView PDFchevron_right
-   PENGOLAHAN BERAS MERAH LOKAL PENEBEL (Oryza sativa Var. Barak Cendana)
-   MENJADI PRODUK TEH BERAS MERAH UNTUK MENINGKATKAN PENDAPATAN MASYARAKAT
-   DESA BABAHAN
+   Peran Kecerdasan Emosional Dan Dukungan Sosial Terhadap Penyesuaian
+   Diri Mahasiswa Baru Universitas Udayana Yang Berasal Dari Luar Pulau
+   Bali
 
-   Jurnal Udayana Mengabdi, 2019
+   Jurnal Psikologi Udayana, 2018
    downloadDownload free PDFView PDFchevron_right
    (BUTTON) See full PDF (BUTTON) downloadDownload PDF
    DOI: 10.53660/CONJ-2098-2U07 A fantasia na literatura de fantasia:
@@ -911,80 +904,102 @@ Related papers
    language in relation to the philosophical concepts of truth, reality
    and language. Keywords: Fantastic Fantasy, ontology, reality, language
    downloadDownload free PDFView PDFchevron_right
-   Synthesis and Characterization of CN Thin Films Produced by DC-Pulsed
-   Sputtering in an CH3CH2OH-N2 Atmosphere
+   Kearifan Sistem Religi Lokal dalam Mengintegrasikan Umat Hindu-Islam di
+   Bali
 
-   Advances in Science, Technology and Engineering Systems Journal, 2022
+   Jurnal sejarah citra lekha, 2018
+
+   This paper aims to gain an understanding of the local religious systems
+   for integrating religious diversity in Bali. This study was conducted
+   using social critical theory. The historical data obtained using
+   literature studies and field research activities. The results of this
+   study indicate that the local religious system in Bali can integrate
+   Hindus and Islam religion. The integration occurs as a result of the
+   relation power that played to integrate national ethnicity in Bali
+   which includes economic interests (trade), and da'wah. The mystical
+   worship and ancestors can approach each other in rituals. The human
+   relations, human and environment relations, human and ancestors
+   occurred harmoniously, not dominating and hegemonic. The cross-cultural
+   integration and multiculturalism formation process has been taken
+   placed since the 12th century long before the awareness of
+   Westernization. The integration between villagers in Bali can be used
+   as a model in multicultural education in Indonesia, which today find
+   relevance when various forms of conflict arise based on ethnicity,
+   religion, race, intergroup (SARA). The problem needs to be addressed by
+   fostering national awareness as a whole nation (Austronesian Malay
+   nation).
    downloadDownload free PDFView PDFchevron_right
-   Factors affecting university STEM faculty job satisfaction
-   Lisa Babin Verret
+   School Photos in Liquid Time: Reframing Difference
 
-   Special thanks to my parents, Kenneth and Gloria Babin, who supported
-   me emotionally and financially. You have always been there for me no
-   matter what my endeavor or circumstance. Mama and Daddy, I could never
-   repay you for all you have done for me, Travis and the children. I am
-   forever in your debt. Special thanks to my brother, Michael Babin, for
-   always being there for me no matter what my request. Thanks to my
-   uncle, Louis Bellina, for his support and encouragement during this
-   journey. Special thanks to my aunt and uncle, Karen & Charles Radcliff,
-   for their prayers and support. Thanks to "my girls", Alex Davis, Dana
-   Sweeney, Rachelle Richard, Kacey Tambling, Shanna Lavin and Emily
-   Souvinette for encouraging me and helping me stay focused while
-   providing comic relief and entertainment so I would not completely lose
-   my mind. Thanks to my wonderful step-children, Stormi and Shade, who
-   always understood when I told them I could not watch a movie or play a
-   game with them because I was working on my school stuff. You were my
-   motivation for finishing this project so that I could be a good role
-   model to you. I also wanted you to know that nothing is impossible if
-   you set your mind to it, no matter what obstacles life throws your way
-   or how long it takes you. And above all, the greatest thanks to God. I
-   firmly believe that through him ALL things are possible. I also would
-   like to thank God for bringing Travis, Stormi and Shade into my life at
-   the beginning of this journey which was the stimulus for me becoming
-   interested in the topic of work-family balance in higher education.
-   Co-worker Satisfaction .
+   Kronos: journal of Cape history, 2020
    downloadDownload free PDFView PDFchevron_right
-   Investigation of new ground structure for reducing human exposure to
-   electromagnetic fields from mobile phones
-   Abdel Fattah Sheta
+   Repeated sampling adds to the genetic diversity of Lepidochelys
+   olivacea (Eschscholtz 1829) olive ridley sea turtle
 
-   2010 IEEE Antennas and Propagation Society International Symposium,
-   2010
+   Zenodo (CERN European Organization for Nuclear Research), 2018
+
+   First sampled in the late 1990s, Campamento Tortuguero La Gloria, in
+   Jalisco, Mexico, was resampled for olive ridley sea turtle
+   (Lepidochyles olivacea Eschscholtz) diversity 10 years later. A
+   comparison with all previously reported mitochondrial sequences
+   revealed that these new samples added to the known genetic diversity
+   for this species, and revealed unexpectedly high genetic diversity
+   among turtles nesting on this beach. The results highlight the
+   importance of systematic resampling in known nesting rookeries to
+   verify the genetic diversity of study populations. Three new olive
+   ridley haplotypes are reported, all more closely related to Baja
+   Californian haplotypes than to Australian haplotypes. Significant
+   genetic divergence is reported within populations, within ocean basins
+   (Atlantic, Pacific, Indian and Indo-Pacific), and between ocean basins.
+   Furthermore, this is the first study that integrates satellite tagging
+   data to demonstrate diverse post-nesting migration patterns of turtles
+   with identical haplotypes, and it demonstrates flexibility in
+   post-nesting migratory behaviour for olive ridley sea turtles of the
+   same genetic provenance.
    downloadDownload free PDFView PDFchevron_right
-   Esophagocele Due to Two Times Caustic Ingestions: Resection Through
-   Videothoracoscopy
-   Luiz Roberto Lopes
+   Relationships between astrogliosis and 1H MR spectroscopic measures of
+   brain choline/creatine and myo-inositol/creatine in a primate model
+   Eva Ratai
 
-   ABCD, 2022
+   AJNR. American journal of neuroradiology, 2005
 
-   BACKGROUND: Caustic ingestion is still a health problem of utmost
-   importance in the West. In developing countries, this incident remains
-   at increase and it is associated with unfavorable factors like social,
-   economic, and educational handicaps, besides a lack of prevention.
-   Esophagocele is a rare consequence of caustic ingestion. AIM: We aimed
-   to describe a patient with multiple caustic ingestions who presented an
-   esophagocele resected by videothoracoscopy. METHODS: A woman ingested
-   caustic soda when she was only 17 years old in a suicidal attempt
-   during a depressive crisis. Initially, she was submitted to a
-   retrosternal esophagocoloplasty with the maintenance of her damaged
-   esophagus. After 1 year of this first surgery, she ingested caustic
-   soda again in a new suicidal attempt. Her transposed large bowel in the
-   first surgery became narrow, being replaced in a second surgery by a
-   retrosternal esophagogastroplasty. Still, at the second surgery, her
-   damaged esophagus remained in its original position in the posterior
-   mediastinum. However, after 5 years, she developed an esophagocele.
-   RESULTS: The esophagocele was resected through videothoracoscopy in a
-   prone position, employing four trocars. The postoperative was
-   uneventful. CONCLUSION: Esophageal exclusion must always be recorded
-   because esophagocele presents unspecific symptoms. The
-   videothoracoscopy in a prone position is an excellent technical option
-   to resect esophagoceles.
+   In vivo 1H MR spectroscopy demonstrates elevated choline (Cho)/creatine
+   (Cr) and myo-inositol (MI)/Cr in many neurologic diseases that has been
+   ascribed to gliosis. We tested the hypotheses that in vivo Cho/Cr
+   and/or MI/Cr levels are correlated with glial fibrillary acidic protein
+   (GFAP) immunostains and that the changes are water-soluble metabolites.
+   We performed postmortem 1H MR spectroscopy and GFAP
+   immunohistochemistry in brains from seven rhesus macaques acutely
+   infected with simian immunodeficiency virus (SIV) and in four controls
+   and compared the findings with previous in vivo MR spectroscopic
+   results. Changes in neuropathologic and MR spectroscopic markers after
+   infection and relationships among plasma viral load, GFAP
+   immunostaining results, and ex vivo and in vivo MR spectroscopic
+   measures were statistically evaluated. On GFAP immunostaining and in
+   vivo MR spectroscopy, GFAP, Cho/Cr and MI/Cr were highest near the time
+   of peak plasma viral load at 11 days postinfection (dp...
    downloadDownload free PDFView PDFchevron_right
-   Kedudukan dan Hakikat Pembukaan Undang-Undang Dasar Negara Republik
-   Indonesia Tahun 1945
-   shiddiq happy
+   Utility of autonomic testing for the efficient diagnosis and effective
+   pharmacological management of neurogenic orthostatic hypotension
+   Sami Alam
 
-   2025
+   BMJ Case Reports, 2019
+
+   A 62-year-old man presented with a 2-year history of syncope, collapse
+   and fluctuating blood pressure (BP). His medications included midodrine
+   (10 mg, three times per day) and fludrocortisone (0.1 mg, two times per
+   day), but neither treatment afforded symptomatic relief. Autonomic
+   testing was performed. Head-up tilt table testing revealed a supine BP
+   of 112/68 mm Hg (heart rate, 74 beats per minute (bpm)) after 6 min,
+   which dropped to 76/60 mm Hg (83 bpm) within 2 min of 80° head-up tilt.
+   Findings from a heart rate with deep breathing test and a Valsalva test
+   were consistent with autonomic dysfunction. The patient was diagnosed
+   with neurogenic orthostatic hypotension and treated with droxidopa (100
+   mg, two times per day; titrated to 100 mg, one time per day). After
+   initiating treatment with droxidopa, the patient no longer reported
+   losing consciousness on standing and experienced improvement in
+   activities of daily living. These improvements were maintained through
+   1 year of follow-up.
    downloadDownload free PDFView PDFchevron_right
    (BUTTON) keyboard_arrow_downView more papers
 
@@ -1026,4 +1041,4 @@ Related topics
    Academia
    580 California St., Suite 400
    San Francisco, CA, 94104
-   © 2025 Academia. All rights reserved
+   © 2026 Academia. All rights reserved

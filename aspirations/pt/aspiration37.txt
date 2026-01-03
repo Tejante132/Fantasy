@@ -1535,7 +1535,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   <li class="break-words mb-4">
                     <strong>Email:</strong>
                     <br>
-                    <a href="/cdn-cgi/l/email-protection#beccdbd2dfddd7d1d0dfd3dbd0cad1fedad7dfccd7d1dadbcedbccd0dfd3dccbddd190ddd1d390dccc" title="E-mail Diario" class="text-[14px] hover:underline"><span class="__cf_email__" data-cfemail="0371666f62606a6c6d626e666d776c43676a62716a6c67667366716d626e6176606c2d606c6e2d6171">[email&#160;protected]</span></a>
+                    <a href="/cdn-cgi/l/email-protection#a2d0c7cec3c1cbcdccc3cfc7ccd6cde2c6cbc3d0cbcdc6c7d2c7d0ccc3cfc0d7c1cd8cc1cdcf8cc0d0" title="E-mail Diario" class="text-[14px] hover:underline"><span class="__cf_email__" data-cfemail="84f6e1e8e5e7edebeae5e9e1eaf0ebc4e0ede5f6edebe0e1f4e1f6eae5e9e6f1e7ebaae7ebe9aae6f6">[email&#160;protected]</span></a>
                   </li>
                 </ul>
           </div>

@@ -13,31 +13,24 @@
 
      * MasterChef Brasil MasterChef Brasil
      * Cozinha com azeite Cozinha com azeite
-     * Natal com Air Fryer Natal com Air Fryer
-     * Achadinhos do TudoGostoso Achadinhos do TudoGostoso
-     * Vai Dar Pão Vai Dar Pão
-     * Pronto para servir Pronto para servir
-     * Natal com bacalhau Natal com bacalhau
-     * Farofa na mesa Farofa na mesa
-     * Receitas de Natal Receitas de Natal
-     * Receitas Coreanas Receitas Coreanas
-     * As melhores Receitas de Sanduíche As melhores Receitas de Sanduíche
      * Churrasco Churrasco
-     * Brasil em Festa Brasil em Festa
+     * Vai Dar Pão Vai Dar Pão
      * Receitas na Air fryer Receitas na Air fryer
+     * Brasil em Festa Brasil em Festa
+     * As melhores Receitas de Sanduíche As melhores Receitas de Sanduíche
+     * Receitas Coreanas Receitas Coreanas
          ______________________________________________________________
 
      * Ceia de Natal Ceia de Natal
      * Canais Especiais Canais Especiais [ ]
        Canais Especiais
        Especiais
-          + Receitas de Natal Receitas de Natal
-          + Receitas Coreanas Receitas Coreanas
+          + Churrasco Churrasco
+          + Receitas na Air fryer Receitas na Air fryer
+          + Brasil em Festa Brasil em Festa
           + As melhores Receitas de Sanduíche As melhores Receitas de
             Sanduíche
-          + Churrasco Churrasco
-          + Brasil em Festa Brasil em Festa
-          + Receitas na Air fryer Receitas na Air fryer
+          + Receitas Coreanas Receitas Coreanas
           + Especial Comida di Buteco Especial Comida di Buteco
           + Receitas de verão Receitas de verão
           + Receitas para a hora do almoço Receitas para a hora do almoço
@@ -54,12 +47,12 @@
      * Bolos e tortas Bolos e tortas [ ]
        Bolos e tortas
        Mais buscadas
-          + Bolo de cenoura
           + Pavê de chocolate
+          + Bolo de cenoura
           + Bolo de chocolate simples
           + Bolo de milho de lata no liquidificador
+          + Torta de banana banoffee
           + Brownie simples e rápido
-          + Bolo simples
        Receitas mais novas
           + Bolo de Natal com ganache de chocolate
           + Mini Brownie de Natal com Gotas de Chocolate
@@ -70,9 +63,9 @@
           + Lombo de porco assado
           + Tender Simples (salgado)
           + Estrogonofe de carne simples
-          + Pernil assado bem temperado
-          + Almôndegas
           + Rocambole de carne moída maravilhoso
+          + Pernil assado bem temperado
+          + Pernil de porco assado
        Receitas mais novas
           + Carne de porco na airfryer
           + Carne assada na airfryer
@@ -82,10 +75,10 @@
        Mais buscadas
           + Fricassê de frango
           + Strogonoff de frango
-          + Salpicão de natal especial
-          + Chester assado
           + Salada tropical
-          + Peru assado simples
+          + Chester assado
+          + Creme de galinha tradicional
+          + Frango xadrez
        Receitas mais novas
           + Frango assado na airfryer
           + Peru com molho de laranja
@@ -93,39 +86,39 @@
      * Peixes e Frutos do Mar Peixes e Frutos do Mar [ ]
        Peixes e Frutos do Mar
        Mais buscadas
-          + Salada fácil de bacalhau
           + Bobó de camarão
-          + Bolinho de bacalhau
-          + Bolinho de bacalhau tradicional
           + Camarão internacional (receita original do Restaurante Coco
             Bambu)
+          + Salada fácil de bacalhau
+          + Delicioso ceviche de tilápia
           + Camarão na moranga
+          + Filé de salmão ao forno facílimo
        Receitas mais novas
+          + Salmão Grelhado com Legumes e Abacaxi Grelhado
+          + Risoto de Camarão
           + Bacalhau à Bras
-          + Bolinho de Bacalhau
-          + Moqueca de Bacalhau
      * Saladas e molhos Saladas e molhos [ ]
        Saladas e molhos
        Mais buscadas
           + Salpicão de frango simples
           + Salpicão de frango
-          + Arroz à grega
           + Molho branco simples
-          + Arroz Natalino
-          + Salada tropical
+          + Arroz à grega
+          + Maionese tradicional
+          + Lentilha
        Receitas mais novas
+          + Pizza Grelhada
+          + Carpaccio de Polvo
           + Batata chips na airfryer
-          + Salpicão de pernil
-          + Salada de Bacalhau com queijo e figos
      * Sopas Sopas [ ]
        Sopas
        Mais buscadas
           + Canja de galinha rápida
+          + Salpicão de bacalhau
           + Caldo verde
           + Mocotó
-          + Salpicão de bacalhau
+          + Sopa de lentilha
           + Sopa de legumes com macarrão
-          + Sopa de ervilha
        Receitas mais novas
           + Sopa de Doenjang
           + Jjamppong
@@ -133,25 +126,25 @@
      * Massas Massas [ ]
        Massas
        Mais buscadas
+          + Lasanha de carne moída
           + Massa de panqueca
           + Massa de panqueca simples
-          + Lasanha de carne moída
           + Panqueca americana
-          + Pão de queijo fácil e delicioso
           + Pão caseiro
+          + Pão de queijo fácil e delicioso
        Receitas mais novas
+          + Macarrão com molho de tomate, ervilhas e burrata
           + Pão de Nutella
           + Pãezinhos de Beterraba
-          + Pão de Batata Doce sem Sovar
      * Bebidas Bebidas [ ]
        Bebidas
        Mais buscadas
+          + Pina colada
+          + Caipirinha - Original
+          + Moscow Mule Original
           + Chocolate quente cremoso
           + Cappuccino caseiro
-          + Pina colada
           + Iogurte natural caseiro fácil
-          + Amarula caseira (melhor que a original)
-          + Moscow Mule Original
        Receitas mais novas
           + Bomba de Capuccino
           + Drink Paloma
@@ -161,23 +154,23 @@
        Mais buscadas
           + Pudim de leite condensado
           + Pavê de chocolate
-          + Rabanada tradicional
           + Mousse de maracujá
-          + Bombom de uva na travessa
           + Mousse de limão
+          + Rabanada tradicional
+          + Bombom de uva na travessa
        Receitas mais novas
-          + Rabanada de panetone na airfryer
-          + Rabanada de panetone prática
-          + Rabanada Dourada e Crocante
+          + Bolo de rolo de abóbora
+          + Cannoli de Mamão
+          + Rabanada Bites de Panetone
      * Lanches Lanches [ ]
        Lanches
        Mais buscadas
           + Torta de frango
-          + Biscoitos Decorados para o Natal
           + Massa de torta de liquidificador
           + Bolinho de chuva
           + Empadão de frango delicioso
           + Torta de liquidificador salgada
+          + Panqueca doce Americana
        Receitas mais novas
           + Folhado de árvore de Natal
           + Biscoito recheado de brigadeiro
@@ -185,12 +178,12 @@
      * Alimentação Saudável Alimentação Saudável [ ]
        Alimentação Saudável
        Mais buscadas
-          + Bolo de Banana com Aveia Fitness
           + Tabule
-          + Crepioca fit
+          + Bolo de Banana com Aveia Fitness
           + Panqueca saudável de aveia e banana
-          + Panqueca de banana fit
-          + Peito de frango na Air fryer
+          + Crepioca fit
+          + Salmão grelhado
+          + Burrata com tomate e manjericão
        Receitas mais novas
           + Chips de abobrinha na airfryer
           + Ovo de Páscoa vegano
@@ -204,43 +197,25 @@
    Cozinha com azeite
    Cozinha com azeite
    Cozinha com azeite
-   Natal com Air Fryer
-   Natal com Air Fryer
-   Natal com Air Fryer
+   Churrasco
+   Churrasco
+   Churrasco
    Conheça todos os nossos canais (BUTTON) arrow icon
-   Achadinhos do TudoGostoso
-   Achadinhos do TudoGostoso
-   Achadinhos do TudoGostoso
    Vai Dar Pão
    Vai Dar Pão
    Vai Dar Pão
-   Pronto para servir
-   Pronto para servir
-   Pronto para servir
-   Natal com bacalhau
-   Natal com bacalhau
-   Natal com bacalhau
-   Farofa na mesa
-   Farofa na mesa
-   Farofa na mesa
-   Receitas de Natal
-   Receitas de Natal
-   Receitas de Natal
-   Receitas Coreanas
-   Receitas Coreanas
-   Receitas Coreanas
-   As melhores Receitas de Sanduíche
-   As melhores Receitas de Sanduíche
-   As melhores Receitas de Sanduíche
-   Churrasco
-   Churrasco
-   Churrasco
-   Brasil em Festa
-   Brasil em Festa
-   Brasil em Festa
    Receitas na Air fryer
    Receitas na Air fryer
    Receitas na Air fryer
+   Brasil em Festa
+   Brasil em Festa
+   Brasil em Festa
+   As melhores Receitas de Sanduíche
+   As melhores Receitas de Sanduíche
+   As melhores Receitas de Sanduíche
+   Receitas Coreanas
+   Receitas Coreanas
+   Receitas Coreanas
    (BUTTON) arrow icon
 
    MasterChef Brasil
@@ -249,42 +224,24 @@
    Cozinha com azeite
    Cozinha com azeite
    Cozinha com azeite
-   Natal com Air Fryer
-   Natal com Air Fryer
-   Natal com Air Fryer
-   Achadinhos do TudoGostoso
-   Achadinhos do TudoGostoso
-   Achadinhos do TudoGostoso
-   Vai Dar Pão
-   Vai Dar Pão
-   Vai Dar Pão
-   Pronto para servir
-   Pronto para servir
-   Pronto para servir
-   Natal com bacalhau
-   Natal com bacalhau
-   Natal com bacalhau
-   Farofa na mesa
-   Farofa na mesa
-   Farofa na mesa
-   Receitas de Natal
-   Receitas de Natal
-   Receitas de Natal
-   Receitas Coreanas
-   Receitas Coreanas
-   Receitas Coreanas
-   As melhores Receitas de Sanduíche
-   As melhores Receitas de Sanduíche
-   As melhores Receitas de Sanduíche
    Churrasco
    Churrasco
    Churrasco
-   Brasil em Festa
-   Brasil em Festa
-   Brasil em Festa
+   Vai Dar Pão
+   Vai Dar Pão
+   Vai Dar Pão
    Receitas na Air fryer
    Receitas na Air fryer
    Receitas na Air fryer
+   Brasil em Festa
+   Brasil em Festa
+   Brasil em Festa
+   As melhores Receitas de Sanduíche
+   As melhores Receitas de Sanduíche
+   As melhores Receitas de Sanduíche
+   Receitas Coreanas
+   Receitas Coreanas
+   Receitas Coreanas
 
      * TudoGostoso
      * Noticias
@@ -431,28 +388,28 @@ Como fazer uma fantasia de Halloween rápida?
      * Comida e viagem
 
    Artigos mais populares
-       Lata de salmão vencida há 50 anos é aberta e o que descobriram
-       deixou cientistas impressionados: É um sinal de que o peixe vem de
-       um ecossistema saudável
-       Em 27/11/2025 às 14h34
-       Lata de salmão vencida há 50 anos é aberta e o que descobriram
-       deixou cientistas impressionados: É um sinal de que o peixe vem de
-       um ecossistema saudável
-       Autoridade Sanitária do Brasil destruiu mais de uma tonelada de
-       cerejas chilenas após detectar a presença de praga quarentenária
-       Em 25/11/2025 às 15h05
-       Autoridade Sanitária do Brasil destruiu mais de uma tonelada de
-       cerejas chilenas após detectar a presença de praga quarentenária
-       A queridinha dos quintais brasileiros: árvore que dá sombra, fruta
-       o ano todo e até folhas para chá
-       Em 01/12/2025 às 16h14
-       A queridinha dos quintais brasileiros: árvore que dá sombra, fruta
-       o ano todo e até folhas para chá
-       Uma família queria viver exclusivamente de energia solar, água de
-       poço e uma horta. Até que a Itália levou seus filhos embora.
-       Em 28/11/2025 às 12h37
-       Uma família queria viver exclusivamente de energia solar, água de
-       poço e uma horta. Até que a Itália levou seus filhos embora.
+       Acabou a preocupação com os gases do feijão: pesquisadores
+       brasileiros mudam o consumo com técnica inovadora
+       Em 24/12/2025 às 14h23
+       Acabou a preocupação com os gases do feijão: pesquisadores
+       brasileiros mudam o consumo com técnica inovadora
+       Um aparelho que deve sempre ser desligado da tomada após o uso para
+       reduzir o risco de incêndio
+       Em 01/01/2026 às 14h08
+       Um aparelho que deve sempre ser desligado da tomada após o uso para
+       reduzir o risco de incêndio
+       Eu não acreditei quando meu pai me ensinou, mas jogar sal nas
+       brasas da churrasqueira realmente deixa o churrasco muito melhor e
+       aqui está por quê
+       Em 07/12/2025 às 11h11
+       Eu não acreditei quando meu pai me ensinou, mas jogar sal nas
+       brasas da churrasqueira realmente deixa o churrasco muito melhor e
+       aqui está por quê
+       Só alguns brasileiros comem isso, mas é um vegetal muito melhor do
+       que o espinafre e a acelga
+       Em 05/12/2025 às 10h42
+       Só alguns brasileiros comem isso, mas é um vegetal muito melhor do
+       que o espinafre e a acelga
 
    Matérias relacionadas
    Festas à fantasia marcam Halloween no Brasil: descubra eventos

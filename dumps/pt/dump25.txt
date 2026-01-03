@@ -13,7 +13,7 @@
 
    MULHER
 
-   Party Collection
+   Promoções: Até -50%
 
    Presentes
    Para ela até 10€
@@ -309,6 +309,8 @@
 
    HOMEM
 
+   Promoções: Até -50%
+
    Presentes
 
    Novidades
@@ -370,6 +372,8 @@
    (BUTTON)
 
    CRIANÇA
+
+   Promoções: Até -50%
 
    Presentes
 
@@ -443,7 +447,8 @@
    (BUTTON) Procurar
    PORTES GRÁTIS PARA CLZ LOVERS
    ADERIR/ENTRAR
-   DEVOLUÇÕES ATÉ 31/01/2026 EM COMPRAS FEITAS ATÉ 31/12
+   PROMOÇÕES ATÉ -50%
+   COMPRAR AGORA
 
     1. Senhora>
     2. Collants e meias de liga>
@@ -466,7 +471,7 @@ Collants fantasia
    [all_PLP_Women_Tights_Maternity.jpg]
    Grávida
 
-   80 produtos
+   68 produtos
    (BUTTON) Filtros
    Collants em Renda com Padrão Floral
    (BUTTON)
@@ -503,33 +508,10 @@ Collants em Renda com Padrão Floral
 Collants de Rede com Desenho Floral
 
    15,95 €
-   Collants com Losangos em Relevo e Glitter
    (BUTTON)
+   Collants de Rede com Desenho Floral_undefined
    (BUTTON)
-   (BUTTON)
-   Novidade!
-
-Collants com Losangos em Relevo e Glitter
-
-   19,95 €
-   Collants com Sapato Integrado
-   (BUTTON)
-   (BUTTON)
-   (BUTTON)
-   Novidade!
-
-Collants com Sapato Integrado
-
-   89,95 €
-   Collants Transparentes com Mensagem Unboxing
-   (BUTTON)
-   (BUTTON)
-   (BUTTON)
-   Novidade!
-
-Collants Transparentes com Mensagem Unboxing
-
-   15,95 €
+   Collants de Rede com Desenho Floral_undefined
    Collants Opacos com Strass Integral
    (BUTTON)
    (BUTTON)
@@ -538,7 +520,16 @@ Collants Transparentes com Mensagem Unboxing
 
 Collants Opacos com Strass Integral
 
-   15,95 €
+   7,95 €15,95 €-50%
+   Collants Transparentes com Mensagem Unboxing
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   Novidade!
+
+Collants Transparentes com Mensagem Unboxing
+
+   7,95 €15,95 €-50%
    Collants Transparentes com Risca Posterior em Strass
    (BUTTON)
    (BUTTON)
@@ -547,60 +538,7 @@ Collants Opacos com Strass Integral
 
 Collants Transparentes com Risca Posterior em Strass
 
-   15,95 €
-   Collants de Renda com Strass
-   (BUTTON)
-   (BUTTON)
-   Esgotado (BUTTON)
-   Novidade!
-
-Collants de Renda com Strass
-
-   29,95 €
-   Collants Transparentes com Losangos e Brilho
-   (BUTTON)
-   (BUTTON)
-   (BUTTON)
-   Novidade!
-
-Collants Transparentes com Losangos e Brilho
-
-   12,95 €
-   Collants com Caxemira e Padrão Chevron
-   (BUTTON)
-   (BUTTON)
-   (BUTTON)
-   Novidade!
-
-Collants com Caxemira e Padrão Chevron
-
-   15,95 €
-   (BUTTON)
-   Collants com Caxemira e Padrão Chevron_undefined
-   (BUTTON)
-   Collants com Caxemira e Padrão Chevron_undefined
-   Collants Acetinados
-   (BUTTON)
-   (BUTTON)
-   (BUTTON)
-   Novidade!
-
-Collants Acetinados
-
-   19,95 €
-   Collants às Bolinhas em Degradê
-   (BUTTON)
-   (BUTTON)
-   (BUTTON)
-   Novidade!
-
-Collants às Bolinhas em Degradê
-
-   12,95 €
-   (BUTTON)
-   Collants às Bolinhas em Degradê_undefined
-   (BUTTON)
-   Collants às Bolinhas em Degradê_undefined
+   7,95 €15,95 €-50%
    Collants com Caxemira e Padrão de Losangos
    (BUTTON)
    (BUTTON)
@@ -616,19 +554,6 @@ Collants com Caxemira e Padrão de Losangos
    Collants com Caxemira e Padrão de Losangos_undefined
    (BUTTON)
    Collants com Caxemira e Padrão de Losangos_undefined
-   Collants às Bolinhas em Degradê
-   (BUTTON)
-   (BUTTON)
-   (BUTTON)
-   Novidade!
-
-Collants às Bolinhas em Degradê
-
-   12,95 €
-   (BUTTON)
-   Collants às Bolinhas em Degradê_undefined
-   (BUTTON)
-   Collants às Bolinhas em Degradê_undefined
    Collants Entrançados com Caxemira
    (BUTTON)
    (BUTTON)
@@ -645,6 +570,15 @@ Collants Entrançados com Caxemira
    (BUTTON)
    Collants Entrançados com Caxemira_undefined
    + 1
+   Collants Acetinados
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   Novidade!
+
+Collants Acetinados
+
+   19,95 €
    Collants Entrançados com Caxemira
    (BUTTON)
    (BUTTON)
@@ -661,22 +595,19 @@ Collants Entrançados com Caxemira
    (BUTTON)
    Collants Entrançados com Caxemira_undefined
    + 1
-   Collants Entrançados com Caxemira
+   Collants com Caxemira e Padrão Chevron
    (BUTTON)
    (BUTTON)
    (BUTTON)
    Novidade!
 
-Collants Entrançados com Caxemira
+Collants com Caxemira e Padrão Chevron
 
    15,95 €
    (BUTTON)
-   Collants Entrançados com Caxemira_undefined
+   Collants com Caxemira e Padrão Chevron_undefined
    (BUTTON)
-   Collants Entrançados com Caxemira_undefined
-   (BUTTON)
-   Collants Entrançados com Caxemira_undefined
-   + 1
+   Collants com Caxemira e Padrão Chevron_undefined
    Collants Entrançados com Caxemira
    (BUTTON)
    (BUTTON)
@@ -701,13 +632,108 @@ Collants Entrançados com Caxemira
 
 Collants Transparentes com Risca Posterior Brilhante
 
+   6,45 €12,95 €-50%
+   Collants Entrançados com Caxemira
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   Novidade!
+
+Collants Entrançados com Caxemira
+
+   15,95 €
+   (BUTTON)
+   Collants Entrançados com Caxemira_undefined
+   (BUTTON)
+   Collants Entrançados com Caxemira_undefined
+   (BUTTON)
+   Collants Entrançados com Caxemira_undefined
+   + 1
+   Collants com Caxemira e Padrão de Losangos
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   Novidade!
+
+Collants com Caxemira e Padrão de Losangos
+
+   15,95 €
+   (BUTTON)
+   Collants com Caxemira e Padrão de Losangos_undefined
+   (BUTTON)
+   Collants com Caxemira e Padrão de Losangos_undefined
+   (BUTTON)
+   Collants com Caxemira e Padrão de Losangos_undefined
+   Collants com Caxemira e Padrão Chevron
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   Novidade!
+
+Collants com Caxemira e Padrão Chevron
+
+   15,95 €
+   (BUTTON)
+   Collants com Caxemira e Padrão Chevron_undefined
+   (BUTTON)
+   Collants com Caxemira e Padrão Chevron_undefined
+   Collants com Caxemira e Padrão de Losangos
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   Novidade!
+
+Collants com Caxemira e Padrão de Losangos
+
+   15,95 €
+   (BUTTON)
+   Collants com Caxemira e Padrão de Losangos_undefined
+   (BUTTON)
+   Collants com Caxemira e Padrão de Losangos_undefined
+   (BUTTON)
+   Collants com Caxemira e Padrão de Losangos_undefined
+   Collants Transparentes às Flores
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+
+Collants Transparentes às Flores
+
    12,95 €
    (BUTTON)
-   Collants Transparentes com Risca Posterior Brilhante_undefined
+   Collants Transparentes às Flores_undefined
    (BUTTON)
-   Collants Transparentes com Risca Posterior Brilhante_undefined
+   Collants Transparentes às Flores_undefined
+   (BUTTON)
+   Collants Transparentes às Flores_undefined
+   Collants Transparentes com Losangos
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
 
-   20 de 80 Produtos
+Collants Transparentes com Losangos
+
+   12,95 €
+   (BUTTON)
+   Collants Transparentes com Losangos_undefined
+   (BUTTON)
+   Collants Transparentes com Losangos_undefined
+   Collants Transparentes às Flores
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+
+Collants Transparentes às Flores
+
+   12,95 €
+   (BUTTON)
+   Collants Transparentes às Flores_undefined
+   (BUTTON)
+   Collants Transparentes às Flores_undefined
+   (BUTTON)
+   Collants Transparentes às Flores_undefined
+
+   20 de 68 Produtos
    Carregue mais 20 produtos
    (BUTTON) Filtros
 

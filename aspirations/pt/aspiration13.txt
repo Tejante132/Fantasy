@@ -295,7 +295,7 @@ window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overl
 										</div>
 										<span>Busca</span>
 									</div>
-									<form method="get" class="searchform" action="https://jornaldebrasilia.com.br/pesquisa-google/?nonce=7558">
+									<form method="get" class="searchform" action="https://jornaldebrasilia.com.br/pesquisa-google/?nonce=5659">
 										<input type="text" id="inputSearch" value="" placeholder="Faça sua consulta" name="q" class="search-input form-control">
 										<input type="submit" value="▶" class="btn btn-submit">
 									</form>
@@ -694,28 +694,13 @@ div[id^="clever-"] {
                                     
                     <article>
                         <div class="block" style="cursor:pointer"
-                             onclick="window.location='https://jornaldebrasilia.com.br/noticias/brasil/deputados-de-sp-financiam-contratos-de-entidade-de-karate-com-indicios-de-sobrepreco-milionario/';">
+                             onclick="window.location='https://jornaldebrasilia.com.br/entretenimento/katia-flavia/andressa-urach-quebra-a-internet-grava-video-com-o-proprio-filho-e-deixa-fas-em-estado-de-choque/';">
                             
-                            <img width="300" height="200" src="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/12/22074006/Competicao-de-luta-marcial-promovida-pela-Confederacao-Brasileira-de-Karate-Interestilos-no-Ginasio-Poliesportivo-do-Ibirapuera-300x200.jpg" class="attachment-home_v2_2 size-home_v2_2 wp-post-image" alt="competição de luta marcial promovida pela confederação brasileira de karatê interestilos no ginásio poliesportivo do ibirapuera" decoding="async" loading="lazy" srcset="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/12/22074006/Competicao-de-luta-marcial-promovida-pela-Confederacao-Brasileira-de-Karate-Interestilos-no-Ginasio-Poliesportivo-do-Ibirapuera-300x200.jpg 300w, https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/12/22074006/Competicao-de-luta-marcial-promovida-pela-Confederacao-Brasileira-de-Karate-Interestilos-no-Ginasio-Poliesportivo-do-Ibirapuera-1024x683.jpg 1024w, https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/12/22074006/Competicao-de-luta-marcial-promovida-pela-Confederacao-Brasileira-de-Karate-Interestilos-no-Ginasio-Poliesportivo-do-Ibirapuera-768x512.jpg 768w, https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/12/22074006/Competicao-de-luta-marcial-promovida-pela-Confederacao-Brasileira-de-Karate-Interestilos-no-Ginasio-Poliesportivo-do-Ibirapuera.jpg 1200w" sizes="auto, (max-width: 300px) 100vw, 300px" />
-                            <div class="inner">
-                                <a href="https://jornaldebrasilia.com.br/noticias/brasil/" class="category" style="background-color:#3561aa">Brasil</a>
-                                <a href="https://jornaldebrasilia.com.br/noticias/brasil/deputados-de-sp-financiam-contratos-de-entidade-de-karate-com-indicios-de-sobrepreco-milionario/">
-                                    <h2 class="title small">Deputados de SP financiam contratos de entidade de karatê com indícios de sobrepreço milionário</h2>
-                                </a>
-                            </div>
-                        </div>
-                    </article>
-
-                                    
-                    <article>
-                        <div class="block" style="cursor:pointer"
-                             onclick="window.location='https://jornaldebrasilia.com.br/entretenimento/katia-flavia/fernando-de-noronha-e-ubatuba-cancelam-shows-de-mc-daniel-apos-repercussao-de-polemica-com-a-esposa/';">
-                            
-                            <img width="300" height="200" src="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/12/22080750/576522263_18550833943041147_1898304308659955924_n-300x200.jpeg" class="attachment-home_v2_2 size-home_v2_2 wp-post-image" alt="576522263 18550833943041147 1898304308659955924 n" decoding="async" loading="lazy" />
+                            <img width="300" height="200" src="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/01/02094115/andressa-urach-e-o-filho-arthur-urach-1695898695336_v2_900x506.jpg-300x200.jpeg" class="attachment-home_v2_2 size-home_v2_2 wp-post-image" alt="andressa urach e o filho arthur urach 1695898695336 v2 900x506.jpg" decoding="async" loading="lazy" />
                             <div class="inner">
                                 <a href="https://jornaldebrasilia.com.br/entretenimento/katia-flavia/" class="category" style="background-color:#d73a07">Kátia Flávia</a>
-                                <a href="https://jornaldebrasilia.com.br/entretenimento/katia-flavia/fernando-de-noronha-e-ubatuba-cancelam-shows-de-mc-daniel-apos-repercussao-de-polemica-com-a-esposa/">
-                                    <h2 class="title small">Fernando de Noronha e Ubatuba cancelam shows de MC Daniel após repercussão de polêmica com a esposa</h2>
+                                <a href="https://jornaldebrasilia.com.br/entretenimento/katia-flavia/andressa-urach-quebra-a-internet-grava-video-com-o-proprio-filho-e-deixa-fas-em-estado-de-choque/">
+                                    <h2 class="title small">Andressa Urach quebra a internet, grava vídeo com o próprio filho e deixa fãs em estado de choque</h2>
                                 </a>
                             </div>
                         </div>
@@ -724,13 +709,43 @@ div[id^="clever-"] {
                                     
                     <article>
                         <div class="block" style="cursor:pointer"
-                             onclick="window.location='https://jornaldebrasilia.com.br/blogs-e-colunas/futebol-etc/estelionato-esportivo-a-acusacao-que-mancha-o-titulo-da-copa-do-brasil-do-corinthians/';">
+                             onclick="window.location='https://jornaldebrasilia.com.br/entretenimento/katia-flavia/zeze-di-camargo-cobra-r-1-milhao-e-acusado-de-dublar-e-transforma-virada-em-vexame-nacional/';">
                             
-                            <img width="300" height="200" src="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/12/22213252/IMG_7850-300x200.jpeg" class="attachment-home_v2_2 size-home_v2_2 wp-post-image" alt="screenshot" decoding="async" loading="lazy" />
+                            <img width="300" height="200" src="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/01/02132712/Copia-de-img_nome_participante_2024-76-300x200.webp" class="attachment-home_v2_2 size-home_v2_2 wp-post-image" alt="" decoding="async" loading="lazy" />
+                            <div class="inner">
+                                <a href="https://jornaldebrasilia.com.br/entretenimento/katia-flavia/" class="category" style="background-color:#d73a07">Kátia Flávia</a>
+                                <a href="https://jornaldebrasilia.com.br/entretenimento/katia-flavia/zeze-di-camargo-cobra-r-1-milhao-e-acusado-de-dublar-e-transforma-virada-em-vexame-nacional/">
+                                    <h2 class="title small">Zezé Di Camargo cobra R$ 1 milhão, é acusado de dublar e transforma virada em vexame nacional</h2>
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+
+                                    
+                    <article>
+                        <div class="block" style="cursor:pointer"
+                             onclick="window.location='https://jornaldebrasilia.com.br/noticias/mundo/chefe-da-onu-pede-seriedade-em-2026-frente-ao-caos-mundial/';">
+                            
+                            <img width="300" height="200" src="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/01/08221409/tagreuters.com2022binary_LYNXMPEI7A0JN-BASEIMAGE.jpg" class="attachment-home_v2_2 size-home_v2_2 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/01/08221409/tagreuters.com2022binary_LYNXMPEI7A0JN-BASEIMAGE.jpg 800w, https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/01/08221409/tagreuters.com2022binary_LYNXMPEI7A0JN-BASEIMAGE-300x200.jpg 300w, https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/01/08221409/tagreuters.com2022binary_LYNXMPEI7A0JN-BASEIMAGE-768x512.jpg 768w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+                            <div class="inner">
+                                <a href="https://jornaldebrasilia.com.br/noticias/mundo/" class="category" style="background-color:#3561aa">Mundo</a>
+                                <a href="https://jornaldebrasilia.com.br/noticias/mundo/chefe-da-onu-pede-seriedade-em-2026-frente-ao-caos-mundial/">
+                                    <h2 class="title small">Chefe da ONU pede seriedade em 2026 frente ao &#8216;caos&#8217; mundial</h2>
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+
+                                    
+                    <article>
+                        <div class="block" style="cursor:pointer"
+                             onclick="window.location='https://jornaldebrasilia.com.br/blogs-e-colunas/futebol-etc/a-treta-entre-flamengo-e-cruzeiro-e-o-boi-que-nunca-existiu/';">
+                            
+                            <img width="300" height="200" src="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/12/31172056/1-8-300x200.jpg" class="attachment-home_v2_2 size-home_v2_2 wp-post-image" alt="1" decoding="async" loading="lazy" />
                             <div class="inner">
                                 <a href="https://jornaldebrasilia.com.br/blogs-e-colunas/futebol-etc/" class="category" style="background-color:#024914">Futebol ETC</a>
-                                <a href="https://jornaldebrasilia.com.br/blogs-e-colunas/futebol-etc/estelionato-esportivo-a-acusacao-que-mancha-o-titulo-da-copa-do-brasil-do-corinthians/">
-                                    <h2 class="title small">Estelionato esportivo: a acusação que mancha o título da Copa do Brasil do Corinthians</h2>
+                                <a href="https://jornaldebrasilia.com.br/blogs-e-colunas/futebol-etc/a-treta-entre-flamengo-e-cruzeiro-e-o-boi-que-nunca-existiu/">
+                                    <h2 class="title small">A treta entre Flamengo e Cruzeiro e o boi que nunca existiu</h2>
                                 </a>
                             </div>
                         </div>
@@ -739,28 +754,13 @@ div[id^="clever-"] {
                                     
                     <article>
                         <div class="block" style="cursor:pointer"
-                             onclick="window.location='https://jornaldebrasilia.com.br/viva/eventos/reveillon-2026-no-df-deve-reunir-ana-castela-lauana-prado-e-carlinhos-brown/';">
+                             onclick="window.location='https://jornaldebrasilia.com.br/entretenimento/katia-flavia/por-que-danielle-saiu-do-newjeans-os-7-pontos-que-ninguem-teve-coragem-de-contar/';">
                             
-                            <img width="300" height="200" src="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/09/17172145/Ana-Castela-300x200.jpeg" class="attachment-home_v2_2 size-home_v2_2 wp-post-image" alt="ana castela" decoding="async" loading="lazy" />
+                            <img width="300" height="200" src="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/12/29111225/south_korea_newjeans_75063-300x200.jpeg" class="attachment-home_v2_2 size-home_v2_2 wp-post-image" alt="south korea newjeans 75063" decoding="async" loading="lazy" />
                             <div class="inner">
-                                <a href="https://jornaldebrasilia.com.br/viva/eventos/" class="category" style="background-color:#d73a07">Eventos</a>
-                                <a href="https://jornaldebrasilia.com.br/viva/eventos/reveillon-2026-no-df-deve-reunir-ana-castela-lauana-prado-e-carlinhos-brown/">
-                                    <h2 class="title small">Réveillon 2026 no DF deve reunir Ana Castela, Lauana Prado e Carlinhos Brown</h2>
-                                </a>
-                            </div>
-                        </div>
-                    </article>
-
-                                    
-                    <article>
-                        <div class="block" style="cursor:pointer"
-                             onclick="window.location='https://jornaldebrasilia.com.br/noticias/politica-e-poder/mulher-de-moraes-abre-escritorio-em-brasilia-a-2-km-do-stf-no-mesmo-dia-da-lei-magnitsky/';">
-                            
-                            <img width="300" height="200" src="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/12/22213624/whatsapp-image-2025-12-12-at-155105-300x200.jpeg" class="attachment-home_v2_2 size-home_v2_2 wp-post-image" alt="Foto: EVARISTO SA / AFP" decoding="async" loading="lazy" srcset="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/12/22213624/whatsapp-image-2025-12-12-at-155105-300x200.jpeg 300w, https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/12/22213624/whatsapp-image-2025-12-12-at-155105-1024x684.jpeg 1024w, https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/12/22213624/whatsapp-image-2025-12-12-at-155105-768x513.jpeg 768w, https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2025/12/22213624/whatsapp-image-2025-12-12-at-155105.jpeg 1100w" sizes="auto, (max-width: 300px) 100vw, 300px" />
-                            <div class="inner">
-                                <a href="https://jornaldebrasilia.com.br/noticias/politica-e-poder/" class="category" style="background-color:#3561aa">Política &amp; Poder</a>
-                                <a href="https://jornaldebrasilia.com.br/noticias/politica-e-poder/mulher-de-moraes-abre-escritorio-em-brasilia-a-2-km-do-stf-no-mesmo-dia-da-lei-magnitsky/">
-                                    <h2 class="title small">Mulher de Moraes abre escritório em Brasília a 2 km do STF no mesmo dia da Lei Magnitsky</h2>
+                                <a href="https://jornaldebrasilia.com.br/entretenimento/katia-flavia/" class="category" style="background-color:#d73a07">Kátia Flávia</a>
+                                <a href="https://jornaldebrasilia.com.br/entretenimento/katia-flavia/por-que-danielle-saiu-do-newjeans-os-7-pontos-que-ninguem-teve-coragem-de-contar/">
+                                    <h2 class="title small">Por que Danielle saiu do NewJeans? Os 7 pontos que ninguém teve coragem de contar</h2>
                                 </a>
                             </div>
                         </div>
