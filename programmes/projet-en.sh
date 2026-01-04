@@ -13,7 +13,7 @@ then
     exit
 fi
 
-mkdir -p "../aspirations/en" "../contextes/en" "../dumps/en" "../concordancier/en" "../bigrammes/en" "../robots/en" "../wordclouds/en"
+mkdir -p "../aspirations/en" "../contextes/en" "../dumps/en" "../concordance/en" "../bigrammes/en" "../robots/en" "../wordclouds/en"
 
 
 echo -e "<html>
@@ -36,7 +36,7 @@ echo -e "<html>
             <th>Compte</th>
             <th>Contexte</th>
             <th>Bigrammes</th>
-            <th>Concordancier</th>
+            <th>Concordance</th>
             <th>Robots.txt</th>
 
         </tr>" >> "$CHEMIN_TABLEAU"
@@ -82,7 +82,7 @@ do
     > "../bigrammes/en/en-bigrammes-fantasy-$nbr_lignes.txt"
 
     #Concordancier
-    CONCORDANCIER="../concordancier/en/en-concordancier-$nbr_lignes.html"
+    CONCORDANCIER="../concordance/en/en-concordance-$nbr_lignes.html"
 
     echo "<html><head><meta charset='UTF-8'>
     <title>Concordancier ligne $nbr_lignes</title></head><body>
