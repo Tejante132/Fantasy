@@ -1,9 +1,16 @@
 User-agent: *
-Allow: /
+Disallow: /community
+Disallow: /forums/admincp
+Disallow: /foundation
+Disallow: /calendar
+Disallow: /filelibrary
+Disallow: /patch
+Disallow: /tools
+Disallow: /server
+Disallow: /includes
+Disallow: /userguide
+Sitemap: https://www.fantasygrounds.com/sitemap.xml
+Crawl-delay: 5
 
-# Sitemap
-Sitemap: https://fantasy.co/sitemap.xml
-
-# Disallow admin and private areas
-Disallow: /_nuxt/
-Disallow: /api/ 
+user-agent: AhrefsBot
+disallow: / 

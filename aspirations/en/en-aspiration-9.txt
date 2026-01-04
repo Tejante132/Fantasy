@@ -1438,3 +1438,2403 @@
         <script src="assets/js/main.js"></script>
     </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+        <title>fantasy sport</title>
+        <meta name="description" content="fantasy sport" />
+        <meta name="keywords" content="fantasy sport" />
+
+        <link href="assets/img/favicon.png" rel="icon" />
+
+        <link href="https://fonts.googleapis.com" rel="preconnect" />
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+            rel="stylesheet"
+        />
+
+        <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
+        <link href="assets/vendor/aos/aos.css" rel="stylesheet" />
+        <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" />
+        <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
+        <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
+
+        <link href="assets/css/main.css" rel="stylesheet" />
+    </head>
+
+    <body class="index-page">
+        <header id="header" class="header d-flex align-items-center fixed-top">
+            <div class="container-fluid container-xl position-relative d-flex align-items-center">
+                <a href="index.html" class="logo d-flex align-items-center me-auto">
+                    <h1 class="sitename">Fans Fantasy</h1>
+                </a>
+
+                <nav id="navmenu" class="navmenu">
+                    <ul>
+                        <li>
+                            <a href="index.html" class="active">Home<br /></a>
+                        </li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="how-to-play.html">How to Play</a></li>
+                        <li><a href="FAQ.html">FAQ</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                    <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+                </nav>
+            </div>
+        </header>
+
+        <main class="main">
+            <section id="hero" class="hero section dark-background">
+                <img src="assets/img/hero.jpg" alt="" class="hero-bg" data-aos="fade-in" />
+
+                <div class="container">
+                    <div class="row gy-4 d-flex justify-content-between">
+                        <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
+                            <h2 data-aos="fade-up">Your Fantasy, Your Game, Your Victory!</h2>
+                            <p data-aos="fade-up" data-aos-delay="100">
+                                Turn your knowledge into excitement and every match into a challenge. Draft your ultimate team, compete with friends, and climb the leaderboard with every game. Play, strategize, and feel the rush of the
+                                competition—every pick matters!
+                            </p>
+
+                            <form action="thankyou.php" class="form-search d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
+                                <input type="text" class="form-control" placeholder="Enter your phone number" required="" />
+                                <button type="submit" class="btn btn-primary">Get Link</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="about" class="about section">
+                <div class="container">
+                    <div class="row gy-4">
+                        <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up" data-aos-delay="200">
+                            <img src="assets/img/about.jpg" class="img-fluid" alt="" />
+                        </div>
+
+                        <div class="col-lg-6 content order-last order-lg-first" data-aos="fade-up" data-aos-delay="100">
+                            <h3>Where Passion Meets Competition</h3>
+                            <p>
+                                Fantasy sports are about ability, strategy, and the rush of winning; they're not just games. We provide you with an immersive experience that turns every game into a chance to outsmart the opposition,
+                                regardless of your level of experience.
+                            </p>
+                            <p>
+                                We ensure that every fan has the opportunity to test their knowledge and participate in a vibrant, action-packed setting by offering a variety of fantasy leagues across several sports. When your selected
+                                players on the field, every game becomes more thrilling, and each point you score moves you closer to the top.
+                            </p>
+                            <p>
+                                Our platform is made to be simple, engaging, and exciting. The game is always in your hands, regardless of whether you're here for the friendly rivalries or to compete for the top rankings. Choose your team,
+                                plan your route to victory, and maintain your competitive edge!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="Whyus" class="about section">
+                <div class="container">
+                    <div class="row gy-4">
+                        <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up" data-aos-delay="200">
+                            <img src="assets/img/whyus.jpg" class="img-fluid" alt="" />
+                        </div>
+
+                        <div class="col-lg-6 content order-last order-lg-first" data-aos="fade-up" data-aos-delay="100">
+                            <h3>Why Play With Us?</h3>
+                            <p>
+                                Fantasy sports should be fun, fair, and filled with action. Our platform delivers an exciting experience with the best features to keep you ahead in the game.
+                            </p>
+                            <ul>
+                                <li>
+                                    <i class="bi bi-clock"></i>
+                                    <div>
+                                        <h5>Real-Time Action</h5>
+                                        <p>Live updates and seamless integration bring every moment of the match to life.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="bi bi-people"></i>
+                                    <div>
+                                        <h5>Smart Team Building</h5>
+                                        <p>Choose players based on real-world stats, form, and performance to maximize your score.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="bi bi-controller"></i>
+                                    <div>
+                                        <h5>Competitive & Fair Play</h5>
+                                        <p>Advanced scoring systems and fair competition ensure the best strategies shine.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="bi bi-lock"></i>
+                                    <div>
+                                        <h5>Smooth & Secure Experience</h5>
+                                        <p>A user-friendly interface and secure platform make every game effortless and engaging.</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="call-to-action" class="call-to-action section dark-background">
+                <img src="assets/img/cta-bg.jpg" alt="" />
+
+                <div class="container">
+                    <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+                        <div class="col-xl-10">
+                            <div class="text-center">
+                                <h3>Explore Fantasy Leagues</h3>
+                                <p>
+                                    Every match is an opportunity to prove your skills. Pick your team, compete in exciting contests, and track your progress in real-time. Whether you're a seasoned strategist or just getting started, the
+                                    thrill of fantasy sports awaits.
+                                </p>
+                                <p>Enter your phone to get the download link:</p>
+                                <form action="thankyou.php" class="form-search d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
+                                    <input type="text" class="form-control" placeholder="Enter your phone number" required="" />
+                                    <button type="submit" class="btn btn-primary">Get Link</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="how-to-play" class="how-to-play section">
+                <div class="container section-title" data-aos="fade-up">
+                    <span>Getting Started<br /></span>
+                    <h2>Getting Started</h2>
+                </div>
+
+                <div class="container">
+                    <div class="row gy-4">
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-1.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Sign Up</h3>
+                                <p>Create your account with a few simple steps.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-2.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Download the App</h3>
+                                <p>Get the latest version to access all features seamlessly.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-3.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Pick a Sport</h3>
+                                <p>Choose from a variety of sports and leagues.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-4.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Build Your Team</h3>
+                                <p>Select the best players based on form and stats.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-5.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Enter a Contest</h3>
+                                <p>Join exciting competitions and start playing.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-6.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Track & Win</h3>
+                                <p>Follow live scores and climb the rankings!</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="testimonials" class="testimonials section dark-background">
+                <img src="assets/img/testimonials-bg.jpg" class="testimonials-bg" alt="" />
+
+                <div class="container" data-aos="fade-up" data-aos-delay="100">
+                    <div class="swiper init-swiper">
+                        <script type="application/json" class="swiper-config">
+                            {
+                                "loop": true,
+                                "speed": 600,
+                                "autoplay": {
+                                    "delay": 5000
+                                },
+                                "slidesPerView": "auto",
+                                "pagination": {
+                                    "el": ".swiper-pagination",
+                                    "type": "bullets",
+                                    "clickable": true
+                                }
+                            }
+                        </script>
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m1.jpg" class="testimonial-img" alt="" />
+                                    <h3>Aarav Mehta</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>The thrill of fantasy sports is unreal. Picking my team and watching the points roll in keeps me hooked!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m2.jpg" class="testimonial-img" alt="" />
+                                    <h3>Rohan Sharma</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>I’ve tried many platforms, but nothing compares to how smooth and competitive this one is!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-f1.jpg" class="testimonial-img" alt="" />
+                                    <h3>Priya Nair</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-half"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>Creating my dream team has never been this fun. The interface is clean, and the gameplay is addictive!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m3.jpg" class="testimonial-img" alt="" />
+                                    <h3>Vikram Rao</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-half"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>Every match is intense! The best part is the leaderboard—it’s a constant challenge to stay on top.</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-f2.jpg" class="testimonial-img" alt="" />
+                                    <h3>Neha Iyer</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>Fantasy sports just got way more exciting! The competition keeps me engaged every single day.</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m4.jpg" class="testimonial-img" alt="" />
+                                    <h3>Amit Kapoor</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>I love how stats and strategy come together here. Every move feels like a calculated risk!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="faq" class="faq section">
+                <div class="container section-title" data-aos="fade-up">
+                    <span>Frequently Asked Questions</span>
+                    <h2>Frequently Asked Questions</h2>
+                </div>
+
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="faq-container">
+                                <div class="faq-item faq-active" data-aos="fade-up" data-aos-delay="200">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>How do I create my fantasy team?</h3>
+                                    <div class="faq-content">
+                                        <p>
+                                            Creating a team is simple! Once you choose a sport and contest, select players based on their form, performance, and upcoming matches. Set your captain and vice-captain wisely, as they earn extra
+                                            points.
+                                        </p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="300">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>How are points calculated?</h3>
+                                    <div class="faq-content">
+                                        <p>
+                                            Points are awarded based on real-world performances. Players earn points for scoring, assists, tackles, saves, and other key actions depending on the sport. Check the detailed scoring system
+                                            within the platform to maximize your strategy.
+                                        </p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="400">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>Can I edit my team after selecting players?</h3>
+                                    <div class="faq-content">
+                                        <p>Yes, you can make changes to your team before the match starts. However, once the game begins, your selected lineup is locked in.</p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="500">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>Is the platform available on mobile devices?</h3>
+                                    <div class="faq-content">
+                                        <p>Absolutely! You can play on both desktop and mobile. For the best experience, download the app and access all features on the go.</p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="600">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>How do I improve my ranking?</h3>
+                                    <div class="faq-content">
+                                        <p>
+                                            Winning requires a mix of strategy and insight. Stay updated on player stats, analyze past performances, and adjust your team accordingly. The more you refine your picks, the better your chances
+                                            of climbing the leaderboard!
+                                        </p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer id="footer" class="footer dark-background">
+            <div class="container footer-top">
+                <div class="row gy-4">
+                    <div class="col-lg-5 col-md-12 footer-about">
+                        <a href="index.html" class="logo d-flex align-items-center">
+                            <span class="sitename">Fans Fantasy</span>
+                        </a>
+                        <p>
+                            Bringing the excitement of fantasy sports to every fan! Create your ultimate team, compete in thrilling contests, and track real-time scores. Experience strategy, competition, and non-stop action—all in one
+                            place.
+                        </p>
+                    </div>
+
+                    <div class="col-lg-2 col-6 footer-links">
+                        <h4>Useful Links</h4>
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About us</a></li>
+                            <li><a href="how-to-play.html">How to Play</a></li>
+                            <li><a href="terms.html">Terms of service</a></li>
+                            <li><a href="privacy.html">Privacy policy</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+                        <h4>Contact Us</h4>
+                        <p>C 32 Mansarovar Garden, opp. Fire Station of, Kirti Nagar</p>
+                        <p>New Delhi, Delhi 110015</p>
+                        <p>Republic of India</p>
+                        <p class="mt-4"><strong>Phone:</strong> <span>+919999101437</span></p>
+                        <p><strong>Email:</strong> <span>info@fans-fantasy.com</span></p>
+                    </div>
+                    <div class="col-lg-12 col-md-12">
+                        <div class="single-footer-wrapper" style="background-color: #a04747; padding: 15px; border-radius: 10px;">
+                            <div class="d-flex align-items-center">
+                                <img src="assets/img/18plus_red.png" alt="18+" style="width: 50px; margin-right: 15px;" />
+                                <h5 class="ft-title">Disclaimer</h5>
+                            </div>
+                            <p class="description" style="max-width: none;">
+                                Used to promote Fantasy Sports only. In accordance with Google Ads policy, Andhra Pradesh, Assam, Nagaland, Odisha, Sikkim, and Telangana states are not eligible for targeting in India. This product is
+                                intended for users over the age of 18 for entertainment purposes only. Games are designed for an adult audience.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container copyright text-center mt-4">
+                <p>© <span>Copyright</span> <strong class="px-1 sitename">Fans Fantasy</strong> <span>All Rights Reserved</span></p>
+                <div class="credits"></div>
+            </div>
+        </footer>
+
+        <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+        <div id="preloader"></div>
+
+        <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/vendor/php-email-form/validate.js"></script>
+        <script src="assets/vendor/aos/aos.js"></script>
+        <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+        <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+        <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+        <script src="assets/js/main.js"></script>
+    </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+        <title>fantasy sport</title>
+        <meta name="description" content="fantasy sport" />
+        <meta name="keywords" content="fantasy sport" />
+
+        <link href="assets/img/favicon.png" rel="icon" />
+
+        <link href="https://fonts.googleapis.com" rel="preconnect" />
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+            rel="stylesheet"
+        />
+
+        <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
+        <link href="assets/vendor/aos/aos.css" rel="stylesheet" />
+        <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" />
+        <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
+        <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
+
+        <link href="assets/css/main.css" rel="stylesheet" />
+    </head>
+
+    <body class="index-page">
+        <header id="header" class="header d-flex align-items-center fixed-top">
+            <div class="container-fluid container-xl position-relative d-flex align-items-center">
+                <a href="index.html" class="logo d-flex align-items-center me-auto">
+                    <h1 class="sitename">Fans Fantasy</h1>
+                </a>
+
+                <nav id="navmenu" class="navmenu">
+                    <ul>
+                        <li>
+                            <a href="index.html" class="active">Home<br /></a>
+                        </li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="how-to-play.html">How to Play</a></li>
+                        <li><a href="FAQ.html">FAQ</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                    <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+                </nav>
+            </div>
+        </header>
+
+        <main class="main">
+            <section id="hero" class="hero section dark-background">
+                <img src="assets/img/hero.jpg" alt="" class="hero-bg" data-aos="fade-in" />
+
+                <div class="container">
+                    <div class="row gy-4 d-flex justify-content-between">
+                        <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
+                            <h2 data-aos="fade-up">Your Fantasy, Your Game, Your Victory!</h2>
+                            <p data-aos="fade-up" data-aos-delay="100">
+                                Turn your knowledge into excitement and every match into a challenge. Draft your ultimate team, compete with friends, and climb the leaderboard with every game. Play, strategize, and feel the rush of the
+                                competition—every pick matters!
+                            </p>
+
+                            <form action="thankyou.php" class="form-search d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
+                                <input type="text" class="form-control" placeholder="Enter your phone number" required="" />
+                                <button type="submit" class="btn btn-primary">Get Link</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="about" class="about section">
+                <div class="container">
+                    <div class="row gy-4">
+                        <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up" data-aos-delay="200">
+                            <img src="assets/img/about.jpg" class="img-fluid" alt="" />
+                        </div>
+
+                        <div class="col-lg-6 content order-last order-lg-first" data-aos="fade-up" data-aos-delay="100">
+                            <h3>Where Passion Meets Competition</h3>
+                            <p>
+                                Fantasy sports are about ability, strategy, and the rush of winning; they're not just games. We provide you with an immersive experience that turns every game into a chance to outsmart the opposition,
+                                regardless of your level of experience.
+                            </p>
+                            <p>
+                                We ensure that every fan has the opportunity to test their knowledge and participate in a vibrant, action-packed setting by offering a variety of fantasy leagues across several sports. When your selected
+                                players on the field, every game becomes more thrilling, and each point you score moves you closer to the top.
+                            </p>
+                            <p>
+                                Our platform is made to be simple, engaging, and exciting. The game is always in your hands, regardless of whether you're here for the friendly rivalries or to compete for the top rankings. Choose your team,
+                                plan your route to victory, and maintain your competitive edge!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="Whyus" class="about section">
+                <div class="container">
+                    <div class="row gy-4">
+                        <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up" data-aos-delay="200">
+                            <img src="assets/img/whyus.jpg" class="img-fluid" alt="" />
+                        </div>
+
+                        <div class="col-lg-6 content order-last order-lg-first" data-aos="fade-up" data-aos-delay="100">
+                            <h3>Why Play With Us?</h3>
+                            <p>
+                                Fantasy sports should be fun, fair, and filled with action. Our platform delivers an exciting experience with the best features to keep you ahead in the game.
+                            </p>
+                            <ul>
+                                <li>
+                                    <i class="bi bi-clock"></i>
+                                    <div>
+                                        <h5>Real-Time Action</h5>
+                                        <p>Live updates and seamless integration bring every moment of the match to life.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="bi bi-people"></i>
+                                    <div>
+                                        <h5>Smart Team Building</h5>
+                                        <p>Choose players based on real-world stats, form, and performance to maximize your score.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="bi bi-controller"></i>
+                                    <div>
+                                        <h5>Competitive & Fair Play</h5>
+                                        <p>Advanced scoring systems and fair competition ensure the best strategies shine.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="bi bi-lock"></i>
+                                    <div>
+                                        <h5>Smooth & Secure Experience</h5>
+                                        <p>A user-friendly interface and secure platform make every game effortless and engaging.</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="call-to-action" class="call-to-action section dark-background">
+                <img src="assets/img/cta-bg.jpg" alt="" />
+
+                <div class="container">
+                    <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+                        <div class="col-xl-10">
+                            <div class="text-center">
+                                <h3>Explore Fantasy Leagues</h3>
+                                <p>
+                                    Every match is an opportunity to prove your skills. Pick your team, compete in exciting contests, and track your progress in real-time. Whether you're a seasoned strategist or just getting started, the
+                                    thrill of fantasy sports awaits.
+                                </p>
+                                <p>Enter your phone to get the download link:</p>
+                                <form action="thankyou.php" class="form-search d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
+                                    <input type="text" class="form-control" placeholder="Enter your phone number" required="" />
+                                    <button type="submit" class="btn btn-primary">Get Link</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="how-to-play" class="how-to-play section">
+                <div class="container section-title" data-aos="fade-up">
+                    <span>Getting Started<br /></span>
+                    <h2>Getting Started</h2>
+                </div>
+
+                <div class="container">
+                    <div class="row gy-4">
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-1.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Sign Up</h3>
+                                <p>Create your account with a few simple steps.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-2.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Download the App</h3>
+                                <p>Get the latest version to access all features seamlessly.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-3.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Pick a Sport</h3>
+                                <p>Choose from a variety of sports and leagues.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-4.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Build Your Team</h3>
+                                <p>Select the best players based on form and stats.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-5.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Enter a Contest</h3>
+                                <p>Join exciting competitions and start playing.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-6.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Track & Win</h3>
+                                <p>Follow live scores and climb the rankings!</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="testimonials" class="testimonials section dark-background">
+                <img src="assets/img/testimonials-bg.jpg" class="testimonials-bg" alt="" />
+
+                <div class="container" data-aos="fade-up" data-aos-delay="100">
+                    <div class="swiper init-swiper">
+                        <script type="application/json" class="swiper-config">
+                            {
+                                "loop": true,
+                                "speed": 600,
+                                "autoplay": {
+                                    "delay": 5000
+                                },
+                                "slidesPerView": "auto",
+                                "pagination": {
+                                    "el": ".swiper-pagination",
+                                    "type": "bullets",
+                                    "clickable": true
+                                }
+                            }
+                        </script>
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m1.jpg" class="testimonial-img" alt="" />
+                                    <h3>Aarav Mehta</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>The thrill of fantasy sports is unreal. Picking my team and watching the points roll in keeps me hooked!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m2.jpg" class="testimonial-img" alt="" />
+                                    <h3>Rohan Sharma</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>I’ve tried many platforms, but nothing compares to how smooth and competitive this one is!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-f1.jpg" class="testimonial-img" alt="" />
+                                    <h3>Priya Nair</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-half"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>Creating my dream team has never been this fun. The interface is clean, and the gameplay is addictive!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m3.jpg" class="testimonial-img" alt="" />
+                                    <h3>Vikram Rao</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-half"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>Every match is intense! The best part is the leaderboard—it’s a constant challenge to stay on top.</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-f2.jpg" class="testimonial-img" alt="" />
+                                    <h3>Neha Iyer</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>Fantasy sports just got way more exciting! The competition keeps me engaged every single day.</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m4.jpg" class="testimonial-img" alt="" />
+                                    <h3>Amit Kapoor</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>I love how stats and strategy come together here. Every move feels like a calculated risk!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="faq" class="faq section">
+                <div class="container section-title" data-aos="fade-up">
+                    <span>Frequently Asked Questions</span>
+                    <h2>Frequently Asked Questions</h2>
+                </div>
+
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="faq-container">
+                                <div class="faq-item faq-active" data-aos="fade-up" data-aos-delay="200">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>How do I create my fantasy team?</h3>
+                                    <div class="faq-content">
+                                        <p>
+                                            Creating a team is simple! Once you choose a sport and contest, select players based on their form, performance, and upcoming matches. Set your captain and vice-captain wisely, as they earn extra
+                                            points.
+                                        </p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="300">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>How are points calculated?</h3>
+                                    <div class="faq-content">
+                                        <p>
+                                            Points are awarded based on real-world performances. Players earn points for scoring, assists, tackles, saves, and other key actions depending on the sport. Check the detailed scoring system
+                                            within the platform to maximize your strategy.
+                                        </p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="400">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>Can I edit my team after selecting players?</h3>
+                                    <div class="faq-content">
+                                        <p>Yes, you can make changes to your team before the match starts. However, once the game begins, your selected lineup is locked in.</p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="500">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>Is the platform available on mobile devices?</h3>
+                                    <div class="faq-content">
+                                        <p>Absolutely! You can play on both desktop and mobile. For the best experience, download the app and access all features on the go.</p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="600">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>How do I improve my ranking?</h3>
+                                    <div class="faq-content">
+                                        <p>
+                                            Winning requires a mix of strategy and insight. Stay updated on player stats, analyze past performances, and adjust your team accordingly. The more you refine your picks, the better your chances
+                                            of climbing the leaderboard!
+                                        </p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer id="footer" class="footer dark-background">
+            <div class="container footer-top">
+                <div class="row gy-4">
+                    <div class="col-lg-5 col-md-12 footer-about">
+                        <a href="index.html" class="logo d-flex align-items-center">
+                            <span class="sitename">Fans Fantasy</span>
+                        </a>
+                        <p>
+                            Bringing the excitement of fantasy sports to every fan! Create your ultimate team, compete in thrilling contests, and track real-time scores. Experience strategy, competition, and non-stop action—all in one
+                            place.
+                        </p>
+                    </div>
+
+                    <div class="col-lg-2 col-6 footer-links">
+                        <h4>Useful Links</h4>
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About us</a></li>
+                            <li><a href="how-to-play.html">How to Play</a></li>
+                            <li><a href="terms.html">Terms of service</a></li>
+                            <li><a href="privacy.html">Privacy policy</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+                        <h4>Contact Us</h4>
+                        <p>C 32 Mansarovar Garden, opp. Fire Station of, Kirti Nagar</p>
+                        <p>New Delhi, Delhi 110015</p>
+                        <p>Republic of India</p>
+                        <p class="mt-4"><strong>Phone:</strong> <span>+919999101437</span></p>
+                        <p><strong>Email:</strong> <span>info@fans-fantasy.com</span></p>
+                    </div>
+                    <div class="col-lg-12 col-md-12">
+                        <div class="single-footer-wrapper" style="background-color: #a04747; padding: 15px; border-radius: 10px;">
+                            <div class="d-flex align-items-center">
+                                <img src="assets/img/18plus_red.png" alt="18+" style="width: 50px; margin-right: 15px;" />
+                                <h5 class="ft-title">Disclaimer</h5>
+                            </div>
+                            <p class="description" style="max-width: none;">
+                                Used to promote Fantasy Sports only. In accordance with Google Ads policy, Andhra Pradesh, Assam, Nagaland, Odisha, Sikkim, and Telangana states are not eligible for targeting in India. This product is
+                                intended for users over the age of 18 for entertainment purposes only. Games are designed for an adult audience.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container copyright text-center mt-4">
+                <p>© <span>Copyright</span> <strong class="px-1 sitename">Fans Fantasy</strong> <span>All Rights Reserved</span></p>
+                <div class="credits"></div>
+            </div>
+        </footer>
+
+        <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+        <div id="preloader"></div>
+
+        <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/vendor/php-email-form/validate.js"></script>
+        <script src="assets/vendor/aos/aos.js"></script>
+        <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+        <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+        <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+        <script src="assets/js/main.js"></script>
+    </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+        <title>fantasy sport</title>
+        <meta name="description" content="fantasy sport" />
+        <meta name="keywords" content="fantasy sport" />
+
+        <link href="assets/img/favicon.png" rel="icon" />
+
+        <link href="https://fonts.googleapis.com" rel="preconnect" />
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+            rel="stylesheet"
+        />
+
+        <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
+        <link href="assets/vendor/aos/aos.css" rel="stylesheet" />
+        <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" />
+        <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
+        <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
+
+        <link href="assets/css/main.css" rel="stylesheet" />
+    </head>
+
+    <body class="index-page">
+        <header id="header" class="header d-flex align-items-center fixed-top">
+            <div class="container-fluid container-xl position-relative d-flex align-items-center">
+                <a href="index.html" class="logo d-flex align-items-center me-auto">
+                    <h1 class="sitename">Fans Fantasy</h1>
+                </a>
+
+                <nav id="navmenu" class="navmenu">
+                    <ul>
+                        <li>
+                            <a href="index.html" class="active">Home<br /></a>
+                        </li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="how-to-play.html">How to Play</a></li>
+                        <li><a href="FAQ.html">FAQ</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                    <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+                </nav>
+            </div>
+        </header>
+
+        <main class="main">
+            <section id="hero" class="hero section dark-background">
+                <img src="assets/img/hero.jpg" alt="" class="hero-bg" data-aos="fade-in" />
+
+                <div class="container">
+                    <div class="row gy-4 d-flex justify-content-between">
+                        <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
+                            <h2 data-aos="fade-up">Your Fantasy, Your Game, Your Victory!</h2>
+                            <p data-aos="fade-up" data-aos-delay="100">
+                                Turn your knowledge into excitement and every match into a challenge. Draft your ultimate team, compete with friends, and climb the leaderboard with every game. Play, strategize, and feel the rush of the
+                                competition—every pick matters!
+                            </p>
+
+                            <form action="thankyou.php" class="form-search d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
+                                <input type="text" class="form-control" placeholder="Enter your phone number" required="" />
+                                <button type="submit" class="btn btn-primary">Get Link</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="about" class="about section">
+                <div class="container">
+                    <div class="row gy-4">
+                        <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up" data-aos-delay="200">
+                            <img src="assets/img/about.jpg" class="img-fluid" alt="" />
+                        </div>
+
+                        <div class="col-lg-6 content order-last order-lg-first" data-aos="fade-up" data-aos-delay="100">
+                            <h3>Where Passion Meets Competition</h3>
+                            <p>
+                                Fantasy sports are about ability, strategy, and the rush of winning; they're not just games. We provide you with an immersive experience that turns every game into a chance to outsmart the opposition,
+                                regardless of your level of experience.
+                            </p>
+                            <p>
+                                We ensure that every fan has the opportunity to test their knowledge and participate in a vibrant, action-packed setting by offering a variety of fantasy leagues across several sports. When your selected
+                                players on the field, every game becomes more thrilling, and each point you score moves you closer to the top.
+                            </p>
+                            <p>
+                                Our platform is made to be simple, engaging, and exciting. The game is always in your hands, regardless of whether you're here for the friendly rivalries or to compete for the top rankings. Choose your team,
+                                plan your route to victory, and maintain your competitive edge!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="Whyus" class="about section">
+                <div class="container">
+                    <div class="row gy-4">
+                        <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up" data-aos-delay="200">
+                            <img src="assets/img/whyus.jpg" class="img-fluid" alt="" />
+                        </div>
+
+                        <div class="col-lg-6 content order-last order-lg-first" data-aos="fade-up" data-aos-delay="100">
+                            <h3>Why Play With Us?</h3>
+                            <p>
+                                Fantasy sports should be fun, fair, and filled with action. Our platform delivers an exciting experience with the best features to keep you ahead in the game.
+                            </p>
+                            <ul>
+                                <li>
+                                    <i class="bi bi-clock"></i>
+                                    <div>
+                                        <h5>Real-Time Action</h5>
+                                        <p>Live updates and seamless integration bring every moment of the match to life.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="bi bi-people"></i>
+                                    <div>
+                                        <h5>Smart Team Building</h5>
+                                        <p>Choose players based on real-world stats, form, and performance to maximize your score.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="bi bi-controller"></i>
+                                    <div>
+                                        <h5>Competitive & Fair Play</h5>
+                                        <p>Advanced scoring systems and fair competition ensure the best strategies shine.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="bi bi-lock"></i>
+                                    <div>
+                                        <h5>Smooth & Secure Experience</h5>
+                                        <p>A user-friendly interface and secure platform make every game effortless and engaging.</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="call-to-action" class="call-to-action section dark-background">
+                <img src="assets/img/cta-bg.jpg" alt="" />
+
+                <div class="container">
+                    <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+                        <div class="col-xl-10">
+                            <div class="text-center">
+                                <h3>Explore Fantasy Leagues</h3>
+                                <p>
+                                    Every match is an opportunity to prove your skills. Pick your team, compete in exciting contests, and track your progress in real-time. Whether you're a seasoned strategist or just getting started, the
+                                    thrill of fantasy sports awaits.
+                                </p>
+                                <p>Enter your phone to get the download link:</p>
+                                <form action="thankyou.php" class="form-search d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
+                                    <input type="text" class="form-control" placeholder="Enter your phone number" required="" />
+                                    <button type="submit" class="btn btn-primary">Get Link</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="how-to-play" class="how-to-play section">
+                <div class="container section-title" data-aos="fade-up">
+                    <span>Getting Started<br /></span>
+                    <h2>Getting Started</h2>
+                </div>
+
+                <div class="container">
+                    <div class="row gy-4">
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-1.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Sign Up</h3>
+                                <p>Create your account with a few simple steps.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-2.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Download the App</h3>
+                                <p>Get the latest version to access all features seamlessly.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-3.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Pick a Sport</h3>
+                                <p>Choose from a variety of sports and leagues.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-4.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Build Your Team</h3>
+                                <p>Select the best players based on form and stats.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-5.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Enter a Contest</h3>
+                                <p>Join exciting competitions and start playing.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-6.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Track & Win</h3>
+                                <p>Follow live scores and climb the rankings!</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="testimonials" class="testimonials section dark-background">
+                <img src="assets/img/testimonials-bg.jpg" class="testimonials-bg" alt="" />
+
+                <div class="container" data-aos="fade-up" data-aos-delay="100">
+                    <div class="swiper init-swiper">
+                        <script type="application/json" class="swiper-config">
+                            {
+                                "loop": true,
+                                "speed": 600,
+                                "autoplay": {
+                                    "delay": 5000
+                                },
+                                "slidesPerView": "auto",
+                                "pagination": {
+                                    "el": ".swiper-pagination",
+                                    "type": "bullets",
+                                    "clickable": true
+                                }
+                            }
+                        </script>
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m1.jpg" class="testimonial-img" alt="" />
+                                    <h3>Aarav Mehta</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>The thrill of fantasy sports is unreal. Picking my team and watching the points roll in keeps me hooked!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m2.jpg" class="testimonial-img" alt="" />
+                                    <h3>Rohan Sharma</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>I’ve tried many platforms, but nothing compares to how smooth and competitive this one is!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-f1.jpg" class="testimonial-img" alt="" />
+                                    <h3>Priya Nair</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-half"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>Creating my dream team has never been this fun. The interface is clean, and the gameplay is addictive!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m3.jpg" class="testimonial-img" alt="" />
+                                    <h3>Vikram Rao</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-half"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>Every match is intense! The best part is the leaderboard—it’s a constant challenge to stay on top.</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-f2.jpg" class="testimonial-img" alt="" />
+                                    <h3>Neha Iyer</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>Fantasy sports just got way more exciting! The competition keeps me engaged every single day.</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m4.jpg" class="testimonial-img" alt="" />
+                                    <h3>Amit Kapoor</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>I love how stats and strategy come together here. Every move feels like a calculated risk!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="faq" class="faq section">
+                <div class="container section-title" data-aos="fade-up">
+                    <span>Frequently Asked Questions</span>
+                    <h2>Frequently Asked Questions</h2>
+                </div>
+
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="faq-container">
+                                <div class="faq-item faq-active" data-aos="fade-up" data-aos-delay="200">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>How do I create my fantasy team?</h3>
+                                    <div class="faq-content">
+                                        <p>
+                                            Creating a team is simple! Once you choose a sport and contest, select players based on their form, performance, and upcoming matches. Set your captain and vice-captain wisely, as they earn extra
+                                            points.
+                                        </p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="300">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>How are points calculated?</h3>
+                                    <div class="faq-content">
+                                        <p>
+                                            Points are awarded based on real-world performances. Players earn points for scoring, assists, tackles, saves, and other key actions depending on the sport. Check the detailed scoring system
+                                            within the platform to maximize your strategy.
+                                        </p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="400">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>Can I edit my team after selecting players?</h3>
+                                    <div class="faq-content">
+                                        <p>Yes, you can make changes to your team before the match starts. However, once the game begins, your selected lineup is locked in.</p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="500">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>Is the platform available on mobile devices?</h3>
+                                    <div class="faq-content">
+                                        <p>Absolutely! You can play on both desktop and mobile. For the best experience, download the app and access all features on the go.</p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="600">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>How do I improve my ranking?</h3>
+                                    <div class="faq-content">
+                                        <p>
+                                            Winning requires a mix of strategy and insight. Stay updated on player stats, analyze past performances, and adjust your team accordingly. The more you refine your picks, the better your chances
+                                            of climbing the leaderboard!
+                                        </p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer id="footer" class="footer dark-background">
+            <div class="container footer-top">
+                <div class="row gy-4">
+                    <div class="col-lg-5 col-md-12 footer-about">
+                        <a href="index.html" class="logo d-flex align-items-center">
+                            <span class="sitename">Fans Fantasy</span>
+                        </a>
+                        <p>
+                            Bringing the excitement of fantasy sports to every fan! Create your ultimate team, compete in thrilling contests, and track real-time scores. Experience strategy, competition, and non-stop action—all in one
+                            place.
+                        </p>
+                    </div>
+
+                    <div class="col-lg-2 col-6 footer-links">
+                        <h4>Useful Links</h4>
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About us</a></li>
+                            <li><a href="how-to-play.html">How to Play</a></li>
+                            <li><a href="terms.html">Terms of service</a></li>
+                            <li><a href="privacy.html">Privacy policy</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+                        <h4>Contact Us</h4>
+                        <p>C 32 Mansarovar Garden, opp. Fire Station of, Kirti Nagar</p>
+                        <p>New Delhi, Delhi 110015</p>
+                        <p>Republic of India</p>
+                        <p class="mt-4"><strong>Phone:</strong> <span>+919999101437</span></p>
+                        <p><strong>Email:</strong> <span>info@fans-fantasy.com</span></p>
+                    </div>
+                    <div class="col-lg-12 col-md-12">
+                        <div class="single-footer-wrapper" style="background-color: #a04747; padding: 15px; border-radius: 10px;">
+                            <div class="d-flex align-items-center">
+                                <img src="assets/img/18plus_red.png" alt="18+" style="width: 50px; margin-right: 15px;" />
+                                <h5 class="ft-title">Disclaimer</h5>
+                            </div>
+                            <p class="description" style="max-width: none;">
+                                Used to promote Fantasy Sports only. In accordance with Google Ads policy, Andhra Pradesh, Assam, Nagaland, Odisha, Sikkim, and Telangana states are not eligible for targeting in India. This product is
+                                intended for users over the age of 18 for entertainment purposes only. Games are designed for an adult audience.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container copyright text-center mt-4">
+                <p>© <span>Copyright</span> <strong class="px-1 sitename">Fans Fantasy</strong> <span>All Rights Reserved</span></p>
+                <div class="credits"></div>
+            </div>
+        </footer>
+
+        <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+        <div id="preloader"></div>
+
+        <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/vendor/php-email-form/validate.js"></script>
+        <script src="assets/vendor/aos/aos.js"></script>
+        <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+        <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+        <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+        <script src="assets/js/main.js"></script>
+    </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+        <title>fantasy sport</title>
+        <meta name="description" content="fantasy sport" />
+        <meta name="keywords" content="fantasy sport" />
+
+        <link href="assets/img/favicon.png" rel="icon" />
+
+        <link href="https://fonts.googleapis.com" rel="preconnect" />
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+            rel="stylesheet"
+        />
+
+        <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
+        <link href="assets/vendor/aos/aos.css" rel="stylesheet" />
+        <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" />
+        <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
+        <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
+
+        <link href="assets/css/main.css" rel="stylesheet" />
+    </head>
+
+    <body class="index-page">
+        <header id="header" class="header d-flex align-items-center fixed-top">
+            <div class="container-fluid container-xl position-relative d-flex align-items-center">
+                <a href="index.html" class="logo d-flex align-items-center me-auto">
+                    <h1 class="sitename">Fans Fantasy</h1>
+                </a>
+
+                <nav id="navmenu" class="navmenu">
+                    <ul>
+                        <li>
+                            <a href="index.html" class="active">Home<br /></a>
+                        </li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="how-to-play.html">How to Play</a></li>
+                        <li><a href="FAQ.html">FAQ</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                    <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+                </nav>
+            </div>
+        </header>
+
+        <main class="main">
+            <section id="hero" class="hero section dark-background">
+                <img src="assets/img/hero.jpg" alt="" class="hero-bg" data-aos="fade-in" />
+
+                <div class="container">
+                    <div class="row gy-4 d-flex justify-content-between">
+                        <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
+                            <h2 data-aos="fade-up">Your Fantasy, Your Game, Your Victory!</h2>
+                            <p data-aos="fade-up" data-aos-delay="100">
+                                Turn your knowledge into excitement and every match into a challenge. Draft your ultimate team, compete with friends, and climb the leaderboard with every game. Play, strategize, and feel the rush of the
+                                competition—every pick matters!
+                            </p>
+
+                            <form action="thankyou.php" class="form-search d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
+                                <input type="text" class="form-control" placeholder="Enter your phone number" required="" />
+                                <button type="submit" class="btn btn-primary">Get Link</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="about" class="about section">
+                <div class="container">
+                    <div class="row gy-4">
+                        <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up" data-aos-delay="200">
+                            <img src="assets/img/about.jpg" class="img-fluid" alt="" />
+                        </div>
+
+                        <div class="col-lg-6 content order-last order-lg-first" data-aos="fade-up" data-aos-delay="100">
+                            <h3>Where Passion Meets Competition</h3>
+                            <p>
+                                Fantasy sports are about ability, strategy, and the rush of winning; they're not just games. We provide you with an immersive experience that turns every game into a chance to outsmart the opposition,
+                                regardless of your level of experience.
+                            </p>
+                            <p>
+                                We ensure that every fan has the opportunity to test their knowledge and participate in a vibrant, action-packed setting by offering a variety of fantasy leagues across several sports. When your selected
+                                players on the field, every game becomes more thrilling, and each point you score moves you closer to the top.
+                            </p>
+                            <p>
+                                Our platform is made to be simple, engaging, and exciting. The game is always in your hands, regardless of whether you're here for the friendly rivalries or to compete for the top rankings. Choose your team,
+                                plan your route to victory, and maintain your competitive edge!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="Whyus" class="about section">
+                <div class="container">
+                    <div class="row gy-4">
+                        <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up" data-aos-delay="200">
+                            <img src="assets/img/whyus.jpg" class="img-fluid" alt="" />
+                        </div>
+
+                        <div class="col-lg-6 content order-last order-lg-first" data-aos="fade-up" data-aos-delay="100">
+                            <h3>Why Play With Us?</h3>
+                            <p>
+                                Fantasy sports should be fun, fair, and filled with action. Our platform delivers an exciting experience with the best features to keep you ahead in the game.
+                            </p>
+                            <ul>
+                                <li>
+                                    <i class="bi bi-clock"></i>
+                                    <div>
+                                        <h5>Real-Time Action</h5>
+                                        <p>Live updates and seamless integration bring every moment of the match to life.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="bi bi-people"></i>
+                                    <div>
+                                        <h5>Smart Team Building</h5>
+                                        <p>Choose players based on real-world stats, form, and performance to maximize your score.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="bi bi-controller"></i>
+                                    <div>
+                                        <h5>Competitive & Fair Play</h5>
+                                        <p>Advanced scoring systems and fair competition ensure the best strategies shine.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="bi bi-lock"></i>
+                                    <div>
+                                        <h5>Smooth & Secure Experience</h5>
+                                        <p>A user-friendly interface and secure platform make every game effortless and engaging.</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="call-to-action" class="call-to-action section dark-background">
+                <img src="assets/img/cta-bg.jpg" alt="" />
+
+                <div class="container">
+                    <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+                        <div class="col-xl-10">
+                            <div class="text-center">
+                                <h3>Explore Fantasy Leagues</h3>
+                                <p>
+                                    Every match is an opportunity to prove your skills. Pick your team, compete in exciting contests, and track your progress in real-time. Whether you're a seasoned strategist or just getting started, the
+                                    thrill of fantasy sports awaits.
+                                </p>
+                                <p>Enter your phone to get the download link:</p>
+                                <form action="thankyou.php" class="form-search d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
+                                    <input type="text" class="form-control" placeholder="Enter your phone number" required="" />
+                                    <button type="submit" class="btn btn-primary">Get Link</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="how-to-play" class="how-to-play section">
+                <div class="container section-title" data-aos="fade-up">
+                    <span>Getting Started<br /></span>
+                    <h2>Getting Started</h2>
+                </div>
+
+                <div class="container">
+                    <div class="row gy-4">
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-1.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Sign Up</h3>
+                                <p>Create your account with a few simple steps.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-2.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Download the App</h3>
+                                <p>Get the latest version to access all features seamlessly.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-3.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Pick a Sport</h3>
+                                <p>Choose from a variety of sports and leagues.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-4.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Build Your Team</h3>
+                                <p>Select the best players based on form and stats.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-5.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Enter a Contest</h3>
+                                <p>Join exciting competitions and start playing.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-6.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Track & Win</h3>
+                                <p>Follow live scores and climb the rankings!</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="testimonials" class="testimonials section dark-background">
+                <img src="assets/img/testimonials-bg.jpg" class="testimonials-bg" alt="" />
+
+                <div class="container" data-aos="fade-up" data-aos-delay="100">
+                    <div class="swiper init-swiper">
+                        <script type="application/json" class="swiper-config">
+                            {
+                                "loop": true,
+                                "speed": 600,
+                                "autoplay": {
+                                    "delay": 5000
+                                },
+                                "slidesPerView": "auto",
+                                "pagination": {
+                                    "el": ".swiper-pagination",
+                                    "type": "bullets",
+                                    "clickable": true
+                                }
+                            }
+                        </script>
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m1.jpg" class="testimonial-img" alt="" />
+                                    <h3>Aarav Mehta</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>The thrill of fantasy sports is unreal. Picking my team and watching the points roll in keeps me hooked!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m2.jpg" class="testimonial-img" alt="" />
+                                    <h3>Rohan Sharma</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>I’ve tried many platforms, but nothing compares to how smooth and competitive this one is!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-f1.jpg" class="testimonial-img" alt="" />
+                                    <h3>Priya Nair</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-half"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>Creating my dream team has never been this fun. The interface is clean, and the gameplay is addictive!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m3.jpg" class="testimonial-img" alt="" />
+                                    <h3>Vikram Rao</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-half"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>Every match is intense! The best part is the leaderboard—it’s a constant challenge to stay on top.</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-f2.jpg" class="testimonial-img" alt="" />
+                                    <h3>Neha Iyer</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>Fantasy sports just got way more exciting! The competition keeps me engaged every single day.</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m4.jpg" class="testimonial-img" alt="" />
+                                    <h3>Amit Kapoor</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>I love how stats and strategy come together here. Every move feels like a calculated risk!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="faq" class="faq section">
+                <div class="container section-title" data-aos="fade-up">
+                    <span>Frequently Asked Questions</span>
+                    <h2>Frequently Asked Questions</h2>
+                </div>
+
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="faq-container">
+                                <div class="faq-item faq-active" data-aos="fade-up" data-aos-delay="200">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>How do I create my fantasy team?</h3>
+                                    <div class="faq-content">
+                                        <p>
+                                            Creating a team is simple! Once you choose a sport and contest, select players based on their form, performance, and upcoming matches. Set your captain and vice-captain wisely, as they earn extra
+                                            points.
+                                        </p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="300">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>How are points calculated?</h3>
+                                    <div class="faq-content">
+                                        <p>
+                                            Points are awarded based on real-world performances. Players earn points for scoring, assists, tackles, saves, and other key actions depending on the sport. Check the detailed scoring system
+                                            within the platform to maximize your strategy.
+                                        </p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="400">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>Can I edit my team after selecting players?</h3>
+                                    <div class="faq-content">
+                                        <p>Yes, you can make changes to your team before the match starts. However, once the game begins, your selected lineup is locked in.</p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="500">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>Is the platform available on mobile devices?</h3>
+                                    <div class="faq-content">
+                                        <p>Absolutely! You can play on both desktop and mobile. For the best experience, download the app and access all features on the go.</p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="600">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>How do I improve my ranking?</h3>
+                                    <div class="faq-content">
+                                        <p>
+                                            Winning requires a mix of strategy and insight. Stay updated on player stats, analyze past performances, and adjust your team accordingly. The more you refine your picks, the better your chances
+                                            of climbing the leaderboard!
+                                        </p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer id="footer" class="footer dark-background">
+            <div class="container footer-top">
+                <div class="row gy-4">
+                    <div class="col-lg-5 col-md-12 footer-about">
+                        <a href="index.html" class="logo d-flex align-items-center">
+                            <span class="sitename">Fans Fantasy</span>
+                        </a>
+                        <p>
+                            Bringing the excitement of fantasy sports to every fan! Create your ultimate team, compete in thrilling contests, and track real-time scores. Experience strategy, competition, and non-stop action—all in one
+                            place.
+                        </p>
+                    </div>
+
+                    <div class="col-lg-2 col-6 footer-links">
+                        <h4>Useful Links</h4>
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About us</a></li>
+                            <li><a href="how-to-play.html">How to Play</a></li>
+                            <li><a href="terms.html">Terms of service</a></li>
+                            <li><a href="privacy.html">Privacy policy</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+                        <h4>Contact Us</h4>
+                        <p>C 32 Mansarovar Garden, opp. Fire Station of, Kirti Nagar</p>
+                        <p>New Delhi, Delhi 110015</p>
+                        <p>Republic of India</p>
+                        <p class="mt-4"><strong>Phone:</strong> <span>+919999101437</span></p>
+                        <p><strong>Email:</strong> <span>info@fans-fantasy.com</span></p>
+                    </div>
+                    <div class="col-lg-12 col-md-12">
+                        <div class="single-footer-wrapper" style="background-color: #a04747; padding: 15px; border-radius: 10px;">
+                            <div class="d-flex align-items-center">
+                                <img src="assets/img/18plus_red.png" alt="18+" style="width: 50px; margin-right: 15px;" />
+                                <h5 class="ft-title">Disclaimer</h5>
+                            </div>
+                            <p class="description" style="max-width: none;">
+                                Used to promote Fantasy Sports only. In accordance with Google Ads policy, Andhra Pradesh, Assam, Nagaland, Odisha, Sikkim, and Telangana states are not eligible for targeting in India. This product is
+                                intended for users over the age of 18 for entertainment purposes only. Games are designed for an adult audience.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container copyright text-center mt-4">
+                <p>© <span>Copyright</span> <strong class="px-1 sitename">Fans Fantasy</strong> <span>All Rights Reserved</span></p>
+                <div class="credits"></div>
+            </div>
+        </footer>
+
+        <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+        <div id="preloader"></div>
+
+        <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/vendor/php-email-form/validate.js"></script>
+        <script src="assets/vendor/aos/aos.js"></script>
+        <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+        <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+        <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+        <script src="assets/js/main.js"></script>
+    </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+        <title>fantasy sport</title>
+        <meta name="description" content="fantasy sport" />
+        <meta name="keywords" content="fantasy sport" />
+
+        <link href="assets/img/favicon.png" rel="icon" />
+
+        <link href="https://fonts.googleapis.com" rel="preconnect" />
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+            rel="stylesheet"
+        />
+
+        <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
+        <link href="assets/vendor/aos/aos.css" rel="stylesheet" />
+        <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" />
+        <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
+        <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
+
+        <link href="assets/css/main.css" rel="stylesheet" />
+    </head>
+
+    <body class="index-page">
+        <header id="header" class="header d-flex align-items-center fixed-top">
+            <div class="container-fluid container-xl position-relative d-flex align-items-center">
+                <a href="index.html" class="logo d-flex align-items-center me-auto">
+                    <h1 class="sitename">Fans Fantasy</h1>
+                </a>
+
+                <nav id="navmenu" class="navmenu">
+                    <ul>
+                        <li>
+                            <a href="index.html" class="active">Home<br /></a>
+                        </li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="how-to-play.html">How to Play</a></li>
+                        <li><a href="FAQ.html">FAQ</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                    <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+                </nav>
+            </div>
+        </header>
+
+        <main class="main">
+            <section id="hero" class="hero section dark-background">
+                <img src="assets/img/hero.jpg" alt="" class="hero-bg" data-aos="fade-in" />
+
+                <div class="container">
+                    <div class="row gy-4 d-flex justify-content-between">
+                        <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
+                            <h2 data-aos="fade-up">Your Fantasy, Your Game, Your Victory!</h2>
+                            <p data-aos="fade-up" data-aos-delay="100">
+                                Turn your knowledge into excitement and every match into a challenge. Draft your ultimate team, compete with friends, and climb the leaderboard with every game. Play, strategize, and feel the rush of the
+                                competition—every pick matters!
+                            </p>
+
+                            <form action="thankyou.php" class="form-search d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
+                                <input type="text" class="form-control" placeholder="Enter your phone number" required="" />
+                                <button type="submit" class="btn btn-primary">Get Link</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="about" class="about section">
+                <div class="container">
+                    <div class="row gy-4">
+                        <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up" data-aos-delay="200">
+                            <img src="assets/img/about.jpg" class="img-fluid" alt="" />
+                        </div>
+
+                        <div class="col-lg-6 content order-last order-lg-first" data-aos="fade-up" data-aos-delay="100">
+                            <h3>Where Passion Meets Competition</h3>
+                            <p>
+                                Fantasy sports are about ability, strategy, and the rush of winning; they're not just games. We provide you with an immersive experience that turns every game into a chance to outsmart the opposition,
+                                regardless of your level of experience.
+                            </p>
+                            <p>
+                                We ensure that every fan has the opportunity to test their knowledge and participate in a vibrant, action-packed setting by offering a variety of fantasy leagues across several sports. When your selected
+                                players on the field, every game becomes more thrilling, and each point you score moves you closer to the top.
+                            </p>
+                            <p>
+                                Our platform is made to be simple, engaging, and exciting. The game is always in your hands, regardless of whether you're here for the friendly rivalries or to compete for the top rankings. Choose your team,
+                                plan your route to victory, and maintain your competitive edge!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="Whyus" class="about section">
+                <div class="container">
+                    <div class="row gy-4">
+                        <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up" data-aos-delay="200">
+                            <img src="assets/img/whyus.jpg" class="img-fluid" alt="" />
+                        </div>
+
+                        <div class="col-lg-6 content order-last order-lg-first" data-aos="fade-up" data-aos-delay="100">
+                            <h3>Why Play With Us?</h3>
+                            <p>
+                                Fantasy sports should be fun, fair, and filled with action. Our platform delivers an exciting experience with the best features to keep you ahead in the game.
+                            </p>
+                            <ul>
+                                <li>
+                                    <i class="bi bi-clock"></i>
+                                    <div>
+                                        <h5>Real-Time Action</h5>
+                                        <p>Live updates and seamless integration bring every moment of the match to life.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="bi bi-people"></i>
+                                    <div>
+                                        <h5>Smart Team Building</h5>
+                                        <p>Choose players based on real-world stats, form, and performance to maximize your score.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="bi bi-controller"></i>
+                                    <div>
+                                        <h5>Competitive & Fair Play</h5>
+                                        <p>Advanced scoring systems and fair competition ensure the best strategies shine.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="bi bi-lock"></i>
+                                    <div>
+                                        <h5>Smooth & Secure Experience</h5>
+                                        <p>A user-friendly interface and secure platform make every game effortless and engaging.</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="call-to-action" class="call-to-action section dark-background">
+                <img src="assets/img/cta-bg.jpg" alt="" />
+
+                <div class="container">
+                    <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+                        <div class="col-xl-10">
+                            <div class="text-center">
+                                <h3>Explore Fantasy Leagues</h3>
+                                <p>
+                                    Every match is an opportunity to prove your skills. Pick your team, compete in exciting contests, and track your progress in real-time. Whether you're a seasoned strategist or just getting started, the
+                                    thrill of fantasy sports awaits.
+                                </p>
+                                <p>Enter your phone to get the download link:</p>
+                                <form action="thankyou.php" class="form-search d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
+                                    <input type="text" class="form-control" placeholder="Enter your phone number" required="" />
+                                    <button type="submit" class="btn btn-primary">Get Link</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="how-to-play" class="how-to-play section">
+                <div class="container section-title" data-aos="fade-up">
+                    <span>Getting Started<br /></span>
+                    <h2>Getting Started</h2>
+                </div>
+
+                <div class="container">
+                    <div class="row gy-4">
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-1.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Sign Up</h3>
+                                <p>Create your account with a few simple steps.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-2.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Download the App</h3>
+                                <p>Get the latest version to access all features seamlessly.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-3.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Pick a Sport</h3>
+                                <p>Choose from a variety of sports and leagues.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-4.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Build Your Team</h3>
+                                <p>Select the best players based on form and stats.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-5.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Enter a Contest</h3>
+                                <p>Join exciting competitions and start playing.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+                            <div class="card">
+                                <div class="card-img">
+                                    <img src="assets/img/service-6.jpg" alt="" class="img-fluid" />
+                                </div>
+                                <h3>Track & Win</h3>
+                                <p>Follow live scores and climb the rankings!</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="testimonials" class="testimonials section dark-background">
+                <img src="assets/img/testimonials-bg.jpg" class="testimonials-bg" alt="" />
+
+                <div class="container" data-aos="fade-up" data-aos-delay="100">
+                    <div class="swiper init-swiper">
+                        <script type="application/json" class="swiper-config">
+                            {
+                                "loop": true,
+                                "speed": 600,
+                                "autoplay": {
+                                    "delay": 5000
+                                },
+                                "slidesPerView": "auto",
+                                "pagination": {
+                                    "el": ".swiper-pagination",
+                                    "type": "bullets",
+                                    "clickable": true
+                                }
+                            }
+                        </script>
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m1.jpg" class="testimonial-img" alt="" />
+                                    <h3>Aarav Mehta</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>The thrill of fantasy sports is unreal. Picking my team and watching the points roll in keeps me hooked!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m2.jpg" class="testimonial-img" alt="" />
+                                    <h3>Rohan Sharma</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>I’ve tried many platforms, but nothing compares to how smooth and competitive this one is!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-f1.jpg" class="testimonial-img" alt="" />
+                                    <h3>Priya Nair</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-half"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>Creating my dream team has never been this fun. The interface is clean, and the gameplay is addictive!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m3.jpg" class="testimonial-img" alt="" />
+                                    <h3>Vikram Rao</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-half"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>Every match is intense! The best part is the leaderboard—it’s a constant challenge to stay on top.</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-f2.jpg" class="testimonial-img" alt="" />
+                                    <h3>Neha Iyer</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>Fantasy sports just got way more exciting! The competition keeps me engaged every single day.</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="testimonial-item">
+                                    <img src="assets/img/testimonials/testimonials-m4.jpg" class="testimonial-img" alt="" />
+                                    <h3>Amit Kapoor</h3>
+                                    <div class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star"></i></div>
+                                    <p>
+                                        <i class="bi bi-quote quote-icon-left"></i>
+                                        <span>I love how stats and strategy come together here. Every move feels like a calculated risk!</span>
+                                        <i class="bi bi-quote quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="faq" class="faq section">
+                <div class="container section-title" data-aos="fade-up">
+                    <span>Frequently Asked Questions</span>
+                    <h2>Frequently Asked Questions</h2>
+                </div>
+
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="faq-container">
+                                <div class="faq-item faq-active" data-aos="fade-up" data-aos-delay="200">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>How do I create my fantasy team?</h3>
+                                    <div class="faq-content">
+                                        <p>
+                                            Creating a team is simple! Once you choose a sport and contest, select players based on their form, performance, and upcoming matches. Set your captain and vice-captain wisely, as they earn extra
+                                            points.
+                                        </p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="300">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>How are points calculated?</h3>
+                                    <div class="faq-content">
+                                        <p>
+                                            Points are awarded based on real-world performances. Players earn points for scoring, assists, tackles, saves, and other key actions depending on the sport. Check the detailed scoring system
+                                            within the platform to maximize your strategy.
+                                        </p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="400">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>Can I edit my team after selecting players?</h3>
+                                    <div class="faq-content">
+                                        <p>Yes, you can make changes to your team before the match starts. However, once the game begins, your selected lineup is locked in.</p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="500">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>Is the platform available on mobile devices?</h3>
+                                    <div class="faq-content">
+                                        <p>Absolutely! You can play on both desktop and mobile. For the best experience, download the app and access all features on the go.</p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+
+                                <div class="faq-item" data-aos="fade-up" data-aos-delay="600">
+                                    <i class="faq-icon bi bi-question-circle"></i>
+                                    <h3>How do I improve my ranking?</h3>
+                                    <div class="faq-content">
+                                        <p>
+                                            Winning requires a mix of strategy and insight. Stay updated on player stats, analyze past performances, and adjust your team accordingly. The more you refine your picks, the better your chances
+                                            of climbing the leaderboard!
+                                        </p>
+                                    </div>
+                                    <i class="faq-toggle bi bi-chevron-right"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer id="footer" class="footer dark-background">
+            <div class="container footer-top">
+                <div class="row gy-4">
+                    <div class="col-lg-5 col-md-12 footer-about">
+                        <a href="index.html" class="logo d-flex align-items-center">
+                            <span class="sitename">Fans Fantasy</span>
+                        </a>
+                        <p>
+                            Bringing the excitement of fantasy sports to every fan! Create your ultimate team, compete in thrilling contests, and track real-time scores. Experience strategy, competition, and non-stop action—all in one
+                            place.
+                        </p>
+                    </div>
+
+                    <div class="col-lg-2 col-6 footer-links">
+                        <h4>Useful Links</h4>
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About us</a></li>
+                            <li><a href="how-to-play.html">How to Play</a></li>
+                            <li><a href="terms.html">Terms of service</a></li>
+                            <li><a href="privacy.html">Privacy policy</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+                        <h4>Contact Us</h4>
+                        <p>C 32 Mansarovar Garden, opp. Fire Station of, Kirti Nagar</p>
+                        <p>New Delhi, Delhi 110015</p>
+                        <p>Republic of India</p>
+                        <p class="mt-4"><strong>Phone:</strong> <span>+919999101437</span></p>
+                        <p><strong>Email:</strong> <span>info@fans-fantasy.com</span></p>
+                    </div>
+                    <div class="col-lg-12 col-md-12">
+                        <div class="single-footer-wrapper" style="background-color: #a04747; padding: 15px; border-radius: 10px;">
+                            <div class="d-flex align-items-center">
+                                <img src="assets/img/18plus_red.png" alt="18+" style="width: 50px; margin-right: 15px;" />
+                                <h5 class="ft-title">Disclaimer</h5>
+                            </div>
+                            <p class="description" style="max-width: none;">
+                                Used to promote Fantasy Sports only. In accordance with Google Ads policy, Andhra Pradesh, Assam, Nagaland, Odisha, Sikkim, and Telangana states are not eligible for targeting in India. This product is
+                                intended for users over the age of 18 for entertainment purposes only. Games are designed for an adult audience.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container copyright text-center mt-4">
+                <p>© <span>Copyright</span> <strong class="px-1 sitename">Fans Fantasy</strong> <span>All Rights Reserved</span></p>
+                <div class="credits"></div>
+            </div>
+        </footer>
+
+        <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+        <div id="preloader"></div>
+
+        <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/vendor/php-email-form/validate.js"></script>
+        <script src="assets/vendor/aos/aos.js"></script>
+        <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+        <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+        <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+        <script src="assets/js/main.js"></script>
+    </body>
+</html>

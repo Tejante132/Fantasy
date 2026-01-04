@@ -1,71 +1,616 @@
      84 browse modules
+     48 draft times
+     40 times rules
+     38 play draft
+     31 from to
+     28 fantasy baseball
+     27 play from
+     24 baseball play
+     20 head to
      20 fantasy grounds
+     18 best ball
+     17 fantasy football
+     15 to head
+     15 faab waivers
+     15 bench spots
      14 edition browse
+     13 play for
+     13 fantasy basketball
+     13 draft picks
+     13 draft or
+     12 points scoring
+     12 money leagues
+     12 football play
+     12 basketball play
+     11 weekly management
+     11 fantasy sports
+     10 realtime fantasy
+     10 players and
+      9 w points
+      9 rotisserie scoring
+      9 playoffs play
+      9 or auction
+      9 no weekly
+      9 management required
+      9 for to
+      9 for the
+      9 each week
+      9 best lineup
+      8 you want
+      8 year league
+      8 x rotisserie
+      8 weekly lineups
+      8 the nfl
+      8 style scoring
+      8 rules best
       8 modules st
       8 modules e
+      8 mock drafting
+      8 leagues rules
+      8 league prizes
       8 grounds vtt
       8 fifth edition
+      8 dynasty fantasy
+      8 any players
+      7 your own
+      7 your league
+      7 with our
+      7 trade players
+      7 times money
+      7 the fantasy
+      7 team leagues
+      7 rules head
+      7 rtsports com
+      7 points style
+      7 play rules
+      7 players you
+      7 nfl playoffs
+      7 multi year
+      7 in register
+      7 grand prize
+      7 ball championship
+      7 and draft
+      6 to the
+      6 to draft
+      6 the playoffs
+      6 starters with
+      6 scoring weekly
+      6 scoring online
+      6 plus bench
+      6 our free
+      6 online draft
       6 modules browse
+      6 make the
+      6 live draft
+      6 lineup each
+      6 leagues football
+      6 leagues dfs
+      6 head games
+      6 draft masters
+      6 dfs pickem
+      6 choose your
+      5 your way
+      5 your perfect
+      5 win prizes
+      5 weekly faab
+      5 waivers annual
+      5 to your
+      5 top teams
+      5 time scoring
+      5 the draft
+      5 teams win
+      5 starters and
+      5 spots weekly
+      5 spots play
+      5 sms or
+      5 sms email
+      5 sign in
+      5 second draft
+      5 rules team
+      5 rules overall
+      5 rosters faab
+      5 rookie and
+      5 receiving yards
+      5 real time
+      5 prizes starters
+      5 plus league
+      5 playoff blitz
+      5 play leagues
+      5 player rosters
+      5 picks or
+      5 picks expanded
+      5 pause top
+      5 overnight draft
+      5 overall grand
+      5 our most
+      5 or sms
+      5 or email
+      5 optimized draft
+      5 offseason rosters
+      5 most popular
+      5 mobile optimized
+      5 live scoring
+      5 league trade
+      5 leagues adp
+      5 just enjoy
+      5 hr hr
+      5 free to
+      5 free agent
+      5 for sale
+      5 forgot password
+      5 for a
+      5 expanded offseason
+      5 enjoy the
+      5 email draft
+      5 draft second
+      5 draft play
+      5 draft pause
+      5 draft guide
+      5 draft clock
+      5 draft alerts
+      5 dimes fantasy
+      5 commissioner service
+      5 clock sms
+      5 championship playoff
+      5 championship play
+      5 button scroll
+      5 built in
+      5 ball mobile
+      5 annual rookie
+      5 and free
+      5 and bench
+      5 alerts overnight
+      5 agent draft
+      5 adp aav
+      4 your account
       4 with fantasy
+      4 with bench
       4 vtt logo
-      4 to the
-      4 the fantasy
+      4 teams make
+      4 starters plus
       4 second edition
+      4 scoring play
       4 remastered browse
       4 quick start
+      4 on the
       4 modules ad
-      4 in register
+      4 masters fantasy
+      4 in league
+      4 help you
+      4 go to
       4 get started
       4 get fantasy
+      4 games w
       4 free fg
       4 forge the
       4 fg discord
       4 e th
       4 e browse
+      4 dfs lineup
+      4 dfs leagues
       4 d e
+      4 daily fantasy
       4 community content
       4 art subscription
       4 all the
       4 adventure edition
       4 account sync
-      2 your way
+      3 you win
+      3 your team
+      3 your lineup
+      3 your leagues
+      3 your bank
+      3 you or
+      3 you may
+      3 you every
+      3 you control
+      3 yards points
+      3 x your
+      3 wr te
+      3 with points
+      3 with over
+      3 with exciting
+      3 withdrawals made
+      3 win fantasy
+      3 win cash
+      3 who is
+      3 we re
+      3 week play
+      3 want play
+      3 waivers starters
+      3 waivers and
+      3 waiting for
+      3 vs min
+      3 via direct
+      3 us twitter
+      3 us loginsignup
+      3 us call
+      3 up to
+      3 triple play
+      3 trading our
+      3 total points
+      3 to slam
+      3 to six
+      3 top players
+      3 top finishers
+      3 to per
+      3 to high
+      3 to help
+      3 to get
+      3 to franchise
+      3 today win
+      3 today payments
+      3 today experience
+      3 to audible
+      3 time weekly
+      3 this year
+      3 the web
+      3 the video
+      3 the thrill
+      3 the test
+      3 there are
+      3 the play
+      3 the moment
+      3 the go
+      3 team wins
+      3 teams for
+      3 teams battle
+      3 teams apps
+      3 team mixed
+      3 team entry
+      3 team dynasty
+      3 team at
+      3 take all
+      3 tag commissioner
+      3 support rtsports
+      3 support get
+      3 strokes and
+      3 strict limit
+      3 strategy play
+      3 stat projections
+      3 start your
+      3 start every
+      3 stakes fantasy
+      3 spots points
+      3 sports draft
+      3 sportsdataio email
+      3 someone you
+      3 skills to
+      3 since realtime
+      3 simple and
+      3 showdown fantasy
+      3 shootout fantasy
+      3 set your
+      3 settings custom
+      3 service playoff
+      3 scroll right
+      3 scoring trade
+      3 scoring rosters
+      3 scoring postseason
+      3 scoring on
+      3 scoring no
+      3 scoring hr
+      3 scoring full
+      3 scoring big
+      3 scoring and
+      3 scored football
+      3 schedule best
+      3 save season
+      3 sale roto
+      3 salary cap
+      3 runs win
+      3 rules win
+      3 rules play
+      3 rules multi
+      3 rules live
+      3 rules grand
+      3 rules draft
+      3 rules create
+      3 rtsports rewards
+      3 round robin
+      3 rotisserie cat
+      3 rosters playoff
+      3 roster play
+      3 responsible gaming
+      3 required winner
+      3 required points
+      3 required fantasy
+      3 rebound assists
+      3 reason get
+      3 realtimefantasysports terms
+      3 quick withdrawals
+      3 quick get
+      3 quick fast
+      3 qb rb
+      3 put your
+      3 pts multi
+      3 projections daily
+      3 projections by
+      3 problem help
+      3 prizes button
+      3 prize prize
+      3 prize plus
+      3 prize in
+      3 popular fantasy
+      3 pool payouts
+      3 points receiving
+      3 play win
+      3 playoffs top
+      3 playoffs select
+      3 playoffs faab
+      3 players from
+      3 players design
+      3 places deep
+      3 picking more
+      3 pickem det
+      3 perfect dfs
+      3 payout gpps
+      3 paid any
+      3 pageinstagram com
+      3 own lineup
+      3 own draft
+      3 overtime fantasy
+      3 our customizable
+      3 or with
+      3 or slow
+      3 or nl
+      3 or less
+      3 on your
+      3 on player
+      3 only x
+      3 of use
+      3 of teams
+      3 of fun
+      3 of daily
+      3 nyy vs
+      3 not support
+      3 new tournaments
+      3 new contests
+      3 multiple sports
+      3 most home
+      3 more win
+      3 mobile apps
+      3 mobile app
+      3 manage fees
+      3 long money
+      3 logos enjoy
+      3 logo football
+      3 login signup
+      3 lineup your
+      3 lineups with
+      3 lineups trading
+      3 lineups top
+      3 lineups team
+      3 lineups and
+      3 lineup by
+      3 like fantasy
+      3 life championship
+      3 left baseball
+      3 league your
+      3 league with
+      3 league treasurer
+      3 leagues your
+      3 leagues that
+      3 leagues start
+      3 leagues play
+      3 leagues online
+      3 leagues monster
+      3 leagues basketball
+      3 leagues available
+      3 league from
+      3 league free
+      3 league directory
+      3 lad strikeouts
+      3 know has
+      3 just games
+      3 just for
+      3 it out
+      3 is available
+      3 in your
+      3 in the
+      3 in every
+      3 inc if
+      3 hr draft
+      3 home run
+      3 home of
+      3 home money
+      3 hold fantasy
+      3 help video
+      3 help password
+      3 help contact
+      3 head week
+      3 head s
+      3 head points
+      3 head play
+      3 have feel
+      3 happens support
+      3 guide or
+      3 grand slam
+      3 get your
+      3 games teams
+      3 game play
+      3 for see
+      3 for or
+      3 formats like
+      3 football leagues
+      3 football for
+      3 football faceoff
+      3 football cash
+      3 flex player
+      3 fast or
+      3 fantasy play
+      3 fantasy on
+      3 fantasy championship
+      3 entry projections
+      3 email points
+      3 dunk fantasy
+      3 drafts ultimate
+      3 draft style
+      3 draft no
+      3 drafting basketball
+      3 draft hour
+      3 draft day
+      3 draft and
+      3 discount starters
+      3 discord swag
+      3 dfs draft
+      3 deposit to
+      3 day dfs
+      3 custom leagues
+      3 customer leagues
+      3 contests or
+      3 contact our
+      3 com rtfsnewfacebook
+      3 computer real
+      3 complaints accessibility
+      3 competition play
+      3 com or
+      3 commissioner commissioner
+      3 commissioner best
+      3 com button
+      3 cle vs
+      3 choose two
+      3 check out
+      3 challenge in
+      3 challenge fantasy
+      3 category rotisserie
+      3 cash prizes
+      3 cash out
+      3 call smartphone
+      3 call gambler
+      3 called realtime
+      3 call an
+      3 build your
+      3 browser does
+      3 bracket tournament
+      3 bos points
+      3 blitz blitz
+      3 big league
+      3 basketball pickem
+      3 basketball leagues
+      3 baseball pickem
+      3 baseball draft
+      3 baseball championship
+      3 baseball baseball
+      3 ball commissioner
+      3 automatically no
+      3 automatically just
+      3 audible or
+      3 auction weekly
+      3 auction teams
+      3 auction live
+      3 a team
+      3 at dimes
+      3 app store
+      3 app easily
+      3 any questions
+      3 and play
+      3 and payouts
+      3 and lots
+      3 and live
+      3 and categories
+      3 and big
+      3 an answer
+      3 already playing
+      3 al only
+      3 agent live
+      3 a gambling
+      3 a check
+      3 account trusted
+      3 account sign
+      3 aav mock
+      2 your skills
+      2 your rules
+      2 your roster
       2 your operating
       2 your games
       2 your fantasy
-      2 your account
+      2 your entry
+      2 your challenge
+      2 your browser
+      2 your best
+      2 your app
+      2 you know
       2 you can
       2 you already
+      2 year and
+      2 yards baseball
       2 with your
+      2 with trading
       2 with subscriptions
+      2 withdrawals withdrawals
       2 with bundles
+      2 win your
+      2 win up
+      2 win today
+      2 win teams
+      2 wins total
+      2 winner take
+      2 win just
+      2 win home
       2 windows mac
       2 wiki the
       2 wiki is
       2 wiki creating
       2 we support
+      2 week starters
+      2 week qb
+      2 week bracket
+      2 week automatically
+      2 web or
       2 way to
+      2 way custom
       2 warhorn free
+      2 want set
+      2 want on
+      2 waivers triple
+      2 waivers leagues
       2 vtt sign
+      2 vs lad
+      2 vs bos
       2 virtual tabletop
       2 view my
       2 view cart
+      2 video tag
+      2 video help
       2 version browse
       2 users can
       2 user manual
       2 user license
+      2 use responsible
       2 user account
       2 us and
       2 usa llc
       2 up for
       2 unlock thousands
       2 unity get
+      2 ultimate draft
+      2 two to
+      2 twitter com
+      2 trusted since
+      2 treasurer start
+      2 trading leagues
+      2 to x
+      2 tournaments start
+      2 tournament new
       2 to run
+      2 to realtime
       2 top ttrpg
       2 to provide
       2 to prep
+      2 top prize
+      2 to players
       2 to play
+      2 top competition
+      2 to most
+      2 to home
+      2 to dynasty
+      2 to dimes
       2 to content
+      2 to contact
+      2 to big
       2 to anything
+      2 thrill of
       2 three easy
       2 thousands of
       2 the world
@@ -82,19 +627,32 @@
       2 the creations
       2 the cost
       2 the bundle
+      2 that put
       2 that has
       2 than ever
+      2 test there
+      2 terms of
+      2 te flex
+      2 team you
+      2 teams team
+      2 team for
       2 tabletop roleplaying
       2 system to
       2 sync view
       2 sync activate
+      2 swag help
+      2 support the
       2 support quick
       2 support feature
+      2 support agent
       2 suggestions view
       2 subscription the
       2 subscriptions contact
       2 subscription is
       2 subscribe now
+      2 style leagues
+      2 strikeouts dfs
+      2 store today
       2 store shop
       2 store save
       2 store fantasy
@@ -104,59 +662,154 @@
       2 steam account
       2 startplaying games
       2 start guide
+      2 start at
+      2 spots head
+      2 sports with
+      2 sports inc
+      2 sports for
+      2 sports and
       2 smiteworks art
+      2 smartphone mobile
+      2 slow draft
+      2 slam fantasy
+      2 slam dunk
+      2 six players
+      2 signup mobile
       2 sign up
       2 shop stormlight
       2 share content
       2 sets get
+      2 service with
       2 server help
       2 selling content
+      2 select any
+      2 see who
+      2 season long
+      2 scroll left
+      2 scoring we
+      2 scoring in
+      2 scoring choose
       2 save with
+      2 s and
+      2 sale pts
+      2 run showdown
+      2 rules our
+      2 rules no
+      2 rules just
       2 rulesets or
       2 rulesets login
+      2 rules commissioner
+      2 rules category
+      2 rules call
       2 rulebooks get
+      2 rtfsnewfacebook pageinstagram
       2 rpgmatch free
+      2 roto multi
+      2 rosters x
+      2 rosters from
       2 rolling now
+      2 robin schedule
+      2 right basketball
+      2 rewards league
       2 rewards from
       2 reserved end
+      2 required best
       2 requests install
       2 released for
       2 register new
+      2 register forgot
+      2 re called
+      2 rb wr
       2 range from
+      2 questions you
       2 publishers in
+      2 projections projections
+      2 projections choose
       2 products unlock
       2 product key
+      2 prize top
+      2 prizes strict
+      2 prizes get
+      2 prizes best
+      2 prize pool
       2 previously been
       2 powerful automation
+      2 postseason shootout
       2 portal where
+      2 popular leagues
+      2 points scored
+      2 points rebound
+      2 points playoffs
+      2 play your
+      2 play w
       2 play transition
+      2 play today
+      2 play rotisserie
+      2 play points
+      2 playoffs live
+      2 playoff commissioner
+      2 playoff challenge
+      2 playing overtime
       2 play in
+      2 play head
+      2 play happens
+      2 play fantasy
+      2 player stat
       2 players lfg
-      2 players and
+      2 players discord
       2 p jjlgrk
+      2 picks faab
+      2 pickem nyy
+      2 pickem leagues
+      2 pickem cle
+      2 pickem build
+      2 per team
       2 personalized suggestions
+      2 perfect fantasy
+      2 payouts with
+      2 payouts places
+      2 payments quick
       2 pathfinder remastered
+      2 password rtsports
+      2 password help
       2 password fantasy
       2 partners with
       2 paizo discounts
       2 paizo account
       2 paid rpgmatch
+      2 own logos
       2 own a
+      2 over settings
+      2 out via
+      2 out our
+      2 out live
+      2 our team
       2 our partners
+      2 our built
+      2 or teams
+      2 or team
       2 or subscribe
+      2 or someone
       2 or sell
       2 or register
+      2 or for
       2 or fgf
       2 or expand
+      2 or draft
       2 order history
       2 or create
+      2 or cash
+      2 or call
       2 on sale
+      2 only or
       2 one to
       2 of titles
+      2 of the
       2 officially licensed
       2 of custom
       2 ns html
       2 none of
+      2 nl only
       2 new user
       2 newsletter become
       2 new core
@@ -164,45 +817,83 @@
       2 need to
       2 my paizo
       2 my library
+      2 more or
       2 more immersive
       2 more convenient
+      2 monster player
+      2 moment the
       2 modules nd
+      2 mixed al
+      2 min receiving
+      2 may have
       2 manual fantasy
       2 manual and
+      2 made simple
       2 low monthly
       2 lounge free
+      2 lots of
       2 looking for
       2 logo my
       2 logo fantasy
       2 log into
+      2 loginsignup realtime
       2 login log
       2 log in
+      2 live x
+      2 live support
+      2 live drafts
       2 linux play
+      2 lineup quick
+      2 lineup automatically
+      2 limit of
+      2 like head
       2 license prior
       2 license if
       2 library store
       2 lfp warhorn
       2 lfg fg
+      2 less on
+      2 league starters
+      2 leagues mock
+      2 leagues customer
+      2 leagues computer
+      2 leagues check
+      2 leagues button
+      2 leagues best
+      2 leagues baseball
+      2 league play
+      2 league fantasy
       2 knowledge base
       2 key forums
       2 jump right
       2 it forge
+      2 is already
       2 is a
       2 into action
+      2 in to
       2 in their
       2 instructions user
       2 install instructions
       2 install choose
+      2 in salary
       2 in our
+      2 if you
       2 id gtm
       2 https www
+      2 hr and
+      2 hour draft
       2 host or
       2 home to
+      2 home runs
       2 history paizo
-      2 help you
+      2 high stakes
       2 help with
+      2 help is
+      2 head game
+      2 has a
       2 had a
       2 guides to
+      2 guide mock
       2 guide faq
       2 group fg
       2 grounds wiki
@@ -215,93 +906,195 @@
       2 grounds game
       2 grounds art
       2 ground s
-      2 go to
+      2 gpps choose
       2 googletagmanager com
       2 gm lfp
       2 get the
+      2 get paid
+      2 get live
+      2 get an
+      2 get a
       2 gaming lounge
+      2 gaming complaints
       2 game with
       2 games with
+      2 games to
       2 games paid
       2 games online
       2 games go
       2 game fantasy
       2 game day
       2 game calendar
+      2 gambling problem
+      2 gambler rtsports
       2 gain access
-      2 free to
+      2 fun win
+      2 full round
+      2 from the
+      2 from multiple
+      2 free this
       2 free startplaying
+      2 free dfs
+      2 free app
+      2 franchise fantasy
       2 for your
+      2 for you
       2 forums support
       2 forums looking
-      2 for the
+      2 for save
       2 for group
-      2 forgot password
       2 forge new
       2 forge fantasy
       2 forge community
       2 for free
-      2 for a
+      2 football projections
+      2 football pickem
+      2 football league
+      2 football football
+      2 football draft
+      2 finishers win
       2 find a
       2 fg gaming
       2 fg game
       2 fg forums
       2 fg forge
+      2 fees and
+      2 feel free
       2 feature requests
       2 feature deep
+      2 fast and
       2 faq knowledge
+      2 fantasy points
+      2 fantasy life
+      2 faceoff play
       2 explore games
+      2 experience the
       2 experience for
       2 expand your
       2 exclusive dice
+      2 exciting formats
+      2 every week
+      2 every league
+      2 every day
+      2 entry discount
+      2 enjoy real
+      2 email us
+      2 email best
+      2 easily manage
       2 each game
+      2 draft your
+      2 drafting dfs
+      2 drafting baseball
+      2 draft hr
+      2 draft head
+      2 draft a
       2 download get
+      2 does not
       2 dives get
       2 discover the
       2 discounts steam
       2 discord server
       2 discord players
       2 discord gm
+      2 directory top
+      2 direct deposit
+      2 det vs
+      2 design your
+      2 deep any
       2 d d
+      2 day strategy
       2 day fg
+      2 custom scoring
+      2 customizable commissioner
       2 creators can
       2 creating selling
+      2 create your
       2 create an
       2 cost you
       2 copyright smiteworks
+      2 control your
+      2 contests waiting
       2 content sign
       2 content personalized
       2 content fantasy
+      2 contact us
       2 contact support
+      2 com realtimefantasysports
       2 completely free
       2 community developer
+      2 commissioner rtsports
+      2 commissioner leagues
+      2 com logo
       2 coming soon
       2 claim epic
+      2 check fast
+      2 championship teams
+      2 championship login
+      2 categories like
+      2 cat dynasty
       2 catalog of
+      2 cash plus
+      2 cash in
       2 cart order
+      2 cap contests
+      2 call us
       2 calendar download
+      2 by sportsdataio
+      2 by picking
       2 by completing
+      2 button home
       2 bundles art
-      2 built in
       2 browse the
       2 browse bundles
       2 browse available
+      2 blitz just
+      2 blitz draft
+      2 big payout
+      2 big cash
+      2 best team
       2 become an
+      2 battle it
+      2 basketball draft
+      2 basketball basketball
       2 base discord
+      2 baseball leagues
+      2 baseball best
+      2 bank account
+      2 ball with
       2 available rulesets
+      2 available play
+      2 available call
       2 a unique
+      2 audible fantasy
+      2 auction time
+      2 at support
       2 as well
       2 as they
+      2 assists strokes
       2 as all
       2 articles that
       2 are released
+      2 are new
       2 are easier
+      2 a reason
       2 a product
+      2 apps in
+      2 apps fantasy
       2 app is
+      2 app fantasy
+      2 answer any
+      2 and your
       2 and use
+      2 and quick
+      2 and more
+      2 and lineups
+      2 and hold
+      2 and games
+      2 an audible
       2 an affiliate
       2 all rights
       2 all of
+      2 all grand
       2 agreement privacy
       2 a great
       2 a game
@@ -311,6 +1104,8 @@
       2 account forgot
       2 account download
       2 access loads
+      2 accessibility sign
+      2 aav draft
+      1 policy rtsports
       1 policy iframe
-      1 policy 
       1  iframe

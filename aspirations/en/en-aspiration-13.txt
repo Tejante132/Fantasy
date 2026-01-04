@@ -28,3 +28,53 @@ Reference&#32;&#35;18&#46;23ef1602&#46;1767477869&#46;1b2f8655
 <P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;23ef1602&#46;1767477869&#46;1b2f8655</P>
 </BODY>
 </HTML>
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;draftkings&#46;com&#47;fantasy&#45;football" on this server.<P>
+Reference&#32;&#35;18&#46;23ef1602&#46;1767563825&#46;1c9a4fc2
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;23ef1602&#46;1767563825&#46;1c9a4fc2</P>
+</BODY>
+</HTML>
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;draftkings&#46;com&#47;fantasy&#45;football" on this server.<P>
+Reference&#32;&#35;18&#46;23ef1602&#46;1767564258&#46;1c9cbb45
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;23ef1602&#46;1767564258&#46;1c9cbb45</P>
+</BODY>
+</HTML>
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;draftkings&#46;com&#47;fantasy&#45;football" on this server.<P>
+Reference&#32;&#35;18&#46;23ef1602&#46;1767564539&#46;1c9e69cf
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;23ef1602&#46;1767564539&#46;1c9e69cf</P>
+</BODY>
+</HTML>
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;draftkings&#46;com&#47;fantasy&#45;football" on this server.<P>
+Reference&#32;&#35;18&#46;1aef1602&#46;1767565047&#46;dafe4ef
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;1aef1602&#46;1767565047&#46;dafe4ef</P>
+</BODY>
+</HTML>
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;draftkings&#46;com&#47;fantasy&#45;football" on this server.<P>
+Reference&#32;&#35;18&#46;1aef1602&#46;1767565295&#46;db05b50
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;1aef1602&#46;1767565295&#46;db05b50</P>
+</BODY>
+</HTML>

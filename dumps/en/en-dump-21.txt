@@ -2212,3 +2212,3693 @@ The Fey Man
      * {title}
 
    (BUTTON) Manage consent
+   #oEmbed (JSON) oEmbed (XML) JSON
+
+   [jamestkelly-black.svg]
+
+   (BUTTON)
+     * Home
+     * (BUTTON) What do you want to read? (BUTTON)
+       Fantasy Novels
+          + [expanded-01-Realm_Rift_Saga-eCover-scaled.jpg] The Realm Rift
+            Saga
+          + [The-Fey-Man-web-cover.jpg] The Fey Man
+          + [unquiet-sword-scaled.png] The Unquiet Sword
+          + [northern-wastes-scaled.png] The Northern Wastes
+       Other Reads
+          + [calling-the-makers-scaled.png] Calling the Makers
+          + [branwell-bronte-scaled.png] The Life and Work of
+            Branwell Brontë
+     * (BUTTON) Blog (BUTTON)
+          + Fantasy blogs
+          + Dreams of Dune
+          + Branwell Brontë articles
+          + Commentary tracks
+     * Newsletter
+     * About Me
+
+25 of the Best Fantasy Books You Should Read Next
+
+   [25bestfantasybooks.jpg]
+
+   I know what it’s like: sometimes you finish a book and you just don’t
+   know what to read next. That’s why I’ve put this list together of 25 of
+   the best fantasy books (in no particular order) that should be at the
+   top of your to-read list!
+
+   And if you’re in the mood for science fiction instead, I’ve got a list
+   for you too.
+
+Assassin’s Apprentice
+
+   Any list of the best fantasy books has to start with Assassin’s
+   Apprentice! The beginning of the Farseer trilogy, and also the
+   beginning of a nine book series that tells the life of Fitz, bastard
+   son of a disgraced prince, and his remarkable, hidden role in history.
+
+   Hobb’s Fitz books are very much a coming of age story, so if you’re a
+   fan of tight action and lean prose, pass on this one. But if you like a
+   fantasy book that enjoys its time with the world and it’s characters,
+   take a look at Assassin’s Apprentice.
+
+   Fitz is a great viewpoint character, flawed but full of good
+   intentions, and he’s supported by a huge range of varied characters
+   that are easy to love, and opposed by villains that are easy to hate.
+
+   Although this is the beginning of a story that will take nine books to
+   tell, don’t worry about getting sucked into a nine book series; the
+   first trilogy stands alone. In fact, I think it’s the best of the
+   three, although the second trilogy is very good too!
+
+A Sorcerer Slain
+
+   If you liked the sound of a murder mystery in a fantasy novel, but
+   didn’t really want a fantasy-Sherlock Holmes, then A Sorcerer Slain is
+   for you. It’s funny, action-packed, and clever. And perhaps the
+   greatest praise I can heap upon this book is that the lead character
+   and investigator, Lowmar Dashiel, thinks like a real person.
+
+   The story is set in the city of Andruan, where the Sorcerer Supreme has
+   been murdered (he would be the sorcerer slain). This act threatens to
+   topple the king and spark a civil war. With so many interested parties,
+   no-one can be above suspicion. But I’ve seen too many crime stories
+   where someone always is; there’s always someone the hero never suspects
+   for a moment, and it’s always them that did it. Always. But Dashiel
+   suspects nearly everyone at one point or another and I wanted to
+   applaud every time.
+
+   This smart writing extends to the genre blending that takes place in
+   this novel. When I first heard that Sivers was writing fantasy crime,
+   my first thought was that those genres were unusual bedfellows. But A
+   Sorcerer Slain is proof they make an excellent match; it calls no
+   attention to itself, borrowing tropes from both fantasy and crime as it
+   wills. At no point do these genres clash, and most of the time they’re
+   perfectly balanced.
+
+   In fact, the only thing that lets down this novel is when those genres
+   become unbalanced, and it embraces the fantasy genre too strongly. For
+   instance, there’s a great battle which on paper sounds great for a
+   fantasy novel. But this book is smaller, more intimate, and the battle
+   felt out of place to me. Once things had got back to Dashiel’s smaller
+   world, things felt more natural.
+
+   So if epic fantasy is the only kind of fantasy you’ll entertain, give
+   this one a pass. But if you’re in the mood for something a little
+   different, this crime fantasy might just scratch that itch.
+
+Children of Blood and Bone
+
+   If you’re tired of medieval-European fantasy, this is an excellent
+   choice for your next read. Adeyemi has written a story of persecution,
+   magic, and raw emotion that will catch you by surprise at times. This
+   might be a YA novel, but it doesn’t pull any punches; alongside the
+   smiles and the romance, there’s a lot of death, violence, and heartache
+   too.
+
+   Children of Blood and Bone tells the tale of Zélie Adebola, whose
+   mother was killed when tyrannical King Saran ordered the deaths of all
+   magic-wielding magi. Saran also severed the magi’s connection with the
+   gods, and now magic is no more. After a chance encounter, Zélie leads a
+   quest to bring magic back with the help of her brother, Tzain, and
+   Saran’s daughter, Princess Amari. Standing in their way is Amari’s
+   older brother, Prince Inan, but whether he is friend or foe is
+   uncertain, and there is a strange connection between Inan and Zélie
+   that might be more than it seems.
+
+   Adeyemi’s novel moves at a pace, hammering through the story There’s a
+   great sense of world, too. The Kingdom of Orisha feels huge, but
+   there’s also a sense that there’s a big wide world beyond its borders.
+   All of the characters have depth, too, and are full of the conflicts
+   and uncertainties that make a character human. So much of the story
+   hinges on these conflicting desires that I honestly wasn’t sure which
+   way the story was going to go, which is always a good thing!
+
+   Filled with character-driven, action-filled fantasy that differs from
+   the usual medieval-European fare, and unexpectedly moving at
+   times, Children of Blood and Bone really is one of the best fantasy
+   books out there.
+
+   Or, give it a listen: I got a copy of the audiobook for Children of
+   Blood and Bone, and I can’t recommend enough experiencing the book this
+   way. It’s beautifully narrated by Bahni Turpi, whose work is reason
+   enough to pick up the audiobook instead!
+
+The Lies of Locke Lamora
+
+   I always think of The Lies of Locke Lamora as Ocean’s 11 meets epic
+   fantasy. It’s not a perfect analogy; for instance, Scott Lynch’s novel
+   doesn’t feature Don Cheadle gamely trying to squeeze as much Cockney
+   rhyming slang into his dialogue as he can. But if you love a good heist
+   but you like fantasy worlds too, this is the book for you.
+
+   Locke Lamora is a member of the Gentlemen Bastards, a gang of thieves
+   working under the leadership of Father Chains. They all find themselves
+   wrapped up in the mysterious machinations of the Gray King, and the
+   story is filled with twists, double crosses, and desperate races to
+   save the day, not all of which are entirely successful.
+
+   Locke is a witty, smooth-talking character, so don’t come to this novel
+   for a gritty time. Yes, there’s violence, but there’s also jokes and
+   hijinks too. The body count gets pretty high, and there’s even a bit of
+   torture thrown in for good measure. But the general tone is less Game
+   of Thrones and more, well, Ocean’s Eleven. It’s a good time, and a
+   classic for a reason.
+
+Ship of Magic
+
+   Fresh off the back of the Farseer trilogy, Hobb wrote a new trilogy set
+   in the same world, but with a very different setting.
+
+   Where the Farseer trilogy dealt with magic and dragons, this new
+   trilogy deals Liveships, ships made from wood imbued with magic that
+   makes the ship come alive. These ships absorb the personalities of the
+   people who have died on deck, which is a fascinating and slightly
+   disturbing idea!
+
+   If you read Assassin’s Apprentice and you weren’t a fan of the main
+   character, Fitz, then give Ship of Magic a chance. It’s full of very
+   different characters: a woman trying to become captain of a ship; a boy
+   taken from his life training to be a priest; a pirate who would be
+   king. Because it’s a book about ships; of course there are pirates!
+
+   Hobb’s writing is as strong as ever, and there are some interesting,
+   subtle links to her Fitz books for the eagle-eyed, but this trilogy
+   stands apart from her other work.
+
+Redwall
+
+   Brian Jacques’ Redwall is the first in an epic fantasy series for
+   children starring English woodland animals. It’s quaint and it’s sweet
+   and it’s fun. It’s a fantastic introduction to fantasy for children or,
+   if you’re an adult, it’s a great read between thick fantasy tomes.
+
+   The eponymous Redwall is an abbey, populated by mice, which faces the
+   threat of Cluny the Scourge, the appropriately named rat leader of an
+   army curiously hell-bent on conquering the abbey. The hero, Mathias, is
+   a young mouse who is always being told by his elders to be calm and
+   mindful, but lusts for adventure and excitement. Naturally, it falls to
+   him to somehow find a way to defend Redwall against the oncoming
+   threat.
+
+   There’s legendary warriors, an ancient sword, and riddles that will
+   puzzle and please young minds (although quite how the logic works will
+   puzzle older ones). Redwall should definitely be on your reading list,
+   and is undoubtedly one of the best fantasy books around!
+
+The Hobbit
+
+   The Lord of the Rings gets all the hype and the glory, but I think The
+   Hobbit is not just under-appreciated, but even (dare I say it) more
+   deserving of a place on a list of the best fantasy books than it’s
+   younger, bigger brother.
+
+   Tolkien’s first major work benefits from being a sleeker, more focused
+   thing. It’s not a big, sprawling epic, but an adventure story. A
+   treasure hunt, in fact, with a dragon to vanquish and humorous events
+   and coincidences along the way. The narrator has a knowing tone,
+   sharing asides and commentary with the reader that are intended to
+   delight and surprise. I’ve always had a soft spot for the invention of
+   golf in Middle-Earth; this is accredited to a Took’s fortuitous
+   decapitation of a goblin.
+
+   The origin of golf sums up The Hobbit rather nicely, in fact. This is a
+   fantasy adventure that isn’t meant to be taken too seriously. That
+   doesn’t mean that the stakes aren’t high, or that there aren’t
+   thrilling scenes and perilous moments. But this is fantasy without the
+   grit and grime, so it’s perfect for when you need a spot of levity and
+   adventure in your reading list.
+
+Grendel
+
+   This is a bit of a different one. If you like your fantasy full of
+   adventure, give this one a miss. But if you’re in the mood for
+   something contemplative, take a look at John C Gardner’s exploration of
+   the monster Grendel.
+
+   That’s somewhat misleading, in a sense, because there are times when
+   this book feels less like an exploration of a character, and more that
+   the character is simply a vehicle for an exploration of philosophy. In
+   fact, there were times when reading Grendel that I wondered if Gardner
+   was simply using the tropes of fantasy to write a philosophical
+   treatise. Which feels unfair, because even in those moments I found
+   myself enjoying the story.
+
+   But that, in a sense, is why I always recommend Grendel, because it’s
+   by no definition a standard fantasy novel. I won’t lie to you: once
+   you’ve read it, you might not want to read something like it again. But
+   fantasy is such a huge, wide genre that can encompass so many different
+   stories. Grendel is a contemplative fantasy, and it’s a masterclass in
+   taking what was a fairly nondescript monster (from Beowulf, if you
+   weren’t sure), and turning it into something you can not only empathise
+   with, but end up rooting for.
+
+The Prince of Thorns
+
+   You might have heard this before: dispossessed prince seeks to reclaim
+   his throne. But it was something of as surprise to find that this
+   prince was a bit of a monster.
+
+   Lawrence certainly isn’t the first person to write an anti-hero, but I
+   was surprised at how much I liked Jorg, even as he did some pretty
+   unpleasant things. As is often the way, the anti-hero is saved by
+   offering scathing yet honest opinions that no-one else will voice, as
+   well as a minor and earnest romantic subplot. Sometimes, Jorg even
+   commits decent acts, although almost by accident.
+
+   I was also somewhat surprised to discover that this wasn’t a medieval
+   fantasy, but instead a fantasy set in a far-off, post-apocalyptic
+   world. Lawrence does a very good job of weaving in hints of this world
+   without being heavy-handed, which I appreciated; all too often, such a
+   setting is handled with the subtlety of a brick to the face.
+
+   The only downside to The Prince of Thorns is that the ending is almost
+   too neat for the first in a trilogy; the force driving you to read the
+   next book isn’t really the plot, more just your enjoyment of reading
+   this one. That’s hardly a terrible sin, but what can I say? I’m a
+   sucker for a cliffhanger.
+
+Spiderlight
+
+   My relationship with Dungeons & Dragons was brief. In fact, I played a
+   Dragon Quest once, and Warhammer Quest once. That’s it. But it was
+   enough to familiarise me with the tropes, and so I took great joy in
+   watching Adrian Tchaikovsky turn those tropes into a fun, engaging,
+   thoughtful novel.
+
+   The setup for Spiderlight is simple enough: the good guys are stalwart
+   warriors of hope and faith, the bad guys are ugly and monstrous.
+   Tchaikovsky turns that on its head pretty much straightaway. In fact,
+   the idea that good guys aren’t always good and bad guys aren’t always
+   bad runs through the entire novel.
+
+   Unfortunately, that means that twists and surprises aren’t overly
+   surprising. What was surprising was that I didn’t mind so much.
+   Considering that much of Spiderlight feels like it’s based on D&D
+   tropes, I was actually beginning to enjoy reading about the characters.
+   This is a stand-alone novel, so there isn’t much room for the stakes to
+   get to the usual dramatic heights of epic fantasy, but they felt high
+   enough for an enjoyable read.
+
+   And, while Spiderlight might not revolutionise the fantasy genre, I was
+   too busy empathising with a creepy, giant spider to really notice.
+
+Warbreaker
+
+   To say that Brandon Sanderson is prolific is an understatement. While
+   that’s great for his fans, sometimes a huge body of work can be
+   somewhat intimidating. Where do you begin? Once you start, are you
+   committing yourself to read dozens of books to get the full picture?
+   What if you just want a taster to see if you like the author’s work
+   before you dive in? Warbreaker is the taster you’ve been looking for.
+
+   The novel is fairly standard fantasy fare, with kingdoms in peril and
+   such. I did, however, appreciate that the magic system creates what are
+   essentially walking gods. One of them was even my favourite character;
+   Lightsong is somewhat jaded and disconnected from his life of luxury,
+   so he’s in the best position to make jokes and wry observations.
+   Unfortunately, Lightsong’s story takes a while to get going, which
+   creates an odd dissonance between his laconic existence and the more
+   traditional fantasty antics of the other characters.
+
+   But with a magic sword, a king to overthrow, and a few surprising
+   twists and turns, this is definitely worth a read.
+
+The Looking Glass Wars
+
+   What is it about Alice in Wonderland that has led so many writers to
+   reinterpret its story and themes? Whatever it is, Frank Beddor
+   certainly has a fresh take on things.
+
+   Take Alice in Wonderland and put it in the epic fantasy blender.
+   There’s a lost princess whose throne has been usurped, a kingdom under
+   a tyrant’s rule, and an assassin; yes, the Mad Hatter has become the
+   Hatter Madigan, and he’s a badass assassin now.
+
+   There are certainly times where the story veers into epic fantasy
+   cliches, but it’s almost a pleasure to see how Beddor twists the
+   classic tale to fit the cliches. Unfortunately, it looks like this book
+   is out of print, so you might have to hunt it down. I recommend you do.
+   I had a lot of fun reading it and, if you enjoy epic fantasy and
+   alternative takes on Alice, you will too.
+
+The Broken Sword
+
+   Published the same year as The Fellowship of the Ring (and therefore
+   uninfluenced by Tolkien), The Broken Sword is a novel that has all the
+   matter-of-fact grimness of Norse legends (and some of the characters
+   and settings, too), whilst telling an epic fantasy tale in much less
+   space than Tolkien ever managed it.
+
+   The book tells the story of the son of Orm the Strong, Scafloc.
+   Unfortunately, elves steal that son and replace it with a changeling,
+   Valgard (who is half-elf and half-troll). Orm unwittingly raises
+   Valgard, the elves raise Scafloc. There’s wars, the eponymous broken
+   sword, and betrayal. There’s also incest, murder, and the general sense
+   of inevitable doom that comes from a culture whose philosophy ends with
+   Ragnarok in which everyone dies (well, almost everyone).
+
+   This is fantasy that isn’t inspired by Christian values or even
+   traditional good vs evil narratives. If you’re the sort of person who
+   enjoys the Norse mythology, this is a fantasy novel for you. And if
+   you’re looking for something a little less spiritually uplifting than
+   traditional fantasy, you should give this a go too.
+
+Mort
+
+   If you ask me, Mort is the perfect Discworld book. It’s early enough in
+   the series that it serves as a great starting point, but it’s late
+   enough that Pratchett has got a grip on his creation. It tells the
+   story of Mort, a young boy who somehow ends up the apprentice of Death.
+   Yes, the skeletal chap who reaps souls and TALKS LIKE THIS. It’s funny,
+   it’s sweet, and it’s full of clever observations of life that make you
+   think a little too much, and laugh plenty.
+
+   But the humour isn’t what makes this a great fantasy novel. It’s
+   Pratchett’s inventiveness that does that. He likes to indulge in all
+   the tropes of fantasy, and play and lampoon them in clever ways. For
+   instance, magical rites are performed with plenty of pomp and ceremony,
+   but Pratchett reveals that this is more to do with pride and
+   professional prestige; most magic can be performed with very little
+   indeed. I also liked the way Pratchett incorporated the idea of
+   morphogenetics, ludicrous in real life but fascinating “science” for a
+   fantasy novel. And, of course, the way Ankh-Morpork reflects every
+   major city is always insightful and hilarious.
+
+   But the truth is that I like this book so much because of Death. Of
+   course, Death has become such a huge character that we’re no longer
+   surprised when the embodiment of death isn’t grim and murderous. But
+   it’s still a pleasure to see Death so likeable, so hapless, and even
+   funny. He isn’t a killer at all. He’s simply performing an existential
+   duty. He’s doing the job we gave him, which he’s very good at, and
+   trying to understand people, which he isn’t good at. Which brings us
+   back around to the comedy again, as Death tries to understand people,
+   and people try to explain things that don’t make much sense when you
+   think about them too long.
+
+   If you’ve never read a Discworld novel, this is the one to start with.
+   If you’ve read Discworld, but haven’t read this one, do so. And if you
+   don’t think Discworld is your cup of tea, do yourself a favour and give
+   this one a try.
+
+A Game of Thrones
+
+   If you’re someone who loves a grounded fantasy full of detail and lore
+   that also feels like it could actually happen, the first book of the
+   Song of Ice and Fire series is for you. You can understand why it takes
+   George R R Martin so long to write one of these, because they’re packed
+   to the gills with story and world.
+
+   But be warned: there are no happy endings in Westeros.
+
+   One of the reasons A Game of Thrones has attracted so much attention is
+   that it is a fantasy novel like no other. It is brutal, it is coarse,
+   it is harsh and it has no remorse. Martin doesn’t tip-toe around the
+   truth of the story. Characters have sex, get hurt, get maimed, and die.
+   Love that character? They’re going to die. Hate that character? Well,
+   they’ll probably die too; everybody does. In this way the novel is very
+   fair: nobody gets what they want. Especially the reader.
+
+   Speaking of endings, you might be put off reading this because the
+   ending of the TV series was somewhat controversial. Put that out of
+   your mind; the novels are taking their own path, and even if the
+   endings are similar, Martin’s work will make much more sense. So if
+   you’re tired of books with happy endings, and you’re looking for
+   something gritty and grounded, you can’t go wrong with A Game of
+   Thrones.
+
+American Gods
+
+   If you’ve ever read Neil Gaiman, you probably know what to expect. If
+   you haven’t, this is a good place to start.
+
+   The basic premise is that gods are real. All of them. And they walk
+   among us. Anansi, Anubis, Bilquis, Ēostre, Odin. You might not have
+   heard of them, because they’re the ancient gods of all of the various
+   cultures that came to America countless generations ago. As time went
+   on, people stopped believing in them, and they became less powerful.
+   But still there.
+
+   American Gods tells the tale of Shadow Moon, a man who leaves prison
+   and is drawn into this world of ancient gods by the enigmatic Mr
+   Wednesday. The novel is, effectively, a road trip across America,
+   meeting gods both old and new, while Shadow tries to figure out what’s
+   going on.
+
+   Because new gods rose to take the old gods’ place. Gods of technology
+   and television, the Internet and the stock exchange. It’s a fun
+   concept, and it’s always interesting to turn a page and see which
+   entity Gaiman decides we’ve decided to immortalise as a god.
+
+   Shadow is the stereotypical clueless narrator, serving as a way for the
+   other characters to explain what’s going on, but they don’t often
+   bother. This means there’s a huge mystery beneath the surface, and
+   while every mystery can be sometimes infuriating (why won’t someone
+   just say what’s going on?), the payoff is totally worth it.
+
+   But watch out for the middle section; it’s a bit slow, and it puts
+   people off, but stick with it: it’s totally worth it.
+
+The Darkness That Comes Before
+
+   It only occurred to me when writing this that The Darkness That Comes
+   Before reminds me of A Game of Thrones, only with less swearing and
+   sex. But it has that same density to it; it’s not an easy read, but
+   it’s stuffed with lore and story.
+
+   Like A Game of Thrones, true heroes are few and far between; most of
+   the characters are instead varying degrees of reprehensible. The
+   Darkness That Comes Before also tells a complicated story of political
+   scheming and a potentially supernatural threat. However I feel that
+   Bakker’s novel is far more labyrinthine than Martin’s. The Darkness
+   That Comes Before defies simple explanation; try to find a plot summary
+   and you’ll reach the end more confused than when you started reading
+   it.
+
+   But don’t let that put you off. This is certainly no straightforward
+   adventure fantasy, and it’s a book that requires all of your attention
+   to keep it straight in your mind. But I have never read a fantasy novel
+   that felt so real and even as it threatens to confuse you with its
+   complexity at every step, it develops in you a kind of Stockholm
+   Syndrome. Even as the novel abuses your mind, you can’t help but start
+   to admire it. And soon, you’re recommending that other people read it.
+
+Rivers of London
+
+   I went through months of people telling me that this book reminded me
+   of them before I read it and realised they’re absolutely right; Rivers
+   of London reads like a book I narrated. It’s sarcastic and a little
+   cynical with some dark humour mixed in. In fact, it’s hard to shake the
+   feeling that this is the sort of book I should be writing…
+
+   Rivers of London is an urban fantasy, telling the story of regular
+   policeman Peter Grant who stumbles across the existence of a secret
+   branch of the police that deals with the paranormal. A fairly standard
+   urban fantasy plot so far. But the way Aaronovitch builds his world has
+   a surprisingly Neil Gaiman-esque vibe to it; I saw surprising because
+   of the humour that’s laced throughout the book. Seriously, if you ever
+   needed a book called A Practical Guide to Sarcasm, this book would be a
+   contender.
+
+   But I happen to think sarcasm is funny.
+
+   Naturally, with Grant being a policeman, there’s a mystery to solve. To
+   be honest, I found myself less bothered by the mystery than perhaps I
+   should have been. That’s because I was enjoying the sheer pleasure of
+   the writing, the banter, and poor Grant’s cluelessness (yes, this is a
+   new world to him, but it seems pretty obvious that, for example, pale
+   people who don’t go outside might be more than they seem). Ordinarily,
+   such cluelessness would annoy me, but Grant is so likeable that it’s
+   hard to be irritated with him. Although it does make you wonder about
+   his detective skills.
+
+   Still, the hype around this series is deserved. Even if you’re not a
+   big fan of sarcasm, give it a read: I think you’ll agree it belongs on
+   a list of the best fantasy books.
+
+Truckers
+
+   Yes, Pratchett is on this list twice, but considering how many books
+   the man wrote, it’s amazing that Terry Pratchett doesn’t dominate the
+   entire thing! And, quite frankly, Truckers deserves a spot because it’s
+   great and I love it.
+
+   I actually first encountered Truckers via the kids TV series (which was
+   a great adaptation, and you should watch it), but quickly discovered
+   the book is far superior. The idea is simple; Masklin’s tribe of tiny
+   nomes find their way into a (soon to be demolished) department store
+   where the nomes don’t believe in the outside world.
+
+   This leads to a great deal of humorous misunderstandings about rain and
+   wind which will delight a child, and there’s plenty of Pratchett’s
+   trademark wit that makes the books fun for adults too.
+
+   Being for kids, Truckers is a quick and easy read, so it’s perfect for
+   when you haven’t got much time for reading. It also means there’s no
+   excuse for not reading, so get to it!
+
+A Monster Calls
+
+   This book is so good I had to stop reading it because I was about to
+   cry on a train.
+
+   The basic premise is that young boy Conor is watching his mother
+   succumb to cancer. He’s isolated and scared and lonely. And one night,
+   a gigantic monster comes to his bedroom. It promises to tell him three
+   true stories, and then Conor must tell a story. If the story he tells
+   is not true, the monster will destroy Conor.
+
+   What follows is a story that moved me very deeply. A Monster Calls
+   offers no easy answers, no saccharine solutions. It paints the world as
+   tricky and complicated. Conor’s pain and isolation is handled
+   perfectly; Ness never fumbles for your heartstrings. And the monster’s
+   stories are delightfully old, filled with the dark injustices and
+   terrible vengeances of ancient tales.
+
+   It’s hard to find a criticism of this book, to be honest. I must
+   strongly recommend you buy the illustrated edition, though; there are
+   few pages that aren’t touched by Jim Kay’s dark and energetic work, but
+   it supports the text rather than overshadowing it.
+
+   Oh, and try not to read it in public places. Unless you’re okay with
+   crying in public.
+
+The Raven Tower
+
+   Ann Leckie is a phenomenal writer, and I try to hold off from buying
+   her books because I devour them in a matter of days, leaving me left to
+   wait until the next one is released. The Raven Tower is her first
+   fantasy book and, while I have to admit it wasn’t as great as her
+   Imperial Radch trilogy, it’s pretty great.
+
+   One disclaimer, though: it’s written in the second person. Like
+   this:And you turned fully to stare at your hand against the wall, and
+   then down at your feet, feeling that constant, faint, grinding
+   vibration traveling through the yellowish stones. Could you hear me,
+   Eolo? Can you hear me now? I’m talking to you.
+
+   The Raven Tower is narrated by a god. Yep, an honest-to-god god called
+   Strength and Patience of the Hill. But it’s a tale told to another
+   character, Eolo. Both serve as the main characters, but interestingly
+   we only ever get Strength and Patience of the Hill’s impressions of
+   Eolo. The god guesses at the thoughts and motivations, rather than
+   being given to the reader by the character or by an omniscient
+   narrator. That makes this book interesting, but it also puts a distance
+   between the reader and one of the main characters.
+
+   This distance is the biggest flaw of the book. When I first began
+   writing, nearly every writer handing out advice told me not to try to
+   write in the second person. This is good advice. It’s fiendishly
+   difficult to pull off. The only reason that Leckie manages it is
+   because she’s a damn good writer.
+
+   The world she’s created is fascinating. The mystery she weaves is
+   enthralling. You might guess the answer to the mystery, but you
+   probably won’t guess how that can be the answer until Leckie tells you.
+
+   One other warning: this is not a book if you want sword and sorcery and
+   adventure. In fact, the book ends where many other authors would launch
+   into the big meaty action scenes! This is a different kind of fantasy
+   novel. It’s not without action. But it’s more cerebral. If you’re
+   looking for a change of pace that’s brilliantly written, you can’t go
+   wrong with The Raven Tower.
+
+The Lion, The Witch and The Wardrobe
+
+   It’s a classic for a reason, and you’ll never look at Turkish Delight
+   the same way again.
+
+   What child hasn’t daydreamed about a secret doorway that takes them to
+   a magical world? Even better, a magical world where they’re royalty.
+   Such daydreams take on an almost unbearable pathos when Lewis makes
+   them real for four kids during wartime Britain, but let’s be honest:
+   we’re here for Narnia, not the Second World War. And Narnia doesn’t
+   disappoint.
+
+   Lewis was a contemporary of Tolkien, and it shows: you won’t get gritty
+   or grounded fantasy, but something far more allegorical. In fact, the
+   Aslan/Jesus parallels are almost a little too on the nose at times, but
+   you’ll let Lewis off the hook because Aslan is great. And if he’s a
+   little too perfect, the White Witch is a little too frightening really.
+
+   Seriously, I’ve never been able to give Turkish Delight a fair shake
+   because of this book. But then, Turkish Delight is gross. Quite why
+   it’s such a temptation to these kids is beyond me…
+
+The Armoured Saint
+
+   The title and the cover art for this one had me hooked straightaway.
+   Perhaps it’s because it reminded me of the Sisters of Battle, a
+   power-armoured ecclesiastic army in Warhammer 40,000, a game I used to
+   play as a teenager. So I was looking forward to seeing this armoured
+   saint in action.
+
+   But, when it comes to action, The Armoured Saint is slow to get moving.
+   There’s action, sure, but this novel really feels like it’s setting up
+   the rest of the series. It could serve as a prequel, even. And the
+   foreshadowing is a little too obvious. As soon as the suit of armour
+   appears on the page, you know what’s going to happen. Except it doesn’t
+   happen for a long time. This, to be honest, was frustrating.
+
+   So why is it on this list? Because when the action finally does kick
+   off, it’s worth the wait. There might have been too much build-up, but
+   I still finished this novel with a sense of satisfaction and a desire
+   to read the next in the series.
+
+   (Hot tip: I actually listened to the audiobook version, but the
+   narration is dreadfully slow: this is definitely one to listen to at
+   1.25x speed!)
+
+Talion: Revenant
+
+   Michael A Stackpole writes a fantastic line in late-80s fantasy
+   fiction. It might seem quaint by comparison with the grittier fare that
+   is modern fantasy, but it’s hard not to enjoy the way Stackpole romps
+   through the story of Nolan, a young man training to be a Justice.
+
+   Let’s be clear that this novel is not a weighty tome; it’s a fun,
+   straightforward affair, and enjoyable for it. The story is split
+   between the trials of Nolan’s training and the present day, in which he
+   is tasked with protecting the man who killed his family. Both of these
+   throw challenges into Nolan’s path, but they’re nearly always dealt
+   with quickly. Even the huge conflict of protecting a man he blames for
+   slaughtering his family is quite easily handled. But that’s not really
+   a huge criticism.
+
+   That’s because Stackpole writes an uncomplicated novel; challenges and
+   trials are action set pieces, overcome so the action can continue. And
+   there’s plenty of action. Goblins and sorcerers, wood elves and the
+   undead. This is a galloping blockbuster of a novel, and if it doesn’t
+   require a lot of thought, it’s a lot of fun to read. Is that enough to
+   warrant a place on a list of the best fantasy books? I think so. Not
+   every fantasy book has to be a sprawling epic, a mighty trilogy, or an
+   overwrought drama. Sometimes it’s just a fun piece of escapism, and
+   Talion: Revenant is certainly that.
+
+   And a fun read seems like a good place to end this list. But I’ll be
+   updating it as I discover new and interesting reads! If you come across
+   a book you think deserves to be on this list, let me know!
+
+The Fey Man
+
+   Don’t think I’m being egotistical and trying to include my own novel in
+   a list of the best fantasy books! But it would be madness not to at
+   least mention The Fey Man. Obviously I’m biased, but I think you’ll
+   like it!
+
+   It’s the first book in the Realm Rift Saga, and it tells the tale of
+   Thomas Rymour, the prophet who cannot lie. An elf lord hatches a plot
+   to save the world by stealing a legendary sword; a sword that, it turns
+   out, only Tom can wield. Tom is forced to break his oath in order to
+   save the world. But while terrifying dragons scorch the skies, the
+   immortal creatures of Faerie hatch their own dark plans for the mortal
+   realm.
+
+   And these creatures aren’t delightful little fairies. Oh no. They’re
+   fearsome monsters that take pleasure in anything that alleviates the
+   boredom of eternity. That ranges from wordplay and innocent pranks all
+   the way up to torture and murder. Whatever takes their fancy.
+
+   From the frozen heights of the world to its labyrinthine depths, Tom
+   will face immortal creatures, terrifying dragons, and undead monsters
+   on his impossible quest to save the people he loves and the world they
+   live in. But how can he defeat an enemy that cannot be killed?
+
+   And that seems like a good place to end this list. But I’ll be updating
+   it as I discover new and interesting reads! If you come across a book
+   you think deserves to be on this list, let me know!
+
+   [divider-dark-reverse.svg]
+   [jtk-white.svg]
+   Privacy Policy Cookie Policy AI Policy
+
+   Manage Consent
+   To provide the best experiences, we use technologies like cookies to
+   store and/or access device information. Consenting to these
+   technologies will allow us to process data such as browsing behaviour
+   or unique IDs on this site. Not consenting or withdrawing consent, may
+   adversely affect certain features and functions.
+   Functional [ ] Functional Always active
+   The technical storage or access is strictly necessary for the
+   legitimate purpose of enabling the use of a specific service explicitly
+   requested by the subscriber or user, or for the sole purpose of
+   carrying out the transmission of a communication over an electronic
+   communications network.
+   Preferences [ ] Preferences
+   The technical storage or access is necessary for the legitimate purpose
+   of storing preferences that are not requested by the subscriber or
+   user.
+   Statistics [ ] Statistics
+   The technical storage or access that is used exclusively for
+   statistical purposes. The technical storage or access that is used
+   exclusively for anonymous statistical purposes. Without a subpoena,
+   voluntary compliance on the part of your Internet Service Provider, or
+   additional records from a third party, information stored or retrieved
+   for this purpose alone cannot usually be used to identify you.
+   Marketing [ ] Marketing
+   The technical storage or access is required to create user profiles to
+   send advertising, or to track the user on a website or across several
+   websites for similar marketing purposes.
+     * Manage options
+     * Manage services
+     * Manage {vendor_count} vendors
+     * Read more about these purposes
+
+   (BUTTON) Accept (BUTTON) Deny (BUTTON) View preferences (BUTTON) Save
+   preferences View preferences
+     * {title}
+     * {title}
+     * {title}
+
+   (BUTTON) Manage consent
+   #oEmbed (JSON) oEmbed (XML) JSON
+
+   [jamestkelly-black.svg]
+
+   (BUTTON)
+     * Home
+     * (BUTTON) What do you want to read? (BUTTON)
+       Fantasy Novels
+          + [expanded-01-Realm_Rift_Saga-eCover-scaled.jpg] The Realm Rift
+            Saga
+          + [The-Fey-Man-web-cover.jpg] The Fey Man
+          + [unquiet-sword-scaled.png] The Unquiet Sword
+          + [northern-wastes-scaled.png] The Northern Wastes
+       Other Reads
+          + [calling-the-makers-scaled.png] Calling the Makers
+          + [branwell-bronte-scaled.png] The Life and Work of
+            Branwell Brontë
+     * (BUTTON) Blog (BUTTON)
+          + Fantasy blogs
+          + Dreams of Dune
+          + Branwell Brontë articles
+          + Commentary tracks
+     * Newsletter
+     * About Me
+
+25 of the Best Fantasy Books You Should Read Next
+
+   [25bestfantasybooks.jpg]
+
+   I know what it’s like: sometimes you finish a book and you just don’t
+   know what to read next. That’s why I’ve put this list together of 25 of
+   the best fantasy books (in no particular order) that should be at the
+   top of your to-read list!
+
+   And if you’re in the mood for science fiction instead, I’ve got a list
+   for you too.
+
+Assassin’s Apprentice
+
+   Any list of the best fantasy books has to start with Assassin’s
+   Apprentice! The beginning of the Farseer trilogy, and also the
+   beginning of a nine book series that tells the life of Fitz, bastard
+   son of a disgraced prince, and his remarkable, hidden role in history.
+
+   Hobb’s Fitz books are very much a coming of age story, so if you’re a
+   fan of tight action and lean prose, pass on this one. But if you like a
+   fantasy book that enjoys its time with the world and it’s characters,
+   take a look at Assassin’s Apprentice.
+
+   Fitz is a great viewpoint character, flawed but full of good
+   intentions, and he’s supported by a huge range of varied characters
+   that are easy to love, and opposed by villains that are easy to hate.
+
+   Although this is the beginning of a story that will take nine books to
+   tell, don’t worry about getting sucked into a nine book series; the
+   first trilogy stands alone. In fact, I think it’s the best of the
+   three, although the second trilogy is very good too!
+
+A Sorcerer Slain
+
+   If you liked the sound of a murder mystery in a fantasy novel, but
+   didn’t really want a fantasy-Sherlock Holmes, then A Sorcerer Slain is
+   for you. It’s funny, action-packed, and clever. And perhaps the
+   greatest praise I can heap upon this book is that the lead character
+   and investigator, Lowmar Dashiel, thinks like a real person.
+
+   The story is set in the city of Andruan, where the Sorcerer Supreme has
+   been murdered (he would be the sorcerer slain). This act threatens to
+   topple the king and spark a civil war. With so many interested parties,
+   no-one can be above suspicion. But I’ve seen too many crime stories
+   where someone always is; there’s always someone the hero never suspects
+   for a moment, and it’s always them that did it. Always. But Dashiel
+   suspects nearly everyone at one point or another and I wanted to
+   applaud every time.
+
+   This smart writing extends to the genre blending that takes place in
+   this novel. When I first heard that Sivers was writing fantasy crime,
+   my first thought was that those genres were unusual bedfellows. But A
+   Sorcerer Slain is proof they make an excellent match; it calls no
+   attention to itself, borrowing tropes from both fantasy and crime as it
+   wills. At no point do these genres clash, and most of the time they’re
+   perfectly balanced.
+
+   In fact, the only thing that lets down this novel is when those genres
+   become unbalanced, and it embraces the fantasy genre too strongly. For
+   instance, there’s a great battle which on paper sounds great for a
+   fantasy novel. But this book is smaller, more intimate, and the battle
+   felt out of place to me. Once things had got back to Dashiel’s smaller
+   world, things felt more natural.
+
+   So if epic fantasy is the only kind of fantasy you’ll entertain, give
+   this one a pass. But if you’re in the mood for something a little
+   different, this crime fantasy might just scratch that itch.
+
+Children of Blood and Bone
+
+   If you’re tired of medieval-European fantasy, this is an excellent
+   choice for your next read. Adeyemi has written a story of persecution,
+   magic, and raw emotion that will catch you by surprise at times. This
+   might be a YA novel, but it doesn’t pull any punches; alongside the
+   smiles and the romance, there’s a lot of death, violence, and heartache
+   too.
+
+   Children of Blood and Bone tells the tale of Zélie Adebola, whose
+   mother was killed when tyrannical King Saran ordered the deaths of all
+   magic-wielding magi. Saran also severed the magi’s connection with the
+   gods, and now magic is no more. After a chance encounter, Zélie leads a
+   quest to bring magic back with the help of her brother, Tzain, and
+   Saran’s daughter, Princess Amari. Standing in their way is Amari’s
+   older brother, Prince Inan, but whether he is friend or foe is
+   uncertain, and there is a strange connection between Inan and Zélie
+   that might be more than it seems.
+
+   Adeyemi’s novel moves at a pace, hammering through the story There’s a
+   great sense of world, too. The Kingdom of Orisha feels huge, but
+   there’s also a sense that there’s a big wide world beyond its borders.
+   All of the characters have depth, too, and are full of the conflicts
+   and uncertainties that make a character human. So much of the story
+   hinges on these conflicting desires that I honestly wasn’t sure which
+   way the story was going to go, which is always a good thing!
+
+   Filled with character-driven, action-filled fantasy that differs from
+   the usual medieval-European fare, and unexpectedly moving at
+   times, Children of Blood and Bone really is one of the best fantasy
+   books out there.
+
+   Or, give it a listen: I got a copy of the audiobook for Children of
+   Blood and Bone, and I can’t recommend enough experiencing the book this
+   way. It’s beautifully narrated by Bahni Turpi, whose work is reason
+   enough to pick up the audiobook instead!
+
+The Lies of Locke Lamora
+
+   I always think of The Lies of Locke Lamora as Ocean’s 11 meets epic
+   fantasy. It’s not a perfect analogy; for instance, Scott Lynch’s novel
+   doesn’t feature Don Cheadle gamely trying to squeeze as much Cockney
+   rhyming slang into his dialogue as he can. But if you love a good heist
+   but you like fantasy worlds too, this is the book for you.
+
+   Locke Lamora is a member of the Gentlemen Bastards, a gang of thieves
+   working under the leadership of Father Chains. They all find themselves
+   wrapped up in the mysterious machinations of the Gray King, and the
+   story is filled with twists, double crosses, and desperate races to
+   save the day, not all of which are entirely successful.
+
+   Locke is a witty, smooth-talking character, so don’t come to this novel
+   for a gritty time. Yes, there’s violence, but there’s also jokes and
+   hijinks too. The body count gets pretty high, and there’s even a bit of
+   torture thrown in for good measure. But the general tone is less Game
+   of Thrones and more, well, Ocean’s Eleven. It’s a good time, and a
+   classic for a reason.
+
+Ship of Magic
+
+   Fresh off the back of the Farseer trilogy, Hobb wrote a new trilogy set
+   in the same world, but with a very different setting.
+
+   Where the Farseer trilogy dealt with magic and dragons, this new
+   trilogy deals Liveships, ships made from wood imbued with magic that
+   makes the ship come alive. These ships absorb the personalities of the
+   people who have died on deck, which is a fascinating and slightly
+   disturbing idea!
+
+   If you read Assassin’s Apprentice and you weren’t a fan of the main
+   character, Fitz, then give Ship of Magic a chance. It’s full of very
+   different characters: a woman trying to become captain of a ship; a boy
+   taken from his life training to be a priest; a pirate who would be
+   king. Because it’s a book about ships; of course there are pirates!
+
+   Hobb’s writing is as strong as ever, and there are some interesting,
+   subtle links to her Fitz books for the eagle-eyed, but this trilogy
+   stands apart from her other work.
+
+Redwall
+
+   Brian Jacques’ Redwall is the first in an epic fantasy series for
+   children starring English woodland animals. It’s quaint and it’s sweet
+   and it’s fun. It’s a fantastic introduction to fantasy for children or,
+   if you’re an adult, it’s a great read between thick fantasy tomes.
+
+   The eponymous Redwall is an abbey, populated by mice, which faces the
+   threat of Cluny the Scourge, the appropriately named rat leader of an
+   army curiously hell-bent on conquering the abbey. The hero, Mathias, is
+   a young mouse who is always being told by his elders to be calm and
+   mindful, but lusts for adventure and excitement. Naturally, it falls to
+   him to somehow find a way to defend Redwall against the oncoming
+   threat.
+
+   There’s legendary warriors, an ancient sword, and riddles that will
+   puzzle and please young minds (although quite how the logic works will
+   puzzle older ones). Redwall should definitely be on your reading list,
+   and is undoubtedly one of the best fantasy books around!
+
+The Hobbit
+
+   The Lord of the Rings gets all the hype and the glory, but I think The
+   Hobbit is not just under-appreciated, but even (dare I say it) more
+   deserving of a place on a list of the best fantasy books than it’s
+   younger, bigger brother.
+
+   Tolkien’s first major work benefits from being a sleeker, more focused
+   thing. It’s not a big, sprawling epic, but an adventure story. A
+   treasure hunt, in fact, with a dragon to vanquish and humorous events
+   and coincidences along the way. The narrator has a knowing tone,
+   sharing asides and commentary with the reader that are intended to
+   delight and surprise. I’ve always had a soft spot for the invention of
+   golf in Middle-Earth; this is accredited to a Took’s fortuitous
+   decapitation of a goblin.
+
+   The origin of golf sums up The Hobbit rather nicely, in fact. This is a
+   fantasy adventure that isn’t meant to be taken too seriously. That
+   doesn’t mean that the stakes aren’t high, or that there aren’t
+   thrilling scenes and perilous moments. But this is fantasy without the
+   grit and grime, so it’s perfect for when you need a spot of levity and
+   adventure in your reading list.
+
+Grendel
+
+   This is a bit of a different one. If you like your fantasy full of
+   adventure, give this one a miss. But if you’re in the mood for
+   something contemplative, take a look at John C Gardner’s exploration of
+   the monster Grendel.
+
+   That’s somewhat misleading, in a sense, because there are times when
+   this book feels less like an exploration of a character, and more that
+   the character is simply a vehicle for an exploration of philosophy. In
+   fact, there were times when reading Grendel that I wondered if Gardner
+   was simply using the tropes of fantasy to write a philosophical
+   treatise. Which feels unfair, because even in those moments I found
+   myself enjoying the story.
+
+   But that, in a sense, is why I always recommend Grendel, because it’s
+   by no definition a standard fantasy novel. I won’t lie to you: once
+   you’ve read it, you might not want to read something like it again. But
+   fantasy is such a huge, wide genre that can encompass so many different
+   stories. Grendel is a contemplative fantasy, and it’s a masterclass in
+   taking what was a fairly nondescript monster (from Beowulf, if you
+   weren’t sure), and turning it into something you can not only empathise
+   with, but end up rooting for.
+
+The Prince of Thorns
+
+   You might have heard this before: dispossessed prince seeks to reclaim
+   his throne. But it was something of as surprise to find that this
+   prince was a bit of a monster.
+
+   Lawrence certainly isn’t the first person to write an anti-hero, but I
+   was surprised at how much I liked Jorg, even as he did some pretty
+   unpleasant things. As is often the way, the anti-hero is saved by
+   offering scathing yet honest opinions that no-one else will voice, as
+   well as a minor and earnest romantic subplot. Sometimes, Jorg even
+   commits decent acts, although almost by accident.
+
+   I was also somewhat surprised to discover that this wasn’t a medieval
+   fantasy, but instead a fantasy set in a far-off, post-apocalyptic
+   world. Lawrence does a very good job of weaving in hints of this world
+   without being heavy-handed, which I appreciated; all too often, such a
+   setting is handled with the subtlety of a brick to the face.
+
+   The only downside to The Prince of Thorns is that the ending is almost
+   too neat for the first in a trilogy; the force driving you to read the
+   next book isn’t really the plot, more just your enjoyment of reading
+   this one. That’s hardly a terrible sin, but what can I say? I’m a
+   sucker for a cliffhanger.
+
+Spiderlight
+
+   My relationship with Dungeons & Dragons was brief. In fact, I played a
+   Dragon Quest once, and Warhammer Quest once. That’s it. But it was
+   enough to familiarise me with the tropes, and so I took great joy in
+   watching Adrian Tchaikovsky turn those tropes into a fun, engaging,
+   thoughtful novel.
+
+   The setup for Spiderlight is simple enough: the good guys are stalwart
+   warriors of hope and faith, the bad guys are ugly and monstrous.
+   Tchaikovsky turns that on its head pretty much straightaway. In fact,
+   the idea that good guys aren’t always good and bad guys aren’t always
+   bad runs through the entire novel.
+
+   Unfortunately, that means that twists and surprises aren’t overly
+   surprising. What was surprising was that I didn’t mind so much.
+   Considering that much of Spiderlight feels like it’s based on D&D
+   tropes, I was actually beginning to enjoy reading about the characters.
+   This is a stand-alone novel, so there isn’t much room for the stakes to
+   get to the usual dramatic heights of epic fantasy, but they felt high
+   enough for an enjoyable read.
+
+   And, while Spiderlight might not revolutionise the fantasy genre, I was
+   too busy empathising with a creepy, giant spider to really notice.
+
+Warbreaker
+
+   To say that Brandon Sanderson is prolific is an understatement. While
+   that’s great for his fans, sometimes a huge body of work can be
+   somewhat intimidating. Where do you begin? Once you start, are you
+   committing yourself to read dozens of books to get the full picture?
+   What if you just want a taster to see if you like the author’s work
+   before you dive in? Warbreaker is the taster you’ve been looking for.
+
+   The novel is fairly standard fantasy fare, with kingdoms in peril and
+   such. I did, however, appreciate that the magic system creates what are
+   essentially walking gods. One of them was even my favourite character;
+   Lightsong is somewhat jaded and disconnected from his life of luxury,
+   so he’s in the best position to make jokes and wry observations.
+   Unfortunately, Lightsong’s story takes a while to get going, which
+   creates an odd dissonance between his laconic existence and the more
+   traditional fantasty antics of the other characters.
+
+   But with a magic sword, a king to overthrow, and a few surprising
+   twists and turns, this is definitely worth a read.
+
+The Looking Glass Wars
+
+   What is it about Alice in Wonderland that has led so many writers to
+   reinterpret its story and themes? Whatever it is, Frank Beddor
+   certainly has a fresh take on things.
+
+   Take Alice in Wonderland and put it in the epic fantasy blender.
+   There’s a lost princess whose throne has been usurped, a kingdom under
+   a tyrant’s rule, and an assassin; yes, the Mad Hatter has become the
+   Hatter Madigan, and he’s a badass assassin now.
+
+   There are certainly times where the story veers into epic fantasy
+   cliches, but it’s almost a pleasure to see how Beddor twists the
+   classic tale to fit the cliches. Unfortunately, it looks like this book
+   is out of print, so you might have to hunt it down. I recommend you do.
+   I had a lot of fun reading it and, if you enjoy epic fantasy and
+   alternative takes on Alice, you will too.
+
+The Broken Sword
+
+   Published the same year as The Fellowship of the Ring (and therefore
+   uninfluenced by Tolkien), The Broken Sword is a novel that has all the
+   matter-of-fact grimness of Norse legends (and some of the characters
+   and settings, too), whilst telling an epic fantasy tale in much less
+   space than Tolkien ever managed it.
+
+   The book tells the story of the son of Orm the Strong, Scafloc.
+   Unfortunately, elves steal that son and replace it with a changeling,
+   Valgard (who is half-elf and half-troll). Orm unwittingly raises
+   Valgard, the elves raise Scafloc. There’s wars, the eponymous broken
+   sword, and betrayal. There’s also incest, murder, and the general sense
+   of inevitable doom that comes from a culture whose philosophy ends with
+   Ragnarok in which everyone dies (well, almost everyone).
+
+   This is fantasy that isn’t inspired by Christian values or even
+   traditional good vs evil narratives. If you’re the sort of person who
+   enjoys the Norse mythology, this is a fantasy novel for you. And if
+   you’re looking for something a little less spiritually uplifting than
+   traditional fantasy, you should give this a go too.
+
+Mort
+
+   If you ask me, Mort is the perfect Discworld book. It’s early enough in
+   the series that it serves as a great starting point, but it’s late
+   enough that Pratchett has got a grip on his creation. It tells the
+   story of Mort, a young boy who somehow ends up the apprentice of Death.
+   Yes, the skeletal chap who reaps souls and TALKS LIKE THIS. It’s funny,
+   it’s sweet, and it’s full of clever observations of life that make you
+   think a little too much, and laugh plenty.
+
+   But the humour isn’t what makes this a great fantasy novel. It’s
+   Pratchett’s inventiveness that does that. He likes to indulge in all
+   the tropes of fantasy, and play and lampoon them in clever ways. For
+   instance, magical rites are performed with plenty of pomp and ceremony,
+   but Pratchett reveals that this is more to do with pride and
+   professional prestige; most magic can be performed with very little
+   indeed. I also liked the way Pratchett incorporated the idea of
+   morphogenetics, ludicrous in real life but fascinating “science” for a
+   fantasy novel. And, of course, the way Ankh-Morpork reflects every
+   major city is always insightful and hilarious.
+
+   But the truth is that I like this book so much because of Death. Of
+   course, Death has become such a huge character that we’re no longer
+   surprised when the embodiment of death isn’t grim and murderous. But
+   it’s still a pleasure to see Death so likeable, so hapless, and even
+   funny. He isn’t a killer at all. He’s simply performing an existential
+   duty. He’s doing the job we gave him, which he’s very good at, and
+   trying to understand people, which he isn’t good at. Which brings us
+   back around to the comedy again, as Death tries to understand people,
+   and people try to explain things that don’t make much sense when you
+   think about them too long.
+
+   If you’ve never read a Discworld novel, this is the one to start with.
+   If you’ve read Discworld, but haven’t read this one, do so. And if you
+   don’t think Discworld is your cup of tea, do yourself a favour and give
+   this one a try.
+
+A Game of Thrones
+
+   If you’re someone who loves a grounded fantasy full of detail and lore
+   that also feels like it could actually happen, the first book of the
+   Song of Ice and Fire series is for you. You can understand why it takes
+   George R R Martin so long to write one of these, because they’re packed
+   to the gills with story and world.
+
+   But be warned: there are no happy endings in Westeros.
+
+   One of the reasons A Game of Thrones has attracted so much attention is
+   that it is a fantasy novel like no other. It is brutal, it is coarse,
+   it is harsh and it has no remorse. Martin doesn’t tip-toe around the
+   truth of the story. Characters have sex, get hurt, get maimed, and die.
+   Love that character? They’re going to die. Hate that character? Well,
+   they’ll probably die too; everybody does. In this way the novel is very
+   fair: nobody gets what they want. Especially the reader.
+
+   Speaking of endings, you might be put off reading this because the
+   ending of the TV series was somewhat controversial. Put that out of
+   your mind; the novels are taking their own path, and even if the
+   endings are similar, Martin’s work will make much more sense. So if
+   you’re tired of books with happy endings, and you’re looking for
+   something gritty and grounded, you can’t go wrong with A Game of
+   Thrones.
+
+American Gods
+
+   If you’ve ever read Neil Gaiman, you probably know what to expect. If
+   you haven’t, this is a good place to start.
+
+   The basic premise is that gods are real. All of them. And they walk
+   among us. Anansi, Anubis, Bilquis, Ēostre, Odin. You might not have
+   heard of them, because they’re the ancient gods of all of the various
+   cultures that came to America countless generations ago. As time went
+   on, people stopped believing in them, and they became less powerful.
+   But still there.
+
+   American Gods tells the tale of Shadow Moon, a man who leaves prison
+   and is drawn into this world of ancient gods by the enigmatic Mr
+   Wednesday. The novel is, effectively, a road trip across America,
+   meeting gods both old and new, while Shadow tries to figure out what’s
+   going on.
+
+   Because new gods rose to take the old gods’ place. Gods of technology
+   and television, the Internet and the stock exchange. It’s a fun
+   concept, and it’s always interesting to turn a page and see which
+   entity Gaiman decides we’ve decided to immortalise as a god.
+
+   Shadow is the stereotypical clueless narrator, serving as a way for the
+   other characters to explain what’s going on, but they don’t often
+   bother. This means there’s a huge mystery beneath the surface, and
+   while every mystery can be sometimes infuriating (why won’t someone
+   just say what’s going on?), the payoff is totally worth it.
+
+   But watch out for the middle section; it’s a bit slow, and it puts
+   people off, but stick with it: it’s totally worth it.
+
+The Darkness That Comes Before
+
+   It only occurred to me when writing this that The Darkness That Comes
+   Before reminds me of A Game of Thrones, only with less swearing and
+   sex. But it has that same density to it; it’s not an easy read, but
+   it’s stuffed with lore and story.
+
+   Like A Game of Thrones, true heroes are few and far between; most of
+   the characters are instead varying degrees of reprehensible. The
+   Darkness That Comes Before also tells a complicated story of political
+   scheming and a potentially supernatural threat. However I feel that
+   Bakker’s novel is far more labyrinthine than Martin’s. The Darkness
+   That Comes Before defies simple explanation; try to find a plot summary
+   and you’ll reach the end more confused than when you started reading
+   it.
+
+   But don’t let that put you off. This is certainly no straightforward
+   adventure fantasy, and it’s a book that requires all of your attention
+   to keep it straight in your mind. But I have never read a fantasy novel
+   that felt so real and even as it threatens to confuse you with its
+   complexity at every step, it develops in you a kind of Stockholm
+   Syndrome. Even as the novel abuses your mind, you can’t help but start
+   to admire it. And soon, you’re recommending that other people read it.
+
+Rivers of London
+
+   I went through months of people telling me that this book reminded me
+   of them before I read it and realised they’re absolutely right; Rivers
+   of London reads like a book I narrated. It’s sarcastic and a little
+   cynical with some dark humour mixed in. In fact, it’s hard to shake the
+   feeling that this is the sort of book I should be writing…
+
+   Rivers of London is an urban fantasy, telling the story of regular
+   policeman Peter Grant who stumbles across the existence of a secret
+   branch of the police that deals with the paranormal. A fairly standard
+   urban fantasy plot so far. But the way Aaronovitch builds his world has
+   a surprisingly Neil Gaiman-esque vibe to it; I saw surprising because
+   of the humour that’s laced throughout the book. Seriously, if you ever
+   needed a book called A Practical Guide to Sarcasm, this book would be a
+   contender.
+
+   But I happen to think sarcasm is funny.
+
+   Naturally, with Grant being a policeman, there’s a mystery to solve. To
+   be honest, I found myself less bothered by the mystery than perhaps I
+   should have been. That’s because I was enjoying the sheer pleasure of
+   the writing, the banter, and poor Grant’s cluelessness (yes, this is a
+   new world to him, but it seems pretty obvious that, for example, pale
+   people who don’t go outside might be more than they seem). Ordinarily,
+   such cluelessness would annoy me, but Grant is so likeable that it’s
+   hard to be irritated with him. Although it does make you wonder about
+   his detective skills.
+
+   Still, the hype around this series is deserved. Even if you’re not a
+   big fan of sarcasm, give it a read: I think you’ll agree it belongs on
+   a list of the best fantasy books.
+
+Truckers
+
+   Yes, Pratchett is on this list twice, but considering how many books
+   the man wrote, it’s amazing that Terry Pratchett doesn’t dominate the
+   entire thing! And, quite frankly, Truckers deserves a spot because it’s
+   great and I love it.
+
+   I actually first encountered Truckers via the kids TV series (which was
+   a great adaptation, and you should watch it), but quickly discovered
+   the book is far superior. The idea is simple; Masklin’s tribe of tiny
+   nomes find their way into a (soon to be demolished) department store
+   where the nomes don’t believe in the outside world.
+
+   This leads to a great deal of humorous misunderstandings about rain and
+   wind which will delight a child, and there’s plenty of Pratchett’s
+   trademark wit that makes the books fun for adults too.
+
+   Being for kids, Truckers is a quick and easy read, so it’s perfect for
+   when you haven’t got much time for reading. It also means there’s no
+   excuse for not reading, so get to it!
+
+A Monster Calls
+
+   This book is so good I had to stop reading it because I was about to
+   cry on a train.
+
+   The basic premise is that young boy Conor is watching his mother
+   succumb to cancer. He’s isolated and scared and lonely. And one night,
+   a gigantic monster comes to his bedroom. It promises to tell him three
+   true stories, and then Conor must tell a story. If the story he tells
+   is not true, the monster will destroy Conor.
+
+   What follows is a story that moved me very deeply. A Monster Calls
+   offers no easy answers, no saccharine solutions. It paints the world as
+   tricky and complicated. Conor’s pain and isolation is handled
+   perfectly; Ness never fumbles for your heartstrings. And the monster’s
+   stories are delightfully old, filled with the dark injustices and
+   terrible vengeances of ancient tales.
+
+   It’s hard to find a criticism of this book, to be honest. I must
+   strongly recommend you buy the illustrated edition, though; there are
+   few pages that aren’t touched by Jim Kay’s dark and energetic work, but
+   it supports the text rather than overshadowing it.
+
+   Oh, and try not to read it in public places. Unless you’re okay with
+   crying in public.
+
+The Raven Tower
+
+   Ann Leckie is a phenomenal writer, and I try to hold off from buying
+   her books because I devour them in a matter of days, leaving me left to
+   wait until the next one is released. The Raven Tower is her first
+   fantasy book and, while I have to admit it wasn’t as great as her
+   Imperial Radch trilogy, it’s pretty great.
+
+   One disclaimer, though: it’s written in the second person. Like
+   this:And you turned fully to stare at your hand against the wall, and
+   then down at your feet, feeling that constant, faint, grinding
+   vibration traveling through the yellowish stones. Could you hear me,
+   Eolo? Can you hear me now? I’m talking to you.
+
+   The Raven Tower is narrated by a god. Yep, an honest-to-god god called
+   Strength and Patience of the Hill. But it’s a tale told to another
+   character, Eolo. Both serve as the main characters, but interestingly
+   we only ever get Strength and Patience of the Hill’s impressions of
+   Eolo. The god guesses at the thoughts and motivations, rather than
+   being given to the reader by the character or by an omniscient
+   narrator. That makes this book interesting, but it also puts a distance
+   between the reader and one of the main characters.
+
+   This distance is the biggest flaw of the book. When I first began
+   writing, nearly every writer handing out advice told me not to try to
+   write in the second person. This is good advice. It’s fiendishly
+   difficult to pull off. The only reason that Leckie manages it is
+   because she’s a damn good writer.
+
+   The world she’s created is fascinating. The mystery she weaves is
+   enthralling. You might guess the answer to the mystery, but you
+   probably won’t guess how that can be the answer until Leckie tells you.
+
+   One other warning: this is not a book if you want sword and sorcery and
+   adventure. In fact, the book ends where many other authors would launch
+   into the big meaty action scenes! This is a different kind of fantasy
+   novel. It’s not without action. But it’s more cerebral. If you’re
+   looking for a change of pace that’s brilliantly written, you can’t go
+   wrong with The Raven Tower.
+
+The Lion, The Witch and The Wardrobe
+
+   It’s a classic for a reason, and you’ll never look at Turkish Delight
+   the same way again.
+
+   What child hasn’t daydreamed about a secret doorway that takes them to
+   a magical world? Even better, a magical world where they’re royalty.
+   Such daydreams take on an almost unbearable pathos when Lewis makes
+   them real for four kids during wartime Britain, but let’s be honest:
+   we’re here for Narnia, not the Second World War. And Narnia doesn’t
+   disappoint.
+
+   Lewis was a contemporary of Tolkien, and it shows: you won’t get gritty
+   or grounded fantasy, but something far more allegorical. In fact, the
+   Aslan/Jesus parallels are almost a little too on the nose at times, but
+   you’ll let Lewis off the hook because Aslan is great. And if he’s a
+   little too perfect, the White Witch is a little too frightening really.
+
+   Seriously, I’ve never been able to give Turkish Delight a fair shake
+   because of this book. But then, Turkish Delight is gross. Quite why
+   it’s such a temptation to these kids is beyond me…
+
+The Armoured Saint
+
+   The title and the cover art for this one had me hooked straightaway.
+   Perhaps it’s because it reminded me of the Sisters of Battle, a
+   power-armoured ecclesiastic army in Warhammer 40,000, a game I used to
+   play as a teenager. So I was looking forward to seeing this armoured
+   saint in action.
+
+   But, when it comes to action, The Armoured Saint is slow to get moving.
+   There’s action, sure, but this novel really feels like it’s setting up
+   the rest of the series. It could serve as a prequel, even. And the
+   foreshadowing is a little too obvious. As soon as the suit of armour
+   appears on the page, you know what’s going to happen. Except it doesn’t
+   happen for a long time. This, to be honest, was frustrating.
+
+   So why is it on this list? Because when the action finally does kick
+   off, it’s worth the wait. There might have been too much build-up, but
+   I still finished this novel with a sense of satisfaction and a desire
+   to read the next in the series.
+
+   (Hot tip: I actually listened to the audiobook version, but the
+   narration is dreadfully slow: this is definitely one to listen to at
+   1.25x speed!)
+
+Talion: Revenant
+
+   Michael A Stackpole writes a fantastic line in late-80s fantasy
+   fiction. It might seem quaint by comparison with the grittier fare that
+   is modern fantasy, but it’s hard not to enjoy the way Stackpole romps
+   through the story of Nolan, a young man training to be a Justice.
+
+   Let’s be clear that this novel is not a weighty tome; it’s a fun,
+   straightforward affair, and enjoyable for it. The story is split
+   between the trials of Nolan’s training and the present day, in which he
+   is tasked with protecting the man who killed his family. Both of these
+   throw challenges into Nolan’s path, but they’re nearly always dealt
+   with quickly. Even the huge conflict of protecting a man he blames for
+   slaughtering his family is quite easily handled. But that’s not really
+   a huge criticism.
+
+   That’s because Stackpole writes an uncomplicated novel; challenges and
+   trials are action set pieces, overcome so the action can continue. And
+   there’s plenty of action. Goblins and sorcerers, wood elves and the
+   undead. This is a galloping blockbuster of a novel, and if it doesn’t
+   require a lot of thought, it’s a lot of fun to read. Is that enough to
+   warrant a place on a list of the best fantasy books? I think so. Not
+   every fantasy book has to be a sprawling epic, a mighty trilogy, or an
+   overwrought drama. Sometimes it’s just a fun piece of escapism, and
+   Talion: Revenant is certainly that.
+
+   And a fun read seems like a good place to end this list. But I’ll be
+   updating it as I discover new and interesting reads! If you come across
+   a book you think deserves to be on this list, let me know!
+
+The Fey Man
+
+   Don’t think I’m being egotistical and trying to include my own novel in
+   a list of the best fantasy books! But it would be madness not to at
+   least mention The Fey Man. Obviously I’m biased, but I think you’ll
+   like it!
+
+   It’s the first book in the Realm Rift Saga, and it tells the tale of
+   Thomas Rymour, the prophet who cannot lie. An elf lord hatches a plot
+   to save the world by stealing a legendary sword; a sword that, it turns
+   out, only Tom can wield. Tom is forced to break his oath in order to
+   save the world. But while terrifying dragons scorch the skies, the
+   immortal creatures of Faerie hatch their own dark plans for the mortal
+   realm.
+
+   And these creatures aren’t delightful little fairies. Oh no. They’re
+   fearsome monsters that take pleasure in anything that alleviates the
+   boredom of eternity. That ranges from wordplay and innocent pranks all
+   the way up to torture and murder. Whatever takes their fancy.
+
+   From the frozen heights of the world to its labyrinthine depths, Tom
+   will face immortal creatures, terrifying dragons, and undead monsters
+   on his impossible quest to save the people he loves and the world they
+   live in. But how can he defeat an enemy that cannot be killed?
+
+   And that seems like a good place to end this list. But I’ll be updating
+   it as I discover new and interesting reads! If you come across a book
+   you think deserves to be on this list, let me know!
+
+   [divider-dark-reverse.svg]
+   [jtk-white.svg]
+   Privacy Policy Cookie Policy AI Policy
+
+   Manage Consent
+   To provide the best experiences, we use technologies like cookies to
+   store and/or access device information. Consenting to these
+   technologies will allow us to process data such as browsing behaviour
+   or unique IDs on this site. Not consenting or withdrawing consent, may
+   adversely affect certain features and functions.
+   Functional [ ] Functional Always active
+   The technical storage or access is strictly necessary for the
+   legitimate purpose of enabling the use of a specific service explicitly
+   requested by the subscriber or user, or for the sole purpose of
+   carrying out the transmission of a communication over an electronic
+   communications network.
+   Preferences [ ] Preferences
+   The technical storage or access is necessary for the legitimate purpose
+   of storing preferences that are not requested by the subscriber or
+   user.
+   Statistics [ ] Statistics
+   The technical storage or access that is used exclusively for
+   statistical purposes. The technical storage or access that is used
+   exclusively for anonymous statistical purposes. Without a subpoena,
+   voluntary compliance on the part of your Internet Service Provider, or
+   additional records from a third party, information stored or retrieved
+   for this purpose alone cannot usually be used to identify you.
+   Marketing [ ] Marketing
+   The technical storage or access is required to create user profiles to
+   send advertising, or to track the user on a website or across several
+   websites for similar marketing purposes.
+     * Manage options
+     * Manage services
+     * Manage {vendor_count} vendors
+     * Read more about these purposes
+
+   (BUTTON) Accept (BUTTON) Deny (BUTTON) View preferences (BUTTON) Save
+   preferences View preferences
+     * {title}
+     * {title}
+     * {title}
+
+   (BUTTON) Manage consent
+   #oEmbed (JSON) oEmbed (XML) JSON
+
+   [jamestkelly-black.svg]
+
+   (BUTTON)
+     * Home
+     * (BUTTON) What do you want to read? (BUTTON)
+       Fantasy Novels
+          + [expanded-01-Realm_Rift_Saga-eCover-scaled.jpg] The Realm Rift
+            Saga
+          + [The-Fey-Man-web-cover.jpg] The Fey Man
+          + [unquiet-sword-scaled.png] The Unquiet Sword
+          + [northern-wastes-scaled.png] The Northern Wastes
+       Other Reads
+          + [calling-the-makers-scaled.png] Calling the Makers
+          + [branwell-bronte-scaled.png] The Life and Work of
+            Branwell Brontë
+     * (BUTTON) Blog (BUTTON)
+          + Fantasy blogs
+          + Dreams of Dune
+          + Branwell Brontë articles
+          + Commentary tracks
+     * Newsletter
+     * About Me
+
+25 of the Best Fantasy Books You Should Read Next
+
+   [25bestfantasybooks.jpg]
+
+   I know what it’s like: sometimes you finish a book and you just don’t
+   know what to read next. That’s why I’ve put this list together of 25 of
+   the best fantasy books (in no particular order) that should be at the
+   top of your to-read list!
+
+   And if you’re in the mood for science fiction instead, I’ve got a list
+   for you too.
+
+Assassin’s Apprentice
+
+   Any list of the best fantasy books has to start with Assassin’s
+   Apprentice! The beginning of the Farseer trilogy, and also the
+   beginning of a nine book series that tells the life of Fitz, bastard
+   son of a disgraced prince, and his remarkable, hidden role in history.
+
+   Hobb’s Fitz books are very much a coming of age story, so if you’re a
+   fan of tight action and lean prose, pass on this one. But if you like a
+   fantasy book that enjoys its time with the world and it’s characters,
+   take a look at Assassin’s Apprentice.
+
+   Fitz is a great viewpoint character, flawed but full of good
+   intentions, and he’s supported by a huge range of varied characters
+   that are easy to love, and opposed by villains that are easy to hate.
+
+   Although this is the beginning of a story that will take nine books to
+   tell, don’t worry about getting sucked into a nine book series; the
+   first trilogy stands alone. In fact, I think it’s the best of the
+   three, although the second trilogy is very good too!
+
+A Sorcerer Slain
+
+   If you liked the sound of a murder mystery in a fantasy novel, but
+   didn’t really want a fantasy-Sherlock Holmes, then A Sorcerer Slain is
+   for you. It’s funny, action-packed, and clever. And perhaps the
+   greatest praise I can heap upon this book is that the lead character
+   and investigator, Lowmar Dashiel, thinks like a real person.
+
+   The story is set in the city of Andruan, where the Sorcerer Supreme has
+   been murdered (he would be the sorcerer slain). This act threatens to
+   topple the king and spark a civil war. With so many interested parties,
+   no-one can be above suspicion. But I’ve seen too many crime stories
+   where someone always is; there’s always someone the hero never suspects
+   for a moment, and it’s always them that did it. Always. But Dashiel
+   suspects nearly everyone at one point or another and I wanted to
+   applaud every time.
+
+   This smart writing extends to the genre blending that takes place in
+   this novel. When I first heard that Sivers was writing fantasy crime,
+   my first thought was that those genres were unusual bedfellows. But A
+   Sorcerer Slain is proof they make an excellent match; it calls no
+   attention to itself, borrowing tropes from both fantasy and crime as it
+   wills. At no point do these genres clash, and most of the time they’re
+   perfectly balanced.
+
+   In fact, the only thing that lets down this novel is when those genres
+   become unbalanced, and it embraces the fantasy genre too strongly. For
+   instance, there’s a great battle which on paper sounds great for a
+   fantasy novel. But this book is smaller, more intimate, and the battle
+   felt out of place to me. Once things had got back to Dashiel’s smaller
+   world, things felt more natural.
+
+   So if epic fantasy is the only kind of fantasy you’ll entertain, give
+   this one a pass. But if you’re in the mood for something a little
+   different, this crime fantasy might just scratch that itch.
+
+Children of Blood and Bone
+
+   If you’re tired of medieval-European fantasy, this is an excellent
+   choice for your next read. Adeyemi has written a story of persecution,
+   magic, and raw emotion that will catch you by surprise at times. This
+   might be a YA novel, but it doesn’t pull any punches; alongside the
+   smiles and the romance, there’s a lot of death, violence, and heartache
+   too.
+
+   Children of Blood and Bone tells the tale of Zélie Adebola, whose
+   mother was killed when tyrannical King Saran ordered the deaths of all
+   magic-wielding magi. Saran also severed the magi’s connection with the
+   gods, and now magic is no more. After a chance encounter, Zélie leads a
+   quest to bring magic back with the help of her brother, Tzain, and
+   Saran’s daughter, Princess Amari. Standing in their way is Amari’s
+   older brother, Prince Inan, but whether he is friend or foe is
+   uncertain, and there is a strange connection between Inan and Zélie
+   that might be more than it seems.
+
+   Adeyemi’s novel moves at a pace, hammering through the story There’s a
+   great sense of world, too. The Kingdom of Orisha feels huge, but
+   there’s also a sense that there’s a big wide world beyond its borders.
+   All of the characters have depth, too, and are full of the conflicts
+   and uncertainties that make a character human. So much of the story
+   hinges on these conflicting desires that I honestly wasn’t sure which
+   way the story was going to go, which is always a good thing!
+
+   Filled with character-driven, action-filled fantasy that differs from
+   the usual medieval-European fare, and unexpectedly moving at
+   times, Children of Blood and Bone really is one of the best fantasy
+   books out there.
+
+   Or, give it a listen: I got a copy of the audiobook for Children of
+   Blood and Bone, and I can’t recommend enough experiencing the book this
+   way. It’s beautifully narrated by Bahni Turpi, whose work is reason
+   enough to pick up the audiobook instead!
+
+The Lies of Locke Lamora
+
+   I always think of The Lies of Locke Lamora as Ocean’s 11 meets epic
+   fantasy. It’s not a perfect analogy; for instance, Scott Lynch’s novel
+   doesn’t feature Don Cheadle gamely trying to squeeze as much Cockney
+   rhyming slang into his dialogue as he can. But if you love a good heist
+   but you like fantasy worlds too, this is the book for you.
+
+   Locke Lamora is a member of the Gentlemen Bastards, a gang of thieves
+   working under the leadership of Father Chains. They all find themselves
+   wrapped up in the mysterious machinations of the Gray King, and the
+   story is filled with twists, double crosses, and desperate races to
+   save the day, not all of which are entirely successful.
+
+   Locke is a witty, smooth-talking character, so don’t come to this novel
+   for a gritty time. Yes, there’s violence, but there’s also jokes and
+   hijinks too. The body count gets pretty high, and there’s even a bit of
+   torture thrown in for good measure. But the general tone is less Game
+   of Thrones and more, well, Ocean’s Eleven. It’s a good time, and a
+   classic for a reason.
+
+Ship of Magic
+
+   Fresh off the back of the Farseer trilogy, Hobb wrote a new trilogy set
+   in the same world, but with a very different setting.
+
+   Where the Farseer trilogy dealt with magic and dragons, this new
+   trilogy deals Liveships, ships made from wood imbued with magic that
+   makes the ship come alive. These ships absorb the personalities of the
+   people who have died on deck, which is a fascinating and slightly
+   disturbing idea!
+
+   If you read Assassin’s Apprentice and you weren’t a fan of the main
+   character, Fitz, then give Ship of Magic a chance. It’s full of very
+   different characters: a woman trying to become captain of a ship; a boy
+   taken from his life training to be a priest; a pirate who would be
+   king. Because it’s a book about ships; of course there are pirates!
+
+   Hobb’s writing is as strong as ever, and there are some interesting,
+   subtle links to her Fitz books for the eagle-eyed, but this trilogy
+   stands apart from her other work.
+
+Redwall
+
+   Brian Jacques’ Redwall is the first in an epic fantasy series for
+   children starring English woodland animals. It’s quaint and it’s sweet
+   and it’s fun. It’s a fantastic introduction to fantasy for children or,
+   if you’re an adult, it’s a great read between thick fantasy tomes.
+
+   The eponymous Redwall is an abbey, populated by mice, which faces the
+   threat of Cluny the Scourge, the appropriately named rat leader of an
+   army curiously hell-bent on conquering the abbey. The hero, Mathias, is
+   a young mouse who is always being told by his elders to be calm and
+   mindful, but lusts for adventure and excitement. Naturally, it falls to
+   him to somehow find a way to defend Redwall against the oncoming
+   threat.
+
+   There’s legendary warriors, an ancient sword, and riddles that will
+   puzzle and please young minds (although quite how the logic works will
+   puzzle older ones). Redwall should definitely be on your reading list,
+   and is undoubtedly one of the best fantasy books around!
+
+The Hobbit
+
+   The Lord of the Rings gets all the hype and the glory, but I think The
+   Hobbit is not just under-appreciated, but even (dare I say it) more
+   deserving of a place on a list of the best fantasy books than it’s
+   younger, bigger brother.
+
+   Tolkien’s first major work benefits from being a sleeker, more focused
+   thing. It’s not a big, sprawling epic, but an adventure story. A
+   treasure hunt, in fact, with a dragon to vanquish and humorous events
+   and coincidences along the way. The narrator has a knowing tone,
+   sharing asides and commentary with the reader that are intended to
+   delight and surprise. I’ve always had a soft spot for the invention of
+   golf in Middle-Earth; this is accredited to a Took’s fortuitous
+   decapitation of a goblin.
+
+   The origin of golf sums up The Hobbit rather nicely, in fact. This is a
+   fantasy adventure that isn’t meant to be taken too seriously. That
+   doesn’t mean that the stakes aren’t high, or that there aren’t
+   thrilling scenes and perilous moments. But this is fantasy without the
+   grit and grime, so it’s perfect for when you need a spot of levity and
+   adventure in your reading list.
+
+Grendel
+
+   This is a bit of a different one. If you like your fantasy full of
+   adventure, give this one a miss. But if you’re in the mood for
+   something contemplative, take a look at John C Gardner’s exploration of
+   the monster Grendel.
+
+   That’s somewhat misleading, in a sense, because there are times when
+   this book feels less like an exploration of a character, and more that
+   the character is simply a vehicle for an exploration of philosophy. In
+   fact, there were times when reading Grendel that I wondered if Gardner
+   was simply using the tropes of fantasy to write a philosophical
+   treatise. Which feels unfair, because even in those moments I found
+   myself enjoying the story.
+
+   But that, in a sense, is why I always recommend Grendel, because it’s
+   by no definition a standard fantasy novel. I won’t lie to you: once
+   you’ve read it, you might not want to read something like it again. But
+   fantasy is such a huge, wide genre that can encompass so many different
+   stories. Grendel is a contemplative fantasy, and it’s a masterclass in
+   taking what was a fairly nondescript monster (from Beowulf, if you
+   weren’t sure), and turning it into something you can not only empathise
+   with, but end up rooting for.
+
+The Prince of Thorns
+
+   You might have heard this before: dispossessed prince seeks to reclaim
+   his throne. But it was something of as surprise to find that this
+   prince was a bit of a monster.
+
+   Lawrence certainly isn’t the first person to write an anti-hero, but I
+   was surprised at how much I liked Jorg, even as he did some pretty
+   unpleasant things. As is often the way, the anti-hero is saved by
+   offering scathing yet honest opinions that no-one else will voice, as
+   well as a minor and earnest romantic subplot. Sometimes, Jorg even
+   commits decent acts, although almost by accident.
+
+   I was also somewhat surprised to discover that this wasn’t a medieval
+   fantasy, but instead a fantasy set in a far-off, post-apocalyptic
+   world. Lawrence does a very good job of weaving in hints of this world
+   without being heavy-handed, which I appreciated; all too often, such a
+   setting is handled with the subtlety of a brick to the face.
+
+   The only downside to The Prince of Thorns is that the ending is almost
+   too neat for the first in a trilogy; the force driving you to read the
+   next book isn’t really the plot, more just your enjoyment of reading
+   this one. That’s hardly a terrible sin, but what can I say? I’m a
+   sucker for a cliffhanger.
+
+Spiderlight
+
+   My relationship with Dungeons & Dragons was brief. In fact, I played a
+   Dragon Quest once, and Warhammer Quest once. That’s it. But it was
+   enough to familiarise me with the tropes, and so I took great joy in
+   watching Adrian Tchaikovsky turn those tropes into a fun, engaging,
+   thoughtful novel.
+
+   The setup for Spiderlight is simple enough: the good guys are stalwart
+   warriors of hope and faith, the bad guys are ugly and monstrous.
+   Tchaikovsky turns that on its head pretty much straightaway. In fact,
+   the idea that good guys aren’t always good and bad guys aren’t always
+   bad runs through the entire novel.
+
+   Unfortunately, that means that twists and surprises aren’t overly
+   surprising. What was surprising was that I didn’t mind so much.
+   Considering that much of Spiderlight feels like it’s based on D&D
+   tropes, I was actually beginning to enjoy reading about the characters.
+   This is a stand-alone novel, so there isn’t much room for the stakes to
+   get to the usual dramatic heights of epic fantasy, but they felt high
+   enough for an enjoyable read.
+
+   And, while Spiderlight might not revolutionise the fantasy genre, I was
+   too busy empathising with a creepy, giant spider to really notice.
+
+Warbreaker
+
+   To say that Brandon Sanderson is prolific is an understatement. While
+   that’s great for his fans, sometimes a huge body of work can be
+   somewhat intimidating. Where do you begin? Once you start, are you
+   committing yourself to read dozens of books to get the full picture?
+   What if you just want a taster to see if you like the author’s work
+   before you dive in? Warbreaker is the taster you’ve been looking for.
+
+   The novel is fairly standard fantasy fare, with kingdoms in peril and
+   such. I did, however, appreciate that the magic system creates what are
+   essentially walking gods. One of them was even my favourite character;
+   Lightsong is somewhat jaded and disconnected from his life of luxury,
+   so he’s in the best position to make jokes and wry observations.
+   Unfortunately, Lightsong’s story takes a while to get going, which
+   creates an odd dissonance between his laconic existence and the more
+   traditional fantasty antics of the other characters.
+
+   But with a magic sword, a king to overthrow, and a few surprising
+   twists and turns, this is definitely worth a read.
+
+The Looking Glass Wars
+
+   What is it about Alice in Wonderland that has led so many writers to
+   reinterpret its story and themes? Whatever it is, Frank Beddor
+   certainly has a fresh take on things.
+
+   Take Alice in Wonderland and put it in the epic fantasy blender.
+   There’s a lost princess whose throne has been usurped, a kingdom under
+   a tyrant’s rule, and an assassin; yes, the Mad Hatter has become the
+   Hatter Madigan, and he’s a badass assassin now.
+
+   There are certainly times where the story veers into epic fantasy
+   cliches, but it’s almost a pleasure to see how Beddor twists the
+   classic tale to fit the cliches. Unfortunately, it looks like this book
+   is out of print, so you might have to hunt it down. I recommend you do.
+   I had a lot of fun reading it and, if you enjoy epic fantasy and
+   alternative takes on Alice, you will too.
+
+The Broken Sword
+
+   Published the same year as The Fellowship of the Ring (and therefore
+   uninfluenced by Tolkien), The Broken Sword is a novel that has all the
+   matter-of-fact grimness of Norse legends (and some of the characters
+   and settings, too), whilst telling an epic fantasy tale in much less
+   space than Tolkien ever managed it.
+
+   The book tells the story of the son of Orm the Strong, Scafloc.
+   Unfortunately, elves steal that son and replace it with a changeling,
+   Valgard (who is half-elf and half-troll). Orm unwittingly raises
+   Valgard, the elves raise Scafloc. There’s wars, the eponymous broken
+   sword, and betrayal. There’s also incest, murder, and the general sense
+   of inevitable doom that comes from a culture whose philosophy ends with
+   Ragnarok in which everyone dies (well, almost everyone).
+
+   This is fantasy that isn’t inspired by Christian values or even
+   traditional good vs evil narratives. If you’re the sort of person who
+   enjoys the Norse mythology, this is a fantasy novel for you. And if
+   you’re looking for something a little less spiritually uplifting than
+   traditional fantasy, you should give this a go too.
+
+Mort
+
+   If you ask me, Mort is the perfect Discworld book. It’s early enough in
+   the series that it serves as a great starting point, but it’s late
+   enough that Pratchett has got a grip on his creation. It tells the
+   story of Mort, a young boy who somehow ends up the apprentice of Death.
+   Yes, the skeletal chap who reaps souls and TALKS LIKE THIS. It’s funny,
+   it’s sweet, and it’s full of clever observations of life that make you
+   think a little too much, and laugh plenty.
+
+   But the humour isn’t what makes this a great fantasy novel. It’s
+   Pratchett’s inventiveness that does that. He likes to indulge in all
+   the tropes of fantasy, and play and lampoon them in clever ways. For
+   instance, magical rites are performed with plenty of pomp and ceremony,
+   but Pratchett reveals that this is more to do with pride and
+   professional prestige; most magic can be performed with very little
+   indeed. I also liked the way Pratchett incorporated the idea of
+   morphogenetics, ludicrous in real life but fascinating “science” for a
+   fantasy novel. And, of course, the way Ankh-Morpork reflects every
+   major city is always insightful and hilarious.
+
+   But the truth is that I like this book so much because of Death. Of
+   course, Death has become such a huge character that we’re no longer
+   surprised when the embodiment of death isn’t grim and murderous. But
+   it’s still a pleasure to see Death so likeable, so hapless, and even
+   funny. He isn’t a killer at all. He’s simply performing an existential
+   duty. He’s doing the job we gave him, which he’s very good at, and
+   trying to understand people, which he isn’t good at. Which brings us
+   back around to the comedy again, as Death tries to understand people,
+   and people try to explain things that don’t make much sense when you
+   think about them too long.
+
+   If you’ve never read a Discworld novel, this is the one to start with.
+   If you’ve read Discworld, but haven’t read this one, do so. And if you
+   don’t think Discworld is your cup of tea, do yourself a favour and give
+   this one a try.
+
+A Game of Thrones
+
+   If you’re someone who loves a grounded fantasy full of detail and lore
+   that also feels like it could actually happen, the first book of the
+   Song of Ice and Fire series is for you. You can understand why it takes
+   George R R Martin so long to write one of these, because they’re packed
+   to the gills with story and world.
+
+   But be warned: there are no happy endings in Westeros.
+
+   One of the reasons A Game of Thrones has attracted so much attention is
+   that it is a fantasy novel like no other. It is brutal, it is coarse,
+   it is harsh and it has no remorse. Martin doesn’t tip-toe around the
+   truth of the story. Characters have sex, get hurt, get maimed, and die.
+   Love that character? They’re going to die. Hate that character? Well,
+   they’ll probably die too; everybody does. In this way the novel is very
+   fair: nobody gets what they want. Especially the reader.
+
+   Speaking of endings, you might be put off reading this because the
+   ending of the TV series was somewhat controversial. Put that out of
+   your mind; the novels are taking their own path, and even if the
+   endings are similar, Martin’s work will make much more sense. So if
+   you’re tired of books with happy endings, and you’re looking for
+   something gritty and grounded, you can’t go wrong with A Game of
+   Thrones.
+
+American Gods
+
+   If you’ve ever read Neil Gaiman, you probably know what to expect. If
+   you haven’t, this is a good place to start.
+
+   The basic premise is that gods are real. All of them. And they walk
+   among us. Anansi, Anubis, Bilquis, Ēostre, Odin. You might not have
+   heard of them, because they’re the ancient gods of all of the various
+   cultures that came to America countless generations ago. As time went
+   on, people stopped believing in them, and they became less powerful.
+   But still there.
+
+   American Gods tells the tale of Shadow Moon, a man who leaves prison
+   and is drawn into this world of ancient gods by the enigmatic Mr
+   Wednesday. The novel is, effectively, a road trip across America,
+   meeting gods both old and new, while Shadow tries to figure out what’s
+   going on.
+
+   Because new gods rose to take the old gods’ place. Gods of technology
+   and television, the Internet and the stock exchange. It’s a fun
+   concept, and it’s always interesting to turn a page and see which
+   entity Gaiman decides we’ve decided to immortalise as a god.
+
+   Shadow is the stereotypical clueless narrator, serving as a way for the
+   other characters to explain what’s going on, but they don’t often
+   bother. This means there’s a huge mystery beneath the surface, and
+   while every mystery can be sometimes infuriating (why won’t someone
+   just say what’s going on?), the payoff is totally worth it.
+
+   But watch out for the middle section; it’s a bit slow, and it puts
+   people off, but stick with it: it’s totally worth it.
+
+The Darkness That Comes Before
+
+   It only occurred to me when writing this that The Darkness That Comes
+   Before reminds me of A Game of Thrones, only with less swearing and
+   sex. But it has that same density to it; it’s not an easy read, but
+   it’s stuffed with lore and story.
+
+   Like A Game of Thrones, true heroes are few and far between; most of
+   the characters are instead varying degrees of reprehensible. The
+   Darkness That Comes Before also tells a complicated story of political
+   scheming and a potentially supernatural threat. However I feel that
+   Bakker’s novel is far more labyrinthine than Martin’s. The Darkness
+   That Comes Before defies simple explanation; try to find a plot summary
+   and you’ll reach the end more confused than when you started reading
+   it.
+
+   But don’t let that put you off. This is certainly no straightforward
+   adventure fantasy, and it’s a book that requires all of your attention
+   to keep it straight in your mind. But I have never read a fantasy novel
+   that felt so real and even as it threatens to confuse you with its
+   complexity at every step, it develops in you a kind of Stockholm
+   Syndrome. Even as the novel abuses your mind, you can’t help but start
+   to admire it. And soon, you’re recommending that other people read it.
+
+Rivers of London
+
+   I went through months of people telling me that this book reminded me
+   of them before I read it and realised they’re absolutely right; Rivers
+   of London reads like a book I narrated. It’s sarcastic and a little
+   cynical with some dark humour mixed in. In fact, it’s hard to shake the
+   feeling that this is the sort of book I should be writing…
+
+   Rivers of London is an urban fantasy, telling the story of regular
+   policeman Peter Grant who stumbles across the existence of a secret
+   branch of the police that deals with the paranormal. A fairly standard
+   urban fantasy plot so far. But the way Aaronovitch builds his world has
+   a surprisingly Neil Gaiman-esque vibe to it; I saw surprising because
+   of the humour that’s laced throughout the book. Seriously, if you ever
+   needed a book called A Practical Guide to Sarcasm, this book would be a
+   contender.
+
+   But I happen to think sarcasm is funny.
+
+   Naturally, with Grant being a policeman, there’s a mystery to solve. To
+   be honest, I found myself less bothered by the mystery than perhaps I
+   should have been. That’s because I was enjoying the sheer pleasure of
+   the writing, the banter, and poor Grant’s cluelessness (yes, this is a
+   new world to him, but it seems pretty obvious that, for example, pale
+   people who don’t go outside might be more than they seem). Ordinarily,
+   such cluelessness would annoy me, but Grant is so likeable that it’s
+   hard to be irritated with him. Although it does make you wonder about
+   his detective skills.
+
+   Still, the hype around this series is deserved. Even if you’re not a
+   big fan of sarcasm, give it a read: I think you’ll agree it belongs on
+   a list of the best fantasy books.
+
+Truckers
+
+   Yes, Pratchett is on this list twice, but considering how many books
+   the man wrote, it’s amazing that Terry Pratchett doesn’t dominate the
+   entire thing! And, quite frankly, Truckers deserves a spot because it’s
+   great and I love it.
+
+   I actually first encountered Truckers via the kids TV series (which was
+   a great adaptation, and you should watch it), but quickly discovered
+   the book is far superior. The idea is simple; Masklin’s tribe of tiny
+   nomes find their way into a (soon to be demolished) department store
+   where the nomes don’t believe in the outside world.
+
+   This leads to a great deal of humorous misunderstandings about rain and
+   wind which will delight a child, and there’s plenty of Pratchett’s
+   trademark wit that makes the books fun for adults too.
+
+   Being for kids, Truckers is a quick and easy read, so it’s perfect for
+   when you haven’t got much time for reading. It also means there’s no
+   excuse for not reading, so get to it!
+
+A Monster Calls
+
+   This book is so good I had to stop reading it because I was about to
+   cry on a train.
+
+   The basic premise is that young boy Conor is watching his mother
+   succumb to cancer. He’s isolated and scared and lonely. And one night,
+   a gigantic monster comes to his bedroom. It promises to tell him three
+   true stories, and then Conor must tell a story. If the story he tells
+   is not true, the monster will destroy Conor.
+
+   What follows is a story that moved me very deeply. A Monster Calls
+   offers no easy answers, no saccharine solutions. It paints the world as
+   tricky and complicated. Conor’s pain and isolation is handled
+   perfectly; Ness never fumbles for your heartstrings. And the monster’s
+   stories are delightfully old, filled with the dark injustices and
+   terrible vengeances of ancient tales.
+
+   It’s hard to find a criticism of this book, to be honest. I must
+   strongly recommend you buy the illustrated edition, though; there are
+   few pages that aren’t touched by Jim Kay’s dark and energetic work, but
+   it supports the text rather than overshadowing it.
+
+   Oh, and try not to read it in public places. Unless you’re okay with
+   crying in public.
+
+The Raven Tower
+
+   Ann Leckie is a phenomenal writer, and I try to hold off from buying
+   her books because I devour them in a matter of days, leaving me left to
+   wait until the next one is released. The Raven Tower is her first
+   fantasy book and, while I have to admit it wasn’t as great as her
+   Imperial Radch trilogy, it’s pretty great.
+
+   One disclaimer, though: it’s written in the second person. Like
+   this:And you turned fully to stare at your hand against the wall, and
+   then down at your feet, feeling that constant, faint, grinding
+   vibration traveling through the yellowish stones. Could you hear me,
+   Eolo? Can you hear me now? I’m talking to you.
+
+   The Raven Tower is narrated by a god. Yep, an honest-to-god god called
+   Strength and Patience of the Hill. But it’s a tale told to another
+   character, Eolo. Both serve as the main characters, but interestingly
+   we only ever get Strength and Patience of the Hill’s impressions of
+   Eolo. The god guesses at the thoughts and motivations, rather than
+   being given to the reader by the character or by an omniscient
+   narrator. That makes this book interesting, but it also puts a distance
+   between the reader and one of the main characters.
+
+   This distance is the biggest flaw of the book. When I first began
+   writing, nearly every writer handing out advice told me not to try to
+   write in the second person. This is good advice. It’s fiendishly
+   difficult to pull off. The only reason that Leckie manages it is
+   because she’s a damn good writer.
+
+   The world she’s created is fascinating. The mystery she weaves is
+   enthralling. You might guess the answer to the mystery, but you
+   probably won’t guess how that can be the answer until Leckie tells you.
+
+   One other warning: this is not a book if you want sword and sorcery and
+   adventure. In fact, the book ends where many other authors would launch
+   into the big meaty action scenes! This is a different kind of fantasy
+   novel. It’s not without action. But it’s more cerebral. If you’re
+   looking for a change of pace that’s brilliantly written, you can’t go
+   wrong with The Raven Tower.
+
+The Lion, The Witch and The Wardrobe
+
+   It’s a classic for a reason, and you’ll never look at Turkish Delight
+   the same way again.
+
+   What child hasn’t daydreamed about a secret doorway that takes them to
+   a magical world? Even better, a magical world where they’re royalty.
+   Such daydreams take on an almost unbearable pathos when Lewis makes
+   them real for four kids during wartime Britain, but let’s be honest:
+   we’re here for Narnia, not the Second World War. And Narnia doesn’t
+   disappoint.
+
+   Lewis was a contemporary of Tolkien, and it shows: you won’t get gritty
+   or grounded fantasy, but something far more allegorical. In fact, the
+   Aslan/Jesus parallels are almost a little too on the nose at times, but
+   you’ll let Lewis off the hook because Aslan is great. And if he’s a
+   little too perfect, the White Witch is a little too frightening really.
+
+   Seriously, I’ve never been able to give Turkish Delight a fair shake
+   because of this book. But then, Turkish Delight is gross. Quite why
+   it’s such a temptation to these kids is beyond me…
+
+The Armoured Saint
+
+   The title and the cover art for this one had me hooked straightaway.
+   Perhaps it’s because it reminded me of the Sisters of Battle, a
+   power-armoured ecclesiastic army in Warhammer 40,000, a game I used to
+   play as a teenager. So I was looking forward to seeing this armoured
+   saint in action.
+
+   But, when it comes to action, The Armoured Saint is slow to get moving.
+   There’s action, sure, but this novel really feels like it’s setting up
+   the rest of the series. It could serve as a prequel, even. And the
+   foreshadowing is a little too obvious. As soon as the suit of armour
+   appears on the page, you know what’s going to happen. Except it doesn’t
+   happen for a long time. This, to be honest, was frustrating.
+
+   So why is it on this list? Because when the action finally does kick
+   off, it’s worth the wait. There might have been too much build-up, but
+   I still finished this novel with a sense of satisfaction and a desire
+   to read the next in the series.
+
+   (Hot tip: I actually listened to the audiobook version, but the
+   narration is dreadfully slow: this is definitely one to listen to at
+   1.25x speed!)
+
+Talion: Revenant
+
+   Michael A Stackpole writes a fantastic line in late-80s fantasy
+   fiction. It might seem quaint by comparison with the grittier fare that
+   is modern fantasy, but it’s hard not to enjoy the way Stackpole romps
+   through the story of Nolan, a young man training to be a Justice.
+
+   Let’s be clear that this novel is not a weighty tome; it’s a fun,
+   straightforward affair, and enjoyable for it. The story is split
+   between the trials of Nolan’s training and the present day, in which he
+   is tasked with protecting the man who killed his family. Both of these
+   throw challenges into Nolan’s path, but they’re nearly always dealt
+   with quickly. Even the huge conflict of protecting a man he blames for
+   slaughtering his family is quite easily handled. But that’s not really
+   a huge criticism.
+
+   That’s because Stackpole writes an uncomplicated novel; challenges and
+   trials are action set pieces, overcome so the action can continue. And
+   there’s plenty of action. Goblins and sorcerers, wood elves and the
+   undead. This is a galloping blockbuster of a novel, and if it doesn’t
+   require a lot of thought, it’s a lot of fun to read. Is that enough to
+   warrant a place on a list of the best fantasy books? I think so. Not
+   every fantasy book has to be a sprawling epic, a mighty trilogy, or an
+   overwrought drama. Sometimes it’s just a fun piece of escapism, and
+   Talion: Revenant is certainly that.
+
+   And a fun read seems like a good place to end this list. But I’ll be
+   updating it as I discover new and interesting reads! If you come across
+   a book you think deserves to be on this list, let me know!
+
+The Fey Man
+
+   Don’t think I’m being egotistical and trying to include my own novel in
+   a list of the best fantasy books! But it would be madness not to at
+   least mention The Fey Man. Obviously I’m biased, but I think you’ll
+   like it!
+
+   It’s the first book in the Realm Rift Saga, and it tells the tale of
+   Thomas Rymour, the prophet who cannot lie. An elf lord hatches a plot
+   to save the world by stealing a legendary sword; a sword that, it turns
+   out, only Tom can wield. Tom is forced to break his oath in order to
+   save the world. But while terrifying dragons scorch the skies, the
+   immortal creatures of Faerie hatch their own dark plans for the mortal
+   realm.
+
+   And these creatures aren’t delightful little fairies. Oh no. They’re
+   fearsome monsters that take pleasure in anything that alleviates the
+   boredom of eternity. That ranges from wordplay and innocent pranks all
+   the way up to torture and murder. Whatever takes their fancy.
+
+   From the frozen heights of the world to its labyrinthine depths, Tom
+   will face immortal creatures, terrifying dragons, and undead monsters
+   on his impossible quest to save the people he loves and the world they
+   live in. But how can he defeat an enemy that cannot be killed?
+
+   And that seems like a good place to end this list. But I’ll be updating
+   it as I discover new and interesting reads! If you come across a book
+   you think deserves to be on this list, let me know!
+
+   [divider-dark-reverse.svg]
+   [jtk-white.svg]
+   Privacy Policy Cookie Policy AI Policy
+
+   Manage Consent
+   To provide the best experiences, we use technologies like cookies to
+   store and/or access device information. Consenting to these
+   technologies will allow us to process data such as browsing behaviour
+   or unique IDs on this site. Not consenting or withdrawing consent, may
+   adversely affect certain features and functions.
+   Functional [ ] Functional Always active
+   The technical storage or access is strictly necessary for the
+   legitimate purpose of enabling the use of a specific service explicitly
+   requested by the subscriber or user, or for the sole purpose of
+   carrying out the transmission of a communication over an electronic
+   communications network.
+   Preferences [ ] Preferences
+   The technical storage or access is necessary for the legitimate purpose
+   of storing preferences that are not requested by the subscriber or
+   user.
+   Statistics [ ] Statistics
+   The technical storage or access that is used exclusively for
+   statistical purposes. The technical storage or access that is used
+   exclusively for anonymous statistical purposes. Without a subpoena,
+   voluntary compliance on the part of your Internet Service Provider, or
+   additional records from a third party, information stored or retrieved
+   for this purpose alone cannot usually be used to identify you.
+   Marketing [ ] Marketing
+   The technical storage or access is required to create user profiles to
+   send advertising, or to track the user on a website or across several
+   websites for similar marketing purposes.
+     * Manage options
+     * Manage services
+     * Manage {vendor_count} vendors
+     * Read more about these purposes
+
+   (BUTTON) Accept (BUTTON) Deny (BUTTON) View preferences (BUTTON) Save
+   preferences View preferences
+     * {title}
+     * {title}
+     * {title}
+
+   (BUTTON) Manage consent
+   #oEmbed (JSON) oEmbed (XML) JSON
+
+   [jamestkelly-black.svg]
+
+   (BUTTON)
+     * Home
+     * (BUTTON) What do you want to read? (BUTTON)
+       Fantasy Novels
+          + [expanded-01-Realm_Rift_Saga-eCover-scaled.jpg] The Realm Rift
+            Saga
+          + [The-Fey-Man-web-cover.jpg] The Fey Man
+          + [unquiet-sword-scaled.png] The Unquiet Sword
+          + [northern-wastes-scaled.png] The Northern Wastes
+       Other Reads
+          + [calling-the-makers-scaled.png] Calling the Makers
+          + [branwell-bronte-scaled.png] The Life and Work of
+            Branwell Brontë
+     * (BUTTON) Blog (BUTTON)
+          + Fantasy blogs
+          + Dreams of Dune
+          + Branwell Brontë articles
+          + Commentary tracks
+     * Newsletter
+     * About Me
+
+25 of the Best Fantasy Books You Should Read Next
+
+   [25bestfantasybooks.jpg]
+
+   I know what it’s like: sometimes you finish a book and you just don’t
+   know what to read next. That’s why I’ve put this list together of 25 of
+   the best fantasy books (in no particular order) that should be at the
+   top of your to-read list!
+
+   And if you’re in the mood for science fiction instead, I’ve got a list
+   for you too.
+
+Assassin’s Apprentice
+
+   Any list of the best fantasy books has to start with Assassin’s
+   Apprentice! The beginning of the Farseer trilogy, and also the
+   beginning of a nine book series that tells the life of Fitz, bastard
+   son of a disgraced prince, and his remarkable, hidden role in history.
+
+   Hobb’s Fitz books are very much a coming of age story, so if you’re a
+   fan of tight action and lean prose, pass on this one. But if you like a
+   fantasy book that enjoys its time with the world and it’s characters,
+   take a look at Assassin’s Apprentice.
+
+   Fitz is a great viewpoint character, flawed but full of good
+   intentions, and he’s supported by a huge range of varied characters
+   that are easy to love, and opposed by villains that are easy to hate.
+
+   Although this is the beginning of a story that will take nine books to
+   tell, don’t worry about getting sucked into a nine book series; the
+   first trilogy stands alone. In fact, I think it’s the best of the
+   three, although the second trilogy is very good too!
+
+A Sorcerer Slain
+
+   If you liked the sound of a murder mystery in a fantasy novel, but
+   didn’t really want a fantasy-Sherlock Holmes, then A Sorcerer Slain is
+   for you. It’s funny, action-packed, and clever. And perhaps the
+   greatest praise I can heap upon this book is that the lead character
+   and investigator, Lowmar Dashiel, thinks like a real person.
+
+   The story is set in the city of Andruan, where the Sorcerer Supreme has
+   been murdered (he would be the sorcerer slain). This act threatens to
+   topple the king and spark a civil war. With so many interested parties,
+   no-one can be above suspicion. But I’ve seen too many crime stories
+   where someone always is; there’s always someone the hero never suspects
+   for a moment, and it’s always them that did it. Always. But Dashiel
+   suspects nearly everyone at one point or another and I wanted to
+   applaud every time.
+
+   This smart writing extends to the genre blending that takes place in
+   this novel. When I first heard that Sivers was writing fantasy crime,
+   my first thought was that those genres were unusual bedfellows. But A
+   Sorcerer Slain is proof they make an excellent match; it calls no
+   attention to itself, borrowing tropes from both fantasy and crime as it
+   wills. At no point do these genres clash, and most of the time they’re
+   perfectly balanced.
+
+   In fact, the only thing that lets down this novel is when those genres
+   become unbalanced, and it embraces the fantasy genre too strongly. For
+   instance, there’s a great battle which on paper sounds great for a
+   fantasy novel. But this book is smaller, more intimate, and the battle
+   felt out of place to me. Once things had got back to Dashiel’s smaller
+   world, things felt more natural.
+
+   So if epic fantasy is the only kind of fantasy you’ll entertain, give
+   this one a pass. But if you’re in the mood for something a little
+   different, this crime fantasy might just scratch that itch.
+
+Children of Blood and Bone
+
+   If you’re tired of medieval-European fantasy, this is an excellent
+   choice for your next read. Adeyemi has written a story of persecution,
+   magic, and raw emotion that will catch you by surprise at times. This
+   might be a YA novel, but it doesn’t pull any punches; alongside the
+   smiles and the romance, there’s a lot of death, violence, and heartache
+   too.
+
+   Children of Blood and Bone tells the tale of Zélie Adebola, whose
+   mother was killed when tyrannical King Saran ordered the deaths of all
+   magic-wielding magi. Saran also severed the magi’s connection with the
+   gods, and now magic is no more. After a chance encounter, Zélie leads a
+   quest to bring magic back with the help of her brother, Tzain, and
+   Saran’s daughter, Princess Amari. Standing in their way is Amari’s
+   older brother, Prince Inan, but whether he is friend or foe is
+   uncertain, and there is a strange connection between Inan and Zélie
+   that might be more than it seems.
+
+   Adeyemi’s novel moves at a pace, hammering through the story There’s a
+   great sense of world, too. The Kingdom of Orisha feels huge, but
+   there’s also a sense that there’s a big wide world beyond its borders.
+   All of the characters have depth, too, and are full of the conflicts
+   and uncertainties that make a character human. So much of the story
+   hinges on these conflicting desires that I honestly wasn’t sure which
+   way the story was going to go, which is always a good thing!
+
+   Filled with character-driven, action-filled fantasy that differs from
+   the usual medieval-European fare, and unexpectedly moving at
+   times, Children of Blood and Bone really is one of the best fantasy
+   books out there.
+
+   Or, give it a listen: I got a copy of the audiobook for Children of
+   Blood and Bone, and I can’t recommend enough experiencing the book this
+   way. It’s beautifully narrated by Bahni Turpi, whose work is reason
+   enough to pick up the audiobook instead!
+
+The Lies of Locke Lamora
+
+   I always think of The Lies of Locke Lamora as Ocean’s 11 meets epic
+   fantasy. It’s not a perfect analogy; for instance, Scott Lynch’s novel
+   doesn’t feature Don Cheadle gamely trying to squeeze as much Cockney
+   rhyming slang into his dialogue as he can. But if you love a good heist
+   but you like fantasy worlds too, this is the book for you.
+
+   Locke Lamora is a member of the Gentlemen Bastards, a gang of thieves
+   working under the leadership of Father Chains. They all find themselves
+   wrapped up in the mysterious machinations of the Gray King, and the
+   story is filled with twists, double crosses, and desperate races to
+   save the day, not all of which are entirely successful.
+
+   Locke is a witty, smooth-talking character, so don’t come to this novel
+   for a gritty time. Yes, there’s violence, but there’s also jokes and
+   hijinks too. The body count gets pretty high, and there’s even a bit of
+   torture thrown in for good measure. But the general tone is less Game
+   of Thrones and more, well, Ocean’s Eleven. It’s a good time, and a
+   classic for a reason.
+
+Ship of Magic
+
+   Fresh off the back of the Farseer trilogy, Hobb wrote a new trilogy set
+   in the same world, but with a very different setting.
+
+   Where the Farseer trilogy dealt with magic and dragons, this new
+   trilogy deals Liveships, ships made from wood imbued with magic that
+   makes the ship come alive. These ships absorb the personalities of the
+   people who have died on deck, which is a fascinating and slightly
+   disturbing idea!
+
+   If you read Assassin’s Apprentice and you weren’t a fan of the main
+   character, Fitz, then give Ship of Magic a chance. It’s full of very
+   different characters: a woman trying to become captain of a ship; a boy
+   taken from his life training to be a priest; a pirate who would be
+   king. Because it’s a book about ships; of course there are pirates!
+
+   Hobb’s writing is as strong as ever, and there are some interesting,
+   subtle links to her Fitz books for the eagle-eyed, but this trilogy
+   stands apart from her other work.
+
+Redwall
+
+   Brian Jacques’ Redwall is the first in an epic fantasy series for
+   children starring English woodland animals. It’s quaint and it’s sweet
+   and it’s fun. It’s a fantastic introduction to fantasy for children or,
+   if you’re an adult, it’s a great read between thick fantasy tomes.
+
+   The eponymous Redwall is an abbey, populated by mice, which faces the
+   threat of Cluny the Scourge, the appropriately named rat leader of an
+   army curiously hell-bent on conquering the abbey. The hero, Mathias, is
+   a young mouse who is always being told by his elders to be calm and
+   mindful, but lusts for adventure and excitement. Naturally, it falls to
+   him to somehow find a way to defend Redwall against the oncoming
+   threat.
+
+   There’s legendary warriors, an ancient sword, and riddles that will
+   puzzle and please young minds (although quite how the logic works will
+   puzzle older ones). Redwall should definitely be on your reading list,
+   and is undoubtedly one of the best fantasy books around!
+
+The Hobbit
+
+   The Lord of the Rings gets all the hype and the glory, but I think The
+   Hobbit is not just under-appreciated, but even (dare I say it) more
+   deserving of a place on a list of the best fantasy books than it’s
+   younger, bigger brother.
+
+   Tolkien’s first major work benefits from being a sleeker, more focused
+   thing. It’s not a big, sprawling epic, but an adventure story. A
+   treasure hunt, in fact, with a dragon to vanquish and humorous events
+   and coincidences along the way. The narrator has a knowing tone,
+   sharing asides and commentary with the reader that are intended to
+   delight and surprise. I’ve always had a soft spot for the invention of
+   golf in Middle-Earth; this is accredited to a Took’s fortuitous
+   decapitation of a goblin.
+
+   The origin of golf sums up The Hobbit rather nicely, in fact. This is a
+   fantasy adventure that isn’t meant to be taken too seriously. That
+   doesn’t mean that the stakes aren’t high, or that there aren’t
+   thrilling scenes and perilous moments. But this is fantasy without the
+   grit and grime, so it’s perfect for when you need a spot of levity and
+   adventure in your reading list.
+
+Grendel
+
+   This is a bit of a different one. If you like your fantasy full of
+   adventure, give this one a miss. But if you’re in the mood for
+   something contemplative, take a look at John C Gardner’s exploration of
+   the monster Grendel.
+
+   That’s somewhat misleading, in a sense, because there are times when
+   this book feels less like an exploration of a character, and more that
+   the character is simply a vehicle for an exploration of philosophy. In
+   fact, there were times when reading Grendel that I wondered if Gardner
+   was simply using the tropes of fantasy to write a philosophical
+   treatise. Which feels unfair, because even in those moments I found
+   myself enjoying the story.
+
+   But that, in a sense, is why I always recommend Grendel, because it’s
+   by no definition a standard fantasy novel. I won’t lie to you: once
+   you’ve read it, you might not want to read something like it again. But
+   fantasy is such a huge, wide genre that can encompass so many different
+   stories. Grendel is a contemplative fantasy, and it’s a masterclass in
+   taking what was a fairly nondescript monster (from Beowulf, if you
+   weren’t sure), and turning it into something you can not only empathise
+   with, but end up rooting for.
+
+The Prince of Thorns
+
+   You might have heard this before: dispossessed prince seeks to reclaim
+   his throne. But it was something of as surprise to find that this
+   prince was a bit of a monster.
+
+   Lawrence certainly isn’t the first person to write an anti-hero, but I
+   was surprised at how much I liked Jorg, even as he did some pretty
+   unpleasant things. As is often the way, the anti-hero is saved by
+   offering scathing yet honest opinions that no-one else will voice, as
+   well as a minor and earnest romantic subplot. Sometimes, Jorg even
+   commits decent acts, although almost by accident.
+
+   I was also somewhat surprised to discover that this wasn’t a medieval
+   fantasy, but instead a fantasy set in a far-off, post-apocalyptic
+   world. Lawrence does a very good job of weaving in hints of this world
+   without being heavy-handed, which I appreciated; all too often, such a
+   setting is handled with the subtlety of a brick to the face.
+
+   The only downside to The Prince of Thorns is that the ending is almost
+   too neat for the first in a trilogy; the force driving you to read the
+   next book isn’t really the plot, more just your enjoyment of reading
+   this one. That’s hardly a terrible sin, but what can I say? I’m a
+   sucker for a cliffhanger.
+
+Spiderlight
+
+   My relationship with Dungeons & Dragons was brief. In fact, I played a
+   Dragon Quest once, and Warhammer Quest once. That’s it. But it was
+   enough to familiarise me with the tropes, and so I took great joy in
+   watching Adrian Tchaikovsky turn those tropes into a fun, engaging,
+   thoughtful novel.
+
+   The setup for Spiderlight is simple enough: the good guys are stalwart
+   warriors of hope and faith, the bad guys are ugly and monstrous.
+   Tchaikovsky turns that on its head pretty much straightaway. In fact,
+   the idea that good guys aren’t always good and bad guys aren’t always
+   bad runs through the entire novel.
+
+   Unfortunately, that means that twists and surprises aren’t overly
+   surprising. What was surprising was that I didn’t mind so much.
+   Considering that much of Spiderlight feels like it’s based on D&D
+   tropes, I was actually beginning to enjoy reading about the characters.
+   This is a stand-alone novel, so there isn’t much room for the stakes to
+   get to the usual dramatic heights of epic fantasy, but they felt high
+   enough for an enjoyable read.
+
+   And, while Spiderlight might not revolutionise the fantasy genre, I was
+   too busy empathising with a creepy, giant spider to really notice.
+
+Warbreaker
+
+   To say that Brandon Sanderson is prolific is an understatement. While
+   that’s great for his fans, sometimes a huge body of work can be
+   somewhat intimidating. Where do you begin? Once you start, are you
+   committing yourself to read dozens of books to get the full picture?
+   What if you just want a taster to see if you like the author’s work
+   before you dive in? Warbreaker is the taster you’ve been looking for.
+
+   The novel is fairly standard fantasy fare, with kingdoms in peril and
+   such. I did, however, appreciate that the magic system creates what are
+   essentially walking gods. One of them was even my favourite character;
+   Lightsong is somewhat jaded and disconnected from his life of luxury,
+   so he’s in the best position to make jokes and wry observations.
+   Unfortunately, Lightsong’s story takes a while to get going, which
+   creates an odd dissonance between his laconic existence and the more
+   traditional fantasty antics of the other characters.
+
+   But with a magic sword, a king to overthrow, and a few surprising
+   twists and turns, this is definitely worth a read.
+
+The Looking Glass Wars
+
+   What is it about Alice in Wonderland that has led so many writers to
+   reinterpret its story and themes? Whatever it is, Frank Beddor
+   certainly has a fresh take on things.
+
+   Take Alice in Wonderland and put it in the epic fantasy blender.
+   There’s a lost princess whose throne has been usurped, a kingdom under
+   a tyrant’s rule, and an assassin; yes, the Mad Hatter has become the
+   Hatter Madigan, and he’s a badass assassin now.
+
+   There are certainly times where the story veers into epic fantasy
+   cliches, but it’s almost a pleasure to see how Beddor twists the
+   classic tale to fit the cliches. Unfortunately, it looks like this book
+   is out of print, so you might have to hunt it down. I recommend you do.
+   I had a lot of fun reading it and, if you enjoy epic fantasy and
+   alternative takes on Alice, you will too.
+
+The Broken Sword
+
+   Published the same year as The Fellowship of the Ring (and therefore
+   uninfluenced by Tolkien), The Broken Sword is a novel that has all the
+   matter-of-fact grimness of Norse legends (and some of the characters
+   and settings, too), whilst telling an epic fantasy tale in much less
+   space than Tolkien ever managed it.
+
+   The book tells the story of the son of Orm the Strong, Scafloc.
+   Unfortunately, elves steal that son and replace it with a changeling,
+   Valgard (who is half-elf and half-troll). Orm unwittingly raises
+   Valgard, the elves raise Scafloc. There’s wars, the eponymous broken
+   sword, and betrayal. There’s also incest, murder, and the general sense
+   of inevitable doom that comes from a culture whose philosophy ends with
+   Ragnarok in which everyone dies (well, almost everyone).
+
+   This is fantasy that isn’t inspired by Christian values or even
+   traditional good vs evil narratives. If you’re the sort of person who
+   enjoys the Norse mythology, this is a fantasy novel for you. And if
+   you’re looking for something a little less spiritually uplifting than
+   traditional fantasy, you should give this a go too.
+
+Mort
+
+   If you ask me, Mort is the perfect Discworld book. It’s early enough in
+   the series that it serves as a great starting point, but it’s late
+   enough that Pratchett has got a grip on his creation. It tells the
+   story of Mort, a young boy who somehow ends up the apprentice of Death.
+   Yes, the skeletal chap who reaps souls and TALKS LIKE THIS. It’s funny,
+   it’s sweet, and it’s full of clever observations of life that make you
+   think a little too much, and laugh plenty.
+
+   But the humour isn’t what makes this a great fantasy novel. It’s
+   Pratchett’s inventiveness that does that. He likes to indulge in all
+   the tropes of fantasy, and play and lampoon them in clever ways. For
+   instance, magical rites are performed with plenty of pomp and ceremony,
+   but Pratchett reveals that this is more to do with pride and
+   professional prestige; most magic can be performed with very little
+   indeed. I also liked the way Pratchett incorporated the idea of
+   morphogenetics, ludicrous in real life but fascinating “science” for a
+   fantasy novel. And, of course, the way Ankh-Morpork reflects every
+   major city is always insightful and hilarious.
+
+   But the truth is that I like this book so much because of Death. Of
+   course, Death has become such a huge character that we’re no longer
+   surprised when the embodiment of death isn’t grim and murderous. But
+   it’s still a pleasure to see Death so likeable, so hapless, and even
+   funny. He isn’t a killer at all. He’s simply performing an existential
+   duty. He’s doing the job we gave him, which he’s very good at, and
+   trying to understand people, which he isn’t good at. Which brings us
+   back around to the comedy again, as Death tries to understand people,
+   and people try to explain things that don’t make much sense when you
+   think about them too long.
+
+   If you’ve never read a Discworld novel, this is the one to start with.
+   If you’ve read Discworld, but haven’t read this one, do so. And if you
+   don’t think Discworld is your cup of tea, do yourself a favour and give
+   this one a try.
+
+A Game of Thrones
+
+   If you’re someone who loves a grounded fantasy full of detail and lore
+   that also feels like it could actually happen, the first book of the
+   Song of Ice and Fire series is for you. You can understand why it takes
+   George R R Martin so long to write one of these, because they’re packed
+   to the gills with story and world.
+
+   But be warned: there are no happy endings in Westeros.
+
+   One of the reasons A Game of Thrones has attracted so much attention is
+   that it is a fantasy novel like no other. It is brutal, it is coarse,
+   it is harsh and it has no remorse. Martin doesn’t tip-toe around the
+   truth of the story. Characters have sex, get hurt, get maimed, and die.
+   Love that character? They’re going to die. Hate that character? Well,
+   they’ll probably die too; everybody does. In this way the novel is very
+   fair: nobody gets what they want. Especially the reader.
+
+   Speaking of endings, you might be put off reading this because the
+   ending of the TV series was somewhat controversial. Put that out of
+   your mind; the novels are taking their own path, and even if the
+   endings are similar, Martin’s work will make much more sense. So if
+   you’re tired of books with happy endings, and you’re looking for
+   something gritty and grounded, you can’t go wrong with A Game of
+   Thrones.
+
+American Gods
+
+   If you’ve ever read Neil Gaiman, you probably know what to expect. If
+   you haven’t, this is a good place to start.
+
+   The basic premise is that gods are real. All of them. And they walk
+   among us. Anansi, Anubis, Bilquis, Ēostre, Odin. You might not have
+   heard of them, because they’re the ancient gods of all of the various
+   cultures that came to America countless generations ago. As time went
+   on, people stopped believing in them, and they became less powerful.
+   But still there.
+
+   American Gods tells the tale of Shadow Moon, a man who leaves prison
+   and is drawn into this world of ancient gods by the enigmatic Mr
+   Wednesday. The novel is, effectively, a road trip across America,
+   meeting gods both old and new, while Shadow tries to figure out what’s
+   going on.
+
+   Because new gods rose to take the old gods’ place. Gods of technology
+   and television, the Internet and the stock exchange. It’s a fun
+   concept, and it’s always interesting to turn a page and see which
+   entity Gaiman decides we’ve decided to immortalise as a god.
+
+   Shadow is the stereotypical clueless narrator, serving as a way for the
+   other characters to explain what’s going on, but they don’t often
+   bother. This means there’s a huge mystery beneath the surface, and
+   while every mystery can be sometimes infuriating (why won’t someone
+   just say what’s going on?), the payoff is totally worth it.
+
+   But watch out for the middle section; it’s a bit slow, and it puts
+   people off, but stick with it: it’s totally worth it.
+
+The Darkness That Comes Before
+
+   It only occurred to me when writing this that The Darkness That Comes
+   Before reminds me of A Game of Thrones, only with less swearing and
+   sex. But it has that same density to it; it’s not an easy read, but
+   it’s stuffed with lore and story.
+
+   Like A Game of Thrones, true heroes are few and far between; most of
+   the characters are instead varying degrees of reprehensible. The
+   Darkness That Comes Before also tells a complicated story of political
+   scheming and a potentially supernatural threat. However I feel that
+   Bakker’s novel is far more labyrinthine than Martin’s. The Darkness
+   That Comes Before defies simple explanation; try to find a plot summary
+   and you’ll reach the end more confused than when you started reading
+   it.
+
+   But don’t let that put you off. This is certainly no straightforward
+   adventure fantasy, and it’s a book that requires all of your attention
+   to keep it straight in your mind. But I have never read a fantasy novel
+   that felt so real and even as it threatens to confuse you with its
+   complexity at every step, it develops in you a kind of Stockholm
+   Syndrome. Even as the novel abuses your mind, you can’t help but start
+   to admire it. And soon, you’re recommending that other people read it.
+
+Rivers of London
+
+   I went through months of people telling me that this book reminded me
+   of them before I read it and realised they’re absolutely right; Rivers
+   of London reads like a book I narrated. It’s sarcastic and a little
+   cynical with some dark humour mixed in. In fact, it’s hard to shake the
+   feeling that this is the sort of book I should be writing…
+
+   Rivers of London is an urban fantasy, telling the story of regular
+   policeman Peter Grant who stumbles across the existence of a secret
+   branch of the police that deals with the paranormal. A fairly standard
+   urban fantasy plot so far. But the way Aaronovitch builds his world has
+   a surprisingly Neil Gaiman-esque vibe to it; I saw surprising because
+   of the humour that’s laced throughout the book. Seriously, if you ever
+   needed a book called A Practical Guide to Sarcasm, this book would be a
+   contender.
+
+   But I happen to think sarcasm is funny.
+
+   Naturally, with Grant being a policeman, there’s a mystery to solve. To
+   be honest, I found myself less bothered by the mystery than perhaps I
+   should have been. That’s because I was enjoying the sheer pleasure of
+   the writing, the banter, and poor Grant’s cluelessness (yes, this is a
+   new world to him, but it seems pretty obvious that, for example, pale
+   people who don’t go outside might be more than they seem). Ordinarily,
+   such cluelessness would annoy me, but Grant is so likeable that it’s
+   hard to be irritated with him. Although it does make you wonder about
+   his detective skills.
+
+   Still, the hype around this series is deserved. Even if you’re not a
+   big fan of sarcasm, give it a read: I think you’ll agree it belongs on
+   a list of the best fantasy books.
+
+Truckers
+
+   Yes, Pratchett is on this list twice, but considering how many books
+   the man wrote, it’s amazing that Terry Pratchett doesn’t dominate the
+   entire thing! And, quite frankly, Truckers deserves a spot because it’s
+   great and I love it.
+
+   I actually first encountered Truckers via the kids TV series (which was
+   a great adaptation, and you should watch it), but quickly discovered
+   the book is far superior. The idea is simple; Masklin’s tribe of tiny
+   nomes find their way into a (soon to be demolished) department store
+   where the nomes don’t believe in the outside world.
+
+   This leads to a great deal of humorous misunderstandings about rain and
+   wind which will delight a child, and there’s plenty of Pratchett’s
+   trademark wit that makes the books fun for adults too.
+
+   Being for kids, Truckers is a quick and easy read, so it’s perfect for
+   when you haven’t got much time for reading. It also means there’s no
+   excuse for not reading, so get to it!
+
+A Monster Calls
+
+   This book is so good I had to stop reading it because I was about to
+   cry on a train.
+
+   The basic premise is that young boy Conor is watching his mother
+   succumb to cancer. He’s isolated and scared and lonely. And one night,
+   a gigantic monster comes to his bedroom. It promises to tell him three
+   true stories, and then Conor must tell a story. If the story he tells
+   is not true, the monster will destroy Conor.
+
+   What follows is a story that moved me very deeply. A Monster Calls
+   offers no easy answers, no saccharine solutions. It paints the world as
+   tricky and complicated. Conor’s pain and isolation is handled
+   perfectly; Ness never fumbles for your heartstrings. And the monster’s
+   stories are delightfully old, filled with the dark injustices and
+   terrible vengeances of ancient tales.
+
+   It’s hard to find a criticism of this book, to be honest. I must
+   strongly recommend you buy the illustrated edition, though; there are
+   few pages that aren’t touched by Jim Kay’s dark and energetic work, but
+   it supports the text rather than overshadowing it.
+
+   Oh, and try not to read it in public places. Unless you’re okay with
+   crying in public.
+
+The Raven Tower
+
+   Ann Leckie is a phenomenal writer, and I try to hold off from buying
+   her books because I devour them in a matter of days, leaving me left to
+   wait until the next one is released. The Raven Tower is her first
+   fantasy book and, while I have to admit it wasn’t as great as her
+   Imperial Radch trilogy, it’s pretty great.
+
+   One disclaimer, though: it’s written in the second person. Like
+   this:And you turned fully to stare at your hand against the wall, and
+   then down at your feet, feeling that constant, faint, grinding
+   vibration traveling through the yellowish stones. Could you hear me,
+   Eolo? Can you hear me now? I’m talking to you.
+
+   The Raven Tower is narrated by a god. Yep, an honest-to-god god called
+   Strength and Patience of the Hill. But it’s a tale told to another
+   character, Eolo. Both serve as the main characters, but interestingly
+   we only ever get Strength and Patience of the Hill’s impressions of
+   Eolo. The god guesses at the thoughts and motivations, rather than
+   being given to the reader by the character or by an omniscient
+   narrator. That makes this book interesting, but it also puts a distance
+   between the reader and one of the main characters.
+
+   This distance is the biggest flaw of the book. When I first began
+   writing, nearly every writer handing out advice told me not to try to
+   write in the second person. This is good advice. It’s fiendishly
+   difficult to pull off. The only reason that Leckie manages it is
+   because she’s a damn good writer.
+
+   The world she’s created is fascinating. The mystery she weaves is
+   enthralling. You might guess the answer to the mystery, but you
+   probably won’t guess how that can be the answer until Leckie tells you.
+
+   One other warning: this is not a book if you want sword and sorcery and
+   adventure. In fact, the book ends where many other authors would launch
+   into the big meaty action scenes! This is a different kind of fantasy
+   novel. It’s not without action. But it’s more cerebral. If you’re
+   looking for a change of pace that’s brilliantly written, you can’t go
+   wrong with The Raven Tower.
+
+The Lion, The Witch and The Wardrobe
+
+   It’s a classic for a reason, and you’ll never look at Turkish Delight
+   the same way again.
+
+   What child hasn’t daydreamed about a secret doorway that takes them to
+   a magical world? Even better, a magical world where they’re royalty.
+   Such daydreams take on an almost unbearable pathos when Lewis makes
+   them real for four kids during wartime Britain, but let’s be honest:
+   we’re here for Narnia, not the Second World War. And Narnia doesn’t
+   disappoint.
+
+   Lewis was a contemporary of Tolkien, and it shows: you won’t get gritty
+   or grounded fantasy, but something far more allegorical. In fact, the
+   Aslan/Jesus parallels are almost a little too on the nose at times, but
+   you’ll let Lewis off the hook because Aslan is great. And if he’s a
+   little too perfect, the White Witch is a little too frightening really.
+
+   Seriously, I’ve never been able to give Turkish Delight a fair shake
+   because of this book. But then, Turkish Delight is gross. Quite why
+   it’s such a temptation to these kids is beyond me…
+
+The Armoured Saint
+
+   The title and the cover art for this one had me hooked straightaway.
+   Perhaps it’s because it reminded me of the Sisters of Battle, a
+   power-armoured ecclesiastic army in Warhammer 40,000, a game I used to
+   play as a teenager. So I was looking forward to seeing this armoured
+   saint in action.
+
+   But, when it comes to action, The Armoured Saint is slow to get moving.
+   There’s action, sure, but this novel really feels like it’s setting up
+   the rest of the series. It could serve as a prequel, even. And the
+   foreshadowing is a little too obvious. As soon as the suit of armour
+   appears on the page, you know what’s going to happen. Except it doesn’t
+   happen for a long time. This, to be honest, was frustrating.
+
+   So why is it on this list? Because when the action finally does kick
+   off, it’s worth the wait. There might have been too much build-up, but
+   I still finished this novel with a sense of satisfaction and a desire
+   to read the next in the series.
+
+   (Hot tip: I actually listened to the audiobook version, but the
+   narration is dreadfully slow: this is definitely one to listen to at
+   1.25x speed!)
+
+Talion: Revenant
+
+   Michael A Stackpole writes a fantastic line in late-80s fantasy
+   fiction. It might seem quaint by comparison with the grittier fare that
+   is modern fantasy, but it’s hard not to enjoy the way Stackpole romps
+   through the story of Nolan, a young man training to be a Justice.
+
+   Let’s be clear that this novel is not a weighty tome; it’s a fun,
+   straightforward affair, and enjoyable for it. The story is split
+   between the trials of Nolan’s training and the present day, in which he
+   is tasked with protecting the man who killed his family. Both of these
+   throw challenges into Nolan’s path, but they’re nearly always dealt
+   with quickly. Even the huge conflict of protecting a man he blames for
+   slaughtering his family is quite easily handled. But that’s not really
+   a huge criticism.
+
+   That’s because Stackpole writes an uncomplicated novel; challenges and
+   trials are action set pieces, overcome so the action can continue. And
+   there’s plenty of action. Goblins and sorcerers, wood elves and the
+   undead. This is a galloping blockbuster of a novel, and if it doesn’t
+   require a lot of thought, it’s a lot of fun to read. Is that enough to
+   warrant a place on a list of the best fantasy books? I think so. Not
+   every fantasy book has to be a sprawling epic, a mighty trilogy, or an
+   overwrought drama. Sometimes it’s just a fun piece of escapism, and
+   Talion: Revenant is certainly that.
+
+   And a fun read seems like a good place to end this list. But I’ll be
+   updating it as I discover new and interesting reads! If you come across
+   a book you think deserves to be on this list, let me know!
+
+The Fey Man
+
+   Don’t think I’m being egotistical and trying to include my own novel in
+   a list of the best fantasy books! But it would be madness not to at
+   least mention The Fey Man. Obviously I’m biased, but I think you’ll
+   like it!
+
+   It’s the first book in the Realm Rift Saga, and it tells the tale of
+   Thomas Rymour, the prophet who cannot lie. An elf lord hatches a plot
+   to save the world by stealing a legendary sword; a sword that, it turns
+   out, only Tom can wield. Tom is forced to break his oath in order to
+   save the world. But while terrifying dragons scorch the skies, the
+   immortal creatures of Faerie hatch their own dark plans for the mortal
+   realm.
+
+   And these creatures aren’t delightful little fairies. Oh no. They’re
+   fearsome monsters that take pleasure in anything that alleviates the
+   boredom of eternity. That ranges from wordplay and innocent pranks all
+   the way up to torture and murder. Whatever takes their fancy.
+
+   From the frozen heights of the world to its labyrinthine depths, Tom
+   will face immortal creatures, terrifying dragons, and undead monsters
+   on his impossible quest to save the people he loves and the world they
+   live in. But how can he defeat an enemy that cannot be killed?
+
+   And that seems like a good place to end this list. But I’ll be updating
+   it as I discover new and interesting reads! If you come across a book
+   you think deserves to be on this list, let me know!
+
+   [divider-dark-reverse.svg]
+   [jtk-white.svg]
+   Privacy Policy Cookie Policy AI Policy
+
+   Manage Consent
+   To provide the best experiences, we use technologies like cookies to
+   store and/or access device information. Consenting to these
+   technologies will allow us to process data such as browsing behaviour
+   or unique IDs on this site. Not consenting or withdrawing consent, may
+   adversely affect certain features and functions.
+   Functional [ ] Functional Always active
+   The technical storage or access is strictly necessary for the
+   legitimate purpose of enabling the use of a specific service explicitly
+   requested by the subscriber or user, or for the sole purpose of
+   carrying out the transmission of a communication over an electronic
+   communications network.
+   Preferences [ ] Preferences
+   The technical storage or access is necessary for the legitimate purpose
+   of storing preferences that are not requested by the subscriber or
+   user.
+   Statistics [ ] Statistics
+   The technical storage or access that is used exclusively for
+   statistical purposes. The technical storage or access that is used
+   exclusively for anonymous statistical purposes. Without a subpoena,
+   voluntary compliance on the part of your Internet Service Provider, or
+   additional records from a third party, information stored or retrieved
+   for this purpose alone cannot usually be used to identify you.
+   Marketing [ ] Marketing
+   The technical storage or access is required to create user profiles to
+   send advertising, or to track the user on a website or across several
+   websites for similar marketing purposes.
+     * Manage options
+     * Manage services
+     * Manage {vendor_count} vendors
+     * Read more about these purposes
+
+   (BUTTON) Accept (BUTTON) Deny (BUTTON) View preferences (BUTTON) Save
+   preferences View preferences
+     * {title}
+     * {title}
+     * {title}
+
+   (BUTTON) Manage consent
+   #oEmbed (JSON) oEmbed (XML) JSON
+
+   [jamestkelly-black.svg]
+
+   (BUTTON)
+     * Home
+     * (BUTTON) What do you want to read? (BUTTON)
+       Fantasy Novels
+          + [expanded-01-Realm_Rift_Saga-eCover-scaled.jpg] The Realm Rift
+            Saga
+          + [The-Fey-Man-web-cover.jpg] The Fey Man
+          + [unquiet-sword-scaled.png] The Unquiet Sword
+          + [northern-wastes-scaled.png] The Northern Wastes
+       Other Reads
+          + [calling-the-makers-scaled.png] Calling the Makers
+          + [branwell-bronte-scaled.png] The Life and Work of
+            Branwell Brontë
+     * (BUTTON) Blog (BUTTON)
+          + Fantasy blogs
+          + Dreams of Dune
+          + Branwell Brontë articles
+          + Commentary tracks
+     * Newsletter
+     * About Me
+
+25 of the Best Fantasy Books You Should Read Next
+
+   [25bestfantasybooks.jpg]
+
+   I know what it’s like: sometimes you finish a book and you just don’t
+   know what to read next. That’s why I’ve put this list together of 25 of
+   the best fantasy books (in no particular order) that should be at the
+   top of your to-read list!
+
+   And if you’re in the mood for science fiction instead, I’ve got a list
+   for you too.
+
+Assassin’s Apprentice
+
+   Any list of the best fantasy books has to start with Assassin’s
+   Apprentice! The beginning of the Farseer trilogy, and also the
+   beginning of a nine book series that tells the life of Fitz, bastard
+   son of a disgraced prince, and his remarkable, hidden role in history.
+
+   Hobb’s Fitz books are very much a coming of age story, so if you’re a
+   fan of tight action and lean prose, pass on this one. But if you like a
+   fantasy book that enjoys its time with the world and it’s characters,
+   take a look at Assassin’s Apprentice.
+
+   Fitz is a great viewpoint character, flawed but full of good
+   intentions, and he’s supported by a huge range of varied characters
+   that are easy to love, and opposed by villains that are easy to hate.
+
+   Although this is the beginning of a story that will take nine books to
+   tell, don’t worry about getting sucked into a nine book series; the
+   first trilogy stands alone. In fact, I think it’s the best of the
+   three, although the second trilogy is very good too!
+
+A Sorcerer Slain
+
+   If you liked the sound of a murder mystery in a fantasy novel, but
+   didn’t really want a fantasy-Sherlock Holmes, then A Sorcerer Slain is
+   for you. It’s funny, action-packed, and clever. And perhaps the
+   greatest praise I can heap upon this book is that the lead character
+   and investigator, Lowmar Dashiel, thinks like a real person.
+
+   The story is set in the city of Andruan, where the Sorcerer Supreme has
+   been murdered (he would be the sorcerer slain). This act threatens to
+   topple the king and spark a civil war. With so many interested parties,
+   no-one can be above suspicion. But I’ve seen too many crime stories
+   where someone always is; there’s always someone the hero never suspects
+   for a moment, and it’s always them that did it. Always. But Dashiel
+   suspects nearly everyone at one point or another and I wanted to
+   applaud every time.
+
+   This smart writing extends to the genre blending that takes place in
+   this novel. When I first heard that Sivers was writing fantasy crime,
+   my first thought was that those genres were unusual bedfellows. But A
+   Sorcerer Slain is proof they make an excellent match; it calls no
+   attention to itself, borrowing tropes from both fantasy and crime as it
+   wills. At no point do these genres clash, and most of the time they’re
+   perfectly balanced.
+
+   In fact, the only thing that lets down this novel is when those genres
+   become unbalanced, and it embraces the fantasy genre too strongly. For
+   instance, there’s a great battle which on paper sounds great for a
+   fantasy novel. But this book is smaller, more intimate, and the battle
+   felt out of place to me. Once things had got back to Dashiel’s smaller
+   world, things felt more natural.
+
+   So if epic fantasy is the only kind of fantasy you’ll entertain, give
+   this one a pass. But if you’re in the mood for something a little
+   different, this crime fantasy might just scratch that itch.
+
+Children of Blood and Bone
+
+   If you’re tired of medieval-European fantasy, this is an excellent
+   choice for your next read. Adeyemi has written a story of persecution,
+   magic, and raw emotion that will catch you by surprise at times. This
+   might be a YA novel, but it doesn’t pull any punches; alongside the
+   smiles and the romance, there’s a lot of death, violence, and heartache
+   too.
+
+   Children of Blood and Bone tells the tale of Zélie Adebola, whose
+   mother was killed when tyrannical King Saran ordered the deaths of all
+   magic-wielding magi. Saran also severed the magi’s connection with the
+   gods, and now magic is no more. After a chance encounter, Zélie leads a
+   quest to bring magic back with the help of her brother, Tzain, and
+   Saran’s daughter, Princess Amari. Standing in their way is Amari’s
+   older brother, Prince Inan, but whether he is friend or foe is
+   uncertain, and there is a strange connection between Inan and Zélie
+   that might be more than it seems.
+
+   Adeyemi’s novel moves at a pace, hammering through the story There’s a
+   great sense of world, too. The Kingdom of Orisha feels huge, but
+   there’s also a sense that there’s a big wide world beyond its borders.
+   All of the characters have depth, too, and are full of the conflicts
+   and uncertainties that make a character human. So much of the story
+   hinges on these conflicting desires that I honestly wasn’t sure which
+   way the story was going to go, which is always a good thing!
+
+   Filled with character-driven, action-filled fantasy that differs from
+   the usual medieval-European fare, and unexpectedly moving at
+   times, Children of Blood and Bone really is one of the best fantasy
+   books out there.
+
+   Or, give it a listen: I got a copy of the audiobook for Children of
+   Blood and Bone, and I can’t recommend enough experiencing the book this
+   way. It’s beautifully narrated by Bahni Turpi, whose work is reason
+   enough to pick up the audiobook instead!
+
+The Lies of Locke Lamora
+
+   I always think of The Lies of Locke Lamora as Ocean’s 11 meets epic
+   fantasy. It’s not a perfect analogy; for instance, Scott Lynch’s novel
+   doesn’t feature Don Cheadle gamely trying to squeeze as much Cockney
+   rhyming slang into his dialogue as he can. But if you love a good heist
+   but you like fantasy worlds too, this is the book for you.
+
+   Locke Lamora is a member of the Gentlemen Bastards, a gang of thieves
+   working under the leadership of Father Chains. They all find themselves
+   wrapped up in the mysterious machinations of the Gray King, and the
+   story is filled with twists, double crosses, and desperate races to
+   save the day, not all of which are entirely successful.
+
+   Locke is a witty, smooth-talking character, so don’t come to this novel
+   for a gritty time. Yes, there’s violence, but there’s also jokes and
+   hijinks too. The body count gets pretty high, and there’s even a bit of
+   torture thrown in for good measure. But the general tone is less Game
+   of Thrones and more, well, Ocean’s Eleven. It’s a good time, and a
+   classic for a reason.
+
+Ship of Magic
+
+   Fresh off the back of the Farseer trilogy, Hobb wrote a new trilogy set
+   in the same world, but with a very different setting.
+
+   Where the Farseer trilogy dealt with magic and dragons, this new
+   trilogy deals Liveships, ships made from wood imbued with magic that
+   makes the ship come alive. These ships absorb the personalities of the
+   people who have died on deck, which is a fascinating and slightly
+   disturbing idea!
+
+   If you read Assassin’s Apprentice and you weren’t a fan of the main
+   character, Fitz, then give Ship of Magic a chance. It’s full of very
+   different characters: a woman trying to become captain of a ship; a boy
+   taken from his life training to be a priest; a pirate who would be
+   king. Because it’s a book about ships; of course there are pirates!
+
+   Hobb’s writing is as strong as ever, and there are some interesting,
+   subtle links to her Fitz books for the eagle-eyed, but this trilogy
+   stands apart from her other work.
+
+Redwall
+
+   Brian Jacques’ Redwall is the first in an epic fantasy series for
+   children starring English woodland animals. It’s quaint and it’s sweet
+   and it’s fun. It’s a fantastic introduction to fantasy for children or,
+   if you’re an adult, it’s a great read between thick fantasy tomes.
+
+   The eponymous Redwall is an abbey, populated by mice, which faces the
+   threat of Cluny the Scourge, the appropriately named rat leader of an
+   army curiously hell-bent on conquering the abbey. The hero, Mathias, is
+   a young mouse who is always being told by his elders to be calm and
+   mindful, but lusts for adventure and excitement. Naturally, it falls to
+   him to somehow find a way to defend Redwall against the oncoming
+   threat.
+
+   There’s legendary warriors, an ancient sword, and riddles that will
+   puzzle and please young minds (although quite how the logic works will
+   puzzle older ones). Redwall should definitely be on your reading list,
+   and is undoubtedly one of the best fantasy books around!
+
+The Hobbit
+
+   The Lord of the Rings gets all the hype and the glory, but I think The
+   Hobbit is not just under-appreciated, but even (dare I say it) more
+   deserving of a place on a list of the best fantasy books than it’s
+   younger, bigger brother.
+
+   Tolkien’s first major work benefits from being a sleeker, more focused
+   thing. It’s not a big, sprawling epic, but an adventure story. A
+   treasure hunt, in fact, with a dragon to vanquish and humorous events
+   and coincidences along the way. The narrator has a knowing tone,
+   sharing asides and commentary with the reader that are intended to
+   delight and surprise. I’ve always had a soft spot for the invention of
+   golf in Middle-Earth; this is accredited to a Took’s fortuitous
+   decapitation of a goblin.
+
+   The origin of golf sums up The Hobbit rather nicely, in fact. This is a
+   fantasy adventure that isn’t meant to be taken too seriously. That
+   doesn’t mean that the stakes aren’t high, or that there aren’t
+   thrilling scenes and perilous moments. But this is fantasy without the
+   grit and grime, so it’s perfect for when you need a spot of levity and
+   adventure in your reading list.
+
+Grendel
+
+   This is a bit of a different one. If you like your fantasy full of
+   adventure, give this one a miss. But if you’re in the mood for
+   something contemplative, take a look at John C Gardner’s exploration of
+   the monster Grendel.
+
+   That’s somewhat misleading, in a sense, because there are times when
+   this book feels less like an exploration of a character, and more that
+   the character is simply a vehicle for an exploration of philosophy. In
+   fact, there were times when reading Grendel that I wondered if Gardner
+   was simply using the tropes of fantasy to write a philosophical
+   treatise. Which feels unfair, because even in those moments I found
+   myself enjoying the story.
+
+   But that, in a sense, is why I always recommend Grendel, because it’s
+   by no definition a standard fantasy novel. I won’t lie to you: once
+   you’ve read it, you might not want to read something like it again. But
+   fantasy is such a huge, wide genre that can encompass so many different
+   stories. Grendel is a contemplative fantasy, and it’s a masterclass in
+   taking what was a fairly nondescript monster (from Beowulf, if you
+   weren’t sure), and turning it into something you can not only empathise
+   with, but end up rooting for.
+
+The Prince of Thorns
+
+   You might have heard this before: dispossessed prince seeks to reclaim
+   his throne. But it was something of as surprise to find that this
+   prince was a bit of a monster.
+
+   Lawrence certainly isn’t the first person to write an anti-hero, but I
+   was surprised at how much I liked Jorg, even as he did some pretty
+   unpleasant things. As is often the way, the anti-hero is saved by
+   offering scathing yet honest opinions that no-one else will voice, as
+   well as a minor and earnest romantic subplot. Sometimes, Jorg even
+   commits decent acts, although almost by accident.
+
+   I was also somewhat surprised to discover that this wasn’t a medieval
+   fantasy, but instead a fantasy set in a far-off, post-apocalyptic
+   world. Lawrence does a very good job of weaving in hints of this world
+   without being heavy-handed, which I appreciated; all too often, such a
+   setting is handled with the subtlety of a brick to the face.
+
+   The only downside to The Prince of Thorns is that the ending is almost
+   too neat for the first in a trilogy; the force driving you to read the
+   next book isn’t really the plot, more just your enjoyment of reading
+   this one. That’s hardly a terrible sin, but what can I say? I’m a
+   sucker for a cliffhanger.
+
+Spiderlight
+
+   My relationship with Dungeons & Dragons was brief. In fact, I played a
+   Dragon Quest once, and Warhammer Quest once. That’s it. But it was
+   enough to familiarise me with the tropes, and so I took great joy in
+   watching Adrian Tchaikovsky turn those tropes into a fun, engaging,
+   thoughtful novel.
+
+   The setup for Spiderlight is simple enough: the good guys are stalwart
+   warriors of hope and faith, the bad guys are ugly and monstrous.
+   Tchaikovsky turns that on its head pretty much straightaway. In fact,
+   the idea that good guys aren’t always good and bad guys aren’t always
+   bad runs through the entire novel.
+
+   Unfortunately, that means that twists and surprises aren’t overly
+   surprising. What was surprising was that I didn’t mind so much.
+   Considering that much of Spiderlight feels like it’s based on D&D
+   tropes, I was actually beginning to enjoy reading about the characters.
+   This is a stand-alone novel, so there isn’t much room for the stakes to
+   get to the usual dramatic heights of epic fantasy, but they felt high
+   enough for an enjoyable read.
+
+   And, while Spiderlight might not revolutionise the fantasy genre, I was
+   too busy empathising with a creepy, giant spider to really notice.
+
+Warbreaker
+
+   To say that Brandon Sanderson is prolific is an understatement. While
+   that’s great for his fans, sometimes a huge body of work can be
+   somewhat intimidating. Where do you begin? Once you start, are you
+   committing yourself to read dozens of books to get the full picture?
+   What if you just want a taster to see if you like the author’s work
+   before you dive in? Warbreaker is the taster you’ve been looking for.
+
+   The novel is fairly standard fantasy fare, with kingdoms in peril and
+   such. I did, however, appreciate that the magic system creates what are
+   essentially walking gods. One of them was even my favourite character;
+   Lightsong is somewhat jaded and disconnected from his life of luxury,
+   so he’s in the best position to make jokes and wry observations.
+   Unfortunately, Lightsong’s story takes a while to get going, which
+   creates an odd dissonance between his laconic existence and the more
+   traditional fantasty antics of the other characters.
+
+   But with a magic sword, a king to overthrow, and a few surprising
+   twists and turns, this is definitely worth a read.
+
+The Looking Glass Wars
+
+   What is it about Alice in Wonderland that has led so many writers to
+   reinterpret its story and themes? Whatever it is, Frank Beddor
+   certainly has a fresh take on things.
+
+   Take Alice in Wonderland and put it in the epic fantasy blender.
+   There’s a lost princess whose throne has been usurped, a kingdom under
+   a tyrant’s rule, and an assassin; yes, the Mad Hatter has become the
+   Hatter Madigan, and he’s a badass assassin now.
+
+   There are certainly times where the story veers into epic fantasy
+   cliches, but it’s almost a pleasure to see how Beddor twists the
+   classic tale to fit the cliches. Unfortunately, it looks like this book
+   is out of print, so you might have to hunt it down. I recommend you do.
+   I had a lot of fun reading it and, if you enjoy epic fantasy and
+   alternative takes on Alice, you will too.
+
+The Broken Sword
+
+   Published the same year as The Fellowship of the Ring (and therefore
+   uninfluenced by Tolkien), The Broken Sword is a novel that has all the
+   matter-of-fact grimness of Norse legends (and some of the characters
+   and settings, too), whilst telling an epic fantasy tale in much less
+   space than Tolkien ever managed it.
+
+   The book tells the story of the son of Orm the Strong, Scafloc.
+   Unfortunately, elves steal that son and replace it with a changeling,
+   Valgard (who is half-elf and half-troll). Orm unwittingly raises
+   Valgard, the elves raise Scafloc. There’s wars, the eponymous broken
+   sword, and betrayal. There’s also incest, murder, and the general sense
+   of inevitable doom that comes from a culture whose philosophy ends with
+   Ragnarok in which everyone dies (well, almost everyone).
+
+   This is fantasy that isn’t inspired by Christian values or even
+   traditional good vs evil narratives. If you’re the sort of person who
+   enjoys the Norse mythology, this is a fantasy novel for you. And if
+   you’re looking for something a little less spiritually uplifting than
+   traditional fantasy, you should give this a go too.
+
+Mort
+
+   If you ask me, Mort is the perfect Discworld book. It’s early enough in
+   the series that it serves as a great starting point, but it’s late
+   enough that Pratchett has got a grip on his creation. It tells the
+   story of Mort, a young boy who somehow ends up the apprentice of Death.
+   Yes, the skeletal chap who reaps souls and TALKS LIKE THIS. It’s funny,
+   it’s sweet, and it’s full of clever observations of life that make you
+   think a little too much, and laugh plenty.
+
+   But the humour isn’t what makes this a great fantasy novel. It’s
+   Pratchett’s inventiveness that does that. He likes to indulge in all
+   the tropes of fantasy, and play and lampoon them in clever ways. For
+   instance, magical rites are performed with plenty of pomp and ceremony,
+   but Pratchett reveals that this is more to do with pride and
+   professional prestige; most magic can be performed with very little
+   indeed. I also liked the way Pratchett incorporated the idea of
+   morphogenetics, ludicrous in real life but fascinating “science” for a
+   fantasy novel. And, of course, the way Ankh-Morpork reflects every
+   major city is always insightful and hilarious.
+
+   But the truth is that I like this book so much because of Death. Of
+   course, Death has become such a huge character that we’re no longer
+   surprised when the embodiment of death isn’t grim and murderous. But
+   it’s still a pleasure to see Death so likeable, so hapless, and even
+   funny. He isn’t a killer at all. He’s simply performing an existential
+   duty. He’s doing the job we gave him, which he’s very good at, and
+   trying to understand people, which he isn’t good at. Which brings us
+   back around to the comedy again, as Death tries to understand people,
+   and people try to explain things that don’t make much sense when you
+   think about them too long.
+
+   If you’ve never read a Discworld novel, this is the one to start with.
+   If you’ve read Discworld, but haven’t read this one, do so. And if you
+   don’t think Discworld is your cup of tea, do yourself a favour and give
+   this one a try.
+
+A Game of Thrones
+
+   If you’re someone who loves a grounded fantasy full of detail and lore
+   that also feels like it could actually happen, the first book of the
+   Song of Ice and Fire series is for you. You can understand why it takes
+   George R R Martin so long to write one of these, because they’re packed
+   to the gills with story and world.
+
+   But be warned: there are no happy endings in Westeros.
+
+   One of the reasons A Game of Thrones has attracted so much attention is
+   that it is a fantasy novel like no other. It is brutal, it is coarse,
+   it is harsh and it has no remorse. Martin doesn’t tip-toe around the
+   truth of the story. Characters have sex, get hurt, get maimed, and die.
+   Love that character? They’re going to die. Hate that character? Well,
+   they’ll probably die too; everybody does. In this way the novel is very
+   fair: nobody gets what they want. Especially the reader.
+
+   Speaking of endings, you might be put off reading this because the
+   ending of the TV series was somewhat controversial. Put that out of
+   your mind; the novels are taking their own path, and even if the
+   endings are similar, Martin’s work will make much more sense. So if
+   you’re tired of books with happy endings, and you’re looking for
+   something gritty and grounded, you can’t go wrong with A Game of
+   Thrones.
+
+American Gods
+
+   If you’ve ever read Neil Gaiman, you probably know what to expect. If
+   you haven’t, this is a good place to start.
+
+   The basic premise is that gods are real. All of them. And they walk
+   among us. Anansi, Anubis, Bilquis, Ēostre, Odin. You might not have
+   heard of them, because they’re the ancient gods of all of the various
+   cultures that came to America countless generations ago. As time went
+   on, people stopped believing in them, and they became less powerful.
+   But still there.
+
+   American Gods tells the tale of Shadow Moon, a man who leaves prison
+   and is drawn into this world of ancient gods by the enigmatic Mr
+   Wednesday. The novel is, effectively, a road trip across America,
+   meeting gods both old and new, while Shadow tries to figure out what’s
+   going on.
+
+   Because new gods rose to take the old gods’ place. Gods of technology
+   and television, the Internet and the stock exchange. It’s a fun
+   concept, and it’s always interesting to turn a page and see which
+   entity Gaiman decides we’ve decided to immortalise as a god.
+
+   Shadow is the stereotypical clueless narrator, serving as a way for the
+   other characters to explain what’s going on, but they don’t often
+   bother. This means there’s a huge mystery beneath the surface, and
+   while every mystery can be sometimes infuriating (why won’t someone
+   just say what’s going on?), the payoff is totally worth it.
+
+   But watch out for the middle section; it’s a bit slow, and it puts
+   people off, but stick with it: it’s totally worth it.
+
+The Darkness That Comes Before
+
+   It only occurred to me when writing this that The Darkness That Comes
+   Before reminds me of A Game of Thrones, only with less swearing and
+   sex. But it has that same density to it; it’s not an easy read, but
+   it’s stuffed with lore and story.
+
+   Like A Game of Thrones, true heroes are few and far between; most of
+   the characters are instead varying degrees of reprehensible. The
+   Darkness That Comes Before also tells a complicated story of political
+   scheming and a potentially supernatural threat. However I feel that
+   Bakker’s novel is far more labyrinthine than Martin’s. The Darkness
+   That Comes Before defies simple explanation; try to find a plot summary
+   and you’ll reach the end more confused than when you started reading
+   it.
+
+   But don’t let that put you off. This is certainly no straightforward
+   adventure fantasy, and it’s a book that requires all of your attention
+   to keep it straight in your mind. But I have never read a fantasy novel
+   that felt so real and even as it threatens to confuse you with its
+   complexity at every step, it develops in you a kind of Stockholm
+   Syndrome. Even as the novel abuses your mind, you can’t help but start
+   to admire it. And soon, you’re recommending that other people read it.
+
+Rivers of London
+
+   I went through months of people telling me that this book reminded me
+   of them before I read it and realised they’re absolutely right; Rivers
+   of London reads like a book I narrated. It’s sarcastic and a little
+   cynical with some dark humour mixed in. In fact, it’s hard to shake the
+   feeling that this is the sort of book I should be writing…
+
+   Rivers of London is an urban fantasy, telling the story of regular
+   policeman Peter Grant who stumbles across the existence of a secret
+   branch of the police that deals with the paranormal. A fairly standard
+   urban fantasy plot so far. But the way Aaronovitch builds his world has
+   a surprisingly Neil Gaiman-esque vibe to it; I saw surprising because
+   of the humour that’s laced throughout the book. Seriously, if you ever
+   needed a book called A Practical Guide to Sarcasm, this book would be a
+   contender.
+
+   But I happen to think sarcasm is funny.
+
+   Naturally, with Grant being a policeman, there’s a mystery to solve. To
+   be honest, I found myself less bothered by the mystery than perhaps I
+   should have been. That’s because I was enjoying the sheer pleasure of
+   the writing, the banter, and poor Grant’s cluelessness (yes, this is a
+   new world to him, but it seems pretty obvious that, for example, pale
+   people who don’t go outside might be more than they seem). Ordinarily,
+   such cluelessness would annoy me, but Grant is so likeable that it’s
+   hard to be irritated with him. Although it does make you wonder about
+   his detective skills.
+
+   Still, the hype around this series is deserved. Even if you’re not a
+   big fan of sarcasm, give it a read: I think you’ll agree it belongs on
+   a list of the best fantasy books.
+
+Truckers
+
+   Yes, Pratchett is on this list twice, but considering how many books
+   the man wrote, it’s amazing that Terry Pratchett doesn’t dominate the
+   entire thing! And, quite frankly, Truckers deserves a spot because it’s
+   great and I love it.
+
+   I actually first encountered Truckers via the kids TV series (which was
+   a great adaptation, and you should watch it), but quickly discovered
+   the book is far superior. The idea is simple; Masklin’s tribe of tiny
+   nomes find their way into a (soon to be demolished) department store
+   where the nomes don’t believe in the outside world.
+
+   This leads to a great deal of humorous misunderstandings about rain and
+   wind which will delight a child, and there’s plenty of Pratchett’s
+   trademark wit that makes the books fun for adults too.
+
+   Being for kids, Truckers is a quick and easy read, so it’s perfect for
+   when you haven’t got much time for reading. It also means there’s no
+   excuse for not reading, so get to it!
+
+A Monster Calls
+
+   This book is so good I had to stop reading it because I was about to
+   cry on a train.
+
+   The basic premise is that young boy Conor is watching his mother
+   succumb to cancer. He’s isolated and scared and lonely. And one night,
+   a gigantic monster comes to his bedroom. It promises to tell him three
+   true stories, and then Conor must tell a story. If the story he tells
+   is not true, the monster will destroy Conor.
+
+   What follows is a story that moved me very deeply. A Monster Calls
+   offers no easy answers, no saccharine solutions. It paints the world as
+   tricky and complicated. Conor’s pain and isolation is handled
+   perfectly; Ness never fumbles for your heartstrings. And the monster’s
+   stories are delightfully old, filled with the dark injustices and
+   terrible vengeances of ancient tales.
+
+   It’s hard to find a criticism of this book, to be honest. I must
+   strongly recommend you buy the illustrated edition, though; there are
+   few pages that aren’t touched by Jim Kay’s dark and energetic work, but
+   it supports the text rather than overshadowing it.
+
+   Oh, and try not to read it in public places. Unless you’re okay with
+   crying in public.
+
+The Raven Tower
+
+   Ann Leckie is a phenomenal writer, and I try to hold off from buying
+   her books because I devour them in a matter of days, leaving me left to
+   wait until the next one is released. The Raven Tower is her first
+   fantasy book and, while I have to admit it wasn’t as great as her
+   Imperial Radch trilogy, it’s pretty great.
+
+   One disclaimer, though: it’s written in the second person. Like
+   this:And you turned fully to stare at your hand against the wall, and
+   then down at your feet, feeling that constant, faint, grinding
+   vibration traveling through the yellowish stones. Could you hear me,
+   Eolo? Can you hear me now? I’m talking to you.
+
+   The Raven Tower is narrated by a god. Yep, an honest-to-god god called
+   Strength and Patience of the Hill. But it’s a tale told to another
+   character, Eolo. Both serve as the main characters, but interestingly
+   we only ever get Strength and Patience of the Hill’s impressions of
+   Eolo. The god guesses at the thoughts and motivations, rather than
+   being given to the reader by the character or by an omniscient
+   narrator. That makes this book interesting, but it also puts a distance
+   between the reader and one of the main characters.
+
+   This distance is the biggest flaw of the book. When I first began
+   writing, nearly every writer handing out advice told me not to try to
+   write in the second person. This is good advice. It’s fiendishly
+   difficult to pull off. The only reason that Leckie manages it is
+   because she’s a damn good writer.
+
+   The world she’s created is fascinating. The mystery she weaves is
+   enthralling. You might guess the answer to the mystery, but you
+   probably won’t guess how that can be the answer until Leckie tells you.
+
+   One other warning: this is not a book if you want sword and sorcery and
+   adventure. In fact, the book ends where many other authors would launch
+   into the big meaty action scenes! This is a different kind of fantasy
+   novel. It’s not without action. But it’s more cerebral. If you’re
+   looking for a change of pace that’s brilliantly written, you can’t go
+   wrong with The Raven Tower.
+
+The Lion, The Witch and The Wardrobe
+
+   It’s a classic for a reason, and you’ll never look at Turkish Delight
+   the same way again.
+
+   What child hasn’t daydreamed about a secret doorway that takes them to
+   a magical world? Even better, a magical world where they’re royalty.
+   Such daydreams take on an almost unbearable pathos when Lewis makes
+   them real for four kids during wartime Britain, but let’s be honest:
+   we’re here for Narnia, not the Second World War. And Narnia doesn’t
+   disappoint.
+
+   Lewis was a contemporary of Tolkien, and it shows: you won’t get gritty
+   or grounded fantasy, but something far more allegorical. In fact, the
+   Aslan/Jesus parallels are almost a little too on the nose at times, but
+   you’ll let Lewis off the hook because Aslan is great. And if he’s a
+   little too perfect, the White Witch is a little too frightening really.
+
+   Seriously, I’ve never been able to give Turkish Delight a fair shake
+   because of this book. But then, Turkish Delight is gross. Quite why
+   it’s such a temptation to these kids is beyond me…
+
+The Armoured Saint
+
+   The title and the cover art for this one had me hooked straightaway.
+   Perhaps it’s because it reminded me of the Sisters of Battle, a
+   power-armoured ecclesiastic army in Warhammer 40,000, a game I used to
+   play as a teenager. So I was looking forward to seeing this armoured
+   saint in action.
+
+   But, when it comes to action, The Armoured Saint is slow to get moving.
+   There’s action, sure, but this novel really feels like it’s setting up
+   the rest of the series. It could serve as a prequel, even. And the
+   foreshadowing is a little too obvious. As soon as the suit of armour
+   appears on the page, you know what’s going to happen. Except it doesn’t
+   happen for a long time. This, to be honest, was frustrating.
+
+   So why is it on this list? Because when the action finally does kick
+   off, it’s worth the wait. There might have been too much build-up, but
+   I still finished this novel with a sense of satisfaction and a desire
+   to read the next in the series.
+
+   (Hot tip: I actually listened to the audiobook version, but the
+   narration is dreadfully slow: this is definitely one to listen to at
+   1.25x speed!)
+
+Talion: Revenant
+
+   Michael A Stackpole writes a fantastic line in late-80s fantasy
+   fiction. It might seem quaint by comparison with the grittier fare that
+   is modern fantasy, but it’s hard not to enjoy the way Stackpole romps
+   through the story of Nolan, a young man training to be a Justice.
+
+   Let’s be clear that this novel is not a weighty tome; it’s a fun,
+   straightforward affair, and enjoyable for it. The story is split
+   between the trials of Nolan’s training and the present day, in which he
+   is tasked with protecting the man who killed his family. Both of these
+   throw challenges into Nolan’s path, but they’re nearly always dealt
+   with quickly. Even the huge conflict of protecting a man he blames for
+   slaughtering his family is quite easily handled. But that’s not really
+   a huge criticism.
+
+   That’s because Stackpole writes an uncomplicated novel; challenges and
+   trials are action set pieces, overcome so the action can continue. And
+   there’s plenty of action. Goblins and sorcerers, wood elves and the
+   undead. This is a galloping blockbuster of a novel, and if it doesn’t
+   require a lot of thought, it’s a lot of fun to read. Is that enough to
+   warrant a place on a list of the best fantasy books? I think so. Not
+   every fantasy book has to be a sprawling epic, a mighty trilogy, or an
+   overwrought drama. Sometimes it’s just a fun piece of escapism, and
+   Talion: Revenant is certainly that.
+
+   And a fun read seems like a good place to end this list. But I’ll be
+   updating it as I discover new and interesting reads! If you come across
+   a book you think deserves to be on this list, let me know!
+
+The Fey Man
+
+   Don’t think I’m being egotistical and trying to include my own novel in
+   a list of the best fantasy books! But it would be madness not to at
+   least mention The Fey Man. Obviously I’m biased, but I think you’ll
+   like it!
+
+   It’s the first book in the Realm Rift Saga, and it tells the tale of
+   Thomas Rymour, the prophet who cannot lie. An elf lord hatches a plot
+   to save the world by stealing a legendary sword; a sword that, it turns
+   out, only Tom can wield. Tom is forced to break his oath in order to
+   save the world. But while terrifying dragons scorch the skies, the
+   immortal creatures of Faerie hatch their own dark plans for the mortal
+   realm.
+
+   And these creatures aren’t delightful little fairies. Oh no. They’re
+   fearsome monsters that take pleasure in anything that alleviates the
+   boredom of eternity. That ranges from wordplay and innocent pranks all
+   the way up to torture and murder. Whatever takes their fancy.
+
+   From the frozen heights of the world to its labyrinthine depths, Tom
+   will face immortal creatures, terrifying dragons, and undead monsters
+   on his impossible quest to save the people he loves and the world they
+   live in. But how can he defeat an enemy that cannot be killed?
+
+   And that seems like a good place to end this list. But I’ll be updating
+   it as I discover new and interesting reads! If you come across a book
+   you think deserves to be on this list, let me know!
+
+   [divider-dark-reverse.svg]
+   [jtk-white.svg]
+   Privacy Policy Cookie Policy AI Policy
+
+   Manage Consent
+   To provide the best experiences, we use technologies like cookies to
+   store and/or access device information. Consenting to these
+   technologies will allow us to process data such as browsing behaviour
+   or unique IDs on this site. Not consenting or withdrawing consent, may
+   adversely affect certain features and functions.
+   Functional [ ] Functional Always active
+   The technical storage or access is strictly necessary for the
+   legitimate purpose of enabling the use of a specific service explicitly
+   requested by the subscriber or user, or for the sole purpose of
+   carrying out the transmission of a communication over an electronic
+   communications network.
+   Preferences [ ] Preferences
+   The technical storage or access is necessary for the legitimate purpose
+   of storing preferences that are not requested by the subscriber or
+   user.
+   Statistics [ ] Statistics
+   The technical storage or access that is used exclusively for
+   statistical purposes. The technical storage or access that is used
+   exclusively for anonymous statistical purposes. Without a subpoena,
+   voluntary compliance on the part of your Internet Service Provider, or
+   additional records from a third party, information stored or retrieved
+   for this purpose alone cannot usually be used to identify you.
+   Marketing [ ] Marketing
+   The technical storage or access is required to create user profiles to
+   send advertising, or to track the user on a website or across several
+   websites for similar marketing purposes.
+     * Manage options
+     * Manage services
+     * Manage {vendor_count} vendors
+     * Read more about these purposes
+
+   (BUTTON) Accept (BUTTON) Deny (BUTTON) View preferences (BUTTON) Save
+   preferences View preferences
+     * {title}
+     * {title}
+     * {title}
+
+   (BUTTON) Manage consent

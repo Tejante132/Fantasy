@@ -10,3 +10,2333 @@
    (BUTTON) Try again
 
    Please enable Javascript and refresh the page to continue
+   #meta meta meta
+
+   IFRAME: https://analytics.sagepub.com/ns.html?id=GTM-5M58KS
+
+   Skip to main content
+   Intended for healthcare professionals
+   Skip to main content
+
+   Sage Journals Home
+     * Search this journal
+     * Search all journals
+
+   Enter search terms... ____________________
+   (BUTTON) SearchSearch [search-a52c1aec5def1af6f6e83b10312dc82c.svg]
+   Advanced search
+   Enter search terms... ____________________
+   (BUTTON) SearchSearch [search-a52c1aec5def1af6f6e83b10312dc82c.svg]
+   Advanced search
+     * Search
+     * [person-outline-cf8da4d85b29b8f33643440fc5105ea6.svg]
+       [close-a351a693d1ede9b5b4a494ad74053c83.svg] Access/ProfileAccess
+          + View access options
+          + View profile
+          + Create profile
+     * Cart 0
+
+   [hamburger-menu-11ca83bae8b819f1d6c46b5bbddcf530.svg]
+   [close-a351a693d1ede9b5b4a494ad74053c83.svg] Close Drawer MenuOpen
+   Drawer MenuMenu
+
+     * (BUTTON) Browse by discipline
+       Select discipline:
+       (BUTTON) All disciplines
+       All disciplines Health Sciences Life & Biomedical Sciences
+       Materials Science & Engineering Social Sciences & Humanities
+       Select subject:
+       (BUTTON) All subjects
+       All subjects Allied Health Cardiology & Cardiovascular Medicine
+       Dentistry Emergency Medicine & Critical Care Endocrinology &
+       Metabolism Environmental Science General Medicine Geriatrics
+       Infectious Diseases Medico-legal Neurology Nursing Nutrition
+       Obstetrics & Gynecology Oncology Orthopaedics & Sports Medicine
+       Otolaryngology Palliative Medicine & Chronic Care Pediatrics
+       Pharmacology & Toxicology Psychiatry & Psychology Public Health
+       Pulmonary & Respiratory Medicine Radiology Research Methods &
+       Evaluation Rheumatology Surgery Tropical Medicine Veterinary
+       Medicine Cell Biology Clinical Biochemistry Environmental Science
+       Life Sciences Neuroscience Pharmacology & Toxicology Biomedical
+       Engineering Engineering & Computing Environmental Engineering
+       Materials Science Anthropology & Archaeology Communication & Media
+       Studies Criminology & Criminal Justice Cultural Studies Economics &
+       Development Education Environmental Studies Ethnic Studies Family
+       Studies Gender Studies Geography Gerontology & Aging Group Studies
+       History Information Science Interpersonal Violence Language &
+       Linguistics Law Management & Organization Studies Marketing &
+       Hospitality Music Peace Studies & Conflict Resolution Philosophy
+       Politics & International Relations Psychoanalysis Psychology &
+       Counseling Public Administration Regional Studies Religion Research
+       Methods & Evaluation Science & Society Studies Social Work & Social
+       Policy Sociology Special Education Theology & Biblical Studies
+       Urban Studies & Planning
+       (submit) Browse journals
+       Sage publishes a diverse portfolio of fully Open Access journals in
+       a variety of disciplines.
+       Explore Gold Open Access Journals
+       Alternatively, you can explore our Disciplines Hubs, including:
+          + Journal portfolios in each of our subject areas.
+          + Links to Books and Digital Library content from across Sage.
+       View Discipline Hubs
+     * (BUTTON) Information for
+          + Authors
+          + Editors
+          + Librarians
+          + Researchers
+          + Reviewers
+          + Societies & Partners
+          + Frequently asked questions
+          + Advertising & Promotion
+     * In this journal
+          + Journal Homepage
+            Submission Guidelines
+
+   Imagination, Cognition and Personality
+   Journal indexing and metrics
+   Journal Homepage
+   Submission Guidelines
+   (BUTTON) [close-a351a693d1ede9b5b4a494ad74053c83.svg] Close
+
+Add email alerts
+
+   You are adding the following journal to your email alerts
+                                          New content
+   Imagination, Cognition and Personality [ ]
+   (BUTTON) Create email alert
+
+   Restricted access
+   Research article
+   First published online June 2, 2021
+   Request permissions
+
+The Effect of Fantasy Context on Moral Action and Judgment
+
+   Brian Ruedinger https://orcid.org/0000-0003-1143-4157 [email protected]
+   and Jennifer BarnesView all authors and affiliations
+   Volume 41, Issue 3
+   https://doi.org/10.1177/02762366211019782
+   (BUTTON) Contents
+     * Abstract
+     * References
+     * Biographies
+     * Supplementary Material
+
+   Get access
+   More
+
+     * Cite
+     * Share options
+     * Information, rights and permissions
+     * Metrics and citations
+
+Abstract
+
+   Research suggests individuals import real-world facts into fictional
+   worlds based on the type of fact and fictional context. We examined the
+   importation of real-world morality across fictional contexts.
+   Undergraduate (Study 1) and MTurk (Study 2) participants were randomly
+   assigned to read either a realistic or matching fantastical interactive
+   narrative. At seven junctions, participants were presented with a
+   choice between behaving morally and behaving immorally to advance their
+   goals. In Study 3, an MTurk sample judged the actions of a character
+   who behaved immorally. For Study 1, a gender by condition interaction
+   was found, with males electing more immoral actions in the fantasy
+   condition. For Study 2, no such effect was found. Nonetheless, in Study
+   3, participants judged immoral actions in the realistic condition as
+   more immoral compared to the fantasy context. Across all studies,
+   transportation predicted choosing fewer immoral actions and judging
+   immoral actions more harshly.
+
+Get full access to this article
+
+   View all access and purchase options for this article.
+   Get Access
+
+References
+
+   Aquino K., Reed I. I. (2002). The self-importance of moral identity.
+   Journal of Personality and Social Psychology, 83(6), 1423–1440.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Balakrishnan B., Sundar S. S. (2011). Where am I? How can I get there?
+   Impact of navigability and narrative transportation on spatial
+   presence. Human–Computer Interaction, 26(3), 161–204.
+   Web of Science
+   Google Scholar
+   Bandura A. (1999). Moral disengagement in the perpetration of
+   inhumanities. Personality and Social Psychology Review, 3(3), 193–209.
+   Crossref
+   PubMed
+   Google Scholar
+   Bandura A. (2006). Toward a psychology of human agency. Perspectives on
+   Psychological Science, 1(2), 164–180.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Barnes J., Black J. (2016). Impossible or improbable: The difficulty of
+   imagining morally deviant worlds. Imagination, Cognition and
+   Personality, 36(1), 27–40.
+   Crossref
+   Google Scholar
+   Berinsky, A. J., Huber, G. A., & Lenz, G. S. (2012). Evaluating online
+   labor markets for experimental research: Amazon.com's Mechanical Turk.
+   Political analysis, 20(3), 351–368.
+   Google Scholar
+   Bilandzic H., Schnell C., Sukalla F. (2019). The cultivation of
+   idealistic moral expectations: The role of television exposure and
+   narrative engageability. Mass Communication and Society, 2(5), 604–630.
+   Crossref
+   Web of Science
+   Google Scholar
+   Black J. E., Barnes J. L. (2017). Measuring the unimaginable:
+   Imaginative resistance to fiction and related constructs. Personality
+   and Individual Differences, 111, 71–79.
+   Crossref
+   Web of Science
+   Google Scholar
+   Black J. E., Helmy Y., Robson O., Barnes J. L. (2019). Who can resist a
+   villain? Morality, Machiavellianism, imaginative resistance and liking
+   for dark fictional characters. Poetics, 74, 101344.
+   Crossref
+   Web of Science
+   Google Scholar
+   Breithaupt, F. (2016). Empathy for Empathy’s Sake: Aesthetics and
+   Everyday Empathic Sadism. In Empathy and its Limits (pp. 151–165).
+   Palgrave Macmillan, London.
+   Google Scholar
+   Carreiras M., Garnham A., Oakhill J., Cain K. (1996). The use of
+   stereotypical gender information in constructing a mental model:
+   Evidence from English and Spanish. The Quarterly Journal of
+   Experimental Psychology Section A, 49(3), 639–663.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Clark J. W., Dawson L. E. (1996). Personal religiousness and ethical
+   judgements: An empirical analysis. Journal of Business Ethics, 15(3),
+   359–372.
+   Crossref
+   Web of Science
+   Google Scholar
+   Cohen J. (2001). Defining identification: A theoretical look at the
+   identification of audiences with media characters. Mass Communication
+   and Society, 4(3), 245–264.
+   Crossref
+   Google Scholar
+   Currie G. (1995). The moral psychology of fiction. Australasian Journal
+   of Philosophy, 73(2), 250–259.
+   Crossref
+   Web of Science
+   Google Scholar
+   Currie G. (2016). Does fiction make us less empathic? Teorema: Revista
+   Internacional de Filosofía, 35(3), 47–68.
+   Google Scholar
+   Czibor A., Szabo Z. P., Jones D. N., Zsido A. N., Paal T., Szijjarto
+   L., Carre J. R., Bereczkei T. (2017). Male and female face of
+   Machiavellianism: Opportunism or anxiety? Personality and Individual
+   Differences, 117, 221–229.
+   Crossref
+   Web of Science
+   Google Scholar
+   Dean A., Voss D., Draguljić D. (1999). Design and analysis of
+   experiments ( Vol. 1). Springer.
+   Crossref
+   Google Scholar
+   Detert J. R., Treviño L. K., Sweitzer V. L. (2008). Moral disengagement
+   in ethical decision making: A study of antecedents and outcomes.
+   Journal of Applied Psychology, 93(2), 374–391.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Eden A., Daalmans S., Johnson B. K. (2017). Morality predicts enjoyment
+   but not appreciation of morally ambiguous characters. Media Psychology,
+   20(3), 349–373.
+   Crossref
+   Web of Science
+   Google Scholar
+   Eden A., Grizzard M., Lewis R. J. (2011). Disposition development in
+   drama: The role of moral, immoral and ambiguously moral characters.
+   International Journal of Arts and Technology, 4(1), 33–47.
+   Crossref
+   Web of Science
+   Google Scholar
+   Eden A., Oliver M. B., Tamborini R., Limperos A., Woolley J. (2015).
+   Perceptions of moral violations and personality traits among heroes and
+   villains. Mass Communication and Society, 18(2), 186–208.
+   Crossref
+   Web of Science
+   Google Scholar
+   Fast A. A., Van Reet J. (2018). Preschool children transfer real-world
+   moral reasoning into pretense. Cognitive Development, 45, 40–47.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Flesch W. (2007). Comeuppance: Costly signaling, altruistic punishment,
+   and other biological components of fiction. Harvard University Press.
+   Google Scholar
+   Gendler T. S. (2000). The puzzle of imaginative resistance. The Journal
+   of Philosophy, 97(2), 55–81.
+   Crossref
+   Web of Science
+   Google Scholar
+   Gendler T. S. (2011). Is Dumbledore gay? Who's to Say?: Truth in
+   Fiction and Authorial Authority. The Philosophers' Magazine, (52),
+   94–97.
+   Google Scholar
+   Gerrig R. J. (1993). Experiencing narrative worlds: On the
+   psychological activities of reading. Westview Press.
+   Crossref
+   Google Scholar
+   Gerrig R. J., Prentice D. A. (1991). The representation of fictional
+   information. Psychological Science, 2(5), 336–340.
+   Crossref
+   Web of Science
+   Google Scholar
+   Goodman J. K., Cryder C. E., Cheema A. (2013). Data collection in a
+   flat world: The strengths and weaknesses of Mechanical Turk samples.
+   Journal of Behavioral Decision Making, 26(3), 213–224.
+   Crossref
+   Web of Science
+   Google Scholar
+   Green M. C. (2004). Transportation into narrative worlds: The role of
+   prior knowledge and perceived realism. Discourse Processes, 38(2),
+   247–266.
+   Crossref
+   Web of Science
+   Google Scholar
+   Greenberg D. M., Warrier V., Allison C., Baron-Cohen S. (2018). Testing
+   the empathizing–systemizing theory of sex differences and the extreme
+   male brain theory of autism in half a million people. Proceedings of
+   the National Academy of Sciences, 115(48), 12152–12157.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Green M. C., Brock T. C. (2000). The role of transportation in the
+   persuasiveness of public narratives. Journal of Personality and Social
+   Psychology, 79(5), 701–721.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Greenland S. (2021). Analysis goals, error‐cost sensitivity, and
+   analysis hacking: Essential considerations in hypothesis testing and
+   multiple comparisons. Paediatric and Perinatal Epidemiology, 35(1),
+   8–23.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Grizzard M., Shaw A. Z., Dolan E. A., Anderson K. B., Hahn L., Prabhu
+   S. (2017). Does repeated exposure to popular media strengthen moral
+   intuitions?: Exploratory evidence regarding consistent and conflicted
+   moral content. Media Psychology, 20(4), 557–583.
+   Crossref
+   Web of Science
+   Google Scholar
+   Happ C., Melzer A., Steffgen G. (2015). Like the good or bad
+   guy—Empathy in antisocial and prosocial games. Psychology of Popular
+   Media Culture, 4(2), 80–96.
+   Crossref
+   Google Scholar
+   Hartmann T., Vorderer P. (2010). It's okay to shoot a character: Moral
+   disengagement in violent video games. Journal of Communication, 60(1),
+   94–119.
+   Crossref
+   Web of Science
+   Google Scholar
+   Hauser D. J., Schwarz N. (2016). Attentive Turkers: MTurk participants
+   perform better on online attention checks than do subject Pool
+   participants. Behavior Research Methods, 48(1), 400–407.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Heck R. H., Thomas S., Tabata L. (2013). Multilevel modeling of
+   categorical outcomes using IBM SPSS. Routledge Academic.
+   Crossref
+   Google Scholar
+   Janicke S. H., Raney A. A. (2018). Modeling the antihero narrative
+   enjoyment process. Psychology of Popular Media Culture, 7(4), 533–546.
+   Crossref
+   Google Scholar
+   Janicke S., Raney A. (2015). Exploring the role of identification and
+   moral disengagement in the enjoyment of an antihero television series.
+   Communications, 40(4), 485–495.
+   https://doi.org/10.1515/commun-2015-0022
+   Web of Science
+   Google Scholar
+   Jonason P. K., Lyons M., Bethell E. J., Ross R. (2013). Different
+   routes to limited empathy in the sexes: Examining the links between the
+   Dark Triad and empathy. Personality and Individual Differences, 54(5),
+   572–576.
+   Crossref
+   Web of Science
+   Google Scholar
+   Jones D. N., Paulhus D. L. (2014). Introducing the short dark triad
+   (SD3) a brief measure of dark personality traits. Assessment, 21(1),
+   28–41.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Jones D. N., Weiser D. A. (2014). Differential infidelity patterns
+   among the Dark Triad. Personality and Individual Differences, 57,
+   20–24.
+   Crossref
+   Web of Science
+   Google Scholar
+   Keppel G., Saufley W. H., Tokunaga H. (1992). Introduction to design
+   and analysis: A student's handbook. Macmillan.
+   Google Scholar
+   Killen M., Smetana J. G. (2015). Origins and development of morality.
+   In M. E. Lamb & R. M. Lerner (Eds.), Handbook of child psychology and
+   developmental science: Socioemotional processes (p. 701–749). John
+   Wiley & Sons, Inc. https://doi.org/10.1002/9781118963418.childpsy317
+   Google Scholar
+   Kirk R. E. (2012). Experimental design. In The SAGE handbook of
+   quantitative methods in psychology (pp. 23–45). SAGE Publications Ltd.
+   https://www.doi.org/10.4135/9780857020994
+   Crossref
+   Google Scholar
+   Klimstra T. A., Sijtsema J. J., Henrichs J., Cima M. (2014). The dark
+   triad of personality in adolescence: Psychometric properties of a
+   concise measure and associations with adolescent adjustment from a
+   multi-informant perspective. Journal of Research in Personality, 53,
+   84–92.
+   Crossref
+   Web of Science
+   Google Scholar
+   Konijn E. A., Hoorn J. F. (2005). Some like it bad: Testing a model for
+   perceiving and experiencing fictional characters. Media Psychology,
+   7(2), 107–144.
+   Crossref
+   Web of Science
+   Google Scholar
+   Krakowiak K. M., Oliver M. B. (2012). When good characters do bad
+   things: Examining the effect of moral ambiguity on enjoyment. Journal
+   of Communication, 62(1), 117–135.
+   Crossref
+   Web of Science
+   Google Scholar
+   Krakowiak K. M., Tsay M. (2011). The role of moral disengagement in the
+   enjoyment of real and fictional characters. International Journal of
+   Arts and Technology, 4(1), 90–101.
+   Crossref
+   Google Scholar
+   Krakowiak K. M., Tsay-Vogel M. (2013). What makes characters’ bad
+   behaviors acceptable? The effects of character motivation and outcome
+   on perceptions, character liking, and moral disengagement. Mass
+   Communication and Society, 16(2), 179–199.
+   Crossref
+   Web of Science
+   Google Scholar
+   Krakowiak K. M., Tsay-Vogel M. (2015). The dual role of morally
+   ambiguous characters: Examining the effect of morality salience on
+   narrative responses. Human Communication Research, 41(3), 390–411.
+   Crossref
+   Web of Science
+   Google Scholar
+   Lau K. S., Marsee M. A. (2013). Exploring narcissism, psychopathy, and
+   machiavellianism in youth: Examination of associations with antisocial
+   behavior and aggression. Journal of Child and Family Studies, 22(3),
+   355–367.
+   Crossref
+   Web of Science
+   Google Scholar
+   Lester, N., & Weber, R. (2016, August 10-13). Construal level affects
+   intuitive moral responses to narrative content [Paper presentation]. In
+   38th Annual Conference of the Cognitive Science Society, Austin, TX,
+   United States.
+   Google Scholar
+   Levy N. (2005). Imaginative resistance and the moral/conventional
+   distinction. Philosophical Psychology, 18(2), 231–241.
+   Crossref
+   Web of Science
+   Google Scholar
+   Liberman N., Trope Y., Stephan E. (2007). Psychological distance. In A.
+   W. Kruglanski & E. T. Higgins (Eds.), Social psychology: Handbook of
+   basic principles (pp. 353–381). The Guilford Press.
+   Google Scholar
+   Maglio S. J., Trope Y., Liberman N. (2013). The common currency of
+   psychological distance. Current Directions in Psychological Science,
+   22(4), 278–282.
+   Crossref
+   Web of Science
+   Google Scholar
+   McGraw A. P., Warren C. (2010). Benign violations: Making immoral
+   behavior funny. Psychological Science, 21(8), 1141–1149.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Mudrack P. E. (1989). Age-related differences in Machiavellianism in an
+   adult sample. Psychological Reports, 64(3_suppl), 1047–1050.
+   Crossref
+   Web of Science
+   Google Scholar
+   Mudrack P. E. (1992). Additional evidence on age-related differences in
+   Machiavellianism in an adult sample. Psychological Reports, 70(3 Pt 2),
+   1210–1210.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Muris P., Merckelbach H., Otgaar H., Meijer E. (2017). The malevolent
+   side of human nature: A meta-analysis and critical review of the
+   literature on the dark triad (narcissism, Machiavellianism, and
+   psychopathy). Perspectives on Psychological Science, 12(2), 183–204.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Raney A. A. (2004). Expanding disposition theory: Reconsidering
+   character liking, moral evaluations, and enjoyment. Communication
+   Theory, 14(4), 348–369.
+   Crossref
+   Web of Science
+   Google Scholar
+   Raney A. A. (2011). The role of morality in emotional reactions to and
+   enjoyment of media entertainment. Journal of Media Psychology, 23(1),
+   18–23.
+   Crossref
+   Web of Science
+   Google Scholar
+   Raney A. A. (2017). Affective disposition theory. The International
+   Encyclopedia of Media Effects, 1–11.
+   Google Scholar
+   Rosenblatt L. M. (1994). The reader, the text, the poem: The
+   transactional theory of the literary work. SIU Press.
+   Google Scholar
+   Ryan M. L. (1980). Fiction, non-factuals, and the principle of minimal
+   departure. Poetics, 9(4), 403–422.
+   Crossref
+   Web of Science
+   Google Scholar
+   Ryan M. L. (1991). Possible worlds and accessibility relations: A
+   semantic typology of fiction. Poetics Today, 12(3), 553–576.
+   Crossref
+   Web of Science
+   Google Scholar
+   Sabo J. S., Giner-Sorolla R. (2017). Imagining wrong: Fictitious
+   contexts mitigate condemnation of harm more than impurity. Journal of
+   Experimental Psychology: General, 146(1), 134–153.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Salgaro M., Van Tourhout B. (2018). Why does frank underwood look at
+   us? Contemporary heroes suggest the need of a turn in the
+   conceptualization of fictional empathy. Journal of Literary Theory,
+   12(2), 345–368.
+   Crossref
+   Google Scholar
+   Sanders M. S., Tsay-Vogel M. (2016). Beyond heroes and villains:
+   Examining explanatory mechanisms underlying moral disengagement. Mass
+   Communication and Society, 19(3), 230–252.
+   Crossref
+   Web of Science
+   Google Scholar
+   Schnell C., Bilandzic H. K. (2017). Television stories and the
+   cultivation of moral reasoning: The role of genre exposure and
+   narrative engageability. Journal of Media Ethics, 32(4), 202–220.
+   Crossref
+   Web of Science
+   Google Scholar
+   Shafer, D.M., Janicke, S. H. & Seibert, J. (2016). Judgment and choice:
+   Moral complexity, enjoyment and meaningfulness in interactiveand
+   non-interactive narratives. IOSR Journal of Humanities and Social
+   Science, 21(8), 97–106.
+   Crossref
+   Google Scholar
+   Shafer D. M., Raney A. A. (2012). Exploring how we enjoy antihero
+   narratives. Journal of Communication, 62(6), 1028–1046.
+   Crossref
+   Web of Science
+   Google Scholar
+   Szabó E., Jones D. N. (2019). Gender differences moderate
+   Machiavellianism and impulsivity: Implications for Dark Triad research.
+   Personality and Individual Differences, 141, 160–165.
+   Crossref
+   Web of Science
+   Google Scholar
+   Tamborini R., Eden A., Bowman N. D., Grizzard M., Weber R., Lewis R. J.
+   (2013). Predicting media appeal from instinctive moral values. Mass
+   Communication and Society, 16(3), 325–346.
+   Crossref
+   Web of Science
+   Google Scholar
+   Trapnell P. D., Paulhus D. L. (2012). Agentic and communal values:
+   Their scope and measurement. Journal of Personality Assessment, 94(1),
+   39–52.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Trzebiatowska M., Bruce S. (2012). Why are women more religious than
+   men? Oxford University Press.
+   Crossref
+   Google Scholar
+   Turiel E. (1983). The development of social knowledge: Morality and
+   convention. Cambridge University Press.
+   Google Scholar
+   Turiel E. (2006). Thought, emotions, and social interactional processes
+   in moral development. In M. Killen & J. Smetana (Eds.), Handbook of
+   moral development (pp. 7–35). Lawrence Erlbaum Associates.
+   Google Scholar
+   Turiel E., Smetana J. G., Killen M. (2014). Social contexts in social
+   cognitive development. Handbook of Moral Behavior and Development, 2,
+   307–332.
+   Google Scholar
+   Vaage M. B. (2013). Fictional reliefs and reality checks. Screen,
+   54(2), 218–237.
+   Crossref
+   Web of Science
+   Google Scholar
+   Vaage M. B. (2015). The antihero in American television. Routledge.
+   Crossref
+   Google Scholar
+   van Ommen M., Daalmans S., Weijers A. (2014). Who is the doctor in this
+   house? Analyzing the moral evaluations of medical students and
+   physicians of house. AJOB Empirical Bioethics, 5(4), 61–74.
+   Crossref
+   Google Scholar
+   Walton K. L., Tanner M. (1994). Morals in fiction and fictional
+   morality. 68, 27–66. Proceedings of the Aristotelian Society,
+   Supplementary Volumes,
+   Crossref
+   Google Scholar
+   Ward S. J., King L. A. (2018). Gender differences in emotion explain
+   women’s lower immoral intentions and harsher moral condemnation.
+   Personality and Social Psychology Bulletin, 44(5), 653–669.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Weisberg D. S., Goodstein J. (2009). What belongs in a fictional world.
+   Journal of Cognition and Culture, 9(1-2), 69–78.
+   Crossref
+   Google Scholar
+   Zillman D., Cantor J. R. (1977). Affective responses to the emotions of
+   a protagonist. Journal of Experimental Social Psychology, 13(2),
+   155–165.
+   Crossref
+   Web of Science
+   Google Scholar
+   Zillmann D. (2000). Basal morality in drama appreciation. In I.
+   Bondebjerg (Ed.), Moving images, culture, and the mind (1st ed., Vol.
+   1, pp. 53–63). Luton, UK: Luton University Press.
+   Google Scholar
+
+Biographies
+
+   Brian Ruedinger is a PhD candidate in the Department of Psychology at
+   the University of Oklahoma.
+   Jennifer Barnes is an Associate Professor of Psychology and
+   Professional Writing at the University of Oklahoma. In addition to
+   studying the cognitive science of fiction and imagination, she is also
+   a New York Times bestselling novelist. Her research focuses on the
+   impacts of engaging with fiction, the limits of the imagination, and
+   the psychology of fandom.
+
+Supplementary Material
+
+   Please find the following supplemental material available below.
+
+   For Open Access articles published under a Creative Commons License,
+   all supplemental material carries the same license as the article it is
+   associated with.
+
+   For non-Open Access articles published, all supplemental material
+   carries a non-exclusive license, and permission requests for re-use of
+   supplemental material or any part of supplemental material shall be
+   sent directly to the copyright owner as specified in the copyright
+   notice associated with the article.
+     * sj-pdf-1-ica-10.1177_02762366211019782.pdf
+     * 1.35 MB
+
+Cite
+
+Cite
+
+Cite
+
+   (BUTTON) Copy Citation
+
+   OR
+
+Download to reference manager
+
+   If you have citation software installed, you can download citation data
+   to the citation manager of your choice
+   Select your citation manager software:
+   [(select option)_________________]
+   [X] Direct import
+
+   Download citation
+
+Share options
+
+Share
+
+Share this publication
+
+Share with email
+
+   Email Link
+
+Share on social media
+
+   FacebookX (formerly Twitter)LinkedInWeChat
+
+Share access to this article
+
+   Sharing links are not relevant where the article is open access and not
+   available if you do not have a subscription.
+
+   For more information view the Sage Journals article sharing page.
+
+Information, rights and permissions
+
+Information
+
+Published In
+
+   Go to [icaa_41_3.largecover.png]
+   View
+   Imagination, Cognition and Personality
+   Volume 41, Issue 3
+   Pages: 245 - 273
+   Article first published online: June 2, 2021
+   Issue published: March 2022
+
+Keywords
+
+    1. fantasy
+    2. reality
+    3. morality
+    4. Machiavellianism
+    5. fiction
+
+Rights and permissions
+
+   © The Author(s) 2021.
+   Request permissions for this article.
+   Request Permissions
+
+Authors
+
+Affiliations
+
+   Brian Ruedinger
+   University of Oklahoma, Norman, Oklahoma, United States
+   https://orcid.org/0000-0003-1143-4157
+   [email protected]
+   View all publications by this author
+   Jennifer Barnes
+   University of Oklahoma, Norman, Oklahoma, United States
+   View all publications by this author
+
+Notes
+
+   Brian Ruedinger, University of Oklahoma, 455 W. Lindsey Street, Dale
+   Hall Tower, Norman, OK 73019-0390, United States. Email:
+   [email protected]
+
+Metrics and citations
+
+Metrics
+
+Journals metrics
+
+   This article was published in Imagination, Cognition and Personality.
+   View All Journal Metrics
+     __________________________________________________________________
+
+Publication usage^*
+
+   Total views and downloads: 771
+
+   ^*Publication usage tracking started in December 2016
+     __________________________________________________________________
+
+Publications citing this one
+
+   Receive email alerts when this publication is cited
+   Sign up to citation alerts
+
+   Web of Science: 0
+
+   Crossref: 2
+    1. The Impact of Comparative Moral Superiority on Protagonist Appeal
+       Go to citationCrossrefGoogle Scholar
+    2. Operationalizing perpetrator studies. Focusing readers’ reactions
+       to The Kindly Ones by Jonathan Littell
+       Go to citationCrossrefGoogle Scholar
+
+Figures and tables
+
+Figures & Media
+
+Tables
+
+View Options
+
+Access options
+
+   If you have access to journal content via a personal subscription,
+   university, library, employer or society, select from the options
+   below:
+   (BUTTON)
+   user icon Sage Journals profile
+
+   I am signed in as:
+
+   [person-992e115f27b641a6bcbca03140578bf3.svg]
+   View my profileSign out
+
+   I can access personal subscriptions, purchases, paired institutional
+   access and free tools such as favourite journals, email alerts and
+   saved searches.
+
+   Login failed. Please check you entered the correct user name and
+   password.
+
+Sign in
+
+   Access personal subscriptions, purchases, paired institutional or
+   society access and free tools such as email alerts and saved searches.
+   Required fields
+   The email address and/or password entered does not match our records,
+   please check and try again.
+   Email: _______________
+   Password:
+   ____________________
+   [ ] Remember me
+   Forgotten your password?
+   (BUTTON) Sign in
+   OR
+   Create profile
+   (BUTTON)
+   Institution
+
+   loading institutional access options
+
+   Click the button below for the full-text content
+
+   请点击以下获取该全文
+   Click here to view / 点击获取全文
+   (BUTTON)
+   SocietyChinese Institutions / 中国用户
+     __________________________________________________________________
+
+   Alternatively, view purchase options below:
+   (BUTTON)
+   cart icon Purchase access
+   Item saved, go to cart
+
+   Purchase 24 hour online access to view and download content.
+   (*) Article - £29.00
+   ( ) Issue - £157.82
+   (BUTTON) Add To Cart
+   Added to cart
+   Checkout
+   Subscribe to this journal
+   (BUTTON)
+   read with deepdyve Read with DeepDyve
+
+   Access journal content via a DeepDyve subscription or find out more
+   about this option.
+   Start 2 week free trial
+   Need help?
+
+View options
+
+PDF/EPUB
+
+   View PDF/EPUB
+
+Full Text
+
+   View Full Text
+
+Similar articles:
+
+     * Restricted access
+       Who Is Your Biggest Critic? Cultural Variation in Moral Judgments
+       of the Self and Others
+       (BUTTON) Show details Hide details
+       Cristina E. Salvador and more ...
+       Journal of Cross-Cultural Psychology
+       Jun 2024
+     * Restricted access
+       Impossible or Improbable: The Difficulty of Imagining Morally
+       Deviant Worlds
+       (BUTTON) Show details Hide details
+       Jennifer Barnes and more ...
+       Imagination, Cognition and Personality
+       Apr 2016
+     * Restricted access
+       On the Highway to Hell: Slippery Slope Perceptions in Judgments of
+       Moral Character
+       (BUTTON) Show details Hide details
+       Rajen A. Anderson and more ...
+       Personality and Social Psychology Bulletin
+       Jan 2023
+     * Open Access
+       Affect Control Theory Applied to Morality
+       (BUTTON) Show details Hide details
+       Neil J. MacKinnon
+       American Behavioral Scientist
+       Jan 2022
+     * Free access
+       Moral judgment of close relationship behaviors
+       (BUTTON) Show details Hide details
+       Dylan Selterman and more ...
+       Journal of Social and Personal Relationships
+       Oct 2014
+     * Restricted access
+       Integrating the Streams of Morality Research: The Case of Political
+       Ideology
+       (BUTTON) Show details Hide details
+       Jesse Graham and more ...
+       Current Directions in Psychological Science
+       Dec 2012
+     * Restricted access
+       Less Evil Than You: Bounded Self-Righteousness in Character
+       Inferences, Emotional Reactions, and Behavioral Extremes
+       (BUTTON) Show details Hide details
+       Nadav Klein and more ...
+       Personality and Social Psychology Bulletin
+       Jun 2017
+     * Restricted access
+       Immorality East and West: Are Immoral Behaviors Especially Harmful,
+       or Especially Uncivilized?
+       (BUTTON) Show details Hide details
+       Emma E. Buchtel and more ...
+       Personality and Social Psychology Bulletin
+       Aug 2015
+     * Restricted access
+       How Moral Expectancy Violations Influence Audiences’ Affective
+       Dispositions Toward Characters
+       (BUTTON) Show details Hide details
+       Nicholas L. Matthews and more ...
+       Communication Research
+       Sep 2021
+
+   (BUTTON) View more
+
+Sage recommends:
+
+     * SAGE Knowledge
+       Entry
+       Immorality
+       (BUTTON) Show details Hide details
+       Robert W. Kolb
+       The SAGE Encyclopedia of Business Ethics and Society
+       2018
+     * SAGE Knowledge
+       Entry
+       Decision Making
+       (BUTTON) Show details Hide details
+       Itamar Simonson
+       Encyclopedia of Social Psychology
+       2007
+     * SAGE Knowledge
+       Entry
+       Morality, Theories of Development
+       (BUTTON) Show details Hide details
+       Melanie Killen
+       Encyclopedia of Applied Developmental Science
+       2005
+     * SAGE Knowledge
+       Entry
+       Moral Imagination
+       (BUTTON) Show details Hide details
+       George Goethals
+       The SAGE Encyclopedia of Leadership Studies
+       2023
+     * SAGE Knowledge
+       Entry
+       Machiavellianism
+       (BUTTON) Show details Hide details
+       Fathali M. Moghaddam
+       The SAGE Encyclopedia of Political Behavior
+       2017
+     * SAGE Knowledge
+       Book chapter
+       Politics, Religion, and Morality
+       (BUTTON) Show details Hide details
+       Lewis R. Aiken
+       Attitudes and Related Psychosocial Constructs: Theories,
+       Assessment, and Research
+       2002
+     * SAGE Knowledge
+       Entry
+       Morality and Respectability
+       (BUTTON) Show details Hide details
+       Abbie E. Goldberg
+       The SAGE Encyclopedia of LGBTQ Studies
+       2016
+     * SAGE Knowledge
+       Book chapter
+       “The Right” and Moral Development: Fundamental Themes of Kohlberg's
+       Cognitive-Developmental Approach
+       (BUTTON) Show details Hide details
+       John C. Gibbs
+       Moral Development and Reality: Beyond the Theories of Kohlberg and
+       Hoffman
+       2003
+     * SAGE Knowledge
+       Book chapter
+       Mechanizing Ethics
+       (BUTTON) Show details Hide details
+       Wendell Wallach
+       Leadership in Science and Technology: A Reference Handbook
+       2012
+
+   (BUTTON) View more
+
+Sage recommends:
+
+     * SAGE Knowledge
+       Entry
+       Immorality
+       (BUTTON) Show details Hide details
+       Robert W. Kolb
+       The SAGE Encyclopedia of Business Ethics and Society
+       2018
+     * SAGE Knowledge
+       Entry
+       Decision Making
+       (BUTTON) Show details Hide details
+       Itamar Simonson
+       Encyclopedia of Social Psychology
+       2007
+     * SAGE Knowledge
+       Entry
+       Morality, Theories of Development
+       (BUTTON) Show details Hide details
+       Melanie Killen
+       Encyclopedia of Applied Developmental Science
+       2005
+     * SAGE Knowledge
+       Entry
+       Moral Imagination
+       (BUTTON) Show details Hide details
+       George Goethals
+       The SAGE Encyclopedia of Leadership Studies
+       2023
+     * SAGE Knowledge
+       Entry
+       Machiavellianism
+       (BUTTON) Show details Hide details
+       Fathali M. Moghaddam
+       The SAGE Encyclopedia of Political Behavior
+       2017
+     * SAGE Knowledge
+       Book chapter
+       Politics, Religion, and Morality
+       (BUTTON) Show details Hide details
+       Lewis R. Aiken
+       Attitudes and Related Psychosocial Constructs: Theories,
+       Assessment, and Research
+       2002
+     * SAGE Knowledge
+       Entry
+       Morality and Respectability
+       (BUTTON) Show details Hide details
+       Abbie E. Goldberg
+       The SAGE Encyclopedia of LGBTQ Studies
+       2016
+     * SAGE Knowledge
+       Book chapter
+       “The Right” and Moral Development: Fundamental Themes of Kohlberg's
+       Cognitive-Developmental Approach
+       (BUTTON) Show details Hide details
+       John C. Gibbs
+       Moral Development and Reality: Beyond the Theories of Kohlberg and
+       Hoffman
+       2003
+     * SAGE Knowledge
+       Book chapter
+       Mechanizing Ethics
+       (BUTTON) Show details Hide details
+       Wendell Wallach
+       Leadership in Science and Technology: A Reference Handbook
+       2012
+
+   (BUTTON) View more
+   View full text|Download PDF
+
+   (BUTTON) Figures (BUTTON) Tables (BUTTON) Others
+   (BUTTON) Close figure viewer
+
+   (BUTTON) Back to article
+   Figure title goes here
+   (BUTTON) Change zoom level
+   Go to figure location within the article
+   Download figure
+   (BUTTON) Toggle share panel
+   Share on social media
+   (BUTTON) Toggle information panel
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON) All figures󩋮All tablesAll others
+
+   (BUTTON)
+   (BUTTON) (BUTTON) All figures
+
+   (BUTTON)
+   (BUTTON) (BUTTON) All tables
+
+   (BUTTON)
+   (BUTTON) (BUTTON) All others
+   xrefBack.goTo
+   (BUTTON) xrefBack.goTo
+   (BUTTON)
+
+     Request permissions (BUTTON) Show all sections
+   (BUTTON) Collapse
+   (BUTTON) Expand Table
+   (BUTTON) Show all references
+   (BUTTON) SHOW ALL BOOKS
+   (BUTTON) Show all sectionsView all authors and affiliations
+
+   You currently have no access to this content. Visit the access options
+   page to authenticate.
+
+Also from Sage
+
+     * CQ Library Elevating debateopens in new tab
+     * Sage Data Uncovering insightopens in new tab
+     * Sage Business Cases Shaping futuresopens in new tab
+     * Sage Campus Unleashing potentialopens in new tab
+     * Sage Knowledge Multimedia learning resourcesopens in new tab
+     * Sage Research Methods Supercharging researchopens in new tab
+     * Sage Video Streaming knowledgeopens in new tab
+     * Technology from Sage Library digital servicesopens in new tab
+
+   (BUTTON) Back to top
+
+About
+
+     * About Sage Journals
+     * Accessibility guide
+     * Historical content
+     * Advertising disclaimer
+     * Permissions
+     * Terms of use
+     * Sage discipline hubs
+     * Sage microsites
+
+Information for
+
+     * Authors
+     * Editors
+     * Librarians
+     * Researchers
+     * Reviewers
+     * Societies & Partners
+     * Advertising & Promotion
+     * FAQs
+
+Imagination, Cognition and Personality
+
+     * ISSN: 0276-2366
+     * Online ISSN: 1541-4477
+
+     * About Sage
+     * Contact us
+     * CCPA - Do not sell my personal information
+     * CCPA
+     * Privacy Policy
+
+   Copyright © 2026 by SAGE Publications
+
+     *
+     *
+     *
+     *
+     *
+   REFRESH(360 sec):
+   https://journals.sagepub.com/doi/abs/10.1177/02762366211019782
+
+   Enable JavaScript and cookies to continue
+   #meta meta meta
+
+   IFRAME: https://analytics.sagepub.com/ns.html?id=GTM-5M58KS
+
+   Skip to main content
+   Intended for healthcare professionals
+   Skip to main content
+
+   Sage Journals Home
+     * Search this journal
+     * Search all journals
+
+   Enter search terms... ____________________
+   (BUTTON) SearchSearch [search-a52c1aec5def1af6f6e83b10312dc82c.svg]
+   Advanced search
+   Enter search terms... ____________________
+   (BUTTON) SearchSearch [search-a52c1aec5def1af6f6e83b10312dc82c.svg]
+   Advanced search
+     * Search
+     * [person-outline-cf8da4d85b29b8f33643440fc5105ea6.svg]
+       [close-a351a693d1ede9b5b4a494ad74053c83.svg] Access/ProfileAccess
+          + View access options
+          + View profile
+          + Create profile
+     * Cart 0
+
+   [hamburger-menu-11ca83bae8b819f1d6c46b5bbddcf530.svg]
+   [close-a351a693d1ede9b5b4a494ad74053c83.svg] Close Drawer MenuOpen
+   Drawer MenuMenu
+
+     * (BUTTON) Browse by discipline
+       Select discipline:
+       (BUTTON) All disciplines
+       All disciplines Health Sciences Life & Biomedical Sciences
+       Materials Science & Engineering Social Sciences & Humanities
+       Select subject:
+       (BUTTON) All subjects
+       All subjects Allied Health Cardiology & Cardiovascular Medicine
+       Dentistry Emergency Medicine & Critical Care Endocrinology &
+       Metabolism Environmental Science General Medicine Geriatrics
+       Infectious Diseases Medico-legal Neurology Nursing Nutrition
+       Obstetrics & Gynecology Oncology Orthopaedics & Sports Medicine
+       Otolaryngology Palliative Medicine & Chronic Care Pediatrics
+       Pharmacology & Toxicology Psychiatry & Psychology Public Health
+       Pulmonary & Respiratory Medicine Radiology Research Methods &
+       Evaluation Rheumatology Surgery Tropical Medicine Veterinary
+       Medicine Cell Biology Clinical Biochemistry Environmental Science
+       Life Sciences Neuroscience Pharmacology & Toxicology Biomedical
+       Engineering Engineering & Computing Environmental Engineering
+       Materials Science Anthropology & Archaeology Communication & Media
+       Studies Criminology & Criminal Justice Cultural Studies Economics &
+       Development Education Environmental Studies Ethnic Studies Family
+       Studies Gender Studies Geography Gerontology & Aging Group Studies
+       History Information Science Interpersonal Violence Language &
+       Linguistics Law Management & Organization Studies Marketing &
+       Hospitality Music Peace Studies & Conflict Resolution Philosophy
+       Politics & International Relations Psychoanalysis Psychology &
+       Counseling Public Administration Regional Studies Religion Research
+       Methods & Evaluation Science & Society Studies Social Work & Social
+       Policy Sociology Special Education Theology & Biblical Studies
+       Urban Studies & Planning
+       (submit) Browse journals
+       Sage publishes a diverse portfolio of fully Open Access journals in
+       a variety of disciplines.
+       Explore Gold Open Access Journals
+       Alternatively, you can explore our Disciplines Hubs, including:
+          + Journal portfolios in each of our subject areas.
+          + Links to Books and Digital Library content from across Sage.
+       View Discipline Hubs
+     * (BUTTON) Information for
+          + Authors
+          + Editors
+          + Librarians
+          + Researchers
+          + Reviewers
+          + Societies & Partners
+          + Frequently asked questions
+          + Advertising & Promotion
+     * In this journal
+          + Journal Homepage
+            Submission Guidelines
+
+   Imagination, Cognition and Personality
+   Journal indexing and metrics
+   Journal Homepage
+   Submission Guidelines
+   (BUTTON) [close-a351a693d1ede9b5b4a494ad74053c83.svg] Close
+
+Add email alerts
+
+   You are adding the following journal to your email alerts
+                                          New content
+   Imagination, Cognition and Personality [ ]
+   (BUTTON) Create email alert
+
+   Restricted access
+   Research article
+   First published online June 2, 2021
+   Request permissions
+
+The Effect of Fantasy Context on Moral Action and Judgment
+
+   Brian Ruedinger https://orcid.org/0000-0003-1143-4157 [email protected]
+   and Jennifer BarnesView all authors and affiliations
+   Volume 41, Issue 3
+   https://doi.org/10.1177/02762366211019782
+   (BUTTON) Contents
+     * Abstract
+     * References
+     * Biographies
+     * Supplementary Material
+
+   Get access
+   More
+
+     * Cite
+     * Share options
+     * Information, rights and permissions
+     * Metrics and citations
+
+Abstract
+
+   Research suggests individuals import real-world facts into fictional
+   worlds based on the type of fact and fictional context. We examined the
+   importation of real-world morality across fictional contexts.
+   Undergraduate (Study 1) and MTurk (Study 2) participants were randomly
+   assigned to read either a realistic or matching fantastical interactive
+   narrative. At seven junctions, participants were presented with a
+   choice between behaving morally and behaving immorally to advance their
+   goals. In Study 3, an MTurk sample judged the actions of a character
+   who behaved immorally. For Study 1, a gender by condition interaction
+   was found, with males electing more immoral actions in the fantasy
+   condition. For Study 2, no such effect was found. Nonetheless, in Study
+   3, participants judged immoral actions in the realistic condition as
+   more immoral compared to the fantasy context. Across all studies,
+   transportation predicted choosing fewer immoral actions and judging
+   immoral actions more harshly.
+
+Get full access to this article
+
+   View all access and purchase options for this article.
+   Get Access
+
+References
+
+   Aquino K., Reed I. I. (2002). The self-importance of moral identity.
+   Journal of Personality and Social Psychology, 83(6), 1423–1440.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Balakrishnan B., Sundar S. S. (2011). Where am I? How can I get there?
+   Impact of navigability and narrative transportation on spatial
+   presence. Human–Computer Interaction, 26(3), 161–204.
+   Web of Science
+   Google Scholar
+   Bandura A. (1999). Moral disengagement in the perpetration of
+   inhumanities. Personality and Social Psychology Review, 3(3), 193–209.
+   Crossref
+   PubMed
+   Google Scholar
+   Bandura A. (2006). Toward a psychology of human agency. Perspectives on
+   Psychological Science, 1(2), 164–180.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Barnes J., Black J. (2016). Impossible or improbable: The difficulty of
+   imagining morally deviant worlds. Imagination, Cognition and
+   Personality, 36(1), 27–40.
+   Crossref
+   Google Scholar
+   Berinsky, A. J., Huber, G. A., & Lenz, G. S. (2012). Evaluating online
+   labor markets for experimental research: Amazon.com's Mechanical Turk.
+   Political analysis, 20(3), 351–368.
+   Google Scholar
+   Bilandzic H., Schnell C., Sukalla F. (2019). The cultivation of
+   idealistic moral expectations: The role of television exposure and
+   narrative engageability. Mass Communication and Society, 2(5), 604–630.
+   Crossref
+   Web of Science
+   Google Scholar
+   Black J. E., Barnes J. L. (2017). Measuring the unimaginable:
+   Imaginative resistance to fiction and related constructs. Personality
+   and Individual Differences, 111, 71–79.
+   Crossref
+   Web of Science
+   Google Scholar
+   Black J. E., Helmy Y., Robson O., Barnes J. L. (2019). Who can resist a
+   villain? Morality, Machiavellianism, imaginative resistance and liking
+   for dark fictional characters. Poetics, 74, 101344.
+   Crossref
+   Web of Science
+   Google Scholar
+   Breithaupt, F. (2016). Empathy for Empathy’s Sake: Aesthetics and
+   Everyday Empathic Sadism. In Empathy and its Limits (pp. 151–165).
+   Palgrave Macmillan, London.
+   Google Scholar
+   Carreiras M., Garnham A., Oakhill J., Cain K. (1996). The use of
+   stereotypical gender information in constructing a mental model:
+   Evidence from English and Spanish. The Quarterly Journal of
+   Experimental Psychology Section A, 49(3), 639–663.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Clark J. W., Dawson L. E. (1996). Personal religiousness and ethical
+   judgements: An empirical analysis. Journal of Business Ethics, 15(3),
+   359–372.
+   Crossref
+   Web of Science
+   Google Scholar
+   Cohen J. (2001). Defining identification: A theoretical look at the
+   identification of audiences with media characters. Mass Communication
+   and Society, 4(3), 245–264.
+   Crossref
+   Google Scholar
+   Currie G. (1995). The moral psychology of fiction. Australasian Journal
+   of Philosophy, 73(2), 250–259.
+   Crossref
+   Web of Science
+   Google Scholar
+   Currie G. (2016). Does fiction make us less empathic? Teorema: Revista
+   Internacional de Filosofía, 35(3), 47–68.
+   Google Scholar
+   Czibor A., Szabo Z. P., Jones D. N., Zsido A. N., Paal T., Szijjarto
+   L., Carre J. R., Bereczkei T. (2017). Male and female face of
+   Machiavellianism: Opportunism or anxiety? Personality and Individual
+   Differences, 117, 221–229.
+   Crossref
+   Web of Science
+   Google Scholar
+   Dean A., Voss D., Draguljić D. (1999). Design and analysis of
+   experiments ( Vol. 1). Springer.
+   Crossref
+   Google Scholar
+   Detert J. R., Treviño L. K., Sweitzer V. L. (2008). Moral disengagement
+   in ethical decision making: A study of antecedents and outcomes.
+   Journal of Applied Psychology, 93(2), 374–391.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Eden A., Daalmans S., Johnson B. K. (2017). Morality predicts enjoyment
+   but not appreciation of morally ambiguous characters. Media Psychology,
+   20(3), 349–373.
+   Crossref
+   Web of Science
+   Google Scholar
+   Eden A., Grizzard M., Lewis R. J. (2011). Disposition development in
+   drama: The role of moral, immoral and ambiguously moral characters.
+   International Journal of Arts and Technology, 4(1), 33–47.
+   Crossref
+   Web of Science
+   Google Scholar
+   Eden A., Oliver M. B., Tamborini R., Limperos A., Woolley J. (2015).
+   Perceptions of moral violations and personality traits among heroes and
+   villains. Mass Communication and Society, 18(2), 186–208.
+   Crossref
+   Web of Science
+   Google Scholar
+   Fast A. A., Van Reet J. (2018). Preschool children transfer real-world
+   moral reasoning into pretense. Cognitive Development, 45, 40–47.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Flesch W. (2007). Comeuppance: Costly signaling, altruistic punishment,
+   and other biological components of fiction. Harvard University Press.
+   Google Scholar
+   Gendler T. S. (2000). The puzzle of imaginative resistance. The Journal
+   of Philosophy, 97(2), 55–81.
+   Crossref
+   Web of Science
+   Google Scholar
+   Gendler T. S. (2011). Is Dumbledore gay? Who's to Say?: Truth in
+   Fiction and Authorial Authority. The Philosophers' Magazine, (52),
+   94–97.
+   Google Scholar
+   Gerrig R. J. (1993). Experiencing narrative worlds: On the
+   psychological activities of reading. Westview Press.
+   Crossref
+   Google Scholar
+   Gerrig R. J., Prentice D. A. (1991). The representation of fictional
+   information. Psychological Science, 2(5), 336–340.
+   Crossref
+   Web of Science
+   Google Scholar
+   Goodman J. K., Cryder C. E., Cheema A. (2013). Data collection in a
+   flat world: The strengths and weaknesses of Mechanical Turk samples.
+   Journal of Behavioral Decision Making, 26(3), 213–224.
+   Crossref
+   Web of Science
+   Google Scholar
+   Green M. C. (2004). Transportation into narrative worlds: The role of
+   prior knowledge and perceived realism. Discourse Processes, 38(2),
+   247–266.
+   Crossref
+   Web of Science
+   Google Scholar
+   Greenberg D. M., Warrier V., Allison C., Baron-Cohen S. (2018). Testing
+   the empathizing–systemizing theory of sex differences and the extreme
+   male brain theory of autism in half a million people. Proceedings of
+   the National Academy of Sciences, 115(48), 12152–12157.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Green M. C., Brock T. C. (2000). The role of transportation in the
+   persuasiveness of public narratives. Journal of Personality and Social
+   Psychology, 79(5), 701–721.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Greenland S. (2021). Analysis goals, error‐cost sensitivity, and
+   analysis hacking: Essential considerations in hypothesis testing and
+   multiple comparisons. Paediatric and Perinatal Epidemiology, 35(1),
+   8–23.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Grizzard M., Shaw A. Z., Dolan E. A., Anderson K. B., Hahn L., Prabhu
+   S. (2017). Does repeated exposure to popular media strengthen moral
+   intuitions?: Exploratory evidence regarding consistent and conflicted
+   moral content. Media Psychology, 20(4), 557–583.
+   Crossref
+   Web of Science
+   Google Scholar
+   Happ C., Melzer A., Steffgen G. (2015). Like the good or bad
+   guy—Empathy in antisocial and prosocial games. Psychology of Popular
+   Media Culture, 4(2), 80–96.
+   Crossref
+   Google Scholar
+   Hartmann T., Vorderer P. (2010). It's okay to shoot a character: Moral
+   disengagement in violent video games. Journal of Communication, 60(1),
+   94–119.
+   Crossref
+   Web of Science
+   Google Scholar
+   Hauser D. J., Schwarz N. (2016). Attentive Turkers: MTurk participants
+   perform better on online attention checks than do subject Pool
+   participants. Behavior Research Methods, 48(1), 400–407.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Heck R. H., Thomas S., Tabata L. (2013). Multilevel modeling of
+   categorical outcomes using IBM SPSS. Routledge Academic.
+   Crossref
+   Google Scholar
+   Janicke S. H., Raney A. A. (2018). Modeling the antihero narrative
+   enjoyment process. Psychology of Popular Media Culture, 7(4), 533–546.
+   Crossref
+   Google Scholar
+   Janicke S., Raney A. (2015). Exploring the role of identification and
+   moral disengagement in the enjoyment of an antihero television series.
+   Communications, 40(4), 485–495.
+   https://doi.org/10.1515/commun-2015-0022
+   Web of Science
+   Google Scholar
+   Jonason P. K., Lyons M., Bethell E. J., Ross R. (2013). Different
+   routes to limited empathy in the sexes: Examining the links between the
+   Dark Triad and empathy. Personality and Individual Differences, 54(5),
+   572–576.
+   Crossref
+   Web of Science
+   Google Scholar
+   Jones D. N., Paulhus D. L. (2014). Introducing the short dark triad
+   (SD3) a brief measure of dark personality traits. Assessment, 21(1),
+   28–41.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Jones D. N., Weiser D. A. (2014). Differential infidelity patterns
+   among the Dark Triad. Personality and Individual Differences, 57,
+   20–24.
+   Crossref
+   Web of Science
+   Google Scholar
+   Keppel G., Saufley W. H., Tokunaga H. (1992). Introduction to design
+   and analysis: A student's handbook. Macmillan.
+   Google Scholar
+   Killen M., Smetana J. G. (2015). Origins and development of morality.
+   In M. E. Lamb & R. M. Lerner (Eds.), Handbook of child psychology and
+   developmental science: Socioemotional processes (p. 701–749). John
+   Wiley & Sons, Inc. https://doi.org/10.1002/9781118963418.childpsy317
+   Google Scholar
+   Kirk R. E. (2012). Experimental design. In The SAGE handbook of
+   quantitative methods in psychology (pp. 23–45). SAGE Publications Ltd.
+   https://www.doi.org/10.4135/9780857020994
+   Crossref
+   Google Scholar
+   Klimstra T. A., Sijtsema J. J., Henrichs J., Cima M. (2014). The dark
+   triad of personality in adolescence: Psychometric properties of a
+   concise measure and associations with adolescent adjustment from a
+   multi-informant perspective. Journal of Research in Personality, 53,
+   84–92.
+   Crossref
+   Web of Science
+   Google Scholar
+   Konijn E. A., Hoorn J. F. (2005). Some like it bad: Testing a model for
+   perceiving and experiencing fictional characters. Media Psychology,
+   7(2), 107–144.
+   Crossref
+   Web of Science
+   Google Scholar
+   Krakowiak K. M., Oliver M. B. (2012). When good characters do bad
+   things: Examining the effect of moral ambiguity on enjoyment. Journal
+   of Communication, 62(1), 117–135.
+   Crossref
+   Web of Science
+   Google Scholar
+   Krakowiak K. M., Tsay M. (2011). The role of moral disengagement in the
+   enjoyment of real and fictional characters. International Journal of
+   Arts and Technology, 4(1), 90–101.
+   Crossref
+   Google Scholar
+   Krakowiak K. M., Tsay-Vogel M. (2013). What makes characters’ bad
+   behaviors acceptable? The effects of character motivation and outcome
+   on perceptions, character liking, and moral disengagement. Mass
+   Communication and Society, 16(2), 179–199.
+   Crossref
+   Web of Science
+   Google Scholar
+   Krakowiak K. M., Tsay-Vogel M. (2015). The dual role of morally
+   ambiguous characters: Examining the effect of morality salience on
+   narrative responses. Human Communication Research, 41(3), 390–411.
+   Crossref
+   Web of Science
+   Google Scholar
+   Lau K. S., Marsee M. A. (2013). Exploring narcissism, psychopathy, and
+   machiavellianism in youth: Examination of associations with antisocial
+   behavior and aggression. Journal of Child and Family Studies, 22(3),
+   355–367.
+   Crossref
+   Web of Science
+   Google Scholar
+   Lester, N., & Weber, R. (2016, August 10-13). Construal level affects
+   intuitive moral responses to narrative content [Paper presentation]. In
+   38th Annual Conference of the Cognitive Science Society, Austin, TX,
+   United States.
+   Google Scholar
+   Levy N. (2005). Imaginative resistance and the moral/conventional
+   distinction. Philosophical Psychology, 18(2), 231–241.
+   Crossref
+   Web of Science
+   Google Scholar
+   Liberman N., Trope Y., Stephan E. (2007). Psychological distance. In A.
+   W. Kruglanski & E. T. Higgins (Eds.), Social psychology: Handbook of
+   basic principles (pp. 353–381). The Guilford Press.
+   Google Scholar
+   Maglio S. J., Trope Y., Liberman N. (2013). The common currency of
+   psychological distance. Current Directions in Psychological Science,
+   22(4), 278–282.
+   Crossref
+   Web of Science
+   Google Scholar
+   McGraw A. P., Warren C. (2010). Benign violations: Making immoral
+   behavior funny. Psychological Science, 21(8), 1141–1149.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Mudrack P. E. (1989). Age-related differences in Machiavellianism in an
+   adult sample. Psychological Reports, 64(3_suppl), 1047–1050.
+   Crossref
+   Web of Science
+   Google Scholar
+   Mudrack P. E. (1992). Additional evidence on age-related differences in
+   Machiavellianism in an adult sample. Psychological Reports, 70(3 Pt 2),
+   1210–1210.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Muris P., Merckelbach H., Otgaar H., Meijer E. (2017). The malevolent
+   side of human nature: A meta-analysis and critical review of the
+   literature on the dark triad (narcissism, Machiavellianism, and
+   psychopathy). Perspectives on Psychological Science, 12(2), 183–204.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Raney A. A. (2004). Expanding disposition theory: Reconsidering
+   character liking, moral evaluations, and enjoyment. Communication
+   Theory, 14(4), 348–369.
+   Crossref
+   Web of Science
+   Google Scholar
+   Raney A. A. (2011). The role of morality in emotional reactions to and
+   enjoyment of media entertainment. Journal of Media Psychology, 23(1),
+   18–23.
+   Crossref
+   Web of Science
+   Google Scholar
+   Raney A. A. (2017). Affective disposition theory. The International
+   Encyclopedia of Media Effects, 1–11.
+   Google Scholar
+   Rosenblatt L. M. (1994). The reader, the text, the poem: The
+   transactional theory of the literary work. SIU Press.
+   Google Scholar
+   Ryan M. L. (1980). Fiction, non-factuals, and the principle of minimal
+   departure. Poetics, 9(4), 403–422.
+   Crossref
+   Web of Science
+   Google Scholar
+   Ryan M. L. (1991). Possible worlds and accessibility relations: A
+   semantic typology of fiction. Poetics Today, 12(3), 553–576.
+   Crossref
+   Web of Science
+   Google Scholar
+   Sabo J. S., Giner-Sorolla R. (2017). Imagining wrong: Fictitious
+   contexts mitigate condemnation of harm more than impurity. Journal of
+   Experimental Psychology: General, 146(1), 134–153.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Salgaro M., Van Tourhout B. (2018). Why does frank underwood look at
+   us? Contemporary heroes suggest the need of a turn in the
+   conceptualization of fictional empathy. Journal of Literary Theory,
+   12(2), 345–368.
+   Crossref
+   Google Scholar
+   Sanders M. S., Tsay-Vogel M. (2016). Beyond heroes and villains:
+   Examining explanatory mechanisms underlying moral disengagement. Mass
+   Communication and Society, 19(3), 230–252.
+   Crossref
+   Web of Science
+   Google Scholar
+   Schnell C., Bilandzic H. K. (2017). Television stories and the
+   cultivation of moral reasoning: The role of genre exposure and
+   narrative engageability. Journal of Media Ethics, 32(4), 202–220.
+   Crossref
+   Web of Science
+   Google Scholar
+   Shafer, D.M., Janicke, S. H. & Seibert, J. (2016). Judgment and choice:
+   Moral complexity, enjoyment and meaningfulness in interactiveand
+   non-interactive narratives. IOSR Journal of Humanities and Social
+   Science, 21(8), 97–106.
+   Crossref
+   Google Scholar
+   Shafer D. M., Raney A. A. (2012). Exploring how we enjoy antihero
+   narratives. Journal of Communication, 62(6), 1028–1046.
+   Crossref
+   Web of Science
+   Google Scholar
+   Szabó E., Jones D. N. (2019). Gender differences moderate
+   Machiavellianism and impulsivity: Implications for Dark Triad research.
+   Personality and Individual Differences, 141, 160–165.
+   Crossref
+   Web of Science
+   Google Scholar
+   Tamborini R., Eden A., Bowman N. D., Grizzard M., Weber R., Lewis R. J.
+   (2013). Predicting media appeal from instinctive moral values. Mass
+   Communication and Society, 16(3), 325–346.
+   Crossref
+   Web of Science
+   Google Scholar
+   Trapnell P. D., Paulhus D. L. (2012). Agentic and communal values:
+   Their scope and measurement. Journal of Personality Assessment, 94(1),
+   39–52.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Trzebiatowska M., Bruce S. (2012). Why are women more religious than
+   men? Oxford University Press.
+   Crossref
+   Google Scholar
+   Turiel E. (1983). The development of social knowledge: Morality and
+   convention. Cambridge University Press.
+   Google Scholar
+   Turiel E. (2006). Thought, emotions, and social interactional processes
+   in moral development. In M. Killen & J. Smetana (Eds.), Handbook of
+   moral development (pp. 7–35). Lawrence Erlbaum Associates.
+   Google Scholar
+   Turiel E., Smetana J. G., Killen M. (2014). Social contexts in social
+   cognitive development. Handbook of Moral Behavior and Development, 2,
+   307–332.
+   Google Scholar
+   Vaage M. B. (2013). Fictional reliefs and reality checks. Screen,
+   54(2), 218–237.
+   Crossref
+   Web of Science
+   Google Scholar
+   Vaage M. B. (2015). The antihero in American television. Routledge.
+   Crossref
+   Google Scholar
+   van Ommen M., Daalmans S., Weijers A. (2014). Who is the doctor in this
+   house? Analyzing the moral evaluations of medical students and
+   physicians of house. AJOB Empirical Bioethics, 5(4), 61–74.
+   Crossref
+   Google Scholar
+   Walton K. L., Tanner M. (1994). Morals in fiction and fictional
+   morality. 68, 27–66. Proceedings of the Aristotelian Society,
+   Supplementary Volumes,
+   Crossref
+   Google Scholar
+   Ward S. J., King L. A. (2018). Gender differences in emotion explain
+   women’s lower immoral intentions and harsher moral condemnation.
+   Personality and Social Psychology Bulletin, 44(5), 653–669.
+   Crossref
+   PubMed
+   Web of Science
+   Google Scholar
+   Weisberg D. S., Goodstein J. (2009). What belongs in a fictional world.
+   Journal of Cognition and Culture, 9(1-2), 69–78.
+   Crossref
+   Google Scholar
+   Zillman D., Cantor J. R. (1977). Affective responses to the emotions of
+   a protagonist. Journal of Experimental Social Psychology, 13(2),
+   155–165.
+   Crossref
+   Web of Science
+   Google Scholar
+   Zillmann D. (2000). Basal morality in drama appreciation. In I.
+   Bondebjerg (Ed.), Moving images, culture, and the mind (1st ed., Vol.
+   1, pp. 53–63). Luton, UK: Luton University Press.
+   Google Scholar
+
+Biographies
+
+   Brian Ruedinger is a PhD candidate in the Department of Psychology at
+   the University of Oklahoma.
+   Jennifer Barnes is an Associate Professor of Psychology and
+   Professional Writing at the University of Oklahoma. In addition to
+   studying the cognitive science of fiction and imagination, she is also
+   a New York Times bestselling novelist. Her research focuses on the
+   impacts of engaging with fiction, the limits of the imagination, and
+   the psychology of fandom.
+
+Supplementary Material
+
+   Please find the following supplemental material available below.
+
+   For Open Access articles published under a Creative Commons License,
+   all supplemental material carries the same license as the article it is
+   associated with.
+
+   For non-Open Access articles published, all supplemental material
+   carries a non-exclusive license, and permission requests for re-use of
+   supplemental material or any part of supplemental material shall be
+   sent directly to the copyright owner as specified in the copyright
+   notice associated with the article.
+     * sj-pdf-1-ica-10.1177_02762366211019782.pdf
+     * 1.35 MB
+
+Cite
+
+Cite
+
+Cite
+
+   (BUTTON) Copy Citation
+
+   OR
+
+Download to reference manager
+
+   If you have citation software installed, you can download citation data
+   to the citation manager of your choice
+   Select your citation manager software:
+   [(select option)_________________]
+   [X] Direct import
+
+   Download citation
+
+Share options
+
+Share
+
+Share this publication
+
+Share with email
+
+   Email Link
+
+Share on social media
+
+   FacebookX (formerly Twitter)LinkedInWeChat
+
+Share access to this article
+
+   Sharing links are not relevant where the article is open access and not
+   available if you do not have a subscription.
+
+   For more information view the Sage Journals article sharing page.
+
+Information, rights and permissions
+
+Information
+
+Published In
+
+   Go to [icaa_41_3.largecover.png]
+   View
+   Imagination, Cognition and Personality
+   Volume 41, Issue 3
+   Pages: 245 - 273
+   Article first published online: June 2, 2021
+   Issue published: March 2022
+
+Keywords
+
+    1. fantasy
+    2. reality
+    3. morality
+    4. Machiavellianism
+    5. fiction
+
+Rights and permissions
+
+   © The Author(s) 2021.
+   Request permissions for this article.
+   Request Permissions
+
+Authors
+
+Affiliations
+
+   Brian Ruedinger
+   University of Oklahoma, Norman, Oklahoma, United States
+   https://orcid.org/0000-0003-1143-4157
+   [email protected]
+   View all publications by this author
+   Jennifer Barnes
+   University of Oklahoma, Norman, Oklahoma, United States
+   View all publications by this author
+
+Notes
+
+   Brian Ruedinger, University of Oklahoma, 455 W. Lindsey Street, Dale
+   Hall Tower, Norman, OK 73019-0390, United States. Email:
+   [email protected]
+
+Metrics and citations
+
+Metrics
+
+Journals metrics
+
+   This article was published in Imagination, Cognition and Personality.
+   View All Journal Metrics
+     __________________________________________________________________
+
+Publication usage^*
+
+   Total views and downloads: 771
+
+   ^*Publication usage tracking started in December 2016
+     __________________________________________________________________
+
+Publications citing this one
+
+   Receive email alerts when this publication is cited
+   Sign up to citation alerts
+
+   Web of Science: 0
+
+   Crossref: 2
+    1. The Impact of Comparative Moral Superiority on Protagonist Appeal
+       Go to citationCrossrefGoogle Scholar
+    2. Operationalizing perpetrator studies. Focusing readers’ reactions
+       to The Kindly Ones by Jonathan Littell
+       Go to citationCrossrefGoogle Scholar
+
+Figures and tables
+
+Figures & Media
+
+Tables
+
+View Options
+
+Access options
+
+   If you have access to journal content via a personal subscription,
+   university, library, employer or society, select from the options
+   below:
+   (BUTTON)
+   user icon Sage Journals profile
+
+   I am signed in as:
+
+   [person-992e115f27b641a6bcbca03140578bf3.svg]
+   View my profileSign out
+
+   I can access personal subscriptions, purchases, paired institutional
+   access and free tools such as favourite journals, email alerts and
+   saved searches.
+
+   Login failed. Please check you entered the correct user name and
+   password.
+
+Sign in
+
+   Access personal subscriptions, purchases, paired institutional or
+   society access and free tools such as email alerts and saved searches.
+   Required fields
+   The email address and/or password entered does not match our records,
+   please check and try again.
+   Email: _______________
+   Password:
+   ____________________
+   [ ] Remember me
+   Forgotten your password?
+   (BUTTON) Sign in
+   OR
+   Create profile
+   (BUTTON)
+   Institution
+
+   loading institutional access options
+
+   Click the button below for the full-text content
+
+   请点击以下获取该全文
+   Click here to view / 点击获取全文
+   (BUTTON)
+   SocietyChinese Institutions / 中国用户
+     __________________________________________________________________
+
+   Alternatively, view purchase options below:
+   (BUTTON)
+   cart icon Purchase access
+   Item saved, go to cart
+
+   Purchase 24 hour online access to view and download content.
+   (*) Article - £29.00
+   ( ) Issue - £157.82
+   (BUTTON) Add To Cart
+   Added to cart
+   Checkout
+   Subscribe to this journal
+   (BUTTON)
+   read with deepdyve Read with DeepDyve
+
+   Access journal content via a DeepDyve subscription or find out more
+   about this option.
+   Start 2 week free trial
+   Need help?
+
+View options
+
+PDF/EPUB
+
+   View PDF/EPUB
+
+Full Text
+
+   View Full Text
+
+Similar articles:
+
+     * Restricted access
+       Who Is Your Biggest Critic? Cultural Variation in Moral Judgments
+       of the Self and Others
+       (BUTTON) Show details Hide details
+       Cristina E. Salvador and more ...
+       Journal of Cross-Cultural Psychology
+       Jun 2024
+     * Restricted access
+       Impossible or Improbable: The Difficulty of Imagining Morally
+       Deviant Worlds
+       (BUTTON) Show details Hide details
+       Jennifer Barnes and more ...
+       Imagination, Cognition and Personality
+       Apr 2016
+     * Restricted access
+       On the Highway to Hell: Slippery Slope Perceptions in Judgments of
+       Moral Character
+       (BUTTON) Show details Hide details
+       Rajen A. Anderson and more ...
+       Personality and Social Psychology Bulletin
+       Jan 2023
+     * Open Access
+       Affect Control Theory Applied to Morality
+       (BUTTON) Show details Hide details
+       Neil J. MacKinnon
+       American Behavioral Scientist
+       Jan 2022
+     * Free access
+       Moral judgment of close relationship behaviors
+       (BUTTON) Show details Hide details
+       Dylan Selterman and more ...
+       Journal of Social and Personal Relationships
+       Oct 2014
+     * Restricted access
+       Integrating the Streams of Morality Research: The Case of Political
+       Ideology
+       (BUTTON) Show details Hide details
+       Jesse Graham and more ...
+       Current Directions in Psychological Science
+       Dec 2012
+     * Restricted access
+       Less Evil Than You: Bounded Self-Righteousness in Character
+       Inferences, Emotional Reactions, and Behavioral Extremes
+       (BUTTON) Show details Hide details
+       Nadav Klein and more ...
+       Personality and Social Psychology Bulletin
+       Jun 2017
+     * Restricted access
+       Immorality East and West: Are Immoral Behaviors Especially Harmful,
+       or Especially Uncivilized?
+       (BUTTON) Show details Hide details
+       Emma E. Buchtel and more ...
+       Personality and Social Psychology Bulletin
+       Aug 2015
+     * Restricted access
+       How Moral Expectancy Violations Influence Audiences’ Affective
+       Dispositions Toward Characters
+       (BUTTON) Show details Hide details
+       Nicholas L. Matthews and more ...
+       Communication Research
+       Sep 2021
+
+   (BUTTON) View more
+
+Sage recommends:
+
+     * SAGE Knowledge
+       Entry
+       Immorality
+       (BUTTON) Show details Hide details
+       Robert W. Kolb
+       The SAGE Encyclopedia of Business Ethics and Society
+       2018
+     * SAGE Knowledge
+       Entry
+       Decision Making
+       (BUTTON) Show details Hide details
+       Itamar Simonson
+       Encyclopedia of Social Psychology
+       2007
+     * SAGE Knowledge
+       Entry
+       Morality, Theories of Development
+       (BUTTON) Show details Hide details
+       Melanie Killen
+       Encyclopedia of Applied Developmental Science
+       2005
+     * SAGE Knowledge
+       Entry
+       Moral Imagination
+       (BUTTON) Show details Hide details
+       George Goethals
+       The SAGE Encyclopedia of Leadership Studies
+       2023
+     * SAGE Knowledge
+       Entry
+       Machiavellianism
+       (BUTTON) Show details Hide details
+       Fathali M. Moghaddam
+       The SAGE Encyclopedia of Political Behavior
+       2017
+     * SAGE Knowledge
+       Book chapter
+       Politics, Religion, and Morality
+       (BUTTON) Show details Hide details
+       Lewis R. Aiken
+       Attitudes and Related Psychosocial Constructs: Theories,
+       Assessment, and Research
+       2002
+     * SAGE Knowledge
+       Entry
+       Morality and Respectability
+       (BUTTON) Show details Hide details
+       Abbie E. Goldberg
+       The SAGE Encyclopedia of LGBTQ Studies
+       2016
+     * SAGE Knowledge
+       Book chapter
+       “The Right” and Moral Development: Fundamental Themes of Kohlberg's
+       Cognitive-Developmental Approach
+       (BUTTON) Show details Hide details
+       John C. Gibbs
+       Moral Development and Reality: Beyond the Theories of Kohlberg and
+       Hoffman
+       2003
+     * SAGE Knowledge
+       Book chapter
+       Mechanizing Ethics
+       (BUTTON) Show details Hide details
+       Wendell Wallach
+       Leadership in Science and Technology: A Reference Handbook
+       2012
+
+   (BUTTON) View more
+
+Sage recommends:
+
+     * SAGE Knowledge
+       Entry
+       Immorality
+       (BUTTON) Show details Hide details
+       Robert W. Kolb
+       The SAGE Encyclopedia of Business Ethics and Society
+       2018
+     * SAGE Knowledge
+       Entry
+       Decision Making
+       (BUTTON) Show details Hide details
+       Itamar Simonson
+       Encyclopedia of Social Psychology
+       2007
+     * SAGE Knowledge
+       Entry
+       Morality, Theories of Development
+       (BUTTON) Show details Hide details
+       Melanie Killen
+       Encyclopedia of Applied Developmental Science
+       2005
+     * SAGE Knowledge
+       Entry
+       Moral Imagination
+       (BUTTON) Show details Hide details
+       George Goethals
+       The SAGE Encyclopedia of Leadership Studies
+       2023
+     * SAGE Knowledge
+       Entry
+       Machiavellianism
+       (BUTTON) Show details Hide details
+       Fathali M. Moghaddam
+       The SAGE Encyclopedia of Political Behavior
+       2017
+     * SAGE Knowledge
+       Book chapter
+       Politics, Religion, and Morality
+       (BUTTON) Show details Hide details
+       Lewis R. Aiken
+       Attitudes and Related Psychosocial Constructs: Theories,
+       Assessment, and Research
+       2002
+     * SAGE Knowledge
+       Entry
+       Morality and Respectability
+       (BUTTON) Show details Hide details
+       Abbie E. Goldberg
+       The SAGE Encyclopedia of LGBTQ Studies
+       2016
+     * SAGE Knowledge
+       Book chapter
+       “The Right” and Moral Development: Fundamental Themes of Kohlberg's
+       Cognitive-Developmental Approach
+       (BUTTON) Show details Hide details
+       John C. Gibbs
+       Moral Development and Reality: Beyond the Theories of Kohlberg and
+       Hoffman
+       2003
+     * SAGE Knowledge
+       Book chapter
+       Mechanizing Ethics
+       (BUTTON) Show details Hide details
+       Wendell Wallach
+       Leadership in Science and Technology: A Reference Handbook
+       2012
+
+   (BUTTON) View more
+   View full text|Download PDF
+
+   (BUTTON) Figures (BUTTON) Tables (BUTTON) Others
+   (BUTTON) Close figure viewer
+
+   (BUTTON) Back to article
+   Figure title goes here
+   (BUTTON) Change zoom level
+   Go to figure location within the article
+   Download figure
+   (BUTTON) Toggle share panel
+   Share on social media
+   (BUTTON) Toggle information panel
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON) All figures󩋮All tablesAll others
+
+   (BUTTON)
+   (BUTTON) (BUTTON) All figures
+
+   (BUTTON)
+   (BUTTON) (BUTTON) All tables
+
+   (BUTTON)
+   (BUTTON) (BUTTON) All others
+   xrefBack.goTo
+   (BUTTON) xrefBack.goTo
+   (BUTTON)
+
+     Request permissions (BUTTON) Show all sections
+   (BUTTON) Collapse
+   (BUTTON) Expand Table
+   (BUTTON) Show all references
+   (BUTTON) SHOW ALL BOOKS
+   (BUTTON) Show all sectionsView all authors and affiliations
+
+   You currently have no access to this content. Visit the access options
+   page to authenticate.
+
+Also from Sage
+
+     * CQ Library Elevating debateopens in new tab
+     * Sage Data Uncovering insightopens in new tab
+     * Sage Business Cases Shaping futuresopens in new tab
+     * Sage Campus Unleashing potentialopens in new tab
+     * Sage Knowledge Multimedia learning resourcesopens in new tab
+     * Sage Research Methods Supercharging researchopens in new tab
+     * Sage Video Streaming knowledgeopens in new tab
+     * Technology from Sage Library digital servicesopens in new tab
+
+   (BUTTON) Back to top
+
+About
+
+     * About Sage Journals
+     * Accessibility guide
+     * Historical content
+     * Advertising disclaimer
+     * Permissions
+     * Terms of use
+     * Sage discipline hubs
+     * Sage microsites
+
+Information for
+
+     * Authors
+     * Editors
+     * Librarians
+     * Researchers
+     * Reviewers
+     * Societies & Partners
+     * Advertising & Promotion
+     * FAQs
+
+Imagination, Cognition and Personality
+
+     * ISSN: 0276-2366
+     * Online ISSN: 1541-4477
+
+     * About Sage
+     * Contact us
+     * CCPA - Do not sell my personal information
+     * CCPA
+     * Privacy Policy
+
+   Copyright © 2026 by SAGE Publications
+
+     *
+     *
+     *
+     *
+     *
+   REFRESH(360 sec):
+   https://journals.sagepub.com/doi/abs/10.1177/02762366211019782
+
+   Enable JavaScript and cookies to continue
+   REFRESH(360 sec):
+   https://journals.sagepub.com/doi/abs/10.1177/02762366211019782
+
+   Enable JavaScript and cookies to continue

@@ -795,3 +795,1617 @@
 
 
 
+<!DOCTYPE html>
+<html>
+<head>
+ 
+	<title>TheBench Fantasy Sports</title>
+
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/bootstrap-2.3.1.min.css" />
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/bootstrap-responsive-2.3.1.min.css" />
+	
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/main.min.css?20230415" />
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/landing-page.min.css?20200326-1" />
+	
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Sanchez:400italic,400' rel='stylesheet' type='text/css'>
+	
+	<link rel="shortcut icon" href="https://cdn.thebench.com.au/assets/media/favicon.ico" />
+	
+	<script src="https://cdn.thebench.com.au/assets/js/jquery-1.10.2.min.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- Let it be known that I hate Internet Explorer -->
+
+	<!-- iOS Settings -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale = 1.0, user-scalable = no">
+	
+	<meta name="description" content="AFL Fantasy Footy by your rules. TheBench is Australia's most customisable premium draft style Fantasy Sports platform.  AFL, NRL and Super Rugby." >
+	<meta name="title" content="TheBench Fantasy Sports" >
+	<meta name="keywords" content="fantasy thebench thebench™ afl nrl draft midseason keeper customise footy dreamteam analysis stats statistics sports rules premium" >
+
+	<meta property="og:description" content="AFL, NRL and Super Rugby Fantasy Footy by your rules. TheBench is Australia's most customisable Premium draft style Fantasy Football. Australian Rules Football, National Rugby League and Super Rugby." >
+	<meta property="og:title" content="TheBench" >
+	<meta property="og:type" content="website" >
+	<meta property="og:url" content="http://thebench.com.au" >
+	<meta property="og:image" content="https://cdn.thebench.com.au/assets/media/Icon_ipad@2x.png" >
+	<meta property="og:site_name" content="TheBench" >
+	<meta property="fb:admins" content="658138992" >
+	<meta property="fb:page_id" content="thebenchfantasysports" >
+	
+	<!-- Style IE as HTML5 -->
+	<!--[if lt IE 9]>
+		<script src="https://cdn.thebench.com.au/assets/js/html5.js"></script>
+		<script src="https://cdn.thebench.com.au/assets/js/modernizr.js"></script>
+	<![endif]-->
+	
+	<!-- Google Analytics -->
+	<script type="text/javascript">
+
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+		  ga('create', 'UA-3892300-1', 'thebench.com.au');
+		  ga('send', 'pageview');
+
+	</script>
+
+	<script type="text/javascript">
+	
+		$(window).scroll(function() {
+			var yPos = -($(window).scrollTop() / 1.5);
+		    $('section.background').css({"background-position-y":yPos})
+		});
+	
+	</script>
+
+</head>
+<body class="style2">
+
+	<header>
+		<nav class="top-menu">
+			<a href="/splash"><div class="header-logo-mini"></div></a>
+			
+			<ul class="nav mobile-hide">
+				
+				<li><a href="/page/features">Features</a></li>
+				<li><a href="/page/tutorials">Tutorials</a></li>
+				<li><a href="http://thebenchnews.com.au">News</a></li>
+				<li><a href="/page/help">Help</a></li>
+			</ul>
+			
+			
+				
+					<ul class="nav pull-right">			
+						<li><a href="/join">Join</a></li>
+						<li><a href="/login">Sign-in</a></li>
+					</ul>		
+						
+			</ui>
+		</nav>
+	</header>
+	
+	<section class="background">
+		<h1 class="logo-panel"><a href="#">TheBench Fantasy Sports</a></h1>
+	</section>
+
+	<script type="text/javascript">
+		/*jQuery(document).ready(function($) {
+			setTimeout(function() {
+				$('section.background').css('background', 'url("/assets/media/backgrounds/ned-2400.jpg")');
+		        return false;
+		    }, 2000);
+		});*/
+	</script>
+	<!-- Model Video -->
+	<div id="model-video" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-body">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true" onclick="$('#video-wrapper').html('')">×</button>
+			<div id="video-wrapper">
+				
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		function loadVideo() {
+			$('#video-wrapper').html('<iframe width="1280" height="720" src="https://www.youtube.com/embed/2Q7iorh46PA?vq=hd720&amp;rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>');
+		}
+	</script>
+	
+	<section class="content">
+		<div class="sign-up" >
+			
+			<!-- <a href="#model-video" role="button" data-toggle="modal" onclick="loadVideo()"><div class="play-badge-image"></div></a> -->
+			
+			<div class="join-button"><a href="/join">Join Now</a></div>
+			
+			
+		</div>
+
+		
+
+	<div class="fold">
+		<div class="info-tiles border-top">
+			<div class="info-tile left">
+				<div class="info-inner">
+					
+					<h2>Premium Seasonal Draft Fantasy Footy</h2>
+					<h3>Seasonal drafting, relegating, keeper competitions, mid-season drafts, trading, custom scoring, rolling lockouts and more...</h3>
+					<div class="info-badge premium-badge-image"></div>
+					<div class="join-button"><a href="/join">Join now for free</a></div>
+					
+					
+				</div>
+				<div class="info-details">
+
+					<p>TheBench is a <strong>premium experience</strong> to seasonal draft style Fantasy Footy.
+					<p>TheBench is the perfect choice if you have run your custom competition through a spreadsheet in the past and are looking to bring it online and stream-line your work.
+					<p>Run multiple competitions in the same League, relegating and promoting clubs between seasons, run multiple drafting models, mid-season drafts and keeper style competitions - you control the rules.
+
+				</div>
+			</div>
+			<div class="info-tile middle">
+				<div class="info-inner">
+					<h2>Get Mobile</h2>
+					<h3>iPhone, Android, iPad and more.  Enjoy TheBench™ wherever it suits you most.</h3>
+					
+				</div>
+				<div class="info-details">
+					<p>Get TheBench™ on your <strong>iPhone</strong> from the <a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8">Apple</a> <a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8">AppStore</a> for a fantastic native mobile experience, complete with push notifications for those important moments you don't want to miss.</p>
+					<p><a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8"><img src="https://cdn.thebench.com.au/assets/media/app-store@2x.png" alt="Apple AppStore Logo" width="135px" height="40px"></a></p>
+					<p>The website is also optimised for use on any mobile device including Android and the iPad.  Use TheBench™ wherever it suits you most.</p>
+					<p>Now has never been a better time to get into TheBench™. Find out about the features <a href="https://thebench.com.au/page/features">here</a>.</p>					
+				</div>
+			</div>
+			<div class="info-tile right">
+				<div class="info-inner">
+					<h2>Your Rules, Your Sport</h2>
+					<h3>Play Fantasy Sports the way it was intended to be played - your rules, with your mates.  Now for AFL, NRL and Super Rugby.</h3>
+					
+					<!--<table>
+						<tr><td><div class="code-logo AFL"></div></td><td><div class="code-logo NRL"></div></td><td><div class="code-logo SR"></div></td></tr>
+					</table>-->
+				</div>
+				<div class="info-details">
+					<p>Play Fantasy Sports the way it was intended to be played - <strong>your rules, with your mates</strong>. TheBench™ is a customisable Draft based Fantasy Sports site that you can create your own private Competitions. The hard work is done for you automatically but you are in control.</p>
+					<p>You no-longer have to put up with fantasy games with unrealistic rules that and require a bachelor degree in statistical analysis to be competitive. TheBench™ continues to be the hub or premium AFL Fantasy Footy and with the support of <a href="http://www.nrlceo.com/">NRLCEO</a>, TheBench™ also offers NRL and Super Rugby.</p>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+
+		
+		<div class="fold">
+			<div class="info-tiles">
+				<div class="info-tile full-width">
+					<div class="info-inner">
+						<div class="join-button"><a href="/page/help">Learn more?</a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<footer>
+			<div class="container">
+	
+				<div id="footer-logo"></div>
+	
+				<!-- Footer -->
+				<div id="footer-links">
+					<nav class="link-group">
+						<b>TheBench</b>
+						<ul>
+							<li><a href="/contactus">Contact Us</a></li>
+							<li><a href="/page/about">About Us</a></li>
+							<li><a href="/page/features">Features</a></li>
+							<li><a href="/feature-requests">Feature Requests</a></li>
+							<li><a href="/page/friends">Friends</a></li>
+							<li><a href="https://www.facebook.com/thebenchfantasysports">Facebook</a></li>
+							<li><a href="http://thebenchnews.com.au">News</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Terms & Privacy</b>
+						<ul>
+							<li><a href="/page/terms">Terms</a></li>
+							<li><a href="/page/privacy">Privacy</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Help</b>
+						<ul>
+							<li><a href="/page/help">Help</a></li>
+							<li><a href="/page/help/rules">Rules</a></li>
+							<li><a href="/page/help/scoring">Scoring</a></li>
+							<li><a href="/page/tutorials">Video Tutorials</a></li>
+							<li><a href="/page/faq">FAQs</a></li>
+							<li><a href="/page/gamble-responsibly">Gamble Responsibly</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Codes</b>
+						<ul>
+							<li><a href="/code/afl/players">AFL Players</a></li>
+							<li><a href="/code/nrl/players">NRL Players</a></li>
+							<li><a href="/code/bbl/players">Big Bash Players</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+				</div>
+				
+				<section id="footer-sponsored">
+					<div class="fine-print">TheBench™ is a Trade Mark of <a href="http://www.roarenergy.com">RoarEnergy Group Pty. Ltd.</a></div>
+					<div class="fine-print">RoarEnergy is proudly an Australian Company  ACN: 147 462 315, ABN: 98 147 462 315</div>
+				</section>
+	
+			</div>
+		</footer>
+	</section>
+	
+	<!-- Javascript includes -->
+	<script src="https://cdn.thebench.com.au/assets/js/bootstrap-2.3.1.min.js" type="text/javascript" charset="utf-8"></script>
+
+
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+ 
+	<title>TheBench Fantasy Sports</title>
+
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/bootstrap-2.3.1.min.css" />
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/bootstrap-responsive-2.3.1.min.css" />
+	
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/main.min.css?20230415" />
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/landing-page.min.css?20200326-1" />
+	
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Sanchez:400italic,400' rel='stylesheet' type='text/css'>
+	
+	<link rel="shortcut icon" href="https://cdn.thebench.com.au/assets/media/favicon.ico" />
+	
+	<script src="https://cdn.thebench.com.au/assets/js/jquery-1.10.2.min.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- Let it be known that I hate Internet Explorer -->
+
+	<!-- iOS Settings -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale = 1.0, user-scalable = no">
+	
+	<meta name="description" content="AFL Fantasy Footy by your rules. TheBench is Australia's most customisable premium draft style Fantasy Sports platform.  AFL, NRL and Super Rugby." >
+	<meta name="title" content="TheBench Fantasy Sports" >
+	<meta name="keywords" content="fantasy thebench thebench™ afl nrl draft midseason keeper customise footy dreamteam analysis stats statistics sports rules premium" >
+
+	<meta property="og:description" content="AFL, NRL and Super Rugby Fantasy Footy by your rules. TheBench is Australia's most customisable Premium draft style Fantasy Football. Australian Rules Football, National Rugby League and Super Rugby." >
+	<meta property="og:title" content="TheBench" >
+	<meta property="og:type" content="website" >
+	<meta property="og:url" content="http://thebench.com.au" >
+	<meta property="og:image" content="https://cdn.thebench.com.au/assets/media/Icon_ipad@2x.png" >
+	<meta property="og:site_name" content="TheBench" >
+	<meta property="fb:admins" content="658138992" >
+	<meta property="fb:page_id" content="thebenchfantasysports" >
+	
+	<!-- Style IE as HTML5 -->
+	<!--[if lt IE 9]>
+		<script src="https://cdn.thebench.com.au/assets/js/html5.js"></script>
+		<script src="https://cdn.thebench.com.au/assets/js/modernizr.js"></script>
+	<![endif]-->
+	
+	<!-- Google Analytics -->
+	<script type="text/javascript">
+
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+		  ga('create', 'UA-3892300-1', 'thebench.com.au');
+		  ga('send', 'pageview');
+
+	</script>
+
+	<script type="text/javascript">
+	
+		$(window).scroll(function() {
+			var yPos = -($(window).scrollTop() / 1.5);
+		    $('section.background').css({"background-position-y":yPos})
+		});
+	
+	</script>
+
+</head>
+<body class="style3">
+
+	<header>
+		<nav class="top-menu">
+			<a href="/splash"><div class="header-logo-mini"></div></a>
+			
+			<ul class="nav mobile-hide">
+				
+				<li><a href="/page/features">Features</a></li>
+				<li><a href="/page/tutorials">Tutorials</a></li>
+				<li><a href="http://thebenchnews.com.au">News</a></li>
+				<li><a href="/page/help">Help</a></li>
+			</ul>
+			
+			
+				
+					<ul class="nav pull-right">			
+						<li><a href="/join">Join</a></li>
+						<li><a href="/login">Sign-in</a></li>
+					</ul>		
+						
+			</ui>
+		</nav>
+	</header>
+	
+	<section class="background">
+		<h1 class="logo-panel"><a href="#">TheBench Fantasy Sports</a></h1>
+	</section>
+
+	<script type="text/javascript">
+		/*jQuery(document).ready(function($) {
+			setTimeout(function() {
+				$('section.background').css('background', 'url("/assets/media/backgrounds/ned-2400.jpg")');
+		        return false;
+		    }, 2000);
+		});*/
+	</script>
+	<!-- Model Video -->
+	<div id="model-video" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-body">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true" onclick="$('#video-wrapper').html('')">×</button>
+			<div id="video-wrapper">
+				
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		function loadVideo() {
+			$('#video-wrapper').html('<iframe width="1280" height="720" src="https://www.youtube.com/embed/2Q7iorh46PA?vq=hd720&amp;rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>');
+		}
+	</script>
+	
+	<section class="content">
+		<div class="sign-up" >
+			
+			<!-- <a href="#model-video" role="button" data-toggle="modal" onclick="loadVideo()"><div class="play-badge-image"></div></a> -->
+			
+			<div class="join-button"><a href="/join">Join Now</a></div>
+			
+			
+		</div>
+
+		
+
+	<div class="fold">
+		<div class="info-tiles border-top">
+			<div class="info-tile left">
+				<div class="info-inner">
+					
+					<h2>Premium Seasonal Draft Fantasy Footy</h2>
+					<h3>Seasonal drafting, relegating, keeper competitions, mid-season drafts, trading, custom scoring, rolling lockouts and more...</h3>
+					<div class="info-badge premium-badge-image"></div>
+					<div class="join-button"><a href="/join">Join now for free</a></div>
+					
+					
+				</div>
+				<div class="info-details">
+
+					<p>TheBench is a <strong>premium experience</strong> to seasonal draft style Fantasy Footy.
+					<p>TheBench is the perfect choice if you have run your custom competition through a spreadsheet in the past and are looking to bring it online and stream-line your work.
+					<p>Run multiple competitions in the same League, relegating and promoting clubs between seasons, run multiple drafting models, mid-season drafts and keeper style competitions - you control the rules.
+
+				</div>
+			</div>
+			<div class="info-tile middle">
+				<div class="info-inner">
+					<h2>Get Mobile</h2>
+					<h3>iPhone, Android, iPad and more.  Enjoy TheBench™ wherever it suits you most.</h3>
+					
+				</div>
+				<div class="info-details">
+					<p>Get TheBench™ on your <strong>iPhone</strong> from the <a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8">Apple</a> <a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8">AppStore</a> for a fantastic native mobile experience, complete with push notifications for those important moments you don't want to miss.</p>
+					<p><a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8"><img src="https://cdn.thebench.com.au/assets/media/app-store@2x.png" alt="Apple AppStore Logo" width="135px" height="40px"></a></p>
+					<p>The website is also optimised for use on any mobile device including Android and the iPad.  Use TheBench™ wherever it suits you most.</p>
+					<p>Now has never been a better time to get into TheBench™. Find out about the features <a href="https://thebench.com.au/page/features">here</a>.</p>					
+				</div>
+			</div>
+			<div class="info-tile right">
+				<div class="info-inner">
+					<h2>Your Rules, Your Sport</h2>
+					<h3>Play Fantasy Sports the way it was intended to be played - your rules, with your mates.  Now for AFL, NRL and Super Rugby.</h3>
+					
+					<!--<table>
+						<tr><td><div class="code-logo AFL"></div></td><td><div class="code-logo NRL"></div></td><td><div class="code-logo SR"></div></td></tr>
+					</table>-->
+				</div>
+				<div class="info-details">
+					<p>Play Fantasy Sports the way it was intended to be played - <strong>your rules, with your mates</strong>. TheBench™ is a customisable Draft based Fantasy Sports site that you can create your own private Competitions. The hard work is done for you automatically but you are in control.</p>
+					<p>You no-longer have to put up with fantasy games with unrealistic rules that and require a bachelor degree in statistical analysis to be competitive. TheBench™ continues to be the hub or premium AFL Fantasy Footy and with the support of <a href="http://www.nrlceo.com/">NRLCEO</a>, TheBench™ also offers NRL and Super Rugby.</p>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+
+		
+		<div class="fold">
+			<div class="info-tiles">
+				<div class="info-tile full-width">
+					<div class="info-inner">
+						<div class="join-button"><a href="/page/help">Learn more?</a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<footer>
+			<div class="container">
+	
+				<div id="footer-logo"></div>
+	
+				<!-- Footer -->
+				<div id="footer-links">
+					<nav class="link-group">
+						<b>TheBench</b>
+						<ul>
+							<li><a href="/contactus">Contact Us</a></li>
+							<li><a href="/page/about">About Us</a></li>
+							<li><a href="/page/features">Features</a></li>
+							<li><a href="/feature-requests">Feature Requests</a></li>
+							<li><a href="/page/friends">Friends</a></li>
+							<li><a href="https://www.facebook.com/thebenchfantasysports">Facebook</a></li>
+							<li><a href="http://thebenchnews.com.au">News</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Terms & Privacy</b>
+						<ul>
+							<li><a href="/page/terms">Terms</a></li>
+							<li><a href="/page/privacy">Privacy</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Help</b>
+						<ul>
+							<li><a href="/page/help">Help</a></li>
+							<li><a href="/page/help/rules">Rules</a></li>
+							<li><a href="/page/help/scoring">Scoring</a></li>
+							<li><a href="/page/tutorials">Video Tutorials</a></li>
+							<li><a href="/page/faq">FAQs</a></li>
+							<li><a href="/page/gamble-responsibly">Gamble Responsibly</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Codes</b>
+						<ul>
+							<li><a href="/code/afl/players">AFL Players</a></li>
+							<li><a href="/code/nrl/players">NRL Players</a></li>
+							<li><a href="/code/bbl/players">Big Bash Players</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+				</div>
+				
+				<section id="footer-sponsored">
+					<div class="fine-print">TheBench™ is a Trade Mark of <a href="http://www.roarenergy.com">RoarEnergy Group Pty. Ltd.</a></div>
+					<div class="fine-print">RoarEnergy is proudly an Australian Company  ACN: 147 462 315, ABN: 98 147 462 315</div>
+				</section>
+	
+			</div>
+		</footer>
+	</section>
+	
+	<!-- Javascript includes -->
+	<script src="https://cdn.thebench.com.au/assets/js/bootstrap-2.3.1.min.js" type="text/javascript" charset="utf-8"></script>
+
+
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+ 
+	<title>TheBench Fantasy Sports</title>
+
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/bootstrap-2.3.1.min.css" />
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/bootstrap-responsive-2.3.1.min.css" />
+	
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/main.min.css?20230415" />
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/landing-page.min.css?20200326-1" />
+	
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Sanchez:400italic,400' rel='stylesheet' type='text/css'>
+	
+	<link rel="shortcut icon" href="https://cdn.thebench.com.au/assets/media/favicon.ico" />
+	
+	<script src="https://cdn.thebench.com.au/assets/js/jquery-1.10.2.min.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- Let it be known that I hate Internet Explorer -->
+
+	<!-- iOS Settings -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale = 1.0, user-scalable = no">
+	
+	<meta name="description" content="AFL Fantasy Footy by your rules. TheBench is Australia's most customisable premium draft style Fantasy Sports platform.  AFL, NRL and Super Rugby." >
+	<meta name="title" content="TheBench Fantasy Sports" >
+	<meta name="keywords" content="fantasy thebench thebench™ afl nrl draft midseason keeper customise footy dreamteam analysis stats statistics sports rules premium" >
+
+	<meta property="og:description" content="AFL, NRL and Super Rugby Fantasy Footy by your rules. TheBench is Australia's most customisable Premium draft style Fantasy Football. Australian Rules Football, National Rugby League and Super Rugby." >
+	<meta property="og:title" content="TheBench" >
+	<meta property="og:type" content="website" >
+	<meta property="og:url" content="http://thebench.com.au" >
+	<meta property="og:image" content="https://cdn.thebench.com.au/assets/media/Icon_ipad@2x.png" >
+	<meta property="og:site_name" content="TheBench" >
+	<meta property="fb:admins" content="658138992" >
+	<meta property="fb:page_id" content="thebenchfantasysports" >
+	
+	<!-- Style IE as HTML5 -->
+	<!--[if lt IE 9]>
+		<script src="https://cdn.thebench.com.au/assets/js/html5.js"></script>
+		<script src="https://cdn.thebench.com.au/assets/js/modernizr.js"></script>
+	<![endif]-->
+	
+	<!-- Google Analytics -->
+	<script type="text/javascript">
+
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+		  ga('create', 'UA-3892300-1', 'thebench.com.au');
+		  ga('send', 'pageview');
+
+	</script>
+
+	<script type="text/javascript">
+	
+		$(window).scroll(function() {
+			var yPos = -($(window).scrollTop() / 1.5);
+		    $('section.background').css({"background-position-y":yPos})
+		});
+	
+	</script>
+
+</head>
+<body class="style2">
+
+	<header>
+		<nav class="top-menu">
+			<a href="/splash"><div class="header-logo-mini"></div></a>
+			
+			<ul class="nav mobile-hide">
+				
+				<li><a href="/page/features">Features</a></li>
+				<li><a href="/page/tutorials">Tutorials</a></li>
+				<li><a href="http://thebenchnews.com.au">News</a></li>
+				<li><a href="/page/help">Help</a></li>
+			</ul>
+			
+			
+				
+					<ul class="nav pull-right">			
+						<li><a href="/join">Join</a></li>
+						<li><a href="/login">Sign-in</a></li>
+					</ul>		
+						
+			</ui>
+		</nav>
+	</header>
+	
+	<section class="background">
+		<h1 class="logo-panel"><a href="#">TheBench Fantasy Sports</a></h1>
+	</section>
+
+	<script type="text/javascript">
+		/*jQuery(document).ready(function($) {
+			setTimeout(function() {
+				$('section.background').css('background', 'url("/assets/media/backgrounds/ned-2400.jpg")');
+		        return false;
+		    }, 2000);
+		});*/
+	</script>
+	<!-- Model Video -->
+	<div id="model-video" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-body">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true" onclick="$('#video-wrapper').html('')">×</button>
+			<div id="video-wrapper">
+				
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		function loadVideo() {
+			$('#video-wrapper').html('<iframe width="1280" height="720" src="https://www.youtube.com/embed/2Q7iorh46PA?vq=hd720&amp;rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>');
+		}
+	</script>
+	
+	<section class="content">
+		<div class="sign-up" >
+			
+			<!-- <a href="#model-video" role="button" data-toggle="modal" onclick="loadVideo()"><div class="play-badge-image"></div></a> -->
+			
+			<div class="join-button"><a href="/join">Join Now</a></div>
+			
+			
+		</div>
+
+		
+
+	<div class="fold">
+		<div class="info-tiles border-top">
+			<div class="info-tile left">
+				<div class="info-inner">
+					
+					<h2>Premium Seasonal Draft Fantasy Footy</h2>
+					<h3>Seasonal drafting, relegating, keeper competitions, mid-season drafts, trading, custom scoring, rolling lockouts and more...</h3>
+					<div class="info-badge premium-badge-image"></div>
+					<div class="join-button"><a href="/join">Join now for free</a></div>
+					
+					
+				</div>
+				<div class="info-details">
+
+					<p>TheBench is a <strong>premium experience</strong> to seasonal draft style Fantasy Footy.
+					<p>TheBench is the perfect choice if you have run your custom competition through a spreadsheet in the past and are looking to bring it online and stream-line your work.
+					<p>Run multiple competitions in the same League, relegating and promoting clubs between seasons, run multiple drafting models, mid-season drafts and keeper style competitions - you control the rules.
+
+				</div>
+			</div>
+			<div class="info-tile middle">
+				<div class="info-inner">
+					<h2>Get Mobile</h2>
+					<h3>iPhone, Android, iPad and more.  Enjoy TheBench™ wherever it suits you most.</h3>
+					
+				</div>
+				<div class="info-details">
+					<p>Get TheBench™ on your <strong>iPhone</strong> from the <a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8">Apple</a> <a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8">AppStore</a> for a fantastic native mobile experience, complete with push notifications for those important moments you don't want to miss.</p>
+					<p><a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8"><img src="https://cdn.thebench.com.au/assets/media/app-store@2x.png" alt="Apple AppStore Logo" width="135px" height="40px"></a></p>
+					<p>The website is also optimised for use on any mobile device including Android and the iPad.  Use TheBench™ wherever it suits you most.</p>
+					<p>Now has never been a better time to get into TheBench™. Find out about the features <a href="https://thebench.com.au/page/features">here</a>.</p>					
+				</div>
+			</div>
+			<div class="info-tile right">
+				<div class="info-inner">
+					<h2>Your Rules, Your Sport</h2>
+					<h3>Play Fantasy Sports the way it was intended to be played - your rules, with your mates.  Now for AFL, NRL and Super Rugby.</h3>
+					
+					<!--<table>
+						<tr><td><div class="code-logo AFL"></div></td><td><div class="code-logo NRL"></div></td><td><div class="code-logo SR"></div></td></tr>
+					</table>-->
+				</div>
+				<div class="info-details">
+					<p>Play Fantasy Sports the way it was intended to be played - <strong>your rules, with your mates</strong>. TheBench™ is a customisable Draft based Fantasy Sports site that you can create your own private Competitions. The hard work is done for you automatically but you are in control.</p>
+					<p>You no-longer have to put up with fantasy games with unrealistic rules that and require a bachelor degree in statistical analysis to be competitive. TheBench™ continues to be the hub or premium AFL Fantasy Footy and with the support of <a href="http://www.nrlceo.com/">NRLCEO</a>, TheBench™ also offers NRL and Super Rugby.</p>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+
+		
+		<div class="fold">
+			<div class="info-tiles">
+				<div class="info-tile full-width">
+					<div class="info-inner">
+						<div class="join-button"><a href="/page/help">Learn more?</a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<footer>
+			<div class="container">
+	
+				<div id="footer-logo"></div>
+	
+				<!-- Footer -->
+				<div id="footer-links">
+					<nav class="link-group">
+						<b>TheBench</b>
+						<ul>
+							<li><a href="/contactus">Contact Us</a></li>
+							<li><a href="/page/about">About Us</a></li>
+							<li><a href="/page/features">Features</a></li>
+							<li><a href="/feature-requests">Feature Requests</a></li>
+							<li><a href="/page/friends">Friends</a></li>
+							<li><a href="https://www.facebook.com/thebenchfantasysports">Facebook</a></li>
+							<li><a href="http://thebenchnews.com.au">News</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Terms & Privacy</b>
+						<ul>
+							<li><a href="/page/terms">Terms</a></li>
+							<li><a href="/page/privacy">Privacy</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Help</b>
+						<ul>
+							<li><a href="/page/help">Help</a></li>
+							<li><a href="/page/help/rules">Rules</a></li>
+							<li><a href="/page/help/scoring">Scoring</a></li>
+							<li><a href="/page/tutorials">Video Tutorials</a></li>
+							<li><a href="/page/faq">FAQs</a></li>
+							<li><a href="/page/gamble-responsibly">Gamble Responsibly</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Codes</b>
+						<ul>
+							<li><a href="/code/afl/players">AFL Players</a></li>
+							<li><a href="/code/nrl/players">NRL Players</a></li>
+							<li><a href="/code/bbl/players">Big Bash Players</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+				</div>
+				
+				<section id="footer-sponsored">
+					<div class="fine-print">TheBench™ is a Trade Mark of <a href="http://www.roarenergy.com">RoarEnergy Group Pty. Ltd.</a></div>
+					<div class="fine-print">RoarEnergy is proudly an Australian Company  ACN: 147 462 315, ABN: 98 147 462 315</div>
+				</section>
+	
+			</div>
+		</footer>
+	</section>
+	
+	<!-- Javascript includes -->
+	<script src="https://cdn.thebench.com.au/assets/js/bootstrap-2.3.1.min.js" type="text/javascript" charset="utf-8"></script>
+
+
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+ 
+	<title>TheBench Fantasy Sports</title>
+
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/bootstrap-2.3.1.min.css" />
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/bootstrap-responsive-2.3.1.min.css" />
+	
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/main.min.css?20230415" />
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/landing-page.min.css?20200326-1" />
+	
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Sanchez:400italic,400' rel='stylesheet' type='text/css'>
+	
+	<link rel="shortcut icon" href="https://cdn.thebench.com.au/assets/media/favicon.ico" />
+	
+	<script src="https://cdn.thebench.com.au/assets/js/jquery-1.10.2.min.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- Let it be known that I hate Internet Explorer -->
+
+	<!-- iOS Settings -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale = 1.0, user-scalable = no">
+	
+	<meta name="description" content="AFL Fantasy Footy by your rules. TheBench is Australia's most customisable premium draft style Fantasy Sports platform.  AFL, NRL and Super Rugby." >
+	<meta name="title" content="TheBench Fantasy Sports" >
+	<meta name="keywords" content="fantasy thebench thebench™ afl nrl draft midseason keeper customise footy dreamteam analysis stats statistics sports rules premium" >
+
+	<meta property="og:description" content="AFL, NRL and Super Rugby Fantasy Footy by your rules. TheBench is Australia's most customisable Premium draft style Fantasy Football. Australian Rules Football, National Rugby League and Super Rugby." >
+	<meta property="og:title" content="TheBench" >
+	<meta property="og:type" content="website" >
+	<meta property="og:url" content="http://thebench.com.au" >
+	<meta property="og:image" content="https://cdn.thebench.com.au/assets/media/Icon_ipad@2x.png" >
+	<meta property="og:site_name" content="TheBench" >
+	<meta property="fb:admins" content="658138992" >
+	<meta property="fb:page_id" content="thebenchfantasysports" >
+	
+	<!-- Style IE as HTML5 -->
+	<!--[if lt IE 9]>
+		<script src="https://cdn.thebench.com.au/assets/js/html5.js"></script>
+		<script src="https://cdn.thebench.com.au/assets/js/modernizr.js"></script>
+	<![endif]-->
+	
+	<!-- Google Analytics -->
+	<script type="text/javascript">
+
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+		  ga('create', 'UA-3892300-1', 'thebench.com.au');
+		  ga('send', 'pageview');
+
+	</script>
+
+	<script type="text/javascript">
+	
+		$(window).scroll(function() {
+			var yPos = -($(window).scrollTop() / 1.5);
+		    $('section.background').css({"background-position-y":yPos})
+		});
+	
+	</script>
+
+</head>
+<body class="style3">
+
+	<header>
+		<nav class="top-menu">
+			<a href="/splash"><div class="header-logo-mini"></div></a>
+			
+			<ul class="nav mobile-hide">
+				
+				<li><a href="/page/features">Features</a></li>
+				<li><a href="/page/tutorials">Tutorials</a></li>
+				<li><a href="http://thebenchnews.com.au">News</a></li>
+				<li><a href="/page/help">Help</a></li>
+			</ul>
+			
+			
+				
+					<ul class="nav pull-right">			
+						<li><a href="/join">Join</a></li>
+						<li><a href="/login">Sign-in</a></li>
+					</ul>		
+						
+			</ui>
+		</nav>
+	</header>
+	
+	<section class="background">
+		<h1 class="logo-panel"><a href="#">TheBench Fantasy Sports</a></h1>
+	</section>
+
+	<script type="text/javascript">
+		/*jQuery(document).ready(function($) {
+			setTimeout(function() {
+				$('section.background').css('background', 'url("/assets/media/backgrounds/ned-2400.jpg")');
+		        return false;
+		    }, 2000);
+		});*/
+	</script>
+	<!-- Model Video -->
+	<div id="model-video" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-body">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true" onclick="$('#video-wrapper').html('')">×</button>
+			<div id="video-wrapper">
+				
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		function loadVideo() {
+			$('#video-wrapper').html('<iframe width="1280" height="720" src="https://www.youtube.com/embed/2Q7iorh46PA?vq=hd720&amp;rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>');
+		}
+	</script>
+	
+	<section class="content">
+		<div class="sign-up" >
+			
+			<!-- <a href="#model-video" role="button" data-toggle="modal" onclick="loadVideo()"><div class="play-badge-image"></div></a> -->
+			
+			<div class="join-button"><a href="/join">Join Now</a></div>
+			
+			
+		</div>
+
+		
+
+	<div class="fold">
+		<div class="info-tiles border-top">
+			<div class="info-tile left">
+				<div class="info-inner">
+					
+					<h2>Premium Seasonal Draft Fantasy Footy</h2>
+					<h3>Seasonal drafting, relegating, keeper competitions, mid-season drafts, trading, custom scoring, rolling lockouts and more...</h3>
+					<div class="info-badge premium-badge-image"></div>
+					<div class="join-button"><a href="/join">Join now for free</a></div>
+					
+					
+				</div>
+				<div class="info-details">
+
+					<p>TheBench is a <strong>premium experience</strong> to seasonal draft style Fantasy Footy.
+					<p>TheBench is the perfect choice if you have run your custom competition through a spreadsheet in the past and are looking to bring it online and stream-line your work.
+					<p>Run multiple competitions in the same League, relegating and promoting clubs between seasons, run multiple drafting models, mid-season drafts and keeper style competitions - you control the rules.
+
+				</div>
+			</div>
+			<div class="info-tile middle">
+				<div class="info-inner">
+					<h2>Get Mobile</h2>
+					<h3>iPhone, Android, iPad and more.  Enjoy TheBench™ wherever it suits you most.</h3>
+					
+				</div>
+				<div class="info-details">
+					<p>Get TheBench™ on your <strong>iPhone</strong> from the <a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8">Apple</a> <a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8">AppStore</a> for a fantastic native mobile experience, complete with push notifications for those important moments you don't want to miss.</p>
+					<p><a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8"><img src="https://cdn.thebench.com.au/assets/media/app-store@2x.png" alt="Apple AppStore Logo" width="135px" height="40px"></a></p>
+					<p>The website is also optimised for use on any mobile device including Android and the iPad.  Use TheBench™ wherever it suits you most.</p>
+					<p>Now has never been a better time to get into TheBench™. Find out about the features <a href="https://thebench.com.au/page/features">here</a>.</p>					
+				</div>
+			</div>
+			<div class="info-tile right">
+				<div class="info-inner">
+					<h2>Your Rules, Your Sport</h2>
+					<h3>Play Fantasy Sports the way it was intended to be played - your rules, with your mates.  Now for AFL, NRL and Super Rugby.</h3>
+					
+					<!--<table>
+						<tr><td><div class="code-logo AFL"></div></td><td><div class="code-logo NRL"></div></td><td><div class="code-logo SR"></div></td></tr>
+					</table>-->
+				</div>
+				<div class="info-details">
+					<p>Play Fantasy Sports the way it was intended to be played - <strong>your rules, with your mates</strong>. TheBench™ is a customisable Draft based Fantasy Sports site that you can create your own private Competitions. The hard work is done for you automatically but you are in control.</p>
+					<p>You no-longer have to put up with fantasy games with unrealistic rules that and require a bachelor degree in statistical analysis to be competitive. TheBench™ continues to be the hub or premium AFL Fantasy Footy and with the support of <a href="http://www.nrlceo.com/">NRLCEO</a>, TheBench™ also offers NRL and Super Rugby.</p>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+
+		
+		<div class="fold">
+			<div class="info-tiles">
+				<div class="info-tile full-width">
+					<div class="info-inner">
+						<div class="join-button"><a href="/page/help">Learn more?</a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<footer>
+			<div class="container">
+	
+				<div id="footer-logo"></div>
+	
+				<!-- Footer -->
+				<div id="footer-links">
+					<nav class="link-group">
+						<b>TheBench</b>
+						<ul>
+							<li><a href="/contactus">Contact Us</a></li>
+							<li><a href="/page/about">About Us</a></li>
+							<li><a href="/page/features">Features</a></li>
+							<li><a href="/feature-requests">Feature Requests</a></li>
+							<li><a href="/page/friends">Friends</a></li>
+							<li><a href="https://www.facebook.com/thebenchfantasysports">Facebook</a></li>
+							<li><a href="http://thebenchnews.com.au">News</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Terms & Privacy</b>
+						<ul>
+							<li><a href="/page/terms">Terms</a></li>
+							<li><a href="/page/privacy">Privacy</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Help</b>
+						<ul>
+							<li><a href="/page/help">Help</a></li>
+							<li><a href="/page/help/rules">Rules</a></li>
+							<li><a href="/page/help/scoring">Scoring</a></li>
+							<li><a href="/page/tutorials">Video Tutorials</a></li>
+							<li><a href="/page/faq">FAQs</a></li>
+							<li><a href="/page/gamble-responsibly">Gamble Responsibly</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Codes</b>
+						<ul>
+							<li><a href="/code/afl/players">AFL Players</a></li>
+							<li><a href="/code/nrl/players">NRL Players</a></li>
+							<li><a href="/code/bbl/players">Big Bash Players</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+				</div>
+				
+				<section id="footer-sponsored">
+					<div class="fine-print">TheBench™ is a Trade Mark of <a href="http://www.roarenergy.com">RoarEnergy Group Pty. Ltd.</a></div>
+					<div class="fine-print">RoarEnergy is proudly an Australian Company  ACN: 147 462 315, ABN: 98 147 462 315</div>
+				</section>
+	
+			</div>
+		</footer>
+	</section>
+	
+	<!-- Javascript includes -->
+	<script src="https://cdn.thebench.com.au/assets/js/bootstrap-2.3.1.min.js" type="text/javascript" charset="utf-8"></script>
+
+
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+ 
+	<title>TheBench Fantasy Sports</title>
+
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/bootstrap-2.3.1.min.css" />
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/bootstrap-responsive-2.3.1.min.css" />
+	
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/main.min.css?20230415" />
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/landing-page.min.css?20200326-1" />
+	
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Sanchez:400italic,400' rel='stylesheet' type='text/css'>
+	
+	<link rel="shortcut icon" href="https://cdn.thebench.com.au/assets/media/favicon.ico" />
+	
+	<script src="https://cdn.thebench.com.au/assets/js/jquery-1.10.2.min.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- Let it be known that I hate Internet Explorer -->
+
+	<!-- iOS Settings -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale = 1.0, user-scalable = no">
+	
+	<meta name="description" content="AFL Fantasy Footy by your rules. TheBench is Australia's most customisable premium draft style Fantasy Sports platform.  AFL, NRL and Super Rugby." >
+	<meta name="title" content="TheBench Fantasy Sports" >
+	<meta name="keywords" content="fantasy thebench thebench™ afl nrl draft midseason keeper customise footy dreamteam analysis stats statistics sports rules premium" >
+
+	<meta property="og:description" content="AFL, NRL and Super Rugby Fantasy Footy by your rules. TheBench is Australia's most customisable Premium draft style Fantasy Football. Australian Rules Football, National Rugby League and Super Rugby." >
+	<meta property="og:title" content="TheBench" >
+	<meta property="og:type" content="website" >
+	<meta property="og:url" content="http://thebench.com.au" >
+	<meta property="og:image" content="https://cdn.thebench.com.au/assets/media/Icon_ipad@2x.png" >
+	<meta property="og:site_name" content="TheBench" >
+	<meta property="fb:admins" content="658138992" >
+	<meta property="fb:page_id" content="thebenchfantasysports" >
+	
+	<!-- Style IE as HTML5 -->
+	<!--[if lt IE 9]>
+		<script src="https://cdn.thebench.com.au/assets/js/html5.js"></script>
+		<script src="https://cdn.thebench.com.au/assets/js/modernizr.js"></script>
+	<![endif]-->
+	
+	<!-- Google Analytics -->
+	<script type="text/javascript">
+
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+		  ga('create', 'UA-3892300-1', 'thebench.com.au');
+		  ga('send', 'pageview');
+
+	</script>
+
+	<script type="text/javascript">
+	
+		$(window).scroll(function() {
+			var yPos = -($(window).scrollTop() / 1.5);
+		    $('section.background').css({"background-position-y":yPos})
+		});
+	
+	</script>
+
+</head>
+<body class="style3">
+
+	<header>
+		<nav class="top-menu">
+			<a href="/splash"><div class="header-logo-mini"></div></a>
+			
+			<ul class="nav mobile-hide">
+				
+				<li><a href="/page/features">Features</a></li>
+				<li><a href="/page/tutorials">Tutorials</a></li>
+				<li><a href="http://thebenchnews.com.au">News</a></li>
+				<li><a href="/page/help">Help</a></li>
+			</ul>
+			
+			
+				
+					<ul class="nav pull-right">			
+						<li><a href="/join">Join</a></li>
+						<li><a href="/login">Sign-in</a></li>
+					</ul>		
+						
+			</ui>
+		</nav>
+	</header>
+	
+	<section class="background">
+		<h1 class="logo-panel"><a href="#">TheBench Fantasy Sports</a></h1>
+	</section>
+
+	<script type="text/javascript">
+		/*jQuery(document).ready(function($) {
+			setTimeout(function() {
+				$('section.background').css('background', 'url("/assets/media/backgrounds/ned-2400.jpg")');
+		        return false;
+		    }, 2000);
+		});*/
+	</script>
+	<!-- Model Video -->
+	<div id="model-video" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-body">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true" onclick="$('#video-wrapper').html('')">×</button>
+			<div id="video-wrapper">
+				
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		function loadVideo() {
+			$('#video-wrapper').html('<iframe width="1280" height="720" src="https://www.youtube.com/embed/2Q7iorh46PA?vq=hd720&amp;rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>');
+		}
+	</script>
+	
+	<section class="content">
+		<div class="sign-up" >
+			
+			<!-- <a href="#model-video" role="button" data-toggle="modal" onclick="loadVideo()"><div class="play-badge-image"></div></a> -->
+			
+			<div class="join-button"><a href="/join">Join Now</a></div>
+			
+			
+		</div>
+
+		
+
+	<div class="fold">
+		<div class="info-tiles border-top">
+			<div class="info-tile left">
+				<div class="info-inner">
+					
+					<h2>Premium Seasonal Draft Fantasy Footy</h2>
+					<h3>Seasonal drafting, relegating, keeper competitions, mid-season drafts, trading, custom scoring, rolling lockouts and more...</h3>
+					<div class="info-badge premium-badge-image"></div>
+					<div class="join-button"><a href="/join">Join now for free</a></div>
+					
+					
+				</div>
+				<div class="info-details">
+
+					<p>TheBench is a <strong>premium experience</strong> to seasonal draft style Fantasy Footy.
+					<p>TheBench is the perfect choice if you have run your custom competition through a spreadsheet in the past and are looking to bring it online and stream-line your work.
+					<p>Run multiple competitions in the same League, relegating and promoting clubs between seasons, run multiple drafting models, mid-season drafts and keeper style competitions - you control the rules.
+
+				</div>
+			</div>
+			<div class="info-tile middle">
+				<div class="info-inner">
+					<h2>Get Mobile</h2>
+					<h3>iPhone, Android, iPad and more.  Enjoy TheBench™ wherever it suits you most.</h3>
+					
+				</div>
+				<div class="info-details">
+					<p>Get TheBench™ on your <strong>iPhone</strong> from the <a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8">Apple</a> <a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8">AppStore</a> for a fantastic native mobile experience, complete with push notifications for those important moments you don't want to miss.</p>
+					<p><a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8"><img src="https://cdn.thebench.com.au/assets/media/app-store@2x.png" alt="Apple AppStore Logo" width="135px" height="40px"></a></p>
+					<p>The website is also optimised for use on any mobile device including Android and the iPad.  Use TheBench™ wherever it suits you most.</p>
+					<p>Now has never been a better time to get into TheBench™. Find out about the features <a href="https://thebench.com.au/page/features">here</a>.</p>					
+				</div>
+			</div>
+			<div class="info-tile right">
+				<div class="info-inner">
+					<h2>Your Rules, Your Sport</h2>
+					<h3>Play Fantasy Sports the way it was intended to be played - your rules, with your mates.  Now for AFL, NRL and Super Rugby.</h3>
+					
+					<!--<table>
+						<tr><td><div class="code-logo AFL"></div></td><td><div class="code-logo NRL"></div></td><td><div class="code-logo SR"></div></td></tr>
+					</table>-->
+				</div>
+				<div class="info-details">
+					<p>Play Fantasy Sports the way it was intended to be played - <strong>your rules, with your mates</strong>. TheBench™ is a customisable Draft based Fantasy Sports site that you can create your own private Competitions. The hard work is done for you automatically but you are in control.</p>
+					<p>You no-longer have to put up with fantasy games with unrealistic rules that and require a bachelor degree in statistical analysis to be competitive. TheBench™ continues to be the hub or premium AFL Fantasy Footy and with the support of <a href="http://www.nrlceo.com/">NRLCEO</a>, TheBench™ also offers NRL and Super Rugby.</p>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+
+		
+		<div class="fold">
+			<div class="info-tiles">
+				<div class="info-tile full-width">
+					<div class="info-inner">
+						<div class="join-button"><a href="/page/help">Learn more?</a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<footer>
+			<div class="container">
+	
+				<div id="footer-logo"></div>
+	
+				<!-- Footer -->
+				<div id="footer-links">
+					<nav class="link-group">
+						<b>TheBench</b>
+						<ul>
+							<li><a href="/contactus">Contact Us</a></li>
+							<li><a href="/page/about">About Us</a></li>
+							<li><a href="/page/features">Features</a></li>
+							<li><a href="/feature-requests">Feature Requests</a></li>
+							<li><a href="/page/friends">Friends</a></li>
+							<li><a href="https://www.facebook.com/thebenchfantasysports">Facebook</a></li>
+							<li><a href="http://thebenchnews.com.au">News</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Terms & Privacy</b>
+						<ul>
+							<li><a href="/page/terms">Terms</a></li>
+							<li><a href="/page/privacy">Privacy</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Help</b>
+						<ul>
+							<li><a href="/page/help">Help</a></li>
+							<li><a href="/page/help/rules">Rules</a></li>
+							<li><a href="/page/help/scoring">Scoring</a></li>
+							<li><a href="/page/tutorials">Video Tutorials</a></li>
+							<li><a href="/page/faq">FAQs</a></li>
+							<li><a href="/page/gamble-responsibly">Gamble Responsibly</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Codes</b>
+						<ul>
+							<li><a href="/code/afl/players">AFL Players</a></li>
+							<li><a href="/code/nrl/players">NRL Players</a></li>
+							<li><a href="/code/bbl/players">Big Bash Players</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+				</div>
+				
+				<section id="footer-sponsored">
+					<div class="fine-print">TheBench™ is a Trade Mark of <a href="http://www.roarenergy.com">RoarEnergy Group Pty. Ltd.</a></div>
+					<div class="fine-print">RoarEnergy is proudly an Australian Company  ACN: 147 462 315, ABN: 98 147 462 315</div>
+				</section>
+	
+			</div>
+		</footer>
+	</section>
+	
+	<!-- Javascript includes -->
+	<script src="https://cdn.thebench.com.au/assets/js/bootstrap-2.3.1.min.js" type="text/javascript" charset="utf-8"></script>
+
+
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+ 
+	<title>TheBench Fantasy Sports</title>
+
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/bootstrap-2.3.1.min.css" />
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/bootstrap-responsive-2.3.1.min.css" />
+	
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/main.min.css?20230415" />
+	<link rel="stylesheet" media="screen" href="https://cdn.thebench.com.au/assets/css/landing-page.min.css?20200326-1" />
+	
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Sanchez:400italic,400' rel='stylesheet' type='text/css'>
+	
+	<link rel="shortcut icon" href="https://cdn.thebench.com.au/assets/media/favicon.ico" />
+	
+	<script src="https://cdn.thebench.com.au/assets/js/jquery-1.10.2.min.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- Let it be known that I hate Internet Explorer -->
+
+	<!-- iOS Settings -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale = 1.0, user-scalable = no">
+	
+	<meta name="description" content="AFL Fantasy Footy by your rules. TheBench is Australia's most customisable premium draft style Fantasy Sports platform.  AFL, NRL and Super Rugby." >
+	<meta name="title" content="TheBench Fantasy Sports" >
+	<meta name="keywords" content="fantasy thebench thebench™ afl nrl draft midseason keeper customise footy dreamteam analysis stats statistics sports rules premium" >
+
+	<meta property="og:description" content="AFL, NRL and Super Rugby Fantasy Footy by your rules. TheBench is Australia's most customisable Premium draft style Fantasy Football. Australian Rules Football, National Rugby League and Super Rugby." >
+	<meta property="og:title" content="TheBench" >
+	<meta property="og:type" content="website" >
+	<meta property="og:url" content="http://thebench.com.au" >
+	<meta property="og:image" content="https://cdn.thebench.com.au/assets/media/Icon_ipad@2x.png" >
+	<meta property="og:site_name" content="TheBench" >
+	<meta property="fb:admins" content="658138992" >
+	<meta property="fb:page_id" content="thebenchfantasysports" >
+	
+	<!-- Style IE as HTML5 -->
+	<!--[if lt IE 9]>
+		<script src="https://cdn.thebench.com.au/assets/js/html5.js"></script>
+		<script src="https://cdn.thebench.com.au/assets/js/modernizr.js"></script>
+	<![endif]-->
+	
+	<!-- Google Analytics -->
+	<script type="text/javascript">
+
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+		  ga('create', 'UA-3892300-1', 'thebench.com.au');
+		  ga('send', 'pageview');
+
+	</script>
+
+	<script type="text/javascript">
+	
+		$(window).scroll(function() {
+			var yPos = -($(window).scrollTop() / 1.5);
+		    $('section.background').css({"background-position-y":yPos})
+		});
+	
+	</script>
+
+</head>
+<body class="style1">
+
+	<header>
+		<nav class="top-menu">
+			<a href="/splash"><div class="header-logo-mini"></div></a>
+			
+			<ul class="nav mobile-hide">
+				
+				<li><a href="/page/features">Features</a></li>
+				<li><a href="/page/tutorials">Tutorials</a></li>
+				<li><a href="http://thebenchnews.com.au">News</a></li>
+				<li><a href="/page/help">Help</a></li>
+			</ul>
+			
+			
+				
+					<ul class="nav pull-right">			
+						<li><a href="/join">Join</a></li>
+						<li><a href="/login">Sign-in</a></li>
+					</ul>		
+						
+			</ui>
+		</nav>
+	</header>
+	
+	<section class="background">
+		<h1 class="logo-panel"><a href="#">TheBench Fantasy Sports</a></h1>
+	</section>
+
+	<script type="text/javascript">
+		/*jQuery(document).ready(function($) {
+			setTimeout(function() {
+				$('section.background').css('background', 'url("/assets/media/backgrounds/ned-2400.jpg")');
+		        return false;
+		    }, 2000);
+		});*/
+	</script>
+	<!-- Model Video -->
+	<div id="model-video" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-body">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true" onclick="$('#video-wrapper').html('')">×</button>
+			<div id="video-wrapper">
+				
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		function loadVideo() {
+			$('#video-wrapper').html('<iframe width="1280" height="720" src="https://www.youtube.com/embed/2Q7iorh46PA?vq=hd720&amp;rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>');
+		}
+	</script>
+	
+	<section class="content">
+		<div class="sign-up" >
+			
+			<!-- <a href="#model-video" role="button" data-toggle="modal" onclick="loadVideo()"><div class="play-badge-image"></div></a> -->
+			
+			<div class="join-button"><a href="/join">Join Now</a></div>
+			
+			
+		</div>
+
+		
+
+	<div class="fold">
+		<div class="info-tiles border-top">
+			<div class="info-tile left">
+				<div class="info-inner">
+					
+					<h2>Premium Seasonal Draft Fantasy Footy</h2>
+					<h3>Seasonal drafting, relegating, keeper competitions, mid-season drafts, trading, custom scoring, rolling lockouts and more...</h3>
+					<div class="info-badge premium-badge-image"></div>
+					<div class="join-button"><a href="/join">Join now for free</a></div>
+					
+					
+				</div>
+				<div class="info-details">
+
+					<p>TheBench is a <strong>premium experience</strong> to seasonal draft style Fantasy Footy.
+					<p>TheBench is the perfect choice if you have run your custom competition through a spreadsheet in the past and are looking to bring it online and stream-line your work.
+					<p>Run multiple competitions in the same League, relegating and promoting clubs between seasons, run multiple drafting models, mid-season drafts and keeper style competitions - you control the rules.
+
+				</div>
+			</div>
+			<div class="info-tile middle">
+				<div class="info-inner">
+					<h2>Get Mobile</h2>
+					<h3>iPhone, Android, iPad and more.  Enjoy TheBench™ wherever it suits you most.</h3>
+					
+				</div>
+				<div class="info-details">
+					<p>Get TheBench™ on your <strong>iPhone</strong> from the <a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8">Apple</a> <a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8">AppStore</a> for a fantastic native mobile experience, complete with push notifications for those important moments you don't want to miss.</p>
+					<p><a href="http://itunes.apple.com/au/app/thebench/id359060159?mt=8"><img src="https://cdn.thebench.com.au/assets/media/app-store@2x.png" alt="Apple AppStore Logo" width="135px" height="40px"></a></p>
+					<p>The website is also optimised for use on any mobile device including Android and the iPad.  Use TheBench™ wherever it suits you most.</p>
+					<p>Now has never been a better time to get into TheBench™. Find out about the features <a href="https://thebench.com.au/page/features">here</a>.</p>					
+				</div>
+			</div>
+			<div class="info-tile right">
+				<div class="info-inner">
+					<h2>Your Rules, Your Sport</h2>
+					<h3>Play Fantasy Sports the way it was intended to be played - your rules, with your mates.  Now for AFL, NRL and Super Rugby.</h3>
+					
+					<!--<table>
+						<tr><td><div class="code-logo AFL"></div></td><td><div class="code-logo NRL"></div></td><td><div class="code-logo SR"></div></td></tr>
+					</table>-->
+				</div>
+				<div class="info-details">
+					<p>Play Fantasy Sports the way it was intended to be played - <strong>your rules, with your mates</strong>. TheBench™ is a customisable Draft based Fantasy Sports site that you can create your own private Competitions. The hard work is done for you automatically but you are in control.</p>
+					<p>You no-longer have to put up with fantasy games with unrealistic rules that and require a bachelor degree in statistical analysis to be competitive. TheBench™ continues to be the hub or premium AFL Fantasy Footy and with the support of <a href="http://www.nrlceo.com/">NRLCEO</a>, TheBench™ also offers NRL and Super Rugby.</p>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+
+		
+		<div class="fold">
+			<div class="info-tiles">
+				<div class="info-tile full-width">
+					<div class="info-inner">
+						<div class="join-button"><a href="/page/help">Learn more?</a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<footer>
+			<div class="container">
+	
+				<div id="footer-logo"></div>
+	
+				<!-- Footer -->
+				<div id="footer-links">
+					<nav class="link-group">
+						<b>TheBench</b>
+						<ul>
+							<li><a href="/contactus">Contact Us</a></li>
+							<li><a href="/page/about">About Us</a></li>
+							<li><a href="/page/features">Features</a></li>
+							<li><a href="/feature-requests">Feature Requests</a></li>
+							<li><a href="/page/friends">Friends</a></li>
+							<li><a href="https://www.facebook.com/thebenchfantasysports">Facebook</a></li>
+							<li><a href="http://thebenchnews.com.au">News</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Terms & Privacy</b>
+						<ul>
+							<li><a href="/page/terms">Terms</a></li>
+							<li><a href="/page/privacy">Privacy</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Help</b>
+						<ul>
+							<li><a href="/page/help">Help</a></li>
+							<li><a href="/page/help/rules">Rules</a></li>
+							<li><a href="/page/help/scoring">Scoring</a></li>
+							<li><a href="/page/tutorials">Video Tutorials</a></li>
+							<li><a href="/page/faq">FAQs</a></li>
+							<li><a href="/page/gamble-responsibly">Gamble Responsibly</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+					<nav class="link-group">
+						<b>Codes</b>
+						<ul>
+							<li><a href="/code/afl/players">AFL Players</a></li>
+							<li><a href="/code/nrl/players">NRL Players</a></li>
+							<li><a href="/code/bbl/players">Big Bash Players</a></li>
+						</ul>
+						<br>
+						
+					</nav>
+				</div>
+				
+				<section id="footer-sponsored">
+					<div class="fine-print">TheBench™ is a Trade Mark of <a href="http://www.roarenergy.com">RoarEnergy Group Pty. Ltd.</a></div>
+					<div class="fine-print">RoarEnergy is proudly an Australian Company  ACN: 147 462 315, ABN: 98 147 462 315</div>
+				</section>
+	
+			</div>
+		</footer>
+	</section>
+	
+	<!-- Javascript includes -->
+	<script src="https://cdn.thebench.com.au/assets/js/bootstrap-2.3.1.min.js" type="text/javascript" charset="utf-8"></script>
+
+
+</body>
+</html>
+
+
+
+
+

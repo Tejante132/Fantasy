@@ -1,58 +1,17 @@
-Sitemap: https://journals.sagepub.com/sitemap-index-1.xml
+##############################################################################
+# This is a production robots.txt
+##############################################################################
+
 User-agent: *
-Disallow: /action
-Disallow: /help
-Disallow: /search
-Disallow: /feedback
-Disallow: /rss
-Disallow: /page/account-confirmation-thanks
-Disallow: /media
-Disallow: /medical-research
-Disallow: /servlet/linkout
-Disallow: /na101/
-Disallow: /na101v1/
-Disallow: /na102/
-Disallow: /doi/mlt/
-Disallow: /topic
-Disallow: /author/
-Disallow: /doi/metrics/
-Disallow: /authored-by/
-Disallow: /history/
-Allow: /action/showJournal
-Allow: /action/showPublications
-Allow: /action/showXml
-Allow: /action/showTopic
-Allow: /action/showBook
-Allow: /action/showCoverImage
-Allow: /topic/collection
-Allow: /topic/section
-Allow: /topic/sgo-subjects/
-Allow: /.well-known/*
+Disallow: /wotd-signup-message
+Disallow: /wotd-signup-result
+Disallow: /word-of-the-day/manage-subscription
+Disallow: /interstitial-ad
+Disallow: /my-saved-words/dictionary/starclick/
+Disallow: /lapi
+Disallow: /assets/mw/static/old-games/
+Sitemap: https://www.merriam-webster.com/sitemap-ssl/sitemap_index.xml
 
-User-agent: facebookexternalhit
-User-agent: LinkedInBot
-User-agent: Twitterbot
-Allow: /
-
-User-agent: Baiduspider
-Disallow: /
-Allow: /na101/*cover*.png$
-Allow: /na101/*cover*.jpg$
-Allow: /na101v1/*cover*.png$
-Allow: /na101v1/*cover*.jpg$
-Allow: /na102/*cover*.png$
-Allow: /na102/*cover*.jpg$
-
-User-agent: GPTBot
-Disallow: /
-
-User-agent: ChatGPT-User
-Disallow: /
-
-User-agent: CCBot
-Disallow: /
-
-User-agent: Google-Extended
-Disallow: /
-
-Crawl-delay: 1
+##############################################################################
+# This is a production robots.txt
+##############################################################################

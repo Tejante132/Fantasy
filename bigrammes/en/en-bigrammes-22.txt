@@ -1,5 +1,5 @@
-      3 request forbidden
-      3 by administrative
-      2 rules forbidden
+      8 request forbidden
+      8 by administrative
+      7 rules forbidden
       1 rules 
       1  forbidden

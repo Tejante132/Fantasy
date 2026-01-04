@@ -1,7 +1,7 @@
-      6 fantasy football
-      2 in fantasy
-      2 hub fantasy
-      2 games fantasy
-      1 reserved fantasy
-      1 fantasy premier
+     16 fantasy football
+      8 hub fantasy
+      4 in fantasy
+      4 games fantasy
+      4 fantasy premier
+      3 reserved fantasy
       1  fantasy

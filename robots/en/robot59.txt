@@ -1,16 +1,3 @@
 User-agent: *
-Disallow: /community
-Disallow: /forums/admincp
-Disallow: /foundation
-Disallow: /calendar
-Disallow: /filelibrary
-Disallow: /patch
-Disallow: /tools
-Disallow: /server
-Disallow: /includes
-Disallow: /userguide
-Sitemap: https://www.fantasygrounds.com/sitemap.xml
-Crawl-delay: 5
-
-user-agent: AhrefsBot
-disallow: / 
+Disallow:
+Sitemap: http://www.rtsports.com/sitemap.xml

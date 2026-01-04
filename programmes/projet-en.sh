@@ -85,34 +85,56 @@ do
     CONCORDANCIER="../concordance/en/en-concordance-$nbr_lignes.html"
 
     echo "<html><head><meta charset='UTF-8'>
+    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css\">
     <title>Concordancier ligne $nbr_lignes</title></head><body>
-    <h2>Concordancier – occurrences de « fantasy »</h2>
-    <table border='1'>
-    <tr><th>Contexte gauche</th><th>Mot</th><th>Contexte droit</th></tr>" \
-    > "$CONCORDANCIER"
+        <body>
+    <section class='section'>
+        <div class='container'>
+            <h2 class='title is-3 has-text-centered'>Concordancier – occurrences de « fantasy »</h2>
+            <table class='table is-bordered is-hoverable is-fullwidth'>
+                <thead>
+                    <tr class='is-link'>
+                        <th>Contexte gauche</th>
+                        <th>Mot</th>
+                        <th>Contexte droit</th>
+                    </tr>
+                </thead>
+                <tbody>" > "$CONCORDANCIER"
 
-    cat "../dumps/en/en-dump-$nbr_lignes.txt" \
-    | tr -cs '[:alpha:]' '\n' \
-    | tr 'A-Z' 'a-z' \
-    | awk '
+  cat "../dumps/en/en-dump-$nbr_lignes.txt" | tr -cs "[:alpha:]" "\n" | tr "A-Z" "a-z" |\
+
+    awk -v mot="fantasy" '
     {
-        mots[NR] = $0
+        lines[NR] = $0
     }
     END {
-        for (i = 1; i <= NR; i++) {
-            if (mots[i] == "fantasy") {
-                gauche=""
-                droite=""
-                for (j = i-5; j < i; j++)
-                    if (j > 0) gauche = gauche " " mots[j]
-                for (j = i+1; j <= i+5 && j <= NR; j++)
-                    droite = droite " " mots[j]
-                print "<tr><td>" gauche "</td><td><b>fantasy</b></td><td>" droite "</td></tr>"
+        for (i=1; i<=NR; i++) {
+            if (tolower(lines[i]) ~ tolower(mot)) {
+                # Calcul des bornes pour 3 lignes max
+                start = (i-3 > 0 ? i-3 : 1)
+                end = (i+3 <= NR ? i+3 : NR)
+                gauche = ""
+                droite = ""
+                # Contexte gauche (3 lignes max)
+                for (j=start; j<i; j++) {
+                    if (j >= start && j < i) {
+                        gauche = gauche lines[j] "<br>"
+                    }
+                }
+                # Contexte droit (3 lignes max)
+                for (j=i+1; j<=end; j++) {
+                    if (j > i && j <= end) {
+                        droite = droite lines[j] "<br>"
+                    }
+                }
+                # Affichage
+                print "<tr><td>" gauche "</td><td><b>" mot "</b></td><td>" droite "</td></tr>"
             }
         }
-    }' >> "$CONCORDANCIER"
+    }' "../dumps/en/en-dump-$nbr_lignes.txt" >> "$CONCORDANCIER"
 
     echo "</table></body></html>" >> "$CONCORDANCIER"
+
 
 
     #Infos curl

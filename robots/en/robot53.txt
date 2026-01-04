@@ -1,212 +1,58 @@
-# NOTICE: All crawlers and bots, regardless of whether or not they are
-# specified below, are strictly prohibited from using Quora platform content 
-# for the purposes of training AI models or similar machine learning systems, 
-# except where explicit prior permission has been granted by Quora through a
-# contractual licensing agreement. Any use of Quora platform content for such 
-# purposes without our explicit contractual permission is a violation of our 
-# terms of service and intellectual property rights.
+Sitemap: https://journals.sagepub.com/sitemap-index-1.xml
+User-agent: *
+Disallow: /action
+Disallow: /help
+Disallow: /search
+Disallow: /feedback
+Disallow: /rss
+Disallow: /page/account-confirmation-thanks
+Disallow: /media
+Disallow: /medical-research
+Disallow: /servlet/linkout
+Disallow: /na101/
+Disallow: /na101v1/
+Disallow: /na102/
+Disallow: /doi/mlt/
+Disallow: /topic
+Disallow: /author/
+Disallow: /doi/metrics/
+Disallow: /authored-by/
+Disallow: /history/
+Allow: /action/showJournal
+Allow: /action/showPublications
+Allow: /action/showXml
+Allow: /action/showTopic
+Allow: /action/showBook
+Allow: /action/showCoverImage
+Allow: /topic/collection
+Allow: /topic/section
+Allow: /topic/sgo-subjects/
+Allow: /.well-known/*
 
-# If you operate a search engine and would like to crawl Quora,
-# you can email robotstxt@quora.com. Thanks.
-
-User-agent: AASA-Bot
-Disallow: /*/admin_log
-Disallow: /*/stats
-Disallow: /*/settings
-Disallow: /*/queue
-Disallow: /*/suggestions
-Disallow: /*/submissions
-Disallow: /*/quality
-Disallow: /*/earnings
-
-User-agent: Amazonbot
-Disallow: /*/admin_log
-Disallow: /*/stats
-Disallow: /*/settings
-Disallow: /*/queue
-Disallow: /*/suggestions
-Disallow: /*/submissions
-Disallow: /*/quality
-Disallow: /*/earnings
-
-User-agent: Googlebot
-Disallow: /*/admin_log
-Disallow: /*/stats
-Disallow: /*/settings
-Disallow: /*/queue
-Disallow: /*/suggestions
-Disallow: /*/submissions
-Disallow: /*/quality
-Disallow: /*/earnings
-
-User-agent: Google-Extended
-Disallow: /*/admin_log
-Disallow: /*/stats
-Disallow: /*/settings
-Disallow: /*/queue
-Disallow: /*/suggestions
-Disallow: /*/submissions
-Disallow: /*/quality
-Disallow: /*/earnings
-
-User-agent: Facebot
-Disallow: /*/admin_log
-Disallow: /*/stats
-Disallow: /*/settings
-Disallow: /*/queue
-Disallow: /*/suggestions
-Disallow: /*/submissions
-Disallow: /*/quality
-Disallow: /*/earnings
-
-User-agent: Applebot
-Disallow: /*/admin_log
-Disallow: /*/stats
-Disallow: /*/settings
-Disallow: /*/queue
-Disallow: /*/suggestions
-Disallow: /*/submissions
-Disallow: /*/quality
-Disallow: /*/earnings
-
-User-agent: Twitterbot
-Disallow: /*/admin_log
-Disallow: /*/stats
-Disallow: /*/settings
-Disallow: /*/queue
-Disallow: /*/suggestions
-Disallow: /*/submissions
-Disallow: /*/quality
-Disallow: /*/earnings
-
+User-agent: facebookexternalhit
 User-agent: LinkedInBot
-Disallow: /*/admin_log
-Disallow: /*/stats
-Disallow: /*/settings
-Disallow: /*/queue
-Disallow: /*/suggestions
-Disallow: /*/submissions
-Disallow: /*/quality
-Disallow: /*/earnings
+User-agent: Twitterbot
+Allow: /
 
-User-agent: Feedly
-Disallow: /*/admin_log
-Disallow: /*/stats
-Disallow: /*/settings
-Disallow: /*/queue
-Disallow: /*/suggestions
-Disallow: /*/submissions
-Disallow: /*/quality
-Disallow: /*/earnings
-
-User-agent: Pingdom
-Disallow: /*/admin_log
-Disallow: /*/stats
-Disallow: /*/settings
-Disallow: /*/queue
-Disallow: /*/suggestions
-Disallow: /*/submissions
-Disallow: /*/quality
-Disallow: /*/earnings
-
-# exclusive for AI training
-
-User-agent: Applebot-Extended
+User-agent: Baiduspider
 Disallow: /
-
-# another archiving service
-
-User-agent: Arquivo-web-crawler
-Disallow: /
-
-
-User-agent: Bytespider
-Disallow: /
-
-
-User-agent: Diffbot
-Disallow: /
-
+Allow: /na101/*cover*.png$
+Allow: /na101/*cover*.jpg$
+Allow: /na101v1/*cover*.png$
+Allow: /na101v1/*cover*.jpg$
+Allow: /na102/*cover*.png$
+Allow: /na102/*cover*.jpg$
 
 User-agent: GPTBot
 Disallow: /
 
-# People share a lot of sensitive material on Quora - controversial political
-# views, workplace gossip and compensation, and negative opinions held of
-# companies. Over many years, as they change jobs or change their views, it is
-# important that they can delete or anonymize their previously-written answers.
-# 
-# We opt out of the wayback machine because inclusion would allow people to
-# discover the identity of authors who had written sensitive answers publicly and
-# later had made them anonymous, and because it would prevent authors from being
-# able to remove their content from the internet if they change their mind about
-# publishing it. As far as we can tell, there is no way for sites to selectively
-# programmatically remove content from the archive and so this is the only way
-# for us to protect writers. If they open up an API where we can remove content
-# from the archive when authors remove it from Quora, but leave the rest of the
-# content archived, we would be happy to opt back in. See the page here:
-# 
-# https://archive.org/about/exclude.php
-# 
-# Meanwhile, if you are looking for an older version of any content on Quora, we
-# have full edit history tracked and accessible in product (with the exception of
-# content that has been removed by the author). You can generally access this by
-# clicking on timestamps, or by appending "/log" to the URL of any content page.
-# 
-# For any questions or feedback about this please visit our contact page
-# https://help.quora.com/hc/en-us/requests/new
-
-User-agent: ia_archiver
-Disallow: /
-
-
-User-agent: ImagesiftBot
-Disallow: /
-
-# Blocked since a lot of bad requests were made by this crawler.
-
-User-agent: JamesBOT
-Disallow: /
-
-
-User-agent: OAI-SearchBot
-Disallow: /
-
-
-User-agent: PerplexityBot
-Disallow: /
-
-
-User-agent: PetalBot
-Disallow: /
-
-
-User-agent: Scrapy
-Disallow: /
-
-
 User-agent: ChatGPT-User
 Disallow: /
 
-
-User-agent: Bravebot
+User-agent: CCBot
 Disallow: /
 
-
-User-agent: CriteoBot/0.1
+User-agent: Google-Extended
 Disallow: /
 
-
-User-agent: ClaudeBot
-Disallow: /
-
-
-User-agent: Claude-User
-Disallow: /
-
-
-User-agent: Claude-SearchBot
-Disallow: /
-
-User-agent: *
-Disallow: /
+Crawl-delay: 1
