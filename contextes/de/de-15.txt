@@ -1,277 +1,264 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!-- This file was created with the aha Ansi HTML Adapter. https://github.com/theZiz/aha -->
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="application/xml+xhtml; charset=UTF-8"/>
-<title>Contextes pour Fantasie</title>
-</head>
-<body style="color:white; background-color:black">
-<pre>
    ____________________
    Suchen Seite
 
-<span style="font-weight:bold;color:red;">Fantasie</span>
+Fantasie
 
    Aus Yogawiki
 
-<span style="color:aqua;">---</span>
+---
      * Quelltext anzeigen
      * Versionsgeschichte
 
-   <span style="font-weight:bold;color:red;">Fantasie</span> ist eine andere, eine modernere Schreibweise für Phantasie.
-   <span style="font-weight:bold;color:red;">Fantasie</span> ist die Fähigkeit, sich etwas vorzustellen, auszudenken, zu
-   visualisieren. Man kann eine blühende <span style="font-weight:bold;color:red;">Fantasie</span> haben, also den
-   Wirklichkeitsbezug verlieren. Man kann schmutzige <span style="font-weight:bold;color:red;">Fantasie</span> haben – was
+   Fantasie ist eine andere, eine modernere Schreibweise für Phantasie.
+   Fantasie ist die Fähigkeit, sich etwas vorzustellen, auszudenken, zu
+   visualisieren. Man kann eine blühende Fantasie haben, also den
+   Wirklichkeitsbezug verlieren. Man kann schmutzige Fantasie haben – was
    sich normalerweise auf Sexualität bezieht.
    Malerei Zeichnen Kunst Kreativität.jpg
 
-   <span style="font-weight:bold;color:red;">Fantasie</span> ist ein wichtiger Aspekt der Kreativität. Im Yoga gibt es
-   <span style="font-weight:bold;color:red;">Fantasie</span>reise als eine Form der Tiefenentspannung. Eine
+   Fantasie ist ein wichtiger Aspekt der Kreativität. Im Yoga gibt es
+   Fantasiereise als eine Form der Tiefenentspannung. Eine
    philosophisch-mythologische Tradition im Hinduismus deutet die ganze
    Welt als Phantasie Brahmas, als Gedankenschöpfung des Schöpfergottes.
    Gott schuf den Menschen nach seinem Bilde – was auch heißt, dass auch
-   der Mensch schöpferische Phantasie hat. Mehr zum Begriff <span style="font-weight:bold;color:red;">Fantasie</span>
+   der Mensch schöpferische Phantasie hat. Mehr zum Begriff Fantasie
    findest du unter dem Hauptstichwort Phantasie.
 
-   <span style="font-weight:bold;color:red;">Fantasie</span> - eine Tugend. Was versteht man unter <span style="font-weight:bold;color:red;">Fantasie</span>? Was will man
-   mit diesem Wort sagen? Wozu ist <span style="font-weight:bold;color:red;">Fantasie</span> gut? Welche anderen
+   Fantasie - eine Tugend. Was versteht man unter Fantasie? Was will man
+   mit diesem Wort sagen? Wozu ist Fantasie gut? Welche anderen
    Substantive, welche Adjektive und Verben stehen im Zusammenhang mit dem
-   Wort <span style="font-weight:bold;color:red;">Fantasie</span>?
+   Wort Fantasie?
    [ ]
 
 Inhaltsverzeichnis
 
-     * 1 <span style="font-weight:bold;color:red;">Fantasie</span> bei der Massage
-     * 2 <span style="font-weight:bold;color:red;">Fantasie</span> - Antonyme und Synonyme
-          + 2.1 Ähnliche Eigenschaften wie <span style="font-weight:bold;color:red;">Fantasie</span> - Synonyme
+     * 1 Fantasie bei der Massage
+     * 2 Fantasie - Antonyme und Synonyme
+          + 2.1 Ähnliche Eigenschaften wie Fantasie - Synonyme
           + 2.2 Ausgleichende Eigenschaften
-          + 2.3 Gegenteil von <span style="font-weight:bold;color:red;">Fantasie</span> - Antonyme
-          + 2.4 <span style="font-weight:bold;color:red;">Fantasie</span> Antonyme auf einen Blick
-          + 2.5 <span style="font-weight:bold;color:red;">Fantasie</span> im Kontext von Tugendengruppen,
+          + 2.3 Gegenteil von Fantasie - Antonyme
+          + 2.4 Fantasie Antonyme auf einen Blick
+          + 2.5 Fantasie im Kontext von Tugendengruppen,
             Persönlichkeitsfaktoren und Temperamenten
-     * 3 Entwicklung von <span style="font-weight:bold;color:red;">Fantasie</span>
-          + 3.1 Affirmationen zum Thema <span style="font-weight:bold;color:red;">Fantasie</span>
-          + 3.2 Gebet für <span style="font-weight:bold;color:red;">Fantasie</span>
-          + 3.3 Frage dich: Was müsste ich tun, um <span style="font-weight:bold;color:red;">Fantasie</span> zu entwickeln?
+     * 3 Entwicklung von Fantasie
+          + 3.1 Affirmationen zum Thema Fantasie
+          + 3.2 Gebet für Fantasie
+          + 3.3 Frage dich: Was müsste ich tun, um Fantasie zu entwickeln?
      * 4 Siehe auch
-          + 4.1 Eigenschaften im Alphabet vor <span style="font-weight:bold;color:red;">Fantasie</span>
-          + 4.2 Eigenschaften im Alphabet nach <span style="font-weight:bold;color:red;">Fantasie</span>
+          + 4.1 Eigenschaften im Alphabet vor Fantasie
+          + 4.2 Eigenschaften im Alphabet nach Fantasie
      * 5 Literatur
      * 6 Weblinks
      * 7 Seminare
           + 7.1 Kreativität
           + 7.2 Yogalehrer Ausbildung
 
-<span style="font-weight:bold;color:red;">Fantasie</span> bei der Massage
+Fantasie bei der Massage
 
    Aus einem Vortrag von Sukadev Bretz
    Kind Staunen Erde Weltall.jpg
 
-   <span style="font-weight:bold;color:red;">Fantasie</span> und <span style="font-weight:bold;color:red;">Fantasie</span>reisen als Teil der Massage. Ich möchte heute
-   sprechen über <span style="font-weight:bold;color:red;">Fantasie</span> und <span style="font-weight:bold;color:red;">Fantasie</span>reisen als ein wichtiger Bestandteil
+   Fantasie und Fantasiereisen als Teil der Massage. Ich möchte heute
+   sprechen über Fantasie und Fantasiereisen als ein wichtiger Bestandteil
    von manchen Massagetechniken. Du kannst zu Anfang, wenn dein Klient
    sich hinlegt, ihn auch erstmal bitten, er oder sie kann sich
    vorstellen, jetzt an einem wunderschönen Ort zu sein, z.B. irgendwo auf
-<span style="color:aqua;">---</span>
+---
    magst du auch gleichzeitig eine CD abspielen mit Musik, vielleicht mit
    Meeresrauschen und Vogelgezwitscher.
 
-   Und so kannst du deinen Klienten mit einer <span style="font-weight:bold;color:red;">Fantasie</span>reise ganz in eine
+   Und so kannst du deinen Klienten mit einer Fantasiereise ganz in eine
    andere Welt führen. Natürlich, es hängt jetzt davon ab, wieviel Zeit du
-   hast für diese <span style="font-weight:bold;color:red;">Fantasie</span>reise, denn dein Klient kommt ja letztlich nicht
-   für eine <span style="font-weight:bold;color:red;">Fantasie</span>reise zu dir, sondern eher, um massiert zu werden. Da
+   hast für diese Fantasiereise, denn dein Klient kommt ja letztlich nicht
+   für eine Fantasiereise zu dir, sondern eher, um massiert zu werden. Da
    wäre es also natürlich hilfreich, wenn du nicht zu viel über
-   <span style="font-weight:bold;color:red;">Fantasie</span>reise dort sprichst, sondern kurz.
+   Fantasiereise dort sprichst, sondern kurz.
 
    Du kannst kurz dich sammeln, du kannst die CD anstellen und kannst
-   sagen: &quot;Jetzt stelle dir vor, du liegst am Strand auf einer
-<span style="color:aqua;">---</span>
+   sagen: "Jetzt stelle dir vor, du liegst am Strand auf einer
+---
    kurz absprechen, was ist eine schöne Vorstellung, ist es Meer, ist es
    Strand, sind es die Berge, ist es ein heiliger Ort. Manchmal hilft es,
    dass du selbst deinen Klienten fragst, was vielleicht schöne Orte
-   wären. Und so kannst du deinen Klienten in eine schöne <span style="font-weight:bold;color:red;">Fantasie</span>reise
+   wären. Und so kannst du deinen Klienten in eine schöne Fantasiereise
    führen und das kann dir helfen, dass du mehr noch tun kannst und dass
    die Massage umso besser anspricht.
 
-   Also mein Tipp, probiere es mal aus, auch <span style="font-weight:bold;color:red;">Fantasie</span>reise einzuschließen
+   Also mein Tipp, probiere es mal aus, auch Fantasiereise einzuschließen
    in eine Massage, es kann die Massage sehr viel effektiver machen. Aber
    nicht jeder Klient ist dafür offen, es ist durchaus gut, vorher zu
    fragen, ob für ihn oder sie das gut ist. Gerade wenn du selbst schon
-   öfters in <span style="font-weight:bold;color:red;">Fantasie</span>reisen geführt wurdest, dann kannst du da auch schon
+   öfters in Fantasiereisen geführt wurdest, dann kannst du da auch schon
    anfangen.
 
-   Gerade, wenn es kurze <span style="font-weight:bold;color:red;">Fantasie</span>reisen sind und du eventuell vorher mit
-   deinem Klienten absprichst, welche <span style="font-weight:bold;color:red;">Fantasie</span>reise für ihn oder sie gut
+   Gerade, wenn es kurze Fantasiereisen sind und du eventuell vorher mit
+   deinem Klienten absprichst, welche Fantasiereise für ihn oder sie gut
    ist, dann geht das ganz einfach. Ich würde dir jetzt nicht empfehlen,
-   therapeutische <span style="font-weight:bold;color:red;">Fantasie</span>reisen zu machen, die gibt es ja auch, sondern
-   einfach entspannende <span style="font-weight:bold;color:red;">Fantasie</span>reisen an irgendeinen entspannenden Ort.
+   therapeutische Fantasiereisen zu machen, die gibt es ja auch, sondern
+   einfach entspannende Fantasiereisen an irgendeinen entspannenden Ort.
    Video laden
    YouTube
    YouTube sammelt möglicherweise persönliche Daten. Datenschutzrichtlinie
    (BUTTON) Fortfahren (BUTTON) Ausblenden
 
-<span style="font-weight:bold;color:red;">Fantasie</span> - Antonyme und Synonyme
+Fantasie - Antonyme und Synonyme
 
    In diesem Yoga Wiki werden über 1000 Tugenden und
    Persönlichkeitsmerkmale beschrieben. Hier einige Erläuterungen, wie man
-   die Eigenschaft der <span style="font-weight:bold;color:red;">Fantasie</span> in Beziehung zu anderen Fähigkeiten und
+   die Eigenschaft der Fantasie in Beziehung zu anderen Fähigkeiten und
    Verhaltensweisen sowie in Bezug auf Laster sehen kann:
 
-Ähnliche Eigenschaften wie <span style="font-weight:bold;color:red;">Fantasie</span> - Synonyme
+Ähnliche Eigenschaften wie Fantasie - Synonyme
 
-   Ähnliche Eigenschaften wie <span style="font-weight:bold;color:red;">Fantasie</span>, also Synonyme zu <span style="font-weight:bold;color:red;">Fantasie</span> sind
+   Ähnliche Eigenschaften wie Fantasie, also Synonyme zu Fantasie sind
    z.B. Einfalllsreichtum, Ideenreichtum, Kreativität,
    Anschauungsvermögen.
 
-<span style="color:aqua;">---</span>
+---
 
    Jede Eigenschaft, jede Tugend, die übertrieben wird, wird zu einer
    Untugend, zu einem Laster, einer nicht hilfreichen Eigenschaft.
-   <span style="font-weight:bold;color:red;">Fantasie</span> übertrieben kann ausarten z.B. in Trugbild, Luftschloss,
-   Hirngespinst, [[]]. Daher braucht <span style="font-weight:bold;color:red;">Fantasie</span> als Gegenpol die
+   Fantasie übertrieben kann ausarten z.B. in Trugbild, Luftschloss,
+   Hirngespinst, [[]]. Daher braucht Fantasie als Gegenpol die
    Kultivierung von Realitätsdenken, Rationalität, Wirklichkeitssinn.
 
-Gegenteil von <span style="font-weight:bold;color:red;">Fantasie</span> - Antonyme
+Gegenteil von Fantasie - Antonyme
 
    Zu jeder Eigenschaft gibt es ein Gegenteil. Hier Möglichkeiten für
-   Gegenteil von <span style="font-weight:bold;color:red;">Fantasie</span>, Antonyme zu <span style="font-weight:bold;color:red;">Fantasie</span> :
-     * Positive Gegenteile von <span style="font-weight:bold;color:red;">Fantasie</span>, man könnte diese auch als
+   Gegenteil von Fantasie, Antonyme zu Fantasie :
+     * Positive Gegenteile von Fantasie, man könnte diese auch als
        Gegenpole bezeichnen: Realitätsdenken, Rationalität,
        Wirklichkeitssinn
-     * Negative Gegenteile von <span style="font-weight:bold;color:red;">Fantasie</span>, also Laster, negative
-       Eigenschaften, sind z.B. <span style="font-weight:bold;color:red;">Fantasie</span>losigkeit, Einfallslosigkeit,
+     * Negative Gegenteile von Fantasie, also Laster, negative
+       Eigenschaften, sind z.B. Fantasielosigkeit, Einfallslosigkeit,
        Ideenarmut, [[]]
 
-<span style="font-weight:bold;color:red;">Fantasie</span> Antonyme auf einen Blick
+Fantasie Antonyme auf einen Blick
 
-   Antonyme <span style="font-weight:bold;color:red;">Fantasie</span>, also Gegenteile, sind Realitätsdenken, Rationalität,
-   Wirklichkeitssinn, <span style="font-weight:bold;color:red;">Fantasie</span>losigkeit, Einfallslosigkeit, Ideenarmut,.
+   Antonyme Fantasie, also Gegenteile, sind Realitätsdenken, Rationalität,
+   Wirklichkeitssinn, Fantasielosigkeit, Einfallslosigkeit, Ideenarmut,.
 
-<span style="font-weight:bold;color:red;">Fantasie</span> im Kontext von Tugendengruppen, Persönlichkeitsfaktoren und
+Fantasie im Kontext von Tugendengruppen, Persönlichkeitsfaktoren und
 Temperamenten
 
-     * <span style="font-weight:bold;color:red;">Fantasie</span> gehört zur Tugendgruppe 9 Individualität, Originalität,
+     * Fantasie gehört zur Tugendgruppe 9 Individualität, Originalität,
        Selbstbewusstsein. Die wichtigsten Tugenden dieser Tugendgruppe
        sind Individualität, Authentizität und Selbstbewusstsein
-     * Im Kontext des Persönlickeitsmodell der Big Five gehört <span style="font-weight:bold;color:red;">Fantasie</span>
+     * Im Kontext des Persönlickeitsmodell der Big Five gehört Fantasie
        zum Persönlichkeitsfaktor O1 Offenheit hoch: neugierig,
        erfinderisch, experimentierfreudig
-     * Im Persönlichkeitsmodell DISG gehört <span style="font-weight:bold;color:red;">Fantasie</span> zur
+     * Im Persönlichkeitsmodell DISG gehört Fantasie zur
        Grundverhaltenstendenz I - Initiative, Extravertiertheit,
        Enthusiasmus
-     * Im Ayurveda zählt man <span style="font-weight:bold;color:red;">Fantasie</span> zum Vata Temperament bzw. Dosha.
+     * Im Ayurveda zählt man Fantasie zum Vata Temperament bzw. Dosha.
 
-Entwicklung von <span style="font-weight:bold;color:red;">Fantasie</span>
+Entwicklung von Fantasie
 
-   <span style="font-weight:bold;color:red;">Fantasie</span> ist eine positive Eigenschaft, die dem Charakter gut tun kann.
-   Vielleicht willst du ja <span style="font-weight:bold;color:red;">Fantasie</span> in dir stärker werden lassen. Hierzu
+   Fantasie ist eine positive Eigenschaft, die dem Charakter gut tun kann.
+   Vielleicht willst du ja Fantasie in dir stärker werden lassen. Hierzu
    einige Tipps:
-     * Nimm dir vor, eine Woche lang diese Eigenschaft der <span style="font-weight:bold;color:red;">Fantasie</span> zu
+     * Nimm dir vor, eine Woche lang diese Eigenschaft der Fantasie zu
        kultivieren. Vielleicht kannst du nicht alle guten Eigenschaften
        auf einmal kultivieren. Aber es ist möglich, innerhalb einer Woche
        oder innerhalb eines Monats eine Tugend, eine Eigenschaft, stark
        werden zu lassen.
-     * Triff den Entschluss: &quot;Während der nächsten Woche will ich die
-       Tugend, die Eigenschaft, <span style="font-weight:bold;color:red;">Fantasie</span> ganz besonders kultivieren. Ich
+     * Triff den Entschluss: "Während der nächsten Woche will ich die
+       Tugend, die Eigenschaft, Fantasie ganz besonders kultivieren. Ich
        freue mich darauf, in einer Woche ein fantastisch, fantasievollerer
-       Mensch zu sein.&quot;
-     * Nimm dir vor, jeden Tag mindestens etwas zu tun, was <span style="font-weight:bold;color:red;">Fantasie</span>
+       Mensch zu sein."
+     * Nimm dir vor, jeden Tag mindestens etwas zu tun, was Fantasie
        ausdrückt. Tue jeden Tag etwas, was du sonst nicht tun würdest, was
        aber diese Tugend zum Ausdruck bringt.
-     * Wenn du morgens aufwachst, dann sage eine Affirmation, z.B.: &quot;Ich
-       entwickle <span style="font-weight:bold;color:red;">Fantasie</span>.&quot;
+     * Wenn du morgens aufwachst, dann sage eine Affirmation, z.B.: "Ich
+       entwickle Fantasie."
      * Am Tag wiederhole immer wieder eine Autosuggestion, Affirmation wie
-       z.B.: Ich bin fantastisch, fantasievoll.&quot;
+       z.B.: Ich bin fantastisch, fantasievoll."
 
-Affirmationen zum Thema <span style="font-weight:bold;color:red;">Fantasie</span>
+Affirmationen zum Thema Fantasie
 
-   Hier einige Affirmationen für mehr <span style="font-weight:bold;color:red;">Fantasie</span>. Unter dem Stichwort
-   &quot;Affirmation&quot; und &quot;Wunderaffirmationen&quot; erfährst du mehr zu Funktion
+   Hier einige Affirmationen für mehr Fantasie. Unter dem Stichwort
+   "Affirmation" und "Wunderaffirmationen" erfährst du mehr zu Funktion
    und Wirkungsweise von Affirmationen. Nicht alle unten aufgeführten
    Affirmationen passen - nutze diejenigen, die für dich stimmig
    erscheinen.
 
-   Klassische Autosuggestion für <span style="font-weight:bold;color:red;">Fantasie</span> Hier die klassische
+   Klassische Autosuggestion für Fantasie Hier die klassische
    Autosuggestion:
      * Ich bin fantastisch, fantasievoll.
 
    Im Yoga verbindet man das gerne mit einem Mantra. Denn ein Mantra lässt
    die Affirmation stärker werden:
      * Ich bin fantastisch, fantasievoll. Om Om Om.
-     * Ich bin ein <span style="font-weight:bold;color:red;">Fantasie</span>voller, eine <span style="font-weight:bold;color:red;">Fantasie</span>volle OM.
+     * Ich bin ein Fantasievoller, eine Fantasievolle OM.
 
-   Entwicklungsbezogene Affirmation für <span style="font-weight:bold;color:red;">Fantasie</span> Manche Menschen fühlen
-   sich als Scheinheiliger oder als Heuchler, wenn sie sagen &quot;Ich bin
-   fantastisch, fantasievoll &quot; - und sie sind es gar nicht. Dann hilft
+   Entwicklungsbezogene Affirmation für Fantasie Manche Menschen fühlen
+   sich als Scheinheiliger oder als Heuchler, wenn sie sagen "Ich bin
+   fantastisch, fantasievoll " - und sie sind es gar nicht. Dann hilft
    eine entwicklungsbezogene Affirmation:
-     * Ich entwickle <span style="font-weight:bold;color:red;">Fantasie</span>.
+     * Ich entwickle Fantasie.
      * Ich werde fantastisch, fantasievoll.
      * Jeden Tag werde ich fantastisch, fantasievoller.
-     * Durch die Gnade Gottes entwickle ich jeden Tag mehr <span style="font-weight:bold;color:red;">Fantasie</span>.
+     * Durch die Gnade Gottes entwickle ich jeden Tag mehr Fantasie.
 
-   Dankesaffirmation für <span style="font-weight:bold;color:red;">Fantasie</span> :
+   Dankesaffirmation für Fantasie :
      * Ich danke dafür, dass ich jeden Tag fantastisch, fantasievoller
        werde.
 
-   Wunderaffirmationen <span style="font-weight:bold;color:red;">Fantasie</span> Du kannst es auch mit folgenden
+   Wunderaffirmationen Fantasie Du kannst es auch mit folgenden
    Affirmationen probieren:
      * Bis jetzt bin ich noch nicht sehr fantastisch, fantasievoll. Und
        das ist auch ganz verständlich, ich habe gute Gründe dafür. Aber
-       schon bald werde ich <span style="font-weight:bold;color:red;">Fantasie</span> entwickeln. Jeden Tag wird diese
+       schon bald werde ich Fantasie entwickeln. Jeden Tag wird diese
        Tugend in mir stärker werden.
      * Ich freue mich darauf, bald sehr fantastisch, fantasievoll zu sein.
      * Ich bin jemand, der fantastisch, fantasievoll ist.
 
-Gebet für <span style="font-weight:bold;color:red;">Fantasie</span>
+Gebet für Fantasie
 
    Auch ein Gebet ist ein machtvolles Mittel, um eine Tugend zu
-   kultivieren. Hier ein paar Möglichkeiten für Gebete für mehr <span style="font-weight:bold;color:red;">Fantasie</span>:
-     * Lieber Gott, bitte gib mir mehr <span style="font-weight:bold;color:red;">Fantasie</span>.
+   kultivieren. Hier ein paar Möglichkeiten für Gebete für mehr Fantasie:
+     * Lieber Gott, bitte gib mir mehr Fantasie.
      * Oh Gott, ich verehre dich. Ich bitte dich darum, dass ich ein
        fantastisch, fantasievoller Mensch werde.
      * Liebe Göttliche Mutter, ich danke dir. Ich danke dir dafür, dass
-       ich jeden Tag die Tugend <span style="font-weight:bold;color:red;">Fantasie</span> mehr und mehr zum Ausdruck
+       ich jeden Tag die Tugend Fantasie mehr und mehr zum Ausdruck
        bringe.
 
-Frage dich: Was müsste ich tun, um <span style="font-weight:bold;color:red;">Fantasie</span> zu entwickeln?
+Frage dich: Was müsste ich tun, um Fantasie zu entwickeln?
 
    Du kannst dich auch fragen:
-     * Was müsste ich tun, um <span style="font-weight:bold;color:red;">Fantasie</span> zu entwickeln?
+     * Was müsste ich tun, um Fantasie zu entwickeln?
      * Wie könnte ich fantastisch, fantasievoll werden?
-     * Lieber Gott, bitte zeige mir den Weg zu mehr <span style="font-weight:bold;color:red;">Fantasie</span>.
+     * Lieber Gott, bitte zeige mir den Weg zu mehr Fantasie.
      * Angenommen, ich will fantastisch, fantasievoll sein, wie würde ich
        das tun?
      * Angenommen, ich wäre fantastisch, fantasievoll, wie würde sich das
        bemerkbar machen?
      * Angenommen, ein Wunder würde geschehen, und ich hätte morgen
-       <span style="font-weight:bold;color:red;">Fantasie</span> kultiviert, was hätte sich geändert? Wie würde ich fühlen?
+       Fantasie kultiviert, was hätte sich geändert? Wie würde ich fühlen?
        Wie würde ich denken? Wie würde ich handeln? Als fantastisch,
        fantasievoller Mensch, wie würde ich reagieren, mit anderen
        kommunizieren?
-<span style="color:aqua;">---</span>
+---
      * Raja Yoga
      * Yoga Psychologie
 
-Eigenschaften im Alphabet vor <span style="font-weight:bold;color:red;">Fantasie</span>
+Eigenschaften im Alphabet vor Fantasie
 
      * Etiquette
      * Exaktheit
      * Extravertiertheit
      * Fairness
 
-Eigenschaften im Alphabet nach <span style="font-weight:bold;color:red;">Fantasie</span>
+Eigenschaften im Alphabet nach Fantasie
 
      * Fassung
      * Fehlertoleranz
-<span style="color:aqua;">---</span>
+---
           Dana Oerding, Igor Ewseew, Savitri Retat
 
    Abgerufen von
-   „https://wiki.yoga-vidya.de/index.php?title=<span style="font-weight:bold;color:red;">Fantasie</span>&amp;oldid=1217211“
+   „https://wiki.yoga-vidya.de/index.php?title=Fantasie&oldid=1217211“
    Kategorien:
      * Seiten mit RSS-Feeds
      * Tugend
-</pre>
-</body>
-</html>

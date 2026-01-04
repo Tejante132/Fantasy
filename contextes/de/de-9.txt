@@ -1,34 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!-- This file was created with the aha Ansi HTML Adapter. https://github.com/theZiz/aha -->
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="application/xml+xhtml; charset=UTF-8"/>
-<title>Contextes pour Fantasie</title>
-</head>
-<body style="color:white; background-color:black">
-<pre>
    #Values Academy » Feed Values Academy » Kommentar-Feed Values Academy »
-   Phantasie / <span style="font-weight:bold;color:red;">Fantasie</span>-Kommentar-Feed oEmbed (JSON) oEmbed (XML) JSON
+   Phantasie / Fantasie-Kommentar-Feed oEmbed (JSON) oEmbed (XML) JSON
 
    Values Academy Values Academy
    Login
-<span style="color:aqua;">---</span>
+---
    Zuverlässigkeit
    Zuversicht
 
-Phantasie / <span style="font-weight:bold;color:red;">Fantasie</span>
+Phantasie / Fantasie
 
    Werte-Antonym: Realismus
 
-<span style="color:aqua;">---</span>
+---
    Kunst: bildliche und/oder klangliche Schaffenskraft, welche dem
    späteren Werk ursächlich vorausgeht
 
-   Musik (<span style="font-weight:bold;color:red;">Fantasie</span>): frei improvisiertes (zumeist formell
+   Musik (Fantasie): frei improvisiertes (zumeist formell
    unstrukturiertes) Instrumentalstück
 
    Plural: (meist) Ergebnis, Erzeugnis oder Gebilde einer vorausgegangenen
-</pre>
-</body>
-</html>

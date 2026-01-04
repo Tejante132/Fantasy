@@ -660,21 +660,21 @@ GrösseClear
      * 70I 21
      * 70J 16
      * 70K 13
-     * 70L 3
-     * 70M 2
+     * 70L 2
+     * 70M 1
      * 75F 7
      * 75G 17
-     * 75H 21
+     * 75H 20
      * 75I 23
      * 75J 19
-     * 75K 15
+     * 75K 14
      * 75L 4
-     * 75M 3
+     * 75M 2
      * 80F 8
      * 80G 17
-     * 80H 20
+     * 80H 19
      * 80I 20
-     * 80J 18
+     * 80J 17
      * 80K 10
      * 80L 4
      * 80M 4
@@ -751,7 +751,7 @@ GrösseClear
           + 85I= (38G UK)
        Fantasie Lingerie Rebecca Essentials Spacer T-shirt BH F-K Cup EUR
        66,95
-     * Fantasie Sale 2025
+     * Fantasie Swim ss25
      * Fantasie Lingerie
           + NAVY
           + RED
@@ -834,7 +834,6 @@ GrösseClear
        Lingerie - Envisage BH G-K Cup Sizes in stock
           + 70H= (32FF UK)
           + 70I= (32G UK)
-          + 80J= (36GG UK)
           + 85J= (38GG UK)
        Fantasie Lingerie Envisage BH G-K Cup EUR 38,97 Bestpreis EUR 38,32
        Info Dies ist der niedrigste Preis in den letzten 30 Tagen.
@@ -873,7 +872,6 @@ GrösseClear
           + 85J= (38GG UK)
           + 85K= (38H UK)
        Fantasie Lingerie Illusion BH G-K Cup EUR 60,95
-     * Fantasie Swim ss25
      * Fantasie Lingerie
           + BLACK
        BEST Video Fantasie Lingerie - Elevate Sport-BH mit Bügel F-K Cup
@@ -909,6 +907,7 @@ GrösseClear
           + 90G
           + 90H
        Fantasie Lingerie Elevate Sport-BH mit Bügel F-K Cup EUR 77,95
+     * Fantasie Sale 2025
      * Fantasie Lingerie
           + FRENCH NAVY
           + NATURAL BEIGE
@@ -979,12 +978,9 @@ GrösseClear
           + 65M= (30J UK)
           + 70I= (32G UK)
           + 70K= (32H UK)
-          + 70M= (32J UK)
           + 75I= (34G UK)
           + 75J= (34GG UK)
-          + 75K= (34H UK)
           + 75L= (34HH UK)
-          + 75M= (34J UK)
           + 80I= (36G UK)
           + 80J= (36GG UK)
           + 80K= (36H UK)
@@ -996,6 +992,7 @@ GrösseClear
           + 85L= (38HH UK)
           + 85M= (38J UK)
        Fantasie Lingerie Reflect BH I-M Cup EUR 62,95
+     * Fantasie Swim ss25
      * Fantasie Lingerie
           + CAFE AU LAIT
           + NATURAL BEIGE
@@ -1056,7 +1053,6 @@ GrösseClear
           + 75H= (34FF UK)
        Fantasie Lingerie Devote BH F-K Cup EUR 35,72 Bestpreis EUR 35,72
        Info Dies ist der niedrigste Preis in den letzten 30 Tagen.
-     * Fantasie Sale 2025
      * Fantasie Lingerie
           + BLACK
           + NATURAL BEIGE
@@ -1179,6 +1175,7 @@ GrösseClear
           + 85I= (38G UK)
        Fantasie Lingerie Rebecca Essentials Spacer T-shirt BH F-J Cup EUR
        66,95
+     * Fantasie Sale 2025
      * Fantasie Lingerie
           + BLACK
           + NATURAL BEIGE
@@ -1395,6 +1392,7 @@ GrösseClear
        Fantasie Lingerie Reflect Spacer T-shirt BH G-J Cup EUR 47,57
        Bestpreis EUR 47,57 Info Dies ist der niedrigste Preis in den
        letzten 30 Tagen.
+     * Fantasie Swim ss25
      * Fantasie Lingerie
           + BLACK
        -30% Video Fantasie Lingerie - Fusion Lace BH G-K Cup Fantasie
@@ -1433,7 +1431,6 @@ GrösseClear
        stock
           + ONE SIZE
        Fantasie Lingerie Smooth Ease Taillenslip - One size EUR 15,95
-     * Fantasie Swim ss25
      * Fantasie Lingerie
           + BLACK
           + NATURAL BEIGE
@@ -1452,6 +1449,7 @@ GrösseClear
        Lingerie - Lace Ease Taillenslip - One size Sizes in stock
           + ONE SIZE
        Fantasie Lingerie Lace Ease Taillenslip - One size EUR 20,95
+     * Fantasie Sale 2025
      * Fantasie Lingerie
           + NAVY
           + BLACK

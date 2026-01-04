@@ -275,8 +275,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695a58868002a">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695a58868002a" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695aba7e960d6">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba7e960d6" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -377,8 +377,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695a588686986">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695a588686986" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695aba7e9bda0">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba7e9bda0" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -421,8 +421,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695a58868b77c">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695a58868b77c" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695aba7ea1fdd">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba7ea1fdd" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -961,7 +961,7 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
                   <div class="similarArticleWrap">
                     <div class="articleHeadliner">
                       
-<div class="articleWrap" data-uid="43509" data-publication-date="1718001000">
+<div class="articleWrap" data-uid="40499" data-publication-date="1588921200">
   
   <div class="articleTextWrap">
     
@@ -970,23 +970,21 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
   
   
       <span>
-        <a href="/serien/der-literarische-patient.html">
-          Der literarische Patient
-        </a>
+        <a href="/gesundheit.html">Gesundheit</a>
       </span>
     
   
 </div>
 
     <div class="articleTitle">
-      <a href="/leben/artikel-detailansicht/43509-quiz-welche-frau-spricht-hier-ueber-ihre-affaeren.html" title="Quiz: Welche Frau spricht hier über ihre Affären?">
-        Quiz: Welche Frau spricht hier über ihre Affären?
+      <a href="/gesundheit/artikel-detailansicht/40499-therapeutisches-drogencasting.html" title="Therapeutisches Drogencasting">
+        Therapeutisches Drogencasting
       </a>
     </div>
     
         
           <div class="articleDescription">
-            Ihren Mann hält sie für sterbenslangweilig. Affären enden in Enttäuschungen. Aus welchem Buch stammt diese Frau, die Hilfe in der Psychoanalyse sucht?
+            Können psychoaktive Substanzen die Behandlung von psychischen Krankheiten unterstützen – wie und welche genau?
           </div>
         
       
@@ -1034,11 +1032,11 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
 <div class="advertisementWrap">
   <div class="advertisementBoxWrap
           
-          
-          advertisementExternalWrap
-          
+          advertisementInternalWrap
           
           
+          
+          advertisementFullsize
           
   ">
     <small class="advertisementLabel">Anzeige</small>
@@ -1046,9 +1044,9 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
       
   <div class="articleWrap">
     <div class="articleImage">
-      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung extern','Campus_Atmen'))" target="_blank" href="https://www.campus.de/buecher-campus-verlag/business/personalmanagement/atmen-18193.html">
+      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung intern','Einzelhefte bestellen'))" target="_self" href="https://www.psychologie-heute.de/abo-shop/einzelhefte/2025.html">
         
-          <img class="img-responsive" alt="Campus_Atmen" src="/fileadmin/user_upload/Atmen_Homepage.jpg" width="360" height="560" />
+          <img class="img-responsive" alt="Einzelhefte bestellen" src="/fileadmin/user_upload/720x1120_Einzelhefte_nachbestellen.jpg" width="720" height="1120" />
         
       </a>
     </div>

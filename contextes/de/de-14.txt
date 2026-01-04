@@ -1,43 +1,30 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!-- This file was created with the aha Ansi HTML Adapter. https://github.com/theZiz/aha -->
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="application/xml+xhtml; charset=UTF-8"/>
-<title>Contextes pour Fantasie</title>
-</head>
-<body style="color:white; background-color:black">
-<pre>
 
    Neues aus... Gehirn GehörtNews
 
-Mit <span style="font-weight:bold;color:red;">Fantasie</span> voraus – Warum sie uns helfen kann, die Welt zu retten
+Mit Fantasie voraus – Warum sie uns helfen kann, die Welt zu retten
 
    12.06.2022
 
-<span style="color:aqua;">---</span>
+---
    Aber woher bekommen wir sie? Kreatives Denken hilft uns bei der
    Entwicklung und der Umsetzung einer Idee. Aber zu Beginn eines jeden
    schöpferischen Prozesses steht die mentale Vorstellungskraft! Die
-   <span style="font-weight:bold;color:red;">Fantasie</span> ist weit weniger berühmt und und strahlend als die
+   Fantasie ist weit weniger berühmt und und strahlend als die
    Kreativität, und doch ist sie fast die wichtigere Kraft im Hintergrund.
-   Eine blühende <span style="font-weight:bold;color:red;">Fantasie</span> ist weder krankhaft, noch kindlich. Sie ist die
+   Eine blühende Fantasie ist weder krankhaft, noch kindlich. Sie ist die
    Schlüsselressource kreativen Denkens.
 
    Wir widmen ihr diesen Podcast.
 
-   Lassen Sie uns die <span style="font-weight:bold;color:red;">Fantasie</span> kennen lernen – und trainieren. Dafür
+   Lassen Sie uns die Fantasie kennen lernen – und trainieren. Dafür
    besuchen wir eine wichtige Gehirnregion in ihrem Hinterkopf, wir
    sprechen über Horrorgeschichten, wir reisen mit der Nautilus 20.000
    Meilen unter das Meer, wir bestaunen ein paar Möbel und wir treffen uns
-<span style="color:aqua;">---</span>
+---
 
 
 
-   Mit <span style="font-weight:bold;color:red;">Fantasie</span> voraus - Warum sie uns helfen kann, die Welt zu retten
+   Mit Fantasie voraus - Warum sie uns helfen kann, die Welt zu retten
 
-   Beitragsbild Gehirn Gehört, Folge 25: Mit <span style="font-weight:bold;color:red;">Fantasie</span> voraus – Warum sie
+   Beitragsbild Gehirn Gehört, Folge 25: Mit Fantasie voraus – Warum sie
    uns helfen kann, die Welt zu retten
-</pre>
-</body>
-</html>

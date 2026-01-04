@@ -640,6 +640,6 @@ document.getElementById("searchfield").onkeyup = function() { autosug_ku(this.va
 document.getElementById("searchfield").onkeydown = function() { autosug_kd(event); }
 </script>
 </div>
-<script>var exec_time=18.05;</script>
+<script>var exec_time=15.02;</script>
 </body>
 </html>

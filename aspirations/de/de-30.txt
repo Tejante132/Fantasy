@@ -275,8 +275,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695a5875a124c">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695a5875a124c" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695aba6e0b7bc">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba6e0b7bc" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -377,8 +377,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695a5875a7c4a">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695a5875a7c4a" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695aba6e11e86">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba6e11e86" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -421,8 +421,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695a5875ade04">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695a5875ade04" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695aba6e18562">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba6e18562" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -978,7 +978,7 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
                   <div class="similarArticleWrap">
                     <div class="articleHeadliner">
                       
-<div class="articleWrap" data-uid="42200" data-publication-date="1662709500">
+<div class="articleWrap" data-uid="42073" data-publication-date="1659435300">
   
   <div class="articleTextWrap">
     
@@ -987,23 +987,21 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
   
   
       <span>
-        <a href="/serien/buch-kritik.html">
-          Buch &amp; Kritik
-        </a>
+        <a href="/leben.html">Leben</a>
       </span>
     
   
 </div>
 
     <div class="articleTitle">
-      <a href="/leben/artikel-detailansicht/42200-frau-ohne-begleitung.html" title="Frau ohne Begleitung">
-        Frau ohne Begleitung
+      <a href="/leben/artikel-detailansicht/42073-traumdeutung.html" title="Traumdeutung ">
+        Traumdeutung 
       </a>
     </div>
     
         
           <div class="articleDescription">
-            Die Journalistin und Essayistin Katja Kullmann beleuchtet ihr Single-Dasein im Gesamtkontext der sich emanzipierenden Frau in Politik und Geschichte.
+            Ob vom Fliegen, von Zahnausfall oder Schlangen: Wovon wir träumen, verrät laut Sigmund Freud einiges über uns. ► Was sagt die moderne Psychologie dazu?
           </div>
         
       
@@ -1063,9 +1061,9 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
       
   <div class="articleWrap">
     <div class="articleImage">
-      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung intern','PSH 12/2025'))" target="_self" href="https://www.psychologie-heute.de/abo-shop/detailseite/43701-psychologie-heute-122025-sensibler-als-ihr.html">
+      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung intern','Kakao'))" target="_self" href="https://www.psychologie-heute.de/abo-shop/detailseite/43224-kakao-seelenruhe.html">
         
-          <img class="img-responsive" alt="PSH 12/2025" src="/fileadmin/user_upload/720x1120_PH_12_2025_FINAL.jpg" width="720" height="1120" />
+          <img class="img-responsive" alt="Kakao" src="/fileadmin/user_upload/720x1120_PH-Kakao.jpg" width="720" height="1120" />
         
       </a>
     </div>

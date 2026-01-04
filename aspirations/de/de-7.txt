@@ -275,8 +275,8 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695a58620747b">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695a58620747b" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695aba5a543f2">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba5a543f2" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -377,8 +377,8 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695a58620d81a">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695a58620d81a" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695aba5a5adbe">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba5a5adbe" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -421,8 +421,8 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695a586213d3d">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695a586213d3d" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695aba5a61527">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba5a61527" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -1003,7 +1003,7 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
                   <div class="similarArticleWrap">
                     <div class="articleHeadliner">
                       
-<div class="articleWrap" data-uid="39240" data-publication-date="1528884000">
+<div class="articleWrap" data-uid="44410" data-publication-date="1754982900">
   
   <div class="articleTextWrap">
     
@@ -1012,21 +1012,21 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
   
   
       <span>
-        <a href="/gesellschaft.html">Gesellschaft</a>
+        <a href="/beruf.html">Beruf</a>
       </span>
     
   
 </div>
 
     <div class="articleTitle">
-      <a href="/gesellschaft/artikel-detailansicht/39240-hoher-druck-im-leistungssport.html" title="Hoher Druck im Leistungssport ">
-        Hoher Druck im Leistungssport 
+      <a href="/beruf/artikel-detailansicht/44410-wenn-die-angst-um-den-job-krank-macht-und-umgekehrt.html" title="Wenn die Angst um den Job krank macht – und umgekehrt">
+        Wenn die Angst um den Job krank macht – und umgekehrt
       </a>
     </div>
     
         
           <div class="articleDescription">
-            Viele Leistungssportler im Fußball und anderen Sportarten haben wegen des dauerhaften Drucks psychische Probleme. Sie sollten sich Hilfe holen.
+            Arbeitsplatzsorgen und psychische Probleme können sich gegenseitig hochschaukeln – mit ernsten Folgen für Betroffene. Das zeigt eine Studie
           </div>
         
       
@@ -1086,9 +1086,9 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
       
   <div class="articleWrap">
     <div class="articleImage">
-      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung intern','Bundle Auf der Reise zu mir'))" target="_self" href="https://www.psychologie-heute.de/abo-shop/detailseite/42584-psychologie-heute-auf-der-reise-zu-mir.html">
+      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung intern','Notizbücher_neu'))" target="_self" href="https://www.psychologie-heute.de/abo-shop/geschenke.html">
         
-          <img class="img-responsive" alt="Bundle Auf der Reise zu mir" src="/fileadmin/user_upload/360x560_Bundle_Urlaub_FINAL.jpg" width="360" height="560" />
+          <img class="img-responsive" alt="Notizbücher_neu" src="/fileadmin/user_upload/720x1120_PH_Notizbu__cher_FINAL.jpg" width="720" height="1120" />
         
       </a>
     </div>

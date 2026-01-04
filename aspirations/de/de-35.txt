@@ -227,7 +227,7 @@ var woocommerce_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/
 </style>
 <link rel='stylesheet' id='wp-block-library-css' href='https://fuerkinder.org/wp-includes/css/dist/block-library/style.min.css?ver=6.9' type='text/css' media='all' />
 <style id='wp-block-library-inline-css' type='text/css'>
-/*wp_block_styles_on_demand_placeholder:695a35e29f8a4*/
+/*wp_block_styles_on_demand_placeholder:695aba7419d17*/
 /*# sourceURL=wp-block-library-inline-css */
 </style>
 <style id='wp-block-library-theme-inline-css' type='text/css'>
@@ -861,7 +861,7 @@ var avadaMenuVars = {"site_layout":"wide","header_position":"top","logo_alignmen
 <script type="text/javascript" src="https://fuerkinder.org/wp-content/themes/Avada/assets/min/js/general/avada-woo-products.js?ver=7.14.2" id="avada-woo-products-js"></script>
 <script type="text/javascript" id="avada-woocommerce-js-extra">
 /* <![CDATA[ */
-var avadaWooCommerceVars = {"order_actions":"Details","title_style_type":"double solid","woocommerce_shop_page_columns":"4","woocommerce_checkout_error":"Nicht alle Felder wurden richtig ausgef\u00fcllt.","related_products_heading_size":"2","ajaxurl":"https://fuerkinder.org/wp-admin/admin-ajax.php","cart_nonce":"d09811cdac","shop_page_bg_color":"#ffffff","shop_page_bg_color_lightness":"100","post_title_font_size":"28"};
+var avadaWooCommerceVars = {"order_actions":"Details","title_style_type":"double solid","woocommerce_shop_page_columns":"4","woocommerce_checkout_error":"Nicht alle Felder wurden richtig ausgef\u00fcllt.","related_products_heading_size":"2","ajaxurl":"https://fuerkinder.org/wp-admin/admin-ajax.php","cart_nonce":"2241cc3313","shop_page_bg_color":"#ffffff","shop_page_bg_color_lightness":"100","post_title_font_size":"28"};
 //# sourceURL=avada-woocommerce-js-extra
 /* ]]> */
 </script>
@@ -907,7 +907,7 @@ var fusionVideoVars = {"status_vimeo":"1"};
 
 					</a>
 	</section>
-		<script>var rocket_beacon_data = {"ajax_url":"https:\/\/fuerkinder.org\/wp-admin\/admin-ajax.php","nonce":"b842b80524","url":"https:\/\/fuerkinder.org\/familieleben\/wenn-realitaet-und-fantasie-zu-sehr-verschwimmen","is_mobile":false,"width_threshold":1600,"height_threshold":700,"delay":500,"debug":null,"status":{"atf":true,"lrc":true,"preconnect_external_domain":true},"elements":"img, video, picture, p, main, div, li, svg, section, header, span","lrc_threshold":1800,"preconnect_external_domain_elements":["link","script","iframe"],"preconnect_external_domain_exclusions":["static.cloudflareinsights.com","rel=\"profile\"","rel=\"preconnect\"","rel=\"dns-prefetch\"","rel=\"icon\""]}</script><script data-name="wpr-wpr-beacon" src='https://fuerkinder.org/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js' async></script></body>
+		<script>var rocket_beacon_data = {"ajax_url":"https:\/\/fuerkinder.org\/wp-admin\/admin-ajax.php","nonce":"77797ea5c8","url":"https:\/\/fuerkinder.org\/familieleben\/wenn-realitaet-und-fantasie-zu-sehr-verschwimmen","is_mobile":false,"width_threshold":1600,"height_threshold":700,"delay":500,"debug":null,"status":{"atf":true,"lrc":true,"preconnect_external_domain":true},"elements":"img, video, picture, p, main, div, li, svg, section, header, span","lrc_threshold":1800,"preconnect_external_domain_elements":["link","script","iframe"],"preconnect_external_domain_exclusions":["static.cloudflareinsights.com","rel=\"profile\"","rel=\"preconnect\"","rel=\"dns-prefetch\"","rel=\"icon\""]}</script><script data-name="wpr-wpr-beacon" src='https://fuerkinder.org/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js' async></script></body>
 </html>
 
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1767519714 -->
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->

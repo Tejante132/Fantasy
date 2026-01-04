@@ -11,6 +11,7 @@ N=0 	# compteur d'URLs
 LG=$1
 URLS=urls/${LG}.txt
 # URLS=$1
+LC=3 # nb de lignes de contexte
 
 echo "langue choisie : $LG"
 
@@ -117,10 +118,14 @@ do
 
 	# attention, ça ne crée pas les chemins, il faut eventuellement faire un mkdir des dossiers 
 	# s'ils n'existent pas déjà au moment où on lance le programme
-	FICHIER_CONTEXTES=contextes/${LG}/${LG}-${N}.html
-	CONTEXTES=$(cat $FICHIER_DUMP | grep -P --context=3 --color=always --group-separator="---" "$MOT")
-	# echo "$CONTEXTES" > $FICHIER_CONTEXTES
-	echo "$CONTEXTES" | aha --title "Contextes pour $MOT" > $FICHIER_CONTEXTES
+	FICHIER_CONTEXTES=contextes/${LG}/${LG}-${N}.txt
+	FICHIER_CONTEXTES_COLOR=contextes/${LG}/${LG}-${N}.html
+	CONTEXTES=$(cat $FICHIER_DUMP | grep -P --context=$LC --color=always --group-separator="---" "$MOT")
+	# conversion des formats couleur ANSI en balises html avec aha
+	echo "$CONTEXTES" | aha --title "Contextes pour $MOT" > $FICHIER_CONTEXTES_COULEUR
+	# version sans couleurs
+	CONTEXTES=$(cat $FICHIER_DUMP | grep -P --context=$LC --group-separator="---" "$MOT")
+	echo "$CONTEXTES" > $FICHIER_CONTEXTES
 
 	# on affiche les données extraites espacées par des tabulations
 	echo -e "
@@ -133,7 +138,7 @@ do
 					<td><a href='../${FICHIER_ASPIRATION}'>lien vers l'aspiration</a></td>
 					<td><a href='../${FICHIER_DUMP}'>lien vers le dump</a></td>
 					<td class='${STYLE_NB}'>${NB_OCCURRENCES}</td>
-					<td><a href='../${FICHIER_CONTEXTES}'>lien vers les contextes</a></td>
+					<td><a href='../${FICHIER_CONTEXTES_COLOR}'>lien contextes couleur (html)</a><br /><br /><a href='../${FICHIER_CONTEXTES}'>lien contextes (txt)</a></td>
 				</tr>" >> ${fichier}
 
 done < ${URLS};

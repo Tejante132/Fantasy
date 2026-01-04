@@ -19,7 +19,7 @@
 <meta property="og:title" content="Was nützt Fantasie?">
 <meta property="og:description" content="&lt;p&gt;Volkhard Wels&#39; Input zu einem Gedankenexperiment&lt;/p&gt;">
 <meta property="og:url" content="https://www.philosophie.ch/2021-11-14-wels">
-<meta property="og:image" content="https://assets.philosophie.ch/logo-philosophieren-mit.png?md5=7EBPLIRjV8myaqRZlmJ96Q&amp;expires=1767614973">
+<meta property="og:image" content="https://assets.philosophie.ch/logo-philosophieren-mit.png?md5=kDIDcLoaELnujdlVwaaORg&amp;expires=1767640053">
 <meta property="article:author" content="Volkhard Wels">
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -35,7 +35,7 @@
     "@type": "Organization",
     "name": "Philosophie.ch"
   },
-  "image": "https://assets.philosophie.ch/logo-philosophieren-mit.png?md5=7EBPLIRjV8myaqRZlmJ96Q&expires=1767614973",
+  "image": "https://assets.philosophie.ch/logo-philosophieren-mit.png?md5=kDIDcLoaELnujdlVwaaORg&expires=1767640053",
   "url": "https://www.philosophie.ch/2021-11-14-wels",
   "mainEntityOfPage": "https://www.philosophie.ch/2021-11-14-wels"
 }</script>
@@ -87,7 +87,7 @@ TinyMCERails.initialize('default', {
 <meta content='black' name='apple-mobile-web-app-status-bar-style'>
 <meta content='Philosophie.ch' name='apple-mobile-web-app-title'>
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="YSX9vNPa6WNjQXzi0MOhfogZPYn0mjA7I7Y3zd+xocxZXB+6i8jB3M1Xh7rsfLeDXxMnwkFkFqpSM1xLhZ1tQw==" />
+<meta name="csrf-token" content="Yfe7Eay8rHvMKNfeI8AAaR8vM6aNP0MHrxNdG+vdYTL9eN7VugiHnu1EIMf1uGGKDjB4ercSANf+8j+jzWa4uA==" />
 <!-- Google Tag Manager -->
 <script>
   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -493,7 +493,7 @@ Report this asset
 
 <a class="btn btn-primary content-actions__button" title="Suggest this article to someone" href="/profil/login">Suggest</a>
 
-<a target="_blank" class="btn btn-warning content-actions__button" title="Report this content" href="/cdn-cgi/l/email-protection#244d4a424b64544c4d484b574b544c4d410a474c1b464b405d1960414556011614704145490116670114650114656d011614534b514840011614484d4f41011614504b0116145641544b5650011614504c41011614474b4a50414a500116144b4a011614504c41011614544543410116140116131614161509151509151009534148570116130a011614704c41011614564145574b4a0116144d57011614504c41011614424b48484b534d4a430117650114650114650117670117677d6b7176011614766165776b6a0116146c61766101176101176101146501146566415750011614564143455640570116670114650117670117677d6b71760116146a6569610116146c617661011761011761011465024549541f5751464e414750197641544b5650011614474b4a50414a50">Report</a>
+<a target="_blank" class="btn btn-warning content-actions__button" title="Report this content" href="/cdn-cgi/l/email-protection#f79e999198b7879f9e9b988498879f9e92d9949fc89598938ecab3929685d2c5c7a392969ad2c5b4d2c7b6d2c7b6bed2c5c78098829b93d2c5c79b9e9c92d2c5c78398d2c5c7859287988583d2c5c7839f92d2c5c794989983929983d2c5c79899d2c5c7839f92d2c5c787969092d2c5c7d2c5c0c5c7c5c6dac6c6dac6c3da80929b84d2c5c0d9d2c5c7a39f92d2c5c7859296849899d2c5c79e84d2c5c7839f92d2c5c791989b9b98809e9990d2c4b6d2c7b6d2c7b6d2c4b4d2c4b4aeb8a2a5d2c5c7a5b2b6a4b8b9d2c5c7bfb2a5b2d2c4b2d2c4b2d2c7b6d2c7b6b5928483d2c5c785929096859384d2c5b4d2c7b6d2c4b4d2c4b4aeb8a2a5d2c5c7b9b6bab2d2c5c7bfb2a5b2d2c4b2d2c4b2d2c7b6d1969a87cc8482959d929483caa59287988583d2c5c794989983929983">Report</a>
 
 </div>
 
@@ -534,7 +534,7 @@ No comments yet
 </div></li>
       <li>  <div id="link_74838" class="link">    <a title="" target="_blank" data-link-target="blank" class="text-break" href="https://twitter.com/PhilosophieCH">Twitter</a>
 </div></li>
-      <li>  <div id="link_74839" class="link">    <a title="" data-link-target="" class="text-break" href="/cdn-cgi/l/email-protection#2b42454d446b5b4342474458445b43424e054843">E-mail</a>
+      <li>  <div id="link_74839" class="link">    <a title="" data-link-target="" class="text-break" href="/cdn-cgi/l/email-protection#cba2a5ada48bbba3a2a7a4b8a4bba3a2aee5a8a3">E-mail</a>
 </div></li>
 
 <li>&copy; Philosophie.ch</li>
@@ -562,5 +562,5 @@ No comments yet
 
 
 
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9b8aa0b1c95b6f54',t:'MTc2NzUyODU3Mw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9b8d05000bc77025',t:'MTc2NzU1MzY1Mw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>

@@ -1,68 +1,55 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!-- This file was created with the aha Ansi HTML Adapter. https://github.com/theZiz/aha -->
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="application/xml+xhtml; charset=UTF-8"/>
-<title>Contextes pour Fantasie</title>
-</head>
-<body style="color:white; background-color:black">
-<pre>
    Familienzeit Loisls Stempel-Rallye
    Ausflüge Sehenswürdigkeiten Ausflugsziele
    Kultur Sehenswürdigkeiten GaPa Erlebnisshop Michael-Ende-Kurpark
-   Ausflugsziele Tage der <span style="font-weight:bold;color:red;">Fantasie</span>
-   Kulinarik GaPa schmeckts Kulinarik &amp; Ausgehen
-   KÜNSTE Theater &amp; Konzerte Museen &amp; Ausstellungen Tradition &amp; Handwerk
+   Ausflugsziele Tage der Fantasie
+   Kulinarik GaPa schmeckts Kulinarik & Ausgehen
+   KÜNSTE Theater & Konzerte Museen & Ausstellungen Tradition & Handwerk
    Musiik GaPa Live Richard-Strauss
-<span style="color:aqua;">---</span>
-   Kultur Kulinarik GaPa schmeckts Kulinarik &amp; Ausgehen KÜNSTE Theater &amp;
-   Konzerte Museen &amp; Ausstellungen Tradition &amp; Handwerk Musiik GaPa Live
+---
+   Kultur Kulinarik GaPa schmeckts Kulinarik & Ausgehen KÜNSTE Theater &
+   Konzerte Museen & Ausstellungen Tradition & Handwerk Musiik GaPa Live
    Richard-Strauss Sehenswürdigkeiten GaPa Erlebnisshop
-   Michael-Ende-Kurpark Ausflugsziele Tage der <span style="font-weight:bold;color:red;">Fantasie</span>
+   Michael-Ende-Kurpark Ausflugsziele Tage der Fantasie
    Gesundheit dropdown-icon
    Gesundheit Wellbeing BergBlick Retreat Cold Power Retreat AlpenBreak im
    Heilklima Gesundheitserlebnisse GaPa Moments Gesundheitstourismus
-<span style="color:aqua;">---</span>
+---
 
    header-welle
 
-Tage der <span style="font-weight:bold;color:red;">Fantasie</span>
+Tage der Fantasie
 
 GARMISCH-PARTENKIRCHEN
 
-<span style="color:aqua;">---</span>
+---
 
 
    Vom 18. bis 21. September 2025 öffnen sich die Tore zu einer Welt
-   voller Wunder: Michael Ende. Tage der <span style="font-weight:bold;color:red;">Fantasie</span>! Erwecke mit uns die
+   voller Wunder: Michael Ende. Tage der Fantasie! Erwecke mit uns die
    Geschichten von Michael Ende zum Leben. Geh mit Jim Knopf auf
    Abenteuerreise, entdecke Momos Geheimnisse, lausche spannenden
    Geschichten und erlebe zauberhaftes Theater unter freiem Himmel. Lass
    deiner Kreativität Flügel wachsen, tanze, lache, dichte, staune und
    lass die Welt von Michael Ende zu deiner eigenen werden! Komm vorbei
    und verbringe mit uns vier unvergessliche Tage, an denen Freundschaft,
-   <span style="font-weight:bold;color:red;">Fantasie</span> und die Freude am Entdecken im Mittelpunkt stehen. Sei nicht
-   nur dabei, sondern werde ein Teil der Tage der <span style="font-weight:bold;color:red;">Fantasie</span>!
+   Fantasie und die Freude am Entdecken im Mittelpunkt stehen. Sei nicht
+   nur dabei, sondern werde ein Teil der Tage der Fantasie!
 
 
 
-<span style="color:aqua;">---</span>
+---
 
    Vier der besten Zauberkünstler*innen Europas entführen Dich in eine
    Welt voller Illusionen und Staunen. Im Geiste von Michael Ende entsteht
-   ein unvergesslicher Abend, an dem <span style="font-weight:bold;color:red;">Fantasie</span> und Wirklichkeit
+   ein unvergesslicher Abend, an dem Fantasie und Wirklichkeit
    verschwimmen – magisch, geheimnisvoll und voller Überraschungen!
 
 EINSHOCH6
-<span style="color:aqua;">---</span>
+---
 
 
    Tagesticket (Einzelperson) - gültig des jeweiligen Tages
-     * inklusive: Raum der <span style="font-weight:bold;color:red;">Fantasie</span> | Pirateninsel der Wilden 13 |
+     * inklusive: Raum der Fantasie | Pirateninsel der Wilden 13 |
        Candlelight-Lesung
      * exklusive: Loisach Marci Alphorntechno | Nacht der Magie |
        Einshoch6 | Trödelmarkt der Träume | Momo-Schauspielführungen
-</pre>
-</body>
-</html>

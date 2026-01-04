@@ -1,82 +1,69 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!-- This file was created with the aha Ansi HTML Adapter. https://github.com/theZiz/aha -->
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="application/xml+xhtml; charset=UTF-8"/>
-<title>Contextes pour Fantasie</title>
-</head>
-<body style="color:white; background-color:black">
-<pre>
    Für Förderer
    Jetzt spenden 😊
 
-<span style="font-weight:bold;color:red;">Fantasie</span>
+Fantasie
 
    Aus Klexikon – das Kinderlexikon
    Ein Mädchen liest ein Buch. Die Kuscheltiere sind Freunde, mit denen
-   man sich nicht so allein fühlt. <span style="font-weight:bold;color:red;">Fantasie</span> bedeutet, dass man sich selbst
+   man sich nicht so allein fühlt. Fantasie bedeutet, dass man sich selbst
    etwas ausdenkt. Man kann aber auch eine Geschichte lesen, die jemand
    anders sich ausgedacht hat.
 
-   <span style="font-weight:bold;color:red;">Fantasie</span> bedeutet, dass jemand sich etwas Neues vorstellen kann. Man
+   Fantasie bedeutet, dass jemand sich etwas Neues vorstellen kann. Man
    sagt auch Einbildungskraft oder Erfindungsgabe. Kinder und Erwachsene
-   brauchen <span style="font-weight:bold;color:red;">Fantasie</span>, um eine Geschichte zu erfinden.
+   brauchen Fantasie, um eine Geschichte zu erfinden.
 
-   Das deutsche Wort <span style="font-weight:bold;color:red;">Fantasie</span> schreibt man auch manchmal mit Ph am Anfang:
+   Das deutsche Wort Fantasie schreibt man auch manchmal mit Ph am Anfang:
    Phantasie. Es kommt nämlich ursprünglich aus der griechischen Sprache:
    phantasía bedeutet Erscheinung, Vorstellung und Einbildung. Denn
-   <span style="font-weight:bold;color:red;">Fantasie</span> ist das, was man sich vorstellt. In der Musik meint man ein
+   Fantasie ist das, was man sich vorstellt. In der Musik meint man ein
    Stück, das man sich einfach so ausgedacht hat, ohne dass man besondere
    Regeln für Musikstücke beachtet hat. Etwas Fantastisches ist etwas,
    dass nur in der Einbildung in unserem Kopf da ist, aber nicht in echt.
-<span style="color:aqua;">---</span>
+---
    Menschen immer mehr davon ausgedacht. Solche Geschichten benennt man
    auch mit dem englischen Wort Fantasy.
 
-Warum ist <span style="font-weight:bold;color:red;">Fantasie</span> wichtig?
+Warum ist Fantasie wichtig?
 
    Eine Kinderzeichnung: Hier lebt ein Mädchen allein in einem hohlen
    Baum. Es erlaubt aber anderen, es zu besuchen.
-<span style="color:aqua;">---</span>
+---
    wenn etwas Schlimmes passiert, dann wird am Ende dennoch alles wieder
    gut.
 
-Was liest, sieht und hört man in der <span style="font-weight:bold;color:red;">Fantasie</span>?
+Was liest, sieht und hört man in der Fantasie?
 
-   Dank der <span style="font-weight:bold;color:red;">Fantasie</span> kann man sich also eine Geschichte ausdenken. In
+   Dank der Fantasie kann man sich also eine Geschichte ausdenken. In
    einer Geschichte müssen gar keine Dinge vorkommen, die es in echt nicht
    gibt. Es kann auch spannend sein, wenn man liest, wie ein Kind das
    erste Mal in die Schule kommt oder wie die Polizei einen Dieb fängt.
-<span style="color:aqua;">---</span>
+---
    Viele Menschen mögen aber vor allem Geschichten, die im richtigen Leben
    nicht geschehen können. In solchen Geschichten geht es zum Beispiel um
    Außerirdische oder um das Leben in der Zukunft. Man nennt das
-   Science-Fiction. <span style="font-weight:bold;color:red;">Fantasie</span>-Geschichten, die besonders viel Angst machen,
+   Science-Fiction. Fantasie-Geschichten, die besonders viel Angst machen,
    nennt man Horror. Solche verschiedenen Arten von Geschichten nennt man
    Genres.
 
    Ein bestimmtes Genre sind Fantasy-Geschichten. Fantasy ist das
-   englische Wort für <span style="font-weight:bold;color:red;">Fantasie</span>. Darin geht es um Zauberei und
+   englische Wort für Fantasie. Darin geht es um Zauberei und
    übernatürliche Dinge. Das sind Dinge, die es in der normalen Welt nicht
    geben kann. Ein Beispiel sind Gestaltwandler: Solche Wesen können ihr
    Aussehen plötzlich verändern. Sie sehen dann aus wie ein anderer Mensch
-<span style="color:aqua;">---</span>
+---
      __________________________________________________________________
 
    Klexikon.de ist die Wikipedia für Kinder zwischen 5 und 15 Jahren, also
-   ein kostenloses Online-Lexikon für Schulkinder. Zum Thema <span style="font-weight:bold;color:red;">Fantasie</span>
+   ein kostenloses Online-Lexikon für Schulkinder. Zum Thema Fantasie
    findet ihr weitere Kinderseiten in der Kindersuchmaschine „Frag Finn“.
 
    Das Klexikon wird gefördert durch den weltgrößten
-<span style="color:aqua;">---</span>
+---
 
    (Abschicken) Abschicken
    Abgerufen von
-   „https://klexikon.zum.de/index.php?title=<span style="font-weight:bold;color:red;">Fantasie</span>&amp;oldid=162554“
+   „https://klexikon.zum.de/index.php?title=Fantasie&oldid=162554“
    Kategorien:
      * Klexikon-Artikel
      * Sprache und Kultur
-</pre>
-</body>
-</html>

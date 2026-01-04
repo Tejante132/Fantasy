@@ -194,7 +194,7 @@
                       class="language-form"
                       data-form-auto-submit="true">
 
-                                                                <input type="hidden" name="_csrf_token" value="b2ce81f3525e11f9f9.kQ9mA7skcLksT7VWXIxO7DLvC6S-zoPhFSlNvmBGKwg.40AkYNpOG91hOPwlH78Fj0LZbe3d-c7RIl8k0SF0Rz2kXCVp1E0y3H0FjQ">
+                                                                <input type="hidden" name="_csrf_token" value="3346defd0bc0b25.jpAuOwev_oVNef02LifxjZeYINXB4ZrYyHUtsk-Wnno.98kaSW_buvUjKbgDW3Kf2dzNa5KRqtyaqxxexguu0hDlxkh9XpmatS9Mig">
                     
                                                                                                                     
                         <div class="languages-menu dropdown">
@@ -3585,7 +3585,7 @@
                       class="language-form"
                       data-form-auto-submit="true">
 
-                                                                <input type="hidden" name="_csrf_token" value="b2ce81f3525e11f9f9.kQ9mA7skcLksT7VWXIxO7DLvC6S-zoPhFSlNvmBGKwg.40AkYNpOG91hOPwlH78Fj0LZbe3d-c7RIl8k0SF0Rz2kXCVp1E0y3H0FjQ">
+                                                                <input type="hidden" name="_csrf_token" value="3346defd0bc0b25.jpAuOwev_oVNef02LifxjZeYINXB4ZrYyHUtsk-Wnno.98kaSW_buvUjKbgDW3Kf2dzNa5KRqtyaqxxexguu0hDlxkh9XpmatS9Mig">
                     
                                                                                                                     
                         <div class="languages-menu dropdown">
@@ -4411,7 +4411,7 @@
         class="buy-widget"
         data-add-to-cart="true">
 
-                            <input type="hidden" name="_csrf_token" value="176b4539ae0.SsifH-kbgayoAZK2wBpbk3U5-5OT8ur1chwO1bUKlsU.GrjLeZB6t5T8dNbStGk6_Bhdyqvcppy9J3dlheJu0YgZ5dVmm1T429p01w">
+                            <input type="hidden" name="_csrf_token" value="78fe93d16af4fe.TbJ1MfyyXK5TkFk8PbhWUfFwtVVNazpSJ_o0lv7Lxi4.evE9Ra3db-gGqABaUoEDPLw52S8AWl0UdcwZ_6SGlXYC2AR3r4YKxWbSGA">
         
                 
         
@@ -6682,7 +6682,7 @@ www.henle.com
                       class="buy-widget"
                       data-add-to-cart="true">
 
-                                                                <input type="hidden" name="_csrf_token" value="176b4539ae0.SsifH-kbgayoAZK2wBpbk3U5-5OT8ur1chwO1bUKlsU.GrjLeZB6t5T8dNbStGk6_Bhdyqvcppy9J3dlheJu0YgZ5dVmm1T429p01w">
+                                                                <input type="hidden" name="_csrf_token" value="78fe93d16af4fe.TbJ1MfyyXK5TkFk8PbhWUfFwtVVNazpSJ_o0lv7Lxi4.evE9Ra3db-gGqABaUoEDPLw52S8AWl0UdcwZ_6SGlXYC2AR3r4YKxWbSGA">
                     
                             
                                                                                 <input type="hidden"
@@ -6794,7 +6794,7 @@ www.henle.com
                       class="buy-widget"
                       data-add-to-cart="true">
 
-                                                                <input type="hidden" name="_csrf_token" value="176b4539ae0.SsifH-kbgayoAZK2wBpbk3U5-5OT8ur1chwO1bUKlsU.GrjLeZB6t5T8dNbStGk6_Bhdyqvcppy9J3dlheJu0YgZ5dVmm1T429p01w">
+                                                                <input type="hidden" name="_csrf_token" value="78fe93d16af4fe.TbJ1MfyyXK5TkFk8PbhWUfFwtVVNazpSJ_o0lv7Lxi4.evE9Ra3db-gGqABaUoEDPLw52S8AWl0UdcwZ_6SGlXYC2AR3r4YKxWbSGA">
                     
                             
                                                                                 <input type="hidden"
@@ -7102,7 +7102,7 @@ www.henle.com
                       class="buy-widget"
                       data-add-to-cart="true">
 
-                                                                <input type="hidden" name="_csrf_token" value="176b4539ae0.SsifH-kbgayoAZK2wBpbk3U5-5OT8ur1chwO1bUKlsU.GrjLeZB6t5T8dNbStGk6_Bhdyqvcppy9J3dlheJu0YgZ5dVmm1T429p01w">
+                                                                <input type="hidden" name="_csrf_token" value="78fe93d16af4fe.TbJ1MfyyXK5TkFk8PbhWUfFwtVVNazpSJ_o0lv7Lxi4.evE9Ra3db-gGqABaUoEDPLw52S8AWl0UdcwZ_6SGlXYC2AR3r4YKxWbSGA">
                     
                             
                                                                                 <input type="hidden"
@@ -7214,7 +7214,7 @@ www.henle.com
                       class="buy-widget"
                       data-add-to-cart="true">
 
-                                                                <input type="hidden" name="_csrf_token" value="176b4539ae0.SsifH-kbgayoAZK2wBpbk3U5-5OT8ur1chwO1bUKlsU.GrjLeZB6t5T8dNbStGk6_Bhdyqvcppy9J3dlheJu0YgZ5dVmm1T429p01w">
+                                                                <input type="hidden" name="_csrf_token" value="78fe93d16af4fe.TbJ1MfyyXK5TkFk8PbhWUfFwtVVNazpSJ_o0lv7Lxi4.evE9Ra3db-gGqABaUoEDPLw52S8AWl0UdcwZ_6SGlXYC2AR3r4YKxWbSGA">
                     
                             
                                                                                 <input type="hidden"
@@ -7529,7 +7529,7 @@ www.henle.com
                       class="buy-widget"
                       data-add-to-cart="true">
 
-                                                                <input type="hidden" name="_csrf_token" value="176b4539ae0.SsifH-kbgayoAZK2wBpbk3U5-5OT8ur1chwO1bUKlsU.GrjLeZB6t5T8dNbStGk6_Bhdyqvcppy9J3dlheJu0YgZ5dVmm1T429p01w">
+                                                                <input type="hidden" name="_csrf_token" value="78fe93d16af4fe.TbJ1MfyyXK5TkFk8PbhWUfFwtVVNazpSJ_o0lv7Lxi4.evE9Ra3db-gGqABaUoEDPLw52S8AWl0UdcwZ_6SGlXYC2AR3r4YKxWbSGA">
                     
                             
                                                                                 <input type="hidden"
@@ -7640,7 +7640,7 @@ www.henle.com
                       class="buy-widget"
                       data-add-to-cart="true">
 
-                                                                <input type="hidden" name="_csrf_token" value="176b4539ae0.SsifH-kbgayoAZK2wBpbk3U5-5OT8ur1chwO1bUKlsU.GrjLeZB6t5T8dNbStGk6_Bhdyqvcppy9J3dlheJu0YgZ5dVmm1T429p01w">
+                                                                <input type="hidden" name="_csrf_token" value="78fe93d16af4fe.TbJ1MfyyXK5TkFk8PbhWUfFwtVVNazpSJ_o0lv7Lxi4.evE9Ra3db-gGqABaUoEDPLw52S8AWl0UdcwZ_6SGlXYC2AR3r4YKxWbSGA">
                     
                             
                                                                                 <input type="hidden"
@@ -8015,7 +8015,7 @@ www.henle.com
                         'frontend.country.country-data': '/de/country/country-state-data',
                         'frontend.store-api.proxy': '/de/_proxy/store-api',
                     };
-                                        window.storeApiProxyToken = '1392ba.BaJRF8jbyqwitxeGAsfjBPcKwUrBPJGPumQLWKPEY2s.XPtpeYmYk8Np6FT2ZIXTXIZy9TONVafNzTs8KZSIFg1n0jhakJWczhLFWg';
+                                        window.storeApiProxyToken = '18d30e81461b07c9af52.kzaQbLRL6TpPiIN3YnvIkZVV8jwKsm7KJzgALgKDarA.6Wb0WOY72X93x9RDCTP99rg-tWxb1AGJcnxnW267D9v6etIFzT3RdAbGxg';
                     window.salesChannelId = '0cb0024164614b6294ee03320d7f6070';
                 </script>
             
