@@ -13,7 +13,7 @@ then
     exit
 fi
 
-mkdir -p "../aspirations/en" "../contextes/en" "../dumps/en" "../concordancier/en" "../bigrammes/en" "../robots/en"
+mkdir -p "../aspirations/en" "../contextes/en" "../dumps/en" "../concordancier/en" "../bigrammes/en" "../robots/en" "../wordclouds/en"
 
 
 echo -e "<html>
@@ -52,19 +52,22 @@ do
     echo "URL invalide : $LINE" >&2
     fi
 
-
+    #aspiration
     #ASPIRATIONS=$(lynx -source "$LINE" 2>/dev/null) #attention_à_bien_mettre_un_espace_devant_le_2
     #echo -E "$ASPIRATIONS" >> "../aspirations/en/en-aspiration-$nbr_lignes.txt"
     lynx -source "$LINE" 2>/dev/null >> "../aspirations/en/en-aspiration-$nbr_lignes.txt"
 
-
+    #Contexte
     CONTEXTES=$(lynx -dump -nolist "$LINE" 2>/dev/null | grep -E -C3 -i "fantasy")
     echo -E "$CONTEXTES" >> "../contextes/en/en-contextes-$nbr_lignes.txt"
 
+    #Dump
     #DUMP=$(lynx -dump -nolist "$LINE" 2>/dev/null)
     #echo -E "$DUMP" >> "../dumps/en/en-dump-$nbr_lignes.txt"
     lynx -dump -nolist "$LINE" 2>/dev/null >> "../dumps/en/en-dump-$nbr_lignes.txt"
 
+
+    #Bigrammes
     cat "../dumps/en/en-dump-$nbr_lignes.txt" \
     | tr -cs '[:alpha:]' '\n' \
     | tr 'A-Z' 'a-z' \
@@ -78,6 +81,7 @@ do
     "../bigrammes/en/en-bigrammes-$nbr_lignes.txt" \
     > "../bigrammes/en/en-bigrammes-fantasy-$nbr_lignes.txt"
 
+    #Concordancier
     CONCORDANCIER="../concordancier/en/en-concordancier-$nbr_lignes.html"
 
     echo "<html><head><meta charset='UTF-8'>
@@ -111,7 +115,7 @@ do
     echo "</table></body></html>" >> "$CONCORDANCIER"
 
 
-
+    #Infos curl
     INFOS_CURL=$(curl -i -L -s "$LINE")
     HTTP_REP=$(echo "$INFOS_CURL" | head -n 1 | tr -d '\r')
 
@@ -119,6 +123,7 @@ do
 	HTTP_REP="N/A";#si c'est vide
 	fi
 
+    #compte des mots
 	MOTS=$(wc -w < "../aspirations/en/en-aspiration-$nbr_lignes.txt")
 
 
