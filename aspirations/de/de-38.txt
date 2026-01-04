@@ -396,12 +396,12 @@ Ich lerne jeden Tag, mich von diesen Vorstellungen loszusagen und mehr und mehr 
 <p><strong>[Links]</strong><br />
 Hier ein Link von <a href="https://mama-minimalista.com/2017/10/11/lebt-wohl-ihr-suessen-babyschuhe/" target="_blank" rel="noopener">mama-minimalista</a>, den ich kurz darauf las und der mich zwar gleichsam etwas traurig stimmte, aber den ganzen Prozess sehr gut wiedergibt.</p>
 <p>Und einen sehr amüsanten Artikel von Herr Hund habe ich vor kurzem gelesen, der davon träumt <a href="https://hundstrueffel.wordpress.com/2017/10/13/laternenpfahlman/" target="_blank" rel="noopener">Laternenpfahlman</a> zu sein.</p>
-<div id="atatags-370373-695aba75cd3d9">
+<div id="atatags-370373-695acea4e7b46">
 		<script type="text/javascript">
 			__ATA = window.__ATA || {};
 			__ATA.cmd = window.__ATA.cmd || [];
 			__ATA.cmd.push(function() {
-				__ATA.initVideoSlot('atatags-370373-695aba75cd3d9', {
+				__ATA.initVideoSlot('atatags-370373-695acea4e7b46', {
 					sectionId: '370373',
 					format: 'inread'
 				});
@@ -425,7 +425,7 @@ Hier ein Link von <a href="https://mama-minimalista.com/2017/10/11/lebt-wohl-ihr
 				>
 				<span id="sharing-facebook-3685" hidden>Klick, um auf Facebook zu teilen (Wird in neuem Fenster geöffnet)</span>
 				<span>Facebook</span>
-			</a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-107282945-3685-695aba75cdc2a' data-src='//widgets.wp.com/likes/index.html?ver=20260104#blog_id=107282945&amp;post_id=3685&amp;origin=hinterhand.wordpress.com&amp;obj_id=107282945-3685-695aba75cdc2a' data-name='like-post-frame-107282945-3685-695aba75cdc2a' data-title='Liken oder rebloggen'><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Gefällt mir</span></span> <span class='loading'>Wird geladen …</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+			</a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-107282945-3685-695acea4e8030' data-src='//widgets.wp.com/likes/index.html?ver=20260104#blog_id=107282945&amp;post_id=3685&amp;origin=hinterhand.wordpress.com&amp;obj_id=107282945-3685-695acea4e8030' data-name='like-post-frame-107282945-3685-695acea4e8030' data-title='Liken oder rebloggen'><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Gefällt mir</span></span> <span class='loading'>Wird geladen …</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
 <div id='jp-relatedposts' class='jp-relatedposts' >
 	<h3 class="jp-relatedposts-headline"><em>Ähnliche Beiträge</em></h3>
 </div></div>			</div><!-- .entry-content -->
@@ -513,7 +513,7 @@ Namika</p>
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
 
 			<input type="hidden" name="highlander_comment_nonce" id="highlander_comment_nonce" value="804221fea4" />
-			<input type="hidden" name="verbum_show_subscription_modal" value="" /></div><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="4ad70c84e1" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="194"/><script type="text/javascript">
+			<input type="hidden" name="verbum_show_subscription_modal" value="" /></div><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="4ad70c84e1" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="125"/><script type="text/javascript">
 /* <![CDATA[ */
 document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
 /* ]]> */
@@ -1563,7 +1563,7 @@ _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'107282945','blog_tz':'1','user_lang':'de','blog_lang':'de','user_id':'0'}]);
 		// Prevent sending pageview tracking from WP-Admin pages.
 		_stq.push(['view', {'blog':'107282945','v':'wpcom','tz':'1','user_id':'0','post':'3685','subd':'hinterhand'}]);
-		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRZS03JixUXy5Sc1NlcUZteXlfNHhuQS9QS01oblYzRFkuPz94WThsZlk5X2VOQ19HUytKUD9EUEUwW2s3cEhSSExfNHFMajN0aXo3WkdXZ1pTLVZyUSs2RC1IeFVpREh4Ulo/QzFob3g3aFt4NEZ0Vm5IODl4L1ZITis5cVpzTTJoL213UkM0elB0Y25SNkh0PXk5cSYxWE4lVyxCRHM5WmJvJWsrNUNGRlpWZFc4VVBDXzFaZSVPUjF5aXE4T1gzVGNXbjk1MkZoV35Ma2xjYlFQJVN+LW4tcGFOa0NRXXQxWEJLJSw/R0VhbiwzQ3FIVEV3NGp2a2ZjUFVaM1ViNldSa2lETWVsJXwuclpxJnYrNGtDT35ZMGVSVi1GfDdGdjVZeH45bX5JeSVXP1EwLDA4UEVlNj9FMSxbM1pTSnYtZEpHQS4vXz95TVB8dnI9T3xQQndYUWNRZUZVPUI='}]);
+		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRZS03JixUXy5Sc1NlcUZteXlfNHhuQS9QS01oblYzRFkuPz94WThsZlk5X2VOQ19HUytKUD9EUEUwW2s3cEhSSExfNHFMajN0aXo3WkdXZ1pTLVZyUSs2RC1IeFVpREh4Ulo/QzFob3g3aFt4NEZ0Vm5IODl4L1ZITis5cVpzTTJoL213UkM0elB0Y25SNkh0PXk5cSYxWE4lVyxCRHM5WmJvJWsrNUNGRlpWTF9ldz1UZyxFdzR6VlZHWEs1T3JjNzRnMlQ1TFctdU52fC1aTHhVX2lQKzY0STBEfGtOU011S3Z0d080UHwyYUFPWEdlTGdxcHxKQW1OWU1lUWVCWEpLd2tiVkY9YTZYWD13ZzE/YitWXUpmMy1NcUEtMnxjWS9QZE9xPWcvclBpYVBqdVV8am15bmZdX29HSm4sK3lQOFB1LXVjZjhlYmdLUFJvM3Njc3A0NjlMT1l8NQ=='}]);
 _stq.push([ 'clickTrackerInit', '107282945', '3685' ]);
 </script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>

@@ -386,47 +386,41 @@ $(function () {$('#imStickyBar_imMenuObject_03_container ul li').not('.imMnMnSep
 							<div class="imBlogBlock" id="imBlogBlock3" >
 								<div class="imBlogBlockTitle">Clouds</div>
 								<div class="imBlogBlockContent">
-									<span class="imBlogCloudItem" style="font-size: 1.00em;">
-				<a href="?category=Partnerschaft" style="font-size: 1.00em;">Partnerschaft</a>
+									<span class="imBlogCloudItem" style="font-size: 1.14em;">
+				<a href="?category=Eindr%C3%BCcke" style="font-size: 1.14em;">Eindrücke</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.20em;">
+				<a href="?category=Leben" style="font-size: 1.20em;">Leben</a>
 			</span>
 			<span class="imBlogCloudItem" style="font-size: 0.98em;">
 				<a href="?category=Kreativ_mit_Kindern" style="font-size: 0.98em;">Kreativ mit Kindern</a>
-			</span>
-			<span class="imBlogCloudItem" style="font-size: 1.09em;">
-				<a href="?category=Achtsamkeit" style="font-size: 1.09em;">Achtsamkeit</a>
-			</span>
-			<span class="imBlogCloudItem" style="font-size: 1.14em;">
-				<a href="?category=Eindr%C3%BCcke" style="font-size: 1.14em;">Eindrücke</a>
-			</span>
-			<span class="imBlogCloudItem" style="font-size: 0.98em;">
-				<a href="?category=Bastelideen" style="font-size: 0.98em;">Bastelideen</a>
-			</span>
-			<span class="imBlogCloudItem" style="font-size: 0.98em;">
-				<a href="?category=Schwangerschaft" style="font-size: 0.98em;">Schwangerschaft</a>
-			</span>
-			<span class="imBlogCloudItem" style="font-size: 1.14em;">
-				<a href="?category=Gesundheit" style="font-size: 1.14em;">Gesundheit</a>
-			</span>
-			<span class="imBlogCloudItem" style="font-size: 1.03em;">
-				<a href="?category=1._Lebensjahr" style="font-size: 1.03em;">1. Lebensjahr</a>
-			</span>
-			<span class="imBlogCloudItem" style="font-size: 0.98em;">
-				<a href="?category=Kinderschlaf" style="font-size: 0.98em;">Kinderschlaf</a>
 			</span>
 			<span class="imBlogCloudItem" style="font-size: 0.98em;">
 				<a href="?category=Schulkind" style="font-size: 0.98em;">Schulkind</a>
 			</span>
 			<span class="imBlogCloudItem" style="font-size: 1.03em;">
-				<a href="?category=Rezepte" style="font-size: 1.03em;">Rezepte</a>
+				<a href="?category=1._Lebensjahr" style="font-size: 1.03em;">1. Lebensjahr</a>
 			</span>
-			<span class="imBlogCloudItem" style="font-size: 1.06em;">
-				<a href="?category=Erziehung" style="font-size: 1.06em;">Erziehung</a>
+			<span class="imBlogCloudItem" style="font-size: 1.14em;">
+				<a href="?category=Gesundheit" style="font-size: 1.14em;">Gesundheit</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 0.98em;">
+				<a href="?category=Lernen" style="font-size: 0.98em;">Lernen</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.00em;">
+				<a href="?category=Partnerschaft" style="font-size: 1.00em;">Partnerschaft</a>
 			</span>
 			<span class="imBlogCloudItem" style="font-size: 1.03em;">
 				<a href="?category=Aus_dem_Praxisalltag" style="font-size: 1.03em;">Aus dem Praxisalltag</a>
 			</span>
 			<span class="imBlogCloudItem" style="font-size: 0.98em;">
-				<a href="?category=Lernen" style="font-size: 0.98em;">Lernen</a>
+				<a href="?category=Kinderschlaf" style="font-size: 0.98em;">Kinderschlaf</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.09em;">
+				<a href="?category=Achtsamkeit" style="font-size: 1.09em;">Achtsamkeit</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.06em;">
+				<a href="?category=Erziehung" style="font-size: 1.06em;">Erziehung</a>
 			</span>
 			<span class="imBlogCloudItem" style="font-size: 1.25em;">
 				<a href="?category=Familienleben" style="font-size: 1.25em;">Familienleben</a>
@@ -434,8 +428,14 @@ $(function () {$('#imStickyBar_imMenuObject_03_container ul li').not('.imMnMnSep
 			<span class="imBlogCloudItem" style="font-size: 1.03em;">
 				<a href="?category=Download" style="font-size: 1.03em;">Download</a>
 			</span>
-			<span class="imBlogCloudItem" style="font-size: 1.20em;">
-				<a href="?category=Leben" style="font-size: 1.20em;">Leben</a>
+			<span class="imBlogCloudItem" style="font-size: 0.98em;">
+				<a href="?category=Bastelideen" style="font-size: 0.98em;">Bastelideen</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.03em;">
+				<a href="?category=Rezepte" style="font-size: 1.03em;">Rezepte</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 0.98em;">
+				<a href="?category=Schwangerschaft" style="font-size: 0.98em;">Schwangerschaft</a>
 			</span>
 								</div>
 							</div>

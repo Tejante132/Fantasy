@@ -85,10 +85,16 @@ do
 
 	
 	### BIGRAMMES
-	cat "./dumps/pt/dump$NB_LIGNES.txt" | tr -cs '[:alpha:]' '\n' | tr 'A-Z' 'a-z' | paste -d' ' - - | sort | uniq -c | sort -nr >> "./bigrammes/pt/pt-bigrammes-$NB_LIGNES.txt"
+    cat "../dumps/pt/dump-$NB_LIGNES.txt" \
+    | tr -cs '[:alpha:]' '\n' \
+    | tr 'A-Z' 'a-z' \
+    | paste -d' ' - - \
+    | sort \
+    | uniq -c \
+    | sort -nr > "../bigrammes/pt/pt-bigrammes-$NB_LIGNES.txt"
 
-	awk 'tolower($0) ~ /(^| )fantasia( |$)/' "./bigrammes/pt/pt-bigrammes-$NB_LIGNES.txt" >> "./bigrammes/pt/pt-bigrammes-fantasia-$NB_LIGNES.txt"
-	
+    awk 'tolower($0) ~ /(^| )fantasia( |$)/' \
+    "../bigrammes/pt/pt-bigrammes-$NB_LIGNES.txt" > "../bigrammes/pt/pt-bigrammes-fantasia-$NB_LIGNES.txt"
 
 	### CONCORDANCE
 	MAX_WORDS=15
@@ -145,7 +151,7 @@ do
 			<td><a href=\"../contextes/pt/contextes$NB_LIGNES.txt\">voir contextes</a></td>
 			<td><a href=\"../concordance/pt/concordancier$NB_LIGNES.html\">voir concordance</a></td>
 			<td><a href=\"../robots/pt/robot$NB_LIGNES.txt\">voir robots.txt</a></td>
-			<td><a href=\""../bigrammes/pt/pt-bigrammes-fantasia-$NB_LIGNES.txt"\">voir bigrammes</a></td>
+			<td><a href=\"../bigrammes/pt/pt-bigrammes-fantasia-$NB_LIGNES.txt\">voir bigrammes</a></td>
 		</tr>" >> "$FICHIER_SORTIE";
 
 	NB_LIGNES=$(expr $NB_LIGNES + 1);
@@ -163,5 +169,4 @@ echo -e "	</table>
 
 source ~/venvs/plurital/bin/activate
 cat ./dumps/pt/dump*.txt >> "./wordclouds/pt/all_dumps.txt"
-<<<<<<< HEAD
 wordcloud_cli --text ./wordclouds/pt/all_dumps.txt --stopwords ./wordclouds/pt/stopwords_pt.txt --mask ./wordclouds/pt/coq_de_barcelos.png --imagefile ./wordclouds/pt/wordcloud_pt.png

@@ -85,7 +85,7 @@ document.body.addEventListener('Base',function(){  (function (global) {
 
   
   <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="xWMqXU0hUvFmQ_Ur0Yqv4UbEWIWYa3X6DcBU2V3bWD3ws979q7GvSRdC7Rv8ucALmOaPoSV04ZM2LECjqZjzYA" />
+<meta name="csrf-token" content="C-qkCsdzMMJyOG5yLqj8GRG6TzUVq5VGTVcR7wiBVtPUMb4xvCbypWggRuP_CVWw4iJxVklXrkOR30A49kmjGQ" />
   <meta name="generator" content="JustRelate CX Cloud (www.justrelate.com)" />
   
   

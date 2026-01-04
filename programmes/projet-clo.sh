@@ -38,7 +38,8 @@ echo -e "
 	<link
 	rel='stylesheet'
 	href='https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/versions/bulma-no-dark-mode.min.css'>
-	<title>Tableau d'URLs</title>
+	<title>Tableau $MOT ($LG)</title>
+    <link rel="icon" type="image/x-icon" href="assets/magic-wand.ico">
 	<meta charset='UTF-8' />
 </head>"> ${fichier}
 
@@ -49,7 +50,7 @@ echo -e "
 		<br />
         <div class='columns is-vcentered'>
             <div class='column'>
-                <h1 class='title is-1 is-1-desktop is-2-tablet is-6-mobile has-text-centered has-text-warning'><i>Fantasy</i></h1>
+                <h1 class='title is-1 is-1-desktop is-2-tablet is-6-mobile has-text-centered has-text-warning is-family-monospace'><i>🪄Fantasy</i></h1>
             </div>
             <div class='column'><h1 class='title is-1 is-1-desktop is-2-tablet is-6-mobile has-text-centered has-text-link-light'>Projet de PPE</h1></div>
         </div>  
@@ -58,7 +59,7 @@ echo -e "
 
 		<div class='container has-background-white'>
 			<section class='section column'>
-				<h3 class='title is-3 has-text-centered has-background-link-light'>Informations sur les sites webs</h3>
+				<h3 class='title is-3 has-text-centered has-background-link-light'>Analyses par site pour $MOT ($LG)</h3>
 			</section>
 
 			<div class='table-container'> 
@@ -136,10 +137,10 @@ do
 					<td class='${STYLE_HTTP}'>${CODE_HTTP}</td>
 					<td class='${STYLE_ENC}'>${ENCODING}</td>
 					<td class='${STYLE_NB}'>${NB_MOTS}</td>
-					<td><a href='../${FICHIER_ASPIRATION}'>lien vers l'aspiration</a></td>
-					<td><a href='../${FICHIER_DUMP}'>lien vers le dump</a></td>
+					<td><a href='../${FICHIER_ASPIRATION}'>aspiration</a></td>
+					<td><a href='../${FICHIER_DUMP}'>dump</a></td>
 					<td class='${STYLE_NB}'>${NB_OCCURRENCES}</td>
-					<td><a href='../${FICHIER_CONTEXTES_COLOR}'>lien contextes couleur (html)</a><br /><br /><a href='../${FICHIER_CONTEXTES}'>lien contextes (txt)</a></td>
+					<td><a href='../${FICHIER_CONTEXTES_COLOR}'>contexte (couleurs)</a><br /><a href='../${FICHIER_CONTEXTES}'>contexte (txt)</a></td>
 				</tr>" >> ${fichier}
 
 done < ${URLS};

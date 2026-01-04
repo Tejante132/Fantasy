@@ -70,24 +70,31 @@ FICHIER_CONCORDANCIER="concordancier/de/de-$1.html"
 # > "$FICHIER_CONCORDANCIER"
 
 FICHIER_CONTEXTES="contextes/de/de-$1.txt"
-cat "$FICHIER_CONTEXTES"
+# cat "$FICHIER_CONTEXTES"
 
 # Tokenise le fichier : un mot par ligne, avec une ligne vide entre les phrases
 # Gère les diacrités et conserve la ponctuation attachée aux mots (ex: "canapé," devient "canapé" sur une ligne et "," sur une autre)
 # Utilise LC_ALL pour gérer correctement les caractères UTF-8
-export LC_ALL=fr_FR.UTF-8
+# export LC_ALL=fr_FR.UTF-8
 
 # Tokenisation : un mot par ligne, avec une ligne vide entre les phrases
 # 1. Remplace les ponctuations de fin de phrase par un saut de ligne
 # 2. Remplace les espaces/tabs par des sauts de ligne
 # 3. Nettoie les lignes vides inutiles
 # 4. Ajoute une ligne vide après chaque ponctuation de fin de phrase
-TOKENS=$(sed -e 's/\([.!?;]\)/\1\n/g' "$FICHIER_CONTEXTES" \
-  | sed -e 's/\([[:alpha:][:blank:]\'\''àâäãåçéèêëíîïñóôöõúûüýÿæœÀÂÄÃÅÇÉÈÊËÍÎÏÑÓÔÖÕÚÛÜÝŸÆŒß-]\+\)/\1\n/g' \
-  | tr -s '[:space:]' '\n' \
-  | grep -v '^$' \
-  | sed -e '/^[.!?;]$/a\'
-)
+
+# TOKENS=$(sed -e 's/\([.!?;sed]\)/\1\n/g' "$FICHIER_CONTEXTES" \
+#   | sed -e 's/\([[:alpha:][:blank:]\'\''àâäãåçéèêëíîïñóôöõúûüýÿæœÀÂÄÃÅÇÉÈÊËÍÎÏÑÓÔÖÕÚÛÜÝŸÆŒß-]\+\)/\1\n/g' \
+#   | tr -s '[:space:]' '\n' \
+#   | grep -v '^$' \
+#   | sed -e '/^[.!?;]$/a\'
+# )
+
+
+TOKENS=$(cat "$FICHIER_CONTEXTES" | tr -cs '[:alpha:]àâäãåçéèêëíîïñóôöõúûüýÿæœÀÂÄÃÅÇÉÈÊËÍÎÏÑÓÔÖÕÚÛÜÝŸÆŒß-]' '\n')
+# | tr 'A-Z' 'a-z') # tous les bigrammes
+
+
 
 echo "$TOKENS"
 

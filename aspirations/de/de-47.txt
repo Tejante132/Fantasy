@@ -275,8 +275,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695ac8db4746c">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8db4746c" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ada299cd98">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ada299cd98" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -377,8 +377,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695ac8db4db80">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8db4db80" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ada29a3c47">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ada29a3c47" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -421,8 +421,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695ac8db53ca5">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8db53ca5" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ada29aa0aa">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ada29aa0aa" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -961,7 +961,7 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
                   <div class="similarArticleWrap">
                     <div class="articleHeadliner">
                       
-<div class="articleWrap" data-uid="41321" data-publication-date="1625728500">
+<div class="articleWrap" data-uid="40316" data-publication-date="1581152580">
   
   <div class="articleTextWrap">
     
@@ -970,23 +970,21 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
   
   
       <span>
-        <a href="/serien/psychologie-nach-zahlen.html">
-          Psychologie nach Zahlen
-        </a>
+        <a href="/gesundheit.html">Gesundheit</a>
       </span>
     
   
 </div>
 
     <div class="articleTitle">
-      <a href="/gesundheit/artikel-detailansicht/41321-woran-hats-gelegen.html" title="Woran hat’s gelegen?">
-        Woran hat’s gelegen?
+      <a href="/gesundheit/artikel-detailansicht/40316-schizophrenie-neu-denken.html" title="Schizophrenie neu denken">
+        Schizophrenie neu denken
       </a>
     </div>
     
         
           <div class="articleDescription">
-            Psychologie nach Zahlen: 6 Faktoren, die über Erfolg oder Scheitern einer Psychotherapie mitbestimmen.
+            Christopher Bollas versucht, die Gedankenlogik seiner Patienten zu entschlüsseln und fordert wirksamere Behandlungen.
           </div>
         
       
@@ -1034,8 +1032,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
 <div class="advertisementWrap">
   <div class="advertisementBoxWrap
           
-          advertisementInternalWrap
           
+          advertisementExternalWrap
           
           
           advertisementFullsize
@@ -1046,9 +1044,9 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
       
   <div class="articleWrap">
     <div class="articleImage">
-      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung intern','Stehsammler'))" target="_self" href="https://www.psychologie-heute.de/abo-shop/detailseite/40599-sammelschuber-psychologie-heute.html">
+      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung extern','People Pleasing'))" target="_blank" href="https://www.beltz.de/sachbuch_ratgeber/produkte/details/50913-people-pleasing.html">
         
-          <img class="img-responsive" alt="Stehsammler" src="/fileadmin/user_upload/720x1120_PH_Sammelschuber_FINAL.jpg" width="720" height="1120" />
+          <img class="img-responsive" alt="People Pleasing" src="/fileadmin/user_upload/Beltz_04.10.2023.jpg" width="360" height="560" />
         
       </a>
     </div>

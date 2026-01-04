@@ -275,8 +275,8 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695ac8b71c7e0">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8b71c7e0" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ada012ee6a">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ada012ee6a" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -377,8 +377,8 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695ac8b722d46">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8b722d46" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ada013504f">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ada013504f" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -421,8 +421,8 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695ac8b7260d9">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8b7260d9" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ada013ad68">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ada013ad68" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -1003,7 +1003,7 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
                   <div class="similarArticleWrap">
                     <div class="articleHeadliner">
                       
-<div class="articleWrap" data-uid="41627" data-publication-date="1638524700">
+<div class="articleWrap" data-uid="42533" data-publication-date="1679324400">
   
   <div class="articleTextWrap">
     
@@ -1012,23 +1012,21 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
   
   
       <span>
-        <a href="/serien/buch-kritik.html">
-          Buch &amp; Kritik
-        </a>
+        <a href="/gesellschaft.html">Gesellschaft</a>
       </span>
     
   
 </div>
 
     <div class="articleTitle">
-      <a href="/gesellschaft/artikel-detailansicht/41627-ist-feminismus-nur-noch-ein-werbelabel.html" title="Ist Feminismus nur noch ein Werbelabel?">
-        Ist Feminismus nur noch ein Werbelabel?
+      <a href="/gesellschaft/artikel-detailansicht/42533-kunst-fuer-die-psyche-eine-neue-ordnung-gestalten.html" title="Kunst für die Psyche: „Eine neue Ordnung gestalten“">
+        Kunst für die Psyche: „Eine neue Ordnung gestalten“
       </a>
     </div>
     
         
           <div class="articleDescription">
-            Einst war der Feminismus eine politische Bewegung. Warum er nun zu einem profitablen Werbelabel verkommen ist, erklärt Beate Hausbichler im Interview.
+            Welchen Stellenwert hat Kunst für psychisch kranke Menschen? Ein Gespräch über die Sammlung Prinzhorn, die Kunst von Psychiatrie-Patienten zeigt.
           </div>
         
       
