@@ -1,0 +1,24 @@
+User-agent: PetalBot
+User-agent: AspiegelBot
+User-agent: AhrefsBot
+User-agent: SemrushBot 
+User-agent: DotBot
+User-agent: MauiBot
+User-agent: MJ12bot
+Disallow: /community/
+
+User-agent: Amazonbot
+Disallow: /community/threads/*/reply
+
+User-agent: *
+Disallow: /community/whats-new/
+Disallow: /community/account/
+Disallow: /community/attachments/
+Disallow: /community/goto/
+Disallow: /community/posts/
+Disallow: /community/login/
+Disallow: /community/search/
+Disallow: /community/admin.php
+Allow: /
+
+Sitemap: https://vi-control.net/community/sitemap.xml

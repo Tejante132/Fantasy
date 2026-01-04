@@ -14,3 +14,11 @@
    Reference #18.1aef1602.1767386213.b7f8579
 
    https://errors.edgesuite.net/18.1aef1602.1767386213.b7f8579
+                                 Access Denied
+
+   You don't have permission to access
+   "http://www.draftkings.com/fantasy-football" on this server.
+
+   Reference #18.1aef1602.1767477870.ccd072b
+
+   https://errors.edgesuite.net/18.1aef1602.1767477870.ccd072b

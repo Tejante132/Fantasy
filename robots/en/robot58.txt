@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://fantasy.co/sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /_nuxt/
+Disallow: /api/ 

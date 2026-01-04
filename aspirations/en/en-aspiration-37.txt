@@ -2810,3 +2810,1409 @@ Album: <a href="https://soundcloud.com/catchthethrone/7-fire-snow-tha-product"ta
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+  <meta charset="utf-8" />
+<meta name="title" content="Music and Fantasy in Perfect Harmony | Fantasy - BnF" />
+<link rel="canonical" href="https://fantasy.bnf.fr/en/understand/music-and-fantasy-perfect-harmony" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="In films or novels, music accompanies fantasy everywhere. Many composers, in turn, have immersed themselves in the genre, from film music to rock, rap and metal.
+ #Fantasy #fantasybnf" />
+<meta name="twitter:site" content="@laBnF" />
+<meta name="twitter:title" content="Music and Fantasy in Perfect Harmony | Fantasy - BnF" />
+<meta property="og:type" content="website" />
+<meta name="description" content="In films or novels, music accompanies fantasy everywhere. Many composers, in turn, have immersed themselves in the genre, from film music to rock, rap and metal." />
+<meta property="og:url" content="https://fantasy.bnf.fr/en/understand/music-and-fantasy-perfect-harmony" />
+<meta property="og:title" content="Music and Fantasy in Perfect Harmony | Fantasy - BnF" />
+<link rel="image_src" href="https://fantasy.bnf.fr/themes/custom/fantasy/images/fantasy_metaimage_en.jpg" />
+<meta name="twitter:creator" content="@laBnF" />
+<meta name="twitter:creator:id" content="@laBnF" />
+<meta property="og:description" content="In films or novels, music accompanies fantasy everywhere. Many composers, in turn, have immersed themselves in the genre, from film music to rock, rap and metal." />
+<meta name="twitter:url" content="https://fantasy.bnf.fr/en/understand/music-and-fantasy-perfect-harmony" />
+<meta name="twitter:image" content="https://fantasy.bnf.fr/themes/custom/fantasy/images/fantasy_metaimage_en.jpg" />
+<meta property="og:image" content="https://fantasy.bnf.fr/themes/custom/fantasy/images/fantasy_metaimage_en.jpg" />
+<meta property="og:image:url" content="https://fantasy.bnf.fr/themes/custom/fantasy/images/fantasy_metaimage_en.jpg" />
+<meta property="og:image:secure_url" content="https://fantasy.bnf.fr/themes/custom/fantasy/images/fantasy_metaimage_en.jpg" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/sites/default/files/favicon_bnf_fantasy.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="fr" href="https://fantasy.bnf.fr/fr/comprendre/musique-et-fantasy-un-accord-parfait" />
+<link rel="alternate" hreflang="en" href="https://fantasy.bnf.fr/en/understand/music-and-fantasy-perfect-harmony" />
+<link rel="revision" href="https://fantasy.bnf.fr/en/understand/music-and-fantasy-perfect-harmony" />
+
+  <title>Music and Fantasy in Perfect Harmony | Fantasy - BnF</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre:300,400,500,700,900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" media="all" href="/sites/default/files/css/css_sg61faWbIt1iPY9tbHlmCAvn_3OS72UNn5PI5U30GdY.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_chHrMu_jG_gNHiOaqb6SYHDUn7l-duZvWgN6Xk3JgKc.css" />
+
+  
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+  <script src="https://multimedia-ext.bnf.fr/smarttag.js"></script>
+</head>
+<body class="is-d user-is-anonymous layout-no-sidebars">
+
+<a href="#main-content" class="visually-hidden focusable">
+  Skip to main content
+</a>
+
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+
+  <div class="ct-preloader" style="background-image:url('/themes/custom/fantasy/images/bg-preloader.jpg');">
+
+    <div class="preloader">
+      <span>0</span>%
+
+      <div class="preloader-line"></div>
+    </div>
+  </div>
+
+  
+  
+  <div class="page-content">
+    
+    <div class="visually-hidden"><a id="main-content" tabindex="-1"></a></div>
+      <div class="region region-content">
+    <div id="block-fantasy-content--2" class="block block-system block-system-main-block">
+  
+    
+      <article data-history-node-id="115" role="article" about="/en/understand/music-and-fantasy-perfect-harmony" class="node node-full node-unpublished rub-container page-folder page-comprendre">
+<div data-type="rub" class="rub-5">
+    <!-- Fond page -->
+    <div class="rub-bg"></div>
+    
+            <nav class="nav-top clearfix">
+    <div class="container">
+                <ul class="nav-top-menu">
+                                                <li><a href="https://fantasy.bnf.fr/en/play">Play</a></li>
+                                                                <li><a href="/en/explore">Explore</a></li>
+                                                                <li class="active" ><a href="/en/understand">Understand</a></li>
+                                                                </ul>
+            </div>
+    <div class="logo nav-logo">
+        <a href="https://www.bnf.fr/fr" target="_blank">
+            <img src="/themes/custom/fantasy/images/logo-bnf.svg" alt="BnF" />
+        </a>
+        <a href="/en">
+            <img src="/themes/custom/fantasy/images/logo-fantasy.svg" alt="Fantasy" />
+        </a>
+    </div>
+            <div class="lang-switch desktop">
+            <ul>
+                                    <li class=""><a href="/fr/comprendre/musique-et-fantasy-un-accord-parfait">fr</a></li>
+                                    <li class="active"><a href="/en/understand/music-and-fantasy-perfect-harmony">en</a></li>
+                            </ul>
+        </div>
+        <a href="#" class="burger-menu">
+    <span></span>
+    <span></span>
+    <span></span>
+    </a>
+    <div class="nav-megamenu">
+        <div class="ct-megamenu">
+            <div class="megamenu-wrap">
+                <div class="megamenu-logo">
+                    <div class="container">
+                        
+                                                    <a href="/en" class="megamenu-logo-inner">
+                                <img src="/themes/custom/fantasy/images/logo-white-en.svg" alt="Fantasy - A Once and Future Genre" />
+                            </a>
+                                            </div>
+                </div>
+                <div class="megamenu-inner">
+                    <div class="container">
+                        <div class="megamenu-flex">
+                                                                                                                                                                <div class="col-md-5 col-md-offset-1">
+                                        <div class="megamenu-item jouer">
+                                            <h2 class="megamenu-title">
+                                                <a href="https://fantasy.bnf.fr/en/play">Play</a>
+                                                <div class="clearfix"></div>
+                                                <div class="ornement-1"></div>
+                                                <div class="separator">
+                                                    <div class="separator-elt"></div>
+                                                </div>
+                                            </h2>
+                                            <div class="megamenu-niv">
+                                                <div class="megamenu-img"><img src="/themes/custom/fantasy/images/first-screen-jeu.jpg" alt="" /></div>
+                                                <div>
+                                                    Discover the wonderful Kingdom of Istyald! Meet strange creatures, unravel the mysteries of this world, and save the Tree of Knowledge, the original source of wisdom.
+                                                    <a href="https://fantasy.bnf.fr/en/play" class="cta yellow">Play</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                                                                                    <div class="col-lg-3 col-md-4 col-md-offset-1">
+                                        <div class="megamenu-item comprendre">
+                                                                                            <h2 class="megamenu-title">
+                                                    <a href="/en/understand">Understand</a>
+                                                    <div class="clearfix"></div>
+                                                    <div class="ornement-1"></div>
+                                                    <div class="separator">
+                                                        <div class="separator-elt"></div>
+                                                    </div>
+                                                </h2>
+                                                                                        <div class="megamenu-niv niv-2">
+                                                <a class="megamenu-back" href="#" data-backniv="2">Home</a>
+                                                <h3 class="megamenu-niv-title container">
+                                                    Understand
+                                                    <div class="separator">
+                                                        <div class="separator-elt"></div>
+                                                    </div>
+                                                </h3>
+                                                                                                <ul>
+                                                                                                        <li>
+                                                        <a href="/en/understand#sources-and-influences" data-niv="2">Sources and Influences</a>
+                                                        <div class="megamenu-niv niv-3">
+                                                            <a class="megamenu-back" href="#" data-backniv="3">Understand</a>
+                                                            <h4 class="megamenu-niv-title container">
+                                                                Sources and Influences
+                                                                <div class="separator">
+                                                                    <div class="separator-elt"></div>
+                                                                </div>
+                                                            </h4>
+                                                                                                                        <ul>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Ancient Myths and Epics</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Sources and Influences</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Ancient Myths and Epics
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/ancient-greece-fantasy">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-11/1.1.1-d%C3%A9tour%C3%A9-gauche_1.png?itok=jqvDqK9G" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        From Ancient Greece to Fantasy
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Mythologies of Northern Europe</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Sources and Influences</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Mythologies of Northern Europe
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/when-far-north-inspires-fantasy">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-11/1.1.2-d%C3%A9tour%C3%A9-gauche_0.png?itok=gDlM0Nu4" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        When the Far North Inspires Fantasy
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Medieval Magic</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Sources and Influences</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Medieval Magic
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/medieval-literature-and-fantasy-wondrous-story">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-11/1.1.3-d%C3%A9tour%C3%A9-droite_4.png?itok=LJxkANPk" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        Medieval Literature and Fantasy: A Wondrous Story
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Tales</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Sources and Influences</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Tales
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/fairy-tales-fantasy-anatomy-lineage">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-11/1.1.4-d%C3%A9tour%C3%A9-gauche_4.png?itok=JoPphBVJ" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        From Fairy Tales to Fantasy: Anatomy of A Lineage
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Criticism of the Modern World</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Sources and Influences</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Criticism of the Modern World
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/travel-long-ago-and-far-away">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-11/01.%20LANCELOT%20PRENANT%20LA%20DOULOUREUSE%20GARDE-GARDE%20GAUCHE_0.png?itok=u9OEswvh" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        Travel to Long Ago and Far Away
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                            </ul>
+                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/en/understand#themes-and-motifs" data-niv="2">Themes and Motifs</a>
+                                                        <div class="megamenu-niv niv-3">
+                                                            <a class="megamenu-back" href="#" data-backniv="3">Understand</a>
+                                                            <h4 class="megamenu-niv-title container">
+                                                                Themes and Motifs
+                                                                <div class="separator">
+                                                                    <div class="separator-elt"></div>
+                                                                </div>
+                                                            </h4>
+                                                                                                                        <ul>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Heroes, Quests and Monsters</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Themes and Motifs</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Heroes, Quests and Monsters
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/heroes-forged-their-quests">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-11/pas_2135_0.png?itok=-52m2sZV" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        Heroes Forged by Their Quests
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Building an Imaginary World</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Themes and Motifs</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Building an Imaginary World
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/inventing-imaginary-worlds">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-11/1.2.2-d%C3%A9tour%C3%A9-droite_0.png?itok=fRCF78aE" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                         Inventing Imaginary Worlds
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">The Enchanted, the Supernatural and Magic</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Themes and Motifs</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            The Enchanted, the Supernatural and Magic
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/magic-heart-genre">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-11/1.2.3-d%C3%A9tour%C3%A9-gauche_2.png?itok=XQrVH2Mf" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        Magic at the Heart of the Genre
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">The Sacred, Spirituality and Religion</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Themes and Motifs</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            The Sacred, Spirituality and Religion
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/faith-and-religion-fantasy-societies">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-11/1.2.4-d%C3%A9tour%C3%A9-gauche_0.png?itok=Y6iS_nhi" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        Faith and Religion in Fantasy Societies
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                            </ul>
+                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/en/understand#history-genre" data-niv="2">History of the Genre</a>
+                                                        <div class="megamenu-niv niv-3">
+                                                            <a class="megamenu-back" href="#" data-backniv="3">Understand</a>
+                                                            <h4 class="megamenu-niv-title container">
+                                                                History of the Genre
+                                                                <div class="separator">
+                                                                    <div class="separator-elt"></div>
+                                                                </div>
+                                                            </h4>
+                                                                                                                        <ul>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">The Birth of Fantasy in Victorian England</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">History of the Genre</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            The Birth of Fantasy in Victorian England
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/victorian-england-birthplace-fantasy">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-11/3.1.1-gauche.png?itok=WtvS4Kd1" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        Victorian England: Birthplace of Fantasy
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Tolkien and the Inklings</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">History of the Genre</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Tolkien and the Inklings
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/inklings-rebirth-english-fantasy">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-11/11.1.3%20gauche.png?itok=fFQCADqZ" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        The Inklings: The Rebirth of English Fantasy
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Fantasy in the United States</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">History of the Genre</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Fantasy in the United States
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/fantasy-crosses-atlantic">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-11/12.1.1d%C3%A9tour%C3%A9-gauche.png?itok=0inA4Yt5" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        Fantasy Crosses the Atlantic
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Modern-day Success</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">History of the Genre</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Modern-day Success
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/fantasy-dawn-21st-century">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-11/13.1.1-gauche.png?itok=IgSWQ6eP" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        Fantasy at the Dawn of the 21st Century
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                            </ul>
+                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/en/understand#childrens-literature" data-niv="2">Children's Literature</a>
+                                                        <div class="megamenu-niv niv-3">
+                                                            <a class="megamenu-back" href="#" data-backniv="3">Understand</a>
+                                                            <h4 class="megamenu-niv-title container">
+                                                                Children's Literature
+                                                                <div class="separator">
+                                                                    <div class="separator-elt"></div>
+                                                                </div>
+                                                            </h4>
+                                                                                                                        <ul>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Children's Fantasy - Another Story?</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Children's Literature</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Children's Fantasy - Another Story?
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/history-enchanted-tales-children">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-11/1.1.6%20gauche.png?itok=FHVDXQHC" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        The History of Enchanted Tales for Children
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Reading Across Generations</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Children's Literature</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Reading Across Generations
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/trans-generational-tales">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-12/15.1.1-gauche.png?itok=fBu67JOc" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        Trans-Generational Tales
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">From One World to Another</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Children's Literature</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            From One World to Another
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/doors-between-worlds">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-11/1.4.1.4-gauche.png?itok=R5nGEaSN" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        Doors Between Worlds
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                            </ul>
+                                                                                                                    </div>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/en/understand#adaptations-and-multimedia" data-niv="2">Adaptations and Multimedia</a>
+                                                        <div class="megamenu-niv niv-3">
+                                                            <a class="megamenu-back" href="#" data-backniv="3">Understand</a>
+                                                            <h4 class="megamenu-niv-title container">
+                                                                Adaptations and Multimedia
+                                                                <div class="separator">
+                                                                    <div class="separator-elt"></div>
+                                                                </div>
+                                                            </h4>
+                                                                                                                        <ul>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Illustration</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Adaptations and Multimedia</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Illustration
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/pre-raphaelites-comics-illustrating-imaginative">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-12/17.1.1-gauche_0.png?itok=eT7R24yQ" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        From the Pre-Raphaelites to the Comics: Illustrating the Imaginative
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Music</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Adaptations and Multimedia</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Music
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/music-and-fantasy-perfect-harmony">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2020-05/IFN-7910286-1_0.png?itok=FG1Dh_Zo" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        Music and Fantasy in Perfect Harmony
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Film</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Adaptations and Multimedia</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Film
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/fantasy-comes-life-big-screen">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-12/18.1.1-gauche_0.png?itok=v-iGrQuv" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        Fantasy Comes to Life on the Big Screen
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Television</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Adaptations and Multimedia</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Television
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/crossover-series">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-12/19.1.1-gauche.png?itok=tpWbPOQ1" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        Crossover Series
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Roleplaying</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Adaptations and Multimedia</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Roleplaying
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/role-playing-games-making-fantasy-real">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-12/20.1.1-gauche_1.png?itok=0-ORQXJW" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        Role-Playing Games: Making Fantasy Real
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <a href="/en/understand#" data-niv="3">Video Games</a>
+                                                                    <div class="megamenu-niv niv-4">
+                                                                        <a class="megamenu-back" href="#" data-backniv="4">Adaptations and Multimedia</a>
+                                                                        <h5 class="megamenu-niv-title container">
+                                                                            Video Games
+                                                                            <div class="separator">
+                                                                                <div class="separator-elt"></div>
+                                                                            </div>
+                                                                        </h5>
+                                                                                                                                                <ul class="list-articles">
+                                                                                                                                                        <li>
+                                                                                <a href="/en/understand/video-games-more-and-more-immersive">
+                                                                                                                                                                        <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_article_transmettre/public/field_media_image/2019-11/21.1.1%20gauche_0.png?itok=54Hv2Abw" alt="" />
+                                                                                                                                                                        <div>
+                                                                                        <div class="title-cat">in-depth</div>
+                                                                                        Video Games: More and More Immersive
+                                                                                    </div>
+                                                                                </a>
+                                                                            </li>
+                                                                                                                                                    </ul>
+                                                                                                                                            </div>
+                                                                </li>
+                                                                                                                            </ul>
+                                                                                                                    </div>
+                                                    </li>
+                                                                                                    </ul>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                                                                                    <div class="col-md-5 col-md-offset-1">
+                                        <div class="megamenu-item decouvrir">
+                                                                                            <h2 class="megamenu-title">
+                                                    <a href="/en/explore">Explore</a>
+                                                    <div class="clearfix"></div>
+                                                    <div class="ornement-1"></div>
+                                                    <div class="separator">
+                                                        <div class="separator-elt"></div>
+                                                    </div>
+                                                </h2>
+                                                                                        <div class="megamenu-niv niv-2">
+                                                <a class="megamenu-back" href="#" data-backniv="2">Home</a>
+                                                <h3 class="megamenu-niv-title container">
+                                                    Explore
+                                                    <div class="separator">
+                                                        <div class="separator-elt"></div>
+                                                    </div>
+                                                </h3>
+                                                                                                <ul class="list-articles">
+                                                                                                        <li>
+                                                        <a href="/en/explore/shaking-christian-legacy" data-niv="2">
+                                                                                                                        <div class="megamenu-img">
+                                                                <img src="https://fantasy.bnf.fr/sites/default/files/styles/home_decouvrir/public/field_media_image/2020-01/Sainte%20Marguerite%20%283%29.png?itok=1DcZ557c" alt="" />
+                                                            </div>
+                                                                                                                        <span>Shaking Up the Christian Legacy</span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/en/explore/advocating-defense-nature" data-niv="2">
+                                                                                                                        <div class="megamenu-img">
+                                                                <img src="https://fantasy.bnf.fr/sites/default/files/styles/home_decouvrir/public/field_media_image/2020-01/Yggdrasill_2_0.png?itok=kqSJWCX3" alt="" />
+                                                            </div>
+                                                                                                                        <span>Advocating for the Defense of Nature</span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/en/explore/when-women-take-power" data-niv="2">
+                                                                                                                        <div class="megamenu-img">
+                                                                <img src="https://fantasy.bnf.fr/sites/default/files/styles/home_decouvrir/public/field_media_image/2020-01/Brunnehilde_2.png?itok=fEpkEGG4" alt="" />
+                                                            </div>
+                                                                                                                        <span>When Women Take Power</span>
+                                                        </a>
+                                                    </li>
+                                                                                                    </ul>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                                                                                    <div class="col-lg-3 col-md-4 col-md-offset-1">
+                                        <div class="megamenu-item transmettre">
+                                                                                        <div class="megamenu-niv niv-2">
+                                                <a class="megamenu-back" href="#" data-backniv="2">Home</a>
+                                                <h3 class="megamenu-niv-title container">
+                                                    
+                                                    <div class="separator">
+                                                        <div class="separator-elt"></div>
+                                                    </div>
+                                                </h3>
+                                                                                                <ul>
+                                                                                                    </ul>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                                                
+                                                    </div>
+                        <div class="megamenu-footer-links">
+                                                            <nav role="navigation" aria-labelledby="block-headersnaven-menu" id="block-headersnaven" class="block block-menu navigation menu--headersnaven">
+            
+  <h2 class="visually-hidden" id="block-headersnaven-menu">headersnaven</h2>
+  
+
+        
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/en/terms-and-conditions-use" data-drupal-link-system-path="node/118">Terms and Conditions of Use</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/privacy-policy" data-drupal-link-system-path="node/119">Privacy Policy</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/legal-mentions-and-credits" data-drupal-link-system-path="node/109">Legal mentions and crédits</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/bibliography" data-drupal-link-system-path="node/120">Bibliography</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/all-albums" data-drupal-link-system-path="node/113">All albums</a>
+              </li>
+                <li class="menu-item">
+        <a href="/en/all-videos" data-drupal-link-system-path="node/114">All videos</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+                                    
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+                
+    <div class="page-article-content">
+        <!-- HEADER DOSSIER -->
+        <header class="header-article header-folder">
+            <div class="header-bg"></div>
+            <div class="container">
+                <div class="header-inner">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="row">
+                            <div class="header-content">
+                                <div class="row">
+                                    <div class="item-list"><ul class="breadcrumb"><li><a href="/en">home</a></li><li><a href="/en/understand">Understand</a></li><li><a href="/en/understand#adaptations-and-multimedia">Adaptations and Multimedia</a></li><li><a href="/en/understand#adaptations-and-multimedia#musique">Music</a></li></ul></div>
+                                    <div class="header-title">
+                                        
+                                        <h1 class="title-1 title-page"><span class="field field--name-title field--type-string field--label-hidden">Music and Fantasy in Perfect Harmony</span>
+</h1>
+                                        
+                                                                                <div class="header-author">By William Blanc</div>
+                                                                                <div class="ornement-2">
+                                            <div class="ornement-elt left"></div>
+                                            <div class="ornement-elt right"></div>
+                                        </div>
+                                    </div>
+                                                                        <div class="header-intro"><p>In films or novels, music accompanies fantasy everywhere. Many composers, in&nbsp;turn, have immersed themselves in the genre, from film music to rock, rap and&nbsp;metal.</p>
+</div>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="header-illu max fleft">
+                        <img src="https://fantasy.bnf.fr/sites/default/files/field_media_image/2020-05/IFN-7910286-1_0.png" alt="" />
+                    </div>
+                                                            <div class="header-illu min fright">
+                        <img src="https://fantasy.bnf.fr/sites/default/files/field_media_image/2020-05/11.1.3%20droite%20%282%29.png" alt="" />
+                    </div>
+                                    </div>
+            </div>
+            <div class="header-separator"></div>
+        </header>
+        <div class="sections-article sections-folder">
+            <div class="sections-wrapper">
+                
+      <div class="field field--name-field-node-body field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item"><section class="paragraph section section-activities paragraph--type--wysiwyg paragraph--view-mode--default paragraph-wysiwyg bloc-article section-text up">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+            <div class="bloc-text"><p><span class="first-letter">T</span>he ballad, a medieval lyrical and musical genre, came back into fashion at the&nbsp;beginning of the 19th century with the advent of medievalism and poems such as&nbsp;<em>La Belle Dame sans Merci</em> (1819) by John Keats. The term evokes both children's&nbsp;songs and popular compositions, which go back to a past that is poorly identified&nbsp;but still perceived as archaic, and which romantic authors and scholars would enjoy&nbsp;composing. This is the case of Walter Scott (<em>Minstrelsy of the Scottish Border,&nbsp;</em>1802), who refers us to the literary archetype of the wandering minstrel, as the&nbsp;"Troubadour Style" spread to painting in 19th-century France. We also find ballad in&nbsp;the noun "baladine", a traveller whom the reader accompanies to a faraway,&nbsp;imaginary and enchanted universe. So it is not surprising that fantasy, heir to&nbsp;English medievalism, is a genre imbued with music.</p>
+</div>
+        </div>
+    </div>
+</div>
+</section>
+</div>
+              <div class="field__item">
+
+  
+  <section class="paragraph section section-activities paragraph--type--images paragraph--view-mode--default paragraph-images bloc-article section-illu">
+    <div class="container">
+              <div class="row">
+        <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+          <figure class="bloc-illu">
+                          <div class="illu-inner ill">
+                <img src="https://fantasy.bnf.fr/sites/default/files/styles/pimages3/public/field_media_image/2020-05/1-273222_1.jpg?h=9cd91617&amp;itok=4xUK76Ep" alt="&lt;i&gt;The Minstrel&lt;/i&gt;, drawing by François Grenier and Jules Davod, lithography by Joseph-Rose Lemercier " />
+                                  <a href="http://expositions.bnf.fr/fantasy/en/grand/fan_625.php" class="btn-illu">
+                    <span class="btn-more"></span>
+                  </a>
+                              </div>
+                                      <figcaption class="illu-legend">
+                                  <i>The Minstrel</i>, drawing by François Grenier and Jules Davod, lithography by Joseph-Rose Lemercier 
+                                                  <span>Médiathèque Alain Gérard, Quimper</span>
+                              </figcaption>
+                      </figure>
+                  </div>
+      </div>
+          </div>
+  </section>
+</div>
+              <div class="field__item"><section class="paragraph section section-activities paragraph--type--wysiwyg paragraph--view-mode--default paragraph-wysiwyg bloc-article section-text up">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+            <div class="bloc-text"><h2 class="title-2">Tolkien and Music</h2>
+
+<p>J.R.R. Tolkien punctuates his characters' travels with song, evoking both times of old – that of the elves in "The Fall of Gil-galad" (<em>The Brotherhood of the Ring</em>, 1954) – but also the long march of his heroes towards the unknown ("The Road Goes Ever On", in <em>The Hobbit</em>). Tolkien later explains that his imaginary world was created by a song, a wonderful music pronounced by divine beings, the Ainur. Their voices, he tells us in <em>The Silmarillon</em><em>, </em>"like unto harps and lutes, and pipes and trumpets, and viols and organs, and like unto countless choirs singing with words, began to fashion the theme of Iluvatar to a great music". The image invokes a classical symphony orchestra capable of conferring an epic dimension on a composition.</p>
+
+<p>&nbsp;</p>
+
+<p>Tolkien's songs, as well as the maps and illustrations he produced, give the imaginary world of Middle-earth a depth that allows readers to completely immerse themselves in it. They were quickly set to music, as early as 1967, during the author's lifetime, in an LP entitled <em>Poems and Songs of Middle Earth</em>, in which we hear not only Tolkien reciting some of his verses, but also interpretations of his songs by an opera singer, William Elvin. This record was one of the first examples of multimedia fantasy creation, where, in response to demand by curious fans, sound and visual elements are added to a literary fantasy world (illustrations, notably through calendars), a process that naturally leads to the staging of film or television versions.</p>
+</div>
+        </div>
+    </div>
+</div>
+</section>
+</div>
+              <div class="field__item">
+  <section class="paragraph section section-activities paragraph--type--video paragraph--view-mode--default paragraph-video bloc-article section-exergue">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1">
+          <div class="separator">
+            <div class="separator-elt"></div>
+          </div>
+          <div class="exergue-inner clearfix">
+                          <div class="exergue-content">
+                                  <div class="exergue-illu ill videoPlayer">
+                    <iframe width="100%" height="100%" frameborder="0" src="" title="" data-src="https://www.youtube.com/embed/3Tl_C_rWd0o?si=8f1vL62F4etEsqe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <a href="#" class="exergue-video-link video-link" data-bgimg="https://fantasy.bnf.fr/sites/default/files/field_media_image/2020-06/Poems_and_Songs_of_Middle_EarthCROP.jpg"></a>                  </div>
+                                <div class="exergue-info">
+                                      <div class="title-cat">POETRY, SONG, PIANO</div>
+                                                        <h4 class="title-3"><em>Poems and Songs of Middle Earth</em></h4>
+                                                        <div class="bloc-text min">J. R. R. Tolkien, author and narrator<br>
+William Elvin, vocals <br>
+Donald Swann, piano <br>
+Pauline Baynes, illustrator <br><br>
+33 rpm vinyl, LP <br>
+BnF, département de l’Audiovisuel, SD 30-60914<br><br>
+© Caedmon Records, 1967</div>
+                                  </div>
+              </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+              <div class="field__item"><section class="paragraph section section-activities paragraph--type--wysiwyg paragraph--view-mode--default paragraph-wysiwyg bloc-article section-text up">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+            <div class="bloc-text"><h2 class="title-2">Progressive Rock and Counterculture</h2>
+
+<p>As a genre full of references to music, fantasy would quickly influence composers, particularly those of the protest generation of the 1960s, who saw in Tolkien's works, and more broadly in magical medievalism, an instrument for criticizing the contemporary industrial and military world. Leonard Nimoy, star of the television series <em>Star Trek</em>, played "The Ballad of Bilbo Baggins" in 1967. In England, Tolkien's influence was first noticed among "folk" musicians, a genre that tends to reproduce popular past sounds. From 1968 onwards, one of the members of the band Tyrannosaurus Rex adopted the stage name Steve Peregrin Took, alluding to one of the four hobbits of <em>The Lord of the Rings</em>. In 1970, he founded his own band, Shagrat, a name that this time referred to an orca from Tolkien's trilogy.</p>
+</div>
+        </div>
+    </div>
+</div>
+</section>
+</div>
+              <div class="field__item">
+
+  
+  <section class="paragraph section section-activities paragraph--type--images paragraph--view-mode--default paragraph-images bloc-article section-illu">
+    <div class="container">
+              <div class="row">
+        <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+          <figure class="bloc-illu">
+                          <div class="illu-inner ill">
+                <img src="https://fantasy.bnf.fr/sites/default/files/styles/pimages3/public/field_media_image/2020-05/Shagrat%20-%20Pink%20Kackets%20Required.jpg?itok=feGSjdUT" alt="&lt;i&gt;Pink Jackets Required&lt;/i&gt;, album by Shagrat, band founded by Steve Peregrin Took (1970)" />
+                                  <a href="http://expositions.bnf.fr/fantasy/en/grand/fan_622.php" class="btn-illu">
+                    <span class="btn-more"></span>
+                  </a>
+                              </div>
+                                      <figcaption class="illu-legend">
+                                  <i>Pink Jackets Required</i>, album by Shagrat, band founded by Steve Peregrin Took (1970)
+                                                  <span>Get Back Records, 2003</span>
+                              </figcaption>
+                      </figure>
+                  </div>
+      </div>
+          </div>
+  </section>
+</div>
+              <div class="field__item"><section class="paragraph section section-activities paragraph--type--wysiwyg paragraph--view-mode--default paragraph-wysiwyg bloc-article section-text up">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+            <div class="bloc-text"><p>But it was progressive rock musicians who would draw their inspiration from fantasy the most. This musical genre is constructed like a psychedelic journey far from contemporary reality, a "trip" often triggered by the use of hallucinogenic drugs. It is thus made up of long pieces evoking imaginary worlds. The title of leading progressive rock band Pink Floyd's first album, <em>The Piper at the Gates of Dawn</em> (1967), was a direct reference to Kenneth Grahame's youth fantasy novel <em>The Wind in the Willows</em> (1908). The characters in the story, anthropomorphic animals, see the god Pan playing a piece on his flute at dawn. This scene, a favorite of Sid Barrett, singer of Pink Floyd and close friend of Steve Peregrin Took, epitomizes the psychedelic genre. The music here goes hand in hand with a return to a childlike time, a (re)birth (the dawn) in a rural, animal and magical dream, far from the modern world. "The Gnome", one of the tracks of <em>The Piper at the Gates of Dawn</em>, evokes a small people living in a land of Cocaigne, like the Hobbits in Tolkien's Shire.</p>
+</div>
+        </div>
+    </div>
+</div>
+</section>
+</div>
+              <div class="field__item">
+  <section class="paragraph section section-activities paragraph--type--video paragraph--view-mode--default paragraph-video bloc-article section-exergue">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1">
+          <div class="separator">
+            <div class="separator-elt"></div>
+          </div>
+          <div class="exergue-inner clearfix">
+                          <div class="exergue-content">
+                                  <div class="exergue-illu ill videoPlayer">
+                    <iframe width="100%" height="100%" frameborder="0" src="" title="" data-src="https://www.youtube.com/embed/Wk7fezaruTk?si=GNo6C2B3yNBisrCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <a href="#" class="exergue-video-link video-link" data-bgimg="https://fantasy.bnf.fr/sites/default/files/field_media_image/2020-06/The%20Piper%20at%20the%20Gates%20of%20Down%20CROP.jpg"></a>                  </div>
+                                <div class="exergue-info">
+                                      <div class="title-cat">PSYCHEDELIC ROCK</div>
+                                                        <h4 class="title-3"><em>The Gnome</em></h4>
+                                                        <div class="bloc-text min">Artist: <a href="https://www.youtube.com/watch?v=Wk7fezaruTk&list=OLAK5uy_kSgXPSP2bLvCWtPF64Wopm2N1OHhCe4sg&index=8"target = "_blank">Pink Floyd</a><br><br>
+Album: <em>The Piper At The Gates Of Dawn</em></br></br>
+
+33 rpm vinyl, LP<br>
+BnF, département de l’Audiovisuel, BSU/67-998</br></br>
+
+© Columbia, 1967</div>
+                                  </div>
+              </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+              <div class="field__item"><section class="paragraph section section-activities paragraph--type--wysiwyg paragraph--view-mode--default paragraph-wysiwyg bloc-article section-text up">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+            <div class="bloc-text"><p>The popularity of magical themes in progressive rock would later inspire metal&nbsp;musicians and songwriters, who like fantasy writers, plunge their audience into a&nbsp;medieval fantasy world.&nbsp;</p>
+</div>
+        </div>
+    </div>
+</div>
+</section>
+</div>
+              <div class="field__item">
+  <section class="paragraph section section-activities paragraph--type--refarticle paragraph--view-mode--default paragraph-refarticle bloc-article section-related">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1">
+          <a href="/en/understand/metal-and-make-believe" class="related-inner clearfix">
+            <div class="col-md-10 col-md-offset-1">
+              <div class="related-content">
+                                  <div class="related-illu" data-bgimg="https://fantasy.bnf.fr/sites/default/files/styles/ref_focus_transmettre/public/field_media_image/2020-05/Focus%20metal%202.jpg?h=62d4af77&amp;itok=2YAV3n5c">
+                    <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_focus_transmettre/public/field_media_image/2020-05/Focus%20metal%202.jpg?h=62d4af77&amp;itok=2YAV3n5c" alt="" />
+                  </div>
+                                <div class="related-info">
+                                      <div class="title-cat">Music</div>
+                                    <h4 class="title-3">Metal and Make-Believe</h4>
+                  <div class="cta yellow">Read more</div>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+              <div class="field__item"><section class="paragraph section section-activities paragraph--type--wysiwyg paragraph--view-mode--default paragraph-wysiwyg bloc-article section-text up">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+            <div class="bloc-text"><h2 class="title-2">Symphony and Epic Music</h2>
+
+<p>At the same time, fantasy quickly began producing original tracks, especially for feature films and associated video games. Many of these works resembled compositions for opera, especially those by Richard Wagner, which are still a reference today, or for symphony orchestras, such as the soundtrack of the film <em>Conan the Barbarian</em> (1982) by Basil Poledouris. These songs have become so popular that they have been adapted for performances in concert halls, as is the case for example with the soundtrack of <em>Star Wars</em> (composed by John Williams) or that of <em>The Lord of the Rings</em> trilogy (written by Howard Shore). One of the most remarkable examples is undoubtedly Koji Kondo's music for the video game <em>The Legend of Zelda</em> (1986). Produced at the time with synthesizers to run on the first consoles, it was rewritten for a classical orchestra, and toured the world several times to celebrate the game's 25th anniversary. This phenomenon shows both the fascination of an audience of adult fans for the adventurous and imaginary ballads of their childhood, but also the increasing acceptance of fantasy in society. Thereafter, these productions were performed in symphony halls that are more associated with a legitimate, bourgeois and learned culture.</p>
+</div>
+        </div>
+    </div>
+</div>
+</section>
+</div>
+              <div class="field__item">
+
+  
+  <section class="paragraph section section-activities paragraph--type--images paragraph--view-mode--default paragraph-images bloc-article section-illu big">
+    <div class="container">
+              <figure class="bloc-illu">
+                      <div class="illu-inner ill">
+              <img src="https://fantasy.bnf.fr/sites/default/files/styles/pimages2/public/field_media_image/2020-05/Star%20Wars%20Orchestre%20symphonique.jpg?itok=q7eKd0cy" alt="&lt;i&gt;Star Wars: The Empire Strikes Back in concert&lt;/i&gt;, The New Jersey Symphony Orchestra directed by Constantine Kitsopoulos, Newark, New Jersey, US (January 2019)" />
+                              <a href="http://expositions.bnf.fr/fantasy/en/grand/fan_623.php" class="btn-illu">
+                  <span class="btn-more"></span>
+                </a>
+                          </div>
+                                <figcaption class="illu-legend">
+                              <i>Star Wars: The Empire Strikes Back in concert</i>, The New Jersey Symphony Orchestra directed by Constantine Kitsopoulos, Newark, New Jersey, US (January 2019)
+                                            <span>https://www.nj.com/</span>
+                          </figcaption>
+                  </figure>
+                  </div>
+  </section>
+</div>
+              <div class="field__item">
+  <section class="paragraph section section-activities paragraph--type--refarticle paragraph--view-mode--default paragraph-refarticle bloc-article section-related">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1">
+          <a href="/en/understand/wagner-dawn-fantasy" class="related-inner clearfix">
+            <div class="col-md-10 col-md-offset-1">
+              <div class="related-content">
+                                  <div class="related-illu" data-bgimg="https://fantasy.bnf.fr/sites/default/files/styles/ref_focus_transmettre/public/field_media_image/2020-05/Focus%20Wagner%202.png?h=ed20e6b8&amp;itok=mg57PRTg">
+                    <img src="https://fantasy.bnf.fr/sites/default/files/styles/ref_focus_transmettre/public/field_media_image/2020-05/Focus%20Wagner%202.png?h=ed20e6b8&amp;itok=mg57PRTg" alt="" />
+                  </div>
+                                <div class="related-info">
+                                      <div class="title-cat">Music</div>
+                                    <h4 class="title-3">Wagner in the Dawn of Fantasy</h4>
+                  <div class="cta yellow">Read more</div>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+              <div class="field__item"><section class="paragraph section section-activities paragraph--type--wysiwyg paragraph--view-mode--default paragraph-wysiwyg bloc-article section-text up">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+            <div class="bloc-text"><p>The popularity of fantasy at the beginning of the 21st century continued to influence artists in popular musical genres, especially in those who until then had taken little inspiration from medieval magic. This imaginary world referred to a theme that was too "Europe-centered" and not conducive to arousing interest in the poor neighborhoods of large Western cities where many people from the African continent or the Middle East live. However, from the 1990s onwards, the image of the medievalist warrior, particularly Chinese warriors, fascinated certain hip-hop artists and rappers, such as the Wu-Tang Clan with their album <em>Enter the Wu-Tang (36 Chambers)</em> released in 1993, or the French artist Shurik'N with his song "Samurai" (1998). This music quickly became imbued with fantasy and albums, such as <em>L'École du micro d'argent</em> (1997) by the French group IAM, made direct reference to the genre. Shortly after the release of <em>the Game of Thrones</em> series, this fascination led to the publication on the Internet of two mixtapes entitled <em>Catch The Throne</em> (2014 and 2015), in which famous figures of American rap appear: Common, Wale, Snoop Dogg, and Method Man (a member of the Wu-Tang Clan).</p>
+</div>
+        </div>
+    </div>
+</div>
+</section>
+</div>
+              <div class="field__item">
+  <section class="paragraph section section-activities paragraph--type--video paragraph--view-mode--default paragraph-video bloc-article section-exergue">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1">
+          <div class="separator">
+            <div class="separator-elt"></div>
+          </div>
+          <div class="exergue-inner clearfix">
+                          <div class="exergue-content">
+                                  <div class="exergue-illu ill videoPlayer">
+                    <iframe width="100%" height="100%" frameborder="0" src="" title="" data-src="https://www.youtube.com/embed/brNYsK6nZjQ?si=A6nfLxS9iVPeLhpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <a href="#" class="exergue-video-link video-link" data-bgimg="https://fantasy.bnf.fr/sites/default/files/field_media_image/2020-06/King%20Slayer%20-%20Wale%20CROP.png"></a>                  </div>
+                                <div class="exergue-info">
+                                      <div class="title-cat">Hip Hop</div>
+                                                        <h4 class="title-3"><em>King Slayer</em></h4>
+                                                        <div class="bloc-text min">Artist: Wale<br><br>
+Album: <a href="https://soundcloud.com/catchthethrone/10-king-slayer-wale"target = "_blank"><em>Catch The Throne - The Mixtape</em></a><br><br>
+
+© Launch Point Records, 2014
+</div>
+                                  </div>
+              </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+              <div class="field__item"><section class="paragraph section section-activities paragraph--type--wysiwyg paragraph--view-mode--default paragraph-wysiwyg bloc-article section-text up">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+            <div class="bloc-text"><h2 class="title-2">Rap and Social Mobility&nbsp;</h2>
+
+<p>With hip-hop, it is not so much the magical journey that is imagined, but the epic nature of the bloody battles of <em>The Game of Thrones</em>, and the possibility of imagining oneself in a fictional world, having made it to the top of the social ladder at the cost of great danger. These stories inspire rappers, who see it as an echo of their own journey from the slums of big American cities to fame and fortune. We find this idea not only in Wale's "King Slayer" ("I'm a Lannister," he shouts, "[I] run my town, that's Seven Kingdoms"), but also in "Parti de rien", a song composed by Sofiane, a rapper from Stains in Seine-Saint-Denis. Accompanying the French release of Guy Ritchie's <em>King Arthur: Legend of the Sword</em> (2017) (a version of the Camelot myth strongly marked by fantasy), the song begins as follows: "Lift up the street, as you would lift up the Grail".</p>
+</div>
+        </div>
+    </div>
+</div>
+</section>
+</div>
+              <div class="field__item">
+  <section class="paragraph section section-activities paragraph--type--video paragraph--view-mode--default paragraph-video bloc-article section-exergue">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1">
+          <div class="separator">
+            <div class="separator-elt"></div>
+          </div>
+          <div class="exergue-inner clearfix">
+                          <div class="exergue-content">
+                                  <div class="exergue-illu ill videoPlayer">
+                    <iframe width="100%" height="100%" frameborder="0" src="" title="" data-src="https://www.youtube.com/embed/vsdXvXZLf6w?si=0YnzYizexm9e-a-5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <a href="#" class="exergue-video-link video-link" data-bgimg="https://fantasy.bnf.fr/sites/default/files/field_media_image/2020-05/Parti%20de%20rien%20-%20Sofiane.png"></a>                  </div>
+                                <div class="exergue-info">
+                                      <div class="title-cat">Hip-Hop</div>
+                                                        <h4 class="title-3"><em>Parti de rien</em></h4>
+                                                        <div class="bloc-text min">Artist: <a href="https://www.youtube.com/watch?v=vsdXvXZLf6w"target = "_blank">Sofiane</a><br><br>
+Album: <em>Bandit Saleté</em><br><br>
+
+1 compact disc + 1 brochure<br>
+BnF, département de l’Audiovisuel, SDC 12-326365<br><br>
+© Universal music, 2017
+</div>
+                                  </div>
+              </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+              <div class="field__item"><section class="paragraph section section-activities paragraph--type--wysiwyg paragraph--view-mode--default paragraph-wysiwyg bloc-article section-text up">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+            <div class="bloc-text"><p>Female rappers have also taken this idea on board, adding a gendered dimension to it. Snow Tha Product, in Catch the Throne, thus compares herself to Daenerys Targaryen, a queen who must impose herself in a male world. The music here echoes the significant feminization of the genre, with more and more female heroines and authors now in the spotlight.</p>
+</div>
+        </div>
+    </div>
+</div>
+</section>
+</div>
+              <div class="field__item">
+  <section class="paragraph section section-activities paragraph--type--video paragraph--view-mode--default paragraph-video bloc-article section-exergue">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1">
+          <div class="separator">
+            <div class="separator-elt"></div>
+          </div>
+          <div class="exergue-inner clearfix">
+                          <div class="exergue-content">
+                                  <div class="exergue-illu ill videoPlayer">
+                    <iframe width="100%" height="100%" frameborder="0" src="" title="" data-src="https://www.youtube.com/embed/9sdIQOqLLIs?si=j7A3qX6012eLqJAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <a href="#" class="exergue-video-link video-link" data-bgimg="https://fantasy.bnf.fr/sites/default/files/field_media_image/2020-05/Fire%20-%20Snow%20tha%20Product.png"></a>                  </div>
+                                <div class="exergue-info">
+                                      <div class="title-cat">Hip-Hop</div>
+                                                        <h4 class="title-3"><em>Fire</em></h4>
+                                                        <div class="bloc-text min">Artist: Snow Tha Product<br><br>
+Album: <a href="https://soundcloud.com/catchthethrone/7-fire-snow-tha-product"target = "_blank"><em>Catch The Throne - The Mixtape</em></a><br><br>
+
+© Launch Point Records, 2014</div>
+                                  </div>
+              </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+          </div>
+  
+            </div>
+        </div>
+    </div>
+
+
+        <footer class="footer-article">
+    <div class="footer-bg"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-8 col-lg-offset-3 col-md-offset-2">
+                <div class="footer-head">
+                    <div class="title-cat">Learn more about…</div>
+                    <h2 class="title-1">Music</h2>
+                </div>
+            </div>
+        </div>
+        <div class="footer-content">
+            <div class="row rwd">
+                <div class="rubric-wrap rubric-comprendre">
+                    <div class="row">
+                        <div class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1">
+                            <div class="rubric-flex">
+                                                                <div class="rubric-illu">
+                                    <img src="https://fantasy.bnf.fr/sites/default/files/field_media_image/2020-05/IFN-7910286-1_0.png" alt="" />
+                                </div>
+                                                                <div class="rubric-menu">
+                                    <ul class="list-folders">
+                                                                                                                        <li class="current">
+                                            <a href="/en/understand/music-and-fantasy-perfect-harmony">
+                                                <div class="ornement-1"></div>
+                                                <div>
+                                                    <div class="title-cat">In-depth</div>
+                                                    <span>Music and Fantasy in Perfect Harmony</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                                                                                                    </ul>
+                                    <ul class="list-focus">
+                                                                                                                                <li >
+                                                <a href="/en/understand/metal-and-make-believe">
+                                                    <div class="ornement-1"></div>
+                                                    <div>
+                                                        <div class="title-cat">Spotlight</div>
+                                                        <span>Metal and Make-Believe</span>
+                                                    </div>
+                                                </a>
+                                            </li>
+                                                                                        <li >
+                                                <a href="/en/understand/wagner-dawn-fantasy">
+                                                    <div class="ornement-1"></div>
+                                                    <div>
+                                                        <div class="title-cat">Spotlight</div>
+                                                        <span>Wagner in the Dawn of Fantasy</span>
+                                                    </div>
+                                                </a>
+                                            </li>
+                                                                                                                        </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <a href="#" role="button" class="back-up">Remonter en haut de la page</a>
+</footer>
+
+    </div>
+</article>
+  </div>
+
+  </div>
+
+  </div>
+
+      <footer id="footer">
+        <div class="region region-footer">
+    <div id="block-bnfcookiesblock--2" class="block block-bnf-cookies block-bnfcookiesblock-block">
+  
+    
+      
+
+  </div>
+<div id="block-xitiblock--2" class="block block-fantasy-core block-xitiblock-block">
+  
+    
+      <script type="text/javascript">
+      var clicktag = new ATInternet.Tracker.Tag();
+</script>
+<script type="text/javascript">
+      var tag = new ATInternet.Tracker.Tag({
+            log: "logp",  
+            logSSL: "logs",
+            secure: false,
+            site: 18798,
+            domain: "xiti.com"
+      });
+      tag.page.set({
+            name: 'Music and Fantasy in Perfect Harmony', 
+            level2:'23',
+            chapter1: 'fantasy',
+            chapter2: 'en',
+            chapter3: 'comprendre',
+            chapter4: 'Adaptations and Multimedia',
+            chapter5: 'Music',
+            chapter6: 'in-depth',
+            chapter7: 'bnf-prod',
+      });
+      tag.dispatch();
+</script>
+  </div>
+
+  </div>
+
+    </footer>
+  </div>
+
+  </div>
+
+
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"node\/115","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","bnf_cookies":{"general":{"cookieName":"bnf_cookie_ok"}},"user":{"uid":0,"permissionsHash":"d10a93b45463bed51b47e1e50b0571813905c96f993594f5e1b00809ab9efb00"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.5.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.9.6"></script>
+<script src="https://player.vimeo.com/api/player.js"></script>
+<script src="/themes/custom/fantasy/js/detectIE.js?v=8.9.6"></script>
+<script src="/themes/custom/fantasy/js/lib/queryloader2.min.js?v=8.9.6"></script>
+<script src="/themes/custom/fantasy/js/lib/waypoints/jquery.waypoints.min.js?v=8.9.6"></script>
+<script src="/themes/custom/fantasy/js/lib/parallax.min.js?v=8.9.6"></script>
+<script src="/themes/custom/fantasy/js/lib/slick.min.js?v=8.9.6"></script>
+<script src="/themes/custom/fantasy/js/main2.js?v=8.9.6"></script>
+<script src="/modules/custom/bnf_cookies/js/bnf_cookies.js?v=1.x"></script>
+<script src="/modules/custom/bgmenu/assets/js/bgmenu.js?v=1.x"></script>
+
+</body>
+</html>

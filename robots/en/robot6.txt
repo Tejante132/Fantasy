@@ -1,0 +1,15 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /author
+Disallow: /post_type=post&p=*
+
+# Host
+Host: https://www.fantasyfootballhub.co.uk
+
+# Sitemaps
+Sitemap: https://www.fantasyfootballhub.co.uk/sitemap.xml
+Sitemap: https://www.fantasyfootballhub.co.uk/server-sitemap.xml
+Sitemap: https://www.fantasyfootballhub.co.uk/news-sitemap.xml
+Sitemap: https://www.fantasyfootballhub.co.uk/category-sitemap.xml

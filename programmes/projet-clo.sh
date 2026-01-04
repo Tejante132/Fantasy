@@ -11,6 +11,7 @@ N=0 	# compteur d'URLs
 LG=$1
 URLS=urls/${LG}.txt
 # URLS=$1
+LC=3 # nb de lignes de contexte
 
 echo "langue choisie : $LG"
 
@@ -43,20 +44,21 @@ echo -e "
 
 echo -e "
 <body>
-	<section class='section has-background-info is-fullheight'>
+	<section class='section has-background-black is-fullheight'>
 		<!-- Encart titre et logo côte à côte -->
 		<br />
-		<div class='columns is-vcentered'>
-			<div class='column'>
-				<h1 class='title is-1 is-1-desktop is-2-tablet is-6-mobile has-text-centered'><i>Fantasy</i></h1>
-			</div>
-			<div class='column'><h1 class='title is-1 is-1-desktop is-2-tablet is-6-mobile has-text-centered'>Projet de PPE</h1></div>
-		</div>
-		<br />
+        <div class='columns is-vcentered'>
+            <div class='column'>
+                <h1 class='title is-1 is-1-desktop is-2-tablet is-6-mobile has-text-centered has-text-warning'><i>Fantasy</i></h1>
+            </div>
+            <div class='column'><h1 class='title is-1 is-1-desktop is-2-tablet is-6-mobile has-text-centered has-text-link-light'>Projet de PPE</h1></div>
+        </div>  
+        
+        <br />
 
 		<div class='container has-background-white'>
 			<section class='section column'>
-				<h3 class='title is-3 has-text-centered has-background-info-light'>Informations sur les sites webs</h3>
+				<h3 class='title is-3 has-text-centered has-background-link-light'>Informations sur les sites webs</h3>
 			</section>
 
 			<div class='table-container'> 
@@ -115,6 +117,17 @@ do
 		STYLE_NB="is-warning"
 	fi
 
+	# attention, ça ne crée pas les chemins, il faut eventuellement faire un mkdir des dossiers 
+	# s'ils n'existent pas déjà au moment où on lance le programme
+	FICHIER_CONTEXTES=contextes/${LG}/${LG}-${N}.txt
+	FICHIER_CONTEXTES_COLOR=contextes/${LG}/${LG}-${N}.html
+	CONTEXTES=$(cat $FICHIER_DUMP | grep -P --context=$LC --color=always --group-separator="---" "$MOT")
+	# conversion des formats couleur ANSI en balises html avec aha
+	echo "$CONTEXTES" | aha --title "Contextes pour $MOT" > $FICHIER_CONTEXTES_COULEUR
+	# version sans couleurs
+	CONTEXTES=$(cat $FICHIER_DUMP | grep -P --context=$LC --group-separator="---" "$MOT")
+	echo "$CONTEXTES" > $FICHIER_CONTEXTES
+
 	# on affiche les données extraites espacées par des tabulations
 	echo -e "
 				<tr>
@@ -126,6 +139,7 @@ do
 					<td><a href='../${FICHIER_ASPIRATION}'>lien vers l'aspiration</a></td>
 					<td><a href='../${FICHIER_DUMP}'>lien vers le dump</a></td>
 					<td class='${STYLE_NB}'>${NB_OCCURRENCES}</td>
+					<td><a href='../${FICHIER_CONTEXTES_COLOR}'>lien contextes couleur (html)</a><br /><br /><a href='../${FICHIER_CONTEXTES}'>lien contextes (txt)</a></td>
 				</tr>" >> ${fichier}
 
 done < ${URLS};

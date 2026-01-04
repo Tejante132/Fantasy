@@ -1234,3 +1234,1239 @@ Start your league free this year and play your way!
 </div>
 
 </div><div id="footer" class="x-container" style="padding:20px;"><hr><div class="row row-footer"><div class="col-sm-4 col-tn-12"><p class="credit">&copy; 2026 RealTime Fantasy Sports, Inc.</p><br><p>If you or someone you know has a gambling problem, help is available.<br>Call (1-800-GAMBLER).</p></div><div class="col-sm-4 col-tn-12"><p><img alt="RTSports.com Logo" class="footer-logo" src="https://cloudfront.rtsports.com/site/img/rtfs-logo-300w.png"></p><p class="hidden-xs hidden-tn">Football Projections by<br><a target=_blank href="https://sportsdata.io/"><img alt="SportsDataIO" src="https://cloudfront.rtsports.com/site/img/partners/sdio-light.png"></a></p></div><div class="col-sm-4 col-tn-12"><p><a href="/support">Email Us</a> &nbsp;<b>&middot;</b>&nbsp; Call Us 636.447.1170</p><p><a target=_blank href="http://twitter.com/rtfsnews"><i class="fab fa-twitter" style="font-size:2em; padding-right:20px;"></i><span class="sr-only">twitter.com/rtfsnew</span></a><a target=_blank href="http://www.facebook.com/pages/RealTime-Fantasy-Sports/197903596891479"><i class="fab fa-facebook-square" style="font-size:2em; padding-right:20px;"></i><span class="sr-only">Facebook Page</span></a><a target=_blank href="https://www.instagram.com/realtimefantasysports/"><i class="fab fa-instagram" style="font-size:2em;"></i><span class="sr-only">instagram.com/realtimefantasysports</span></a></p><p><a href="/terms">Terms of Use</a><br><a href="/responsible-gaming">Responsible Gaming</a><br><a href="/complaints">Complaints</a><br><a href="/accessibility">Accessibility</a></p></div></div><div class="modal fade" id="SignInModal" tabindex="-1" role="dialog" aria-labelledby="msg-signin"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><h4 id="msg-signin" class="modal-title">Sign In to Your Account</h4></div><div class="modal-body"><form method="post" action="/"><div class="form-group"><input class="form-control" type="text" name="ACCOUNTID" aria-label="User Account" placeholder="Email"></div><div class="form-group"><input class="form-control" type="password" name="PASSWORD" aria-label="Password" placeholder="Password"></div><input class="btn btn-primary text-center" type="submit" name="login" value="Sign In"></form></div><div class="modal-footer"><a href="/site/account-create.php">Register</a> &nbsp;<b>&middot;</b>&nbsp; <a href="/lost-password">Forgot Password</a></div></div></div></div><script>try { RTFS_Analytics(); } catch(err) { ; }</script><div class="d-none d-xl-block xd-xxl-none" id="viewport-xl"></div><div class="d-none d-lg-block d-xl-none" id="viewport-lg"></div><div class="d-none d-md-block d-lg-none" id="viewport-md"></div><div class="d-none d-sm-block d-md-none" id="viewport-sm"></div><div class="d-block d-sm-none" id="viewport-xs"></div></div></body></html>
+<!DOCTYPE html><html lang="en"><head><!--\n\n(c) 2026 Copyright RealTime Fantasy Sports, Inc. \n\n--><title>Fantasy Football Baseball Basketball and DFS | RealTime Fantasy Sports</title><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="description" content="RealTime Fantasy Sports - Fantasy Football, Baseball, Basketball, Best Ball, plus Daily Fantasy Sports (DFS)." /><meta http-equiv="cache-control" content="no-cache, private" /><link rel="icon" sizes="192x192" href="https://cloudfront.rtsports.com/site/img/favicons/android-chrome-192x192b.png"><link rel="apple-touch-icon" href="https://cloudfront.rtsports.com/site/img/favicons/apple-touch-icon-180x180.png"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="0" content="<meta charset=UTF-8>" /><meta name="theme-color" content="#cc0000" /><meta name="og:url" content="https://www.rtsports.com/" /><meta name="og:title" content="RealTime Fantasy Sports" /><meta name="og:image" content="https://rtsports.com/site/img/rtfs-logo-300x300.png?ID=6666cd76f96956469e7be39d750cc7d9" /><meta name="og:description" content="RealTime Fantasy Sports - Fantasy Football, Baseball, Basketball, Best Ball, plus Daily Fantasy Sports (DFS)" /><meta name="twitter:image" content="https://rtsports.com/site/img/rtfs-logo-300x300.png?ID=6666cd76f96956469e7be39d750cc7d9" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@RTFSNews" /><meta name="twitter:creator" content="@RTFSNews" /><meta name="twitter:title" content="RealTime Fantasy Sports" /><meta name="twitter:domain" content="rtsports.com" /><meta name="twitter:description" content="RealTime Fantasy Sports - Fantasy Football, Baseball, Basketball, Best Ball, Daily Fantasy Sports (DFS)" /><link rel=stylesheet href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/themes/smoothness/jquery-ui.css"><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js"></script><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><script src="https://cloudfront.rtsports.com/site/js/9/rtfs-common.js"></script><script src="https://cloudfront.rtsports.com/site/js/9/bootstrap/popper-2.11.8.min.js"></script><script src="https://cloudfront.rtsports.com/site/js/9/bootstrap/bootstrap-5.3.3.min.js"></script><link rel=stylesheet href="https://cloudfront.rtsports.com/site/css/9/bootstrap/bootstrap-5.3.3.css"><link rel=stylesheet href="https://cloudfront.rtsports.com/site/css/9/font-awesome/all-5.13.min.css"><link rel=stylesheet href="https://cloudfront.rtsports.com/site/css/9/font-awesome/v4-shims.min.css"><link rel=stylesheet href="https://cloudfront.rtsports.com/site/css/9/rtfs-common-clean.min.css"><link rel=stylesheet href="https://cloudfront.rtsports.com/site/css/9/bootstrap/bootstrap-rtfs.css"><script src="https://cloudfront.rtsports.com/site/js/9/rtfs-analytics.js"></script><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FYYN88Q10Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FYYN88Q10Q');
+
+  /* custom UA to G4 transition script https://developers.google.com/analytics/devguides/migration/ua/analyticsjs-to-gtagjs */
+  function ga(send, event, category, action, label) {
+	  gtag('event', /* ignore send and event (assume 'event') */
+	       category, { 'event_action': action, 'event_label': label });
+  }
+</script>
+
+<!-- Reddit Pixel -->
+<script>
+!function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);rdt('init','t2_fgu5morpd', {"optOut":false,"useDecimalCurrencyValues":true});rdt('track', 'PageVisit');
+</script>
+<!-- DO NOT MODIFY UNLESS TO REPLACE A USER IDENTIFIER -->
+<!-- End Reddit Pixel -->
+<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"><link rel=stylesheet href="https://cloudfront.rtsports.com/site/css/game-card.css"></head><body id=all data-bs-theme="dark"><div style="min-height:720px;">   <style>
+    @media (min-width: 992px) {
+      .navbar .dropdown:hover .dropdown-menu {
+        display: block;
+        margin-top: 0;
+      }
+    }
+    </style>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="https://rtsports.com"><img alt="RTSports.com" src="https://cloudfront.rtsports.com/site/img/rtfs-logo-40h-blank.png"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav xx-ms-auto nav-bar-landing">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/">HOME</a>
+                    </li>
+
+                    
+                    
+         <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">MONEY LEAGUES</a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li class="dropdown-header">Football</li>
+            <li><a class="dropdown-item" href="/football-draft-times">Draft Times</a></li>
+            <li><a class="dropdown-item" href="/fantasy-football-leagues">Money Leagues</a></li>
+            <li><a class="dropdown-item" href="https://www.freedraftguide.com/fantasy-football/average-draft-position">ADP & AAV</a></li>
+<!--
+<li><a class="dropdown-item" href="https://www.fantasyalarm.com/articles/nfl/fantasy-football-draft-guide/2023-fantasy-football-draft-guide-the-ultimate-fantasy-football-cheat-sheet/148060">Cheat Sheets</a></li>
+-->
+            <li><a class="dropdown-item" href="https://www.freedraftguide.com">Draft Guide</a></li>
+            <li><a class="dropdown-item" href="/free-football-mock-draft">Mock Drafting</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li class="dropdown-header">Baseball</li>
+            <li><a class="dropdown-item" href="/baseball-draft-times">Draft Times</a></li>
+            <li><a class="dropdown-item" href="/fantasy-baseball-leagues">Money Leagues</a></li>
+            <li><a class="dropdown-item" href="/baseball/adp-aav">ADP & AAV</a></li>
+            <li><a class="dropdown-item" href="/free-baseball-mock-draft">Mock Drafting</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li class="dropdown-header">Basketball</li>
+            <li><a class="dropdown-item" href="/basketball-draft-times">Draft Times</a></li>
+            <li><a class="dropdown-item" href="/fantasy-basketball-leagues">Money Leagues</a></li>
+            <li><a class="dropdown-item" href="/free-basketball-mock-draft">Mock Drafting</a></li>
+          </ul>
+        </li>
+
+         <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">DFS</a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="/dfs-pickem">PickEm</a></li>
+            <li><a class="dropdown-item" href="/dfs">Leagues</a></li>
+            <li><a class="dropdown-item" href="/dfs-rules">Rules</a></li>
+                      </ul>
+        </li>
+
+         <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">COMMISSIONER</a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="/fantasy-football">Commissioner Service</a></li>
+            <li><a class="dropdown-item" href="/playoff-commissioner">Playoff Commissioner</a></li>
+            <li><a class="dropdown-item" href="/best-ball-commissioner">Best Ball Commissioner</a></li>
+          </ul>
+        </li>
+                    
+         <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">RTSPORTS</a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <!--
+            <li><a class="dropdown-item" href="#">Sign Up</a></li>
+          -->
+            <li><a class="dropdown-item" href="/rewards">Rewards</a></li>
+            <li><a class="dropdown-item" href="/fantasy-football-directory">League Directory</a></li>
+            <li><a class="dropdown-item" href="/top-fantasy-football-players">Top Players</a></li>
+            <li><a class="dropdown-item" href="https://discord.gg/qhuQnFYtUH">Discord</a></li>
+            <li><a class="dropdown-item" href="/swag">Swag</a></li>
+          </ul>
+        </li>
+        
+         <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">HELP</a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="/lost-password">Password Help</a></li>
+            <li><a class="dropdown-item" href="https://www.youtube.com/channel/UC4k5LCyYoIm3bD9uVv-z8JQ/playlists?view_as=subscriber">Video Help</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="/site/support.php">Contact Us</a></li>
+          </ul>
+        </li>
+        
+        </ul>
+            </div>
+<div class="d-none d-lg-block text-end"><a href="/login" class="btn btn-outline-light me-2">Login</a><a href="/signup" class="btn btn-warning">Signup</a></div></div></nav>
+<style>
+
+:root {
+   --btn-spacing: 20px;
+   --landing-page-bg: rgb(26, 32, 50);
+   --rtfs-red: rgb(204, 0, 0);
+}
+
+body {
+	background-color: #181818;
+}
+.section-lg {
+	min-height: 420px;
+   x-background-color: green;
+}
+
+@media (min-width: 576px) { 
+
+.main-section {
+   background-color: #191e2b;
+	background-image: url("https://cloudfront.rtsports.com/site/img/theme/theme5/football-background2-blue.webp");
+	background-position: top right;
+	background-repeat: no-repeat;
+}
+.section-lg {
+	min-height: 672px;
+}
+
+}
+
+
+@media (min-width: 1200px) {
+    h1, .h1 {
+        font-size: 3rem;
+		line-height: 1.0;
+		font-weight: 900 !important;
+    }
+}
+
+.ribbon {
+	padding: 1rem 0rem 0.5rem 0rem;
+	background-color: var(--rtfs-red);
+}
+
+.btn-sport img { width:30px; height: 30px; }
+
+.arrow-button {
+   background-color: transparent;
+   border: none;
+   padding: 10px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 5px;
+   position: absolute;
+   top: 50%;
+   transform: translateY(-50%);
+   font-size: 2rem;
+   color: #e0e0e0;
+   cursor: pointer;
+   z-index: 1;
+}
+
+.arrow-svg {
+   width: 48px;  /* Increase size */
+   height: 48px; /* Increase size */
+   opacity: 0.6; /* 60% transparency */
+}
+.arrow-path {
+   stroke: white; /* White color */
+   stroke-width: 4; /* Increase stroke width */
+   fill: none; /* No fill */
+}
+        
+.active-row {
+   display: flex !important;
+   animation: rollUpIn 1s ease-in-out forwards;
+}
+.hide-row {
+   display: flex !important;
+   animation: rollUpOut 1s ease-in-out forwards;
+}
+
+.games-section {
+   align-items: center;
+   justify-content: space-between;
+   position: relative;
+   padding: 0 30px; /* Space for arrows */
+}
+.games-list .row {
+   transition: opacity 0.5s ease-in-out;
+   margin: 0 2rem;
+}
+.games-row .card ul {
+    padding-left: 1rem;
+}
+.games-row .card {
+    background-color: transparent;
+    border: none;
+}
+.games-row .card {
+   max-width: 360px;
+}
+
+@media (max-width: 575.98px) {
+.games-list .row {
+   margin: 0;
+}
+.games-list .game-card {
+   padding-left: 0;
+   padding-right: 0;
+}
+.games-row .card ul {
+    padding-left: 0.5rem;
+}
+.arrow-path {
+   stroke: gray;
+}
+}
+
+.games-row .x-btn {
+    --bs-btn-color: var(--bs-body-bg);
+    --bs-btn-border-color: transparent;
+    --bs-btn-hover-border-color: transparent;
+    --bs-btn-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075);
+    --bs-btn-disabled-opacity: 0.65;
+    --bs-btn-focus-box-shadow: 0 0 0 0.25rem rgba(var(--bs-btn-focus-shadow-rgb), .5);
+    color: var(--bs-btn-color);
+    border: var(--bs-btn-border-width) solid var(--bs-btn-color);
+    background-color: var(--bs-btn-bg);
+}
+
+</style>	
+
+<div class="section-lg main-section"><div class="container pt-5">
+<div class="row"><div class="col-lg-6 col-xs-12 text-center text-md-start">
+<img src="https://cloudfront.rtsports.com/site/img/rtfs-logo-300w.png" alt="RealTime Fantasy Sports">
+<h1><strong>DRAFT. PLAY. WIN.</strong></h1>
+<p class="lead">Home of The Fantasy Life Championship</p>
+<p>
+<a class="btn btn-outline-light btn-lg me-2" href="/login" role="button">LOGIN</a>
+<a class="btn btn-outline-light btn-lg ms-2" href="/signup" role="button">SIGNUP</a>
+</p>
+</div><div class="col-lg-6 d-none d-lg-block text-center">
+<img style="filter:drop-shadow(rgba(240, 240, 240, 0.33) 0rem 0rem 10px);" src="https://cloudfront.rtsports.com/site/img/theme/theme5/landing-iphone.avif" alt="Mobile Apps">
+</div></div>
+</div></div>
+
+<div class="ribbon">
+<h4 class="text-center">3 FANTASY CHAMPIONSHIP TEAMS FOR $850, SAVE $50</h4>
+</div>
+
+<div class="section"><div class="x-container my-5"><div class="py-5">
+	
+<h1 class="text-center mb-5"><strong><span class="d-none d-sm-block">SEASON LONG </span>MONEY LEAGUES</strong></h1>
+
+<div class="text-center">
+<a class="btn btn-primary btn-lg btn-sport m-4 " href="/fantasy-football-leagues" role="button">FOOTBALL <img src="https://cloudfront.rtsports.com/site/img/theme/theme5/football.webp" alt="Football Leagues"></a>
+<a class="btn btn-primary btn-lg btn-sport m-4" href="/fantasy-baseball-leagues" role="button">BASEBALL <img src="https://cloudfront.rtsports.com/site/img/theme/theme5/baseball.webp" alt="Baseball Leagues"></a>
+<a class="btn btn-primary btn-lg btn-sport m-4" href="/fantasy-basketball-leagues" role="button">BASKETBALL <img src="https://cloudfront.rtsports.com/site/img/theme/theme5/basketball.webp" alt="Basketball Leagues"></a>
+</div>
+</div>
+
+
+<div class="x-container games-section">
+
+<button class="arrow-button btn-left"  style="left: 0;"><span class="sr-only">scroll left</span>
+<svg class="arrow-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path class="arrow-path" d="M15 18l-6-6 6-6"/>
+</svg>
+</button>
+
+<div id="theindex"></div>
+<div class="games-list">
+<div class="d-none d-xxl-block" id="show-4"></div>
+<div class="d-none d-xl-block d-xxl-none" id="show-3"></div>
+<div class="d-none d-md-block d-xl-none" id="show-2"></div>
+<div class="row games-row">
+<div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<div class="sellout" style="display:none;"></div>
+<img alt="Baseball Best Ball Championship" class="center-block" src="/site/img/games/game-bbcb-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=4920&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-lobby.php?SPORT=baseball&GAMEID=4920>Draft Times</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/best-ball-championship-baseball-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-blue">
+<ul>
+<li>Overall grand prize $10,000
+<li>Top 50 finishers win cash
+<li>Plus league prizes
+<li>16 starters and 10 bench spots
+<li>Points scoring
+<li>No weekly management required
+</ul>
+</div></div>
+<style>
+.sellout {
+	position: absolute;
+	top: 45px;
+	left: 0px;
+	padding: 5px 10px;
+	font-size: 125%;
+	transform: rotate(-45deg);
+	transform-origin: center;
+	background-color: #6C0BA9;
+	color: #fff;
+}
+</style>
+<script>
+$(document).ready(function () {
+   $.getJSON('/site/sellout-meter.php?GAMEID=4920',function(json) {
+	  if ('true' == json['closed']) 
+		  $('div[game=4920] .sellout').html("CLOSED").addClass('closed').show();
+	  else if (json['sold_percentage'] < 25)
+		  $('div[game=4920] .sellout').html("Now Drafting").show();
+	  else
+	  // if > 85% go red
+	  // if > 66% go yellow
+		  $('div[game=4920] .sellout').html(json['sold_percentage'] + "% Soldout").show();
+	  //$(".GaugeMeter").gaugeMeter({ text: json['entries'] + ' / ' + json['max_entries'] });
+   });
+});
+</script></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Fantasy Football Faceoff" class="center-block" src="/site/img/games/game-fo-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=610&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-lobby.php?SPORT=football&GAMEID=610>Leagues</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/fantasy-football-faceoff-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-red">
+<ul>
+<li>Win just 3 games to get paid
+<li>Any players you want
+<li>Play head-to-head
+<li>3-week bracket tournament
+<li>New tournaments start every week
+<li>Play from $20 to $250
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<div class="sellout" style="display:none;"></div>
+<img alt="RealTime Fantasy Baseball Championship" class="center-block" src="/site/img/games/game-rtfbc-sm.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=4900&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-lobby.php?SPORT=baseball&GAMEID=4900>Draft Times</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/fantasy-baseball-championship-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-gold">
+<ul>
+<li>Overall grand prize $10,000
+<li>$1,200 in league prizes
+<li>Strict limit of 144 teams
+<li>3-team entry discount
+<li>23 starters plus 9 bench spots
+<li>Weekly FAAB waivers
+</ul>
+</div></div>
+<style>
+.sellout {
+	position: absolute;
+	top: 45px;
+	left: 0px;
+	padding: 5px 10px;
+	font-size: 125%;
+	transform: rotate(-45deg);
+	transform-origin: center;
+	background-color: #6C0BA9;
+	color: #fff;
+}
+.closed {
+	background-color: #202020;
+}
+</style>
+<script>
+$(document).ready(function () {
+   $.getJSON('/site/sellout-meter.php?GAMEID=4900',function(json) {
+	  if ('true' == json['closed'] || "100" == json['sold_percentage']) 
+		  $('div[game=4900] .sellout').html("CLOSED").addClass('closed').show();
+	  else
+	  // if > 85% go red
+	  // if > 66% go yellow
+		  $('div[game=4900] .sellout').html(json['sold_percentage'] + "% Soldout").show();
+	  //$(".GaugeMeter").gaugeMeter({ text: json['entries'] + ' / ' + json['max_entries'] });
+   });
+});
+</script></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Triple Play Fantasy Baseball" class="center-block" src="/site/img/games/game-tp-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=4310&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-lobby.php?SPORT=baseball&GAMEID=4310> Draft Times</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/triple-play-fantasy-baseball-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-red">
+<ul>
+<li>Head-to-Head games w/points scoring
+<li>Weekly lineups with trading
+<li>Our most popular leagues
+<li>Online draft or auction
+<li>4 teams make the playoffs
+<li>Play for $20 to $1,000
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Draft and Hold Fantasy Baseball" class="center-block" src="/site/img/games/game-dhb-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=4320&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-lobby.php?SPORT=baseball&GAMEID=4320> Draft Times</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-hold-fantasy-baseball-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-light-purple">
+<ul>
+<li>12-team leagues
+<li>Monster 50 player rosters!
+<li>5x5 Rotisserie scoring
+<li>2-hr, 4-hr, 8-hr and live drafts 
+<li>Ultimate draft day strategy
+<li>Play from $50 to $1000
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Big League Fantasy Baseball" class="center-block" src="/site/img/games/game-bl-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=4300&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-lobby.php?SPORT=baseball&GAMEID=4300> Draft Times</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/fantasy-baseball-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-red">
+<ul>
+<li>10-team mixed, AL-only, or NL-only
+<li>5x5 Rotisserie scoring
+<li>Choose your own draft or auction time
+<li>Weekly lineups
+<li>Trading leagues available
+<li>Play from $30 to $100
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="High Stakes Fantasy Baseball" class="center-block" src="/site/img/games/game-hsb-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=4500&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-lobby.php?SPORT=baseball&GAMEID=4500>Draft Times</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/high-stakes-fantasy-baseball-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-green">
+<ul>
+<li>Live 5x5 rotisserie scoring
+<li>Big cash prizes
+<li>23 starters with 7 bench spots
+<li>Weekly FAAB waivers and lineups
+<li>Top competition 
+<li>Play from $125 to $2,000
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Home Run Showdown Fantasy Baseball" class="center-block" src="/site/img/games/game-hrs-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=4650&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-lobby.php?SPORT=baseball&GAMEID=4650> Draft Times</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/home-run-showdown-fantasy-baseball-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-light-purple">
+<ul>
+<li>Play for $10 to $250
+<li>Most home runs win
+<li>4 teams battle it out
+<li>Live draft or slow draft
+<li>No weekly management required 
+<li>Winner Take All
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Grand Slam Fantasy Baseball" class="center-block" src="/site/img/games/game-gs-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=4400&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-lobby.php?SPORT=baseball&GAMEID=4400> Draft Times</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/grand-slam-fantasy-baseball-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-light-blue">
+<ul>
+<li>Head-to-Head games w/points scoring
+<li>Full round-robin schedule
+<li>Best team wins total points playoffs
+<li>FAAB waivers
+<li>16 starters plus 8 bench spots
+<li>Play from $125 to $1,000
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Draft Masters Fantasy Baseball" class="center-block" src="/site/img/games/game-dmb-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=4600&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-lobby.php?SPORT=baseball&GAMEID=4600> Draft Times</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-masters-fantasy-baseball-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-red">
+<ul>
+<li>Just enjoy the draft
+<li>60 second draft picks or SMS/email
+<li>Best lineup, automatically
+<li>No weekly management required
+<li>Points style scoring
+<li>Play from $20 to $100
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Audible Fantasy Baseball" class="center-block" src="/site/img/games/game-ab-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=4350&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=/draft-lobby.php?SPORT=baseball&GAMEID=4350>Draft Times</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=/audible-fantasy-baseball-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-light-blue">
+<ul>
+<li>Call an Audible !
+<li>8, 10, 12, or 14 team leagues
+<li>Best ball with points scoring
+<li>Rosters from 20 to 40 players
+<li>Design YOUR league
+<li>Play from $20 to $100
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Slam Dunk Fantasy Basketball" class="center-block" src="/site/img/games/game-sd-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=6310&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-lobby.php?SPORT=basketball&GAMEID=6310> Draft Times</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/slam-dunk-fantasy-basketball-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-light-blue">
+<ul>
+<li>Head-to-Head game play
+<li>Points style scoring
+<li>Online draft or auction
+<li>Weekly lineups and games
+<li>4 teams make the playoffs
+<li>Play for $20 to $500
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Draft Masters Fantasy Basketball" class="center-block" src="/site/img/games/game-dmbb-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=6600&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-lobby.php?SPORT=basketball&GAMEID=6600> Draft Times</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-masters-fantasy-basketball-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-blue">
+<ul>
+<li>No weekly management required
+<li>Best lineup each week, automatically
+<li>Just enjoy the draft
+<li>60 second draft picks or SMS/email
+<li>Points style scoring
+<li>Play from $20 to $100
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Franchise Fantasy Basketball" class="center-block" src="/site/img/games/game-fran-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=6300&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-lobby.php?SPORT=basketball&GAMEID=6300> Draft Times</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/franchise-fantasy-basketball-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-light-purple">
+<ul>
+<li>9 category rotisserie scoring 
+<li>Online draft or auction
+<li>Live scoring
+<li>Weekly lineups
+<li>10-team leagues
+<li>Play from $30 to $500
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Dynasty Fantasy Basketball" class="center-block" src="/site/img/games/game-dynbb-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=6800&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=/draft-lobby.php?SPORT=basketball&GAMEID=6800>Draft Times</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=/dynasty-fantasy-basketball-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-red">
+<ul>
+<li>Multi-year league</li>
+<li>12 starters and 8 bench spots</li>
+<li>Head-to-head play w/points scoring</li>
+<li>Trade players and draft picks </li>
+<li>FAAB Waivers</li>
+<li>Leagues start at $125
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Dimes Fantasy Basketball" class="center-block" src="/site/img/games/game-dime-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=6605&LID=-1">Play</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/dimes-best-ball-basketball-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-green">
+<ul>
+<li>$10 Best Ball
+<li>Mobile optimized draft
+<li>4 hour draft clock
+<li>SMS or email draft alerts
+<li>Overnight draft pause 
+<li>Top 3 teams win prizes
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Best Ball Championship Playoff Blitz" class="center-block" src="/site/img/games/game-bbc-lg.gif">
+<div class="sellout" style="display:none;"></div>
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=924&LID=-1">Blitz</a>
+<a class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-lobby.php?SPORT=football&GAMEID=924>Draft Times</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/best-ball-championship-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-light-blue">
+<ul>
+<li>Best Ball Championship Playoff Blitz
+<li>Just for the NFL Playoffs
+<li><a target=_blank href="https://www.rtsports.com/best-ball-championship-rules#BLITZ">Top Prize $10,000</a> plus league prizes
+<!-- <li>40 sec draft picks -->
+<li>Get your best lineup each week
+<li>1-QB 1-RB 2-WR/TE 1-Flex
+<li>10 player rosters
+</ul>
+</div></div>
+<style>
+div[game="924"] .sellout {
+	position: absolute;
+	top: 45px;
+	left: 0px;
+	padding: 5px 10px;
+	font-size: 125%;
+	transform: rotate(-45deg);
+	transform-origin: center;
+	background-color: #714fa1;
+	color: #fff;
+	border-radius:5px;
+}
+div[game="924"] .closed {
+	padding: 5px 24px;
+	background-color: #222;
+}
+div[game="924"] .comingsoon {
+	font-size: 125%;
+	background-color: #cc0000;
+}
+</style>
+<script>
+$(document).ready(function () {
+   $.getJSON('/site/sellout-meter.php?GAMEID=924',function(json) {
+	  if ('true' == json['no_meter']) return;
+	  if ('true' != json['open']) 
+		  $('div[game=924] .sellout').html("Starts " + json['open']).addClass('comingsoon').show();
+	  else if ('true' == json['closed']) 
+		  $('div[game=924] .sellout').html("CLOSED").addClass('closed').show();
+	  else if (json['sold_percentage'] < 25)
+		  $('div[game=924] .sellout').html("Playoff Drafts").show();
+	  else
+		  $('div[game=924] .sellout').html(json['sold_percentage'] + "% Soldout").show();
+   });
+   requestAnimationFrame(animate);
+});
+
+    const rotatingDiv = document.getElementById("rotatingDiv");
+
+    let startTime = null;
+    const amplitude = 3; // Maximum rotation angle in degrees
+    const frequency = 1; // Oscillations per second
+
+    // Animation function
+    function animate(timestamp) {
+      if (!startTime) startTime = timestamp;
+      const elapsedTime = (timestamp - startTime) / 1000; // Convert to seconds
+
+      // Calculate the rotation angle using a sine wave
+      const angle = -45 + amplitude * Math.sin(2 * Math.PI * frequency * elapsedTime);
+
+      // Apply the rotation angle to the div using CSS transform
+      $('div[game=924] .sellout').css('transform','rotate(' + angle + 'deg)');
+
+      // Continue the animation
+      requestAnimationFrame(animate);
+	}
+
+</script></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Playoff Challenge Fantasy Football" class="center-block" src="/site/img/games/game-poc-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=700&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=/draft-lobby.php?SPORT=football&GAMEID=700><span class="glyphicon glyphicon-ok"></span> Leagues</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=/playoff-challenge-fantasy-football-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-light-blue">
+<ul>
+<li> <i class="fas fa-trophy"></i> OUR MOST POPULAR
+<li>Fantasy football for the NFL playoffs
+<li>Select any players you want
+<li>Set your own lineup each week
+<li>8 starters with 6 bench spots
+<!-- <li>Top teams win cash prizes -->
+<li>Play from $20 to $500 per team
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Dynasty Fantasy Baseball" class="center-block" src="/site/img/games/game-dynb-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=4800&LID=-1">Play</a>
+<!--
+<a class="btn btn-outline-secondary btn-default" href=/draft-lobby.php?SPORT=baseball&GAMEID=4800>Draft</a>
+-->
+<a class="btn btn-outline-secondary btn-default" href=/dynasty-baseball-for-sale>For Sale</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=/dynasty-fantasy-baseball-roto-rules>Roto</a>
+<!--
+<a target=_blank class="btn btn-outline-secondary btn-default" href=/dynasty-fantasy-baseball-pts-rules>Pts</a>
+-->
+</div>
+</div><div class="card-bottom card-blue">
+<ul>
+<li>Multi-year league
+<li>Trade players and draft picks
+<li>Expanded offseason rosters
+<li>FAAB waivers
+<li>Annual rookie and free agent draft
+<li>Play rotisserie 10-Cat 
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Dynasty Fantasy Baseball" class="center-block" src="/site/img/games/game-dynb-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=4801&LID=-1">Play</a>
+<!--
+<a class="btn btn-outline-secondary btn-default" href=/draft-lobby.php?SPORT=baseball&GAMEID=4800>Draft</a>
+-->
+<a class="btn btn-outline-secondary btn-default" href=/dynasty-baseball-for-sale>For Sale</a>
+<!--
+<a target=_blank class="btn btn-outline-secondary btn-default" href=/dynasty-fantasy-baseball-roto-rules>Roto</a>
+-->
+<a target=_blank class="btn btn-outline-secondary btn-default" href=/dynasty-fantasy-baseball-pts-rules>Pts</a>
+</div>
+</div><div class="card-bottom card-blue">
+<ul>
+<li>Multi-year league
+<li>Trade players and draft picks
+<li>Expanded offseason rosters
+<li>FAAB waivers
+<li>Annual rookie and free agent draft
+<li>Head-to-Head points scoring
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<div class="sellout" style="display:none;"></div>
+<img alt="Postseason Shootout Fantasy Football" class="center-block" src="/site/img/games/game-pss-fl2024.png">
+<!--
+<img alt="Postseason Shootout Fantasy Football" class="center-block" src="/site/img/games/game-pss-lg.gif">
+-->
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=710&LID=-1">Play</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href="https://www.rtsports.com/postseason-shootout-fantasy-football-rules">Rules</a>
+</div>
+</div><div class="card-bottom x-card-green" style="background-image: linear-gradient(#33ff4e, #00aa03); color: #202020;">
+<ul>
+<li>$100,000 Grand Prize
+<li>$224,000 prize pool
+<li>Payouts 200 places deep
+<li>Any players you want on your roster
+<li>Play for $125 or 3 for $350 
+<li>See <a style="color:#202020;" target=_blank href="https://rtsports.com/football/shootout-football-contestants.php?LID=710">who is already playing</a>
+</ul>
+</div></div>
+<style>
+div[game="710"] .sellout {
+	position: absolute;
+	top: 45px;
+	left: 0px;
+	padding: 5px 10px;
+	font-size: 125%;
+	transform: rotate(-45deg);
+	transform-origin: center;
+	background-color: #080E4B;
+	x-background-image: linear-gradient(#00aa03, #33ff4e);
+	color: #fff;
+	border-radius:5px;
+}
+</style>
+<script>
+$(document).ready(function () {
+   $.getJSON('/site/sellout-meter.php?GAMEID=710',function(json) {
+	  if ('true' == json['no_meter']) return;
+	  if ('true' == json['closed']) 
+		  $('div[game=710] .sellout').html("CLOSED").addClass('closed').show();
+	  else if (json['sold_percentage'] < 15)
+		  $('div[game=710] .sellout').html("Play Now").show();
+	  else
+		  $('div[game=710] .sellout').html(json['sold_percentage'] + "% Soldout").show();
+   });
+});
+</script></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Overtime Fantasy Football" class="center-block" src="/site/img/games/game-ot-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=720&LID=-1">Play</a>
+<a class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/draft-lobby.php?SPORT=football&GAMEID=720>Draft Times</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/overtime-fantasy-football-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-football">
+<ul>
+<li>Draft a team for the NFL playoffs
+<li>Live draft your team
+<li>You control your lineup
+<li>Quick, fast, and lots of fun
+<li>Win fantasy football cash in the playoffs
+<li>Play from $20 to $500
+</ul>
+</div></div></div><div class="game-card col-xxl-3 col-xl-4 col-md-6 col-12 mx-auto"><div class="card mx-auto">
+<div class="card-top">
+<img alt="Dimes Fantasy Football" class="center-block" src="/site/img/games/game-dime-lg.gif">
+<div class="card-buttons">
+<a class="btn btn-outline-secondary btn-default" href="/site/purchase.php?GAMEID=4605&LID=-1">Play</a>
+<a target=_blank class="btn btn-outline-secondary btn-default" href=https://www.rtsports.com/dimes-best-ball-baseball-rules>Rules</a>
+</div>
+</div><div class="card-bottom card-green">
+<ul>
+<li>$10 Best Ball
+<li>Mobile optimized draft
+<li>4 hr draft clock
+<li>SMS or email draft alerts
+<li>Overnight draft pause 
+<li>Top 3 teams win prizes
+</ul>
+</div></div></div>	
+</div></div>
+
+<button class="arrow-button btn-right" style="right: 0;"><span class="sr-only">scroll right</span>
+<svg class="arrow-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path class="arrow-path" d="M9 18l6-6-6-6"/>
+</svg>
+</button>
+
+<script>
+	
+$(document).ready(function(){
+   const $cols = $('.games-row .game-card');
+   let groupSize = 1;
+   let index = 0;
+   function ShowGroup(start) {
+      if ($('#show-4').is(':visible')) groupSize = 4;
+      if ($('#show-3').is(':visible')) groupSize = 3;
+      if ($('#show-2').is(':visible')) groupSize = 2;
+         
+      $cols.hide();
+      //if (start + groupSize >= $cols.length) index = 0;
+      
+//$('#theindex').html(index + '/' + $cols.length);
+
+      for (let i = 0; i < groupSize; i++) {
+         const current = (start + i) % $cols.length;
+         $cols.eq(current).fadeIn(500);
+      }
+   }
+   
+   ShowGroup(index);
+   
+   var rotater = setInterval(() => {
+     index = (index + groupSize) % $cols.length;
+     ShowGroup(index);
+   }, 5000);
+   
+   $(window).on( "resize", function() { 
+      if ($('#show-4').is(':visible')) groupSize = 4;
+      if ($('#show-3').is(':visible')) groupSize = 3;
+      if ($('#show-2').is(':visible')) groupSize = 2;   
+      ShowGroup(index); 
+   });   
+
+   $('.btn-left').click(function(){
+ 	   clearInterval(rotater);
+      index = (index - groupSize) % $cols.length;
+      if (index < 0) index = ($cols.length - index) % $cols.length;
+	   ShowGroup(index);
+   });
+
+   $('.btn-right').click(function(){
+	  clearInterval(rotater);
+     index = (index + groupSize) % $cols.length;
+	  ShowGroup(index);
+   });
+   
+   $('.ribbon h4').click(function(){
+ 	  window.location = '/tfc';
+   });
+
+});
+</script>
+
+</div></div></div>
+
+<style>
+.pickem {
+	width:180px;
+	height:200px;
+}	
+.pickem img {
+   overflow-y: hidden;
+}
+.pickem-basketball {
+	border: solid 1px rgba(0,122,51,0.8);
+	background-image: linear-gradient(to bottom right, rgba(0,122,51,0.8), rgba(0,0,0,0));
+}
+.pickem-football {
+	border: solid 1px rgba(79,38,131,0.8);
+	background-image: linear-gradient(to bottom right, rgba(79,38,131,0.8), rgba(0,0,0,0));
+}
+.pickem-baseball {
+	border: solid 1px rgba(0,90,156,0.8);
+	background-image: linear-gradient(to bottom right, rgba(0,90,156,0.8), rgba(0,0,0,0));
+}
+.section-dfs {
+    background-color: var(--landing-page-bg);
+}
+</style>
+
+<div class="section"><div class="container mt-5"><div class="py-5">
+
+<div class="row mt-5">
+<div class="col-md-7">
+<div class="d-flex justify-content-between mb-2">
+
+<div class="pickem pickem-basketball text-center me-2 rounded">
+<img src="https://cloudfront.rtsports.com/site/img/theme/theme5/basketball-80b.png" class="img-fluid m-2" alt="Basketball Pickem">
+<div>
+<div>CLE vs BOS</div>
+<div>Points Scored</div>
+<div class="bold fw-bold fs-3">20.5</div>
+</div>
+</div>
+
+<div class="pickem pickem-football text-center me-2 rounded">
+<img src="https://cloudfront.rtsports.com/site/img/theme/theme5/football-80.png" class="img-fluid m-2" alt="Football Pickem 1">
+<div>
+<div>DET vs MIN</div>
+<div>Receiving Yards</div>
+<div class="bold fw-bold fs-3">72.5</div>
+</div>
+</div>
+
+<div class="pickem pickem-baseball text-center me-2 rounded d-none d-sm-block">
+<img src="https://cloudfront.rtsports.com/site/img/theme/theme5/baseball-80.png" class="img-fluid m-2" alt="Baseball Pickem">
+<div>
+<div>NYY vs LAD</div>
+<div>Strikeouts</div>
+<div class="bold fw-bold fs-3">7.5</div>
+</div>
+</div>
+
+</div></div>
+
+<div class="col-md-4 offset-md-1">
+<h1>DFS PICKEM</h1>
+<p>
+Build your perfect DFS lineup by picking "more" or "less" on player stat projections. 
+Choose two to six players from multiple sports and categories like Fantasy Points, Receiving Yards, Points + Rebound + Assists, Strokes and more. Win up to 100x your entry!
+</p>
+<div class="btn-group" role="group" aria-label="Projections Button">
+<a href="/dfs-pickem" class="btn btn-primary btn-lg" style="border-right-color: #fff;">PROJECTIONS</a>	  
+<a href="/dfs-pickem" class="btn btn-primary btn-lg" style="border-left-color: #fff;"><span class="sr-only">Projections</span><i class="fas fa-chevron-right"></i></a>
+</div>
+</div>
+
+</div>
+
+</div></div></div>
+
+<div class="top-halfdome-section d-none d-sm-block">
+<div class="top-halfdome"></div>
+<!--
+<div class="container top-dome-content">
+<h1 class="display-4">Trusted for 30 Seasons</h1>
+<p class="lead">Play with a company you can trust.</p>
+</div>
+-->
+</div>
+
+<div class="section section-dfs"><div class="container mb-5"><div class="py-5">
+
+<div class="row">
+	
+<div class="col-md-5">
+<h1>DAILY FANTASY</h1>
+<h4>PLAY TODAY, WIN TODAY!</h4>
+<p>
+Experience the thrill of Daily Fantasy Sports with exciting formats like Head-to-Head, 50/50s, and big-payout GPPs. Choose your challenge in salary cap contests or draft-style leagues that put your skills to the test. There are new contests waiting for you every day. 
+</p>
+<p>
+<div class="btn-group" role="group" aria-label="Projections Button">
+<a href="/dfs-lobby" class="btn btn-primary btn-lg" style="border-right-color: #fff;">DFS LEAGUES</a>	  
+<a href="/dfs-lobby" class="btn btn-primary btn-lg" style="border-left-color: #fff;"><span class="sr-only">DFS Leagues</span><i class="fas fa-chevron-right"></i></a>
+</div>
+</p>
+</div>
+	
+<div class="col-md-6 offset-md-1 text-center">
+<img src="https://cloudfront.rtsports.com/site/img/theme/theme5/dfs-lineup.png" class="img-fluid" alt="DFS Lineup">
+</div>
+
+</div>
+
+</div></div></div>
+	
+<style>
+.video-wrapper { max-width: 800px; margin: 0 auto; }
+ video { border-radius: 0.5rem; }
+</style>
+
+<div class="section section-commissioner"><div class="container mt-5"><div class="py-5">
+
+<div class="row">
+
+<div class="col-md-6 text-center">		
+<div class="video-wrapper">
+<video class="w-100" controls poster="https://cloudfront.rtsports.com/site/img/theme/theme5/commissioner-leagues.png">
+<source src="https://cloudfront.rtsports.com/site/img/theme/theme5/commissioner-leagues.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+</div>
+
+<div class="col-md-5  offset-md-1">
+<h1>COMMISSIONER</h1>
+<h1>LEAGUES</h1>
+<h4>YOUR LEAGUE, YOUR RULES!</h4>
+<p>
+Create your perfect fantasy football league with our customizable commissioner service with over 100 settings, custom scoring, and your own logos. 
+Enjoy real-time scoring on the web or with our free app. 
+Easily manage fees and payouts with our built-in league treasurer. 
+Start your league free this year and play your way!
+</p>
+<div class="btn-group" role="group" aria-label="Projections Button">
+<a href="/fantasy-football" class="btn btn-primary btn-lg" style="border-right-color: #fff;">CUSTOM LEAGUES</a>	  
+<a href="/fantasy-football" class="btn btn-primary btn-lg" style="border-left-color: #fff;"><span class="sr-only">Customer Leagues</span><i class="fas fa-chevron-right"></i></a>
+</div>
+</div>
+
+</div>
+
+</div></div></div>
+	
+<style>
+.feature-box {
+	width: 260px;
+	height: 270px;
+	background-color: var(--landing-page-bg);
+	border-radius: calc(var(--bs-border-radius) * 3.0);
+}	
+
+.material-symbols-outlined {
+  font-size: calc(var(--bs-body-font-size) * 4.0);
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 100,
+  'GRAD' 0,
+  'opsz' 48
+}
+</style>
+
+<div class="section"><div class="container mt-5"><div class="pt-5">
+
+<!-- <div class="row"><div class="col-12"><div class="d-flex justify-content-between"> -->
+<div class="row">		
+<div class="col-12 col-xl-3 col-md-6 d-flex justify-content-center">
+
+<div class="feature-box text-center px-2 me-2 mb-4">
+<div class="feature-icon h1 mt-3">	
+<span class="material-symbols-outlined">computer</span>
+</div>
+<h6><strong>REAL-TIME SCORING</strong></h6>
+<p class="mx-3">We're called RealTime Fantasy Sports for a reason...<br>get live scoring in every league from the moment the play happens.</p>
+</div>
+
+</div><div class="col-12 col-xl-3 col-md-6 d-flex justify-content-center">
+        
+<div class="feature-box text-center px-2 me-2 mb-4">
+<div class="feature-icon h1 mt-4">	
+<span class="material-symbols-outlined">support_agent</span>
+</div>
+<h6><strong>LIVE SUPPORT</strong></h6>
+<p class="mx-3">Get an answer any questions you may have. Feel free to contact our team at<br><a href="mailto:support@rtsports.com">support@rtsports.com</a><br> or call <a href="tel:+16364471170">636-447-1170</a></p>
+</div>
+
+</div><div class="col-12 col-xl-3 col-md-6 d-flex justify-content-center">
+
+<div class="feature-box text-center px-3 me-2 mb-4">
+<div class="feature-icon h1 mt-3">	
+<span class="material-symbols-outlined">smartphone</span>
+</div>
+<h6><strong>MOBILE APP</strong></h6>
+<p>Fantasy on the go to help you win your leagues. Check out our free DFS, Draft Guide, or Teams apps in your app store today</p>
+</div>
+
+</div><div class="col-12 col-xl-3 col-md-6 d-flex justify-content-center">
+
+<div class="feature-box text-center px-3 me-2 mb-4">
+<div class="feature-icon h1 mt-3">	
+<span class="material-symbols-outlined">payments</span>
+</div>
+<h6><strong>QUICK WITHDRAWALS</strong></h6>
+<p>Withdrawals made simple and quick. Get a check fast or cash out via direct deposit to your bank account.</p>
+</div>
+		  
+</div></div>
+
+</div></div></div>
+	
+	
+<style>
+.top-dome-section {
+   position: relative;
+   padding-top: 18rem;
+   x-padding-bottom: 4rem;
+   overflow: hidden;
+}
+.top-dome {
+   position: absolute;
+   top: 0;
+   left: 50%;
+   transform: translateX(-50%) translateY(30%);
+   width: 110vw;
+   height: 300px;
+   background-color: var(--landing-page-bg);
+   border-top-left-radius: 100% 200%;
+   border-top-right-radius: 100% 200%;
+   z-index: 0;
+}
+@media (max-width: 575.98px) {
+   .top-dome-section {
+      padding-top: 8rem;
+   }
+   .top-dome {
+      height: 100px;
+   }
+}
+
+.top-dome-content {
+   position: relative;
+   z-index: 1;
+   text-align: center;
+}
+.top-halfdome-section {
+   position: relative;
+   padding-top: 12rem;
+   overflow: hidden;
+}
+.top-halfdome {
+   position: absolute;
+   top: 0;
+   left: 50%;
+   transform: translateX(-26%) translateY(30%);
+   width: 200vw;
+   height: 180px;
+   background-color: var(--landing-page-bg);
+   border-top-left-radius: 100% 200%;
+   border-top-right-radius: 100% 200%;
+   z-index: 0;
+}
+.section-divider-wrapper {
+   position: relative;
+   height: 48px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 0 auto;
+   background-color: var(--landing-page-bg);
+   padding-bottom: 18rem;
+}
+.section-divider {
+   width: 100%;
+   height: 38px;
+   background: linear-gradient(
+      to bottom,
+      #cc0000 0 24px,
+      transparent 24px 34px,
+      #cc0000 34px 28px
+   );
+}
+
+.divider-icon {
+   position: absolute;
+   top: 0;
+   transform: translateY(-25%);
+   width: 280px;
+   height: 280px;
+   object-fit: cover;
+   z-index: 1;
+}
+</style>
+
+<div class="section section-trusted">
+
+<div class="top-dome-section">
+<div class="top-dome"></div>
+<!--
+<div class="container top-dome-content">
+<h1 class="display-4">Trusted for 30 Seasons</h1>
+<p class="lead">Play with a company you can trust.</p>
+</div>
+-->
+</div>
+
+<div class="section-divider-wrapper">
+<div class="section-divider"></div>
+<img src="https://cloudfront.rtsports.com/site/img/theme/theme5/landing-homeplate.png" alt="Trusted Since 1995" class="divider-icon">
+</div>
+	
+</div>
+    
+</div>
+
+</div><div id="footer" class="x-container" style="padding:20px;"><hr><div class="row row-footer"><div class="col-sm-4 col-tn-12"><p class="credit">&copy; 2026 RealTime Fantasy Sports, Inc.</p><br><p>If you or someone you know has a gambling problem, help is available.<br>Call (1-800-GAMBLER).</p></div><div class="col-sm-4 col-tn-12"><p><img alt="RTSports.com Logo" class="footer-logo" src="https://cloudfront.rtsports.com/site/img/rtfs-logo-300w.png"></p><p class="hidden-xs hidden-tn">Football Projections by<br><a target=_blank href="https://sportsdata.io/"><img alt="SportsDataIO" src="https://cloudfront.rtsports.com/site/img/partners/sdio-light.png"></a></p></div><div class="col-sm-4 col-tn-12"><p><a href="/support">Email Us</a> &nbsp;<b>&middot;</b>&nbsp; Call Us 636.447.1170</p><p><a target=_blank href="http://twitter.com/rtfsnews"><i class="fab fa-twitter" style="font-size:2em; padding-right:20px;"></i><span class="sr-only">twitter.com/rtfsnew</span></a><a target=_blank href="http://www.facebook.com/pages/RealTime-Fantasy-Sports/197903596891479"><i class="fab fa-facebook-square" style="font-size:2em; padding-right:20px;"></i><span class="sr-only">Facebook Page</span></a><a target=_blank href="https://www.instagram.com/realtimefantasysports/"><i class="fab fa-instagram" style="font-size:2em;"></i><span class="sr-only">instagram.com/realtimefantasysports</span></a></p><p><a href="/terms">Terms of Use</a><br><a href="/responsible-gaming">Responsible Gaming</a><br><a href="/complaints">Complaints</a><br><a href="/accessibility">Accessibility</a></p></div></div><div class="modal fade" id="SignInModal" tabindex="-1" role="dialog" aria-labelledby="msg-signin"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><h4 id="msg-signin" class="modal-title">Sign In to Your Account</h4></div><div class="modal-body"><form method="post" action="/"><div class="form-group"><input class="form-control" type="text" name="ACCOUNTID" aria-label="User Account" placeholder="Email"></div><div class="form-group"><input class="form-control" type="password" name="PASSWORD" aria-label="Password" placeholder="Password"></div><input class="btn btn-primary text-center" type="submit" name="login" value="Sign In"></form></div><div class="modal-footer"><a href="/site/account-create.php">Register</a> &nbsp;<b>&middot;</b>&nbsp; <a href="/lost-password">Forgot Password</a></div></div></div></div><script>try { RTFS_Analytics(); } catch(err) { ; }</script><div class="d-none d-xl-block xd-xxl-none" id="viewport-xl"></div><div class="d-none d-lg-block d-xl-none" id="viewport-lg"></div><div class="d-none d-md-block d-lg-none" id="viewport-md"></div><div class="d-none d-sm-block d-md-none" id="viewport-sm"></div><div class="d-block d-sm-none" id="viewport-xs"></div></div></body></html>

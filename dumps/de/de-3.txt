@@ -1,40 +1,40 @@
    (BUTTON)
-   [1]Dorsch - Lexikon der Psychologie
-   [2]Dorsch - Lexikon der Psychologie
+   Dorsch - Lexikon der Psychologie
+   Dorsch - Lexikon der Psychologie
    (BUTTON) (BUTTON)
-     * [3]Gebiete
-     * [4]Dorsch-Testverzeichnis
-     * [5]Kontakt und Feedback
-     * [6]Hilfe
-     * [7]Dorsch Premium
+     * Gebiete
+     * Dorsch-Testverzeichnis
+     * Kontakt und Feedback
+     * Hilfe
+     * Dorsch Premium
 
    Herausgeber
    Markus Antonius Wirtz ,
-     * [8]Über den Dorsch
-     * [9]Impressum
-     * [10]Datenschutz
-     * [11]Nutzungsbedingungen
-     * [12]AGB
-     * [13]Barrierefreiheit
-     * [14]Newsletter
-     * [15]Stichwortregister
+     * Über den Dorsch
+     * Impressum
+     * Datenschutz
+     * Nutzungsbedingungen
+     * AGB
+     * Barrierefreiheit
+     * Newsletter
+     * Stichwortregister
 
-   Copyright © 2025 Hogrefe. All rights, including for text and data
+   Copyright © 2026 Hogrefe. All rights, including for text and data
    mining, AI training, and similar technologies, are reserved.
    (BUTTON) (BUTTON)
    (BUTTON) zurück
      *
      *
-     * [16]Gebiete
+     * Gebiete
      *
-     * [17]KOG / [18]PER
+     * KOG / PER
      *
      * Fantasie
 
    (BUTTON)
    Zitierhilfe
    Die Zitierhilfe steht nur mit der Premium-Version zur Verfügung.
-   [19]Über die Premium-Version
+   Über die Premium-Version
    Sie sind schon für die Premium-Version registriert?
    (BUTTON) Zur Anmeldung
 
@@ -43,27 +43,26 @@ Fantasie
 
 
    [engl. fantasy, imagination; gr. φαντασία (phantasia) Vorstellung,
-   Erscheinung, Gespinst], gleichbedeutend mit [20]Vorstellungskraft,
-   [[21]KOG, [22]PER], ebenso die Vorstellungen, die neu in unser
-   Bewusstsein treten und sich mit den vorhandenen Bewusstseinsinhalten
-   verbinden. Entscheidend ist das Neuartige der Fantasiekombinationen.
-   Sie enthalten meist weder [23]Erinnerung noch Wiedererkennen, wenn sie
-   auch die Neuorganisation von Erfahrenem sein können. Die Fantasie kann
-   absichtlos schweifen (passiv) oder planvoll (aktiv), mehr
-   reproduzierend oder rein kombinatorisch geartet sein. Sie kann im
-   [24]Traum, durch [25]Drogen erzeugt, bei sensorischer [26]Deprivation,
-   im [27]Aberglauben und vor allem bei [28]Psychosen überhandnehmen und
-   die Persönlichkeit beeinträchtigen. Freud ordnete die Fantasie den
-   Primärprozessen ([29]Primärvorgang) zu.
+   Erscheinung, Gespinst], gleichbedeutend mit Vorstellungskraft, [KOG,
+   PER], ebenso die Vorstellungen, die neu in unser Bewusstsein treten und
+   sich mit den vorhandenen Bewusstseinsinhalten verbinden. Entscheidend
+   ist das Neuartige der Fantasiekombinationen. Sie enthalten meist weder
+   Erinnerung noch Wiedererkennen, wenn sie auch die Neuorganisation von
+   Erfahrenem sein können. Die Fantasie kann absichtlos schweifen (passiv)
+   oder planvoll (aktiv), mehr reproduzierend oder rein kombinatorisch
+   geartet sein. Sie kann im Traum, durch Drogen erzeugt, bei sensorischer
+   Deprivation, im Aberglauben und vor allem bei Psychosen überhandnehmen
+   und die Persönlichkeit beeinträchtigen. Freud ordnete die Fantasie den
+   Primärprozessen (Primärvorgang) zu.
    (BUTTON)
 
 Inhaltsverzeichnis
 
-     * [30]Stichwort
-     * [31]Thematisch passende Hogrefe Webinare und Seminare
-     * [32]Thematisch passende Hogrefe eBooks
-     * [33]Thematisch passende Hogrefe Journal-Artikel
-     * [34]Thematisch passende Testverfahren
+     * Stichwort
+     * Thematisch passende Hogrefe Webinare und Seminare
+     * Thematisch passende Hogrefe eBooks
+     * Thematisch passende Hogrefe Journal-Artikel
+     * Thematisch passende Testverfahren
 
    Zuletzt geändert
    17.04.2021
@@ -76,10 +75,10 @@ Benutzeranmeldung
    Passwort: ____________________
    Anmelden
 
-   [35]Anmelden via Shibboleth
+   Anmelden via Shibboleth
    Merkliste
    Die Merkliste steht nur mit der Premium-Version zur Verfügung.
-   [36]Über die Premium-Version
+   Über die Premium-Version
    Sie sind schon für die Premium-Version registriert?
    (BUTTON) Zur Anmeldung
    (BUTTON)
@@ -89,15 +88,15 @@ Benutzeranmeldung
    Wir verwenden Cookies und Analysetools, um die Sicherheit und den
    Betrieb sowie die Benutzerfreundlichkeit unserer Website
    sicherzustellen und zu verbessern. Weitere Informationen finden Sie
-   unter [37]Datenschutz. Da wir Ihr Recht auf Datenschutz respektieren,
+   unter Datenschutz. Da wir Ihr Recht auf Datenschutz respektieren,
    können Sie unter „Einstellungen” selbst entscheiden, welche
    Cookie-Kategorien Sie zulassen möchten. Ihre Entscheidung können Sie
    jederzeit widerrufen. Bitte beachten Sie, dass Ihnen durch das
    Blockieren einiger Cookies möglicherweise nicht mehr alle
    Funktionalitäten der Website vollumfänglich zur Verfügung stehen.
-   [38]Alle akzeptieren [39]nur Notwendige akzeptieren [40]Einstellungen
-     * [41]Impressum
-     * [42]Datenschutz
+   Alle akzeptieren nur Notwendige akzeptieren Einstellungen
+     * Impressum
+     * Datenschutz
 
 Funktionelle Cookies
 
@@ -380,56 +379,4 @@ Iframe Cookies
 
    Speichert die Benutzereinstellungen beim Abruf eines auf anderen
    Webseiten integrierten Youtube-Videos.
-   [43]Auswahl speichern [44]Alle akzeptieren
-
-References
-
-   Visible links:
-   1. https://dorsch.hogrefe.com/
-   2. https://dorsch.hogrefe.com/
-   3. https://dorsch.hogrefe.com/gebiete
-   4. https://dorsch.hogrefe.com/testverzeichnis
-   5. https://dorsch.hogrefe.com/kontakt-und-feedback
-   6. https://dorsch.hogrefe.com/hilfe
-   7. https://dorsch.hogrefe.com/premium-version
-   8. https://dorsch.hogrefe.com/ueber-den-dorsch
-   9. https://dorsch.hogrefe.com/ueber-uns/impressum
-  10. https://dorsch.hogrefe.com/ueber-uns/datenschutz
-  11. https://dorsch.hogrefe.com/ueber-uns/nutzungsbedingungen
-  12. https://dorsch.hogrefe.com/agb
-  13. https://dorsch.hogrefe.com/erklaerung-zur-barrierefreiheit
-  14. https://dorsch.hogrefe.com/newsletter
-  15. https://dorsch.hogrefe.com/stichwortregister
-  16. https://dorsch.hogrefe.com/gebiete
-  17. https://dorsch.hogrefe.com/stichwort/fantasie
-  18. https://dorsch.hogrefe.com/stichwort/fantasie
-  19. https://dorsch.hogrefe.com/premium-version
-  20. https://dorsch.hogrefe.com/stichwort/vorstellung
-  21. https://dorsch.hogrefe.com/gebiet/kognitive-psychologie
-  22. https://dorsch.hogrefe.com/gebiet/persoenlichkeitspsychologie-und-differentielle-psychologie
-  23. https://dorsch.hogrefe.com/stichwort/erinnerung
-  24. https://dorsch.hogrefe.com/stichwort/traum-traeumen
-  25. https://dorsch.hogrefe.com/stichwort/droge
-  26. https://dorsch.hogrefe.com/stichwort/deprivation
-  27. https://dorsch.hogrefe.com/stichwort/aberglaube
-  28. https://dorsch.hogrefe.com/stichwort/psychose
-  29. https://dorsch.hogrefe.com/stichwort/primaervorgang
-  30. https://dorsch.hogrefe.com/stichwort/fantasie#detail__main-content
-  31. https://dorsch.hogrefe.com/stichwort/fantasie#found-seminars-recommendations
-  32. https://dorsch.hogrefe.com/stichwort/fantasie#book-recommendations
-  33. https://dorsch.hogrefe.com/stichwort/fantasie#journals-recommendations
-  34. https://dorsch.hogrefe.com/stichwort/fantasie#found-test-product-recommendations
-  35. https://dorsch.hogrefe.com/anmelden/shibboleth
-  36. https://dorsch.hogrefe.com/premium-version
-  37. https://dorsch.hogrefe.com/ueber-uns/datenschutz
-  38. https://dorsch.hogrefe.com/stichwort/fantasie
-  39. https://dorsch.hogrefe.com/stichwort/fantasie
-  40. https://dorsch.hogrefe.com/stichwort/fantasie
-  41. https://dorsch.hogrefe.com/ueber-uns/impressum
-  42. https://dorsch.hogrefe.com/ueber-uns/datenschutz
-  43. https://dorsch.hogrefe.com/stichwort/fantasie
-  44. https://dorsch.hogrefe.com/stichwort/fantasie
-
-   Hidden links:
-  46. https://dorsch.hogrefe.com/
-  47. https://dorsch.hogrefe.com/stichwort/fantasie
+   Auswahl speichern Alle akzeptieren

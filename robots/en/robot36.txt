@@ -1,0 +1,16 @@
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /readme.html
+Disallow: /refer/
+Disallow: /download-audio/$
+Disallow: /*?view=map
+
+User-agent: ia_archiver
+Disallow: /
+User-agent: bingbot
+Crawl-delay: 10
+User-agent: AmazonAdBot
+Crawl-Delay: 10
+Sitemap: https://www.chosic.com/wp-sitemap.xml

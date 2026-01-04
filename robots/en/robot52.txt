@@ -1,0 +1,3 @@
+Sitemap: https://bibliotekanauki.pl/sitemap_index.xml
+User-agent: *
+Disallow: /search

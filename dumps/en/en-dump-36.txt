@@ -1922,3 +1922,965 @@ More
    Music data on our tools and pages (except Music Downloads pages) is
    provided by Spotify AB. chosic.com is not affiliated with Spotify AB in
    any way.
+   #oEmbed (JSON) oEmbed (XML)
+
+   Skip to content
+
+   Logo
+   Chosic
+   (BUTTON) Main Menu
+
+     * Tools (BUTTON) Menu Toggle
+          + Popular tools
+          + Music Genre Finder
+          + Similar Songs Finder
+          + Find song by lyrics
+          + Spotify Playlist Analyzer
+          +
+          + Discover new music
+          + Similar Songs Finder
+          + Music artists map
+          + Similar Artists Finder
+          + Obscure Music Finder
+          + New Releases by artist
+          +
+          + Search
+          + Find song by lyrics
+          + Songs Title Search
+          + Find songs by theme
+          + Search Music by BPM
+          + Browse songs
+          + Browse artists
+          + Songs lists
+          + Analyse / Organize
+          + Playlist Analyzer
+          + Playlist Sorter
+          + Song BPM finder
+          + Playlist Exporter
+          + Spotify Liked Songs Organizer
+          + My Spotify Stats
+          + Music taste checker
+          +
+          + Genres
+          + Explore Music genres
+          + Music Genre Finder
+          + Albums by Genre
+          + Top Songs by Genre
+          + New Releases by genre
+          +
+          + Random / fun
+          + Random Songs Generator
+          + Random Artists Generator
+          + Random music genre
+          + Random albums generator
+          + Your Birthday Songs
+          + Playlists
+          + Spotify Playlist Finder
+          + Top Spotify Playlists
+          + Mood Playlist Generator
+          + Spotify Playlist Radio
+          + Mindful mix generator
+          +
+          + Names Generator
+          + Playlist Names Generator
+          + Song Name Generator
+          + Beat Name Generator
+          + Channel Name Generator
+          + Band Name Generator
+          + Album Name Generator
+     * Download music
+     * Browse (BUTTON) Menu Toggle
+          + Songs
+          + Artists
+          + Genres
+          + song lists
+          + Top Songs by Genre
+          + Top Albums by Genre
+     * Ad Free
+     * Login
+     * (BUTTON) Menu Toggle
+          + Your Account
+          + Your Library
+     *
+
+     * All Genres
+     * Genre Finder
+
+   ____________________
+   [Genre_]
+
+   image image
+
+Genre fantasy
+
+   Go to playlist
+   (BUTTON) Preview
+   (BUTTON)
+   5 sec 10 sec 30 sec
+   (BUTTON) Play via YouTube
+   (BUTTON) (BUTTON)
+
+   Fantasy music is a genre that often incorporates elements of folk,
+   classical, and world music to create a mystical and enchanting
+   atmosphere. It often features ethereal vocals and intricate
+   instrumentation, with lyrics that draw inspiration from mythology,
+   fairy tales, and other fantastical themes. The music is designed to
+   transport listeners to otherworldly realms and evoke a sense of wonder
+   and magic. (AI Generated)
+   Parent genre: New Age
+
+Most popular fantasy artists
+
+   default-img default-img
+   (BUTTON)
+   Karliene
+   default-img default-img
+   (BUTTON)
+   Heather Dale
+   default-img default-img
+   (BUTTON)
+   Eurielle
+   default-img default-img
+   (BUTTON)
+   Alina Gingertail
+   default-img default-img
+   (BUTTON)
+   Erutan
+   default-img default-img
+   (BUTTON)
+   Bonnie Grace
+   default-img default-img
+   (BUTTON)
+   Trobar de Morte
+   default-img default-img
+   (BUTTON)
+   Chalmeris
+   default-img default-img
+   (BUTTON)
+   Elane
+   default-img default-img
+   (BUTTON)
+   Martin Egger
+   default-img default-img
+   (BUTTON)
+   Vindsvept
+   default-img default-img
+   (BUTTON)
+   Jean Luc Lenoir
+   default-img default-img
+   (BUTTON)
+   Ravnskjold
+   default-img default-img
+   (BUTTON)
+   Unapologetically Melodic
+   default-img default-img
+   (BUTTON)
+   Ean Grimm
+   default-img default-img
+   (BUTTON)
+   June Westfield
+   [{"id":"6o0tlyxHJhnel5vkFMrdAN","name":"Karliene","image":"https:\/\/i.
+   scdn.co\/image\/ab6761610000e5eb3158385e213fd0f8f268eb92","preview":"ht
+   tps:\/\/p.scdn.co\/mp3-preview\/72a6541aa79ddf23437d365cc549bb618d75ea8
+   c?cid=ad5ebaf37746484ca61e02068fd2988e"},{"id":"4NCKwyk9WVY6YI81tRQTLA"
+   ,"name":"Heather
+   Dale","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb4773e18ee884
+   fbf0511e8ec1","preview":"https:\/\/p.scdn.co\/mp3-preview\/286aa0735424
+   ca6e8602e8fd49d9f07976c670f7?cid=3adc8ef4c01046648691ceace3205be1"},{"i
+   d":"7F1l2kTBvOPGd8sF8nBEtv","name":"Eurielle","image":"https:\/\/i.scdn
+   .co\/image\/ab6761610000e5ebc9c172a2d949fb9215257232","preview":"https:
+   \/\/p.scdn.co\/mp3-preview\/298e5abb88f324ed522480fa2b177c7339e25cbb?ci
+   d=243d2c658a4745b78076f658fc01ee4f"},{"id":"6Y9L2UoclnoOMGgKfijaNH","na
+   me":"Alina
+   Gingertail","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb166cf1
+   3456a62b89c00664d0","preview":"https:\/\/p.scdn.co\/mp3-preview\/3424bb
+   41ca1443e2fac2a89ba68aab614693edb7?cid=3adc8ef4c01046648691ceace3205be1
+   "},{"id":"4eiYHJLlxeKQXAw0UDoXJl","name":"Erutan","image":"https:\/\/i.
+   scdn.co\/image\/ab6761610000e5eb894f56c79cc0fcdffe725ef6","preview":"ht
+   tps:\/\/p.scdn.co\/mp3-preview\/754b21c21593127940a72383138b7162c009d9c
+   0?cid=ad5ebaf37746484ca61e02068fd2988e"},{"id":"3z6E6ZPwJ7l0mp3HHcOfd2"
+   ,"name":"Bonnie
+   Grace","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb9b6929d0f33
+   05d922c8e0bc1","preview":"https:\/\/p.scdn.co\/mp3-preview\/b0343be92dd
+   6cfb4a57168d2f14ad64fec59eb85?cid=9c1e714b207b46429963ee8fa8bf0044"},{"
+   id":"4KL9W3Y0keGcIdRuX2TkRN","name":"Trobar de
+   Morte","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb0686ff2e428
+   54c798bc9a818","preview":"https:\/\/p.scdn.co\/mp3-preview\/0e8ccfbe02a
+   608c49655a26c89d7b021711362a4?cid=9c1e714b207b46429963ee8fa8bf0044"},{"
+   id":"6qVGXh4jAcWmYKF2ppO46R","name":"Chalmeris","image":"https:\/\/i.sc
+   dn.co\/image\/ab6761610000e5ebedad2ad7398f86abb48f5c85","preview":"http
+   s:\/\/p.scdn.co\/mp3-preview\/8d339445c56f1cc582d87179c37a973bb43d010a?
+   cid=9c1e714b207b46429963ee8fa8bf0044"},{"id":"0zXNXbtI67aDGrEgFdTuEk","
+   name":"Elane","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb40e6
+   0e6ce6fdd51fd53685d2","preview":"https:\/\/p.scdn.co\/mp3-preview\/4c97
+   cc1049b8fce339a4656a470d7db91aa49645?cid=9c1e714b207b46429963ee8fa8bf00
+   44"},{"id":"1Ma9rQWsxr93ayZ9RJB7TS","name":"Martin
+   Egger","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5ebef7adc04c52
+   97bcc110ca486","preview":"https:\/\/p.scdn.co\/mp3-preview\/20b31825b25
+   cf03135c2d71a1f9f2dc73c92c6df?cid=9c1e714b207b46429963ee8fa8bf0044"},{"
+   id":"2FVQ3P7dSKttngc7FaE83J","name":"Vindsvept","image":"https:\/\/i.sc
+   dn.co\/image\/ab6761610000e5eb4d80cc51793c326345fadfb5","preview":"http
+   s:\/\/p.scdn.co\/mp3-preview\/aee4dbb56d3fe9ab5770fedd3f1bd6104d91f710?
+   cid=9c1e714b207b46429963ee8fa8bf0044"},{"id":"6T5OAvSJ9agKPCscGknBOk","
+   name":"Jean Luc
+   Lenoir","image":"https:\/\/i.scdn.co\/image\/ab67616d0000b273c27e08febd
+   678b722f247060","preview":"https:\/\/p.scdn.co\/mp3-preview\/614e961463
+   a052b26a7f9ba08693eec057ee7be8?cid=ad5ebaf37746484ca61e02068fd2988e"},{
+   "id":"0B8wNPtjpy8HNoaCMoq0me","name":"Ravnskjold","image":"https:\/\/i.
+   scdn.co\/image\/ab6761610000e5eb3c20c3104dfae09436486158","preview":"ht
+   tps:\/\/p.scdn.co\/mp3-preview\/1d0426d8980226135c755c16e1f8447762f2598
+   8?cid=9c1e714b207b46429963ee8fa8bf0044"},{"id":"4ZpqbQv86s6TpaszGnRJeM"
+   ,"name":"Unapologetically
+   Melodic","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb1cbfe5b00
+   4806e4b3cb953b9","preview":"https:\/\/p.scdn.co\/mp3-preview\/535205002
+   30252df5ff78a4400cc0240a1602ce1?cid=9c1e714b207b46429963ee8fa8bf0044"},
+   {"id":"1CpsGlYxA696bgBGhWlo2j","name":"Ean
+   Grimm","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb49b974e808e
+   eb1023ad1f27a","preview":"https:\/\/p.scdn.co\/mp3-preview\/b2c64384570
+   c17cdd90788dd23606194abeecd3b?cid=9c1e714b207b46429963ee8fa8bf0044"},{"
+   id":"1KvhKvJOR8CiCBJG3RNarA","name":"June
+   Westfield","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eba9beff6
+   b0ee002a747129af9","preview":"https:\/\/p.scdn.co\/mp3-preview\/8b91043
+   fd2db79b6c3c36065c0fe53af6f06ccc0?cid=9c1e714b207b46429963ee8fa8bf0044"
+   },{"id":"53X0Y3pZNqikGl1nNf7cWO","name":"Everrune","image":"https:\/\/i
+   .scdn.co\/image\/ab6761610000e5eb5615c2fd450a04f127dcde64","preview":"h
+   ttps:\/\/p.scdn.co\/mp3-preview\/cdb4c3217f5e62b0c9fedb593efcbc197f2292
+   31?cid=9c1e714b207b46429963ee8fa8bf0044"},{"id":"69oAopqYNF1m9lbFfqC9lv
+   ","name":"Gustavo
+   Steiner","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb22b5d1c33
+   13c32d7e1291c4b","preview":"https:\/\/p.scdn.co\/mp3-preview\/290e8a541
+   2cde0db02351b488d11d93c45e1b4b3?cid=9c1e714b207b46429963ee8fa8bf0044"},
+   {"id":"5EQIBLPeVGQhTJxlk3HJdO","name":"Ashley
+   Serena","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eba93463b0ae
+   d56ed6657a7b61","preview":"https:\/\/p.scdn.co\/mp3-preview\/265f3c3d24
+   734478a25553596b9dadcd394a19bb?cid=3adc8ef4c01046648691ceace3205be1"},{
+   "id":"5RYC6xvIbFGkRU9Tr5XRTT","name":"Merrigan","image":"https:\/\/i.sc
+   dn.co\/image\/ab6761610000e5ebaaa80c13157ec3bbac52b5d3","preview":"http
+   s:\/\/p.scdn.co\/mp3-preview\/aed5295bd902f937dee089311ab540f4a16db582?
+   cid=9c1e714b207b46429963ee8fa8bf0044"},{"id":"5XfJbtmixExXtkrNXnZ78G","
+   name":"Pierre-Alexandre
+   Monin","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5ebea087d4145a
+   f4857f5825de1","preview":"https:\/\/p.scdn.co\/mp3-preview\/2f0bace86c4
+   5918e8327c6c02e1215aa74c6c82c?cid=9c1e714b207b46429963ee8fa8bf0044"},{"
+   id":"1xkBfXFYaz0S8m15508YIn","name":"Valkyrion","image":"https:\/\/i.sc
+   dn.co\/image\/ab6761610000e5ebd40bcb334fc598bed24a567a","preview":"http
+   s:\/\/p.scdn.co\/mp3-preview\/40067de99162de1e61873086e08b5d525c8ebfbc?
+   cid=9c1e714b207b46429963ee8fa8bf0044"},{"id":"1Uv6AiKJ3qAnRNBsCSXFq9","
+   name":"Joran
+   Elane","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb04386ba29af
+   4a19197ee02f7","preview":"https:\/\/p.scdn.co\/mp3-preview\/026eef8e980
+   a392185905dc0ca52b365b5d245e1?cid=9c1e714b207b46429963ee8fa8bf0044"},{"
+   id":"2LrP1FcVqc0i5M09jNBzxI","name":"Nati
+   Dreddd","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb60f2d33630
+   68752639e4b30d","preview":"https:\/\/p.scdn.co\/mp3-preview\/a452b5bcc1
+   96f0b286cb739e8d2430210a12cd17?cid=9c1e714b207b46429963ee8fa8bf0044"},{
+   "id":"73EYmD06r0AjOjcvzQ9yGN","name":"\u00c7a\u011fatay
+   K\u0131l\u0131\u00e7","image":"https:\/\/i.scdn.co\/image\/ab6761610000
+   e5eb3dff349d9d488914e6769a2e","preview":"https:\/\/p.scdn.co\/mp3-previ
+   ew\/a625b40300af94a0afb0b68f825274a580a2ce95?cid=9c1e714b207b46429963ee
+   8fa8bf0044"},{"id":"5GGk7ha3KeWS55EPh5hmwF","name":"Patty Gurdy's
+   Circle","image":"https:\/\/i.scdn.co\/image\/ab67616d0000b273cee75caacd
+   eed8fd8ef8fd93","preview":"https:\/\/p.scdn.co\/mp3-preview\/d4746f2a62
+   45ab4f8fecd6480d83a06afa0997ac?cid=9c1e714b207b46429963ee8fa8bf0044"},{
+   "id":"17njitvUNAIx81UoflmQyi","name":"Michael
+   Ghelfi","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5ebf6af6f88d5
+   4b3debda7a9a57","preview":"https:\/\/p.scdn.co\/mp3-preview\/92735d292f
+   e54a622b692165f46eeb89f885222b?cid=9c1e714b207b46429963ee8fa8bf0044"},{
+   "id":"58oIVIeIEpJJ3qzoPFDpad","name":"Borough
+   Bound","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5ebb55db715add
+   27ac295753817","preview":"https:\/\/p.scdn.co\/mp3-preview\/caefe2114e4
+   2e059da33b50f442bb879bf3b118e?cid=9c1e714b207b46429963ee8fa8bf0044"},{"
+   id":"1BcqkzstassP2Rc0JdyAcf","name":"Bart
+   Zeal","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb5fbd54e4f1c7
+   f8df00f0198a","preview":"https:\/\/p.scdn.co\/mp3-preview\/694c059a1654
+   5374c25f776e81802233cd0ff7c7?cid=9c1e714b207b46429963ee8fa8bf0044"},{"i
+   d":"1MaAIXfEkYtdlWr57ZYA5b","name":"Eleni
+   Violaris","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eba39be03b
+   e3e674590c74a57c","preview":"https:\/\/p.scdn.co\/mp3-preview\/00d91c03
+   91a7fe5257784dcf4fab6c8b958053b4?cid=9c1e714b207b46429963ee8fa8bf0044"}
+   ,{"id":"16E0A5HMjBsnPKvLr1MoaX","name":"Forest
+   Elves","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5ebfc0a06d37f0
+   5cd2214e0bad0","preview":"https:\/\/p.scdn.co\/mp3-preview\/2fa7ea737f8
+   9ec4706b55859385ace27a3f8ad59?cid=9c1e714b207b46429963ee8fa8bf0044"},{"
+   id":"05ePZqCxPqNy7VZfDpwTgi","name":"Ivan
+   Duch","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5ebc4ec5123c7aa
+   2e612ab8de45","preview":"https:\/\/p.scdn.co\/mp3-preview\/336f65447f09
+   3c0cc79da6f3ed44de5ff8c8c823?cid=9c1e714b207b46429963ee8fa8bf0044"},{"i
+   d":"5e7EpDiGHABSwKPdoEyvN4","name":"Lewis
+   Clarke","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb4d37c67599
+   69170758bc067d","preview":"https:\/\/p.scdn.co\/mp3-preview\/36be8e932b
+   9becc542b6587b1b391166528abae7?cid=9c1e714b207b46429963ee8fa8bf0044"},{
+   "id":"7EIbKyiLnEJ1Y074UIUyZJ","name":"Peter
+   Hollens","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb5c2b393e7
+   d8a0a1bdb64b231","preview":"https:\/\/p.scdn.co\/mp3-preview\/ee90175fb
+   c7dc073c16d57be70c50079dea6baaf?cid=9c1e714b207b46429963ee8fa8bf0044"},
+   {"id":"4m5czFLS2w6j6NdvkAu34J","name":"Ingd\u00eds
+   Aelin","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb72b59052f79
+   3e9fd764eac20","preview":"https:\/\/p.scdn.co\/mp3-preview\/d5160535107
+   6ca2a54aacc72c7c9f289c05f3ea2?cid=9c1e714b207b46429963ee8fa8bf0044"},{"
+   id":"1Xe0XfPaLvRSFy4F7QT3Ll","name":"Grimwater","image":"https:\/\/i.sc
+   dn.co\/image\/ab6761610000e5ebb1f3b7912008ee3fa9318a68","preview":"http
+   s:\/\/p.scdn.co\/mp3-preview\/d913e07195fe0a1dbdb58df46c738e108f8368ee?
+   cid=9c1e714b207b46429963ee8fa8bf0044"},{"id":"3LgsL4KAyz5zPUMnDoZjCa","
+   name":"chuck e. myers
+   'sea'","image":"https:\/\/i.scdn.co\/image\/ab67616d0000b2735f4d3b42655
+   f6d37b5953129","preview":"https:\/\/p.scdn.co\/mp3-preview\/eb0c0fe9b84
+   5a8b05e909184e87a813ba2b5f80a?cid=9c1e714b207b46429963ee8fa8bf0044"},{"
+   id":"5LRDdxWTILiGqK1DV7POLj","name":"Fia
+   Or\u00e4dd","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb53914d
+   3e6d6afffaad198eca","preview":"https:\/\/p.scdn.co\/mp3-preview\/d9f50e
+   d0044c4ce5a6ea520e5dde8c55c652d88d?cid=ad5ebaf37746484ca61e02068fd2988e
+   "},{"id":"3jRUgDdL3cI6Jti1iZPVAB","name":"Chxrlotte","image":"https:\/\
+   /i.scdn.co\/image\/ab6761610000e5eb7d8e7e5bb847fd42975a1fd3","preview":
+   "https:\/\/p.scdn.co\/mp3-preview\/94b57dda7e823f86d4f6cb0b746ac4ddcf49
+   5213?cid=9c1e714b207b46429963ee8fa8bf0044"},{"id":"1dw3ufYwltOgeH5rIEVi
+   hB","name":"Dreyma","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5
+   ebae52e2d2aefe57604086f605","preview":"https:\/\/p.scdn.co\/mp3-preview
+   \/ab63d4c08596749edfc30c664ce896c968931788?cid=9c1e714b207b46429963ee8f
+   a8bf0044"},{"id":"3hNRxHveKzuhnqzjtvoyoJ","name":"Ginny
+   Di","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb969ce62e45b38a
+   4b2380cccf","preview":"https:\/\/p.scdn.co\/mp3-preview\/9fd3dede1b4828
+   517734b4cb29eb46c4f2ce198f?cid=9c1e714b207b46429963ee8fa8bf0044"},{"id"
+   :"4o6EEebyNsDyI14s2jnB4G","name":"Eye of
+   Melian","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5ebf3db75ffc4
+   42c81c09f07841","preview":"https:\/\/p.scdn.co\/mp3-preview\/abb9d43639
+   7da377b38dac10f668f449b829c728?cid=ad5ebaf37746484ca61e02068fd2988e"},{
+   "id":"1PZyunqE6j98jFAq4YOMWM","name":"Christine
+   Slagman","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb30678ad4a
+   071d092169fce72","preview":"https:\/\/p.scdn.co\/mp3-preview\/5ac74367f
+   56ac2b27326ebd8d2fc64b942fe1d15?cid=9c1e714b207b46429963ee8fa8bf0044"},
+   {"id":"2nLEYDG7mJw4KYMlp4gBhi","name":"Dark Fantasy
+   Studio","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5ebbcc7f7c222
+   c0e7283588e96f","preview":"https:\/\/p.scdn.co\/mp3-preview\/1a623f559d
+   828c101bcb7935830bf05c1f65d9e9?cid=9c1e714b207b46429963ee8fa8bf0044"},{
+   "id":"7HUePXTJrfUeK0iNdmVV9S","name":"Alina
+   Lesnik","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb202b255f8d
+   d98f26936b9783","preview":"https:\/\/p.scdn.co\/mp3-preview\/f7efa06bd9
+   b256941b419563ccebe272aec2fdd6?cid=9c1e714b207b46429963ee8fa8bf0044"},{
+   "id":"6mPz81EN4zm06rSNSr97w9","name":"Jon
+   Adamich","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5ebc7da5cbd9
+   a1d702ee9877248","preview":"https:\/\/p.scdn.co\/mp3-preview\/250069e6d
+   88718fbc9c66a5878a762c6693194bb?cid=9c1e714b207b46429963ee8fa8bf0044"},
+   {"id":"5YB02bWB3Et6pQXFpGl7Bv","name":"Jo\u00e3o
+   Guerra","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb322fff5352
+   428f654dcf31b4","preview":"https:\/\/p.scdn.co\/mp3-preview\/4ab4aaf0f7
+   8083148cf609671930a21a392de29c?cid=9c1e714b207b46429963ee8fa8bf0044"},{
+   "id":"0uG28KsIyKPbQWQFM9VPyN","name":"Solid
+   Audioworks","image":"https:\/\/i.scdn.co\/image\/ab67616d0000b273fcc490
+   4608c19d260cd61d37","preview":"https:\/\/p.scdn.co\/mp3-preview\/ebfc89
+   bc749913a78a28041a809f8f3dff869d56?cid=ad5ebaf37746484ca61e02068fd2988e
+   "},{"id":"36UFyqEYKzYrUHmrCZmgF3","name":"Rytelier","image":"https:\/\/
+   i.scdn.co\/image\/ab67616d0000b27353bc276b63c36d33059fbb87","preview":"
+   https:\/\/p.scdn.co\/mp3-preview\/0dc08f74a19dbcda15d843d05673d84ad72d7
+   4f0?cid=9c1e714b207b46429963ee8fa8bf0044"},{"id":"6bSndTmRCePvbwIo9oGpr
+   K","name":"Josefin
+   Berger","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb115ac55759
+   b13a3e1ec5791f","preview":"https:\/\/p.scdn.co\/mp3-preview\/ecd0a7b665
+   05970394f99ad821398ca15f3c9213?cid=9c1e714b207b46429963ee8fa8bf0044"},{
+   "id":"6Y64gHhCF0B0TEcFEfSGzM","name":"Joy
+   Aileen","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5eb8b97245d17
+   32e65c1f708e2f","preview":"https:\/\/p.scdn.co\/mp3-preview\/eeb9272c73
+   232a4879fed6df65397c2ac29e788e?cid=ad5ebaf37746484ca61e02068fd2988e"},{
+   "id":"2kKhDvtEoZBs2Uy3KBxBTm","name":"Alex
+   Catana","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5ebefa1cc98ea
+   b5973a780e5635","preview":"https:\/\/p.scdn.co\/mp3-preview\/bb196dff34
+   117f690118066d466c5862cb15fb54?cid=9c1e714b207b46429963ee8fa8bf0044"},{
+   "id":"24cyIk6Iq65NGpgMGQT3tF","name":"Arcandia","image":"https:\/\/i.sc
+   dn.co\/image\/ab6761610000e5ebbaa9bbedccb95707dbb01ed6","preview":"http
+   s:\/\/p.scdn.co\/mp3-preview\/b9814147f267fa8be08f7324cae8d3f5459cd164?
+   cid=9c1e714b207b46429963ee8fa8bf0044"},{"id":"3jR5lWEzg2XVgbLuUdZFxO","
+   name":"Micha\u0142
+   Juchno","image":"","preview":"https:\/\/p.scdn.co\/mp3-preview\/2b5d2df
+   26f1f588cb72df0e23eaf64911fc6608e?cid=ad5ebaf37746484ca61e02068fd2988e"
+   },{"id":"4ZTs6Cv4ukqp1Qgm3qxz2o","name":"Pale Winter
+   Sun","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5ebfdced8183c31a
+   cc346424b93","preview":"https:\/\/p.scdn.co\/mp3-preview\/48ff75a06f6ff
+   b06e1e723060494577b8876610c?cid=9c1e714b207b46429963ee8fa8bf0044"},{"id
+   ":"2s5W6caxgB6ELX757SA0Wc","name":"Fenix
+   Fatalist","image":"https:\/\/i.scdn.co\/image\/ab67616d0000b273bfcdc70d
+   cc4f0c24c42f9b5a","preview":"https:\/\/p.scdn.co\/mp3-preview\/16fffc02
+   e70798706aefd3497dc941e0cf5c2b95?cid=9c1e714b207b46429963ee8fa8bf0044"}
+   ,{"id":"0JTAHEhqOW0rKq4dm2bHJ9","name":"Kelli
+   Siren","image":"https:\/\/i.scdn.co\/image\/ab6761610000e5ebb096a81e264
+   77a79ea84d5ba","preview":"https:\/\/p.scdn.co\/mp3-preview\/c2c642b94c1
+   9dc8e7a99e65d178be405bd667549?cid=9c1e714b207b46429963ee8fa8bf0044"},{"
+   id":"6IXlbrv6KRa7eq2FmcF7zz","name":"MacGregor ft. Alicia
+   Frye","image":"https:\/\/i.scdn.co\/image\/ab67616d0000b27380ca82821d93
+   5d4c084034ee","preview":"https:\/\/p.scdn.co\/mp3-preview\/e30edff1d7d6
+   b4b0b56b179fe1ed125df63ba756?cid=9c1e714b207b46429963ee8fa8bf0044"}]
+   Load more artists
+
+Related genres
+
+     * medieval
+     * celtic
+     * sea shanties
+     * medieval folk
+     * neoclassical
+     * neofolk
+     * rune folk
+     * neo-pagan
+     * renaissance
+     * dark ambient
+     * celtic rock
+     * geek folk
+     * melodic metal
+     * symphonic metal
+     * symphonic rock
+     * lullaby
+     * medieval metal
+     * swedish ballads
+     * japanese vgm
+
+Top countries
+
+     * United Kingdom
+     * United States
+     * Ireland
+     * Europe
+     * Norway
+
+Instruments used
+
+   Electric Guitar, Bass Guitar, Drum Kit, Vocals, Keyboard/Synthesizer,
+   Double Bass, Keyboard/Piano, Synthesizer
+
+Releases by year
+
+   Here you can see the popularity of Fantasy genre over time. This graph
+   shows albums and singles releases count by year and decade.
+   2020s 691
+   2025 38
+   2024 103
+   2023 162
+   2022 129
+   2021 165
+   2020 94
+   2010s 247
+   2019 51
+   2018 33
+   2017 46
+   2016 33
+   2015 33
+   2014 18
+   2013 23
+   2012 2
+   2011 6
+   2010 2
+   2000s 16
+   2008 4
+   2006 3
+   2005 2
+   2004 2
+   2003 2
+   2002 1
+   2001 1
+   2000 1
+   1990s 3
+   1997 1
+   1995 1
+   1993 1
+   1960s 1
+   1962 1
+   958 releases
+   Show albums
+
+fantasy playlist created by Chosic
+
+   Enjoy this playlist of popular fantasy music. We made this playlist
+   using an algorithm created by our team.
+   Play on spotify
+
+Popular fantasy Songs
+
+   image image
+   Become the Beast
+
+   Karliene
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   The Maiden and the Selkie
+
+   Heather Dale
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   The Bridge Of Khazad-Dum (From "The Lord Of The Rings")
+
+   Eurielle
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   My Mother Told Me
+
+   Alina Gingertail
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   Come Little Children
+
+   Erutan
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   May You Have
+
+   Bonnie Grace
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   Summoning the Gods
+
+   Trobar de Morte
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   The Unicorn
+
+   Chalmeris
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   Dämmertal
+
+   Elane
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   Calm Night Under Red Stars
+
+   Martin Egger
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   Show more songs
+
+Top New fantasy Songs of 2025
+
+   image image
+   Evenstar - From "The Lord of the Rings: The Two Towers"
+
+   Chalmeris
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   Dreaming of Bag End (From "The Hobbit: An Unexpected Journey")
+
+   Chalmeris
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   Blackthorn Winter
+
+   Eye of Melian
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   When I Find Her
+
+   Nati Dreddd
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   Woodland Spirits
+
+   Bonnie Grace
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   The Council of Elrond Assembles (From: 'The Lord of the Rings: The
+   Fellowship of the Ring')
+
+   Chalmeris
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   Azure Wilds
+
+   Everrune
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   Astarte
+
+   Chalmeris
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   As The City's Sleeping
+
+   Eurielle
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   image image
+   To Live And Breathe
+
+   Eurielle
+   (BUTTON)
+   Find Similar
+   Analyze Song
+   In Playlists
+   Top songs of 2025
+   Top songs of 2024
+
+Most popular fantasy albums
+
+   default-img default-img
+   Come Little Children
+   Erutan
+   2013
+   default-img default-img
+   My Jolly Sailor Bold
+   Ashley Serena
+   2020
+   default-img default-img
+   The Bridge Of Khazad-Dum (From "The Lord Of The Rings")
+   Eurielle
+   2015
+   default-img default-img
+   Come With Me
+   Chxrlotte
+   2019
+   default-img default-img
+   For the Dancing and the Dreaming
+   Erutan
+   2015
+   default-img default-img
+   Lullaby of Woe
+   Ashley Serena
+   2016
+   default-img default-img
+   My Mother Told Me
+   Nati Dreddd
+   2021
+   default-img default-img
+   The Unicorn
+   Chalmeris
+   2022
+   Show more albums
+
+fantasy music by decade
+
+   Explore fantasy history by listening to songs from every decade. Click
+   on the decade to view songs.
+   2020s 2010s 2000s 1990s 1980s 1970s 1960s 1950s 1940s 1930s
+
+List of fantasy artists
+
+   Here is a list of fantasy artists on Spotify, ranked based on
+   popularity, who exemplifies the fantasy genre. You can find out what
+   fantasy genre sounds like where you can preview artists or sort them
+   the way you want, just click the headers to sort.
+    #  name  popularity followers
+   1
+   (BUTTON)
+   Karliene
+   45 86348
+   2
+   (BUTTON)
+   Heather Dale
+   40 34609
+   3
+   (BUTTON)
+   Eurielle
+   50 101678
+   4
+   (BUTTON)
+   Alina Gingertail
+   40 83691
+   5
+   (BUTTON)
+   Erutan
+   47 124928
+   6
+   (BUTTON)
+   Bonnie Grace
+   45 19874
+   7
+   (BUTTON)
+   Trobar de Morte
+   37 49520
+   8
+   (BUTTON)
+   Chalmeris
+   42 5362
+   9
+   (BUTTON)
+   Elane
+   32 33602
+   10
+   (BUTTON)
+   Martin Egger
+   39 3181
+   11
+   (BUTTON)
+   Vindsvept
+   37 12844
+   12
+   (BUTTON)
+   Jean Luc Lenoir
+   35 8355
+   13
+   (BUTTON)
+   Ravnskjold
+   33 3973
+   14
+   (BUTTON)
+   Unapologetically Melodic
+   31 6031
+   15
+   (BUTTON)
+   Ean Grimm
+   28 6593
+   16
+   (BUTTON)
+   June Westfield
+   28 3080
+   17
+   (BUTTON)
+   Everrune
+   53 13531
+   18
+   (BUTTON)
+   Gustavo Steiner
+   24 2005
+   19
+   (BUTTON)
+   Ashley Serena
+   43 70532
+   20
+   (BUTTON)
+   Merrigan
+   23 4123
+   21
+   (BUTTON)
+   Pierre-Alexandre Monin
+   22 683
+   22
+   (BUTTON)
+   Valkyrion
+   47 5261
+   23
+   (BUTTON)
+   Joran Elane
+   21 3655
+   24
+   (BUTTON)
+   Nati Dreddd
+   40 102393
+   25
+   (BUTTON)
+   Çağatay Kılıç
+   17 714
+   26
+   (BUTTON)
+   Patty Gurdy's Circle
+   13 3230
+   27
+   (BUTTON)
+   Michael Ghelfi
+   40 56021
+   28
+   (BUTTON)
+   Borough Bound
+   34 2885
+   29
+   (BUTTON)
+   Bart Zeal
+   25 1967
+   30
+   (BUTTON)
+   Eleni Violaris
+   30 2568
+   31
+   (BUTTON)
+   Forest Elves
+   31 2879
+   32
+   (BUTTON)
+   Ivan Duch
+   29 3725
+   33
+   (BUTTON)
+   Lewis Clarke
+   26 582
+   34
+   (BUTTON)
+   Peter Hollens
+   53 313115
+   35
+   (BUTTON)
+   Ingdís Aelin
+   50 3201
+   36
+   (BUTTON)
+   Grimwater
+   17 792
+   37
+   (BUTTON)
+   chuck e. myers 'sea'
+   43 2426
+   38
+   (BUTTON)
+   Fia Orädd
+   33 2042
+   39
+   (BUTTON)
+   Chxrlotte
+   40 17702
+   40
+   (BUTTON)
+   Dreyma
+   40 6292
+   41
+   (BUTTON)
+   Ginny Di
+   31 21441
+   42
+   (BUTTON)
+   Eye of Melian
+   34 12055
+   43
+   (BUTTON)
+   Christine Slagman
+   30 3940
+   44
+   (BUTTON)
+   Dark Fantasy Studio
+   30 5113
+   45
+   (BUTTON)
+   Alina Lesnik
+   29 6464
+   46
+   (BUTTON)
+   Jon Adamich
+   26 1246
+   47
+   (BUTTON)
+   João Guerra
+   19 202
+   48
+   (BUTTON)
+   Solid Audioworks
+   18 1875
+   49
+   (BUTTON)
+   Rytelier
+   17 255
+   50
+   (BUTTON)
+   Josefin Berger
+   16 1028
+   51
+   (BUTTON)
+   Joy Aileen
+   16 3010
+   52
+   (BUTTON)
+   Alex Catana
+   16 236
+   53
+   (BUTTON)
+   Arcandia
+   14 1051
+   54
+   (BUTTON)
+   Michał Juchno
+   8  160
+   55
+   (BUTTON)
+   Pale Winter Sun
+   5  1360
+   56
+   (BUTTON)
+   Fenix Fatalist
+   4  423
+   57
+   (BUTTON)
+   Kelli Siren
+   3  857
+   58
+   (BUTTON)
+   MacGregor ft. Alicia Frye
+   1  16
+
+   Donate
+   Remove ads + support Chosic
+
+   Donate & Remove ads
+
+Chosic
+
+   Playlist Generator
+   Genre Finder
+   Playlist Analyzer
+   Spotify Stats
+   All Tools
+   Blog
+   Music Instruments
+
+Royalty Free Music
+
+     * Free Music Download
+     * Sound Effects
+     * Free Music FAQ
+     * Report Problem
+
+Connect
+
+     * Contact us
+     * Advertise with us
+
+     *
+     *
+
+More
+
+     * Terms of Service
+     * Privacy Policy
+     * DMCA
+
+   (BUTTON) Privacy Manager
+   Copyright © 2026 Chosic
+   Music data on our tools and pages (except Music Downloads pages) is
+   provided by Spotify AB. chosic.com is not affiliated with Spotify AB in
+   any way.

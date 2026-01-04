@@ -123,11 +123,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <li>Kauf auf Rechnung</li>
   <li class="tablet-hide">
     <a href="https://www.trustedshops.de/bewertung/info_X7D73CF27C41505198CA688C17D1F346F.html" target="_blank" rel="noopener noreferrer">
-      4,03 / 5  Kundenbewertungn bei Trusted Shops
+      4,02 / 5  Kundenbewertungn bei Trusted Shops
     </a>
   </li>
 </ul>
-<ul class="header links"><li><a href="https://www.annadiva.de/customer/account/" id="idqPriWSHV" >Mein Kundenkonto</a></li><li class="link authorization-link" data-label="oder">
+<ul class="header links"><li><a href="https://www.annadiva.de/customer/account/" id="idBTJ8Pr1K" >Mein Kundenkonto</a></li><li class="link authorization-link" data-label="oder">
     <a href="https://www.annadiva.de/customer/account/login/referer/aHR0cHM6Ly93d3cuYW5uYWRpdmEuZGUvbWFya2VuL2ZhbnRhc2llLWRlc3NvdXMv/"        >Anmelden</a>
 </li>
 </ul><ul>
@@ -832,7 +832,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <!-- Account links -->                </div>
                                     </div>
     </div>
-<div class="extra-links"><ul><li><a href="https://www.annadiva.de/customer/account/" id="idIvqfWZG2" >Mein Kundenkonto</a></li><li class="link authorization-link" data-label="oder">
+<div class="extra-links"><ul><li><a href="https://www.annadiva.de/customer/account/" id="idnXdwWPMA" >Mein Kundenkonto</a></li><li class="link authorization-link" data-label="oder">
     <a href="https://www.annadiva.de/customer/account/login/referer/aHR0cHM6Ly93d3cuYW5uYWRpdmEuZGUvbWFya2VuL2ZhbnRhc2llLWRlc3NvdXMv/"        >Anmelden</a>
 </li>
 </ul></div></div><div class="breadcrumbs">
@@ -923,7 +923,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <img src="https://www.annadiva.de/media/wysiwyg/FantasieSwim/Alle-Fantasie-Swim-SS24.jpg" alt="Fantasie Bademode" title="Fantasie Bademode" /> </a></div>
 
     </div>
-<input name="form_key" type="hidden" value="8bbOryv0zCXoiOJl" /><div id="authenticationPopup" data-bind="scope:'authenticationPopup', style: {display: 'none'}">
+<input name="form_key" type="hidden" value="KCdKoroyQPLSCUtZ" /><div id="authenticationPopup" data-bind="scope:'authenticationPopup', style: {display: 'none'}">
             <!-- ko template: getTemplate() --><!-- /ko -->
         
 </div>
@@ -1042,6 +1042,7 @@ Beratung nötig? Rufen Sie uns gerne an!<br><strong>+31 (0)73-8512017</strong></
 <li><a href="/blog/">Blog</a></li>
 <li><a href="/loyalty/">Annadiva Member Club</a></li>
 <li><a href="/wholesale-store-locator/">Annadiva Swim Verkaufsstellen</a></li>
+<li><a href="/magazin/">Magazin</a></li>
 <li><a href="/untersuchung/">Die Untersuchung</a></li>
 <li><a href="/bewertungen/">Bewertungen</a></li>
 <li><a href="/beratung/groessenberatung/">Grössenberatung</a></li>
@@ -1229,7 +1230,7 @@ window.dataLayer.push({"event":"categoryPage","category":{"id":"13","name":"Fant
         }
     }
 </script>
-<script>window.checkout = {"shoppingCartUrl":"https:\/\/www.annadiva.de\/checkout\/cart\/","checkoutUrl":"https:\/\/www.annadiva.de\/checkout\/","updateItemQtyUrl":"https:\/\/www.annadiva.de\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/www.annadiva.de\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"https:\/\/www.annadiva.de\/","minicartMaxItemsVisible":5,"websiteId":"4","maxItemsToDisplay":10,"storeId":"6","storeGroupId":"4","customerLoginUrl":"https:\/\/www.annadiva.de\/customer\/account\/login\/referer\/aHR0cHM6Ly93d3cuYW5uYWRpdmEuZGUvbWFya2VuL2ZhbnRhc2llLWRlc3NvdXMv\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.annadiva.de\/captcha\/refresh\/","isRequired":false,"timestamp":1765979450}}}</script>
+<script>window.checkout = {"shoppingCartUrl":"https:\/\/www.annadiva.de\/checkout\/cart\/","checkoutUrl":"https:\/\/www.annadiva.de\/checkout\/","updateItemQtyUrl":"https:\/\/www.annadiva.de\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/www.annadiva.de\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"https:\/\/www.annadiva.de\/","minicartMaxItemsVisible":5,"websiteId":"4","maxItemsToDisplay":10,"storeId":"6","storeGroupId":"4","customerLoginUrl":"https:\/\/www.annadiva.de\/customer\/account\/login\/referer\/aHR0cHM6Ly93d3cuYW5uYWRpdmEuZGUvbWFya2VuL2ZhbnRhc2llLWRlc3NvdXMv\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.annadiva.de\/captcha\/refresh\/","isRequired":false,"timestamp":1767557306}}}</script>
 <script type="text/x-magento-init">
     {
         "[data-block='minicart']": {

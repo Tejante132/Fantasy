@@ -1,202 +1,201 @@
-   #[1]SciViews - Videos aus der Wissenschaft [2]Spektrum.de -
-   Meistgelesene Artikel [3]Spektrum.de RSS-Feed [4]Gehirn und Geist
-   RSS-Feed [5]Spektrum der Wissenschaft RSS-Feed [6]Sterne und Weltraum
-   RSS-Feed
+   #SciViews - Videos aus der Wissenschaft Spektrum.de - Meistgelesene
+   Artikel Spektrum.de RSS-Feed Gehirn und Geist RSS-Feed Spektrum der
+   Wissenschaft RSS-Feed Sterne und Weltraum RSS-Feed
 
-   IFRAME: [7]//www.googletagmanager.com/ns.html?id=GTM-NV9D2M
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-NV9D2M
 
-   [8]Direkt zum Inhalt
+   Direkt zum Inhalt
 
    (BUTTON)
    ____________________
 
-     * [9]Magazine
-          + [10]Spektrum+
-          + [11]Spektrum der Wissenschaft
-          + [12]Spektrum - Die Woche
-          + [13]Spektrum Psychologie
-          + [14]Spektrum Geschichte
-          + [15]Spektrum Gesundheit
-          + [16]Gehirn&Geist
-          + [17]Sterne und Weltraum
-          + [18]Spektrum Kompakt
-     * [19]Archiv
-          + [20]Spektrum der Wissenschaft
-          + [21]Spektrum+
-          + [22]Spektrum - Die Woche
-          + [23]Gehirn&Geist
-          + [24]Sterne und Weltraum
-          + [25]Spektrum Kompakt
-          + [26]Spektrum Psychologie
-          + [27]Spektrum Geschichte
-          + [28]Spektrum Gesundheit
-          + [29]Spektrum edition
-          + [30]Spezial Biologie/Medizin/Hirnforschung
-          + [31]Spezial Physik/Mathematik/Technik
-     * [32]Abo/Shop
-          + [33]Spektrum Shop
-          + [34]Mein Konto
-          + [35]Meine Downloads
-          + [36]Spektrum Live
-          + [37]AboVorteile
-     * [38]Service
-          + [39]Newsletter
-          + [40]Lexika
-          + [41]FAQ
-          + [42]Presse
-          + [43]Angebote für Schulen
-          + [44]Wo kaufen?
-          + [45]Kontakt
-          + [46]Mediadaten
-     * [47]Login
+     * Magazine
+          + Spektrum+
+          + Spektrum der Wissenschaft
+          + Spektrum - Die Woche
+          + Spektrum Psychologie
+          + Spektrum Geschichte
+          + Spektrum Gesundheit
+          + Gehirn&Geist
+          + Sterne und Weltraum
+          + Spektrum Kompakt
+     * Archiv
+          + Spektrum der Wissenschaft
+          + Spektrum+
+          + Spektrum - Die Woche
+          + Gehirn&Geist
+          + Sterne und Weltraum
+          + Spektrum Kompakt
+          + Spektrum Psychologie
+          + Spektrum Geschichte
+          + Spektrum Gesundheit
+          + Spektrum edition
+          + Spezial Biologie/Medizin/Hirnforschung
+          + Spezial Physik/Mathematik/Technik
+     * Abo/Shop
+          + Spektrum Shop
+          + Mein Konto
+          + Meine Downloads
+          + Spektrum Live
+          + AboVorteile
+     * Service
+          + Newsletter
+          + Lexika
+          + FAQ
+          + Presse
+          + Angebote für Schulen
+          + Wo kaufen?
+          + Kontakt
+          + Mediadaten
+     * Login
 
-     * [48]Heute aktuell
-     * [49]Meistgelesen
-     * [50]Neuerscheinungen
+     * Heute aktuell
+     * Meistgelesen
+     * Neuerscheinungen
 
    ____________________
 
 Fachgebiete
 
-     * [51]Astronomie
-          + [52]News
-          + [53]Themen
-          + [54]Wissen
-          + [55]Kolumnen
-          + [56]Podcasts
-          + [57]SciLogs
-          + [58]Videos
-          + [59]Bilder
-          + [60]Rezensionen
-          + [61]Quiz
-          + [62]Leserbilder
-          + [63]Szenenews
-          + [64]Produkte
-     * [65]Biologie
-          + [66]News
-          + [67]Themen
-          + [68]Wissen
-          + [69]Studium & Beruf
-          + [70]Kolumnen
-          + [71]Podcasts
-          + [72]SciLogs
-          + [73]Bilder
-          + [74]Rezensionen
-          + [75]Quiz
-          + [76]Video
-          + [77]Produkte
-     * [78]Chemie
-          + [79]News
-          + [80]Themen
-          + [81]Wissen
-          + [82]Kolumnen
-          + [83]Podcasts
-          + [84]SciLogs
-          + [85]Bilder
-          + [86]Rezensionen
-          + [87]Quiz
-          + [88]Video
-          + [89]Produkte
-     * [90]Erde/Umwelt
-          + [91]News
-          + [92]Themen
-          + [93]Wissen
-          + [94]Kolumnen
-          + [95]Podcasts
-          + [96]SciLogs
-          + [97]Bilder
-          + [98]Rezensionen
-          + [99]Quiz
-          + [100]Produkte
-          + [101]Video
-     * [102]IT/Tech
-          + [103]News
-          + [104]Themen
-          + [105]Wissen
-          + [106]Kolumnen
-          + [107]Podcasts
-          + [108]SciLogs
-          + [109]Bilder
-          + [110]Rezensionen
-          + [111]Quiz
-          + [112]Video
-          + [113]Produkte
-     * [114]Kultur
-          + [115]News
-          + [116]Themen
-          + [117]Wissen
-          + [118]Kolumnen
-          + [119]Podcasts
-          + [120]SciLogs
-          + [121]Bilder
-          + [122]Rezensionen
-          + [123]Quiz
-          + [124]Video
-          + [125]Produkte
-     * [126]Mathematik
-          + [127]News
-          + [128]Themen
-          + [129]Wissen
-          + [130]Kolumnen
-          + [131]Podcasts
-          + [132]SciLogs
-          + [133]Bilder
-          + [134]Rezensionen
-          + [135]Quiz
-          + [136]Video
-          + [137]Produkte
-     * [138]Medizin
-          + [139]News
-          + [140]Themen
-          + [141]Wissen
-          + [142]Kolumnen
-          + [143]Podcasts
-          + [144]SciLogs
-          + [145]Bilder
-          + [146]Rezensionen
-          + [147]Quiz
-          + [148]Video
-          + [149]Produkte
-     * [150]Physik
-          + [151]News
-          + [152]Themen
-          + [153]Wissen
-          + [154]Kolumnen
-          + [155]Podcasts
-          + [156]SciLogs
-          + [157]Bilder
-          + [158]Rezensionen
-          + [159]Quiz
-          + [160]Video
-          + [161]Produkte
-     * [162]Psychologie/Hirnforschung
-          + [163]News
-          + [164]Themen
-          + [165]Wissen
-          + [166]Kolumnen
-          + [167]Podcasts
-          + [168]SciLogs
-          + [169]Bilder
-          + [170]Rezensionen
-          + [171]Quiz
-          + [172]Video
-          + [173]Produkte
+     * Astronomie
+          + News
+          + Themen
+          + Wissen
+          + Kolumnen
+          + Podcasts
+          + SciLogs
+          + Videos
+          + Bilder
+          + Rezensionen
+          + Quiz
+          + Leserbilder
+          + Szenenews
+          + Produkte
+     * Biologie
+          + News
+          + Themen
+          + Wissen
+          + Studium & Beruf
+          + Kolumnen
+          + Podcasts
+          + SciLogs
+          + Bilder
+          + Rezensionen
+          + Quiz
+          + Video
+          + Produkte
+     * Chemie
+          + News
+          + Themen
+          + Wissen
+          + Kolumnen
+          + Podcasts
+          + SciLogs
+          + Bilder
+          + Rezensionen
+          + Quiz
+          + Video
+          + Produkte
+     * Erde/Umwelt
+          + News
+          + Themen
+          + Wissen
+          + Kolumnen
+          + Podcasts
+          + SciLogs
+          + Bilder
+          + Rezensionen
+          + Quiz
+          + Produkte
+          + Video
+     * IT/Tech
+          + News
+          + Themen
+          + Wissen
+          + Kolumnen
+          + Podcasts
+          + SciLogs
+          + Bilder
+          + Rezensionen
+          + Quiz
+          + Video
+          + Produkte
+     * Kultur
+          + News
+          + Themen
+          + Wissen
+          + Kolumnen
+          + Podcasts
+          + SciLogs
+          + Bilder
+          + Rezensionen
+          + Quiz
+          + Video
+          + Produkte
+     * Mathematik
+          + News
+          + Themen
+          + Wissen
+          + Kolumnen
+          + Podcasts
+          + SciLogs
+          + Bilder
+          + Rezensionen
+          + Quiz
+          + Video
+          + Produkte
+     * Medizin
+          + News
+          + Themen
+          + Wissen
+          + Kolumnen
+          + Podcasts
+          + SciLogs
+          + Bilder
+          + Rezensionen
+          + Quiz
+          + Video
+          + Produkte
+     * Physik
+          + News
+          + Themen
+          + Wissen
+          + Kolumnen
+          + Podcasts
+          + SciLogs
+          + Bilder
+          + Rezensionen
+          + Quiz
+          + Video
+          + Produkte
+     * Psychologie/Hirnforschung
+          + News
+          + Themen
+          + Wissen
+          + Kolumnen
+          + Podcasts
+          + SciLogs
+          + Bilder
+          + Rezensionen
+          + Quiz
+          + Video
+          + Produkte
 
 Services
 
-     * [174]Spektrum+
-     * [175]Suche
-     * [176]Abo/Shop
-     * [177]Lexika
-     * [178]Spektrum Live
-     * [179]Abovorteile
-     * [180]Newsletter
-     * [181]Kontakt
-     * [182]Login
+     * Spektrum+
+     * Suche
+     * Abo/Shop
+     * Lexika
+     * Spektrum Live
+     * Abovorteile
+     * Newsletter
+     * Kontakt
+     * Login
 
-    1. [183]Startseite
+    1. Startseite
 
-     [184]Psychologie/Hirnforschung
+     Psychologie/Hirnforschung
 
      Aktuelle Seite:
 
@@ -205,8 +204,8 @@ Wie Fantasie Kindern beim Lernen hilft
      * Hintergrund
      * 08.12.2016
      * Lesedauer ca. 8 Minuten
-     * [185]Drucken
-     * [186]Teilen
+     * Drucken
+     * Teilen
           +
           +
           +
@@ -222,18 +221,18 @@ Kindesentwicklung: Wie Fantasie das Lernen beflügelt
    Beim Spielen versinken Kinder gerne in Fantasiewelten. Lange sahen
    Psychologen darin keinen tieferen Sinn. Doch die Faszination für
    Fabelwesen kann das Lernen beflügeln.
-   [187]Deena Weisberg
+   Deena Weisberg
 
    Prinzessin küsst einen Frosch
    © iStock / SchulteProductions (Ausschnitt)
 
    In James Matthew Barries klassischem Theaterstück "Peter Pan" stürzen
-   sich die [188]Kinder der Familie Darling in ein Abenteuer mit Peter,
-   einem Lausbuben, der sich weigert, erwachsen zu werden. Im magischen
+   sich die Kinder der Familie Darling in ein Abenteuer mit Peter, einem
+   Lausbuben, der sich weigert, erwachsen zu werden. Im magischen
    Nimmerland treffen sie auf Feen, kämpfen gegen Piraten und begegnen
    mystischen Kreaturen. Die Geschichte hat ganze Generationen von Kindern
    zu fantasievollen Spielen inspiriert. Ihre Botschaft: Wer tief in die
-   Welt der [189]Fantasie eintaucht, bleibt im Herzen ewig jung.
+   Welt der Fantasie eintaucht, bleibt im Herzen ewig jung.
 
    Fast alle Kinder verlieren sich gerne in fiktiven Welten. Warum sie das
    tun, ist eine Frage, die Wissenschaftler schon seit Jahrzehnten
@@ -243,7 +242,7 @@ Kindesentwicklung: Wie Fantasie das Lernen beflügelt
    sich lassen, um zu mündigen Erwachsenen zu werden. Diese Sichtweise hat
    sich inzwischen grundlegend gewandelt: Kindliche Spiele werden nicht
    mehr als nutzlos, sondern ganz im Gegenteil als essenziell für die
-   [190]Entwicklung angesehen. Beispielsweise stellen Heranwachsende
+   Entwicklung angesehen. Beispielsweise stellen Heranwachsende
    Ereignisse, die ihnen Angst machen oder sie verwirren, beim freien
    Spielen nach, um sie besser verstehen und verarbeiten zu können.
    Verfechter des freien Spielens vertreten heute die Ansicht, es vermöge
@@ -262,13 +261,12 @@ Kindesentwicklung: Wie Fantasie das Lernen beflügelt
        Unerwartetem mehr Aufmerksamkeit schenken und so mehr über die
        Gesetze unserer Welt erfahren.
 
-   [191]
    Spektrum Kompakt – 7/2018 – Bildung und Schule
 
 Dieser Artikel ist enthalten in Spektrum Kompakt, Bildung und Schule
 
      * (BUTTON) Ausgabe als PDF-Download (EUR 4,99)
-     * [192]Spektrum Kompakt-Archiv
+     * Spektrum Kompakt-Archiv
 
    Im Bildungswesen hingegen schien fantasievolles Spielen bisher wenig
    hilfreich. Denn jahrzehntelange psychologische Forschung hatte gezeigt,
@@ -359,8 +357,8 @@ Fantasiegeschichten mehren den Wortschatz
 
 Ungewöhnliches weckt den Forscherdrang
 
-   Die Studie zeigt, dass Fantasie Kindern beim [193]Lernen helfen kann.
-   Sie erklärt jedoch nicht, warum man ihnen mit einer wirklichkeitsfernen
+   Die Studie zeigt, dass Fantasie Kindern beim Lernen helfen kann. Sie
+   erklärt jedoch nicht, warum man ihnen mit einer wirklichkeitsfernen
    Geschichte mehr Wissen über die reale Welt vermitteln kann als mit
    einer realitätsgetreuen Story. Das klingt zunächst paradox.
    Eine mögliche Antwort liefert die 2015 in der Fachzeitschrift "Science"
@@ -443,9 +441,9 @@ Ungewöhnliches weckt den Forscherdrang
    anregen, was in der Realität möglich ist und was nicht. Die Psychologin
    Alison Gopnik von der University of California in Berkeley und ich
    gehen davon aus, dass Fantasie das Lernen auf die gleiche Weise
-   erleichtert wie Babysprache den [194]Spracherwerb. Wir reden nicht
-   deshalb in einem übertrieben hohen Tonfall mit Säuglingen, weil wir
-   möchten, dass sie ebenfalls so sprechen. Sondern wir helfen ihnen, die
+   erleichtert wie Babysprache den Spracherwerb. Wir reden nicht deshalb
+   in einem übertrieben hohen Tonfall mit Säuglingen, weil wir möchten,
+   dass sie ebenfalls so sprechen. Sondern wir helfen ihnen, die
    wesentlichen Elemente der Sprache zu erkennen, indem wir wichtige
    Aspekte wie etwa Wortgrenzen betonen. Genauso scheint es sich mit
    unrealistischen Ereignissen zu verhalten: Kinder erfassen sie nicht
@@ -476,10 +474,9 @@ Wenn Tiere sich wie Menschen verhalten
    nicht sprechen können, trotzdem neigten sie eher dazu, den Geschöpfen
    menschenähnliche Gedanken und Fähigkeiten zuzuschreiben.
    Links: Vermenschlichte Maras (Pampashasen), Rechts: realistische Maras
-   © Ganea, P.A. et al.: [195]Do cavies talk? The effect of
-   anthropomorphic pictures books on children’s knowledge about animals.
-   In: Frontiers of Psychology 5, S. 1–9, 2014, fig. 1 / CC BY-SA 3.0
-   [196]CC BY-SA (Ausschnitt)
+   © Ganea, P.A. et al.: Do cavies talk? The effect of anthropomorphic
+   pictures books on children’s knowledge about animals. In: Frontiers of
+   Psychology 5, S. 1–9, 2014, fig. 1 / CC BY-SA 3.0 CC BY-SA (Ausschnitt)
    Vermenschlichte Tiere | Fiktion kann das Bild von der Realität auch
    verzerren. Hatten Kinder Geschichten von vermenschlichten Tieren gehört
    (links), schrieben sie ihnen eher falsche, menschenähnliche
@@ -534,9 +531,9 @@ WEITERLESEN MIT »SPEKTRUM +«
    Im Abo erhalten Sie exklusiven Zugang zu allen Premiumartikeln von
    »spektrum.de« sowie »Spektrum - Die Woche« als PDF- und App-Ausgabe.
    Testen Sie 30 Tage uneingeschränkten Zugang zu »Spektrum+« gratis:
-   [197]Jetzt testen
+   Jetzt testen
 
-   [198]Sie haben bereits ein Abo? Hier anmelden! (Sie müssen Javascript
+   Sie haben bereits ein Abo? Hier anmelden! (Sie müssen Javascript
    erlauben, um nach der Anmeldung auf diesen Artikel zugreifen zu können)
 
      * Digitalausgaben
@@ -544,14 +541,12 @@ WEITERLESEN MIT »SPEKTRUM +«
      * Topseller
      * Bundles
 
-   [199]
    Titelbild der Zeitschrift "Spektrum der Wissenschaft – Die Woche",
    Ausgabe Nr. 50 vom 11. Dezember 2025. Im Vordergrund ist eine Hand, die
    sich einem leuchtenden, blauen Kreis nähert, umgeben von funkelnden
    Lichtpunkten. Der Hauptartikel trägt den Titel "Gibt es Gott, Heino
    Falcke?". Weitere Themen sind die Vogelgrippe bei Katzen, Enheduana und
    MH370.
-   [200]
    Ein Magazincover mit dem Titel "Spektrum Geschichte" und der Ausgabe
    06.25. Im Mittelpunkt steht ein Gemälde, das eine elegante Ballszene
    zeigt, in der Paare Walzer tanzen. Der Text "Wien im Walzertakt: Die
@@ -560,7 +555,6 @@ WEITERLESEN MIT »SPEKTRUM +«
    Olympia-Grabung" und eine "Geheimmission". Ein Geiger spielt im
    Hintergrund, während die Tänzer in festlicher Kleidung dargestellt
    sind.
-   [201]
    Titelbild des Magazins "Spektrum Psychologie" mit dem Thema
    "Einsamkeit: Wie wir ihr entkommen". Das Cover zeigt eine stilisierte
    Holzfigur, die in einem großen, kreisförmigen Band steht, das an ein
@@ -568,13 +562,11 @@ WEITERLESEN MIT »SPEKTRUM +«
    gehalten. Oben links sind Themen wie "Dem Glück auf der Spur" und
    "Konflikte meistern" aufgeführt. Oben rechts stehen Preisangaben und
    die Ausgabe 01.26.
-   [202]
    Titelbild des Magazins "Spektrum der Wissenschaft Kompakt" mit dem
    Thema "Wale & Delfine". Im Vordergrund schwimmt ein großer Wal im
    blauen Ozean, darüber ein Delfin. Text auf dem Bild: "Orcas -
    Schwertwale mit Marotten", "Strandungen - Wenn Wale auf Grund laufen",
    "Kommunikation - Pfiffe, Klicks und Gesänge".
-   [203]
    Titelbild des Magazins "Spektrum der Wissenschaft – Die Woche", Ausgabe
    Nr. 49 vom 4. Dezember 2025. Im Vordergrund steht der Berliner
    Fernsehturm vor einem Sonnenuntergang, der den Himmel in warmen Farben
@@ -582,21 +574,18 @@ WEITERLESEN MIT »SPEKTRUM +«
    Winter" und thematisiert unterirdische Speicher. Weitere Artikel
    behandeln Themen wie den Ausbruch des Hayli Gubbi, Resilienz, Geograf
    Strabon und die Ursprünge der Hauskatze.
-   [204]
    Cover der Zeitschrift "Spektrum der Wissenschaft" mit dem Titel
    "Meisterwerk der Evolution". Das Bild zeigt eine Nahaufnahme von blauen
    Federn. Text auf dem Cover: "Wie Federn das Leben beflügelten". Weitere
    Themen: "Grönlandexpedition", "Am Puls des europäischen Klimas",
    "Viren", "Dürfen wir Gain-of-function-Forschung betreiben?",
    "Quantengravitation", "Geometrie für Quanten".
-   [205]
    Ein Cover der Zeitschrift "Gehirn&Geist" zeigt ein Modell eines Gehirns
    auf einem blauen Hintergrund, umgeben von bunten Schmetterlingen. Der
    Titel lautet "Wer entscheidet? Wie das Gehirn unseren freien Willen
    beeinflusst". Oben links steht "Spektrum der Wissenschaft", und unten
    sind Themen wie Psychotherapie, Abhängigkeit und Theorienkrise
    aufgeführt.
-   [206]
    Titelbild des Magazins "Sterne und Weltraum" Ausgabe 1/2026. Das Bild
    zeigt eine Fotomontage einer Sonnenfinsternis mit mehreren Phasen der
    Bedeckung. Der Text "Highlights am Himmel: Die spektakulärsten
@@ -604,30 +593,25 @@ WEITERLESEN MIT »SPEKTRUM +«
    befindet sich ein Hinweis auf enthaltenen Astro-Planer 2026. Das Design
    vermittelt ein Gefühl von kosmischer Faszination und wissenschaftlicher
    Neugier.
-   [207]
    Eine Zeitschriftencover mit dem Titel "Gehirn & Geist Dossier". Im
    Vordergrund ist eine Hand, die aus dem Nebel greift. Der Haupttext
    lautet "Verbrechen: Die Psychologie des Bösen". Oben links steht
    "Spektrum der Wissenschaft". Weitere Themen auf dem Cover sind
    "Stockholm-Syndrom", "Stalking" und "Gewalt im Krieg". Oben rechts sind
    Preisangaben und eine Website-URL.
-   [208]
    Titelbild der Zeitschrift "Spektrum der Wissenschaft" mit dem
    Hauptthema "Dunkle Energie". Im Hintergrund sind abstrakte, wirbelnde
    Formen in Blau- und Orangetönen zu sehen, die eine kosmische Atmosphäre
    erzeugen. Text auf dem Cover: "Wachsende Zweifel am kosmologischen
    Standardmodell", "Nobelpreise 2025", sowie weitere Themen wie
    "Krebsmedizin", "Quantentheorie der Gravitation" und "Pangenomik".
-   [209]
    Ein Cover der Zeitschrift "Gehirn&Geist" zeigt ein Modell eines Gehirns
    auf einem blauen Hintergrund, umgeben von bunten Schmetterlingen. Der
    Titel lautet "Wer entscheidet? Wie das Gehirn unseren freien Willen
    beeinflusst". Oben links steht "Spektrum der Wissenschaft", und unten
    sind Themen wie Psychotherapie, Abhängigkeit und Theorienkrise
    aufgeführt.
-   [210]
    Digitalpaket SUW Jahrgang 2025 Teaserbild
-   [211]
    Titelbild der Zeitschrift "Spektrum der Wissenschaft Kompakt" mit dem
    Thema "Long Covid und ME/CFS". Im Vordergrund ist eine stilisierte
    Silhouette eines menschlichen Kopfes mit einem abstrakten, bunten
@@ -636,7 +620,6 @@ WEITERLESEN MIT »SPEKTRUM +«
    hilft bei Long Covid?", "Auf Sparflamme: (Über)leben mit ME/CFS". Das
    Design vermittelt ein Gefühl von Komplexität und Verwirrung, passend
    zum Thema der gesundheitlichen Auswirkungen von Long Covid.
-   [212]
    Titelbild des Magazins "Spektrum Psychologie" mit dem Thema
    "Einsamkeit: Wie wir ihr entkommen". Das Cover zeigt eine stilisierte
    Holzfigur, die in einem großen, kreisförmigen Band steht, das an ein
@@ -644,11 +627,8 @@ WEITERLESEN MIT »SPEKTRUM +«
    gehalten. Oben links sind Themen wie "Dem Glück auf der Spur" und
    "Konflikte meistern" aufgeführt. Oben rechts stehen Preisangaben und
    die Ausgabe 01.26.
-   [213]
    Digitalpaket Das Gehirn Teaserbild
-   [214]
    Digitalpaket Teilchenphysik_Teaserbild
-   [215]
    Eine Person liegt ausgestreckt auf einem rosa Sofa in einem Raum mit
    rosa Wänden. Die Person trägt einen blauen Anzug und weiße Schuhe. Oben
    links steht „Spektrum der Wissenschaft KOMPAKT 48.25“. In der Mitte des
@@ -656,7 +636,6 @@ WEITERLESEN MIT »SPEKTRUM +«
    lesen. Unten sind drei Themen aufgeführt: „Persönlichkeit: Stress
    verändert den Charakter“, „Langlebigkeit: Dauerstress lässt den Körper
    altern“ und „Downshifting: Weniger Arbeit, mehr vom Leben“.
-   [216]
    Titelbild des Magazins "Sterne und Weltraum" Ausgabe 1/2026. Das Bild
    zeigt eine Fotomontage einer Sonnenfinsternis mit mehreren Phasen der
    Bedeckung. Der Text "Highlights am Himmel: Die spektakulärsten
@@ -664,67 +643,59 @@ WEITERLESEN MIT »SPEKTRUM +«
    befindet sich ein Hinweis auf enthaltenen Astro-Planer 2026. Das Design
    vermittelt ein Gefühl von kosmischer Faszination und wissenschaftlicher
    Neugier.
-   [217]
    Titelbild des Magazins "Spektrum Spezial PMT" mit dem Thema "Eine
    Theorie von allem". Im Hintergrund ist ein Bild des Universums mit
    Galaxien und Sternen zu sehen, überlagert von mathematischen Formeln
    und Diagrammen. Der Text fragt: "Lassen sich Quantenphysik und
    Schwerkraft vereinen?" Weitere Themen auf dem Cover sind
    Quantengravitation, Quantenmechanik und Quantenphysik.
-   [218]
    Digitalpaket Mikrobiom Teaserbild
-   [219]
    Digitalpaket: Spektrum Psychologie Jahrgang 2025 Teaserbild
-   [220]
    Digitalpaket SG Jahrgang 2025 Teaserbild
-   [221]
    DP SDW Jahrgang 2025 Teaserbild
-   [222]
    Werbung für das Digitalpaket Wale. Zwei schwimmende Wale. Schrift
    Digitalpaket Wale.
-   [223]
    Digitalpaket GUG Jahrgang 2025 Teaserbild
 
      * Quellen
 
-   Dore, R. A., Lillard, A. S.:[224]Theory of Mind and Children’s
-   Engagement in Fantasy Worlds. In: Imagination, Cognition and
-   Personality 34, S 230–242, 2015
+   Dore, R. A., Lillard, A. S.:Theory of Mind and Children’s Engagement in
+   Fantasy Worlds. In: Imagination, Cognition and Personality 34, S
+   230–242, 2015
 
-   Ganea, Patricia A. et al. :[225]Do Cavies talk? The Effect of
+   Ganea, Patricia A. et al. :Do Cavies talk? The Effect of
    Anthropomorphic Picture Books on Children's Knowledge about Animals.
    In: Frontiers in Psychology 5, S. 2014
 
-   Kate, C. M. et. al.:[226]Learning to learn from Stories: Children's
+   Kate, C. M. et. al.:Learning to learn from Stories: Children's
    Developing Sensitivity to the Causal Structure of Fictional Worlds.
    In:Child Development 86, S. 310–318, 2015
 
-   Legare, C. H. et. al.:[227]Inconsistency with Prior Knowledge Triggers
+   Legare, C. H. et. al.:Inconsistency with Prior Knowledge Triggers
    Children’s Causal Explanatory Reasoning. In: Child Development 81, S.
    929–944, 2010
 
-   Rae, W. A., et al.:[228]The Psychosocial Impact of Play on hospitalized
+   Rae, W. A., et al.:The Psychosocial Impact of Play on hospitalized
    Children. In: Journal of Pediatric Psychology 14, S. 617–627, 1989
 
-   Stahl, A. E., Feigenson, L.:[229]Observing the Unexpected Enhances
-   Infants’ Learning and Exploration. In: Science 348, S. 91–94, 2015
+   Stahl, A. E., Feigenson, L.:Observing the Unexpected Enhances Infants’
+   Learning and Exploration. In: Science 348, S. 91–94, 2015
 
    Weisberg, D. S.: How Fictional Worlds Are Created. In: Philosophy
    Compass 11, S. 462–470, 2016
 
-   Weisberg, D. et al.:[230]Shovels and Swords: How Realistic and
-   Fantastical Themes affect Children's Word Learning. In: Cognitive
-   Development 35, S. 1–14, 2015
+   Weisberg, D. et al.:Shovels and Swords: How Realistic and Fantastical
+   Themes affect Children's Word Learning. In: Cognitive Development 35,
+   S. 1–14, 2015
 
 Schreiben Sie uns!
 
    Wenn Sie inhaltliche Anmerkungen zu diesem Artikel haben, können Sie
-   die Redaktion [231]per E-Mail informieren. Wir lesen Ihre Zuschrift,
-   bitten jedoch um Verständnis, dass wir nicht jede beantworten können.
+   die Redaktion per E-Mail informieren. Wir lesen Ihre Zuschrift, bitten
+   jedoch um Verständnis, dass wir nicht jede beantworten können.
 
 Artikel zum Thema
 
-   [232]
    Mit Handpuppe und Regenbogenspirale versucht Sozialpädagogin Sabrina
    Harves die Aufmerksamkeit ihrer Patienten zu gewinnen.
 
@@ -734,7 +705,6 @@ Autismus: Was hilft Kindern mit Autismus?
    Spielkameraden. Um ihr Interesse an Menschen zu wecken, haben
    Therapeuten verschiedene Methoden entwickelt.
 
-   [233]
    Im Inneren des Gehirns sind verschiedene Areale verschiedenen Aufgaben
    zugeordnet, die hier visualisiert sind.
 
@@ -744,14 +714,13 @@ Die Gehirn&Geist-Infografik: Spielen trainiert das Gehirn!
    Freies Spiel ist auch wichtig für die kognitive und soziale
    Entwicklung.
 
-     * [234]Geistesblitze - Teenagerschwangerschaften | Babypuppe macht
-       Lust auf Kinderkriegen
-     * [235]Entwicklung | Ist das noch Trotz oder schon Aggression?
-     * [236]Hochbegabung | Wie fördert man Genies?
-     * [237]Schule | Ausgebrannte Lehrer, gestresste Schüler
-     * [238]Hirnforschung | Ein Lob der Langeweile?
+     * Geistesblitze - Teenagerschwangerschaften | Babypuppe macht Lust
+       auf Kinderkriegen
+     * Entwicklung | Ist das noch Trotz oder schon Aggression?
+     * Hochbegabung | Wie fördert man Genies?
+     * Schule | Ausgebrannte Lehrer, gestresste Schüler
+     * Hirnforschung | Ein Lob der Langeweile?
 
-   [239]
    Teilnehmer am BCI-Race des Cybathlon
 
 Gehirn-Computer-Schnittstellen: Mit der Kraft der Gedanken
@@ -759,7 +728,7 @@ Gehirn-Computer-Schnittstellen: Mit der Kraft der Gedanken
    Die Zeiten, in denen man Geräte einzig per Knopfdruck bedienen konnte,
    sind vorbei. Das nützt vor allem Menschen mit Behinderung.
 
-[240]Themenkanäle
+Themenkanäle
 
    Eltern küssen ihr Baby
 
@@ -786,28 +755,25 @@ Lernen
 
    Anzeige
 
-Sponsored[241]Partnerinhalte
+SponsoredPartnerinhalte
 
    Anzeige
 
-   [242]Nach oben
+   Nach oben
 
 Für Sie im Spektrum-Shop und am Kiosk:
 
-   [243]
    Cover der Zeitschrift "Spektrum der Wissenschaft" mit dem Titel
    "Meisterwerk der Evolution". Das Bild zeigt eine Nahaufnahme von blauen
    Federn. Text auf dem Cover: "Wie Federn das Leben beflügelten". Weitere
    Themen: "Grönlandexpedition", "Am Puls des europäischen Klimas",
    "Viren", "Dürfen wir Gain-of-function-Forschung betreiben?",
    "Quantengravitation", "Geometrie für Quanten".
-   [244]
    Titelbild des Magazins "Spektrum der Wissenschaft Kompakt" mit dem
    Thema "Wale & Delfine". Im Vordergrund schwimmt ein großer Wal im
    blauen Ozean, darüber ein Delfin. Text auf dem Bild: "Orcas -
    Schwertwale mit Marotten", "Strandungen - Wenn Wale auf Grund laufen",
    "Kommunikation - Pfiffe, Klicks und Gesänge".
-   [245]
    Titelbild des Magazins "Sterne und Weltraum" Ausgabe 1/2026. Das Bild
    zeigt eine Fotomontage einer Sonnenfinsternis mit mehreren Phasen der
    Bedeckung. Der Text "Highlights am Himmel: Die spektakulärsten
@@ -815,385 +781,64 @@ Für Sie im Spektrum-Shop und am Kiosk:
    befindet sich ein Hinweis auf enthaltenen Astro-Planer 2026. Das Design
    vermittelt ein Gefühl von kosmischer Faszination und wissenschaftlicher
    Neugier.
-   [246]
    Titelbild der Zeitschrift "Spektrum der Wissenschaft – Die Woche",
    Ausgabe Nr. 50 vom 11. Dezember 2025. Im Vordergrund ist eine Hand, die
    sich einem leuchtenden, blauen Kreis nähert, umgeben von funkelnden
    Lichtpunkten. Der Hauptartikel trägt den Titel "Gibt es Gott, Heino
    Falcke?". Weitere Themen sind die Vogelgrippe bei Katzen, Enheduana und
    MH370.
-   [247]
    Ein Cover der Zeitschrift "Gehirn&Geist" zeigt ein Modell eines Gehirns
    auf einem blauen Hintergrund, umgeben von bunten Schmetterlingen. Der
    Titel lautet "Wer entscheidet? Wie das Gehirn unseren freien Willen
    beeinflusst". Oben links steht "Spektrum der Wissenschaft", und unten
    sind Themen wie Psychotherapie, Abhängigkeit und Theorienkrise
    aufgeführt.
-     * [248]Weitere Neuerscheinungen
-     * [249]Spektrum Shop
-
-   [250]
+     * Weitere Neuerscheinungen
+     * Spektrum Shop
 
 Spektrum.de-Newsletter abonnieren
 
    Jetzt anmelden!
    Sie können unsere Newsletter jederzeit wieder abbestellen. Infos zu
    unserem Umgang mit Ihren personenbezogenen Daten finden Sie in unserer
-   [251]Datenschutzerklärung.
+   Datenschutzerklärung.
 
 Services
 
-     * [252]Newsletter
-     * [253]Kontakt
-     * [254]Spektrum Shop
-     * [255]Im Handel kaufen
-     * [256]Presse
-     * [257]Verträge kündigen
+     * Newsletter
+     * Kontakt
+     * Spektrum Shop
+     * Im Handel kaufen
+     * Presse
+     * Verträge kündigen
 
 Info
 
-     * [258]Mediadaten
-     * [259]Datenschutz
-     * [260]Nutzungsbedingungen
-     * [261]Cookie-Einstellungen
-     * [262]Utiq verwalten
-     * [263]Nutzungsbasierte Onlinewerbung
-     * [264]Alle Artikel
-     * [265]Impressum
+     * Mediadaten
+     * Datenschutz
+     * Nutzungsbedingungen
+     * Cookie-Einstellungen
+     * Utiq verwalten
+     * Nutzungsbasierte Onlinewerbung
+     * Alle Artikel
+     * Impressum
 
 Weitere Angebote
 
-     * [266]Angebote für Schulen
-     * [267]Angebote für Institutionen
-     * [268]Sprachen lernen mit Gymglish
-     * [269]Lexika
-     * [270]Für Spektrum schreiben
-     * [271]Zugänglichkeitserklärung
+     * Angebote für Schulen
+     * Angebote für Institutionen
+     * Sprachen lernen mit Gymglish
+     * Lexika
+     * Für Spektrum schreiben
+     * Zugänglichkeitserklärung
 
 Webseiten
 
-     * [272]KielSCN
-     * [273]Wissenschaft in die Schulen
-     * [274]SciLogs
+     * KielSCN
+     * Wissenschaft in die Schulen
+     * SciLogs
 
    Uns finden Sie auch hier:
 
    Bitte erlauben Sie Javascript, um die volle Funktionalität von
    Spektrum.de zu erhalten.
-
-References
-
-   Visible links:
-   1. https://www.spektrum.de/alias/rss/sciviews-videos-aus-der-wissenschaft/1481729
-   2. https://www.spektrum.de/alias/rss/spektrum-de-meistgelesene-artikel/1224665
-   3. https://www.spektrum.de/alias/rss/spektrum-de-rss-feed/996406
-   4. http://www.gehirn-und-geist.de/alias/rss/gehirn-und-geist-rss-feed/982626
-   5. https://www.spektrum.de/alias/rss/spektrum-der-wissenschaft-rss-feed/982623
-   6. http://www.sterne-und-weltraum.de/alias/rss/sterne-und-weltraum-rss-feed/865248
-   7. https://www.googletagmanager.com/ns.html?id=GTM-NV9D2M
-   8. https://www.spektrum.de/news/wie-fantasie-kindern-beim-lernen-hilft/1431798#main
-   9. https://www.spektrum.de/news/wie-fantasie-kindern-beim-lernen-hilft/1431798
-  10. https://www.spektrum.de/index/spektrum-alle-premiuminhalte-auf-einen-blick/2286077
-  11. https://www.spektrum.de/magazin/spektrum-der-wissenschaft/
-  12. https://www.spektrum.de/die-woche/
-  13. https://www.spektrum.de/shop/spektrum-psychologie/abo/
-  14. https://www.spektrum.de/shop/spektrum-geschichte/abo/
-  15. https://www.spektrum.de/shop/spektrum-gesundheit/abo/
-  16. https://www.spektrum.de/magazin/gehirn-und-geist/
-  17. https://www.spektrum.de/magazin/sterne-und-weltraum/
-  18. https://www.spektrum.de/shop/spektrum-kompakt/
-  19. https://www.spektrum.de/news/wie-fantasie-kindern-beim-lernen-hilft/1431798
-  20. https://www.spektrum.de/shop/spektrum-der-wissenschaft/archiv/
-  21. https://www.spektrum.de/index/spektrum-alle-premiuminhalte-auf-einen-blick/2286077
-  22. https://www.spektrum.de/shop/spektrum-die-woche/archiv/
-  23. https://www.spektrum.de/shop/gehirn-und-geist/archiv/
-  24. https://www.spektrum.de/shop/sterne-und-weltraum/archiv/
-  25. https://www.spektrum.de/shop/spektrum-kompakt/
-  26. https://www.spektrum.de/shop/spektrum-psychologie/archiv/
-  27. https://www.spektrum.de/shop/spektrum-geschichte/archiv/
-  28. https://www.spektrum.de/shop/spektrum-gesundheit/archiv/
-  29. https://www.spektrum.de/shop/spektrum-edition/archiv/
-  30. https://www.spektrum.de/shop/spektrum-spezial/biologie-medizin-hirnforschung/archiv/
-  31. https://www.spektrum.de/shop/spektrum-spezial/physik-mathematik-technik/archiv/
-  32. https://www.spektrum.de/news/wie-fantasie-kindern-beim-lernen-hilft/1431798
-  33. https://www.spektrum.de/shop/
-  34. https://ocs.spektrum.de/
-  35. https://ocs.spektrum.de/
-  36. https://www.spektrum.de/live/
-  37. https://www.spektrum.de/aktion/abovorteile
-  38. https://www.spektrum.de/news/wie-fantasie-kindern-beim-lernen-hilft/1431798
-  39. https://www.spektrum.de/newsletter/
-  40. https://www.spektrum.de/lexikon/
-  41. https://ocs.spektrum.de/faq
-  42. https://www.spektrum.de/info/presse/
-  43. https://www.spektrum.de/alias/info/angebote-fuer-schulen/2175531
-  44. https://www.spektrum.de/info/kontakt/
-  45. https://www.spektrum.de/info/kontakt/
-  46. https://www.spektrum.de/info/mediadaten/
-  47. https://www.spektrum.de/login?url=https://www.spektrum.de/news/wie-fantasie-kindern-beim-lernen-hilft/1431798
-  48. https://www.spektrum.de/news/
-  49. https://www.spektrum.de/index/entdecken-sie-die-beliebtesten-artikel/1374084
-  50. https://www.spektrum.de/index/neuerscheinungen/1533949
-  51. https://www.spektrum.de/astronomie
-  52. https://www.spektrum.de/news/astronomie/
-  53. https://www.spektrum.de/thema/astronomie/
-  54. https://www.spektrum.de/wissen/astronomie/
-  55. https://www.spektrum.de/kolumne/astronomie/
-  56. https://www.spektrum.de/podcast/astronomie/
-  57. https://scilogs.spektrum.de/network-tax/category/astronomie/
-  58. https://www.spektrum.de/video/astronomie/
-  59. https://www.spektrum.de/bilder/astronomie/
-  60. https://www.spektrum.de/rezension/astronomie/
-  61. https://www.spektrum.de/quiz/astronomie/
-  62. https://www.spektrum.de/leserbilder/astronomie/
-  63. https://www.spektrum.de/szenenews/astronomie/
-  64. https://www.spektrum.de/shop/fachgebiet/astronomie/
-  65. https://www.spektrum.de/biologie
-  66. https://www.spektrum.de/news/biologie/
-  67. https://www.spektrum.de/thema/biologie/
-  68. https://www.spektrum.de/wissen/biologie/
-  69. https://www.spektrum.de/studium-beruf/biologie/
-  70. https://www.spektrum.de/kolumne/biologie/
-  71. https://www.spektrum.de/podcast/biologie/
-  72. https://scilogs.spektrum.de/network-tax/category/biologie/
-  73. https://www.spektrum.de/bilder/biologie/
-  74. https://www.spektrum.de/rezension/biologie/
-  75. https://www.spektrum.de/quiz/biologie/
-  76. https://www.spektrum.de/video/biologie/
-  77. https://www.spektrum.de/shop/fachgebiet/biologie/
-  78. https://www.spektrum.de/chemie
-  79. https://www.spektrum.de/news/chemie/
-  80. https://www.spektrum.de/thema/chemie/
-  81. https://www.spektrum.de/wissen/chemie/
-  82. https://www.spektrum.de/kolumne/chemie/
-  83. https://www.spektrum.de/podcast/chemie/
-  84. https://scilogs.spektrum.de/network-tax/category/chemie/
-  85. https://www.spektrum.de/bilder/chemie/
-  86. https://www.spektrum.de/rezension/chemie/
-  87. https://www.spektrum.de/quiz/chemie/
-  88. https://www.spektrum.de/video/chemie/
-  89. https://www.spektrum.de/shop/fachgebiet/chemie/
-  90. https://www.spektrum.de/erde-umwelt
-  91. https://www.spektrum.de/news/erde-umwelt/
-  92. https://www.spektrum.de/thema/erde-umwelt/
-  93. https://www.spektrum.de/wissen/erde-umwelt/
-  94. https://www.spektrum.de/kolumne/erde-umwelt/
-  95. https://www.spektrum.de/podcast/erde-umwelt/
-  96. https://scilogs.spektrum.de/network-tax/category/erde-umwelt/
-  97. https://www.spektrum.de/bilder/erde-umwelt/
-  98. https://www.spektrum.de/rezension/erde-umwelt/
-  99. https://www.spektrum.de/quiz/erde-umwelt/
- 100. https://www.spektrum.de/shop/fachgebiet/erde-umwelt/
- 101. https://www.spektrum.de/video/erde-umwelt/
- 102. https://www.spektrum.de/technik
- 103. https://www.spektrum.de/news/technik/
- 104. https://www.spektrum.de/thema/technik/
- 105. https://www.spektrum.de/wissen/technik/
- 106. https://www.spektrum.de/kolumne/technik/
- 107. https://www.spektrum.de/podcast/technik/
- 108. https://scilogs.spektrum.de/network-tax/category/technik/
- 109. https://www.spektrum.de/bilder/technik/
- 110. https://www.spektrum.de/rezension/technik/
- 111. https://www.spektrum.de/quiz/technik/
- 112. https://www.spektrum.de/video/technik/
- 113. https://www.spektrum.de/shop/fachgebiet/technik/
- 114. https://www.spektrum.de/kultur
- 115. https://www.spektrum.de/news/kultur/
- 116. https://www.spektrum.de/thema/kultur/
- 117. https://www.spektrum.de/wissen/kultur/
- 118. https://www.spektrum.de/kolumne/kultur/
- 119. https://www.spektrum.de/podcast/kultur/
- 120. https://scilogs.spektrum.de/network-tax/category/kultur/
- 121. https://www.spektrum.de/bilder/kultur/
- 122. https://www.spektrum.de/rezension/kultur/
- 123. https://www.spektrum.de/quiz/kultur/
- 124. https://www.spektrum.de/video/kultur/
- 125. https://www.spektrum.de/shop/fachgebiet/kultur/
- 126. https://www.spektrum.de/mathematik
- 127. https://www.spektrum.de/news/mathematik/
- 128. https://www.spektrum.de/thema/mathematik/
- 129. https://www.spektrum.de/wissen/mathematik/
- 130. https://www.spektrum.de/kolumne/mathematik/
- 131. https://www.spektrum.de/podcast/mathematik/
- 132. https://scilogs.spektrum.de/network-tax/category/mathematik/
- 133. https://www.spektrum.de/bilder/mathematik/
- 134. https://www.spektrum.de/rezension/mathematik/
- 135. https://www.spektrum.de/quiz/mathematik/
- 136. https://www.spektrum.de/video/mathematik/
- 137. https://www.spektrum.de/shop/fachgebiet/mathematik/
- 138. https://www.spektrum.de/medizin
- 139. https://www.spektrum.de/news/medizin/
- 140. https://www.spektrum.de/thema/medizin/
- 141. https://www.spektrum.de/wissen/medizin/
- 142. https://www.spektrum.de/kolumne/medizin/
- 143. https://www.spektrum.de/podcast/medizin/
- 144. https://scilogs.spektrum.de/network-tax/category/medizin/
- 145. https://www.spektrum.de/bilder/medizin/
- 146. https://www.spektrum.de/rezension/medizin/
- 147. https://www.spektrum.de/quiz/medizin/
- 148. https://www.spektrum.de/video/medizin/
- 149. https://www.spektrum.de/shop/fachgebiet/medizin/
- 150. https://www.spektrum.de/physik
- 151. https://www.spektrum.de/news/physik/
- 152. https://www.spektrum.de/thema/physik/
- 153. https://www.spektrum.de/wissen/physik/
- 154. https://www.spektrum.de/kolumne/physik/
- 155. https://www.spektrum.de/podcast/physik/
- 156. https://scilogs.spektrum.de/network-tax/category/physik/
- 157. https://www.spektrum.de/bilder/physik/
- 158. https://www.spektrum.de/rezension/physik/
- 159. https://www.spektrum.de/quiz/physik/
- 160. https://www.spektrum.de/video/physik/
- 161. https://www.spektrum.de/shop/fachgebiet/physik/
- 162. https://www.spektrum.de/psychologie-hirnforschung
- 163. https://www.spektrum.de/news/psychologie-hirnforschung/
- 164. https://www.spektrum.de/thema/psychologie-hirnforschung/
- 165. https://www.spektrum.de/wissen/psychologie-hirnforschung/
- 166. https://www.spektrum.de/kolumne/psychologie-hirnforschung/
- 167. https://www.spektrum.de/podcast/psychologie-hirnforschung/
- 168. https://scilogs.spektrum.de/network-tax/category/psychologie-hirnforschung/
- 169. https://www.spektrum.de/bilder/psychologie-hirnforschung/
- 170. https://www.spektrum.de/rezension/psychologie-hirnforschung/
- 171. https://www.spektrum.de/quiz/psychologie-hirnforschung/
- 172. https://www.spektrum.de/video/psychologie-hirnforschung/
- 173. https://www.spektrum.de/shop/fachgebiet/psychologie/
- 174. https://www.spektrum.de/index/spektrum-alle-premiuminhalte-auf-einen-blick/2286077
- 175. https://www.spektrum.de/suche/
- 176. https://www.spektrum.de/shop/
- 177. https://www.spektrum.de/lexikon/
- 178. https://www.spektrum.de/live/
- 179. https://www.spektrum.de/aktion/abovorteile
- 180. https://www.spektrum.de/newsletter/
- 181. https://www.spektrum.de/info/kontakt/
- 182. https://www.spektrum.de/login?url=https://www.spektrum.de/news/wie-fantasie-kindern-beim-lernen-hilft/1431798
- 183. https://www.spektrum.de/
- 184. https://www.spektrum.de/psychologie-hirnforschung
- 185. javascript:window.customPrint();
- 186. https://www.spektrum.de/news/wie-fantasie-kindern-beim-lernen-hilft/1431798
- 187. https://www.spektrum.de/news/wie-fantasie-kindern-beim-lernen-hilft/1431798#content__author
- 188. https://www.spektrum.de/thema/kinder-vom-baby-zum-teenager/1295321
- 189. https://www.spektrum.de/lexikon/psychologie/phantasie/11488
- 190. https://www.spektrum.de/ratgeber/leidet-mein-kind-unter-trennungsangst/1354918
- 191. https://www.spektrum.de/pdf/spektrum-kompakt-bildung-und-schule/1535385
- 192. https://www.spektrum.de/shop/spektrum-kompakt/
- 193. https://www.spektrum.de/thema/lernen/913417
- 194. https://www.spektrum.de/news/fremdsprachen-je-frueher-desto-besser/1308196
- 195. http://journal.frontiersin.org/article/10.3389/fpsyg.2014.00283/full
- 196. https://creativecommons.org/licenses/by-sa/3.0/legalcode
- 197. https://www.spektrum.de/shop/spektrum-de/abo/spektrum-kostenlos-kennen-lernen/2238245?itm_source=wall_plus&itm_medium=now_box&itm_campaign=spektrumplus_abo
- 198. https://www.spektrum.de/login/
- 199. https://www.spektrum.de/pdf/gibt-es-gott-heino-falcke-spektrum-die-woche-50-2025/2278643?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 200. https://www.spektrum.de/pdf/familie-strauss-wien-im-walzertakt-spektrum-geschichte-6-2025/2244853?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 201. https://www.spektrum.de/pdf/wege-aus-der-einsamkeit-spektrum-psychologie-1-2026/2240298?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 202. https://www.spektrum.de/pdf/wale-und-delfine-spektrum-kompakt-49-2025/2289079?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 203. https://www.spektrum.de/pdf/spektrum-die-woche-49-2025/2278641?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 204. https://www.spektrum.de/inhaltsverzeichnis/evolution-der-federn-spektrum-der-wissenschaft-1-2026/2240109?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 205. https://www.spektrum.de/inhaltsverzeichnis/bewusstsein-und-freier-wille-wer-entscheidet-gehirn-und-geist-1-2026/2240115?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 206. https://www.spektrum.de/inhaltsverzeichnis/highlights-2026-sterne-und-weltraum-1-2026/2238271?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 207. https://www.spektrum.de/inhaltsverzeichnis/verbrechen-psychologie-des-boesen-gehirn-und-geist-dossier-5-2025/2238274?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 208. https://www.spektrum.de/inhaltsverzeichnis/dunkle-energie-spektrum-der-wissenschaft-12-2025/2240108?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 209. https://www.spektrum.de/inhaltsverzeichnis/bewusstsein-und-freier-wille-wer-entscheidet-gehirn-und-geist-1-2026/2240115?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 210. https://www.spektrum.de/shop/bundle/digitalpaket-sterne-und-weltraum-jahrgang-2025/2283900?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 211. https://www.spektrum.de/pdf/long-covid-und-me-cfs-spektrum-kompakt-47-2025/2256825?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 212. https://www.spektrum.de/pdf/wege-aus-der-einsamkeit-spektrum-psychologie-1-2026/2240298?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 213. https://www.spektrum.de/shop/bundle/digitalpaket-das-gehirn/1420473?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 214. https://www.spektrum.de/shop/bundle/digitalpaket-teilchenphysik/1342042?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 215. https://www.spektrum.de/pdf/stress-und-erholung-spektrum-kompakt-48-2025/2256827?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 216. https://www.spektrum.de/inhaltsverzeichnis/highlights-2026-sterne-und-weltraum-1-2026/2238271?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 217. https://www.spektrum.de/inhaltsverzeichnis/eine-theorie-von-allem-spektrum-spezial-pmt-4-2025/2240100?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 218. https://www.spektrum.de/shop/bundle/digitalpaket-mikrobiom/1620684?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 219. https://www.spektrum.de/shop/bundle/spektrum-psychologie-jahrgang-2025/2283909?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 220. https://www.spektrum.de/shop/bundle/spektrum-geschichte-jahrgang-2025/2283906?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 221. https://www.spektrum.de/shop/bundle/digitalpaket-spektrum-der-wissenschaft-jahrgang-2025/2283899?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 222. https://www.spektrum.de/shop/bundle/digitalpaket-wale/2295321?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 223. https://www.spektrum.de/shop/bundle/gehirn-und-geist-digitalpaket-jahrgang-2025/2283902?itm_source=banner&itm_medium=kioskbar&itm_campaign=neuerscheinung
- 224. http://ica.sagepub.com/content/34/3/230.short
- 225. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3989584/
- 226. http://onlinelibrary.wiley.com/doi/10.1111/cdev.12287/full
- 227. http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.2010.01443.x/full
- 228. http://jpepsy.oxfordjournals.org/content/14/4/617.short
- 229. http://science.sciencemag.org/content/348/6230/91
- 230. http://www.sciencedirect.com/science/article/pii/S0885201414000781
- 231. mailto:leserbriefe@spektrum.de?subject=Anmerkung zum Artikel »Wie Fantasie das Lernen beflügelt «&body=Sehr geehrte Redaktion,
-
-ich habe eine Anmerkung zum Artikel »Wie Fantasie das Lernen beflügelt «,
-aufrufbar unter https://www.spektrum.de/news/wie-fantasie-kindern-beim-lernen-hilft/1431798
-
-
- 232. https://www.spektrum.de/magazin/therapie-was-hilft-kindern-mit-autismus/1424141
- 233. https://www.spektrum.de/magazin/infografik-spielen-trainiert-das-gehirn/1425881
- 234. https://www.spektrum.de/magazin/babypuppe-macht-lust-auf-kinderkriegen/1424690
- 235. https://www.spektrum.de/news/wann-schlaegt-trotz-in-aggression-um/1423709
- 236. https://www.spektrum.de/news/hochbegabte-brauchen-foerderung/1424477
- 237. https://www.spektrum.de/news/ausgebrannte-lehrer-gestresste-schueler/1414713
- 238. https://www.spektrum.de/news/wie-entsteht-langeweile-und-warum/1400676
- 239. https://www.spektrum.de/magazin/gehirn-computer-schnittstellen-werden-alltagstauglicher/1396834
- 240. https://www.spektrum.de/thema/
- 241. https://www.spektrum.de/video/
- 242. https://www.spektrum.de/news/wie-fantasie-kindern-beim-lernen-hilft/1431798#top
- 243. https://www.spektrum.de/inhaltsverzeichnis/evolution-der-federn-spektrum-der-wissenschaft-1-2026/2240109
- 244. https://www.spektrum.de/pdf/wale-und-delfine-spektrum-kompakt-49-2025/2289079
- 245. https://www.spektrum.de/inhaltsverzeichnis/highlights-2026-sterne-und-weltraum-1-2026/2238271
- 246. https://www.spektrum.de/pdf/gibt-es-gott-heino-falcke-spektrum-die-woche-50-2025/2278643
- 247. https://www.spektrum.de/inhaltsverzeichnis/bewusstsein-und-freier-wille-wer-entscheidet-gehirn-und-geist-1-2026/2240115
- 248. https://www.spektrum.de/index/neuerscheinungen/1533949
- 249. https://www.spektrum.de/shop
- 250. https://www.spektrum.de/newsletter/
- 251. https://www.spektrum.de/datenschutz/
- 252. https://www.spektrum.de/newsletter/
- 253. https://www.spektrum.de/info/kontakt/
- 254. https://www.spektrum.de/shop/
- 255. https://www.spektrum.de/info/kontakt/
- 256. https://www.spektrum.de/info/presse/
- 257. https://www.spektrum.de/info/kontakt/?activity=KF_KUE_ABO
- 258. https://www.spektrum.de/info/mediadaten/
- 259. https://www.spektrum.de/datenschutz/
- 260. https://www.spektrum.de/alias/info/allgemeine-nutzungsbedingungen/2176050
- 261. javascript:Optanon.ToggleInfoDisplay();
- 262. https://www.spektrum.de/alias/service/utiq-verwalten/2242311
- 263. https://www.iqdigital.de/news/nutzungsbasierte-onlinewerbung/
- 264. https://www.spektrum.de/artikel-archiv/
- 265. https://www.spektrum.de/impressum/
- 266. https://www.spektrum.de/alias/info/angebote-fuer-schulen/2175531
- 267. https://www.spektrum.de/alias/angebote-fuer-firmen-institute-hochschulen/994748
- 268. https://www.spektrum.de/angebote/gymglish/1604104
- 269. https://www.spektrum.de/lexikon/
- 270. https://www.spektrum.de/alias/autor-oder-autorin-werden/1405299
- 271. https://www.spektrum.de/alias/barrierefreiheit/barrierefreiheit-zugaenglichkeitserklaerung/2216999
- 272. https://www.spektrum.de/angebote/wissenschaftskommunikation-mit-dem-kielscn/2177562
- 273. http://www.wissenschaft-schulen.de/
- 274. https://scilogs.spektrum.de/
-
-   Hidden links:
- 276. https://www.spektrum.de/suche/
- 277. https://www.spektrum.de/
- 278. https://www.spektrum.de/login?url=https://www.spektrum.de/news/wie-fantasie-kindern-beim-lernen-hilft/1431798
- 279. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 280. https://bsky.app/intent/compose?text=Wie+Fantasie+das+Lernen+befl%C3%BCgelt+%0Ahttps%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 281. https://www.threads.net/intent/post?text=Wie+Fantasie+das+Lernen+befl%C3%BCgelt+&url=https%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 282. https://x.com/intent/post?text=Wie+Fantasie+das+Lernen+befl%C3%BCgelt+&url=https%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 283. https://www.xing.com/social_plugins/share?url=https%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 284. https://www.linkedin.com/shareArticle?mini=true&summary=Beim+Spielen+versinken+Kinder+gerne+in+Fantasiewelten.+Lange+sahen+Psychologen+darin+keinen+tieferen+Sinn.+Doch+die+Faszination+f%C3%BCr+Fabelwesen+kann+d%E2%80%A6&title=Wie+Fantasie+das+Lernen+befl%C3%BCgelt+&url=https%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 285. https://share.flipboard.com/bookmarklet/popout?v=2&title=Wie+Fantasie+das+Lernen+befl%C3%BCgelt+&url=https%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 286. mailto:?subject=Wie%20Fantasie%20das%20Lernen%20befl%C3%BCgelt%20&body=https%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 287. whatsapp://send/?text=Wie+Fantasie+das+Lernen+befl%C3%BCgelt++https%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 288. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 289. https://bsky.app/intent/compose?text=Wie+Fantasie+das+Lernen+befl%C3%BCgelt+%0Ahttps%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 290. https://www.threads.net/intent/post?text=Wie+Fantasie+das+Lernen+befl%C3%BCgelt+&url=https%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 291. https://x.com/intent/post?text=Wie+Fantasie+das+Lernen+befl%C3%BCgelt+&url=https%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 292. https://www.xing.com/social_plugins/share?url=https%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 293. https://www.linkedin.com/shareArticle?mini=true&summary=Beim+Spielen+versinken+Kinder+gerne+in+Fantasiewelten.+Lange+sahen+Psychologen+darin+keinen+tieferen+Sinn.+Doch+die+Faszination+f%C3%BCr+Fabelwesen+kann+d%E2%80%A6&title=Wie+Fantasie+das+Lernen+befl%C3%BCgelt+&url=https%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 294. https://share.flipboard.com/bookmarklet/popout?v=2&title=Wie+Fantasie+das+Lernen+befl%C3%BCgelt+&url=https%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 295. mailto:?subject=Wie%20Fantasie%20das%20Lernen%20befl%C3%BCgelt%20&body=https%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 296. whatsapp://send/?text=Wie+Fantasie+das+Lernen+befl%C3%BCgelt++https%3A%2F%2Fwww.spektrum.de%2Fnews%2Fwie-fantasie-kindern-beim-lernen-hilft%2F1431798
- 297. https://www.spektrum.de/thema/erziehung/1356855
- 298. https://www.spektrum.de/thema/kinder/1295321
- 299. https://www.spektrum.de/thema/lernen/913417
- 300. https://www.facebook.com/spektrumverlag
- 301. https://bsky.app/profile/spektrum.de
- 302. https://www.instagram.com/spektrumverlag/
- 303. https://www.youtube.com/spektrumverlag
- 304. https://flipboard.com/@Spektrumverlag
- 305. https://www.spektrum.de/alias/rss/spektrum-de-rss-feed/996406
- 306. https://itunes.apple.com/de/app/spektrum-digital/id940607128?mt=8
- 307. https://play.google.com/store/apps/details?id=com.spektrum.digital

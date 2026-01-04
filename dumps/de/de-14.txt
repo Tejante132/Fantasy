@@ -1,30 +1,29 @@
-   #[1]JSON [2]oEmbed (JSON) [3]oEmbed (XML)
+   #JSON oEmbed (JSON) oEmbed (XML)
 
-   IFRAME: [4]https://www.googletagmanager.com/ns.html?id=GTM-PMS3KGML
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PMS3KGML
 
-
-     * [5]BUSCHTROMMEL
-     * [6]GÄSTEBUCH
-     * [7]KONTAKT
+     * BUSCHTROMMEL
+     * GÄSTEBUCH
+     * KONTAKT
      *
 
-     * [8]PROFIL
-          + [9]MEINE PERSON
-          + [10]INFORMATIONEN
-     * [11]ANGEBOT
-          + [12]GESUNDHEIT UND KÖRPER
-          + [13]LEISTUNG UND ENTLASTUNG
-          + [14]MOTIVATION UND VERÄNDERUNG
-          + [15]KREATIVITÄT UND INSPIRATION
-     * [16]VERANSTALTUNGEN
-          + [17]TERMINE
-          + [18]REFERENZEN
-     * [19]MEDIA
-          + [20]KOPFSACHEN (Blog)
-          + [21]GEHIRN GEHÖRT (Podcast)
-          + [22]VIDEOS
-     * [23]PUBLIKATIONEN
-     * [24]DOWNLOADS
+     * PROFIL
+          + MEINE PERSON
+          + INFORMATIONEN
+     * ANGEBOT
+          + GESUNDHEIT UND KÖRPER
+          + LEISTUNG UND ENTLASTUNG
+          + MOTIVATION UND VERÄNDERUNG
+          + KREATIVITÄT UND INSPIRATION
+     * VERANSTALTUNGEN
+          + TERMINE
+          + REFERENZEN
+     * MEDIA
+          + KOPFSACHEN (Blog)
+          + GEHIRN GEHÖRT (Podcast)
+          + VIDEOS
+     * PUBLIKATIONEN
+     * DOWNLOADS
      *
 
    Neues aus... Gehirn GehörtNews
@@ -60,24 +59,24 @@ Mit Fantasie voraus – Warum sie uns helfen kann, die Welt zu retten
 
 
    Für mehr Informationen besuchen Sie mich gerne unter
-   [25]www.drvolkerbusch.de
+   www.drvolkerbusch.de
 
 
-   Bei [26]Julep
+   Bei Julep
 
    oder bei:
 
-   [27]Apple Podcasts
+   Apple Podcasts
 
-   [28]Spotify Podcasts
+   Spotify Podcasts
 
-   [29]Deezer Podcasts
+   Deezer Podcasts
 
-   [30]Google Podcasts
+   Google Podcasts
 
-   [31]Amazon Podcasts
+   Amazon Podcasts
 
-   oder als Video-Podcast auf [32]YouTube
+   oder als Video-Podcast auf YouTube
 
 
 
@@ -87,198 +86,68 @@ Mit Fantasie voraus – Warum sie uns helfen kann, die Welt zu retten
    uns helfen kann, die Welt zu retten
 
 
-   [33]Zur Übersicht
+   Zur Übersicht
 
 Neueste Beiträge
 
-     * [34]Keine Synchronisierung bei Video-Calls 10.12.2025
-     * [35]Ein Abschied für immer – Wenn wir geliebte Menschen verlieren
+     * Keine Synchronisierung bei Video-Calls 10.12.2025
+     * Ein Abschied für immer – Wenn wir geliebte Menschen verlieren
        01.12.2025
-     * [36]Werden wir dümmer? Was macht die K.I. mit unserem Denken?
+     * Werden wir dümmer? Was macht die K.I. mit unserem Denken?
        01.11.2025
-     * [37]Glücksmomente – Wie wir sie finden, ohne nach ihnen zu suchen
+     * Glücksmomente – Wie wir sie finden, ohne nach ihnen zu suchen
        03.10.2025
 
 Schlagwörter
 
-   [38]Angst [39]Arbeitswelt [40]Aufmerksamkeit [41]Bewegung [42]Blog
-   [43]Change [44]Corona [45]Denkmuster [46]Depression [47]Digitalisierung
-   [48]Dr. Volker Busch [49]Emotionen [50]Entspannung [51]Erholung
-   [52]Fokus [53]Gehirn [54]Gehirn Gehört [55]Gemeinschaft [56]Gesundheit
-   [57]Glück [58]Humor [59]Informationsüberladung [60]Intuition
-   [61]Keynote [62]Kognition [63]Konzentration [64]Kopfsachen
-   [65]Kreativität [66]Krise [67]Motivation [68]Multitasking [69]Mut
-   [70]Neurowissenschaft [71]Podcast [72]Psychologie [73]Reizflut [74]Ruhe
-   [75]Schlaf [76]Stress [77]Unsicherheit [78]Verschwörung [79]Veränderung
-   [80]Vortrag [81]Wissen [82]Wissenschaft
+   Angst Arbeitswelt Aufmerksamkeit Bewegung Blog Change Corona Denkmuster
+   Depression Digitalisierung Dr. Volker Busch Emotionen Entspannung
+   Erholung Fokus Gehirn Gehirn Gehört Gemeinschaft Gesundheit Glück Humor
+   Informationsüberladung Intuition Keynote Kognition Konzentration
+   Kopfsachen Kreativität Krise Motivation Multitasking Mut
+   Neurowissenschaft Podcast Psychologie Reizflut Ruhe Schlaf Stress
+   Unsicherheit Verschwörung Veränderung Vortrag Wissen Wissenschaft
 
    Es wäre mir eine große Ehre und Freude, wenn ich Sie künftig mitnehmen
    dürfte auf meine Reise durch die Welt von Geist und Gehirn.
 
    Schauen Sie doch mal hier:
-   [83]Buschtrommel
+   Buschtrommel
 
    Ich freue mich riesig, wenn Sie diesen Beitrag teilen.
 
-   [84]Vorheriger Beitrag
+   Vorheriger Beitrag
    Wie peinlich! – Die Wahrheit hinter Freudschen Versprechern
-   [85]
    Nächster Beitrag
    Öfter mal Offline – Warum digitale Pausen Gedächtnis und Kreativität
    fördern
 
    © Dr. Volker Busch 2023
-     * [86]IMPRESSUM
-     * [87]DATENSCHUTZ
-     * [88]PARTNER
+     * IMPRESSUM
+     * DATENSCHUTZ
+     * PARTNER
 
-   [89]Menü
+   Menü
 
    Sie sehen gerade einen Platzhalterinhalt von Facebook. Um auf den
    eigentlichen Inhalt zuzugreifen, klicken Sie auf die Schaltfläche
    unten. Bitte beachten Sie, dass dabei Daten an Drittanbieter
    weitergegeben werden.
-   [90]Mehr Informationen
-   [91]Inhalt entsperren [92]Erforderlichen Service akzeptieren und
-   Inhalte entsperren
+   Mehr Informationen
+   Inhalt entsperren Erforderlichen Service akzeptieren und Inhalte
+   entsperren
 
    Sie sehen gerade einen Platzhalterinhalt von Instagram. Um auf den
    eigentlichen Inhalt zuzugreifen, klicken Sie auf die Schaltfläche
    unten. Bitte beachten Sie, dass dabei Daten an Drittanbieter
    weitergegeben werden.
-   [93]Mehr Informationen
-   [94]Inhalt entsperren [95]Erforderlichen Service akzeptieren und
-   Inhalte entsperren
+   Mehr Informationen
+   Inhalt entsperren Erforderlichen Service akzeptieren und Inhalte
+   entsperren
 
    Sie sehen gerade einen Platzhalterinhalt von X. Um auf den eigentlichen
    Inhalt zuzugreifen, klicken Sie auf die Schaltfläche unten. Bitte
    beachten Sie, dass dabei Daten an Drittanbieter weitergegeben werden.
-   [96]Mehr Informationen
-   [97]Inhalt entsperren [98]Erforderlichen Service akzeptieren und
-   Inhalte entsperren
-
-References
-
-   Visible links:
-   1. https://drvolkerbusch.de/wp-json/wp/v2/posts/6644
-   2. https://drvolkerbusch.de/wp-json/oembed/1.0/embed?url=https://drvolkerbusch.de/mit-fantasie-voraus/
-   3. https://drvolkerbusch.de/wp-json/oembed/1.0/embed?url=https://drvolkerbusch.de/mit-fantasie-voraus/&format=xml
-   4. https://www.googletagmanager.com/ns.html?id=GTM-PMS3KGML
-   5. https://drvolkerbusch.de/buschtrommel/
-   6. https://drvolkerbusch.de/gaestebuch/
-   7. https://drvolkerbusch.de/kontakt/
-   8. https://drvolkerbusch.de/mit-fantasie-voraus/
-   9. https://drvolkerbusch.de/profil/
-  10. https://drvolkerbusch.de/veranstaltungen/information/
-  11. https://drvolkerbusch.de/angebot/
-  12. https://drvolkerbusch.de/angebot/was-gesundheit/
-  13. https://drvolkerbusch.de/angebot/was-leistung/
-  14. https://drvolkerbusch.de/angebot/was-motivation/
-  15. https://drvolkerbusch.de/angebot/was-inspiration/
-  16. https://drvolkerbusch.de/mit-fantasie-voraus/
-  17. https://drvolkerbusch.de/veranstaltungen/
-  18. https://drvolkerbusch.de/referenzen/
-  19. https://drvolkerbusch.de/mit-fantasie-voraus/
-  20. https://drvolkerbusch.de/kopfsachen/
-  21. https://drvolkerbusch.de/podcast-gehirn-gehoert/
-  22. https://drvolkerbusch.de/videos/
-  23. https://drvolkerbusch.de/publikationen/
-  24. https://drvolkerbusch.de/download/
-  25. http://www.drvolkerbusch.de/
-  26. https://gehirn-gehoert-dr-volker-busch.blogs.julephosting.de/25-mit-fantasie-voraus
-  27. https://podcasts.apple.com/de/podcast/gehirn-gehört-dr-volker-busch/id1508018524
-  28. https://open.spotify.com/show/5ksjr9sEK1WBCZsCgw061j?si=ggXgQYCfQK2xTA11qr8yxA
-  29. https://www.deezer.com/de/show/3543607
-  30. https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZHJ2b2xrZXJidXNjaC5kZS9mZWVkL3BvZGNhc3Qv
-  31. https://q4k0kx5j.r.us-east-1.awstrack.me/L0/https://music.amazon.de/podcasts/fdb3c1be-d1eb-447d-9642-e1c7a6a04d0f/1/0100018023113b8c-e6993512-4b0f-4144-9056-0b214e596b46-000000/HEyCy2AGj0SyiKb0lG24cqvZk-4=266
-  32. https://youtu.be/C2TYgerlmrs
-  33. https://www.drvolkerbusch.de/buschtrommel/
-  34. https://drvolkerbusch.de/keine-synchronisierung-bei-video-calls/
-  35. https://drvolkerbusch.de/ein-abschied-fuer-immer-wenn-wir-geliebte-menschen-verlieren/
-  36. https://drvolkerbusch.de/werden-wir-duemmer-einfluss-kuenstlicher-intellligenz/
-  37. https://drvolkerbusch.de/gluecksmomente-wie-wir-sie-finden-ohne-nach-ihnen-zu-suchen/
-  38. https://drvolkerbusch.de/tag/angst/
-  39. https://drvolkerbusch.de/tag/arbeitswelt/
-  40. https://drvolkerbusch.de/tag/aufmerksamkeit/
-  41. https://drvolkerbusch.de/tag/bewegung/
-  42. https://drvolkerbusch.de/tag/blog/
-  43. https://drvolkerbusch.de/tag/change/
-  44. https://drvolkerbusch.de/tag/corona/
-  45. https://drvolkerbusch.de/tag/denkmuster/
-  46. https://drvolkerbusch.de/tag/depression/
-  47. https://drvolkerbusch.de/tag/digitalisierung/
-  48. https://drvolkerbusch.de/tag/dr-volker-busch/
-  49. https://drvolkerbusch.de/tag/emotionen/
-  50. https://drvolkerbusch.de/tag/entspannung/
-  51. https://drvolkerbusch.de/tag/erholung/
-  52. https://drvolkerbusch.de/tag/fokus/
-  53. https://drvolkerbusch.de/tag/gehirn/
-  54. https://drvolkerbusch.de/tag/gehirn-gehoert/
-  55. https://drvolkerbusch.de/tag/gemeinschaft/
-  56. https://drvolkerbusch.de/tag/gesundheit/
-  57. https://drvolkerbusch.de/tag/glueck/
-  58. https://drvolkerbusch.de/tag/humor/
-  59. https://drvolkerbusch.de/tag/informationsueberladung/
-  60. https://drvolkerbusch.de/tag/intuition/
-  61. https://drvolkerbusch.de/tag/keynote/
-  62. https://drvolkerbusch.de/tag/kognition/
-  63. https://drvolkerbusch.de/tag/konzentration/
-  64. https://drvolkerbusch.de/tag/kopfsachen/
-  65. https://drvolkerbusch.de/tag/kreativitaet/
-  66. https://drvolkerbusch.de/tag/krise/
-  67. https://drvolkerbusch.de/tag/motivation/
-  68. https://drvolkerbusch.de/tag/multitasking/
-  69. https://drvolkerbusch.de/tag/mut/
-  70. https://drvolkerbusch.de/tag/neurowissenschaft/
-  71. https://drvolkerbusch.de/tag/podcast/
-  72. https://drvolkerbusch.de/tag/psychologie/
-  73. https://drvolkerbusch.de/tag/reizflut/
-  74. https://drvolkerbusch.de/tag/ruhe/
-  75. https://drvolkerbusch.de/tag/schlaf/
-  76. https://drvolkerbusch.de/tag/stress/
-  77. https://drvolkerbusch.de/tag/unsicherheit/
-  78. https://drvolkerbusch.de/tag/verschwoerung/
-  79. https://drvolkerbusch.de/tag/veraenderung/
-  80. https://drvolkerbusch.de/tag/vortrag/
-  81. https://drvolkerbusch.de/tag/wissen/
-  82. https://drvolkerbusch.de/tag/wissenschaft/
-  83. https://www.drvolkerbusch.de/buschtrommel
-  84. https://drvolkerbusch.de/wie-peinlich-was-steckt-hinter-freudschen-versprechern/
-  85. https://drvolkerbusch.de/oefter-mal-offline/
-  86. https://drvolkerbusch.de/impressum/
-  87. https://drvolkerbusch.de/datenschutz/
-  88. https://drvolkerbusch.de/partner/
-  89. javascript:void(0);
-  90. https://drvolkerbusch.de/mit-fantasie-voraus/
-  91. https://drvolkerbusch.de/mit-fantasie-voraus/
-  92. https://drvolkerbusch.de/mit-fantasie-voraus/
-  93. https://drvolkerbusch.de/mit-fantasie-voraus/
-  94. https://drvolkerbusch.de/mit-fantasie-voraus/
-  95. https://drvolkerbusch.de/mit-fantasie-voraus/
-  96. https://drvolkerbusch.de/mit-fantasie-voraus/
-  97. https://drvolkerbusch.de/mit-fantasie-voraus/
-  98. https://drvolkerbusch.de/mit-fantasie-voraus/
-
-   Hidden links:
- 100. javascript:void(0);
- 101. https://www.facebook.com/drvolkerbusch
- 102. https://www.xing.com/profile/Volker_Busch/cv
- 103. https://www.linkedin.com/in/prof-dr-volker-busch-41929562/
- 104. https://www.instagram.com/drvolkerbusch
- 105. https://www.youtube.com/channel/UCQ6c6_pEK07EZT9XlqV3zgw
- 106. https://www.tiktok.com/@dr.volkerbusch
- 107. https://drvolkerbusch.de/
- 108. javascript:void(0);
- 109. javascript:void(0)
- 110. javascript:void(0)
- 111. javascript:void(0)
- 112. javascript:void(0)
- 113. javascript:void(0)
- 114. javascript:void(0)
- 115. javascript:void(0)
- 116. javascript:void(0)
- 117. javascript:void(0)
- 118. javascript:void(0)
- 119. javascript:void(0)
- 120. javascript:void(0)
- 121. https://drvolkerbusch.de/mit-fantasie-voraus/
+   Mehr Informationen
+   Inhalt entsperren Erforderlichen Service akzeptieren und Inhalte
+   entsperren

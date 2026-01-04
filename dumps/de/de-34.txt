@@ -1,13 +1,13 @@
-     * [1]zur Hauptnavigation springen
-     * [2]zum Inhaltsbereich springen
+     * zur Hauptnavigation springen
+     * zum Inhaltsbereich springen
 
-   [3]Universität Bamberg
-   [4]Suche öffnen
-   [5]Sie befinden sich hier:
-     * [6]Startseite
-     * [7]Universität
-     * [8]Aktuelles
-     * [9]News-Archiv
+   Universität Bamberg
+   Suche öffnen
+   Sie befinden sich hier:
+     * Startseite
+     * Universität
+     * Aktuelles
+     * News-Archiv
 
    www.uni-bamberg.de (*) univis.uni-bamberg.de ( ) fis.uni-bamberg.de ( )
 
@@ -15,7 +15,7 @@
    (*) ( ) ( )
 
    (BUTTON) Suche schließen
-   [10]  Universität Bamberg
+     Universität Bamberg
    (BUTTON) Kontrast
    (BUTTON) Suche öffnen
 
@@ -26,245 +26,243 @@
 
    (BUTTON) Suche schließen
 
-   [11]Universität
+   Universität
 
-   [12]News-Archiv
-    1. [13] Otto-Friedrich-Universität Bamberg
-    2. [14]Universität
-    3. [15]Aktuelles
-    4. [16]News-Archiv
+   News-Archiv
+    1.  Otto-Friedrich-Universität Bamberg
+    2. Universität
+    3. Aktuelles
+    4. News-Archiv
     5. Fantasie: Werkzeug zum Überleben oder Antrieb von Kultur?
 
    Seitenbereich:
 
-   [17]Universität
+   Universität
 
-   [18]News-Archiv
+   News-Archiv
    (BUTTON) Kontrast (BUTTON) Sprache
-     * [19]Profil
-          + [20]Bedeutung der Universität
-               o [21]Strategische Überlegungen
-               o [22]Impactfeld: Kultur & kult. Bildung
-               o [23]Impactfeld: Internationales
-               o [24]Impactfeld: Stadt & Region
-               o [25]Impactfeld: Bildung & Soziales
-               o [26]Bürgerbefragung 2019
-               o [27]Bürgerbefragung 2017
-          + [28]Selbstverständnis und Leitbild
-               o [29]Leitbild
-               o [30]Offener Wissenszugang
-          + [31]Geschichte und Tradition
-               o [32]Chronologie der Universität
-               o [33]Persönlichkeiten
-                    # [34]Ehemalige Mitglieder der Universitätsleitung
-                    # [35]Emeriti
-                    # [36]Ehrendoktorinnen und Ehrendoktoren
-                    # [37]Ehrensenatorinnen und -senatoren,
-                      Ehrenbürgerinnen und -bürger und Verdienstmedaillen
-                    # [38]Honorarprofessorinnen und -professoren
-                    # [39]Bedeutende Persönlichkeiten der
+     * Profil
+          + Bedeutung der Universität
+               o Strategische Überlegungen
+               o Impactfeld: Kultur & kult. Bildung
+               o Impactfeld: Internationales
+               o Impactfeld: Stadt & Region
+               o Impactfeld: Bildung & Soziales
+               o Bürgerbefragung 2019
+               o Bürgerbefragung 2017
+          + Selbstverständnis und Leitbild
+               o Leitbild
+               o Offener Wissenszugang
+          + Geschichte und Tradition
+               o Chronologie der Universität
+               o Persönlichkeiten
+                    # Ehemalige Mitglieder der Universitätsleitung
+                    # Emeriti
+                    # Ehrendoktorinnen und Ehrendoktoren
+                    # Ehrensenatorinnen und -senatoren, Ehrenbürgerinnen
+                      und -bürger und Verdienstmedaillen
+                    # Honorarprofessorinnen und -professoren
+                    # Bedeutende Persönlichkeiten der
                       Universitätsgeschichte
-                    # [40]Bamberger Professorinnen- und Professorenkatalog
-               o [41]Preise und Auszeichnungen
-                    # [42]Orden und Auszeichnungen
-                    # [43]Forschungspreise und Auszeichnungen
-                    # [44]Preis für gute Lehre
-                    # [45]Preise für Studierende
-               o [46]Gedenktafeln
-                    # [47]Gedenktafel in der U2
-                    # [48]Gedenktafel in der U5
-                    # [49]Gesamtbewertung
-               o [50]3D-Grabstein
-          + [51]Ziele und Perspektiven
-               o [52]Zielvereinbarungen
-                    # [53]Zielvereinbarung 2006-2008
-                    # [54]Zielvereinbarung 2008 zur Ausbauplanung
-                    # [55]Zielvereinbarung 2009-2013
-                    # [56]Zielvereinbarung 2014-2018
-                    # [57]Zielvereinbarung 2019-2022
-                    # [58]Hochschulvertrag 2023-2027
-                    # [59]Ausbauplanung 2020
-               o [60]Entwicklungsperspektive
-               o [61]Qualitätsziele in der Lehre
-     * [62]Zahlen und Fakten
-          + [63]Die Universität Bamberg in Zahlen
-          + [64]Jahresberichte
-     * [65]Charakteristika und Kultur
-          + [66]Diversity
-               o [67]Diversity-Forschung
-                    # [68]Internationale Diversity-Gastprofessuren
-                    # [69]Expert*innenliste Diversity
-                    # [70]Diversity-Forschungsprojekte
-                    # [71]Forschungseinrichtungen mit Diversity-Bezug
-               o [72]Diversity in Lehre und Studium
-                    # [73]Diversity-Themen in der Lehre
-                    # [74]Diversity und Studienorganisation
-               o [75]Diversity-Management und universitäres Leben
-                    # [76]Diversity in Dokumenten
-                    # [77]Runder Tisch Diversity
-                    # [78]Diversity-Preis
-                    # [79]Diversity-Tag
-                    # [80]Diversity & Gesundheit
-                    # [81]Antidiskriminierung
-                    # [82]Präventionsarbeit gegen Rassismus und
-                      Antisemitismus
-                    # [83]Schutz vor sexualisierter Belästigung und Gewalt
-                    # [84]Zertifikate und Mitgliedschaften
-               o [85]Diversity-Strategie
-               o [86]News-Archiv
-          + [87]Familiengerechte Hochschule
-               o [88]Audit Familiengerechte Hochschule
-                    # [89]Das Projekt
-                    # [90]Die Projektgruppe
-                    # [91]Der Auditierungsprozess
-          + [92]Gleichstellung
-          + [93]Qualität an der Universität Bamberg
-               o [94]Qualitätsmanagement in Studium und Lehre (QM
-                 ServiceNet)
-               o [95]Qualitätssicherung in der Forschung
-               o [96]Qualitätssicherung in der Verwaltung (QSV)
-          + [97]Kulturelles Engagement
-          + [98]Nachhaltigkeit
-               o [99]Leitbild & Strategie
-                    # [100]Leitbild Nachhaltigkeit
-                    # [101]Nachhaltigkeitsstrategie
-               o [102]Steuerungsgruppe Nachhaltigkeit
-                    # [103]Nachhaltigkeitsbüro
-               o [104]Nachhaltiges Campusmanagement
-                    # [105]Umweltmanagement nach EMAS
-                    # [106]Race-to-zero
-                    # [107]Fairtrade University
-                    # [108]Umweltbildung.Bayern
-                    # [109]Nachhaltigkeitspreise
-                    # [110]Nachhaltige Gesundheit
-                    # [111]Energiesparmaßnahmen
-               o [112]Nachhaltigkeit als Forschungsthema
-               o [113]Nachhaltigkeit in Lehre und Studium
-                    # [114]Aktuelle Lehrveranstaltungen
-                    # [115]UniGardening
-               o [116]Nachhaltigkeitsfest
-                    # [117]NaFest 2025
-                    # [118]Vorjahre
-                    # [119]Geschichte und Vorläufer
-               o [120]News
-               o [121]Anmeldung Mobilitätsworkshop
-          + [122]Netzwerke
-               o [123]Internationale Bayerische Hochschulzentren
-               o [124]TechnologieAllianzOberfranken TAO
-          + [125]Offener Wissenszugang und Forschungsdaten
-          + [126]Zertifikate
-     * [127]Aktuelles
-          + [128]uni.blog
-          + [129]News-Archiv
-          + [130]Newsletter abonnieren
-          + [131]Die Uni in den Medien
-               o [132]TV-Beiträge
-               o [133]Radiobeiträge und Podcasts
-               o [134]Videoporträts
-          + [135]RSS Feeds & Verteilergruppen
-          + [136]Weihnachtsschließung
-          + [137]Preis für studentisches Engagement
-     * [138]Veranstaltungen
-          + [139]Hegelwoche
-               o [140]Hegelwoche 2025
-               o [141]Hegelwoche 2024
-               o [142]Vorjahre
-                    # [143]Hegelwoche 2023
-                    # [144]Hegelwoche 2022
-                    # [145]Hegeltag 2021
-                    # [146]Hegelwoche 2019
-                    # [147]Hegelwoche 2018
-                    # [148]Hegelwoche 2017
-                    # [149]Hegelwoche 2016
-                    # [150]Hegelwoche 2015
-                    # [151]Hegelwoche 2014
-                    # [152]Hegelwoche 2013
-                    # [153]Hegelwoche 2012
-                    # [154]Hegelwoche 2011
-                    # [155]Hegelwoche 2010
-               o [156]25 Jahre Bamberger Hegelwoche
-          + [157]Uni-Lauf Bamberg
-               o [158]Strecke
-               o [159]Ausschreibung
-               o [160]Kontakt
-               o [161]Förderer
-               o [162]Ergebnisse
-               o [163]Bildergalerie
-                    # [164]Bildergalerie 2024
-                    # [165]Bildergalerie 2023
-                    # [166]Bildergalerie 2022
-               o [167]In den Medien
-          + [168]uni.fest
-               o [169]uni.fest 2025
-               o [170]uni.fest 2024
-          + [171]Dies academicus
-               o [172]Dies academicus 2025
-               o [173]Vorjahre
-                    # [174]Dies academicus 2024
-                    # [175]Dies academicus 2023
-                    # [176]Dies academicus 2022
-                    # [177]Dies academicus 2021
-                    # [178]Dies academicus 2020
-                    # [179]Dies academicus 2019
-                    # [180]Dies academicus 2018
-                    # [181]Dies academicus 2017
-                    # [182]Dies academicus 2016
-                    # [183]Dies academicus 2015
-                    # [184]Dies academicus 2014
-                    # [185]Dies academicus 2013
-                    # [186]Dies academicus 2012
-                    # [187]Dies academicus 2011
-                    # [188]Dies academicus 2010
-                    # [189]Dies academicus 2009
-          + [190]Kinder-Uni
-               o [191]Programm Wintersemester 2025/2026
-               o [192]Anmeldung
-                    # [193]Rechtsgrundlage
-               o [194]FAQ
-               o [195]Kontakt
-          + [196]Antritte und Verabschiedungen
-          + [197]Öffentliche Vortragsreihen und Ringvorlesungen
-          + [198]Tagungen
-          + [199]Veranstaltungskalender
-     * [200]Uni-Publikationen
-          + [201]Campus-Magazin uni.kat
-               o [202]Archiv uni.kat
-               o [203]Archiv uni.doc
-          + [204]Unimagazin uni.vers Forschung
-          + [205]Studieren an der Uni Bamberg
-          + [206]Studieninformationen
-          + [207]Imageflyer
-          + [208]Jahresberichte
-          + [209]Wissenschaft zum Mitnehmen
-          + [210]Historie der Bamberger Universitätszeitungen
-     * [211]Stellenangebote
-     * [212]Anreise, Lageplan, Impressionen
-          + [213]Standorte
-          + [214]Verteilung auf das Stadtgebiet
-          + [215]Anreise nach Bamberg
-          + [216]Bildergalerie
-          + [217]Street View/360-Grad-Ansichten
-          + [218]Videos
-          + [219]Bamberg auf Google Earth
-          + [220]Öffnungszeiten
-          + [221]Wohnheime
-          + [222]Mensa/Cafeteria
-          + [223]BAföG-Amt
-          + [224]Defibrillatoren an Uni-Standorten
+                    # Bamberger Professorinnen- und Professorenkatalog
+               o Preise und Auszeichnungen
+                    # Orden und Auszeichnungen
+                    # Forschungspreise und Auszeichnungen
+                    # Preis für gute Lehre
+                    # Preise für Studierende
+               o Gedenktafeln
+                    # Gedenktafel in der U2
+                    # Gedenktafel in der U5
+                    # Gesamtbewertung
+               o 3D-Grabstein
+          + Ziele und Perspektiven
+               o Zielvereinbarungen
+                    # Zielvereinbarung 2006-2008
+                    # Zielvereinbarung 2008 zur Ausbauplanung
+                    # Zielvereinbarung 2009-2013
+                    # Zielvereinbarung 2014-2018
+                    # Zielvereinbarung 2019-2022
+                    # Hochschulvertrag 2023-2027
+                    # Ausbauplanung 2020
+               o Entwicklungsperspektive
+               o Qualitätsziele in der Lehre
+     * Zahlen und Fakten
+          + Die Universität Bamberg in Zahlen
+          + Jahresberichte
+     * Charakteristika und Kultur
+          + Diversity
+               o Diversity-Forschung
+                    # Internationale Diversity-Gastprofessuren
+                    # Expert*innenliste Diversity
+                    # Diversity-Forschungsprojekte
+                    # Forschungseinrichtungen mit Diversity-Bezug
+               o Diversity in Lehre und Studium
+                    # Diversity-Themen in der Lehre
+                    # Diversity und Studienorganisation
+               o Diversity-Management und universitäres Leben
+                    # Diversity in Dokumenten
+                    # Runder Tisch Diversity
+                    # Diversity-Preis
+                    # Diversity-Tag
+                    # Diversity & Gesundheit
+                    # Antidiskriminierung
+                    # Präventionsarbeit gegen Rassismus und Antisemitismus
+                    # Schutz vor sexualisierter Belästigung und Gewalt
+                    # Zertifikate und Mitgliedschaften
+               o Diversity-Strategie
+               o News-Archiv
+          + Familiengerechte Hochschule
+               o Audit Familiengerechte Hochschule
+                    # Das Projekt
+                    # Die Projektgruppe
+                    # Der Auditierungsprozess
+          + Gleichstellung
+          + Qualität an der Universität Bamberg
+               o Qualitätsmanagement in Studium und Lehre (QM ServiceNet)
+               o Qualitätssicherung in der Forschung
+               o Qualitätssicherung in der Verwaltung (QSV)
+          + Kulturelles Engagement
+          + Nachhaltigkeit
+               o Leitbild & Strategie
+                    # Leitbild Nachhaltigkeit
+                    # Nachhaltigkeitsstrategie
+               o Steuerungsgruppe Nachhaltigkeit
+                    # Nachhaltigkeitsbüro
+               o Nachhaltiges Campusmanagement
+                    # Umweltmanagement nach EMAS
+                    # Race-to-zero
+                    # Fairtrade University
+                    # Umweltbildung.Bayern
+                    # Nachhaltigkeitspreise
+                    # Nachhaltige Gesundheit
+                    # Energiesparmaßnahmen
+               o Nachhaltigkeit als Forschungsthema
+               o Nachhaltigkeit in Lehre und Studium
+                    # Aktuelle Lehrveranstaltungen
+                    # UniGardening
+               o Nachhaltigkeitsfest
+                    # NaFest 2025
+                    # Vorjahre
+                    # Geschichte und Vorläufer
+               o News
+               o Anmeldung Mobilitätsworkshop
+          + Netzwerke
+               o Internationale Bayerische Hochschulzentren
+               o TechnologieAllianzOberfranken TAO
+          + Offener Wissenszugang und Forschungsdaten
+          + Zertifikate
+     * Aktuelles
+          + uni.blog
+          + News-Archiv
+          + Newsletter abonnieren
+          + Die Uni in den Medien
+               o TV-Beiträge
+               o Radiobeiträge und Podcasts
+               o Videoporträts
+          + RSS Feeds & Verteilergruppen
+          + Weihnachtsschließung
+          + Preis für studentisches Engagement
+     * Veranstaltungen
+          + Hegelwoche
+               o Hegelwoche 2025
+               o Hegelwoche 2024
+               o Vorjahre
+                    # Hegelwoche 2023
+                    # Hegelwoche 2022
+                    # Hegeltag 2021
+                    # Hegelwoche 2019
+                    # Hegelwoche 2018
+                    # Hegelwoche 2017
+                    # Hegelwoche 2016
+                    # Hegelwoche 2015
+                    # Hegelwoche 2014
+                    # Hegelwoche 2013
+                    # Hegelwoche 2012
+                    # Hegelwoche 2011
+                    # Hegelwoche 2010
+               o 25 Jahre Bamberger Hegelwoche
+          + Uni-Lauf Bamberg
+               o Strecke
+               o Ausschreibung
+               o Kontakt
+               o Förderer
+               o Ergebnisse
+               o Bildergalerie
+                    # Bildergalerie 2024
+                    # Bildergalerie 2023
+                    # Bildergalerie 2022
+               o In den Medien
+          + uni.fest
+               o uni.fest 2025
+               o uni.fest 2024
+          + Dies academicus
+               o Dies academicus 2025
+               o Vorjahre
+                    # Dies academicus 2024
+                    # Dies academicus 2023
+                    # Dies academicus 2022
+                    # Dies academicus 2021
+                    # Dies academicus 2020
+                    # Dies academicus 2019
+                    # Dies academicus 2018
+                    # Dies academicus 2017
+                    # Dies academicus 2016
+                    # Dies academicus 2015
+                    # Dies academicus 2014
+                    # Dies academicus 2013
+                    # Dies academicus 2012
+                    # Dies academicus 2011
+                    # Dies academicus 2010
+                    # Dies academicus 2009
+          + Kinder-Uni
+               o Programm Wintersemester 2025/2026
+               o Anmeldung
+                    # Rechtsgrundlage
+               o FAQ
+               o Kontakt
+          + Antritte und Verabschiedungen
+          + Öffentliche Vortragsreihen und Ringvorlesungen
+          + Tagungen
+          + Veranstaltungskalender
+     * Uni-Publikationen
+          + Campus-Magazin uni.kat
+               o Archiv uni.kat
+               o Archiv uni.doc
+          + Unimagazin uni.vers Forschung
+          + Studieren an der Uni Bamberg
+          + Studieninformationen
+          + Imageflyer
+          + Jahresberichte
+          + Wissenschaft zum Mitnehmen
+          + Historie der Bamberger Universitätszeitungen
+     * Stellenangebote
+     * Anreise, Lageplan, Impressionen
+          + Standorte
+          + Verteilung auf das Stadtgebiet
+          + Anreise nach Bamberg
+          + Bildergalerie
+          + Street View/360-Grad-Ansichten
+          + Videos
+          + Bamberg auf Google Earth
+          + Öffnungszeiten
+          + Wohnheime
+          + Mensa/Cafeteria
+          + BAföG-Amt
+          + Defibrillatoren an Uni-Standorten
 
 Über diese Seite
 
-     * [225]Alle Texte, die Sie hier lesen, stehen Medienvertreterinnen
-       und Medienvertretern als Pressetexte zur Verfügung.
-     * [226]Hier geht es zum Pressebereich, in dem Sie Pressemitteilungen
+     * Alle Texte, die Sie hier lesen, stehen Medienvertreterinnen und
+       Medienvertretern als Pressetexte zur Verfügung.
+     * Hier geht es zum Pressebereich, in dem Sie Pressemitteilungen
        u.v.m. finden.
-     * [227]Über welche Themen wir wie berichten, erfahren
+     * Über welche Themen wir wie berichten, erfahren
        Universitätsangehörige im Intranet.
 
 Ansprechpartnerinnen
 
-     * [228]Bei allen Fragen zu den News und zur Pressearbeit können Sie
-       sich gerne an die Pressestelle wenden.
+     * Bei allen Fragen zu den News und zur Pressearbeit können Sie sich
+       gerne an die Pressestelle wenden.
 
    Was passiert in unserem Kopf? Ist die Fantasie nur ein genetisches
    Programm? (Bild: photocase)
@@ -272,7 +270,7 @@ Ansprechpartnerinnen
    Nach einem spannenden Vortrag haben Christa Jansohn (links) und
    Catherine Belsey gut lachen (Bild: Lina Muzur)
    07.06.2006
-     * [229]Lehre & Studium
+     * Lehre & Studium
 
    - Lina Muzur
 
@@ -374,39 +372,39 @@ Fantasie: Werkzeug zum Überleben oder Antrieb von Kultur?
    Shakespeare’s Ghost“.
 
    Seite 7289
-     * [230]Kontakt
-     * [231]Impressum
-     * [232]Datenschutz
+     * Kontakt
+     * Impressum
+     * Datenschutz
 
    Zentrale Online-Services
-     * [233]Bamberger Katalog (Universitätsbibliothek)
-     * [234]FIS (Forschungsinformationssystem)
-     * [235]FlexNow2 für Studierende
-     * [236]FlexNow2 für Mitarbeitende
-     * [237]Intranet
-     * [238]Office 365
-     * [239]Online-Dienste
-       [240](Studierendenkanzlei)
-     * [241]UnivIS
+     * Bamberger Katalog (Universitätsbibliothek)
+     * FIS (Forschungsinformationssystem)
+     * FlexNow2 für Studierende
+     * FlexNow2 für Mitarbeitende
+     * Intranet
+     * Office 365
+     * Online-Dienste
+       (Studierendenkanzlei)
+     * UnivIS
      * Uni-Webmail:
-       [242]https://mailex.uni-bamberg.de
-       [243]https://o365.uni-bamberg.de
-     * [244]Virtueller Campus
+       https://mailex.uni-bamberg.de
+       https://o365.uni-bamberg.de
+     * Virtueller Campus
 
    Wichtige Links
-     * [245]Presse
-     * [246]Öffnungszeiten
-     * [247]Prüfungsamt
-     * [248]IT-Service der Universität
-     * [249]Rückmeldung
-     * [250]Studierendenkanzlei
-     * [251]Universitätsbibliothek
-     * [252]Vorlesungszeiten & Fristen
-     * [253]Studienangebot
+     * Presse
+     * Öffnungszeiten
+     * Prüfungsamt
+     * IT-Service der Universität
+     * Rückmeldung
+     * Studierendenkanzlei
+     * Universitätsbibliothek
+     * Vorlesungszeiten & Fristen
+     * Studienangebot
 
-   [254]Erklärung zur Barrierefreiheit
+   Erklärung zur Barrierefreiheit
 
-   [255]Uni Bamberg in leichter Sprache
+   Uni Bamberg in leichter Sprache
 
 
    Zentraler Kontakt
@@ -416,283 +414,10 @@ Fantasie: Werkzeug zum Überleben oder Antrieb von Kultur?
    96047 Bamberg
 
    Telefon: 0951 863-0
-   E-Mail: [256]post(at)uni-bamberg.de
-     * [257]Unsere Netzwerke
-     * [258]Unsere Zertifikate
+   E-Mail: post(at)uni-bamberg.de
+     * Unsere Netzwerke
+     * Unsere Zertifikate
 
    Folgen Sie uns
-   [259]Instagram[260]Facebook[261]Bluesky[262]Toktok
-   [263]Newsletter abonnieren
-
-References
-
-   Visible links:
-   1. https://www.uni-bamberg.de/news/artikel/cbs-gastvortrag-juni-2006/#nav-main
-   2. https://www.uni-bamberg.de/news/artikel/cbs-gastvortrag-juni-2006/#content-main
-   3. https://www.uni-bamberg.de/
-   4. https://www.uni-bamberg.de/news/artikel/cbs-gastvortrag-juni-2006/
-   5. https://www.uni-bamberg.de/news/artikel/cbs-gastvortrag-juni-2006/
-   6. https://www.uni-bamberg.de/
-   7. https://www.uni-bamberg.de/universitaet/
-   8. https://www.uni-bamberg.de/universitaet/aktuelles/
-   9. https://www.uni-bamberg.de/news/
-  10. https://www.uni-bamberg.de/
-  11. https://www.uni-bamberg.de/universitaet/
-  12. https://www.uni-bamberg.de/news/
-  13. https://www.uni-bamberg.de/
-  14. https://www.uni-bamberg.de/universitaet/
-  15. https://www.uni-bamberg.de/universitaet/aktuelles/
-  16. https://www.uni-bamberg.de/news/
-  17. https://www.uni-bamberg.de/universitaet/
-  18. https://www.uni-bamberg.de/news/
-  19. https://www.uni-bamberg.de/universitaet/profil/impact/
-  20. https://www.uni-bamberg.de/universitaet/profil/impact/
-  21. https://www.uni-bamberg.de/universitaet/profil/impact/strategische-ueberlegungen/
-  22. https://www.uni-bamberg.de/universitaet/profil/impact/impactfeld-kultur-kult-bildung/
-  23. https://www.uni-bamberg.de/universitaet/profil/impact/impactfeld-internationales/
-  24. https://www.uni-bamberg.de/universitaet/profil/impact/impactfeld-stadt-region/
-  25. https://www.uni-bamberg.de/universitaet/profil/impact/impactfeld-bildung-soziales/
-  26. https://www.uni-bamberg.de/universitaet/profil/impact/buergerbefragung-2019/
-  27. https://www.uni-bamberg.de/universitaet/profil/impact/buergerbefragung-2017/
-  28. https://www.uni-bamberg.de/universitaet/profil/selbstverstaendnis-leitbild/
-  29. https://www.uni-bamberg.de/universitaet/profil/selbstverstaendnis-leitbild/leitbild/
-  30. https://www.uni-bamberg.de/universitaet/profil/selbstverstaendnis-leitbild/offener-wissenszugang/
-  31. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/
-  32. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/geschichte/
-  33. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/persoenlichkeiten/
-  34. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/persoenlichkeiten/ehemalige-mitglieder-der-universitaetsleitung/
-  35. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/persoenlichkeiten/emeriti/
-  36. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/persoenlichkeiten/ehrendoktorinnen-und-ehrendoktoren/
-  37. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/persoenlichkeiten/ehrensenatoren-ehrenbuerger-verdienstmedaillen/
-  38. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/persoenlichkeiten/honorarprofessorinnen-und-professoren/
-  39. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/persoenlichkeiten/bedeutende-persoenlichkeiten/
-  40. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/persoenlichkeiten/bamberger-professorinnen-und-professorenkatalog/
-  41. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/preise-auszeichnungen/
-  42. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/preise-auszeichnungen/orden/
-  43. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/preise-und-auszeichnungen/forschungspreise/
-  44. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/preise-auszeichnungen/gute-lehre/
-  45. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/preise-auszeichnungen/fuer-studierende/
-  46. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/gedenktafeln/
-  47. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/gedenktafeln/gedenktafel-in-der-u2/
-  48. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/gedenktafeln/gedenktafel-in-der-u5/
-  49. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/gedenktafeln/gesamtbewertung/
-  50. https://www.uni-bamberg.de/universitaet/profil/geschichte-und-tradition/3d-grabstein/
-  51. https://www.uni-bamberg.de/universitaet/profil/ziele-und-perspektiven/
-  52. https://www.uni-bamberg.de/zielvereinbarung/
-  53. https://www.uni-bamberg.de/zielvereinbarung/zv2006/
-  54. https://www.uni-bamberg.de/zielvereinbarung/zv-ausbau-2020/
-  55. https://www.uni-bamberg.de/zielvereinbarung/zv2009/
-  56. https://www.uni-bamberg.de/zielvereinbarung/zv2014/
-  57. https://www.uni-bamberg.de/zielvereinbarung/zielvereinbarung-2019-2022/
-  58. https://www.uni-bamberg.de/zielvereinbarung/hochschulvertrag-2023-2027/
-  59. https://www.uni-bamberg.de/zielvereinbarung/ausbauplanung-2020/
-  60. https://www.uni-bamberg.de/entwicklungsperspektive/
-  61. https://www.uni-bamberg.de/universitaet/profil/ziele-und-perspektiven/qualitaetsziele-in-der-lehre/
-  62. https://www.uni-bamberg.de/universitaet/zahlen-und-fakten/die-universitaet-bamberg-in-zahlen/
-  63. https://www.uni-bamberg.de/universitaet/zahlen-und-fakten/die-universitaet-bamberg-in-zahlen/
-  64. https://www.uni-bamberg.de/universitaet/zahlen-und-fakten/jahresberichte/
-  65. https://www.uni-bamberg.de/universitaet/charakteristika-und-kultur/
-  66. https://www.uni-bamberg.de/diversity/
-  67. https://www.uni-bamberg.de/diversity/diversity-forschung/
-  68. https://www.uni-bamberg.de/diversity/diversity-forschung/internationale-diversity-gastprofessuren/
-  69. https://www.uni-bamberg.de/diversity/diversity-forschung/expertinnenliste-diversity/
-  70. https://www.uni-bamberg.de/diversity/diversity-forschung/diversity-forschung/
-  71. https://www.uni-bamberg.de/diversity/diversity-forschung/forschungseinrichtungen-mit-diversity-bezug/
-  72. https://www.uni-bamberg.de/diversity/diversity-in-lehre-und-studium/
-  73. https://www.uni-bamberg.de/diversity/diversity-in-lehre-und-studium/diversity-themen-in-der-lehre/
-  74. https://www.uni-bamberg.de/diversity/diversity-in-lehre-und-studium/diversity-und-studienorganisation/
-  75. https://www.uni-bamberg.de/diversity/diversity-management-und-universitaeres-leben/
-  76. https://www.uni-bamberg.de/diversity/diversity-management-und-universitaeres-leben/diversity-strategie-und-dokumente/
-  77. https://www.uni-bamberg.de/diversity/diversity-management-und-universitaeres-leben/runder-tisch-diversity/
-  78. https://www.uni-bamberg.de/diversity/diversity-management-und-universitaeres-leben/diversity-preis/
-  79. https://www.uni-bamberg.de/diversity/diversity-management-und-universitaeres-leben/diversity-tag/
-  80. https://www.uni-bamberg.de/diversity/diversity-management-und-universitaeres-leben/diversity-gesundheit/
-  81. https://www.uni-bamberg.de/antidiskriminierung/
-  82. https://www.uni-bamberg.de/pra/
-  83. https://www.uni-bamberg.de/sbg/
-  84. https://www.uni-bamberg.de/diversity/diversity-management-und-universitaeres-leben/zertifikate-und-mitgliedschaften/
-  85. https://www.uni-bamberg.de/diversity/diversity-strategie/
-  86. https://www.uni-bamberg.de/diversity/archiv/
-  87. https://www.uni-bamberg.de/fgh/
-  88. https://www.uni-bamberg.de/fgh/audit-familiengerechte-hochschule/
-  89. https://www.uni-bamberg.de/fgh/audit-familiengerechte-hochschule/projekt/
-  90. https://www.uni-bamberg.de/fgh/audit-familiengerechte-hochschule/die-projektgruppe/
-  91. https://www.uni-bamberg.de/fgh/audit-familiengerechte-hochschule/der-auditierungsprozess/
-  92. https://www.uni-bamberg.de/gleichstellung/
-  93. https://www.uni-bamberg.de/universitaet/charakteristika-und-kultur/qualitaet/
-  94. https://www.uni-bamberg.de/universitaet/charakteristika-und-kultur/qualitaet/qualitaetsmanagement-in-studium-und-lehre/
-  95. https://www.uni-bamberg.de/universitaet/charakteristika-und-kultur/qualitaet/qualitaetssicherung-forschung/
-  96. https://www.uni-bamberg.de/universitaet/charakteristika-und-kultur/qualitaet/qualitaetssicherung-verwaltung/
-  97. https://www.uni-bamberg.de/universitaet/charakteristika-und-kultur/kulturelles-engagement/
-  98. https://www.uni-bamberg.de/nachhaltigkeit/
-  99. https://www.uni-bamberg.de/nachhaltigkeit/leitbild-strategie/leitbild-nachhaltigkeit/
- 100. https://www.uni-bamberg.de/nachhaltigkeit/leitbild-strategie/leitbild-nachhaltigkeit/
- 101. https://www.uni-bamberg.de/nachhaltigkeit/leitbild-strategie/nachhaltigkeitsstrategie/
- 102. https://www.uni-bamberg.de/nachhaltigkeit/steuerungsgruppe/
- 103. https://www.uni-bamberg.de/nachhaltigkeit/steuerungsgruppe/nachhaltigkeitsbuero/
- 104. https://www.uni-bamberg.de/nachhaltigkeit/organisation/
- 105. https://www.uni-bamberg.de/nachhaltigkeit/organisation/emas/
- 106. https://www.uni-bamberg.de/nachhaltigkeit/organisation/race-to-zero/
- 107. https://www.uni-bamberg.de/nachhaltigkeit/organisation/fairtrade/
- 108. https://www.uni-bamberg.de/nachhaltigkeit/organisation/umweltbildungbayern/
- 109. https://www.uni-bamberg.de/nachhaltigkeit/organisation/preise/
- 110. https://www.uni-bamberg.de/nachhaltigkeit/organisation/nachhaltige-gesundheit/
- 111. https://www.uni-bamberg.de/nachhaltigkeit/organisation/energiesparmassnahmen/
- 112. https://www.uni-bamberg.de/nachhaltigkeit/forschung/
- 113. https://www.uni-bamberg.de/nachhaltigkeit/studierende/
- 114. https://www.uni-bamberg.de/nachhaltigkeit/studierende/aktuelle-lehrveranstaltungen/
- 115. https://www.uni-bamberg.de/unigardening/
- 116. https://www.uni-bamberg.de/nachhaltigkeit/nawo/
- 117. https://www.uni-bamberg.de/nachhaltigkeit/nawo/nafest-2025/
- 118. https://www.uni-bamberg.de/nachhaltigkeit/nawo/namo-2024/
- 119. https://www.uni-bamberg.de/nachhaltigkeit/nawo/geschichte-und-vorlaeufer/
- 120. https://www.uni-bamberg.de/nachhaltigkeit/news/
- 121. https://www.uni-bamberg.de/nachhaltigkeit/anmeldung-mobilitaetsworkshop/
- 122. https://www.uni-bamberg.de/universitaet/charakteristika-und-kultur/netzwerke/
- 123. https://www.uni-bamberg.de/auslandsamt/bhz/
- 124. https://www.uni-bamberg.de/universitaet/charakteristika-und-kultur/netzwerke/tao/
- 125. https://www.uni-bamberg.de/offener-wissenszugang/
- 126. https://www.uni-bamberg.de/zertifikate/
- 127. https://www.uni-bamberg.de/universitaet/aktuelles/
- 128. https://www.uni-bamberg.de/universitaet/aktuelles/uniblog/
- 129. https://www.uni-bamberg.de/news/
- 130. https://www.uni-bamberg.de/universitaet/aktuelles/newsletter-abonnieren/
- 131. https://www.uni-bamberg.de/universitaet/aktuelles/die-uni-in-den-medien/tv-beitraege/
- 132. https://www.uni-bamberg.de/universitaet/aktuelles/die-uni-in-den-medien/tv-beitraege/
- 133. https://www.uni-bamberg.de/universitaet/aktuelles/die-uni-in-den-medien/radiobeitraege-und-podcasts/
- 134. https://www.uni-bamberg.de/universitaet/aktuelles/die-uni-in-den-medien/videoportraets/
- 135. https://www.uni-bamberg.de/universitaet/aktuelles/rss-feeds-verteilergruppen/
- 136. https://www.uni-bamberg.de/universitaet/aktuelles/weihnachtsschliessung/
- 137. https://www.uni-bamberg.de/universitaet/aktuelles/preis-fuer-studentisches-engagement/
- 138. https://www.uni-bamberg.de/events/
- 139. https://www.uni-bamberg.de/events/hegelwoche/
- 140. https://www.uni-bamberg.de/events/hegelwoche/2025/
- 141. https://www.uni-bamberg.de/events/hegelwoche/2024/
- 142. https://www.uni-bamberg.de/events/hegelwoche/vorjahre/
- 143. https://www.uni-bamberg.de/events/hegelwoche/vorjahre/2023/
- 144. https://www.uni-bamberg.de/events/hegelwoche/vorjahre/hegelwoche-2022/
- 145. https://www.uni-bamberg.de/events/hegelwoche/vorjahre/2021/
- 146. https://www.uni-bamberg.de/events/hegelwoche/vorjahre/2019/
- 147. https://www.uni-bamberg.de/events/hegelwoche/vorjahre/hegelwoche-2018/
- 148. https://www.uni-bamberg.de/events/hegelwoche/vorjahre/hegelwoche-2017/
- 149. https://www.uni-bamberg.de/events/hegelwoche/vorjahre/hegelwoche-2016/
- 150. https://www.uni-bamberg.de/events/hegelwoche/vorjahre/hegelwoche-2015/
- 151. https://www.uni-bamberg.de/events/hegelwoche/vorjahre/2014/
- 152. https://www.uni-bamberg.de/events/hegelwoche/vorjahre/2013/
- 153. https://www.uni-bamberg.de/events/hegelwoche/vorjahre/2012/
- 154. https://www.uni-bamberg.de/events/hegelwoche/vorjahre/hegelwoche-2011/
- 155. https://www.uni-bamberg.de/events/hegelwoche/vorjahre/hegelwoche-2010/
- 156. https://www.uni-bamberg.de/events/hegelwoche/25jahre/
- 157. https://www.uni-bamberg.de/events/uni-lauf-bamberg/
- 158. https://www.uni-bamberg.de/events/uni-lauf-bamberg/strecke/
- 159. https://www.uni-bamberg.de/events/uni-lauf-bamberg/ausschreibung/
- 160. https://www.uni-bamberg.de/events/uni-lauf-bamberg/kontakt/
- 161. https://www.uni-bamberg.de/events/uni-lauf-bamberg/foerderer/
- 162. https://www.uni-bamberg.de/events/uni-lauf-bamberg/ergebnisse/
- 163. https://www.uni-bamberg.de/events/uni-lauf-bamberg/bildergalerie/
- 164. https://www.uni-bamberg.de/events/uni-lauf-bamberg/bildergalerie/bildergalerie-2024/
- 165. https://www.uni-bamberg.de/events/uni-lauf-bamberg/bildergalerie/bildergalerie-2023/
- 166. https://www.uni-bamberg.de/events/uni-lauf-bamberg/bildergalerie/bildergalerie-2022/
- 167. https://www.uni-bamberg.de/events/uni-lauf-bamberg/medien/
- 168. https://www.uni-bamberg.de/events/unifest/unifest-2025/
- 169. https://www.uni-bamberg.de/events/unifest/unifest-2025/
- 170. https://www.uni-bamberg.de/events/unifest/unifest-2024/
- 171. https://www.uni-bamberg.de/events/da/
- 172. https://www.uni-bamberg.de/events/da/2025/
- 173. https://www.uni-bamberg.de/events/da/vorjahre/
- 174. https://www.uni-bamberg.de/events/da/vorjahre/2024/
- 175. https://www.uni-bamberg.de/events/da/vorjahre/2023/
- 176. https://www.uni-bamberg.de/events/da/vorjahre/2022/
- 177. https://www.uni-bamberg.de/events/da/vorjahre/2021/
- 178. https://www.uni-bamberg.de/events/da/vorjahre/2020/
- 179. https://www.uni-bamberg.de/events/da/vorjahre/2019/
- 180. https://www.uni-bamberg.de/events/da/vorjahre/2018/
- 181. https://www.uni-bamberg.de/events/da/vorjahre/2017/
- 182. https://www.uni-bamberg.de/events/da/vorjahre/2016/
- 183. https://www.uni-bamberg.de/events/da/vorjahre/2015/
- 184. https://www.uni-bamberg.de/events/da/vorjahre/2014/
- 185. https://www.uni-bamberg.de/events/da/vorjahre/2013/
- 186. https://www.uni-bamberg.de/events/da/vorjahre/dies-academicus-2012/
- 187. https://www.uni-bamberg.de/events/da/vorjahre/dies-academicus-2011/
- 188. https://www.uni-bamberg.de/events/da/vorjahre/dies-academicus-2010/
- 189. https://www.uni-bamberg.de/events/da/vorjahre/dies-academicus-2009/
- 190. https://www.uni-bamberg.de/kinderuni/
- 191. https://www.uni-bamberg.de/kinderuni/programm-wintersemester-2025-2026/
- 192. https://www.uni-bamberg.de/kinderuni/anmeldung/
- 193. https://www.uni-bamberg.de/kinderuni/anmeldung/rechtsgrundlage/
- 194. https://www.uni-bamberg.de/kinderuni/faq/
- 195. https://www.uni-bamberg.de/kinderuni/kontakt/
- 196. https://www.uni-bamberg.de/events/antritt-abschied/
- 197. https://www.uni-bamberg.de/events/vortragsreihen/
- 198. https://www.uni-bamberg.de/events/tagungen/
- 199. https://www.uni-bamberg.de/veranstaltungskalender/
- 200. https://www.uni-bamberg.de/uni-publikationen/
- 201. https://www.uni-bamberg.de/unikat/
- 202. https://www.uni-bamberg.de/unikat/archiv-unikat/
- 203. https://www.uni-bamberg.de/unikat/archiv-unidoc/
- 204. https://www.uni-bamberg.de/univers-forschung/
- 205. https://www.uni-bamberg.de/uni-publikationen/magazin-studieren-an-der-universitaet-bamberg/
- 206. https://www.uni-bamberg.de/uni-publikationen/studieninformationen/
- 207. https://www.uni-bamberg.de/uni-publikationen/imageflyer/
- 208. https://www.uni-bamberg.de/uni-publikationen/jahresberichte/
- 209. https://www.uni-bamberg.de/uni-publikationen/wissenschaft-zum-mitnehmen/
- 210. https://www.uni-bamberg.de/uni-publikationen/historie-der-bamberger-universitaetszeitungen/
- 211. https://www.uni-bamberg.de/universitaet/stellenangebote/
- 212. https://www.uni-bamberg.de/universitaet/anreise/
- 213. https://www.uni-bamberg.de/universitaet/anreise/standorte/
- 214. https://www.uni-bamberg.de/universitaet/anreise/verteilung-auf-das-stadtgebiet/
- 215. https://www.uni-bamberg.de/universitaet/anreise/anreise-nach-bamberg/
- 216. https://www.uni-bamberg.de/universitaet/anreise/bildergalerie/
- 217. https://www.uni-bamberg.de/universitaet/anreise/street-view360-grad-ansichten/
- 218. https://www.uni-bamberg.de/universitaet/anreise/videos/
- 219. https://www.uni-bamberg.de/universitaet/anreise/bamberg-auf-google-earth/
- 220. https://www.uni-bamberg.de/universitaet/anreise/oeffnungszeiten/
- 221. https://www.uni-bamberg.de/universitaet/anreise/wohnheime/
- 222. https://www.uni-bamberg.de/universitaet/anreise/mensacafeteria/
- 223. https://www.uni-bamberg.de/universitaet/anreise/bafoeg-amt/
- 224. https://www.uni-bamberg.de/universitaet/anreise/defibrillatoren-an-uni-standorten/
- 225. https://www.uni-bamberg.de/pressetexte/
- 226. https://www.uni-bamberg.de/presse/pressemitteilungen/
- 227. https://www.uni-bamberg.de/intranet/presse-medienarbeit/medienkonzept/
- 228. https://www.uni-bamberg.de/presse/ansprechpartnerinnen/
- 229. https://www.uni-bamberg.de/news/?tx_news_pi1[overwriteDemand][categories]=3&tx_news_pi1[overwriteDemand][categoryConjunction]=and&cHash=a403323995ca81bfb96295cf20037bf5
- 230. https://www.uni-bamberg.de/universitaet/aktuelles/kontaktnavigation/kontakt/
- 231. https://www.uni-bamberg.de/universitaet/aktuelles/kontaktnavigation/impressum/
- 232. https://www.uni-bamberg.de/its/verfahrensweisen/datenschutz/datenschutzerklaerungen/webauftritt/
- 233. https://katalog.ub.uni-bamberg.de/
- 234. https://fis.uni-bamberg.de/
- 235. https://www.uni-bamberg.de/pruefungsamt/fn2sss/
- 236. https://www.uni-bamberg.de/pruefungsamt/flexnow/fn2web/
- 237. https://www.uni-bamberg.de/intranet/
- 238. https://o365.uni-bamberg.de/
- 239. https://qis.uni-bamberg.de/
- 240. https://qis.uni-bamberg.de/
- 241. https://univis.uni-bamberg.de/
- 242. https://mailex.uni-bamberg.de/
- 243. https://o365.uni-bamberg.de/
- 244. https://vc.uni-bamberg.de/
- 245. https://www.uni-bamberg.de/presse/pressemitteilungen/
- 246. https://www.uni-bamberg.de/universitaet/anreise/oeffnungszeiten/
- 247. https://www.uni-bamberg.de/pruefungsamt/
- 248. https://www.uni-bamberg.de/its/
- 249. https://www.uni-bamberg.de/studium/im-studium/studienorganisation/rueckmeldung/
- 250. https://www.uni-bamberg.de/studierendenkanzlei/
- 251. https://www.uni-bamberg.de/ub/
- 252. https://www.uni-bamberg.de/studium/im-studium/studienorganisation/vorlesungszeiten/
- 253. https://www.uni-bamberg.de/studienangebot/
- 254. https://www.uni-bamberg.de/its/verfahrensweisen/barrierefreiheit-erklaerung/
- 255. https://www.uni-bamberg.de/leichte-sprache/
- 256. https://www.uni-bamberg.de/news/artikel/cbs-gastvortrag-juni-2006/
- 257. https://www.uni-bamberg.de/universitaet/charakteristika-und-kultur/netzwerke/
- 258. https://www.uni-bamberg.de/zertifikate/
- 259. https://www.instagram.com/uni_bamberg/
- 260. https://www.facebook.com/UniBamberg/
- 261. https://bsky.app/profile/uni-bamberg.de
- 262. https://www.tiktok.com/@unibamberg
- 263. https://www.uni-bamberg.de/universitaet/aktuelles/newsletter-abonnieren/
-
-   Hidden links:
- 265. https://www.uni-bamberg.de/news/artikel/cbs-gastvortrag-juni-2006/
- 266. https://www.uni-bamberg.de/fileadmin/_processed_/8/c/csm_NEWS_Teaser_08_717e5ceb51.webp
- 267. https://www.uni-bamberg.de/fileadmin/_processed_/5/5/csm_NEWS_Jahnson_Belsey_6296258126.webp
- 268. https://www.uni-bamberg.de/news/artikel/cbs-gastvortrag-juni-2006/#top
+   InstagramFacebookBlueskyToktok
+   Newsletter abonnieren

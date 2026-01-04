@@ -1,0 +1,5 @@
+Sitemap: https://joncronshaw.com/sitemap.xml
+Sitemap: https://joncronshaw.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

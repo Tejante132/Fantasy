@@ -1,0 +1,11 @@
+     * Verlag
+     * Hilfe / Kontakt
+
+Tapestry – Fantasie und Zukunft
+
+   Die dritte und letzte Erweiterung zu Tapestry.
+
+   Fantasie und Zukunft führt eine neue Art Gobelinkarten ein, verzauberte
+   Karten. Sie geben Boni, wenn man Gobelinkarten links oder rechts von
+   ihnen anlegt. Manche Gobelinkarten können auch reserviert werden, so
+   dass sie im 5. Einkommenszug ausgelöst werden.

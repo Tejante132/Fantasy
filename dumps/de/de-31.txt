@@ -1,17 +1,17 @@
-   #[1]home [2]Atom-Feed [3]RSS-Feed
+   #home Atom-Feed RSS-Feed
 
-     * [4]Home
-     * [5]Komponist
-     * [6]Besetzung
-     * [7]Werke
-     * [8]Kontakt
-     * [9]Villa Musica
-     * [10]Impressum
-     * [11]Datenschutz
+     * Home
+     * Komponist
+     * Besetzung
+     * Werke
+     * Kontakt
+     * Villa Musica
+     * Impressum
+     * Datenschutz
 
    Suchen______________ OK
 
-[12]Franz Schubert
+Franz Schubert
 
 Fantasie C-Dur, op. 15 D 760
 
@@ -166,38 +166,11 @@ Erläuterung
    eigentlich hätte enden sollen: mit einer rauschenden Coda.
 
    Karl Böhmer
-     * [13]Home
-     * [14]Komponist
-     * [15]Besetzung
-     * [16]Werke
-     * [17]Kontakt
-     * [18]Villa Musica
-     * [19]Impressum
-     * [20]Datenschutz
-
-References
-
-   Visible links:
-   1. https://www.kammermusikfuehrer.de/
-   2. https://www.kammermusikfuehrer.de/atom/?section=werke
-   3. https://www.kammermusikfuehrer.de/rss/?section=werke
-   4. https://www.kammermusikfuehrer.de/
-   5. https://www.kammermusikfuehrer.de/komponist
-   6. https://www.kammermusikfuehrer.de/besetzung
-   7. https://www.kammermusikfuehrer.de/werksuche
-   8. https://www.kammermusikfuehrer.de/kontakt
-   9. https://www.kammermusikfuehrer.de/villamusica
-  10. https://www.kammermusikfuehrer.de/impressum
-  11. https://www.kammermusikfuehrer.de/datenschutz
-  12. https://www.kammermusikfuehrer.de/komponist?name=Schubert&vname=Franz
-  13. https://www.kammermusikfuehrer.de/
-  14. https://www.kammermusikfuehrer.de/komponist
-  15. https://www.kammermusikfuehrer.de/besetzung
-  16. https://www.kammermusikfuehrer.de/werksuche
-  17. https://www.kammermusikfuehrer.de/kontakt
-  18. https://www.kammermusikfuehrer.de/villamusica
-  19. https://www.kammermusikfuehrer.de/impressum
-  20. https://www.kammermusikfuehrer.de/datenschutz
-
-   Hidden links:
-  22. https://www.kammermusikfuehrer.de/besetzung/?c=&name=Schubert&vname=Franz
+     * Home
+     * Komponist
+     * Besetzung
+     * Werke
+     * Kontakt
+     * Villa Musica
+     * Impressum
+     * Datenschutz

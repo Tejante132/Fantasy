@@ -1,80 +1,80 @@
-   #[1]IfaK - Institut für angewandte Kindermedienforschung » Feed [2]IfaK
-   - Institut für angewandte Kindermedienforschung » Kommentar-Feed
-   [3]JSON [4]oEmbed (JSON) [5]oEmbed (XML)
+   #IfaK - Institut für angewandte Kindermedienforschung » Feed IfaK -
+   Institut für angewandte Kindermedienforschung » Kommentar-Feed JSON
+   oEmbed (JSON) oEmbed (XML)
 
-   [6]Das Logo des Institut für angewandte Kindermedienforschung Das Logo
-   des Institut für angewandte Kindermedienforschung Das Logo des Institut
-   für angewandte Kindermedienforschung Das Logo des Institut für
-   angewandte Kindermedienforschung
+   Das Logo des Institut für angewandte Kindermedienforschung Das Logo des
+   Institut für angewandte Kindermedienforschung Das Logo des Institut für
+   angewandte Kindermedienforschung Das Logo des Institut für angewandte
+   Kindermedienforschung
 
-     * [7]Startseite
-     * [8]Das IfaK
-          + [9]Team
-          + [10]Partner
-     * [11]Beiträge
-          + [12]Themenübersicht
-          + [13]Hörmedium des Monats
-          + [14]Anlässe und Ereignisse
-               o [15]Feier-, Welt- und Aktionstage
-               o [16]Gesellschaft(liches)
-          + [17]Schule und Lernen
-          + [18]Freizeit und Spaß
-          + [19]Theorie und Praxis
-               o [20]Pädagogische Konzepte
-               o [21]Praxisbeispiele
-               o [22]Wissensvermittlung
-     * [23]Im Fokus
-          + [24]Trendforschung
-          + [25]Hörmedium des Monats
-          + [26]Medientipps
-          + [27]KinderMedienWelten
-     * [28]Downloads
-          + [29]Kreativecke
-          + [30]Medienpädagogik
-          + [31]Flyer
-          + [32]Giraffe Online
+     * Startseite
+     * Das IfaK
+          + Team
+          + Partner
+     * Beiträge
+          + Themenübersicht
+          + Hörmedium des Monats
+          + Anlässe und Ereignisse
+               o Feier-, Welt- und Aktionstage
+               o Gesellschaft(liches)
+          + Schule und Lernen
+          + Freizeit und Spaß
+          + Theorie und Praxis
+               o Pädagogische Konzepte
+               o Praxisbeispiele
+               o Wissensvermittlung
+     * Im Fokus
+          + Trendforschung
+          + Hörmedium des Monats
+          + Medientipps
+          + KinderMedienWelten
+     * Downloads
+          + Kreativecke
+          + Medienpädagogik
+          + Flyer
+          + Giraffe Online
 
-     * [33]Startseite
-     * [34]Das IfaK
-          + [35]Team
-          + [36]Partner
-     * [37]Beiträge
-          + [38]Themenübersicht
-          + [39]Hörmedium des Monats
-          + [40]Anlässe und Ereignisse
-               o [41]Feier-, Welt- und Aktionstage
-               o [42]Gesellschaft(liches)
-          + [43]Schule und Lernen
-          + [44]Freizeit und Spaß
-          + [45]Theorie und Praxis
-               o [46]Pädagogische Konzepte
-               o [47]Praxisbeispiele
-               o [48]Wissensvermittlung
-     * [49]Im Fokus
-          + [50]Trendforschung
-          + [51]Hörmedium des Monats
-          + [52]Medientipps
-          + [53]KinderMedienWelten
-     * [54]Downloads
-          + [55]Kreativecke
-          + [56]Medienpädagogik
-          + [57]Flyer
-          + [58]Giraffe Online
+     * Startseite
+     * Das IfaK
+          + Team
+          + Partner
+     * Beiträge
+          + Themenübersicht
+          + Hörmedium des Monats
+          + Anlässe und Ereignisse
+               o Feier-, Welt- und Aktionstage
+               o Gesellschaft(liches)
+          + Schule und Lernen
+          + Freizeit und Spaß
+          + Theorie und Praxis
+               o Pädagogische Konzepte
+               o Praxisbeispiele
+               o Wissensvermittlung
+     * Im Fokus
+          + Trendforschung
+          + Hörmedium des Monats
+          + Medientipps
+          + KinderMedienWelten
+     * Downloads
+          + Kreativecke
+          + Medienpädagogik
+          + Flyer
+          + Giraffe Online
 
-     * [59]Kontakt
+     * Kontakt
 
-   [60]Unterstützen
+   Unterstützen
    ✕ ____________________ Submit
 
 Fantasie – Warum Kinder sie zur Entwicklung brauchen
 
-     * [61]Beiträge
-     * [62]Theorie und Praxis [63]Wissensvermittlung
-     * [64]Fantasie – Warum Kinder sie zur Entwicklung brauchen
+     * Beiträge
+     * Theorie und Praxis Wissensvermittlung
+     * Fantasie – Warum Kinder sie zur Entwicklung brauchen
 
 Fantasie – Warum Kinder sie zur Entwicklung brauchen
 
-   Veröffentlicht von [65]Redaktion & Texting am 17. Januar 2024
+   Veröffentlicht von Redaktion & Texting am 17. Januar 2024
    [2024_Logo_kombiniert.png#5586]
    Website Bebilderung Fantasie Warum Kinder sie zur Entwicklung brauchen
 
@@ -161,13 +161,13 @@ Fantasie – Warum Kinder sie zur Entwicklung brauchen
 Quellen und weiterführende Informationen
 
    Arte G.E.I.E (2023): Wozu gibt es Fantasie?.
-   [66]https://www.arte.tv/de/videos/109818-009-A/wozu-gibt-es-fantasie/.
+   https://www.arte.tv/de/videos/109818-009-A/wozu-gibt-es-fantasie/.
    (23.12.2023)
 
    Birkholz, N. (2023): Warum wir den kindlichen Glauben an Fantasiewesen
    unterstützen dürfen.
-   [67]https://www.eltern.de/kleinkind/entwicklung/magisches-denken–die-fa
-   ntasievolle-phase-der-kindheit-13515170.html. (23.12.2023)
+   https://www.eltern.de/kleinkind/entwicklung/magisches-denken–die-fantas
+   ievolle-phase-der-kindheit-13515170.html. (23.12.2023)
 
    Franz, M. (2017): 10 Gründe für freies Spielen in der Kita.
    kindergarten heute 47/10, 18-19.
@@ -176,53 +176,50 @@ Quellen und weiterführende Informationen
    für die Entwicklung des Kindes. Berlin: Springer Spektrum.
 
    von Troschke, L. (2023): Wie wir fantasievolle Kinder erziehen.
-   [68]https://www.eltern.de/familie-urlaub/familienleben/uebungen-und-rit
-   uale–wie-ihr-fantasie-bei-kindern-foerdern-koennt-13506586.html.
+   https://www.eltern.de/familie-urlaub/familienleben/uebungen-und-rituale
+   –wie-ihr-fantasie-bei-kindern-foerdern-koennt-13506586.html.
    (23.12.2023)
 
    Weisberg, D. (2016): Wie Fantasie das Lernen beflügelt.
-   [69]https://www.spektrum.de/news/wie-fantasie-kindern-beim-lernen-hilft
-   /1431798. (23.12.2023)
+   https://www.spektrum.de/news/wie-fantasie-kindern-beim-lernen-hilft/143
+   1798. (23.12.2023)
 
    Teilen:
 
    Redaktion & Texting
 
-[70]Redaktion & Texting
+Redaktion & Texting
 
    Anika Nitsch
 
 Weitere Beiträge
 
-   [71]
    Medieninhalte
    23. September 2025
 
-[72]Reflexion von Medieninhalten: Wie junge Menschen lernen, Medieninhalte
+Reflexion von Medieninhalten: Wie junge Menschen lernen, Medieninhalte
 (kritisch) zu hinterfragen und zu bewerten
      __________________________________________________________________
 
-   [73]Weiterlesen
-   [74]
+   Weiterlesen
    Websitenbild Einfluesse von Medien auf die Fantasie von Kindern
    26. Juni 2025
 
-[75]Einflüsse von Medien auf die Fantasie von Kindern
+Einflüsse von Medien auf die Fantasie von Kindern
      __________________________________________________________________
 
-   [76]Weiterlesen
-   [77]
+   Weiterlesen
    2025 05 22 KI in Kinderbuechern Webseitenbeitragsbild
    22. Mai 2025
 
-[78]Künstliche Intelligenz in Kinderbüchern
+Künstliche Intelligenz in Kinderbüchern
      __________________________________________________________________
 
-   [79]Weiterlesen
+   Weiterlesen
 
-   [80]Logo der Hochschule der Medien Stuttgart
+   Logo der Hochschule der Medien Stuttgart
 
-   E-Mail: [81]institut@ifak-kindermedien.de
+   E-Mail: institut@ifak-kindermedien.de
 
    Das Institut für angewandte Kindermedienforschung (IfaK) ist Teil der
    Fakultät für Information und Kommunikation an der Hochschule der Medien
@@ -230,154 +227,36 @@ Weitere Beiträge
 
 Informationen
 
-     * [82]Beiträge
-     * [83]Über das IfaK
-     * [84]Im Fokus
-     * [85]Kontakt
+     * Beiträge
+     * Über das IfaK
+     * Im Fokus
+     * Kontakt
 
 Unsere Kanäle:
 
 Neue Beiträge
 
-     * [86]2025 12 08 Staendig vernetzt und trotzdem einsam
+     * blogbeitrag experteninterview cover
+
+Vaterschaft im Gefängnis – Wie das Projekt „Papa liest für mich“ unterstützen
+kann
+       19. Dezember 2025
+     * Cover Ich, Captain Hook und die verfluchte Schatzinsel
+
+Ich, Captain Hook und die verfluchte Schatzinsel
+       18. Dezember 2025
+     * 2025 12 08 Staendig vernetzt und trotzdem einsam
 
 Ständig vernetzt und trotzdem einsam: Einsamkeit im Kindes- und Jugendalter
        9. Dezember 2025
-     * [87]blogbeitrag experteninterview cover
-
-Auswirkungen der Inhaftierung eines Elternteils auf die Eltern-Kind-Beziehung
-und wie Das Projekt „Papa liest für mich“ hilft
-       2. Dezember 2025
-     * [88]
-
-Was macht gute Kindersendungen aus? Altersstufen verstehen, Qualität erkennen
-       24. November 2025
 
    © 2021 Institut für angewandte Kindermedienforschung
-   [89]Impressum | [90]Datenschutz
+   Impressum | Datenschutz
 
-   [91]Unterstützen
+   Unterstützen
    ____________________ Submit
 
    Fantasie – Warum Kinder sie zur Entwicklung brauchen
    Diese Seite verwendet Cookies. Wenn Sie die Webseite benutzen, stimmen
-   Sie unserer [92]Datenschutzerklärung zu.
-   [93]Mehr erfahren (BUTTON) Annehmen
-
-References
-
-   Visible links:
-   1. https://ifak-kindermedien.de/feed/
-   2. https://ifak-kindermedien.de/comments/feed/
-   3. https://ifak-kindermedien.de/wp-json/wp/v2/posts/5252
-   4. https://ifak-kindermedien.de/wp-json/oembed/1.0/embed?url=https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/fantasie-warum-kinder-sie-zur-entwicklung-brauchen/
-   5. https://ifak-kindermedien.de/wp-json/oembed/1.0/embed?url=https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/fantasie-warum-kinder-sie-zur-entwicklung-brauchen/&format=xml
-   6. https://ifak-kindermedien.de/
-   7. https://ifak-kindermedien.de/
-   8. https://ifak-kindermedien.de/das-ifak/
-   9. https://ifak-kindermedien.de/das-ifak/team/
-  10. https://ifak-kindermedien.de/das-ifak/partner/
-  11. https://ifak-kindermedien.de/beitraege/
-  12. https://ifak-kindermedien.de/beitraege/themenuebersicht/
-  13. https://ifak-kindermedien.de/hoermedium/
-  14. https://ifak-kindermedien.de/anlaesse-und-ereignisse/
-  15. https://ifak-kindermedien.de/anlaesse-und-ereignisse/tage/
-  16. https://ifak-kindermedien.de/anlaesse-und-ereignisse/gesellschaftliches/
-  17. https://ifak-kindermedien.de/schule-und-lernen/
-  18. https://ifak-kindermedien.de/freizeit-und-spass/
-  19. https://ifak-kindermedien.de/theorie-und-praxis/
-  20. https://ifak-kindermedien.de/theorie-und-praxis/paedagogische-konzepte/
-  21. https://ifak-kindermedien.de/theorie-und-praxis/praxisbeispiele/
-  22. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/
-  23. https://ifak-kindermedien.de/fokus/
-  24. https://ifak-kindermedien.de/fokus/trendforschung/
-  25. https://ifak-kindermedien.de/fokus/hoermedium-des-monats-1509/
-  26. https://ifak-kindermedien.de/fokus/medientipps/
-  27. https://ifak-kindermedien.de/fokus/kindermedienwelten-1624/
-  28. https://ifak-kindermedien.de/downloads/
-  29. https://ifak-kindermedien.de/downloads/kreativecke/
-  30. https://ifak-kindermedien.de/downloads/medienpaedagogik/
-  31. https://ifak-kindermedien.de/downloads/flyer/
-  32. https://ifak-kindermedien.de/downloads/giraffe-online/
-  33. https://ifak-kindermedien.de/
-  34. https://ifak-kindermedien.de/das-ifak/
-  35. https://ifak-kindermedien.de/das-ifak/team/
-  36. https://ifak-kindermedien.de/das-ifak/partner/
-  37. https://ifak-kindermedien.de/beitraege/
-  38. https://ifak-kindermedien.de/beitraege/themenuebersicht/
-  39. https://ifak-kindermedien.de/hoermedium/
-  40. https://ifak-kindermedien.de/anlaesse-und-ereignisse/
-  41. https://ifak-kindermedien.de/anlaesse-und-ereignisse/tage/
-  42. https://ifak-kindermedien.de/anlaesse-und-ereignisse/gesellschaftliches/
-  43. https://ifak-kindermedien.de/schule-und-lernen/
-  44. https://ifak-kindermedien.de/freizeit-und-spass/
-  45. https://ifak-kindermedien.de/theorie-und-praxis/
-  46. https://ifak-kindermedien.de/theorie-und-praxis/paedagogische-konzepte/
-  47. https://ifak-kindermedien.de/theorie-und-praxis/praxisbeispiele/
-  48. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/
-  49. https://ifak-kindermedien.de/fokus/
-  50. https://ifak-kindermedien.de/fokus/trendforschung/
-  51. https://ifak-kindermedien.de/fokus/hoermedium-des-monats-1509/
-  52. https://ifak-kindermedien.de/fokus/medientipps/
-  53. https://ifak-kindermedien.de/fokus/kindermedienwelten-1624/
-  54. https://ifak-kindermedien.de/downloads/
-  55. https://ifak-kindermedien.de/downloads/kreativecke/
-  56. https://ifak-kindermedien.de/downloads/medienpaedagogik/
-  57. https://ifak-kindermedien.de/downloads/flyer/
-  58. https://ifak-kindermedien.de/downloads/giraffe-online/
-  59. https://ifak-kindermedien.de/kontakt/
-  60. https://ifak-kindermedien.de/unterstuetzen
-  61. https://ifak-kindermedien.de/beitraege/
-  62. https://ifak-kindermedien.de/theorie-und-praxis/
-  63. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/
-  64. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/fantasie-warum-kinder-sie-zur-entwicklung-brauchen/
-  65. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/fantasie-warum-kinder-sie-zur-entwicklung-brauchen/
-  66. https://www.arte.tv/de/videos/109818-009-A/wozu-gibt-es-fantasie/
-  67. https://www.eltern.de/kleinkind/entwicklung/magisches-denken--die-fantasievolle-phase-der-kindheit-13515170.html
-  68. https://www.eltern.de/familie-urlaub/familienleben/uebungen-und-rituale--wie-ihr-fantasie-bei-kindern-foerdern-koennt-13506586.html
-  69. https://www.spektrum.de/news/wie-fantasie-kindern-beim-lernen-hilft/1431798
-  70. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/fantasie-warum-kinder-sie-zur-entwicklung-brauchen/
-  71. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/reflexion-medieninhalte/
-  72. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/reflexion-medieninhalte/
-  73. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/reflexion-medieninhalte/
-  74. https://ifak-kindermedien.de/theorie-und-praxis/einfluesse-von-medien-auf-die-fantasie-von-kindern/
-  75. https://ifak-kindermedien.de/theorie-und-praxis/einfluesse-von-medien-auf-die-fantasie-von-kindern/
-  76. https://ifak-kindermedien.de/theorie-und-praxis/einfluesse-von-medien-auf-die-fantasie-von-kindern/
-  77. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/kuenstliche-intelligenz-in-kinderbuechern/
-  78. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/kuenstliche-intelligenz-in-kinderbuechern/
-  79. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/kuenstliche-intelligenz-in-kinderbuechern/
-  80. https://www.hdm-stuttgart.de/
-  81. mailto:institut@ifak-kindermedien.de
-  82. https://ifak-kindermedien.de/beitraege/
-  83. https://ifak-kindermedien.de/das-ifak/
-  84. https://ifak-kindermedien.de/fokus/
-  85. https://ifak-kindermedien.de/kontakt/
-  86. https://ifak-kindermedien.de/anlaesse-und-ereignisse/gesellschaftliches/staendig-vernetzt-und-trotzdem-einsam-einsamkeit-im-kindes-und-jugendalter/
-  87. https://ifak-kindermedien.de/anlaesse-und-ereignisse/gesellschaftliches/auswirkungen-der-inhaftierung-eines-elternteils-auf-die-eltern-kind-beziehung-und-wie-das-projekt-papa-liest-fuer-mich-hilft/
-  88. https://ifak-kindermedien.de/medien/kindersendungen/
-  89. https://ifak-kindermedien.de/impressum/
-  90. https://ifak-kindermedien.de/datenschutzerklaerung/
-  91. https://ifak-kindermedien.de/unterstuetzen
-  92. https://ifak-kindermedien.de/datenschutzerklaerung/
-  93. https://ifak-kindermedien.de/datenschutzerklaerung/
-
-   Hidden links:
-  95. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/fantasie-warum-kinder-sie-zur-entwicklung-brauchen/
-  96. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/fantasie-warum-kinder-sie-zur-entwicklung-brauchen/
-  97. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fifak-kindermedien.de%2Ftheorie-und-praxis%2Fwissensvermittlung%2Ffantasie-warum-kinder-sie-zur-entwicklung-brauchen%2F
-  98. https://twitter.com/intent/tweet?text=Fantasie+-+Warum+Kinder+sie+zur+Entwicklung+brauchen.+https%3A%2F%2Fifak-kindermedien.de%2Ftheorie-und-praxis%2Fwissensvermittlung%2Ffantasie-warum-kinder-sie-zur-entwicklung-brauchen%2F
-  99. https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fifak-kindermedien.de%2Ftheorie-und-praxis%2Fwissensvermittlung%2Ffantasie-warum-kinder-sie-zur-entwicklung-brauchen%2F
- 100. https://pinterest.com/pin/find/?url=https%3A%2F%2Fifak-kindermedien.de%2Ftheorie-und-praxis%2Fwissensvermittlung%2Ffantasie-warum-kinder-sie-zur-entwicklung-brauchen%2F
- 101. https://ifak-kindermedien.de/wp-03776-content/uploads/2025/09/2025-09-23_Webseitenbild_Reflexion-von-Medieninhalten-1024x576.png
- 102. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/reflexion-medieninhalte/
- 103. https://ifak-kindermedien.de/wp-03776-content/uploads/2025/06/Websitenbild_Einfluesse-von-Medien-auf-die-Fantasie-von-Kindern-1024x576.png
- 104. https://ifak-kindermedien.de/theorie-und-praxis/einfluesse-von-medien-auf-die-fantasie-von-kindern/
- 105. https://ifak-kindermedien.de/wp-03776-content/uploads/2025/05/2025-05-22_KI-in-Kinderbuechern_Webseitenbeitragsbild-1024x576.png
- 106. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/kuenstliche-intelligenz-in-kinderbuechern/
- 107. https://www.instagram.com/ifak.hdm/
- 108. https://www.youtube.com/channel/UCa_tc5naOZKUYuK-TTDiiIA
- 109. https://www.linkedin.com/company/ifak-hdm/
- 110. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/fantasie-warum-kinder-sie-zur-entwicklung-brauchen/
- 111. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/fantasie-warum-kinder-sie-zur-entwicklung-brauchen/
- 112. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/fantasie-warum-kinder-sie-zur-entwicklung-brauchen/
- 113. https://ifak-kindermedien.de/theorie-und-praxis/wissensvermittlung/fantasie-warum-kinder-sie-zur-entwicklung-brauchen/
+   Sie unserer Datenschutzerklärung zu.
+   Mehr erfahren (BUTTON) Annehmen

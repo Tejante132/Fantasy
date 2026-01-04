@@ -194,7 +194,7 @@
                       class="language-form"
                       data-form-auto-submit="true">
 
-                                                                <input type="hidden" name="_csrf_token" value="c0a9e3141d.iTAZQ2-w-8S6-tA0TAWhm9HoMI4tdAn74nfaZhx6egk.wm9WBSOGz6Dyk7lrNWTK87XbWu8dBk2z2jydFyoNNn7Ac1ApJNmam_fCtw">
+                                                                <input type="hidden" name="_csrf_token" value="e4d37c5a79b4a4d3e04249e9db4.-gYg4I1S3YguL1TvvKIuJc7yGZ07j9lcm-u3vCt7bsM.w394ucMiu-cXGQCZjZFLc_uFVu93yJ8s1NqD9FMoV7eAf0zVwDzq7UlNOw">
                     
                                                                                                                     
                         <div class="languages-menu dropdown">
@@ -3585,7 +3585,7 @@
                       class="language-form"
                       data-form-auto-submit="true">
 
-                                                                <input type="hidden" name="_csrf_token" value="c0a9e3141d.iTAZQ2-w-8S6-tA0TAWhm9HoMI4tdAn74nfaZhx6egk.wm9WBSOGz6Dyk7lrNWTK87XbWu8dBk2z2jydFyoNNn7Ac1ApJNmam_fCtw">
+                                                                <input type="hidden" name="_csrf_token" value="e4d37c5a79b4a4d3e04249e9db4.-gYg4I1S3YguL1TvvKIuJc7yGZ07j9lcm-u3vCt7bsM.w394ucMiu-cXGQCZjZFLc_uFVu93yJ8s1NqD9FMoV7eAf0zVwDzq7UlNOw">
                     
                                                                                                                     
                         <div class="languages-menu dropdown">
@@ -4335,7 +4335,7 @@
                                         
                                         
                             <meta itemprop="releaseDate"
-                      content="2025-12-17"/>
+                      content="2026-01-04"/>
                     
                 
                                     <div class="henle_buy_button_container" itemprop="offers"
@@ -4411,7 +4411,7 @@
         class="buy-widget"
         data-add-to-cart="true">
 
-                            <input type="hidden" name="_csrf_token" value="1ceb66ef4f8f40b7cabbf9bfc088.WzC_SNT8hghCmsaCp2ssbG-28gANN_5pb7Q5teiPxug.F3vxMJ-49TwT4qHgkCAbGVripTdeYJAcWcNK347Cv4QUSecljq_CUSbMrQ">
+                            <input type="hidden" name="_csrf_token" value="79cd3c8488173caf.L1_XKygQSwD4lS5Z8YJBJbnPEjhFniS4PLn0YTJGjow.YTyFHXlyHXCM4lYBnLINF_r9Sm4w6BL5ROOTGAEio-5nDbx6bUUhLbv5bw">
         
                 
         
@@ -6465,7 +6465,7 @@ www.henle.com
                                                         
     
                             
-                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                    
         <div class="card product-box box-standard">
                             <div class="card-body">
                 <div class="card-body-inner-wrapper">
@@ -6489,8 +6489,8 @@ www.henle.com
                                            <div class="product-image-wrapper">
                                                         
                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-                                <a href="https://www.henle.de/de/Klavierstuecke/HN-13"
-                                   title="Klavierstücke"
+                                <a href="https://www.henle.de/de/Ecossaisen-WoO-83-und-WoO-86/HN-470"
+                                   title="Ecossaisen WoO 83 und WoO 86"
                                    class="product-image-link is-standard">
                                                                                                                                                                                                           
                                             
@@ -6504,8 +6504,8 @@ www.henle.com
         
                 
                     
-            <img src="https://www.henle.de/media/69/33/g0/1686743120/HN-0013-1686743120-sync.jpg"                             srcset="https://www.henle.de/thumbnail/69/33/g0/1686743120/HN-0013-1686743120-sync_1920x1920.jpg 1920w, https://www.henle.de/thumbnail/69/33/g0/1686743120/HN-0013-1686743120-sync_400x400.jpg 400w, https://www.henle.de/thumbnail/69/33/g0/1686743120/HN-0013-1686743120-sync_800x800.jpg 800w"                                 sizes="200px"
-                                         class="product-image is-standard" alt="Klavierstücke" title="Klavierstücke"        />
+            <img src="https://www.henle.de/media/1b/64/74/1686743620/HN-0470-1686743620-sync.jpg"                             srcset="https://www.henle.de/thumbnail/1b/64/74/1686743620/HN-0470-1686743620-sync_400x400.jpg 400w, https://www.henle.de/thumbnail/1b/64/74/1686743620/HN-0470-1686743620-sync_800x800.jpg 800w, https://www.henle.de/thumbnail/1b/64/74/1686743620/HN-0470-1686743620-sync_1920x1920.jpg 1920w"                                 sizes="200px"
+                                         class="product-image is-standard" alt="Ecossaisen WoO 83 und WoO 86" title="Ecossaisen WoO 83 und WoO 86"        />
                                                                                                                                                                                                                                              </a>
                             
                                                     </div>
@@ -6594,22 +6594,23 @@ www.henle.com
                             
                                                                                                                                     </ol>
                             </nav>
-                                                                                                                                    <a href="https://www.henle.de/de/Klavierstuecke/HN-13" 
+                                                                                                                                    <a href="https://www.henle.de/de/Ecossaisen-WoO-83-und-WoO-86/HN-470" 
                                     class="product-componist-name" 
-                                    title="Klavierstücke">
+                                    title="Ecossaisen WoO 83 und WoO 86">
                                      Ludwig van Beethoven
                                 </a>
-                                <a href="https://www.henle.de/de/Klavierstuecke/HN-13"
+                                <a href="https://www.henle.de/de/Ecossaisen-WoO-83-und-WoO-86/HN-470"
                                    class="product-name"
-                                   title="Klavierstücke">
-                                   Klavierstücke
+                                   title="Ecossaisen WoO 83 und WoO 86">
+                                   Ecossaisen WoO 83 und WoO 86
                                 </a>
                             
                                                             <div class="product-variant-characteristics">
                                                                                                                                                                                                    <div class="product-variant-characteristics">
                     <div class="product-variant-characteristics-text">
                                             <span class="product-variant-characteristics-option">
-                            Herausgeber: Otto von Irmer
+                            Herausgeber: <a class="product-variant-characteristics-option henle-personUrl"
+                            href="https://www.henle.de/de/Robert-Forster/"> Robert Forster</a>
                         </span>
                                         </div>
                 </div>
@@ -6622,7 +6623,7 @@ www.henle.com
                                 <div class="product-variant-characteristics">
                                     <div class="product-variant-characteristics-text">
                                                                                     <span class="product-variant-characteristics-option">
-                                                Urtextausgabe, Leinen 
+                                                Urtextausgabe, broschiert 
                                             </span>
                                                                             </div>
                                 </div>
@@ -6630,7 +6631,7 @@ www.henle.com
                                                         <div class="product-variant-characteristics">
                                 <div class="product-variant-characteristics-text"> 
                                     <span class="product-variant-characteristics-option">
-                                        HN 13
+                                        HN 470
                                     </span>
                                 </div>
                             </div>
@@ -6652,14 +6653,14 @@ www.henle.com
             <div class="product-price-wrapper">
                         
         <div class="product-cheapest-price">
-                            <div>Varianten ab<span class="product-cheapest-price-price"> 40,00 € </span></div>
+                            <div>Varianten ab<span class="product-cheapest-price-price"> 7,50 € </span></div>
                     </div>
 
          
                                              
 
         <span class="product-price" style="">
-            61,00 €
+            8,50 €
 
                     </span>
                 <span class="mws-henle-available">
@@ -6681,7 +6682,7 @@ www.henle.com
                       class="buy-widget"
                       data-add-to-cart="true">
 
-                                                                <input type="hidden" name="_csrf_token" value="1ceb66ef4f8f40b7cabbf9bfc088.WzC_SNT8hghCmsaCp2ssbG-28gANN_5pb7Q5teiPxug.F3vxMJ-49TwT4qHgkCAbGVripTdeYJAcWcNK347Cv4QUSecljq_CUSbMrQ">
+                                                                <input type="hidden" name="_csrf_token" value="79cd3c8488173caf.L1_XKygQSwD4lS5Z8YJBJbnPEjhFniS4PLn0YTJGjow.YTyFHXlyHXCM4lYBnLINF_r9Sm4w6BL5ROOTGAEio-5nDbx6bUUhLbv5bw">
                     
                             
                                                                                 <input type="hidden"
@@ -6691,31 +6692,31 @@ www.henle.com
                             <input type="hidden"
                                    name="redirectParameters"
                                    data-redirect-parameters="true"
-                                   value='{"productId": "68cf9c071bdced1183e8002248d4798d"}'>
+                                   value='{"productId": "8d9bb4f01bdced1183e8002248d4798d"}'>
                         
                                                                 <input type="hidden"
-                                   name="lineItems[68cf9c071bdced1183e8002248d4798d][id]"
-                                   value="68cf9c071bdced1183e8002248d4798d">
+                                   name="lineItems[8d9bb4f01bdced1183e8002248d4798d][id]"
+                                   value="8d9bb4f01bdced1183e8002248d4798d">
                             <input type="hidden"
-                                   name="lineItems[68cf9c071bdced1183e8002248d4798d][referencedId]"
-                                   value="68cf9c071bdced1183e8002248d4798d">
+                                   name="lineItems[8d9bb4f01bdced1183e8002248d4798d][referencedId]"
+                                   value="8d9bb4f01bdced1183e8002248d4798d">
                             <input type="hidden"
-                                   name="lineItems[68cf9c071bdced1183e8002248d4798d][type]"
+                                   name="lineItems[8d9bb4f01bdced1183e8002248d4798d][type]"
                                    value="product">
                             <input type="hidden"
-                                   name="lineItems[68cf9c071bdced1183e8002248d4798d][stackable]"
+                                   name="lineItems[8d9bb4f01bdced1183e8002248d4798d][stackable]"
                                    value="1">
                             <input type="hidden"
-                                   name="lineItems[68cf9c071bdced1183e8002248d4798d][removable]"
+                                   name="lineItems[8d9bb4f01bdced1183e8002248d4798d][removable]"
                                    value="1">
                             <input type="hidden"
-                                   name="lineItems[68cf9c071bdced1183e8002248d4798d][quantity]"
+                                   name="lineItems[8d9bb4f01bdced1183e8002248d4798d][quantity]"
                                    value="1">
                         
     
                                                         <input type="hidden"
                                    name="product-name"
-                                   value="Klavierstücke">
+                                   value="Ecossaisen WoO 83 und WoO 86">
                         
 
     
@@ -6723,7 +6724,7 @@ www.henle.com
         <button class="btn btn-light btn-carticon cart-icon"
                 title="In den Warenkorb">
                     </button>
-        <a href="https://www.henle.de/de/Klavierstuecke/HN-13"
+        <a href="https://www.henle.de/de/Ecossaisen-WoO-83-und-WoO-86/HN-470"
             class="btn btn-block btn-buy"
             title="Details">
             Details
@@ -6739,11 +6740,11 @@ www.henle.com
 
             <input type="hidden"
                name="product-name"
-               value="Klavierstücke">
+               value="Ecossaisen WoO 83 und WoO 86">
 
         <input type="hidden"
                name="product-id"
-               value="68cf9c071bdced1183e8002248d4798d">
+               value="8d9bb4f01bdced1183e8002248d4798d">
                                                                 </div>  
                         </div>
                     </div>
@@ -6764,14 +6765,14 @@ www.henle.com
             <div class="product-price-wrapper">
                         
         <div class="product-cheapest-price">
-                            <div>Varianten ab<span class="product-cheapest-price-price"> 40,00 € </span></div>
+                            <div>Varianten ab<span class="product-cheapest-price-price"> 7,50 € </span></div>
                     </div>
 
          
                                              
 
         <span class="product-price" style="">
-            61,00 €
+            8,50 €
 
                     </span>
                 <span class="mws-henle-available">
@@ -6793,7 +6794,7 @@ www.henle.com
                       class="buy-widget"
                       data-add-to-cart="true">
 
-                                                                <input type="hidden" name="_csrf_token" value="1ceb66ef4f8f40b7cabbf9bfc088.WzC_SNT8hghCmsaCp2ssbG-28gANN_5pb7Q5teiPxug.F3vxMJ-49TwT4qHgkCAbGVripTdeYJAcWcNK347Cv4QUSecljq_CUSbMrQ">
+                                                                <input type="hidden" name="_csrf_token" value="79cd3c8488173caf.L1_XKygQSwD4lS5Z8YJBJbnPEjhFniS4PLn0YTJGjow.YTyFHXlyHXCM4lYBnLINF_r9Sm4w6BL5ROOTGAEio-5nDbx6bUUhLbv5bw">
                     
                             
                                                                                 <input type="hidden"
@@ -6803,31 +6804,31 @@ www.henle.com
                             <input type="hidden"
                                    name="redirectParameters"
                                    data-redirect-parameters="true"
-                                   value='{"productId": "68cf9c071bdced1183e8002248d4798d"}'>
+                                   value='{"productId": "8d9bb4f01bdced1183e8002248d4798d"}'>
                         
                                                                 <input type="hidden"
-                                   name="lineItems[68cf9c071bdced1183e8002248d4798d][id]"
-                                   value="68cf9c071bdced1183e8002248d4798d">
+                                   name="lineItems[8d9bb4f01bdced1183e8002248d4798d][id]"
+                                   value="8d9bb4f01bdced1183e8002248d4798d">
                             <input type="hidden"
-                                   name="lineItems[68cf9c071bdced1183e8002248d4798d][referencedId]"
-                                   value="68cf9c071bdced1183e8002248d4798d">
+                                   name="lineItems[8d9bb4f01bdced1183e8002248d4798d][referencedId]"
+                                   value="8d9bb4f01bdced1183e8002248d4798d">
                             <input type="hidden"
-                                   name="lineItems[68cf9c071bdced1183e8002248d4798d][type]"
+                                   name="lineItems[8d9bb4f01bdced1183e8002248d4798d][type]"
                                    value="product">
                             <input type="hidden"
-                                   name="lineItems[68cf9c071bdced1183e8002248d4798d][stackable]"
+                                   name="lineItems[8d9bb4f01bdced1183e8002248d4798d][stackable]"
                                    value="1">
                             <input type="hidden"
-                                   name="lineItems[68cf9c071bdced1183e8002248d4798d][removable]"
+                                   name="lineItems[8d9bb4f01bdced1183e8002248d4798d][removable]"
                                    value="1">
                             <input type="hidden"
-                                   name="lineItems[68cf9c071bdced1183e8002248d4798d][quantity]"
+                                   name="lineItems[8d9bb4f01bdced1183e8002248d4798d][quantity]"
                                    value="1">
                         
     
                                                         <input type="hidden"
                                    name="product-name"
-                                   value="Klavierstücke">
+                                   value="Ecossaisen WoO 83 und WoO 86">
                         
 
     
@@ -6835,7 +6836,7 @@ www.henle.com
         <button class="btn btn-light btn-carticon cart-icon"
                 title="In den Warenkorb">
                     </button>
-        <a href="https://www.henle.de/de/Klavierstuecke/HN-13"
+        <a href="https://www.henle.de/de/Ecossaisen-WoO-83-und-WoO-86/HN-470"
             class="btn btn-block btn-buy"
             title="Details">
             Details
@@ -6851,11 +6852,11 @@ www.henle.com
 
             <input type="hidden"
                name="product-name"
-               value="Klavierstücke">
+               value="Ecossaisen WoO 83 und WoO 86">
 
         <input type="hidden"
                name="product-id"
-               value="68cf9c071bdced1183e8002248d4798d">
+               value="8d9bb4f01bdced1183e8002248d4798d">
                                                     </div>            
                                     </div>
                 
@@ -6867,7 +6868,425 @@ www.henle.com
                                 <div class="card-extended-variations">
                                                                             
                                                                                 
-                                                                                                                                                                
+                                                                                                                                                                                                    <div class="variant-product-wrapper variant-product-library-wrapper">
+                                            <a href="http://www.henle-library.de/" target="henle-library" class="variant-product-link henle-library-link" data-id="800">
+                                                <img src="/bundles/mwshenletheme/images/g-henle-verlag_app.svg
+" alt="Digital" width="80" height="80" class="henle-library-image" data-was-processed="true">
+                                                <p class="henle-library-title variant-product-title">Digital</p>
+                                            </a>
+                                        </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                                                        </div>
+        
+                                                    </div>
+                                                                                                                                                                <div class="product-slider-item">
+                                                        
+    
+                            
+                                                                                                                                                                                                    
+        <div class="card product-box box-standard">
+                            <div class="card-body">
+                <div class="card-body-inner-wrapper">
+                                                                         <div class="product-badges">
+                                
+                        
+                        
+                    
+                            
+                                </div>
+                    
+                    
+                                                                                                 
+            <div itemprop="brand" itemtype="https://schema.org/Brand" itemscope>
+            <meta itemprop="name" content="" />
+        </div>
+    
+                        
+                                    
+                    
+                                           <div class="product-image-wrapper">
+                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                <a href="https://www.henle.de/de/Klavierkonzert-Es-dur-WoO-4/HN-567"
+                                   title="Klavierkonzert Es-dur WoO 4"
+                                   class="product-image-link is-standard">
+                                                                                                                                                                                                          
+                                            
+                                                                                                                
+                        
+                        
+    
+    
+    
+                
+        
+                
+                    
+            <img src="https://www.henle.de/media/ae/a6/96/1686743134/HN-0567-1686743134-sync.jpg"                             srcset="https://www.henle.de/thumbnail/ae/a6/96/1686743134/HN-0567-1686743134-sync_1920x1920.jpg 1920w, https://www.henle.de/thumbnail/ae/a6/96/1686743134/HN-0567-1686743134-sync_400x400.jpg 400w, https://www.henle.de/thumbnail/ae/a6/96/1686743134/HN-0567-1686743134-sync_800x800.jpg 800w"                                 sizes="200px"
+                                         class="product-image is-standard" alt="Klavierkonzert Es-dur WoO 4" title="Klavierkonzert Es-dur WoO 4"        />
+                                                                                                                                                                                                                                             </a>
+                            
+                                                    </div>
+                    
+                                            <div class="product-info">
+                                                                                                                        
+                                                                                                                                                
+                                                                                                                                        
+                    <nav aria-label="breadcrumb">
+                                    <ol class="breadcrumb"
+                        itemscope
+                        itemtype="https://schema.org/BreadcrumbList">
+                                                                                
+                                                            <li class="breadcrumb-item"
+                                                                        itemprop="itemListElement"
+                                    itemscope
+                                    itemtype="https://schema.org/ListItem">
+                                                                            <div itemprop="item">
+                                            <div itemprop="name">Main-Menu</div>
+                                        </div>
+                                                                        <meta itemprop="position" content="1"/>
+                                </li>
+                            
+                                                                                                <div class="breadcrumb-placeholder">
+                                                                                                                                                <span class="icon icon-arrow-medium-right icon-fluid">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16"><defs><path id="icons-solid-arrow-medium-right" d="M4.7071 5.2929c-.3905-.3905-1.0237-.3905-1.4142 0-.3905.3905-.3905 1.0237 0 1.4142l4 4c.3905.3905 1.0237.3905 1.4142 0l4-4c.3905-.3905.3905-1.0237 0-1.4142-.3905-.3905-1.0237-.3905-1.4142 0L8 8.5858l-3.2929-3.293z" /></defs><use transform="rotate(-90 8 8)" xlink:href="#icons-solid-arrow-medium-right" fill="#758CA3" fill-rule="evenodd" /></svg>
+        </span>
+                                        </div>
+                                                                                                                                            
+                                                            <li class="breadcrumb-item"
+                                                                        itemprop="itemListElement"
+                                    itemscope
+                                    itemtype="https://schema.org/ListItem">
+                                                                            <a href="https://www.henle.de/de/Themen/"
+                                           class="breadcrumb-link "
+                                           title="Themen"
+                                                                                      itemprop="item">
+                                            <link itemprop="url"
+                                                  href="https://www.henle.de/de/Themen/"/>
+                                            <span class="breadcrumb-title" itemprop="name">Themen</span>
+                                        </a>
+                                                                        <meta itemprop="position" content="2"/>
+                                </li>
+                            
+                                                                                                <div class="breadcrumb-placeholder">
+                                                                                                                                                <span class="icon icon-arrow-medium-right icon-fluid">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16"><defs><path id="icons-solid-arrow-medium-right" d="M4.7071 5.2929c-.3905-.3905-1.0237-.3905-1.4142 0-.3905.3905-.3905 1.0237 0 1.4142l4 4c.3905.3905 1.0237.3905 1.4142 0l4-4c.3905-.3905.3905-1.0237 0-1.4142-.3905-.3905-1.0237-.3905-1.4142 0L8 8.5858l-3.2929-3.293z" /></defs><use transform="rotate(-90 8 8)" xlink:href="#icons-solid-arrow-medium-right" fill="#758CA3" fill-rule="evenodd" /></svg>
+        </span>
+                                        </div>
+                                                                                                                                            
+                                                            <li class="breadcrumb-item"
+                                                                        itemprop="itemListElement"
+                                    itemscope
+                                    itemtype="https://schema.org/ListItem">
+                                                                            <a href="https://www.henle.de/de/navigation/1ee71ad323f045608660bf8d24fef6b0"
+                                           class="breadcrumb-link "
+                                           title="Beethoven 2020"
+                                                                                      itemprop="item">
+                                            <link itemprop="url"
+                                                  href="https://www.henle.de/de/navigation/1ee71ad323f045608660bf8d24fef6b0"/>
+                                            <span class="breadcrumb-title" itemprop="name">Beethoven 2020</span>
+                                        </a>
+                                                                        <meta itemprop="position" content="3"/>
+                                </li>
+                            
+                                                                                                <div class="breadcrumb-placeholder">
+                                                                                                                                                <span class="icon icon-arrow-medium-right icon-fluid">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16"><defs><path id="icons-solid-arrow-medium-right" d="M4.7071 5.2929c-.3905-.3905-1.0237-.3905-1.4142 0-.3905.3905-.3905 1.0237 0 1.4142l4 4c.3905.3905 1.0237.3905 1.4142 0l4-4c.3905-.3905.3905-1.0237 0-1.4142-.3905-.3905-1.0237-.3905-1.4142 0L8 8.5858l-3.2929-3.293z" /></defs><use transform="rotate(-90 8 8)" xlink:href="#icons-solid-arrow-medium-right" fill="#758CA3" fill-rule="evenodd" /></svg>
+        </span>
+                                        </div>
+                                                                                                                                            
+                                                            <li class="breadcrumb-item"
+                                    aria-current="page"                                    itemprop="itemListElement"
+                                    itemscope
+                                    itemtype="https://schema.org/ListItem">
+                                                                            <a href="https://www.henle.de/de/Beethoven-Neuerscheinungen/"
+                                           class="breadcrumb-link  is-active"
+                                           title="Beethoven Neuerscheinungen"
+                                                                                      itemprop="item">
+                                            <link itemprop="url"
+                                                  href="https://www.henle.de/de/Beethoven-Neuerscheinungen/"/>
+                                            <span class="breadcrumb-title" itemprop="name">Beethoven Neuerscheinungen</span>
+                                        </a>
+                                                                        <meta itemprop="position" content="4"/>
+                                </li>
+                            
+                                                                                                                                    </ol>
+                            </nav>
+                                                                                                                                    <a href="https://www.henle.de/de/Klavierkonzert-Es-dur-WoO-4/HN-567" 
+                                    class="product-componist-name" 
+                                    title="Klavierkonzert Es-dur WoO 4">
+                                     Ludwig van Beethoven
+                                </a>
+                                <a href="https://www.henle.de/de/Klavierkonzert-Es-dur-WoO-4/HN-567"
+                                   class="product-name"
+                                   title="Klavierkonzert Es-dur WoO 4">
+                                   Klavierkonzert Es-dur WoO 4
+                                </a>
+                            
+                                                            <div class="product-variant-characteristics">
+                                                                                                                                                                                                   <div class="product-variant-characteristics">
+                    <div class="product-variant-characteristics-text">
+                                            <span class="product-variant-characteristics-option">
+                            Herausgeber: <a class="product-variant-characteristics-option henle-personUrl"
+                            href="https://www.henle.de/de/Hans-Werner-Kuethen/"> Hans-Werner Küthen</a>
+                        </span>
+                                        </div>
+                </div>
+                                                                                                                                                                                                    
+                                </div>
+                            
+                                                                                            
+                                                                                                    
+                                                                
+                                <div class="product-variant-characteristics">
+                                    <div class="product-variant-characteristics-text">
+                                                                                    <span class="product-variant-characteristics-option">
+                                                Klavier solo (Direktionsstimme), Urtextausgabe, broschiert 
+                                            </span>
+                                                                            </div>
+                                </div>
+                            
+                                                        <div class="product-variant-characteristics">
+                                <div class="product-variant-characteristics-text"> 
+                                    <span class="product-variant-characteristics-option">
+                                        HN 567
+                                    </span>
+                                </div>
+                            </div>
+                                                        
+                                                                                    <div class="price-button-wrapper" id="price-button-m">
+                                                                           
+        
+        
+    
+        
+    
+        
+    
+    <div class="product-price-info">
+                    <p class="product-price-unit">
+                                                                    
+                                                                                </p>
+        
+            <div class="product-price-wrapper">
+                        
+        <div class="product-cheapest-price">
+                            <div>Varianten ab<span class="product-cheapest-price-price"> 16,50 € </span></div>
+                    </div>
+
+         
+                                             
+
+        <span class="product-price" style="">
+            19,50 €
+
+                    </span>
+                <span class="mws-henle-available">
+                            <span class="green-check">
+                    <span class="green-check-icon">                                                                                                        <span class="icon icon-checkmark-circle">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24"><defs><path d="M24 12c0 6.6274-5.3726 12-12 12S0 18.6274 0 12 5.3726 0 12 0s12 5.3726 12 12zM12 2C6.4772 2 2 6.4772 2 12s4.4772 10 10 10 10-4.4772 10-10S17.5228 2 12 2zM7.7071 12.2929 10 14.5858l6.2929-6.293c.3905-.3904 1.0237-.3904 1.4142 0 .3905.3906.3905 1.0238 0 1.4143l-7 7c-.3905.3905-1.0237.3905-1.4142 0l-3-3c-.3905-.3905-.3905-1.0237 0-1.4142.3905-.3905 1.0237-.3905 1.4142 0z" id="icons-default-checkmark-circle" /></defs><use xlink:href="#icons-default-checkmark-circle" fill="#758CA3" fill-rule="evenodd" /></svg>
+        </span>
+    </span>
+                    <span class="green-check-text">lieferbar</span>
+                </span>
+                    </span>
+    </div>
+    </div>
+                                
+                                                                            <div class="product-action">
+                        
+                                                    <form action="/de/checkout/line-item/add"
+                      method="post"
+                      class="buy-widget"
+                      data-add-to-cart="true">
+
+                                                                <input type="hidden" name="_csrf_token" value="79cd3c8488173caf.L1_XKygQSwD4lS5Z8YJBJbnPEjhFniS4PLn0YTJGjow.YTyFHXlyHXCM4lYBnLINF_r9Sm4w6BL5ROOTGAEio-5nDbx6bUUhLbv5bw">
+                    
+                            
+                                                                                <input type="hidden"
+                                   name="redirectTo"
+                                   value="frontend.detail.page">
+
+                            <input type="hidden"
+                                   name="redirectParameters"
+                                   data-redirect-parameters="true"
+                                   value='{"productId": "f56b20091cdced1183e8002248d4798d"}'>
+                        
+                                                                <input type="hidden"
+                                   name="lineItems[f56b20091cdced1183e8002248d4798d][id]"
+                                   value="f56b20091cdced1183e8002248d4798d">
+                            <input type="hidden"
+                                   name="lineItems[f56b20091cdced1183e8002248d4798d][referencedId]"
+                                   value="f56b20091cdced1183e8002248d4798d">
+                            <input type="hidden"
+                                   name="lineItems[f56b20091cdced1183e8002248d4798d][type]"
+                                   value="product">
+                            <input type="hidden"
+                                   name="lineItems[f56b20091cdced1183e8002248d4798d][stackable]"
+                                   value="1">
+                            <input type="hidden"
+                                   name="lineItems[f56b20091cdced1183e8002248d4798d][removable]"
+                                   value="1">
+                            <input type="hidden"
+                                   name="lineItems[f56b20091cdced1183e8002248d4798d][quantity]"
+                                   value="1">
+                        
+    
+                                                        <input type="hidden"
+                                   name="product-name"
+                                   value="Klavierkonzert Es-dur WoO 4">
+                        
+
+    
+                            <div class="button-wrapper">
+        <button class="btn btn-light btn-carticon cart-icon"
+                title="In den Warenkorb">
+                    </button>
+        <a href="https://www.henle.de/de/Klavierkonzert-Es-dur-WoO-4/HN-567"
+            class="btn btn-block btn-buy"
+            title="Details">
+            Details
+        </a>
+    </div>
+                    
+    
+
+                    
+        
+                            </form>
+                        </div>
+
+            <input type="hidden"
+               name="product-name"
+               value="Klavierkonzert Es-dur WoO 4">
+
+        <input type="hidden"
+               name="product-id"
+               value="f56b20091cdced1183e8002248d4798d">
+                                                                </div>  
+                        </div>
+                    </div>
+                    <div class="price-button-wrapper" id="price-button-s">
+                                                                   
+        
+        
+    
+        
+    
+        
+    
+    <div class="product-price-info">
+                    <p class="product-price-unit">
+                                                                    
+                                                                                </p>
+        
+            <div class="product-price-wrapper">
+                        
+        <div class="product-cheapest-price">
+                            <div>Varianten ab<span class="product-cheapest-price-price"> 16,50 € </span></div>
+                    </div>
+
+         
+                                             
+
+        <span class="product-price" style="">
+            19,50 €
+
+                    </span>
+                <span class="mws-henle-available">
+                            <span class="green-check">
+                    <span class="green-check-icon">                                                                                                        <span class="icon icon-checkmark-circle">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24"><defs><path d="M24 12c0 6.6274-5.3726 12-12 12S0 18.6274 0 12 5.3726 0 12 0s12 5.3726 12 12zM12 2C6.4772 2 2 6.4772 2 12s4.4772 10 10 10 10-4.4772 10-10S17.5228 2 12 2zM7.7071 12.2929 10 14.5858l6.2929-6.293c.3905-.3904 1.0237-.3904 1.4142 0 .3905.3906.3905 1.0238 0 1.4143l-7 7c-.3905.3905-1.0237.3905-1.4142 0l-3-3c-.3905-.3905-.3905-1.0237 0-1.4142.3905-.3905 1.0237-.3905 1.4142 0z" id="icons-default-checkmark-circle" /></defs><use xlink:href="#icons-default-checkmark-circle" fill="#758CA3" fill-rule="evenodd" /></svg>
+        </span>
+    </span>
+                    <span class="green-check-text">lieferbar</span>
+                </span>
+                    </span>
+    </div>
+    </div>
+                            
+                                                                    <div class="product-action">
+                        
+                                                    <form action="/de/checkout/line-item/add"
+                      method="post"
+                      class="buy-widget"
+                      data-add-to-cart="true">
+
+                                                                <input type="hidden" name="_csrf_token" value="79cd3c8488173caf.L1_XKygQSwD4lS5Z8YJBJbnPEjhFniS4PLn0YTJGjow.YTyFHXlyHXCM4lYBnLINF_r9Sm4w6BL5ROOTGAEio-5nDbx6bUUhLbv5bw">
+                    
+                            
+                                                                                <input type="hidden"
+                                   name="redirectTo"
+                                   value="frontend.detail.page">
+
+                            <input type="hidden"
+                                   name="redirectParameters"
+                                   data-redirect-parameters="true"
+                                   value='{"productId": "f56b20091cdced1183e8002248d4798d"}'>
+                        
+                                                                <input type="hidden"
+                                   name="lineItems[f56b20091cdced1183e8002248d4798d][id]"
+                                   value="f56b20091cdced1183e8002248d4798d">
+                            <input type="hidden"
+                                   name="lineItems[f56b20091cdced1183e8002248d4798d][referencedId]"
+                                   value="f56b20091cdced1183e8002248d4798d">
+                            <input type="hidden"
+                                   name="lineItems[f56b20091cdced1183e8002248d4798d][type]"
+                                   value="product">
+                            <input type="hidden"
+                                   name="lineItems[f56b20091cdced1183e8002248d4798d][stackable]"
+                                   value="1">
+                            <input type="hidden"
+                                   name="lineItems[f56b20091cdced1183e8002248d4798d][removable]"
+                                   value="1">
+                            <input type="hidden"
+                                   name="lineItems[f56b20091cdced1183e8002248d4798d][quantity]"
+                                   value="1">
+                        
+    
+                                                        <input type="hidden"
+                                   name="product-name"
+                                   value="Klavierkonzert Es-dur WoO 4">
+                        
+
+    
+                            <div class="button-wrapper">
+        <button class="btn btn-light btn-carticon cart-icon"
+                title="In den Warenkorb">
+                    </button>
+        <a href="https://www.henle.de/de/Klavierkonzert-Es-dur-WoO-4/HN-567"
+            class="btn btn-block btn-buy"
+            title="Details">
+            Details
+        </a>
+    </div>
+                    
+    
+
+                    
+        
+                            </form>
+                        </div>
+
+            <input type="hidden"
+               name="product-name"
+               value="Klavierkonzert Es-dur WoO 4">
+
+        <input type="hidden"
+               name="product-id"
+               value="f56b20091cdced1183e8002248d4798d">
+                                                    </div>            
+                                    </div>
+                
+                                                            <div class="mws-product-card-extended">
+                            <div class="mws-product-card-extended-title">
+                                <h5 class="card-extended-headline">Weitere Ausgaben dieses Titels</h5>
+                            </div>
+                            <div class="card-extended-content">
+                                <div class="card-extended-variations">
+                                                                            
                                                                                 
                                                                                                                                                                                                     <div class="variant-product-wrapper variant-product-library-wrapper">
                                             <a href="http://www.henle-library.de/" target="henle-library" class="variant-product-link henle-library-link" data-id="800">
@@ -6909,429 +7328,9 @@ www.henle.com
                     
                                            <div class="product-image-wrapper">
                                                         
-                                                                                                                                                                                                                                                                                     
-                                                                                                                                                                                                                                                                    
-                                <a href="https://www.henle.de/de/Abt.-7-Bd.-5-Variationen-fuer-Klavier/HN-4273"
-                                   title="Abt. 7, Bd. 5 | Variationen für Klavier"
-                                   class="product-image-link is-standard">
-                                                                                                                                                                                                          <div class="badge-container">
-                                                                                      
-                                            
-                                                                                                                
-                        
-                        
-    
-    
-    
-                
-        
-                
-                    
-            <img src="https://www.henle.de/media/8c/99/72/1744353188/HN-4273_ratio-mod.jpg"                             srcset="https://www.henle.de/thumbnail/8c/99/72/1744353188/HN-4273_ratio-mod_800x800.jpg 800w, https://www.henle.de/thumbnail/8c/99/72/1744353188/HN-4273_ratio-mod_400x400.jpg 400w, https://www.henle.de/thumbnail/8c/99/72/1744353188/HN-4273_ratio-mod_1920x1920.jpg 1920w"                                 sizes="200px"
-                                         class="product-image is-standard" alt="Abt. 7, Bd. 5 | Variationen für Klavier" title="Abt. 7, Bd. 5 | Variationen für Klavier"        />
-                                                                                                                                        <div class="critial-report-badge">
-                                                    <span class="critical-report-span">Kritischer Bericht</span>
-                                                </div>
-                                            </div>
-                                                                                                                                                                                             </a>
-                            
-                                                    </div>
-                    
-                                            <div class="product-info">
-                                                                                                                        
-                                                                                                                                                
-                                                                                                                                        
-                    <nav aria-label="breadcrumb">
-                                    <ol class="breadcrumb"
-                        itemscope
-                        itemtype="https://schema.org/BreadcrumbList">
-                                                                                
-                                                            <li class="breadcrumb-item"
-                                                                        itemprop="itemListElement"
-                                    itemscope
-                                    itemtype="https://schema.org/ListItem">
-                                                                            <div itemprop="item">
-                                            <div itemprop="name">Main-Menu</div>
-                                        </div>
-                                                                        <meta itemprop="position" content="1"/>
-                                </li>
-                            
-                                                                                                <div class="breadcrumb-placeholder">
-                                                                                                                                                <span class="icon icon-arrow-medium-right icon-fluid">
-                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16"><defs><path id="icons-solid-arrow-medium-right" d="M4.7071 5.2929c-.3905-.3905-1.0237-.3905-1.4142 0-.3905.3905-.3905 1.0237 0 1.4142l4 4c.3905.3905 1.0237.3905 1.4142 0l4-4c.3905-.3905.3905-1.0237 0-1.4142-.3905-.3905-1.0237-.3905-1.4142 0L8 8.5858l-3.2929-3.293z" /></defs><use transform="rotate(-90 8 8)" xlink:href="#icons-solid-arrow-medium-right" fill="#758CA3" fill-rule="evenodd" /></svg>
-        </span>
-                                        </div>
-                                                                                                                                            
-                                                            <li class="breadcrumb-item"
-                                                                        itemprop="itemListElement"
-                                    itemscope
-                                    itemtype="https://schema.org/ListItem">
-                                                                            <a href="https://www.henle.de/de/Themen/"
-                                           class="breadcrumb-link "
-                                           title="Themen"
-                                                                                      itemprop="item">
-                                            <link itemprop="url"
-                                                  href="https://www.henle.de/de/Themen/"/>
-                                            <span class="breadcrumb-title" itemprop="name">Themen</span>
-                                        </a>
-                                                                        <meta itemprop="position" content="2"/>
-                                </li>
-                            
-                                                                                                <div class="breadcrumb-placeholder">
-                                                                                                                                                <span class="icon icon-arrow-medium-right icon-fluid">
-                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16"><defs><path id="icons-solid-arrow-medium-right" d="M4.7071 5.2929c-.3905-.3905-1.0237-.3905-1.4142 0-.3905.3905-.3905 1.0237 0 1.4142l4 4c.3905.3905 1.0237.3905 1.4142 0l4-4c.3905-.3905.3905-1.0237 0-1.4142-.3905-.3905-1.0237-.3905-1.4142 0L8 8.5858l-3.2929-3.293z" /></defs><use transform="rotate(-90 8 8)" xlink:href="#icons-solid-arrow-medium-right" fill="#758CA3" fill-rule="evenodd" /></svg>
-        </span>
-                                        </div>
-                                                                                                                                            
-                                                            <li class="breadcrumb-item"
-                                                                        itemprop="itemListElement"
-                                    itemscope
-                                    itemtype="https://schema.org/ListItem">
-                                                                            <a href="https://www.henle.de/de/navigation/1ee71ad323f045608660bf8d24fef6b0"
-                                           class="breadcrumb-link "
-                                           title="Beethoven 2020"
-                                                                                      itemprop="item">
-                                            <link itemprop="url"
-                                                  href="https://www.henle.de/de/navigation/1ee71ad323f045608660bf8d24fef6b0"/>
-                                            <span class="breadcrumb-title" itemprop="name">Beethoven 2020</span>
-                                        </a>
-                                                                        <meta itemprop="position" content="3"/>
-                                </li>
-                            
-                                                                                                <div class="breadcrumb-placeholder">
-                                                                                                                                                <span class="icon icon-arrow-medium-right icon-fluid">
-                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16"><defs><path id="icons-solid-arrow-medium-right" d="M4.7071 5.2929c-.3905-.3905-1.0237-.3905-1.4142 0-.3905.3905-.3905 1.0237 0 1.4142l4 4c.3905.3905 1.0237.3905 1.4142 0l4-4c.3905-.3905.3905-1.0237 0-1.4142-.3905-.3905-1.0237-.3905-1.4142 0L8 8.5858l-3.2929-3.293z" /></defs><use transform="rotate(-90 8 8)" xlink:href="#icons-solid-arrow-medium-right" fill="#758CA3" fill-rule="evenodd" /></svg>
-        </span>
-                                        </div>
-                                                                                                                                            
-                                                            <li class="breadcrumb-item"
-                                    aria-current="page"                                    itemprop="itemListElement"
-                                    itemscope
-                                    itemtype="https://schema.org/ListItem">
-                                                                            <a href="https://www.henle.de/de/Beethoven-Neuerscheinungen/"
-                                           class="breadcrumb-link  is-active"
-                                           title="Beethoven Neuerscheinungen"
-                                                                                      itemprop="item">
-                                            <link itemprop="url"
-                                                  href="https://www.henle.de/de/Beethoven-Neuerscheinungen/"/>
-                                            <span class="breadcrumb-title" itemprop="name">Beethoven Neuerscheinungen</span>
-                                        </a>
-                                                                        <meta itemprop="position" content="4"/>
-                                </li>
-                            
-                                                                                                                                    </ol>
-                            </nav>
-                                                                                                                                    <a href="https://www.henle.de/de/Abt.-7-Bd.-5-Variationen-fuer-Klavier/HN-4273" 
-                                    class="product-componist-name" 
-                                    title="Abt. 7, Bd. 5 | Variationen für Klavier">
-                                     Ludwig van Beethoven
-                                </a>
-                                <a href="https://www.henle.de/de/Abt.-7-Bd.-5-Variationen-fuer-Klavier/HN-4273"
-                                   class="product-name"
-                                   title="Abt. 7, Bd. 5 | Variationen für Klavier">
-                                   Abt. 7, Bd. 5 | Variationen für Klavier
-                                </a>
-                            
-                                                            <div class="product-variant-characteristics">
-                                                                                                                                                                                                   <div class="product-variant-characteristics">
-                    <div class="product-variant-characteristics-text">
-                                            <span class="product-variant-characteristics-option">
-                            Herausgeber: Felix Loy
-                        </span>
-                                        </div>
-                </div>
-                                                    
-                                </div>
-                            
-                                                                                            
-                                                                                                    
-                                                                
-                                <div class="product-variant-characteristics">
-                                    <div class="product-variant-characteristics-text">
-                                                                                    <span class="product-variant-characteristics-option">
-                                                Wissenschaftliche Gesamtausgabe, Kritischer Bericht, broschiert 
-                                            </span>
-                                                                            </div>
-                                </div>
-                            
-                                                        <div class="product-variant-characteristics">
-                                <div class="product-variant-characteristics-text"> 
-                                    <span class="product-variant-characteristics-option">
-                                        HN 4273
-                                    </span>
-                                </div>
-                            </div>
-                                                        
-                                                                                    <div class="price-button-wrapper" id="price-button-m">
-                                                                           
-        
-        
-    
-        
-    
-        
-    
-    <div class="product-price-info">
-                    <p class="product-price-unit">
-                                                                    
-                                                                                </p>
-        
-            <div class="product-price-wrapper">
-                        
-        <div class="product-cheapest-price">
-                            <div>Varianten ab<span class="product-cheapest-price-price"> 0,00 € </span></div>
-                    </div>
-
-         
-                                             
-
-        <span class="product-price" style="">
-            123,00 €
-
-                    </span>
-                <span class="mws-henle-available">
-                            <span class="green-check">
-                    <span class="green-check-icon">                                                                                                        <span class="icon icon-checkmark-circle">
-                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24"><defs><path d="M24 12c0 6.6274-5.3726 12-12 12S0 18.6274 0 12 5.3726 0 12 0s12 5.3726 12 12zM12 2C6.4772 2 2 6.4772 2 12s4.4772 10 10 10 10-4.4772 10-10S17.5228 2 12 2zM7.7071 12.2929 10 14.5858l6.2929-6.293c.3905-.3904 1.0237-.3904 1.4142 0 .3905.3906.3905 1.0238 0 1.4143l-7 7c-.3905.3905-1.0237.3905-1.4142 0l-3-3c-.3905-.3905-.3905-1.0237 0-1.4142.3905-.3905 1.0237-.3905 1.4142 0z" id="icons-default-checkmark-circle" /></defs><use xlink:href="#icons-default-checkmark-circle" fill="#758CA3" fill-rule="evenodd" /></svg>
-        </span>
-    </span>
-                    <span class="green-check-text">lieferbar</span>
-                </span>
-                    </span>
-    </div>
-    </div>
-                                
-                                                                            <div class="product-action">
-                        
-                                                    <form action="/de/checkout/line-item/add"
-                      method="post"
-                      class="buy-widget"
-                      data-add-to-cart="true">
-
-                                                                <input type="hidden" name="_csrf_token" value="1ceb66ef4f8f40b7cabbf9bfc088.WzC_SNT8hghCmsaCp2ssbG-28gANN_5pb7Q5teiPxug.F3vxMJ-49TwT4qHgkCAbGVripTdeYJAcWcNK347Cv4QUSecljq_CUSbMrQ">
-                    
-                            
-                                                                                <input type="hidden"
-                                   name="redirectTo"
-                                   value="frontend.detail.page">
-
-                            <input type="hidden"
-                                   name="redirectParameters"
-                                   data-redirect-parameters="true"
-                                   value='{"productId": "652b97d51ddced1183e8002248d4798d"}'>
-                        
-                                                                <input type="hidden"
-                                   name="lineItems[652b97d51ddced1183e8002248d4798d][id]"
-                                   value="652b97d51ddced1183e8002248d4798d">
-                            <input type="hidden"
-                                   name="lineItems[652b97d51ddced1183e8002248d4798d][referencedId]"
-                                   value="652b97d51ddced1183e8002248d4798d">
-                            <input type="hidden"
-                                   name="lineItems[652b97d51ddced1183e8002248d4798d][type]"
-                                   value="product">
-                            <input type="hidden"
-                                   name="lineItems[652b97d51ddced1183e8002248d4798d][stackable]"
-                                   value="1">
-                            <input type="hidden"
-                                   name="lineItems[652b97d51ddced1183e8002248d4798d][removable]"
-                                   value="1">
-                            <input type="hidden"
-                                   name="lineItems[652b97d51ddced1183e8002248d4798d][quantity]"
-                                   value="1">
-                        
-    
-                                                        <input type="hidden"
-                                   name="product-name"
-                                   value="Abt. 7, Bd. 5 | Variationen für Klavier">
-                        
-
-    
-                            <div class="button-wrapper">
-        <button class="btn btn-light btn-carticon cart-icon"
-                title="In den Warenkorb">
-                    </button>
-        <a href="https://www.henle.de/de/Abt.-7-Bd.-5-Variationen-fuer-Klavier/HN-4273"
-            class="btn btn-block btn-buy"
-            title="Details">
-            Details
-        </a>
-    </div>
-                    
-    
-
-                    
-        
-                            </form>
-                        </div>
-
-            <input type="hidden"
-               name="product-name"
-               value="Abt. 7, Bd. 5 | Variationen für Klavier">
-
-        <input type="hidden"
-               name="product-id"
-               value="652b97d51ddced1183e8002248d4798d">
-                                                                </div>  
-                        </div>
-                    </div>
-                    <div class="price-button-wrapper" id="price-button-s">
-                                                                   
-        
-        
-    
-        
-    
-        
-    
-    <div class="product-price-info">
-                    <p class="product-price-unit">
-                                                                    
-                                                                                </p>
-        
-            <div class="product-price-wrapper">
-                        
-        <div class="product-cheapest-price">
-                            <div>Varianten ab<span class="product-cheapest-price-price"> 0,00 € </span></div>
-                    </div>
-
-         
-                                             
-
-        <span class="product-price" style="">
-            123,00 €
-
-                    </span>
-                <span class="mws-henle-available">
-                            <span class="green-check">
-                    <span class="green-check-icon">                                                                                                        <span class="icon icon-checkmark-circle">
-                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24"><defs><path d="M24 12c0 6.6274-5.3726 12-12 12S0 18.6274 0 12 5.3726 0 12 0s12 5.3726 12 12zM12 2C6.4772 2 2 6.4772 2 12s4.4772 10 10 10 10-4.4772 10-10S17.5228 2 12 2zM7.7071 12.2929 10 14.5858l6.2929-6.293c.3905-.3904 1.0237-.3904 1.4142 0 .3905.3906.3905 1.0238 0 1.4143l-7 7c-.3905.3905-1.0237.3905-1.4142 0l-3-3c-.3905-.3905-.3905-1.0237 0-1.4142.3905-.3905 1.0237-.3905 1.4142 0z" id="icons-default-checkmark-circle" /></defs><use xlink:href="#icons-default-checkmark-circle" fill="#758CA3" fill-rule="evenodd" /></svg>
-        </span>
-    </span>
-                    <span class="green-check-text">lieferbar</span>
-                </span>
-                    </span>
-    </div>
-    </div>
-                            
-                                                                    <div class="product-action">
-                        
-                                                    <form action="/de/checkout/line-item/add"
-                      method="post"
-                      class="buy-widget"
-                      data-add-to-cart="true">
-
-                                                                <input type="hidden" name="_csrf_token" value="1ceb66ef4f8f40b7cabbf9bfc088.WzC_SNT8hghCmsaCp2ssbG-28gANN_5pb7Q5teiPxug.F3vxMJ-49TwT4qHgkCAbGVripTdeYJAcWcNK347Cv4QUSecljq_CUSbMrQ">
-                    
-                            
-                                                                                <input type="hidden"
-                                   name="redirectTo"
-                                   value="frontend.detail.page">
-
-                            <input type="hidden"
-                                   name="redirectParameters"
-                                   data-redirect-parameters="true"
-                                   value='{"productId": "652b97d51ddced1183e8002248d4798d"}'>
-                        
-                                                                <input type="hidden"
-                                   name="lineItems[652b97d51ddced1183e8002248d4798d][id]"
-                                   value="652b97d51ddced1183e8002248d4798d">
-                            <input type="hidden"
-                                   name="lineItems[652b97d51ddced1183e8002248d4798d][referencedId]"
-                                   value="652b97d51ddced1183e8002248d4798d">
-                            <input type="hidden"
-                                   name="lineItems[652b97d51ddced1183e8002248d4798d][type]"
-                                   value="product">
-                            <input type="hidden"
-                                   name="lineItems[652b97d51ddced1183e8002248d4798d][stackable]"
-                                   value="1">
-                            <input type="hidden"
-                                   name="lineItems[652b97d51ddced1183e8002248d4798d][removable]"
-                                   value="1">
-                            <input type="hidden"
-                                   name="lineItems[652b97d51ddced1183e8002248d4798d][quantity]"
-                                   value="1">
-                        
-    
-                                                        <input type="hidden"
-                                   name="product-name"
-                                   value="Abt. 7, Bd. 5 | Variationen für Klavier">
-                        
-
-    
-                            <div class="button-wrapper">
-        <button class="btn btn-light btn-carticon cart-icon"
-                title="In den Warenkorb">
-                    </button>
-        <a href="https://www.henle.de/de/Abt.-7-Bd.-5-Variationen-fuer-Klavier/HN-4273"
-            class="btn btn-block btn-buy"
-            title="Details">
-            Details
-        </a>
-    </div>
-                    
-    
-
-                    
-        
-                            </form>
-                        </div>
-
-            <input type="hidden"
-               name="product-name"
-               value="Abt. 7, Bd. 5 | Variationen für Klavier">
-
-        <input type="hidden"
-               name="product-id"
-               value="652b97d51ddced1183e8002248d4798d">
-                                                    </div>            
-                                    </div>
-                
-                                                            <div class="mws-product-card-extended">
-                            <div class="mws-product-card-extended-title">
-                                <h5 class="card-extended-headline">Weitere Ausgaben dieses Titels</h5>
-                            </div>
-                            <div class="card-extended-content">
-                                <div class="card-extended-variations">
-                                                                            
-                                                                                
-                                                                                                                                                                
-                                                                                
-                                                                                                                                                                                            </div>
-                            </div>
-                        </div>
-                                                        </div>
-        
-                                                    </div>
-                                                                                                                                                                <div class="product-slider-item">
-                                                        
-    
-                            
-                                                                                                                                                                                                    
-        <div class="card product-box box-standard">
-                            <div class="card-body">
-                <div class="card-body-inner-wrapper">
-                                                                         <div class="product-badges">
-                                
-                        
-                        
-                    
-                            
-                                </div>
-                    
-                    
-                                                                                                 
-            <div itemprop="brand" itemtype="https://schema.org/Brand" itemscope>
-            <meta itemprop="name" content="" />
-        </div>
-    
-                        
-                                    
-                    
-                                           <div class="product-image-wrapper">
-                                                        
                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-                                <a href="https://www.henle.de/de/Abt.-12-Bd.-1-Lieder-und-Gesaenge-mit-Klavierbegleitung/HN-4432"
-                                   title="Abt. 12, Bd. 1 | Lieder und Gesänge mit Klavierbegleitung"
+                                <a href="https://www.henle.de/de/Klaviersonaten-Band-I-op.-2-22-Perahia-Ausgabe/HN-832"
+                                   title="Klaviersonaten, Band I, op. 2–22, Perahia-Ausgabe"
                                    class="product-image-link is-standard">
                                                                                                                                                                                                           
                                             
@@ -7345,8 +7344,8 @@ www.henle.com
         
                 
                     
-            <img src="https://www.henle.de/media/02/df/10/1686743629/HN-4432-1686743629-sync.jpg"                             srcset="https://www.henle.de/thumbnail/02/df/10/1686743629/HN-4432-1686743629-sync_800x800.jpg 800w, https://www.henle.de/thumbnail/02/df/10/1686743629/HN-4432-1686743629-sync_400x400.jpg 400w, https://www.henle.de/thumbnail/02/df/10/1686743629/HN-4432-1686743629-sync_1920x1920.jpg 1920w"                                 sizes="200px"
-                                         class="product-image is-standard" alt="Abt. 12, Bd. 1 | Lieder und Gesänge mit Klavierbegleitung" title="Abt. 12, Bd. 1 | Lieder und Gesänge mit Klavierbegleitung"        />
+            <img src="https://www.henle.de/media/98/dd/ec/1686743615/HN-0832-1686743615-sync.jpg"                             srcset="https://www.henle.de/thumbnail/98/dd/ec/1686743615/HN-0832-1686743615-sync_400x400.jpg 400w, https://www.henle.de/thumbnail/98/dd/ec/1686743615/HN-0832-1686743615-sync_1920x1920.jpg 1920w, https://www.henle.de/thumbnail/98/dd/ec/1686743615/HN-0832-1686743615-sync_800x800.jpg 800w"                                 sizes="200px"
+                                         class="product-image is-standard" alt="Klaviersonaten, Band I, op. 2–22, Perahia-Ausgabe" title="Klaviersonaten, Band I, op. 2–22, Perahia-Ausgabe"        />
                                                                                                                                                                                                                                              </a>
                             
                                                     </div>
@@ -7435,22 +7434,31 @@ www.henle.com
                             
                                                                                                                                     </ol>
                             </nav>
-                                                                                                                                    <a href="https://www.henle.de/de/Abt.-12-Bd.-1-Lieder-und-Gesaenge-mit-Klavierbegleitung/HN-4432" 
+                                                                                                                                    <a href="https://www.henle.de/de/Klaviersonaten-Band-I-op.-2-22-Perahia-Ausgabe/HN-832" 
                                     class="product-componist-name" 
-                                    title="Abt. 12, Bd. 1 | Lieder und Gesänge mit Klavierbegleitung">
+                                    title="Klaviersonaten, Band I, op. 2–22, Perahia-Ausgabe">
                                      Ludwig van Beethoven
                                 </a>
-                                <a href="https://www.henle.de/de/Abt.-12-Bd.-1-Lieder-und-Gesaenge-mit-Klavierbegleitung/HN-4432"
+                                <a href="https://www.henle.de/de/Klaviersonaten-Band-I-op.-2-22-Perahia-Ausgabe/HN-832"
                                    class="product-name"
-                                   title="Abt. 12, Bd. 1 | Lieder und Gesänge mit Klavierbegleitung">
-                                   Abt. 12, Bd. 1 | Lieder und Gesänge mit Klavierbegleitung
+                                   title="Klaviersonaten, Band I, op. 2–22, Perahia-Ausgabe">
+                                   Klaviersonaten, Band I, op. 2–22, Perahia-Ausgabe
                                 </a>
                             
                                                             <div class="product-variant-characteristics">
-                                                                                                                                                                                                   <div class="product-variant-characteristics">
+                                                                                                                                                                                                                                                                                                       <div class="product-variant-characteristics">
                     <div class="product-variant-characteristics-text">
                                             <span class="product-variant-characteristics-option">
-                            Herausgeber: Helga Lühning
+                            Herausgeber, Fingersatz: <a class="product-variant-characteristics-option henle-personUrl"
+                            href="https://www.henle.de/de/Murray-Perahia/"> Murray Perahia</a>
+                        </span>
+                                        </div>
+                </div>
+                                                                                                                                                                            <div class="product-variant-characteristics">
+                    <div class="product-variant-characteristics-text">
+                                            <span class="product-variant-characteristics-option">
+                            Herausgeber: <a class="product-variant-characteristics-option henle-personUrl"
+                            href="https://www.henle.de/de/Norbert-Gertsch/"> Norbert Gertsch</a>
                         </span>
                                         </div>
                 </div>
@@ -7463,7 +7471,7 @@ www.henle.com
                                 <div class="product-variant-characteristics">
                                     <div class="product-variant-characteristics-text">
                                                                                     <span class="product-variant-characteristics-option">
-                                                Wissenschaftliche Gesamtausgabe mit Kritischem Bericht, Leinen 
+                                                Urtextausgabe, broschiert 
                                             </span>
                                                                             </div>
                                 </div>
@@ -7471,7 +7479,7 @@ www.henle.com
                                                         <div class="product-variant-characteristics">
                                 <div class="product-variant-characteristics-text"> 
                                     <span class="product-variant-characteristics-option">
-                                        HN 4432
+                                        HN 832
                                     </span>
                                 </div>
                             </div>
@@ -7493,14 +7501,13 @@ www.henle.com
             <div class="product-price-wrapper">
                         
         <div class="product-cheapest-price">
-                            <div>Varianten ab<span class="product-cheapest-price-price"> 322,00 € </span></div>
                     </div>
 
          
                                              
 
         <span class="product-price" style="">
-            370,00 €
+            47,00 €
 
                     </span>
                 <span class="mws-henle-available">
@@ -7522,7 +7529,7 @@ www.henle.com
                       class="buy-widget"
                       data-add-to-cart="true">
 
-                                                                <input type="hidden" name="_csrf_token" value="1ceb66ef4f8f40b7cabbf9bfc088.WzC_SNT8hghCmsaCp2ssbG-28gANN_5pb7Q5teiPxug.F3vxMJ-49TwT4qHgkCAbGVripTdeYJAcWcNK347Cv4QUSecljq_CUSbMrQ">
+                                                                <input type="hidden" name="_csrf_token" value="79cd3c8488173caf.L1_XKygQSwD4lS5Z8YJBJbnPEjhFniS4PLn0YTJGjow.YTyFHXlyHXCM4lYBnLINF_r9Sm4w6BL5ROOTGAEio-5nDbx6bUUhLbv5bw">
                     
                             
                                                                                 <input type="hidden"
@@ -7532,31 +7539,31 @@ www.henle.com
                             <input type="hidden"
                                    name="redirectParameters"
                                    data-redirect-parameters="true"
-                                   value='{"productId": "6cd577d41cdced1183e8002248d4798d"}'>
+                                   value='{"productId": "221fe4561cdced1183e8002248d4798d"}'>
                         
                                                                 <input type="hidden"
-                                   name="lineItems[6cd577d41cdced1183e8002248d4798d][id]"
-                                   value="6cd577d41cdced1183e8002248d4798d">
+                                   name="lineItems[221fe4561cdced1183e8002248d4798d][id]"
+                                   value="221fe4561cdced1183e8002248d4798d">
                             <input type="hidden"
-                                   name="lineItems[6cd577d41cdced1183e8002248d4798d][referencedId]"
-                                   value="6cd577d41cdced1183e8002248d4798d">
+                                   name="lineItems[221fe4561cdced1183e8002248d4798d][referencedId]"
+                                   value="221fe4561cdced1183e8002248d4798d">
                             <input type="hidden"
-                                   name="lineItems[6cd577d41cdced1183e8002248d4798d][type]"
+                                   name="lineItems[221fe4561cdced1183e8002248d4798d][type]"
                                    value="product">
                             <input type="hidden"
-                                   name="lineItems[6cd577d41cdced1183e8002248d4798d][stackable]"
+                                   name="lineItems[221fe4561cdced1183e8002248d4798d][stackable]"
                                    value="1">
                             <input type="hidden"
-                                   name="lineItems[6cd577d41cdced1183e8002248d4798d][removable]"
+                                   name="lineItems[221fe4561cdced1183e8002248d4798d][removable]"
                                    value="1">
                             <input type="hidden"
-                                   name="lineItems[6cd577d41cdced1183e8002248d4798d][quantity]"
+                                   name="lineItems[221fe4561cdced1183e8002248d4798d][quantity]"
                                    value="1">
                         
     
                                                         <input type="hidden"
                                    name="product-name"
-                                   value="Abt. 12, Bd. 1 | Lieder und Gesänge mit Klavierbegleitung">
+                                   value="Klaviersonaten, Band I, op. 2–22, Perahia-Ausgabe">
                         
 
     
@@ -7564,7 +7571,7 @@ www.henle.com
         <button class="btn btn-light btn-carticon cart-icon"
                 title="In den Warenkorb">
                     </button>
-        <a href="https://www.henle.de/de/Abt.-12-Bd.-1-Lieder-und-Gesaenge-mit-Klavierbegleitung/HN-4432"
+        <a href="https://www.henle.de/de/Klaviersonaten-Band-I-op.-2-22-Perahia-Ausgabe/HN-832"
             class="btn btn-block btn-buy"
             title="Details">
             Details
@@ -7580,11 +7587,11 @@ www.henle.com
 
             <input type="hidden"
                name="product-name"
-               value="Abt. 12, Bd. 1 | Lieder und Gesänge mit Klavierbegleitung">
+               value="Klaviersonaten, Band I, op. 2–22, Perahia-Ausgabe">
 
         <input type="hidden"
                name="product-id"
-               value="6cd577d41cdced1183e8002248d4798d">
+               value="221fe4561cdced1183e8002248d4798d">
                                                                 </div>  
                         </div>
                     </div>
@@ -7605,14 +7612,13 @@ www.henle.com
             <div class="product-price-wrapper">
                         
         <div class="product-cheapest-price">
-                            <div>Varianten ab<span class="product-cheapest-price-price"> 322,00 € </span></div>
                     </div>
 
          
                                              
 
         <span class="product-price" style="">
-            370,00 €
+            47,00 €
 
                     </span>
                 <span class="mws-henle-available">
@@ -7634,7 +7640,7 @@ www.henle.com
                       class="buy-widget"
                       data-add-to-cart="true">
 
-                                                                <input type="hidden" name="_csrf_token" value="1ceb66ef4f8f40b7cabbf9bfc088.WzC_SNT8hghCmsaCp2ssbG-28gANN_5pb7Q5teiPxug.F3vxMJ-49TwT4qHgkCAbGVripTdeYJAcWcNK347Cv4QUSecljq_CUSbMrQ">
+                                                                <input type="hidden" name="_csrf_token" value="79cd3c8488173caf.L1_XKygQSwD4lS5Z8YJBJbnPEjhFniS4PLn0YTJGjow.YTyFHXlyHXCM4lYBnLINF_r9Sm4w6BL5ROOTGAEio-5nDbx6bUUhLbv5bw">
                     
                             
                                                                                 <input type="hidden"
@@ -7644,31 +7650,31 @@ www.henle.com
                             <input type="hidden"
                                    name="redirectParameters"
                                    data-redirect-parameters="true"
-                                   value='{"productId": "6cd577d41cdced1183e8002248d4798d"}'>
+                                   value='{"productId": "221fe4561cdced1183e8002248d4798d"}'>
                         
                                                                 <input type="hidden"
-                                   name="lineItems[6cd577d41cdced1183e8002248d4798d][id]"
-                                   value="6cd577d41cdced1183e8002248d4798d">
+                                   name="lineItems[221fe4561cdced1183e8002248d4798d][id]"
+                                   value="221fe4561cdced1183e8002248d4798d">
                             <input type="hidden"
-                                   name="lineItems[6cd577d41cdced1183e8002248d4798d][referencedId]"
-                                   value="6cd577d41cdced1183e8002248d4798d">
+                                   name="lineItems[221fe4561cdced1183e8002248d4798d][referencedId]"
+                                   value="221fe4561cdced1183e8002248d4798d">
                             <input type="hidden"
-                                   name="lineItems[6cd577d41cdced1183e8002248d4798d][type]"
+                                   name="lineItems[221fe4561cdced1183e8002248d4798d][type]"
                                    value="product">
                             <input type="hidden"
-                                   name="lineItems[6cd577d41cdced1183e8002248d4798d][stackable]"
+                                   name="lineItems[221fe4561cdced1183e8002248d4798d][stackable]"
                                    value="1">
                             <input type="hidden"
-                                   name="lineItems[6cd577d41cdced1183e8002248d4798d][removable]"
+                                   name="lineItems[221fe4561cdced1183e8002248d4798d][removable]"
                                    value="1">
                             <input type="hidden"
-                                   name="lineItems[6cd577d41cdced1183e8002248d4798d][quantity]"
+                                   name="lineItems[221fe4561cdced1183e8002248d4798d][quantity]"
                                    value="1">
                         
     
                                                         <input type="hidden"
                                    name="product-name"
-                                   value="Abt. 12, Bd. 1 | Lieder und Gesänge mit Klavierbegleitung">
+                                   value="Klaviersonaten, Band I, op. 2–22, Perahia-Ausgabe">
                         
 
     
@@ -7676,7 +7682,7 @@ www.henle.com
         <button class="btn btn-light btn-carticon cart-icon"
                 title="In den Warenkorb">
                     </button>
-        <a href="https://www.henle.de/de/Abt.-12-Bd.-1-Lieder-und-Gesaenge-mit-Klavierbegleitung/HN-4432"
+        <a href="https://www.henle.de/de/Klaviersonaten-Band-I-op.-2-22-Perahia-Ausgabe/HN-832"
             class="btn btn-block btn-buy"
             title="Details">
             Details
@@ -7692,15 +7698,56 @@ www.henle.com
 
             <input type="hidden"
                name="product-name"
-               value="Abt. 12, Bd. 1 | Lieder und Gesänge mit Klavierbegleitung">
+               value="Klaviersonaten, Band I, op. 2–22, Perahia-Ausgabe">
 
         <input type="hidden"
                name="product-id"
-               value="6cd577d41cdced1183e8002248d4798d">
+               value="221fe4561cdced1183e8002248d4798d">
                                                     </div>            
                                     </div>
                 
-                                    </div>
+                                                            <div class="mws-product-card-extended">
+                            <div class="mws-product-card-extended-title">
+                                <h5 class="card-extended-headline">Weitere Ausgaben dieses Titels</h5>
+                            </div>
+                            <div class="card-extended-content">
+                                <div class="card-extended-variations">
+                                                                            
+                                                                                
+                                                                                                                                                                
+                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <div class="variant-product-wrapper" id="2d1fe4561cdced1183e8002248d4798d">
+                                                    <a class="variant-product-link" href="https://www.henle.de/de/Klaviersonaten-Band-I-op.-2-22-Perahia-Ausgabe/HN-833"
+                                                       title="">
+                                                                                                                                                                                                    
+                        
+                        
+                
+                
+                
+                
+        
+                
+                    
+            <img src="https://www.henle.de/media/f3/a1/ff/1686743121/HN-0833-1686743120-sync.jpg"                             srcset="https://www.henle.de/thumbnail/f3/a1/ff/1686743121/HN-0833-1686743120-sync_1920x1920.jpg 1920w, https://www.henle.de/thumbnail/f3/a1/ff/1686743121/HN-0833-1686743120-sync_800x800.jpg 800w, https://www.henle.de/thumbnail/f3/a1/ff/1686743121/HN-0833-1686743120-sync_400x400.jpg 400w"                                 sizes="80px"
+                                                />
+                                                                                                                                                                                <h5 class="variant-product-title"></h5>
+                                                        <span class="variant-product-price">HN 833                                                                 <br/>75,00 €</span>
+                                                    </a>
+                                                </div>
+                                                                                                                                                                                                    <div class="variant-product-wrapper variant-product-library-wrapper">
+                                            <a href="http://www.henle-library.de/" target="henle-library" class="variant-product-link henle-library-link" data-id="800">
+                                                <img src="/bundles/mwshenletheme/images/g-henle-verlag_app.svg
+" alt="Digital" width="80" height="80" class="henle-library-image" data-was-processed="true">
+                                                <p class="henle-library-title variant-product-title">Digital</p>
+                                            </a>
+                                        </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                                                        </div>
         
                                                     </div>
                                                                                                             </div>
@@ -7968,7 +8015,7 @@ www.henle.com
                         'frontend.country.country-data': '/de/country/country-state-data',
                         'frontend.store-api.proxy': '/de/_proxy/store-api',
                     };
-                                        window.storeApiProxyToken = '3e3e88f73235fca42179c.NE9XG_FccAqekL0PUUcnDDozhoSNsReUBAWMcaCDzQo.cScuYrAfG0DT1YxtKQxQdVdD9_Te_njzRWa0OuHvnWgEehVZwxIaQ86n0g';
+                                        window.storeApiProxyToken = '18470354c3c0.S4QP0S4mTKf26nCZvK9hinc6VCZIzMzs93MkYb18Lw8.MfRrp0BlKvCC3EmvicoGvzhUMUgluI2CoktqNvAxZGMf8GGHekUUw8GCJQ';
                     window.salesChannelId = '0cb0024164614b6294ee03320d7f6070';
                 </script>
             

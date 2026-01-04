@@ -1,0 +1,12 @@
+User-Agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /ajax/
+Disallow: /api/
+Disallow: /datatable/
+Disallow: /media/
+Disallow: /private/
+Disallow: /_next/static/chunks/app/
+
+Sitemap: https://www.fantasylife.com/sitemap.xml
+Sitemap: https://www.fantasylife.com/news-sitemap.xml

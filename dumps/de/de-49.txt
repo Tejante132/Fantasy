@@ -1,222 +1,216 @@
-   #[1]Seite bearbeiten [2]Wikipedia (de) [3]Atom-Feed für „Wikipedia“
+   #Seite bearbeiten Wikipedia (de) Atom-Feed für „Wikipedia“
 
-   [4]Zum Inhalt springen
+   Zum Inhalt springen
 
    [ ] Hauptmenü
    Hauptmenü
    (BUTTON) In die Seitenleiste verschieben (BUTTON) Verbergen
    Navigation
-     * [5]Hauptseite
-     * [6]Themenportale
-     * [7]Zufälliger Artikel
-     * [8]Spezialseiten
+     * Hauptseite
+     * Themenportale
+     * Zufälliger Artikel
+     * Spezialseiten
 
    Mitmachen
-     * [9]Artikel verbessern
-     * [10]Neuen Artikel anlegen
-     * [11]Autorenportal
-     * [12]Hilfe
-     * [13]Letzte Änderungen
-     * [14]Kontakt
+     * Artikel verbessern
+     * Neuen Artikel anlegen
+     * Autorenportal
+     * Hilfe
+     * Letzte Änderungen
+     * Kontakt
 
-   [15]Wikipedia Die freie Enzyklopädie
-   [16]Suche
+   Wikipedia Die freie Enzyklopädie
+   Suche
    ____________________
    (BUTTON) Suchen
 
    [ ] Erscheinungsbild
 
-     * [17]Jetzt spenden
-     * [18]Benutzerkonto erstellen
-     * [19]Anmelden
+     * Jetzt spenden
+     * Benutzerkonto erstellen
+     * Anmelden
 
    [ ] Meine Werkzeuge
-     * [20]Jetzt spenden
-     * [21]Benutzerkonto erstellen
-     * [22]Anmelden
+     * Jetzt spenden
+     * Benutzerkonto erstellen
+     * Anmelden
 
 Inhaltsverzeichnis
 
    (BUTTON) In die Seitenleiste verschieben (BUTTON) Verbergen
-     * [23](Anfang)
-     * [24]1 Geschichte
-     * [25]2 Beispiele
-     * [26]3 Weblinks
-     * [27]4 Einzelnachweise
+     * (Anfang)
+     * 1 Geschichte
+     * 2 Beispiele
+     * 3 Weblinks
+     * 4 Einzelnachweise
 
    [ ] Inhaltsverzeichnis umschalten
 
 Fantasie (Kompositionsform)
 
    [ ] 33 Sprachen
-     * [28]العربية
-     * [29]Azərbaycanca
-     * [30]Български
-     * [31]Čeština
-     * [32]English
-     * [33]Esperanto
-     * [34]Español
-     * [35]Eesti
-     * [36]فارسی
-     * [37]Français
-     * [38]Gaeilge
-     * [39]Galego
-     * [40]עברית
-     * [41]Magyar
-     * [42]Հայերեն
-     * [43]Italiano
-     * [44]日本語
-     * [45]ქართული
-     * [46]Қазақша
-     * [47]한국어
-     * [48]Nederlands
-     * [49]Norsk nynorsk
-     * [50]Norsk bokmål
-     * [51]Polski
-     * [52]Русский
-     * [53]Simple English
-     * [54]Svenska
-     * [55]ไทย
-     * [56]Українська
-     * [57]Oʻzbekcha / ўзбекча
-     * [58]Tiếng Việt
-     * [59]中文
-     * [60]粵語
+     * العربية
+     * Azərbaycanca
+     * Български
+     * Čeština
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * فارسی
+     * Français
+     * Gaeilge
+     * Galego
+     * עברית
+     * Magyar
+     * Հայերեն
+     * Italiano
+     * 日本語
+     * ქართული
+     * Қазақша
+     * 한국어
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Polski
+     * Русский
+     * Simple English
+     * Svenska
+     * ไทย
+     * Українська
+     * Oʻzbekcha / ўзбекча
+     * Tiếng Việt
+     * 中文
+     * 粵語
 
-   [61]Links bearbeiten
+   Links bearbeiten
 
-     * [62]Artikel
-     * [63]Diskussion
+     * Artikel
+     * Diskussion
 
    [ ] Deutsch
 
-     * [64]Lesen
-     * [65]Bearbeiten
-     * [66]Quelltext bearbeiten
-     * [67]Versionsgeschichte
+     * Lesen
+     * Bearbeiten
+     * Quelltext bearbeiten
+     * Versionsgeschichte
 
    [ ] Werkzeuge
    Werkzeuge
    (BUTTON) In die Seitenleiste verschieben (BUTTON) Verbergen
    Aktionen
-     * [68]Lesen
-     * [69]Bearbeiten
-     * [70]Quelltext bearbeiten
-     * [71]Versionsgeschichte
+     * Lesen
+     * Bearbeiten
+     * Quelltext bearbeiten
+     * Versionsgeschichte
 
    Allgemein
-     * [72]Links auf diese Seite
-     * [73]Änderungen an verlinkten Seiten
-     * [74]Permanenter Link
-     * [75]Seiteninformationen
-     * [76]Artikel zitieren
-     * [77]Kurzlink
-     * [78]QR-Code herunterladen
+     * Links auf diese Seite
+     * Änderungen an verlinkten Seiten
+     * Permanenter Link
+     * Seiteninformationen
+     * Artikel zitieren
+     * Kurzlink
+     * QR-Code herunterladen
 
    Drucken/​exportieren
-     * [79]Als PDF herunterladen
-     * [80]Druckversion
+     * Als PDF herunterladen
+     * Druckversion
 
    In anderen Projekten
-     * [81]Wikidata-Datenobjekt
+     * Wikidata-Datenobjekt
 
    Erscheinungsbild
    (BUTTON) In die Seitenleiste verschieben (BUTTON) Verbergen
    aus Wikipedia, der freien Enzyklopädie
 
-   Eine Fantasie oder Phantasie, auch [82]griechisch-[83]lateinisch
-   Fantasia (von griechisch phantasia „Gedanke, Einfall,
-   Einbildung“^[84][1]), ist ein Musikstück, das keine feste Form wie etwa
-   die klassische [85]Sonate aufweist. Durch diese ungebundene Form wird
-   der emotionale und expressive Ausdruck des musikalischen Einfalls
-   betont. Dieser Einfall soll trotz seiner schriftlichen Fixierung den
-   Eindruck von [86]Spontaneität vermitteln, und daher kann man im
-   weiteren Sinne auch von einer notenschriftlich fixierten
-   [87]Improvisation sprechen.^[88][2]
+   Eine Fantasie oder Phantasie, auch griechisch-lateinisch Fantasia (von
+   griechisch phantasia „Gedanke, Einfall, Einbildung“^[1]), ist ein
+   Musikstück, das keine feste Form wie etwa die klassische Sonate
+   aufweist. Durch diese ungebundene Form wird der emotionale und
+   expressive Ausdruck des musikalischen Einfalls betont. Dieser Einfall
+   soll trotz seiner schriftlichen Fixierung den Eindruck von Spontaneität
+   vermitteln, und daher kann man im weiteren Sinne auch von einer
+   notenschriftlich fixierten Improvisation sprechen.^[2]
 
-   Der Name Fantasia taucht in der [89]Musik im 16. Jahrhundert auf und
-   wird durchgängig bis heute verwendet. Eine übergreifende einheitliche
-   musikalische Struktur ist nicht erkennbar.^[90][3] Seit dem ausgehenden
-   18. Jahrhundert ist die Fantasia ein Instrumentalstück, vor allem für
-   die sich im Laufe des 19. Jahrhunderts bezüglich ihrer
-   Ausdrucksmöglichkeiten weiterentwickelnden [91]Tasteninstrumente. Die
-   Grenzen zu ähnlichen Stücken wie [92]Impromptu oder einem
-   Variationensatz sind dabei fließend.
+   Der Name Fantasia taucht in der Musik im 16. Jahrhundert auf und wird
+   durchgängig bis heute verwendet. Eine übergreifende einheitliche
+   musikalische Struktur ist nicht erkennbar.^[3] Seit dem ausgehenden 18.
+   Jahrhundert ist die Fantasia ein Instrumentalstück, vor allem für die
+   sich im Laufe des 19. Jahrhunderts bezüglich ihrer
+   Ausdrucksmöglichkeiten weiterentwickelnden Tasteninstrumente. Die
+   Grenzen zu ähnlichen Stücken wie Impromptu oder einem Variationensatz
+   sind dabei fließend.
 
 Geschichte
 
-   [[93]Bearbeiten | [94]Quelltext bearbeiten]
+   [Bearbeiten | Quelltext bearbeiten]
 
    Der Begriff „Fantasia“ taucht im 16. Jahrhundert erstmals als Titel
    eines Musikwerkes auf und bezieht sich mehr auf den fantasievollen
    Umgang mit dem musikalischen Material als auf eine musikalische Gattung
-   und entsprach seinerzeit dem rein polyphonen [95]Ricercar, das sich im
-   17. Jahrhundert zur Fuge weiterentwickelte. In Deutschland war es vor
-   allem Orgelmusik, aber auch [96]polyphone^[97][4] oder zumindest
-   imitierende Elemente im Satz enthaltende^[98][5] [99]Lautenmusik aus
-   Spanien (vgl. [100]Tiento), Frankreich und Italien (vgl. auch
-   italienisch [101]„canzona“ und – bei [102]Joan Ambrosio Dalza oft von
-   virtuosem Charakter^[103][6] – „tastar de corde“). Als Bezeichnung für
-   solche Musikstücke tauchte die Fantasie zuerst in Tabulaturen des
-   Vihuelisten [104]Luis Milán^[105][7] (etwa die vierstimmigen Werke
-   Fantasía del quarto tono und Fantasía de consonancias y redobles aus
-   dem Jahr 1536^[106][8] in der Sammlung El Maestro mit 40 Stücken mit
-   dem Titel Fantasia in verschiedenen Tonarten), bei [107]Luis de Narváez
-   (etwa Fantasia del quarto tono, aus dem Jahr 1538),^[108][9] bei
-   [109]Francesco da Milano,^[110][10] [111]Marco da L’Aquila^[112][11]
-   und Jacobo Albutio da Milano ([113]Giovanni Iacobo Albutio da
-   Milano)^[114][12] sowie Alberto da Mantova (Alberto de
-   [115]Ripa)^[116][13] und [117]Pietro Paolo Borrono,^[118][14] bei
-   [119]Melchior de Barberis (1549),^[120][15] [121]Alonso Mudarra und
-   [122]Miguel de Fuenllana (Orphenica lyra, 1554)^[123][16] sowie
-   Gitarrentabulaturen (von Gregor Brayssing, Quart livre de tabulature de
-   guiterre. Paris 1553)^[124][17] auf.^[125][18] In England, wo etwa
-   [126]Anthony Holborne,^[127][19] aber auch der Komponist und Lautenist
-   [128]John Dowland Fantasien für die Laute komponierte (vgl. auch
-   [129]John Dowland #Werk), etwa in [130]Robert Dowlands Werk Variety of
-   Lute Lesson von 1610 belegt^[131][20] belegt, wurde etwa von 1573 bis
-   1680 die Form des Fancy (Fantasy) in der [132]Kammermusik gepflegt.
-   Diese Musik entwickelte sich aus dem instrumentalen Vortrag von
-   [133]Motetten, die imitierend und variierend mit oder ohne Gesangstimme
-   fortgesponnen wurde. Die rein instrumentalen Fancy
-   ([134]Virginalkompositionen) finden sich in Sammlungen wie
-   [135]Fitzwilliam Virginal Book, unter anderem von [136]William Byrd. In
-   Frankreich gab [137]Pierre Phalèse Fantasien mit Hortulus Cytharae
-   (1570) von anonymen Autoren heraus.^[138][21] Einen ersten Höhepunkt
-   fand die Entwicklung in Italien mit den Fantasien von [139]Girolamo
-   Frescobaldi und den Kompositionen des Niederländers [140]Jan
-   Pieterszoon Sweelinck um 1610. Da die [141]Imitation ein wesentliches
-   Kompositionswerkzeug war, entstanden zahlreiche Echofantasien.
+   und entsprach seinerzeit dem rein polyphonen Ricercar, das sich im 17.
+   Jahrhundert zur Fuge weiterentwickelte. In Deutschland war es vor allem
+   Orgelmusik, aber auch polyphone^[4] oder zumindest imitierende Elemente
+   im Satz enthaltende^[5] Lautenmusik aus Spanien (vgl. Tiento),
+   Frankreich und Italien (vgl. auch italienisch „canzona“ und – bei Joan
+   Ambrosio Dalza oft von virtuosem Charakter^[6] – „tastar de corde“).
+   Als Bezeichnung für solche Musikstücke tauchte die Fantasie zuerst in
+   Tabulaturen des Vihuelisten Luis Milán^[7] (etwa die vierstimmigen
+   Werke Fantasía del quarto tono und Fantasía de consonancias y redobles
+   aus dem Jahr 1536^[8] in der Sammlung El Maestro mit 40 Stücken mit dem
+   Titel Fantasia in verschiedenen Tonarten), bei Luis de Narváez (etwa
+   Fantasia del quarto tono, aus dem Jahr 1538),^[9] bei Francesco da
+   Milano,^[10] Marco da L’Aquila^[11] und Jacobo Albutio da Milano
+   (Giovanni Iacobo Albutio da Milano)^[12] sowie Alberto da Mantova
+   (Alberto de Ripa)^[13] und Pietro Paolo Borrono,^[14] bei Melchior de
+   Barberis (1549),^[15] Alonso Mudarra und Miguel de Fuenllana (Orphenica
+   lyra, 1554)^[16] sowie Gitarrentabulaturen (von Gregor Brayssing, Quart
+   livre de tabulature de guiterre. Paris 1553)^[17] auf.^[18] In England,
+   wo etwa Anthony Holborne,^[19] aber auch der Komponist und Lautenist
+   John Dowland Fantasien für die Laute komponierte (vgl. auch John
+   Dowland #Werk), etwa in Robert Dowlands Werk Variety of Lute Lesson von
+   1610 belegt^[20] belegt, wurde etwa von 1573 bis 1680 die Form des
+   Fancy (Fantasy) in der Kammermusik gepflegt. Diese Musik entwickelte
+   sich aus dem instrumentalen Vortrag von Motetten, die imitierend und
+   variierend mit oder ohne Gesangstimme fortgesponnen wurde. Die rein
+   instrumentalen Fancy (Virginalkompositionen) finden sich in Sammlungen
+   wie Fitzwilliam Virginal Book, unter anderem von William Byrd. In
+   Frankreich gab Pierre Phalèse Fantasien mit Hortulus Cytharae (1570)
+   von anonymen Autoren heraus.^[21] Einen ersten Höhepunkt fand die
+   Entwicklung in Italien mit den Fantasien von Girolamo Frescobaldi und
+   den Kompositionen des Niederländers Jan Pieterszoon Sweelinck um 1610.
+   Da die Imitation ein wesentliches Kompositionswerkzeug war, entstanden
+   zahlreiche Echofantasien.
 
-   Eine bekannte Fantasia des Barockzeitalters stammt von [142]Silvius
-   Leopold Weiss. Im Barock waren auch Choralfantasien besonders beliebt,
-   dessen bekanntester Vertreter im deutschsprachigen Raum [143]Johann
-   Sebastian Bach ist. Diese Choralfantasien traten auch in Form eines
-   [144]Präludiums, zum Beispiel als Vorspiel vor [145]Bachs
-   [146]Leipziger Chorälen (Fantasia super: [147]Komm, Heiliger Geist,
-   Herre Gott) oder vor verschiedenen [148]Fugen, oder als [149]Toccata
-   auf. Auch seine [150]Inventionen und Sinfonien bezeichnete Bach in
-   früherer Ausgabe als Fantasia (im [151]Klavierbüchlein für Wilhelm
-   Friedemann Bach). Der Barockgitarrist [152]Gaspar Sanz verknüpfte 1674
-   die Fantasie mit dem Präludium.^[153][22]
+   Eine bekannte Fantasia des Barockzeitalters stammt von Silvius Leopold
+   Weiss. Im Barock waren auch Choralfantasien besonders beliebt, dessen
+   bekanntester Vertreter im deutschsprachigen Raum Johann Sebastian Bach
+   ist. Diese Choralfantasien traten auch in Form eines Präludiums, zum
+   Beispiel als Vorspiel vor Bachs Leipziger Chorälen (Fantasia super:
+   Komm, Heiliger Geist, Herre Gott) oder vor verschiedenen Fugen, oder
+   als Toccata auf. Auch seine Inventionen und Sinfonien bezeichnete Bach
+   in früherer Ausgabe als Fantasia (im Klavierbüchlein für Wilhelm
+   Friedemann Bach). Der Barockgitarrist Gaspar Sanz verknüpfte 1674 die
+   Fantasie mit dem Präludium.^[22]
 
-   Johann Sebastian Bachs Sohn [154]Carl Philipp Emanuel Bach beschreibt
-   in seinem [155]Versuch über die wahre Art das Clavier zu spielen von
-   1762, dass das Fantasieren und damit auch die Fantasie zum Spiel eines
+   Johann Sebastian Bachs Sohn Carl Philipp Emanuel Bach beschreibt in
+   seinem Versuch über die wahre Art das Clavier zu spielen von 1762, dass
+   das Fantasieren und damit auch die Fantasie zum Spiel eines
    Tasteninstruments dazugehört: „Wir haben oben ausgeführt, daß ein
    Clavieriste besonders durch Fantasien, welche nicht in
    auswendiggelernten Passagien oder gestohlnen Gedanken bestehen, sondern
    aus einer guten musikalischen Seele herkommen müssen, das sprechende,
    das hurtig überraschende von einem Affecte zum anderen, alleine
-   vorzüglich vor dem übrigen Ton-Künstlern ausüben kann“.^[156][23] Mit
-   diesem ungebundenen Stil und dem Hang zu Affekten stellt er die
-   Empfindsamkeit in den Vordergrund. Seine Fantasie in fis-Moll H.300
-   Wq.67 mit dem Untertitel „Carl Philipp Emanuel Bachs Empfindungen“
-   beginnt gebunden, d. h. mit fester Takteinteilung, aber diese fällt
-   zwischenzeitlich weg, so dass über eine längere Passage kein Taktstrich
-   im Notenbild vorhanden ist.
+   vorzüglich vor dem übrigen Ton-Künstlern ausüben kann“.^[23] Mit diesem
+   ungebundenen Stil und dem Hang zu Affekten stellt er die Empfindsamkeit
+   in den Vordergrund. Seine Fantasie in fis-Moll H.300 Wq.67 mit dem
+   Untertitel „Carl Philipp Emanuel Bachs Empfindungen“ beginnt gebunden,
+   d. h. mit fester Takteinteilung, aber diese fällt zwischenzeitlich weg,
+   so dass über eine längere Passage kein Taktstrich im Notenbild
+   vorhanden ist.
 
-   1802 definierte [157]Heinrich Christoph Koch in seinem „Musikalischen
+   1802 definierte Heinrich Christoph Koch in seinem „Musikalischen
    Lexikon“ Fantasien als Musikwerke, welche sich durch die Ausdruckskraft
    des Komponisten auszeichnen: „Fantasie. So nennet man das durch Töne
    ausgedrückte und gleichsam hingeworfene Spiel der sich ganz
@@ -238,16 +232,16 @@ Geschichte
    vollendeten Ganzen gearbeitetes Tonstück. Es verhält sich dabey wie mit
    den Zeichnungen in der Malerey, wo ebenfalls durch die Ausführung und
    vollendete Darstellung des Gemäldes nicht selten manche feinere Züge
-   des in der Zeichnung noch vorhandenen Ideals verloren gehen.“^[158][24]
+   des in der Zeichnung noch vorhandenen Ideals verloren gehen.“^[24]
 
-   Ebenso wie Koch unterscheidet [159]Gustav Schilling in seinem Lehrbuch
-   der allgemeinen Musikwissenschaft von 1840 frei fantasiert bzw.
+   Ebenso wie Koch unterscheidet Gustav Schilling in seinem Lehrbuch der
+   allgemeinen Musikwissenschaft von 1840 frei fantasiert bzw.
    improvisiert von den gebundenen, d. h. schriftlich fixierten Fantasien:
    „Erhält jener augenblickliche Einfall, jenes momentane Hingeben an die
    Thätigkeit versetzte Einbildungskraft, in feiner Aeßerung einen mehr
    lyrischen Schwung, so nennen wir das dadurch entstehende Tonwerk auch
    wohl Fantasie. Doch muß hier eine sogenannte freie von der gebundenen
-   oder geschriebenen Fantasie unterschieden werden.“^[160][25] Über die
+   oder geschriebenen Fantasie unterschieden werden.“^[25] Über die
    Besetzung gibt Schilling folgende Angaben: „Gewöhnlich sind solche
    gebundene (geschriebene) Fantasien, eben so wie die improvisierten
    freien, nur für ein Instrument bestimmt, mit oder ohne Begleitung, und
@@ -256,58 +250,56 @@ Geschichte
    Tonstücke für ein ganzes Orchester, in polyphonischer Form, zu
    componieren, so sehr weit treffender die Sinfonien an ihrer Stelle
    stehen und auch nicht durch wenige glückliche Versuche verdrängt werden
-   konnten.“^[161][26]
+   konnten.“^[26]
 
-   In der Zeit der Klassik finden sich Beispiele von Fantasien bei
-   [162]Mozart, [163]Schubert, [164]Schumann. [165]Beethoven nannte 1801
-   die sogenannte [166]Mondscheinsonate „Sonata quasi una Fantasia“. Sie
-   ist Julie Guicciardi gewidmet, in die Beethoven verliebt war und von
-   der er träumte sie zu heiraten.^[167][27] Hier bezieht sich die
-   Betitelung Fantasia auch wieder auf die Expressivität der Gefühle und
-   auf eine traumhafte Vorstellung. Diese Vorstellung ist in der Zeit der
-   Romantik häufiger anzutreffen.
+   In der Zeit der Klassik finden sich Beispiele von Fantasien bei Mozart,
+   Schubert, Schumann. Beethoven nannte 1801 die sogenannte
+   Mondscheinsonate „Sonata quasi una Fantasia“. Sie ist Julie Guicciardi
+   gewidmet, in die Beethoven verliebt war und von der er träumte sie zu
+   heiraten.^[27] Hier bezieht sich die Betitelung Fantasia auch wieder
+   auf die Expressivität der Gefühle und auf eine traumhafte Vorstellung.
+   Diese Vorstellung ist in der Zeit der Romantik häufiger anzutreffen.
 
    Eine andere Art der Fantasie gewinnt vor allem im 19. Jahrhundert an
-   Bedeutung in Form von Paraphrasen, beispielsweise von [168]Liszt oder
-   [169]Thalberg. Sie dienten in Zeiten, in denen Musik noch nicht
-   technisch reproduzierbar war, aber doch häufig in bürgerlichen Familien
-   ein Klavier vorhanden war, dazu, Musik hauptsächlich aus Opern einem
+   Bedeutung in Form von Paraphrasen, beispielsweise von Liszt oder
+   Thalberg. Sie dienten in Zeiten, in denen Musik noch nicht technisch
+   reproduzierbar war, aber doch häufig in bürgerlichen Familien ein
+   Klavier vorhanden war, dazu, Musik hauptsächlich aus Opern einem
    größeren Publikum jenseits der Opernbühne bekannt zu machen.
 
    An die Tradition, dass bei der Fantasia das poetische Moment die Form
-   bestimmt, knüpft u. a. [170]Frédéric Chopin mit seinem
-   [171]Fantaisie-Impromptu op. 66 von 1834 an.
+   bestimmt, knüpft u. a. Frédéric Chopin mit seinem Fantaisie-Impromptu
+   op. 66 von 1834 an.
 
-   Anfang des 20. Jahrhunderts setzten sich [172]Max Reger und
-   [173]Ferruccio Busoni in ihren Fantasien mit Bach künstlerisch
-   auseinander. Abgesehen von Orgelwerken wurde aber der Kompositionstitel
-   Fantasie in der Folgezeit seltener.
+   Anfang des 20. Jahrhunderts setzten sich Max Reger und Ferruccio Busoni
+   in ihren Fantasien mit Bach künstlerisch auseinander. Abgesehen von
+   Orgelwerken wurde aber der Kompositionstitel Fantasie in der Folgezeit
+   seltener.
 
 Beispiele
 
-   [[174]Bearbeiten | [175]Quelltext bearbeiten]
-   Fantasien für [176]Viola da gamba und [177]Violone, gespielt von
-   Phillip W. Serna
-   [178]Elway Bevin: Fantasie zu Browning à 3 (um 1570)
+   [Bearbeiten | Quelltext bearbeiten]
+   Fantasien für Viola da gamba und Violone, gespielt von Phillip W. Serna
+   Elway Bevin: Fantasie zu Browning à 3 (um 1570)
 
-   [179]Alfonso Ferrabosco der Ältere: Fantasie Di sei bassi
-   (um 1613–1619) [180]Alfonso Ferrabosco der Jüngere: Fantasie On the
-   [181]Hexachord à 4, VdGS Nr. 10 (um 1630)
-   [182]John Ward: Fantasie à 6, VdGS Nr. 1
-     * [183]Gregorio Howett, Fantasia per liuto
-     * [184]Jan Pieterszoon Sweelinck, Fantasia Chromatica, SwWV 258
-     * [185]Johann Sebastian Bach, Fantasien und Fugen, BWV 561–563
-     * Johann Sebastian Bach, [186]Chromatische Fantasie und Fuge d-Moll,
-       BWV 903 (1717–1723)
-     * [187]Georg Philipp Telemann, [188]Zwölf Fantasien für Viola da
-       Gamba solo, TWV 40:26–37 (1735)
-     * [189]Carl Philipp Emanuel Bach, Freie Fantasie (1783)
+   Alfonso Ferrabosco der Ältere: Fantasie Di sei bassi
+   (um 1613–1619) Alfonso Ferrabosco der Jüngere: Fantasie On the
+   Hexachord à 4, VdGS Nr. 10 (um 1630)
+   John Ward: Fantasie à 6, VdGS Nr. 1
+     * Gregorio Howett, Fantasia per liuto
+     * Jan Pieterszoon Sweelinck, Fantasia Chromatica, SwWV 258
+     * Johann Sebastian Bach, Fantasien und Fugen, BWV 561–563
+     * Johann Sebastian Bach, Chromatische Fantasie und Fuge d-Moll, BWV
+       903 (1717–1723)
+     * Georg Philipp Telemann, Zwölf Fantasien für Viola da Gamba solo,
+       TWV 40:26–37 (1735)
+     * Carl Philipp Emanuel Bach, Freie Fantasie (1783)
      * Carl Philipp Emanuel Bach, Freie Fantasie (1785)
-     * [190]Wolfgang Amadeus Mozart, Fantasie d-Moll, KV 397
-     * Wolfgang Amadeus Mozart, [191]Klavierfantasie c-Moll, KV 475
-     * [192]Ludwig van Beethoven, [193]Fantasie für Klavier, Chor und
-       Orchester kurz Chorfantasie c-Moll, op. 80 (1808)
-     * [194]Sigismund Thalberg, Fantaisie et Variations sur des differents
+     * Wolfgang Amadeus Mozart, Fantasie d-Moll, KV 397
+     * Wolfgang Amadeus Mozart, Klavierfantasie c-Moll, KV 475
+     * Ludwig van Beethoven, Fantasie für Klavier, Chor und Orchester kurz
+       Chorfantasie c-Moll, op. 80 (1808)
+     * Sigismund Thalberg, Fantaisie et Variations sur des differents
        motifs de l’opéra Euryanthe de C. M. v. Weber, op. 1
      * Sigismund Thalberg, Fantaisie et Variations sur un thème ecossais,
        op. 2
@@ -317,180 +309,172 @@ Beispiele
        de l’opéra Don Juan de Mozart, op. 14
      * Sigismund Thalberg, Grande fantaisie sur le Barbier de Séville,
        Opéra de Rossini, op. 63
-     * [195]Franz Schubert, Wandererfantasie D 760 (1822)
-     * Frédéric Chopin, [196]Fantaisie-Impromptu (1834)
-     * [197]Robert Schumann, [198]Fantasie C-Dur (1839)
-     * [199]Franz Lehár, [200]Eine Vision (Meine Jugend) (1907)
-     * [201]Franz Liszt, Fantasie über Themen aus Mozarts Figaro und Don
+     * Franz Schubert, Wandererfantasie D 760 (1822)
+     * Frédéric Chopin, Fantaisie-Impromptu (1834)
+     * Robert Schumann, Fantasie C-Dur (1839)
+     * Franz Lehár, Eine Vision (Meine Jugend) (1907)
+     * Franz Liszt, Fantasie über Themen aus Mozarts Figaro und Don
        Giovanni, S. 697 (1842)
      * Franz Liszt, Fantasie über ungarische Volksmelodien, S. 123 (1852)
-     * [202]Johannes Brahms, [203]Sieben Fantasien op. 116, (1892)
-     * [204]Max Reger, Choralfantasie über „[205]Ein feste Burg ist unser
-       Gott“, op. 27 (1898)
+     * Johannes Brahms, Sieben Fantasien op. 116, (1892)
+     * Max Reger, Choralfantasie über „Ein feste Burg ist unser Gott“, op.
+       27 (1898)
      * Max Reger, Fantasie und Fuge c-Moll, op. 29 (1898)
-     * Max Reger, [206]Drei Choralfantasien (Max Reger), op. 52 (1900)
-     * [207]Ferruccio Busoni, Indianische Fantasie BV 264, Op.44
+     * Max Reger, Drei Choralfantasien (Max Reger), op. 52 (1900)
+     * Ferruccio Busoni, Indianische Fantasie BV 264, Op.44
      * Ferruccio Busoni, Fantasia nach Johann Sebastian Bach, BV 253
        (1909)
      * Ferruccio Busoni, Fantasia contrappuntistica, BV 256 (1910)
-     * [208]Louis Vierne, 24 Pièces de fantaisie (1926/27)
-     * [209]Michael Radulescu, Choralphantasie über „Da Jesu an dem Kreuze
+     * Louis Vierne, 24 Pièces de fantaisie (1926/27)
+     * Michael Radulescu, Choralphantasie über „Da Jesu an dem Kreuze
        stund“ (1976)
-     * Michael Radulescu, „[210]O Mensch, bewein dein Sünde groß“ (1978)
-     * [211]Naji Hakim, „Fantaisie Celtique“ für Klavier und Orchester
-       (1985)
-     * [212]Fazıl Say, 3 Fantasiestücke, op. 2 (1993)
+     * Michael Radulescu, „O Mensch, bewein dein Sünde groß“ (1978)
+     * Naji Hakim, „Fantaisie Celtique“ für Klavier und Orchester (1985)
+     * Fazıl Say, 3 Fantasiestücke, op. 2 (1993)
      * Fazıl Say, Jazz-Fantasie über Mozarts Rondo Alla Turca, op. 5a
        (1993, revidiert 2003)
-     * [213]Sergio Antonio del Rio, Ensueños – una Fantasía
-       (1998)^[214][28]
-     * [215]Ludger Stühlmeyer, „[216]Super flumina Babylonis [An den
-       Wassern zu Babel]“. Fantasie in vier Teilen für Orgel nach einem
-       Aquarell von [217]Paul Klee (2019)
+     * Sergio Antonio del Rio, Ensueños – una Fantasía (1998)^[28]
+     * Ludger Stühlmeyer, „Super flumina Babylonis [An den Wassern zu
+       Babel]“. Fantasie in vier Teilen für Orgel nach einem Aquarell von
+       Paul Klee (2019)
      * Ludger Stühlmeyer, „Zehn Choralfantasien zum Weihnachtsfestkreis“
-       für Sopran, Violine und Orgel (2020)^[218][29]
+       für Sopran, Violine und Orgel (2020)^[29]
 
 Weblinks
 
-   [[219]Bearbeiten | [220]Quelltext bearbeiten]
-     * [221]Freie Noten diverser Fantasien
+   [Bearbeiten | Quelltext bearbeiten]
+     * Freie Noten diverser Fantasien
 
 Einzelnachweise
 
-   [[222]Bearbeiten | [223]Quelltext bearbeiten]
-    1. [224]↑ [225]Übersetzung, Lateinwörterbuch caesar.de
-    2. [226]↑ Fantasie. In: Der Brockhaus Musik. 2. Auflage. Mannheim
-       2001, S. 210.
-    3. [227]↑ Vgl. auch die Beschreibung von [228]Johann Christoph
-       Demantius aus dem Jahr 1632: „Fantasia oder Phantasie ist wenn
-       einer nach seinem eignem plesir und gefallen eine fugam an und in
-       die ander knüpffet und künstlich herfür bringet.“ Zitiert bei:
-       [229]Helmut Mönkemeyer (Hrsg.): Nürnberger Lautenbuch.
-       Handschriftliche Tabulaturensammlung um 1600 aus der Bibliothek des
-       Germanischen Nationalmuseums zu Nürnberg (Ms. 33748. Teil I) (= Die
-       Tabulatur. Band 23). Friedrich Hofmeister, Hofheim am Taunus 1979
-       (= FH. Band 4572), S. 2 (Vorwort).
-    4. [230]↑ Frances Mattingly und Reginald Smith Brindle: Vorwort zu
-       Antonio Casteliono: Intabolatura de Leuto de Diversi Autori.
-       (1536). Trascrizione in notazione moderna di Reginald Smith
-       Brindle. Edizioni Suvini Zerboni, Mailand (1974) 1978, S. XIII.
-    5. [231]↑ [232]Konrad Ragossnig: Handbuch der Gitarre und Laute.
-       Schott, Mainz 1978, [233]ISBN 3-7957-2329-9, S. 108.
-    6. [234]↑ [235]Helmut Mönkemeyer (Hrsg.): Die Tabulatur. Heft 6
-       ([236]Joan Ambrosio Dalza, Intabulatura de Lauto, [237]Petrucci,
-       1508. Teil I. Friedrich Hofmeister, Hofheim am Taunus 1967, S. 3, 7
-       und 10–11.
-    7. [238]↑ István Szabó (Hrsg.): Luis Milán (ca 1500–ca. 1561):
-       Complete Solo Works for Guitar. Sämtliche Solowerke für Gitarre: El
-       Maestro (1536). 2 Bände. Könemann Music, Budapest 2000 (= K. Band
-       156–157), [239]ISBN 963-9155-07-1 und [240]ISBN 963-9155-08-X, Band
-       1, S. 3–60, und Band 2, S. 6–51 und 70–95.
-    8. [241]↑ [242]Emilio Pujol (Hrsg.): Hispanae Citharae Ars Viva. Eine
-       Sammlung ausgewählter Gitarrenmusik aus alten Tabulaturen,
-       bearbeitet von Emilio Pujol. (spanisch, französisch, englisch und
-       deutsch) Schott, Mainz 1956 (= Gitarrenarchiv. Band 176), S. 4–7.
-    9. [243]↑ Wolfgang Lorch: Luys de Narváez. Acht Stücke aus der
+   [Bearbeiten | Quelltext bearbeiten]
+    1. ↑ Übersetzung, Lateinwörterbuch caesar.de
+    2. ↑ Fantasie. In: Der Brockhaus Musik. 2. Auflage. Mannheim 2001,
+       S. 210.
+    3. ↑ Vgl. auch die Beschreibung von Johann Christoph Demantius aus dem
+       Jahr 1632: „Fantasia oder Phantasie ist wenn einer nach seinem
+       eignem plesir und gefallen eine fugam an und in die ander knüpffet
+       und künstlich herfür bringet.“ Zitiert bei: Helmut Mönkemeyer
+       (Hrsg.): Nürnberger Lautenbuch. Handschriftliche
+       Tabulaturensammlung um 1600 aus der Bibliothek des Germanischen
+       Nationalmuseums zu Nürnberg (Ms. 33748. Teil I) (= Die Tabulatur.
+       Band 23). Friedrich Hofmeister, Hofheim am Taunus 1979 (= FH. Band
+       4572), S. 2 (Vorwort).
+    4. ↑ Frances Mattingly und Reginald Smith Brindle: Vorwort zu Antonio
+       Casteliono: Intabolatura de Leuto de Diversi Autori. (1536).
+       Trascrizione in notazione moderna di Reginald Smith Brindle.
+       Edizioni Suvini Zerboni, Mailand (1974) 1978, S. XIII.
+    5. ↑ Konrad Ragossnig: Handbuch der Gitarre und Laute. Schott, Mainz
+       1978, ISBN 3-7957-2329-9, S. 108.
+    6. ↑ Helmut Mönkemeyer (Hrsg.): Die Tabulatur. Heft 6 (Joan Ambrosio
+       Dalza, Intabulatura de Lauto, Petrucci, 1508. Teil I. Friedrich
+       Hofmeister, Hofheim am Taunus 1967, S. 3, 7 und 10–11.
+    7. ↑ István Szabó (Hrsg.): Luis Milán (ca 1500–ca. 1561): Complete
+       Solo Works for Guitar. Sämtliche Solowerke für Gitarre: El Maestro
+       (1536). 2 Bände. Könemann Music, Budapest 2000 (= K. Band 156–157),
+       ISBN 963-9155-07-1 und ISBN 963-9155-08-X, Band 1, S. 3–60, und
+       Band 2, S. 6–51 und 70–95.
+    8. ↑ Emilio Pujol (Hrsg.): Hispanae Citharae Ars Viva. Eine Sammlung
+       ausgewählter Gitarrenmusik aus alten Tabulaturen, bearbeitet von
+       Emilio Pujol. (spanisch, französisch, englisch und deutsch) Schott,
+       Mainz 1956 (= Gitarrenarchiv. Band 176), S. 4–7.
+    9. ↑ Wolfgang Lorch: Luys de Narváez. Acht Stücke aus der
        Vihuela-Tabulatur „Los seys libros del Delphin“ (= V&F. Band 412).
        Verlag Vogt & Fritz, Schweinfurt o. J., ISMN 979-0202600535, S.
        10–11.
-   10. [244]↑ [245]Reginald Smith Brindle (Hrsg.): Antonio Castelioni,
-       Intabolatura de Leuto de Diversi Autori. (Casteliono, Mailand 1536)
-       Edizioni Suvini Zerboni, Mailand 1978 (= Edizioni Suvini Zerboni.
-       Band 7922), S. 1–4, 39–42, 89–95 und 106–109 (Fantasia del Divino
+   10. ↑ Reginald Smith Brindle (Hrsg.): Antonio Castelioni, Intabolatura
+       de Leuto de Diversi Autori. (Casteliono, Mailand 1536) Edizioni
+       Suvini Zerboni, Mailand 1978 (= Edizioni Suvini Zerboni. Band
+       7922), S. 1–4, 39–42, 89–95 und 106–109 (Fantasia del Divino
        Francesco da Milano und vier weitere Fantasien.
-   11. [246]↑ Reginald Smith Brindle (Hrsg.): Antonio Castelioni,
-       Intabolatura de Leuto de Diversi Autori. 1978, S. 9–12, 49–52 und
-       96–99 (jeweils Fantasia).
-   12. [247]↑ Reginald Smith Brindle (Hrsg.): Antonio Castelioni,
-       Intabolatura de Leuto de Diversi Autori. 1978, S. IX–X, XII
-       (Giovanni Iacobo Albutio da Milano), XIII, XV–XVI (dort auch Hans
-       Jacob von Mailandt), XX und XXV sowie S. 53–56 (Fantasia) und
-       100–105 (Fantasia).
-   13. [248]↑ Reginald Smith Brindle (Hrsg.): Antonio Castelioni,
-       Intabolatura de Leuto de Diversi Autori. 1978, S. 5–8 (Fantasia),
-       42–48 (Fantasia)
-   14. [249]↑ Reginald Smith Brindle (Hrsg.): Antonio Castelioni,
-       Intabolatura de Leuto de Diversi Autori. 1978, S. 57–59 (Pietro
-       Paulo Borrono: Fantasia).
-   15. [250]↑ Melchior(e) de Barberis: Intabulatura di Liute. 1549. Vgl.
-       [251]Adalbert Quadt (Hrsg.): Gitarrenmusik des 16.–18.
-       Jahrhunderts. 4 Bände. Nach Tabulaturen herausgegeben. Deutscher
-       Verlag für Musik, Leipzig 1970–1984, Band 1, S. 1 (2 Fantasien) und
-       57 f.
-   16. [252]↑ Frederick Noad: The Renaissance Guitar. (= The Frederick
-       Noad Guitar Anthology. Teil 1) Ariel Publications, New York 1974;
-       Neudruck: Amsco Publications, New York / London / Sydney, UK
-       [253]ISBN 0-7119-0958-X, US [254]ISBN 0-8256-9950-9, S. 74 f. und
-       108 f.
-   17. [255]↑ Fantasia. In: [256]Heinz Teuchert (Hrsg.): Meister der
-       Renaissance. G. Ricordi & Co. Bühnen- und Musikverlag, München 1971
-       (= Ricordi. Sy. 2201, [257]ISBN 978-3-931788-33-9, S. 16; = Meine
-       ersten Gitarrenstücke. Heft 3)
-   18. [258]↑ Konrad Ragossnig: Handbuch der Gitarre und Laute. 1978,
-       S. 108.
-   19. [259]↑ Keiji Makuta: 51 selections for Lute in renaissance era.
-       Arranged for Guitar. Zen-On, Tokyo 1969, [260]ISBN 4-11-238540-4,
-       S. 72 (Fantasia).
-   20. [261]↑ Frederick Noad: The Renaissance Guitar. 1974, S. 111–113.
-   21. [262]↑ [263]Adalbert Quadt (Hrsg.): Gitarrenmusik des 16.–18.
-       Jahrhunderts. 4 Bände. Nach Tabulaturen herausgegeben. Deutscher
-       Verlag für Musik, Leipzig 1970–1984, Band 1, S. 4.
-   22. [264]↑ Jerry Willard (Hrsg.): The complete works of Gaspar Sanz. 2
-       Bände. Amsco Publications, New York 2006, [265]ISBN 0-8256-1695-6,
-       Band 1, S. 64–66 (Preludio y Fantasia).
-   23. [266]↑ Carl Philipp Emanuel Bach, Versuch über die wahre Art das
-       Clavier zu spielen, Leipzig 1787, S. 92.
-   24. [267]↑ Heinrich Christoph Koch, Art. „Fantasie“, in: ders.
+   11. ↑ Reginald Smith Brindle (Hrsg.): Antonio Castelioni, Intabolatura
+       de Leuto de Diversi Autori. 1978, S. 9–12, 49–52 und 96–99 (jeweils
+       Fantasia).
+   12. ↑ Reginald Smith Brindle (Hrsg.): Antonio Castelioni, Intabolatura
+       de Leuto de Diversi Autori. 1978, S. IX–X, XII (Giovanni Iacobo
+       Albutio da Milano), XIII, XV–XVI (dort auch Hans Jacob von
+       Mailandt), XX und XXV sowie S. 53–56 (Fantasia) und 100–105
+       (Fantasia).
+   13. ↑ Reginald Smith Brindle (Hrsg.): Antonio Castelioni, Intabolatura
+       de Leuto de Diversi Autori. 1978, S. 5–8 (Fantasia), 42–48
+       (Fantasia)
+   14. ↑ Reginald Smith Brindle (Hrsg.): Antonio Castelioni, Intabolatura
+       de Leuto de Diversi Autori. 1978, S. 57–59 (Pietro Paulo Borrono:
+       Fantasia).
+   15. ↑ Melchior(e) de Barberis: Intabulatura di Liute. 1549. Vgl.
+       Adalbert Quadt (Hrsg.): Gitarrenmusik des 16.–18. Jahrhunderts. 4
+       Bände. Nach Tabulaturen herausgegeben. Deutscher Verlag für Musik,
+       Leipzig 1970–1984, Band 1, S. 1 (2 Fantasien) und 57 f.
+   16. ↑ Frederick Noad: The Renaissance Guitar. (= The Frederick Noad
+       Guitar Anthology. Teil 1) Ariel Publications, New York 1974;
+       Neudruck: Amsco Publications, New York / London / Sydney, UK ISBN
+       0-7119-0958-X, US ISBN 0-8256-9950-9, S. 74 f. und 108 f.
+   17. ↑ Fantasia. In: Heinz Teuchert (Hrsg.): Meister der Renaissance. G.
+       Ricordi & Co. Bühnen- und Musikverlag, München 1971 (= Ricordi. Sy.
+       2201, ISBN 978-3-931788-33-9, S. 16; = Meine ersten Gitarrenstücke.
+       Heft 3)
+   18. ↑ Konrad Ragossnig: Handbuch der Gitarre und Laute. 1978, S. 108.
+   19. ↑ Keiji Makuta: 51 selections for Lute in renaissance era. Arranged
+       for Guitar. Zen-On, Tokyo 1969, ISBN 4-11-238540-4, S. 72
+       (Fantasia).
+   20. ↑ Frederick Noad: The Renaissance Guitar. 1974, S. 111–113.
+   21. ↑ Adalbert Quadt (Hrsg.): Gitarrenmusik des 16.–18. Jahrhunderts. 4
+       Bände. Nach Tabulaturen herausgegeben. Deutscher Verlag für Musik,
+       Leipzig 1970–1984, Band 1, S. 4.
+   22. ↑ Jerry Willard (Hrsg.): The complete works of Gaspar Sanz. 2
+       Bände. Amsco Publications, New York 2006, ISBN 0-8256-1695-6, Band
+       1, S. 64–66 (Preludio y Fantasia).
+   23. ↑ Carl Philipp Emanuel Bach, Versuch über die wahre Art das Clavier
+       zu spielen, Leipzig 1787, S. 92.
+   24. ↑ Heinrich Christoph Koch, Art. „Fantasie“, in: ders.
        „Musikalisches Lexikon“, Frankfurt am Main 1802, Spalte 554–555.
-   25. [268]↑ Gustav Schilling, Artikel „Fantasie“, derselbe, Lehrbuch der
+   25. ↑ Gustav Schilling, Artikel „Fantasie“, derselbe, Lehrbuch der
        allgemeinen Musikwissenschaft, Karlsruhe 1840, Seite 550–551.
-   26. [269]↑ Gustav Schilling, Artikel „Fantasie“, derselbe, Lehrbuch der
+   26. ↑ Gustav Schilling, Artikel „Fantasie“, derselbe, Lehrbuch der
        allgemeinen Musikwissenschaft, Karlsruhe 1840, S. 552.
-   27. [270]↑ [271]Website des Beethoven-Hauses Bonn ([272]Memento des
-       [273]Originals vom 2. April 2015 im [274]Internet Archive)  Info:
-       Der Archivlink wurde automatisch eingesetzt und noch nicht geprüft.
-       Bitte prüfe Original- und Archivlink gemäß [275]Anleitung und
-       entferne dann diesen
-       Hinweis.[276]@1[277]@2[278]Vorlage:Webachiv/IABot/www.beethoven-hau
-       s-bonn.de
-   28. [279]↑ [280]Website des Fabian Norman Verlags
-   29. [281]↑ Erschienen bei [282]Ries & Erler, Berlin 2020, ISMN
-       979-0-50254-149-1.
+   27. ↑ Website des Beethoven-Hauses Bonn (Memento des Originals vom 2.
+       April 2015 im Internet Archive)  Info: Der Archivlink wurde
+       automatisch eingesetzt und noch nicht geprüft. Bitte prüfe
+       Original- und Archivlink gemäß Anleitung und entferne dann diesen
+       Hinweis.@1@2Vorlage:Webachiv/IABot/www.beethoven-haus-bonn.de
+   28. ↑ Website des Fabian Norman Verlags
+   29. ↑ Erschienen bei Ries & Erler, Berlin 2020, ISMN 979-0-50254-149-1.
 
    Abgerufen von
-   „[283]https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositions
-   form)&oldid=260271396“
-   [284]Kategorie:
-     * [285]Musikalische Gattung
+   „https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)
+   &oldid=260271396“
+   Kategorie:
+     * Musikalische Gattung
 
    Versteckte Kategorie:
-     * [286]Wikipedia:Defekte Weblinks/Ungeprüfte Archivlinks 2023-12
+     * Wikipedia:Defekte Weblinks/Ungeprüfte Archivlinks 2023-12
 
      * Diese Seite wurde zuletzt am 3. Oktober 2025 um 10:54 Uhr
        bearbeitet.
-     * [287]Abrufstatistik · [288]Autoren
-       Der Text ist unter der Lizenz [289]„Creative-Commons Namensnennung
-       – Weitergabe unter gleichen Bedingungen“ verfügbar; Informationen
-       zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien
-       (etwa Bilder oder Videos) können im Regelfall durch Anklicken
-       dieser abgerufen werden. Möglicherweise unterliegen die Inhalte
-       jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website
-       erklären Sie sich mit den [290]Nutzungsbedingungen und der
-       [291]Datenschutzrichtlinie einverstanden.
+     * Abrufstatistik · Autoren
+       Der Text ist unter der Lizenz „Creative-Commons Namensnennung –
+       Weitergabe unter gleichen Bedingungen“ verfügbar; Informationen zu
+       den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa
+       Bilder oder Videos) können im Regelfall durch Anklicken dieser
+       abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils
+       zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären
+       Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie
+       einverstanden.
        Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation
        Inc.
 
-     * [292]Datenschutz
-     * [293]Über Wikipedia
-     * [294]Impressum
-     * [295]Verhaltenskodex
-     * [296]Entwickler
-     * [297]Statistiken
-     * [298]Stellungnahme zu Cookies
-     * [299]Mobile Ansicht
+     * Datenschutz
+     * Über Wikipedia
+     * Haftungsausschluss
+     * Impressum / Sicherheit
+     * Verhaltenskodex
+     * Entwickler
+     * Statistiken
+     * Stellungnahme zu Cookies
+     * Mobile Ansicht
 
-     * [300]Wikimedia Foundation
-     * [301]Powered by MediaWiki
+     * Wikimedia Foundation
+     * Powered by MediaWiki
 
    (BUTTON) Suche
    ____________________
@@ -498,319 +482,4 @@ Einzelnachweise
 
    [ ] Inhaltsverzeichnis umschalten
    Fantasie (Kompositionsform)
-   (BUTTON) 33 Sprachen [302]Abschnitt hinzufügen
-
-References
-
-   Visible links:
-   1. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&action=edit
-   2. https://de.wikipedia.org/w/rest.php/v1/search
-   3. https://de.wikipedia.org/w/index.php?title=Spezial:Letzte_Änderungen&feed=atom
-   4. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#bodyContent
-   5. https://de.wikipedia.org/wiki/Wikipedia:Hauptseite
-   6. https://de.wikipedia.org/wiki/Portal:Wikipedia_nach_Themen
-   7. https://de.wikipedia.org/wiki/Spezial:Zufällige_Seite
-   8. https://de.wikipedia.org/wiki/Spezial:Spezialseiten
-   9. https://de.wikipedia.org/wiki/Wikipedia:Beteiligen
-  10. https://de.wikipedia.org/wiki/Hilfe:Neuen_Artikel_anlegen
-  11. https://de.wikipedia.org/wiki/Wikipedia:Autorenportal
-  12. https://de.wikipedia.org/wiki/Hilfe:Übersicht
-  13. https://de.wikipedia.org/wiki/Spezial:Letzte_Änderungen
-  14. https://de.wikipedia.org/wiki/Wikipedia:Kontakt
-  15. https://de.wikipedia.org/wiki/Wikipedia:Hauptseite
-  16. https://de.wikipedia.org/wiki/Spezial:Suche
-  17. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=de.wikipedia.org&uselang=de
-  18. https://de.wikipedia.org/w/index.php?title=Spezial:Benutzerkonto_anlegen&returnto=Fantasie+(Kompositionsform)
-  19. https://de.wikipedia.org/w/index.php?title=Spezial:Anmelden&returnto=Fantasie+(Kompositionsform)
-  20. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=de.wikipedia.org&uselang=de
-  21. https://de.wikipedia.org/w/index.php?title=Spezial:Benutzerkonto_anlegen&returnto=Fantasie+(Kompositionsform)
-  22. https://de.wikipedia.org/w/index.php?title=Spezial:Anmelden&returnto=Fantasie+(Kompositionsform)
-  23. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)
-  24. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#Geschichte
-  25. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#Beispiele
-  26. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#Weblinks
-  27. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#Einzelnachweise
-  28. https://ar.wikipedia.org/wiki/فنتازية_(موسيقى)
-  29. https://az.wikipedia.org/wiki/Fantaziya_(musiqi)
-  30. https://bg.wikipedia.org/wiki/Фантазия_(музика)
-  31. https://cs.wikipedia.org/wiki/Fantazie_(skladba)
-  32. https://en.wikipedia.org/wiki/Fantasia_(musical_form)
-  33. https://eo.wikipedia.org/wiki/Fantazio_(muziko)
-  34. https://es.wikipedia.org/wiki/Fantasía_(música)
-  35. https://et.wikipedia.org/wiki/Fantaasia_(muusika)
-  36. https://fa.wikipedia.org/wiki/فانتازیا_(موسیقی)
-  37. https://fr.wikipedia.org/wiki/Fantaisie
-  38. https://ga.wikipedia.org/wiki/Fantaise
-  39. https://gl.wikipedia.org/wiki/Fantasía_(música)
-  40. https://he.wikipedia.org/wiki/פנטזיה_(מוזיקה)
-  41. https://hu.wikipedia.org/wiki/Fantázia_(zenemű)
-  42. https://hy.wikipedia.org/wiki/Ֆանտազիա_(երաժշտություն)
-  43. https://it.wikipedia.org/wiki/Fantasia_(musica)
-  44. https://ja.wikipedia.org/wiki/幻想曲
-  45. https://ka.wikipedia.org/wiki/ფანტაზია
-  46. https://kk.wikipedia.org/wiki/Фантазия
-  47. https://ko.wikipedia.org/wiki/환상곡
-  48. https://nl.wikipedia.org/wiki/Fantasie_(muziek)
-  49. https://nn.wikipedia.org/wiki/Fantasi_i_musikk
-  50. https://no.wikipedia.org/wiki/Fantasi_(musikk)
-  51. https://pl.wikipedia.org/wiki/Fantazja_(muzyka)
-  52. https://ru.wikipedia.org/wiki/Фантазия_(музыка)
-  53. https://simple.wikipedia.org/wiki/Fantasia_(music)
-  54. https://sv.wikipedia.org/wiki/Fantasi_(musikverk)
-  55. https://th.wikipedia.org/wiki/แฟนตาเซีย_(ดนตรี)
-  56. https://uk.wikipedia.org/wiki/Фантазія_(музика)
-  57. https://uz.wikipedia.org/wiki/Fantaziya_(musiqa)
-  58. https://vi.wikipedia.org/wiki/Fantasia
-  59. https://zh.wikipedia.org/wiki/幻想曲
-  60. https://zh-yue.wikipedia.org/wiki/幻想曲
-  61. https://www.wikidata.org/wiki/Special:EntityPage/Q836571#sitelinks-wikipedia
-  62. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)
-  63. https://de.wikipedia.org/wiki/Diskussion:Fantasie_(Kompositionsform)
-  64. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)
-  65. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&veaction=edit
-  66. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&action=edit
-  67. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&action=history
-  68. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)
-  69. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&veaction=edit
-  70. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&action=edit
-  71. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&action=history
-  72. https://de.wikipedia.org/wiki/Spezial:Linkliste/Fantasie_(Kompositionsform)
-  73. https://de.wikipedia.org/wiki/Spezial:Änderungen_an_verlinkten_Seiten/Fantasie_(Kompositionsform)
-  74. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&oldid=260271396
-  75. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&action=info
-  76. https://de.wikipedia.org/w/index.php?title=Spezial:Zitierhilfe&page=Fantasie_(Kompositionsform)&id=260271396&wpFormIdentifier=titleform
-  77. https://de.wikipedia.org/w/index.php?title=Spezial:URL-Kürzung&url=https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)
-  78. https://de.wikipedia.org/w/index.php?title=Spezial:QrCode&url=https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)
-  79. https://de.wikipedia.org/w/index.php?title=Spezial:DownloadAsPdf&page=Fantasie_(Kompositionsform)&action=show-download-screen
-  80. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&printable=yes
-  81. https://www.wikidata.org/wiki/Special:EntityPage/Q836571
-  82. https://de.wikipedia.org/wiki/Griechische_Sprache
-  83. https://de.wikipedia.org/wiki/Lateinische_Sprache
-  84. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-1
-  85. https://de.wikipedia.org/wiki/Sonate
-  86. https://de.wikipedia.org/wiki/Spontaneität
-  87. https://de.wikipedia.org/wiki/Improvisation_(Musik)
-  88. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-2
-  89. https://de.wikipedia.org/wiki/Musik_der_Renaissance
-  90. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-3
-  91. https://de.wikipedia.org/wiki/Tasteninstrument
-  92. https://de.wikipedia.org/wiki/Impromptu
-  93. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&veaction=edit&section=1
-  94. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&action=edit&section=1
-  95. https://de.wikipedia.org/wiki/Ricercar
-  96. https://de.wikipedia.org/wiki/Polyphonie
-  97. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-4
-  98. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-5
-  99. https://de.wikipedia.org/wiki/Laute
- 100. https://de.wikipedia.org/wiki/Tiento
- 101. https://de.wikipedia.org/wiki/Kanzone_(Musik)
- 102. https://de.wikipedia.org/wiki/Joan_Ambrosio_Dalza
- 103. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-6
- 104. https://de.wikipedia.org/wiki/Luis_Milán
- 105. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-7
- 106. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-8
- 107. https://de.wikipedia.org/wiki/Luis_de_Narváez
- 108. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-9
- 109. https://de.wikipedia.org/wiki/Francesco_da_Milano
- 110. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-10
- 111. https://de.wikipedia.org/wiki/Marco_Dall’Aquila
- 112. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-11
- 113. https://de.wikipedia.org/w/index.php?title=Giovanni_Giacopo_Albuzio&action=edit&redlink=1
- 114. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-12
- 115. https://de.wikipedia.org/wiki/Suzzara
- 116. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-13
- 117. https://de.wikipedia.org/wiki/Pietro_Paolo_Borrono
- 118. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-14
- 119. https://de.wikipedia.org/wiki/Melchiore_de_Barberiis
- 120. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-15
- 121. https://de.wikipedia.org/wiki/Alonso_Mudarra
- 122. https://de.wikipedia.org/wiki/Miguel_de_Fuenllana
- 123. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-16
- 124. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-17
- 125. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-18
- 126. https://de.wikipedia.org/wiki/Anthony_Holborne
- 127. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-19
- 128. https://de.wikipedia.org/wiki/John_Dowland
- 129. https://de.wikipedia.org/wiki/John_Dowland#Werk
- 130. https://de.wikipedia.org/wiki/Robert_Dowland
- 131. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-20
- 132. https://de.wikipedia.org/wiki/Kammermusik
- 133. https://de.wikipedia.org/wiki/Motette
- 134. https://de.wikipedia.org/wiki/Virginal
- 135. https://de.wikipedia.org/wiki/Fitzwilliam_Virginal_Book
- 136. https://de.wikipedia.org/wiki/William_Byrd
- 137. https://de.wikipedia.org/wiki/Pierre_Phalèse
- 138. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-21
- 139. https://de.wikipedia.org/wiki/Girolamo_Frescobaldi
- 140. https://de.wikipedia.org/wiki/Jan_Pieterszoon_Sweelinck
- 141. https://de.wikipedia.org/wiki/Imitation_(Musik)
- 142. https://de.wikipedia.org/wiki/Silvius_Leopold_Weiss
- 143. https://de.wikipedia.org/wiki/Johann_Sebastian_Bach
- 144. https://de.wikipedia.org/wiki/Präludium
- 145. https://de.wikipedia.org/wiki/Johann_Sebastian_Bach
- 146. https://de.wikipedia.org/wiki/Achtzehn_Choräle_(Bach)
- 147. https://de.wikipedia.org/wiki/Komm,_Heiliger_Geist,_Herre_Gott
- 148. https://de.wikipedia.org/wiki/Fuge_(Musik)
- 149. https://de.wikipedia.org/wiki/Toccata
- 150. https://de.wikipedia.org/wiki/Inventionen_und_Sinfonien
- 151. https://de.wikipedia.org/wiki/Klavierbüchlein_für_Wilhelm_Friedemann_Bach
- 152. https://de.wikipedia.org/wiki/Gaspar_Sanz
- 153. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-22
- 154. https://de.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
- 155. https://de.wikipedia.org/wiki/Versuch_über_die_wahre_Art_das_Clavier_zu_spielen
- 156. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-23
- 157. https://de.wikipedia.org/wiki/Heinrich_Christoph_Koch
- 158. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-24
- 159. https://de.wikipedia.org/wiki/Gustav_Schilling
- 160. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-25
- 161. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-26
- 162. https://de.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart
- 163. https://de.wikipedia.org/wiki/Franz_Schubert
- 164. https://de.wikipedia.org/wiki/Robert_Schumann
- 165. https://de.wikipedia.org/wiki/Ludwig_van_Beethoven
- 166. https://de.wikipedia.org/wiki/Klaviersonate_Nr._14_(Beethoven)
- 167. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-27
- 168. https://de.wikipedia.org/wiki/Franz_Liszt
- 169. https://de.wikipedia.org/wiki/Sigismund_Thalberg
- 170. https://de.wikipedia.org/wiki/Frédéric_Chopin
- 171. https://de.wikipedia.org/wiki/Fantaisie-Impromptu
- 172. https://de.wikipedia.org/wiki/Max_Reger
- 173. https://de.wikipedia.org/wiki/Ferruccio_Busoni
- 174. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&veaction=edit&section=2
- 175. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&action=edit&section=2
- 176. https://de.wikipedia.org/wiki/Viola_da_gamba
- 177. https://de.wikipedia.org/wiki/Violone
- 178. https://de.wikipedia.org/wiki/Elway_Bevin
- 179. https://de.wikipedia.org/wiki/Alfonso_Ferrabosco_der_Ältere
- 180. https://de.wikipedia.org/wiki/Alfonso_Ferrabosco_der_Jüngere
- 181. https://de.wikipedia.org/wiki/Hexachord
- 182. https://de.wikipedia.org/wiki/John_Ward_(Komponist)
- 183. https://de.wikipedia.org/w/index.php?title=Gregorio_Howett&action=edit&redlink=1
- 184. https://de.wikipedia.org/wiki/Jan_Pieterszoon_Sweelinck
- 185. https://de.wikipedia.org/wiki/Johann_Sebastian_Bach
- 186. https://de.wikipedia.org/wiki/Chromatische_Fantasie_und_Fuge_(Bach)
- 187. https://de.wikipedia.org/wiki/Georg_Philipp_Telemann
- 188. https://de.wikipedia.org/wiki/Zwölf_Fantasien_für_Viola_da_Gamba_solo
- 189. https://de.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
- 190. https://de.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart
- 191. https://de.wikipedia.org/wiki/Fantasie_No._4_(Mozart)
- 192. https://de.wikipedia.org/wiki/Ludwig_van_Beethoven
- 193. https://de.wikipedia.org/wiki/Fantasie_für_Klavier,_Chor_und_Orchester
- 194. https://de.wikipedia.org/wiki/Sigismund_Thalberg
- 195. https://de.wikipedia.org/wiki/Franz_Schubert
- 196. https://de.wikipedia.org/wiki/Fantaisie-Impromptu
- 197. https://de.wikipedia.org/wiki/Robert_Schumann
- 198. https://de.wikipedia.org/wiki/Fantasie_C-Dur_(Schumann)
- 199. https://de.wikipedia.org/wiki/Franz_Lehár
- 200. https://de.wikipedia.org/wiki/Eine_Vision_(Meine_Jugend)
- 201. https://de.wikipedia.org/wiki/Franz_Liszt
- 202. https://de.wikipedia.org/wiki/Johannes_Brahms
- 203. https://de.wikipedia.org/wiki/Sieben_Fantasien_op._116
- 204. https://de.wikipedia.org/wiki/Max_Reger
- 205. https://de.wikipedia.org/wiki/Ein_feste_Burg_ist_unser_Gott
- 206. https://de.wikipedia.org/wiki/Drei_Choralfantasien_(Max_Reger)
- 207. https://de.wikipedia.org/wiki/Ferruccio_Busoni
- 208. https://de.wikipedia.org/wiki/Louis_Vierne
- 209. https://de.wikipedia.org/wiki/Michael_Radulescu
- 210. https://de.wikipedia.org/wiki/O_Mensch,_bewein_dein_Sünde_groß
- 211. https://de.wikipedia.org/wiki/Naji_Hakim
- 212. https://de.wikipedia.org/wiki/Fazıl_Say
- 213. https://de.wikipedia.org/wiki/Sergio_Antonio_del_Rio
- 214. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-28
- 215. https://de.wikipedia.org/wiki/Ludger_Stühlmeyer
- 216. https://de.wikipedia.org/wiki/Psalm_137
- 217. https://de.wikipedia.org/wiki/Paul_Klee
- 218. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_note-29
- 219. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&veaction=edit&section=3
- 220. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&action=edit&section=3
- 221. http://kostenlose-klaviernoten.de/noten_fuer_klavier_solo/gattung_fantasie/nach_titel
- 222. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&veaction=edit&section=4
- 223. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&action=edit&section=4
- 224. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-1
- 225. http://www.frag-caesar.de/lateinwoerterbuch/fantasia-uebersetzung.html
- 226. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-2
- 227. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-3
- 228. https://de.wikipedia.org/wiki/Johann_Christoph_Demantius
- 229. https://de.wikipedia.org/wiki/Helmut_Mönkemeyer
- 230. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-4
- 231. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-5
- 232. https://de.wikipedia.org/wiki/Konrad_Ragossnig
- 233. https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/3795723299
- 234. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-6
- 235. https://de.wikipedia.org/wiki/Helmut_Mönkemeyer
- 236. https://de.wikipedia.org/wiki/Joan_Ambrosio_Dalza
- 237. https://de.wikipedia.org/w/index.php?title=Ottavio_Petrucci&action=edit&redlink=1
- 238. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-7
- 239. https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/9639155071
- 240. https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/963915508X
- 241. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-8
- 242. https://de.wikipedia.org/wiki/Emilio_Pujol
- 243. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-9
- 244. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-10
- 245. https://de.wikipedia.org/w/index.php?title=Reginald_Smith_Brindle&action=edit&redlink=1
- 246. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-11
- 247. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-12
- 248. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-13
- 249. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-14
- 250. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-15
- 251. https://de.wikipedia.org/wiki/Adalbert_Quadt
- 252. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-16
- 253. https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/071190958X
- 254. https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/0825699509
- 255. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-17
- 256. https://de.wikipedia.org/wiki/Heinz_Teuchert
- 257. https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/9783931788339
- 258. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-18
- 259. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-19
- 260. https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/4112385404
- 261. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-20
- 262. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-21
- 263. https://de.wikipedia.org/wiki/Adalbert_Quadt
- 264. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-22
- 265. https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/0825616956
- 266. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-23
- 267. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-24
- 268. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-25
- 269. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-26
- 270. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-27
- 271. https://web.archive.org/web/20150402140840/http://www.beethoven-haus-bonn.de/sixcms/detail.php?id=15112&template=werkseite_digitales_archiv_de&_eid=1502&_ug=Werke für Klavier zu 2 Händen&_werkid=27&_mid=Werke Ludwig van Beethovens&suchparameter=&_seite=1
- 272. https://de.wikipedia.org/wiki/Webarchivierung#Begrifflichkeiten
- 273. https://redirecter.toolforge.org/?url=http://www.beethoven-haus-bonn.de/sixcms/detail.php?id=15112&template=werkseite_digitales_archiv_de&_eid=1502&_ug=Werke%20f%C3%BCr%20Klavier%20zu%202%20H%C3%A4nden&_werkid=27&_mid=Werke%20Ludwig%20van%20Beethovens&suchparameter=&_seite=1
- 274. https://de.wikipedia.org/wiki/Internet_Archive
- 275. https://de.wikipedia.org/wiki/Benutzer:InternetArchiveBot/Anleitung/Archivlink
- 276. http://iabotmemento.invalid/http://www.beethoven-haus-bonn.de/sixcms/detail.php?id=15112&template=werkseite_digitales_archiv_de&_eid=1502&_ug=Werke für Klavier zu 2 Händen&_werkid=27&_mid=Werke Ludwig van Beethovens&suchparameter=&_seite=1
- 277. http://www.beethoven-haus-bonn.de/sixcms/detail.php?id=15112&template=werkseite_digitales_archiv_de&_eid=1502&_ug=Werke für Klavier zu 2 Händen&_werkid=27&_mid=Werke Ludwig van Beethovens&suchparameter=&_seite=1
- 278. https://de.wikipedia.org/w/index.php?title=Vorlage:Webachiv/IABot/www.beethoven-haus-bonn.de&action=edit&redlink=1
- 279. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-28
- 280. https://sites.google.com/view/fabiannormanverlag/produkte/ensueños-una-fantasía
- 281. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)#cite_ref-29
- 282. https://de.wikipedia.org/wiki/Ries_&_Erler
- 283. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&oldid=260271396
- 284. https://de.wikipedia.org/wiki/Wikipedia:Kategorien
- 285. https://de.wikipedia.org/wiki/Kategorie:Musikalische_Gattung
- 286. https://de.wikipedia.org/wiki/Kategorie:Wikipedia:Defekte_Weblinks/Ungeprüfte_Archivlinks_2023-12
- 287. https://pageviews.wmcloud.org/?pages=Fantasie_(Kompositionsform)&project=de.wikipedia.org
- 288. https://xtools.wmcloud.org/authorship/de.wikipedia.org/Fantasie_(Kompositionsform)?uselang=de
- 289. https://creativecommons.org/licenses/by-sa/4.0/deed.de
- 290. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de
- 291. https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/de
- 292. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/de
- 293. https://de.wikipedia.org/wiki/Wikipedia:Über_Wikipedia
- 294. https://de.wikipedia.org/wiki/Wikipedia:Impressum
- 295. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
- 296. https://developer.wikimedia.org/
- 297. https://stats.wikimedia.org/#/de.wikipedia.org
- 298. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
- 299. https://de.wikipedia.org/w/index.php?title=Fantasie_(Kompositionsform)&mobileaction=toggle_view_mobile
- 300. https://www.wikimedia.org/
- 301. https://www.mediawiki.org/
- 302. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)
-
-   Hidden links:
- 304. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)
- 305. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)
- 306. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)
- 307. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)
- 308. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)
- 309. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)
- 310. https://de.wikipedia.org/wiki/Fantasie_(Kompositionsform)
+   (BUTTON) 33 Sprachen Abschnitt hinzufügen

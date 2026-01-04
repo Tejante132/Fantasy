@@ -42,7 +42,7 @@
 		}
 		/* ]]> */
 	</script>
-	<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-1' href='/_static/??-eJxtjNsKwjAQRH/IuBYl4oP4LWm6hDSbbMhu8Pe1pSheXgbOcGbgXo3nolgUcjeVeohFYEatzqeNITMvMXVCgYbkFCdTWfSL9l5kB/8vKSZ8H6/0o4/E4TXIriXUWIIZXYOn+tks41u+Dmc72NPhYo/zAy/zS9w=&cssminify=yes' type='text/css' media='all' />
+	<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-1' href='/_static/??-eJxtjNsKwjAQBX/IuBYl4oP4LWm6hDSbTchu6O+rpSheHudwZmCpxhdWZIXcTaUeIgvMqNX5tDFIZ8hl6oQCDckpTqYW0S/ae5Ed/C9STPjurvRzH6mEl5BdS6iRgxldg8f1c3nKt3wdznawp8PFHuc74SdLeQ==&cssminify=yes' type='text/css' media='all' />
 <style id='wp-emoji-styles-inline-css'>
 
 	img.wp-smiley, img.emoji {
@@ -76,17 +76,17 @@
 .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
 /*# sourceURL=/wp-includes/css/classic-themes.min.css */
 </style>
-<link crossorigin='anonymous' rel='stylesheet' id='all-css-4-1' href='/_static/??-eJx9j8EOwjAIhl/IyvTgvBgfxXQtmZ2jbQrdfHxZll3U7ELgh48fYM7GpSgYBaiaPNY+RAaXCqpO2QroBKEPFkckHTs65gP8x+bgexTFecuN4HsfyWpjui4XZDYaKVQy8lQv3uMGlGzdy6i0rlgbQCnFrfmYMPpUwFZJZEWC+8GAi4OuhtHDhKVTaxWXN/m7Xo650+3UXprm3J6a6/ABpBt3RQ==&cssminify=yes' type='text/css' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-4-1' href='/_static/??-eJx9j8sOwkAIRX/IkTZGGxfGTzHzIHVq55GBaf18aZpu1HRD4MLhAsxZ2RQZI0OoKo+195HApoKih6wZZCKg8xpHDDJ2tEQH+I/N3vXIgtOWK8b3PpLFRhmTCxIpicHXoPgpXrTHDchZ25cSaV2xNoBq3HqPCaNLBXTlFDSztz8UULFgqh8dTFiMOIu4fEnf9XLLPdza7tI07fl66oYPKzZ26Q==&cssminify=yes' type='text/css' media='all' />
 <link rel='stylesheet' id='verbum-gutenberg-css-css' href='https://widgets.wp.com/verbum-block-editor/block-editor.css?ver=1738686361' media='all' />
 <link crossorigin='anonymous' rel='stylesheet' id='all-css-6-1' href='/_static/??/wp-content/mu-plugins/comment-likes/css/comment-likes.css,/i/noticons/noticons.css?m=1436783281j&cssminify=yes' type='text/css' media='all' />
 <link rel='stylesheet' id='hemingway-rewritten-fonts-css' href='https://fonts-api.wp.com/css?family=Raleway%3A400%2C300%2C700%7CLato%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' media='all' />
-<link crossorigin='anonymous' rel='stylesheet' id='all-css-8-1' href='/_static/??-eJyFj1ELwjAMhP+QNYypexJ/itQSa2ablDaj7N/biQ8DZb7dkXzHHdRknLAiK+gDIxZI0w2aIvbVziZjzaTtDkXngHtXyg5WUJxMCpMnLjCiJuueHw9RhOFK7MAjY6ZGlN/yK/RPkyXz3cbU5CRudcp4C+Kb9NC+VnYL8igmiLNKbcHamHuwlBf0Es/dcOqH49D1h/EF9dt6/w==&cssminify=yes' type='text/css' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-8-1' href='/_static/??-eJyFjtEKwjAMRX/IGsbUPYmfIl2JNbNNS9NS9vd24sNEmW/3kJzLhRqVCZyRM+Q7ehSIZYSWiG3Vs0pYE+V2B8mzw70R2cFK8kVFVyyxwIQ5avN4M0hhuBIbsMiYqAnyO351/hmydL7GqBpN8FuTEo4u2BYttK8VbkkWg3LB6EyBP0DdnKa0qBd/7oZTPxyHrj9MT3f6epw=&cssminify=yes' type='text/css' media='all' />
 <link crossorigin='anonymous' rel='stylesheet' id='print-css-9-1' href='/wp-content/mu-plugins/global-print/global-print.css?m=1465851035i&cssminify=yes' type='text/css' media='print' />
 <style id='jetpack-global-styles-frontend-style-inline-css'>
 :root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
 /*# sourceURL=jetpack-global-styles-frontend-style-inline-css */
 </style>
-<link crossorigin='anonymous' rel='stylesheet' id='all-css-12-1' href='/_static/??-eJyNjcEKwjAQRH/IuFRT6kX8FNkmS5K6yQY3Qfx7bfEiXrwM82B4A49qnJRGpUHupnIPqSgs1Cq624chi6zhO5OCRryTR++fW00l7J3qDv43XVNxoOISsmEJol/wY2uR8vs3WggsM/I6uOTzMI3Hw8lOg11eUT1JKA==&cssminify=yes' type='text/css' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-12-1' href='/_static/??-eJyNjcsKAjEMRX/IGtQZBxfip0hMS9sxTYppGfx7H7gRN+7ugcs5sFRHKi1Ig9Jd5R6zGMyhVaTrh8G6QFHfORhYwlvw6P39PbPENZmt4G/ROQuBKWVkxxrVvuBH1lIoz2waILJekF+HUzlupnG3nQ77YZwfuRJIaQ==&cssminify=yes' type='text/css' media='all' />
 <script type="text/javascript" id="jetpack_related-posts-js-extra">
 /* <![CDATA[ */
 var related_posts_js_options = {"post_heading":"h4"};
@@ -95,17 +95,17 @@ var related_posts_js_options = {"post_heading":"h4"};
 </script>
 <script type="text/javascript" id="wpcom-actionbar-placeholder-js-extra">
 /* <![CDATA[ */
-var actionbardata = {"siteID":"107282945","postID":"3685","siteURL":"https://hinterhand.wordpress.com","xhrURL":"https://hinterhand.wordpress.com/wp-admin/admin-ajax.php","nonce":"9869313ebc","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https://s0.wp.com/wp-content/js/wpcom-proxy-request.js?m=1513050504i&amp;ver=20211021","shortlink":"https://wp.me/p7g9c5-Xr","i18n":{"followedText":"Neue Beitr\u00e4ge von dieser Website erscheinen nun in deinem \u003Ca href=\"https://wordpress.com/reader\"\u003EReader\u003C/a\u003E","foldBar":"Diese Leiste einklappen","unfoldBar":"Diese Leiste aufklappen","shortLinkCopied":"Kurzlink in Zwischenablage kopiert"}};
+var actionbardata = {"siteID":"107282945","postID":"3685","siteURL":"https://hinterhand.wordpress.com","xhrURL":"https://hinterhand.wordpress.com/wp-admin/admin-ajax.php","nonce":"ca02e4fdf6","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https://s0.wp.com/wp-content/js/wpcom-proxy-request.js?m=1513050504i&amp;ver=20211021","shortlink":"https://wp.me/p7g9c5-Xr","i18n":{"followedText":"Neue Beitr\u00e4ge von dieser Website erscheinen nun in deinem \u003Ca href=\"https://wordpress.com/reader\"\u003EReader\u003C/a\u003E","foldBar":"Diese Leiste einklappen","unfoldBar":"Diese Leiste aufklappen","shortLinkCopied":"Kurzlink in Zwischenablage kopiert"}};
 //# sourceURL=wpcom-actionbar-placeholder-js-extra
 /* ]]> */
 </script>
 <script type="text/javascript" id="jetpack-mu-wpcom-settings-js-before">
 /* <![CDATA[ */
-var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s0.wp.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/moon/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/"};
+var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s0.wp.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/"};
 //# sourceURL=jetpack-mu-wpcom-settings-js-before
 /* ]]> */
 </script>
-<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJxdjVsKwjAQRTdkOrUQ/RKXInlREieZkJm0untbEFG/Lof7grUqR0VCEchdVexzLAwpSDXu/mbIRAVusTiwPaKHFtBI8KoSC//SkGMZEh/gazhtGRRVGz2e/55Fmj+3KzVvPCuHhjnwXnS5wjLtoli63erXfDmetR7H0zTp9AKmAkbK'></script>
+<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJxdjVsKwjAQRTdkOkYo7Y+4FMmLkphMhszE6u5tQUT9uhzuC1ZSrqIEFChdUe5LRIYUhIy7vRm4I1wjOrA9Zg8tZCPBK6os/EtDiTgkPsDXbtoyWRS1+nj+ezbX5fO61uaNZ+WyYQ68F10huJ92USzdbvVLOetpHI9aT/OcXlufRnE='></script>
 <script type="text/javascript" id="rlt-proxy-js-after">
 /* <![CDATA[ */
 	rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
@@ -236,7 +236,7 @@ var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 10728294
 			};
 
 		</script>
-		<script id="cmp-configuration" type="application/configuration">{"gvlVersion":"137","consentLanguage":"DE","locale":"de","vendorsAll":"BSUAOIRKgQQoJAQI4BAAhAEBiAYACECAAABAACAAAAAAABEAEAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAABAAAIAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAAIAAAgAAgAAAAAABAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA","vendorsLegInterest":"BSUAEAQKgAAoAAAIAAAAgAAACAIACAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAIAAAgAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA","ajaxUrl":"\/wp-admin\/admin-ajax.php","ajaxNonce":"9edade916b","modulePath":"https:\/\/s0.wp.com\/wp-content\/blog-plugins\/wordads-classes\/js\/cmp\/v2\/","gvlPath":"https:\/\/public-api.wordpress.com\/wpcom\/v2\/sites\/107282945\/cmp\/v3\/vendors\/de\/","_":{"title":"Datenschutz & Cookies","intro":"Wir, WordPress.com, und unsere Werbepartner speichern Daten auf deinem Ger\u00e4t und\/oder greifen darauf zu. Au\u00dferdem verarbeiten wir personenbezogene Daten wie eindeutige Kennungen, Browseraktivit\u00e4ten und weitere Standardinformationen, die von deinem Ger\u00e4t gesendet werden, einschlie\u00dflich deiner IP-Adresse. Diese Informationen werden \u00fcber einen l\u00e4ngeren Zeitraum gesammelt und f\u00fcr personalisierte Werbung, die Messung von Werbeleistung, Zielgruppenforschung sowie die Entwicklung und Verbesserung von Angeboten im Rahmen unseres Werbeprogramms genutzt. Wenn das f\u00fcr dich in Ordnung ist, w\u00e4hle unten \u201eIch stimme zu\u201c aus. Anderenfalls kannst du unter \u201eWeitere Informationen\u201c mehr erfahren, deine Zustimmungspr\u00e4ferenzen f\u00fcr \u00fcber 50 verschiedene Werbeanbieter anpassen oder deine Zustimmung verweigern. Bitte beachte, dass deine Einstellungen f\u00fcr alle Websites im <a href=\"https:\/\/automattic.com\/cookies\/#user-ads-consent\" target=\"_blank\">WordPress.com-Netzwerk<\/a> gelten. Wenn du deine Meinung \u00e4nderst, kannst du deine Einstellungen jederzeit \u00fcber den Datenschutzlink unter der jeweiligen Werbeanzeige oder \u00fcber die Option \u201eDatenschutz\u201c in der Aktionsleiste rechts unten am Bildschirm aktualisieren. Schlie\u00dflich m\u00f6chten wir dich darauf hinweisen, dass unsere Partner bei berechtigtem Interesse auch ohne deine Zustimmung bestimmte Daten verarbeiten k\u00f6nnen, du dieser Verarbeitung jedoch widersprechen kannst. Klicke dazu auf \u201eWeitere Informationen\u201c und deaktiviere \u201eBerechtigtes Interesse\u201c unter dem jeweiligen Zweck oder Partner.","config":"Weitere Informationen","accept":"Ich stimme zu","viewPartners":"Partner anzeigen","error":"Leider ist ein unerwarteter Fehler aufgetreten. Bitte versuche es sp\u00e4ter noch einmal."}}</script><style type="text/css" id="custom-colors-css">.comment-metadata a { color: #6D6D6D;}
+		<script id="cmp-configuration" type="application/configuration">{"gvlVersion":"140","consentLanguage":"DE","locale":"de","vendorsAll":"BSUAOIRKgQQoJAQI4BAAhAEBiAYACECAAABAACAAAAAAABEAEAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAABAAAIAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAAIAAAgAAgAAAAAABAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA","vendorsLegInterest":"BSUAEAQKgAAoAAAIAAAAgAAACAIACAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAIAAAgAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA","ajaxUrl":"\/wp-admin\/admin-ajax.php","ajaxNonce":"e92888d868","modulePath":"https:\/\/s0.wp.com\/wp-content\/blog-plugins\/wordads-classes\/js\/cmp\/v2\/","gvlPath":"https:\/\/public-api.wordpress.com\/wpcom\/v2\/sites\/107282945\/cmp\/v3\/vendors\/de\/","_":{"title":"Datenschutz & Cookies","intro":"Wir, WordPress.com, und unsere Werbepartner speichern Daten auf deinem Ger\u00e4t und\/oder greifen darauf zu. Au\u00dferdem verarbeiten wir personenbezogene Daten wie eindeutige Kennungen, Browseraktivit\u00e4ten und weitere Standardinformationen, die von deinem Ger\u00e4t gesendet werden, einschlie\u00dflich deiner IP-Adresse. Diese Informationen werden \u00fcber einen l\u00e4ngeren Zeitraum gesammelt und f\u00fcr personalisierte Werbung, die Messung von Werbeleistung, Zielgruppenforschung sowie die Entwicklung und Verbesserung von Angeboten im Rahmen unseres Werbeprogramms genutzt. Wenn das f\u00fcr dich in Ordnung ist, w\u00e4hle unten \u201eIch stimme zu\u201c aus. Anderenfalls kannst du unter \u201eWeitere Informationen\u201c mehr erfahren, deine Zustimmungspr\u00e4ferenzen f\u00fcr \u00fcber 50 verschiedene Werbeanbieter anpassen oder deine Zustimmung verweigern. Bitte beachte, dass deine Einstellungen f\u00fcr alle Websites im <a href=\"https:\/\/automattic.com\/cookies\/#user-ads-consent\" target=\"_blank\">WordPress.com-Netzwerk<\/a> gelten. Wenn du deine Meinung \u00e4nderst, kannst du deine Einstellungen jederzeit \u00fcber den Datenschutzlink unter der jeweiligen Werbeanzeige oder \u00fcber die Option \u201eDatenschutz\u201c in der Aktionsleiste rechts unten am Bildschirm aktualisieren. Schlie\u00dflich m\u00f6chten wir dich darauf hinweisen, dass unsere Partner bei berechtigtem Interesse auch ohne deine Zustimmung bestimmte Daten verarbeiten k\u00f6nnen, du dieser Verarbeitung jedoch widersprechen kannst. Klicke dazu auf \u201eWeitere Informationen\u201c und deaktiviere \u201eBerechtigtes Interesse\u201c unter dem jeweiligen Zweck oder Partner.","config":"Weitere Informationen","accept":"Ich stimme zu","viewPartners":"Partner anzeigen","error":"Leider ist ein unerwarteter Fehler aufgetreten. Bitte versuche es sp\u00e4ter noch einmal."}}</script><style type="text/css" id="custom-colors-css">.comment-metadata a { color: #6D6D6D;}
 .sep { color: #6D6D6D;}
 th,td { border-color: #dddddd;}
 th,td { border-color: rgba( 221, 221, 221, 0.5 );}
@@ -317,7 +317,7 @@ a,a:visited,a:hover,a:focus,a:active,.entry-title a:hover { color: #10759C;}
 		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
 	})();
 </script>
-<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-3' href='/_static/??-eJydjtsKg0AMRH+oGqy00ofSTykag0R3N8FkEf++ll6gb23fZobDYWDRAiU5JYeYCw154GQwkmuL07NDFElw5YTQBcHJwBZWmks028H3hih9DmSA7SzZKLyh1/Cr8HEpc+jBcmc4szrLBn+0MnL69+rC/UBu4KKFim3JfA10113iuWoO9ak51tV+vAFFyXy4&cssminify=yes' type='text/css' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-3' href='/_static/??-eJydjtsKwkAMRH/INtQL6oP4KdKmoaTd3YQmy+LfW/ECvqlvc4bhMFC0QklOySHmSkMeOBmM5Nri9GSwnODCCaELgpOBFVaaazRbwdeCKH0OZIDtLNkovDev4kff41Dm0C/YGc6szrJsP6iOnP48WrgfyA1ctFKxJZlfA91t53hq9rvN8dBsm/V4A009eyk=&cssminify=yes' type='text/css' media='all' />
 </head>
 
 <body class="wp-singular post-template-default single single-post postid-3685 single-format-standard custom-background wp-theme-pubhemingway-rewritten customizer-styles-applied jetpack-reblog-enabled has-marketing-bar has-marketing-bar-theme-hemingway-rewritten">
@@ -396,12 +396,12 @@ Ich lerne jeden Tag, mich von diesen Vorstellungen loszusagen und mehr und mehr 
 <p><strong>[Links]</strong><br />
 Hier ein Link von <a href="https://mama-minimalista.com/2017/10/11/lebt-wohl-ihr-suessen-babyschuhe/" target="_blank" rel="noopener">mama-minimalista</a>, den ich kurz darauf las und der mich zwar gleichsam etwas traurig stimmte, aber den ganzen Prozess sehr gut wiedergibt.</p>
 <p>Und einen sehr amüsanten Artikel von Herr Hund habe ich vor kurzem gelesen, der davon träumt <a href="https://hundstrueffel.wordpress.com/2017/10/13/laternenpfahlman/" target="_blank" rel="noopener">Laternenpfahlman</a> zu sein.</p>
-<div id="atatags-370373-69427339084f7">
+<div id="atatags-370373-695aba75cd3d9">
 		<script type="text/javascript">
 			__ATA = window.__ATA || {};
 			__ATA.cmd = window.__ATA.cmd || [];
 			__ATA.cmd.push(function() {
-				__ATA.initVideoSlot('atatags-370373-69427339084f7', {
+				__ATA.initVideoSlot('atatags-370373-695aba75cd3d9', {
 					sectionId: '370373',
 					format: 'inread'
 				});
@@ -425,7 +425,7 @@ Hier ein Link von <a href="https://mama-minimalista.com/2017/10/11/lebt-wohl-ihr
 				>
 				<span id="sharing-facebook-3685" hidden>Klick, um auf Facebook zu teilen (Wird in neuem Fenster geöffnet)</span>
 				<span>Facebook</span>
-			</a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-107282945-3685-6942733908aa1' data-src='//widgets.wp.com/likes/index.html?ver=20251217#blog_id=107282945&amp;post_id=3685&amp;origin=hinterhand.wordpress.com&amp;obj_id=107282945-3685-6942733908aa1' data-name='like-post-frame-107282945-3685-6942733908aa1' data-title='Liken oder rebloggen'><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Gefällt mir</span></span> <span class='loading'>Wird geladen …</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+			</a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-107282945-3685-695aba75cdc2a' data-src='//widgets.wp.com/likes/index.html?ver=20260104#blog_id=107282945&amp;post_id=3685&amp;origin=hinterhand.wordpress.com&amp;obj_id=107282945-3685-695aba75cdc2a' data-name='like-post-frame-107282945-3685-695aba75cdc2a' data-title='Liken oder rebloggen'><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Gefällt mir</span></span> <span class='loading'>Wird geladen …</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
 <div id='jp-relatedposts' class='jp-relatedposts' >
 	<h3 class="jp-relatedposts-headline"><em>Ähnliche Beiträge</em></h3>
 </div></div>			</div><!-- .entry-content -->
@@ -466,7 +466,7 @@ Hier ein Link von <a href="https://mama-minimalista.com/2017/10/11/lebt-wohl-ihr
 			<div class="comment-content"><p>Liebe Namika,<br />
 Danke für diesen tiefgehenden und schönen Artikel! Ja, es stimmt, es kann schwer sein, das „Fantasie-Ich“ auszumisten. Vorstellungen von sich selbst loszulassen. Ideale und auch Träume gehenzulassen. Das Schöne ist, dass dadurch wieder mehr Platz für das, was ist, entsteht. Oder für neues. Und wenn einen irgendwann wieder die Lust am Malen (Singen, Kinderkriegen)  packt &#8211; ist es kein Problem, sich wieder eine Staffelei (Noten, Erstausstattung) zuzulegen! Liebe Grüße<br />
 Mareike</p>
-<p id="comment-like-116" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://hinterhand.wordpress.com/2017/11/10/das-fantasie-ich-ausmisten/?like_comment=116&#038;_wpnonce=57aef1ff5a" class="comment-like-link needs-login" rel="nofollow" data-blog="107282945"><span>Like</span></a><span id="comment-like-count-116" class="comment-like-feedback">Gefällt <a href="#" class="view-likers" data-like-count="2">2 Personen</a></span></p>
+<p id="comment-like-116" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://hinterhand.wordpress.com/2017/11/10/das-fantasie-ich-ausmisten/?like_comment=116&#038;_wpnonce=ad63773c41" class="comment-like-link needs-login" rel="nofollow" data-blog="107282945"><span>Like</span></a><span id="comment-like-count-116" class="comment-like-feedback">Gefällt <a href="#" class="view-likers" data-like-count="2">2 Personen</a></span></p>
 </div>
 
 			<div class="comment-actions">
@@ -490,7 +490,7 @@ Mareike</p>
 habe Dank für den lieben Kommentar. Ich denke auch, das Loslassen dieser Fantastereien setzt sehr viel Raum frei den Blick neu einzustellen. Wie beim Fotografieren: Wir fokussieren uns auf das immer gleiche Objekt, nur weil es eben da ist. Durch die Wegnahme des Immergleichen, schärfen wir unser Bewusstsein fürs Neue und damit gleichzeitig den Wandel des Selbst.<br />
 Liebst,<br />
 Namika</p>
-<p id="comment-like-117" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://hinterhand.wordpress.com/2017/11/10/das-fantasie-ich-ausmisten/?like_comment=117&#038;_wpnonce=6cab524a7e" class="comment-like-link needs-login" rel="nofollow" data-blog="107282945"><span>Like</span></a><span id="comment-like-count-117" class="comment-like-feedback">Gefällt <a href="#" class="view-likers" data-like-count="2">2 Personen</a></span></p>
+<p id="comment-like-117" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="https://hinterhand.wordpress.com/2017/11/10/das-fantasie-ich-ausmisten/?like_comment=117&#038;_wpnonce=033c2b3a38" class="comment-like-link needs-login" rel="nofollow" data-blog="107282945"><span>Like</span></a><span id="comment-like-count-117" class="comment-like-feedback">Gefällt <a href="#" class="view-likers" data-like-count="2">2 Personen</a></span></p>
 </div>
 
 			<div class="comment-actions">
@@ -512,8 +512,8 @@ Namika</p>
 <div class="comment-form__verbum transparent"></div><div class="verbum-form-meta"><input type='hidden' name='comment_post_ID' value='3685' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
 
-			<input type="hidden" name="highlander_comment_nonce" id="highlander_comment_nonce" value="e5c8677ff0" />
-			<input type="hidden" name="verbum_show_subscription_modal" value="" /></div><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="6b8f4c0c20" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="240"/><script type="text/javascript">
+			<input type="hidden" name="highlander_comment_nonce" id="highlander_comment_nonce" value="804221fea4" />
+			<input type="hidden" name="verbum_show_subscription_modal" value="" /></div><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="4ad70c84e1" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="194"/><script type="text/javascript">
 /* <![CDATA[ */
 document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
 /* ]]> */
@@ -566,7 +566,7 @@ document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTi
 					<input type="hidden" name="source" value="https://hinterhand.wordpress.com/2017/11/10/das-fantasie-ich-ausmisten/"/>
 					<input type="hidden" name="sub-type" value="widget"/>
 					<input type="hidden" name="redirect_fragment" value="subscribe-blog"/>
-					<input type="hidden" id="_wpnonce" name="_wpnonce" value="2df2c0265a" />					<button type="submit"
+					<input type="hidden" id="_wpnonce" name="_wpnonce" value="70a603d161" />					<button type="submit"
 													class="wp-block-button__link"
 																	>
 						Abonnieren					</button>
@@ -743,7 +743,7 @@ document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTi
 					<input type="hidden" name="source" value="https://hinterhand.wordpress.com/2017/11/10/das-fantasie-ich-ausmisten/"/>
 					<input type="hidden" name="sub-type" value="widget"/>
 					<input type="hidden" name="redirect_fragment" value="subscribe-blog-2"/>
-					<input type="hidden" id="_wpnonce" name="_wpnonce" value="2df2c0265a" />					<button type="submit"
+					<input type="hidden" id="_wpnonce" name="_wpnonce" value="70a603d161" />					<button type="submit"
 													class="wp-block-button__link"
 																	>
 						Folgen					</button>
@@ -832,7 +832,7 @@ document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTi
 					<input type="hidden" name="source" value="https://hinterhand.wordpress.com/2017/11/10/das-fantasie-ich-ausmisten/"/>
 					<input type="hidden" name="sub-type" value="widget"/>
 					<input type="hidden" name="redirect_fragment" value="subscribe-blog-3"/>
-					<input type="hidden" id="_wpnonce" name="_wpnonce" value="2df2c0265a" />					<button type="submit"
+					<input type="hidden" id="_wpnonce" name="_wpnonce" value="70a603d161" />					<button type="submit"
 													class="wp-block-button__link"
 																	>
 						Folgen					</button>
@@ -864,7 +864,7 @@ document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTi
 <script type="speculationrules">
 {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/files/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/pub/hemingway-rewritten/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 </script>
-<script type="text/javascript" src="//0.gravatar.com/js/hovercards/hovercards.min.js?ver=202551924dcd77a86c6f1d3698ec27fc5da92b28585ddad3ee636c0397cf312193b2a1" id="grofiles-cards-js"></script>
+<script type="text/javascript" src="//0.gravatar.com/js/hovercards/hovercards.min.js?ver=202601924dcd77a86c6f1d3698ec27fc5da92b28585ddad3ee636c0397cf312193b2a1" id="grofiles-cards-js"></script>
 <script type="text/javascript" id="wpgroho-js-extra">
 /* <![CDATA[ */
 var WPGroHo = {"my_hash":""};
@@ -1150,7 +1150,7 @@ var WPGroHo = {"my_hash":""};
 										<input type="hidden" name="blog_id" value="107282945" />
 										<input type="hidden" name="source" value="https://hinterhand.wordpress.com/2017/11/10/das-fantasie-ich-ausmisten/" />
 										<input type="hidden" name="sub-type" value="actionbar-follow" />
-										<input type="hidden" id="_wpnonce" name="_wpnonce" value="2df2c0265a" />										<div class="actnbr-button-wrap">
+										<input type="hidden" id="_wpnonce" name="_wpnonce" value="70a603d161" />										<div class="actnbr-button-wrap">
 											<button type="submit" value="Anmelden">
 												Anmelden											</button>
 										</div>
@@ -1443,11 +1443,11 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 </script>
 <script type="text/javascript" id="verbum-settings-js-before">
 /* <![CDATA[ */
-window.VerbumComments = {"Log in or provide your name and email to leave a reply.":"Melde dich an oder gib deinen Namen und deine E-Mail-Adresse an, um uns zu antworten.","Log in or provide your name and email to leave a comment.":"Melde dich an oder gib deinen Namen und deine E-Mail-Adresse an, um einen Kommentar zu schreiben.","Receive web and mobile notifications for posts on this site.":"Erhalte Web- und Mobil-Benachrichtigungen \u00fcber neue Beitr\u00e4ge auf dieser Website.","Name":"Name","Email (address never made public)":"E-Mail (-Adresse wird niemals ver\u00f6ffentlicht)","Website (optional)":"Website (optional)","Leave a reply. (log in optional)":"Antworte uns. (Anmelden optional)","Leave a comment. (log in optional)":"Schreibe einen Kommentar. (Anmelden optional)","Log in to leave a reply.":"Melde dich an, um eine Antwort zu verfassen.","Log in to leave a comment.":"Melde dich an, um einen Kommentar zu schreiben.","Logged in via %s":"\u00dcber %s angemeldet","Log out":"Abmelden","Email":"E-Mail ","(Address never made public)":"(Adresse wird niemals ver\u00f6ffentlicht)","Instantly":"Sofort","Daily":"T\u00e4glich","Reply":"Antworten","Comment":"Kommentar","WordPress":"WordPress","Weekly":"W\u00f6chentlich","Notify me of new posts":"Bei neuen Beitr\u00e4gen benachrichtigen","Email me new posts":"Neue Beitr\u00e4ge per E-Mail zusenden","Email me new comments":"Neue Kommentare per E-Mail zusenden","Cancel":"Abbrechen","Write a comment...":"Verfasse einen Kommentar...","Write a reply...":"Schreibe eine Antwort\u00a0\u2026","Website":"Website","Optional":"Optional","We'll keep you in the loop!":"Mit uns bleibst du auf dem Laufenden!","Loading your comment...":"Dein Kommentar wird geladen\u00a0\u2026","Discover more from":"Entdecke mehr von Hinterhand","Subscribe now to keep reading and get access to the full archive.":"Jetzt abonnieren, um weiterzulesen und auf das gesamte Archiv zuzugreifen.","Continue reading":"Weiterlesen","Never miss a beat!":"Lass dir nichts entgehen!","Interested in getting blog post updates? Simply click the button below to stay in the loop!":"Hast du Interesse daran, Updates zu Blogbeitr\u00e4gen zu erhalten? Klicke einfach auf den Button unten, um nichts mehr zu verpassen!","Enter your email address":"Gib deine E-Mail-Adresse ein","Subscribe":"Abonnieren","Comment sent successfully":"Kommentar erfolgreich versandt","Save my name, email, and website in this browser for the next time I comment.":"Meinen Namen, E-Mail und Website in diesem Browser speichern, bis ich wieder kommentiere.","hovercardi18n":{"Edit your profile \u2192":"Bearbeite dein Profil \u2192","View profile \u2192":"Profil anzeigen\u00a0\u2192","Contact":"Kontakt","Send money":"Geld senden","Profile not found.":"Profil nicht gefunden.","Too Many Requests.":"Zu viele Anfragen.","Internal Server Error.":"Interner Serverfehler","Sorry, we are unable to load this Gravatar profile.":"Dieses Gravatar-Profil kann nicht geladen werden."},"siteId":107282945,"postId":3685,"mustLogIn":false,"requireNameEmail":true,"commentRegistration":false,"connectURL":"https://hinterhand.wordpress.com/public.api/connect/?action=request\u0026from_comments=yes","logoutURL":"https://hinterhand.wordpress.com/wp-login.php?action=logout\u0026_wpnonce=5775860984","homeURL":"https://hinterhand.wordpress.com/","subscribeToBlog":true,"subscribeToComment":true,"isJetpackCommentsLoggedIn":false,"jetpackUsername":"","jetpackUserId":0,"jetpackSignature":"","jetpackAvatar":"https://0.gravatar.com/avatar/?s=96\u0026amp;d=identicon\u0026amp;r=G","enableBlocks":true,"enableSubscriptionModal":true,"currentLocale":"de","isJetpackComments":false,"allowedBlocks":["core/paragraph","core/list","core/code","core/list-item","core/quote","core/image","core/embed","core/quote","core/code"],"embedNonce":"0cffb73f3e","verbumBundleUrl":"/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/moon/jetpack_vendor/automattic/jetpack-mu-wpcom/src/features/verbum-comments/dist/index.js","isRTL":false,"vbeCacheBuster":1738686361,"iframeUniqueId":0,"colorScheme":false}
+window.VerbumComments = {"Log in or provide your name and email to leave a reply.":"Melde dich an oder gib deinen Namen und deine E-Mail-Adresse an, um uns zu antworten.","Log in or provide your name and email to leave a comment.":"Melde dich an oder gib deinen Namen und deine E-Mail-Adresse an, um einen Kommentar zu schreiben.","Receive web and mobile notifications for posts on this site.":"Erhalte Web- und Mobil-Benachrichtigungen \u00fcber neue Beitr\u00e4ge auf dieser Website.","Name":"Name","Email (address never made public)":"E-Mail (-Adresse wird niemals ver\u00f6ffentlicht)","Website (optional)":"Website (optional)","Leave a reply. (log in optional)":"Antworte uns. (Anmelden optional)","Leave a comment. (log in optional)":"Schreibe einen Kommentar. (Anmelden optional)","Log in to leave a reply.":"Melde dich an, um eine Antwort zu verfassen.","Log in to leave a comment.":"Melde dich an, um einen Kommentar zu schreiben.","Logged in via %s":"\u00dcber %s angemeldet","Log out":"Abmelden","Email":"E-Mail ","(Address never made public)":"(Adresse wird niemals ver\u00f6ffentlicht)","Instantly":"Sofort","Daily":"T\u00e4glich","Reply":"Antworten","Comment":"Kommentar","WordPress":"WordPress","Weekly":"W\u00f6chentlich","Notify me of new posts":"Bei neuen Beitr\u00e4gen benachrichtigen","Email me new posts":"Neue Beitr\u00e4ge per E-Mail zusenden","Email me new comments":"Neue Kommentare per E-Mail zusenden","Cancel":"Abbrechen","Write a comment...":"Verfasse einen Kommentar...","Write a reply...":"Schreibe eine Antwort\u00a0\u2026","Website":"Website","Optional":"Optional","We'll keep you in the loop!":"Mit uns bleibst du auf dem Laufenden!","Loading your comment...":"Dein Kommentar wird geladen\u00a0\u2026","Discover more from":"Entdecke mehr von Hinterhand","Subscribe now to keep reading and get access to the full archive.":"Jetzt abonnieren, um weiterzulesen und auf das gesamte Archiv zuzugreifen.","Continue reading":"Weiterlesen","Never miss a beat!":"Lass dir nichts entgehen!","Interested in getting blog post updates? Simply click the button below to stay in the loop!":"Hast du Interesse daran, Updates zu Blogbeitr\u00e4gen zu erhalten? Klicke einfach auf den Button unten, um nichts mehr zu verpassen!","Enter your email address":"Gib deine E-Mail-Adresse ein","Subscribe":"Abonnieren","Comment sent successfully":"Kommentar erfolgreich versandt","Save my name, email, and website in this browser for the next time I comment.":"Meinen Namen, E-Mail und Website in diesem Browser speichern, bis ich wieder kommentiere.","hovercardi18n":{"Edit your profile \u2192":"Bearbeite dein Profil \u2192","View profile \u2192":"Profil anzeigen\u00a0\u2192","Contact":"Kontakt","Send money":"Geld senden","Profile not found.":"Profil nicht gefunden.","Too Many Requests.":"Zu viele Anfragen.","Internal Server Error.":"Interner Serverfehler","Sorry, we are unable to load this Gravatar profile.":"Dieses Gravatar-Profil kann nicht geladen werden."},"siteId":107282945,"postId":3685,"mustLogIn":false,"requireNameEmail":true,"commentRegistration":false,"connectURL":"https://hinterhand.wordpress.com/public.api/connect/?action=request\u0026from_comments=yes","logoutURL":"https://hinterhand.wordpress.com/wp-login.php?action=logout\u0026_wpnonce=26b225c6e6","homeURL":"https://hinterhand.wordpress.com/","subscribeToBlog":true,"subscribeToComment":true,"isJetpackCommentsLoggedIn":false,"jetpackUsername":"","jetpackUserId":0,"jetpackSignature":"","jetpackAvatar":"https://0.gravatar.com/avatar/?s=96\u0026amp;d=identicon\u0026amp;r=G","enableBlocks":true,"enableSubscriptionModal":true,"currentLocale":"de","isJetpackComments":false,"allowedBlocks":["core/paragraph","core/list","core/code","core/list-item","core/quote","core/image","core/embed","core/quote","core/code"],"embedNonce":"02d0c0f60c","verbumBundleUrl":"/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-mu-wpcom/src/features/verbum-comments/dist/index.js","isRTL":false,"vbeCacheBuster":1738686361,"iframeUniqueId":0,"colorScheme":false}
 //# sourceURL=verbum-settings-js-before
 /* ]]> */
 </script>
-<script type="text/javascript" src="/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/moon/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/verbum-comments/assets/dynamic-loader.js?m=1755005491i&amp;minify=false&amp;ver=adc3e7b923a66edb437b" id="verbum-dynamic-loader-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/verbum-comments/assets/dynamic-loader.js?m=1755011788i&amp;minify=false&amp;ver=adc3e7b923a66edb437b" id="verbum-dynamic-loader-js" defer="defer" data-wp-strategy="defer"></script>
 <script type="text/javascript" id="comment-like-js-extra">
 /* <![CDATA[ */
 var comment_like_text = {"loading":"Lade\u00a0\u2026","swipeUrl":"https://s0.wp.com/wp-content/mu-plugins/comment-likes/js/lib/swipe.js?m=1382645497i&amp;ver=20131008"};
@@ -1456,8 +1456,8 @@ var comment_like_text = {"loading":"Lade\u00a0\u2026","swipeUrl":"https://s0.wp.
 </script>
 <script type="text/javascript" id="jetpack-carousel-js-extra">
 /* <![CDATA[ */
-var jetpackSwiperLibraryPath = {"url":"/wp-content/mu-plugins/jetpack-plugin/moon/_inc/blocks/swiper.js"};
-var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"de","ajaxurl":"https://hinterhand.wordpress.com/wp-admin/admin-ajax.php","nonce":"f669121f2d","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Kommentar","post_comment":"Kommentar absenden","write_comment":"Verfasse einen Kommentar\u00a0\u2026","loading_comments":"Kommentare werden geladen\u00a0\u2026","image_label":"Bild im Vollbildmodus \u00f6ffnen.","download_original":"Bild in Originalgr\u00f6\u00dfe anschauen \u003Cspan class=\"photo-size\"\u003E{0}\u003Cspan class=\"photo-size-times\"\u003E\u00d7\u003C/span\u003E{1}\u003C/span\u003E","no_comment_text":"Stelle bitte sicher, das du mit deinem Kommentar ein bisschen Text \u00fcbermittelst.","no_comment_email":"Bitte eine E-Mail-Adresse angeben, um zu kommentieren.","no_comment_author":"Bitte deinen Namen angeben, um zu kommentieren.","comment_post_error":"Dein Kommentar konnte leider nicht abgeschickt werden. Bitte versuche es sp\u00e4ter erneut.","comment_approved":"Dein Kommentar wurde freigegeben.","comment_unapproved":"Dein Kommentar wartet auf Freischaltung.","camera":"Kamera","aperture":"Blende","shutter_speed":"Verschlusszeit","focal_length":"Brennweite","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https://hinterhand.wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Fhinterhand.wordpress.com%2F2017%2F11%2F10%2Fdas-fantasie-ich-ausmisten%2F","blog_id":"107282945","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"stats_query_args":"blog=107282945&v=wpcom&tz=1&user_id=0&subd=hinterhand","is_public":"1"};
+var jetpackSwiperLibraryPath = {"url":"/wp-content/mu-plugins/jetpack-plugin/sun/_inc/blocks/swiper.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"de","ajaxurl":"https://hinterhand.wordpress.com/wp-admin/admin-ajax.php","nonce":"0045c0aa3b","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Kommentar","post_comment":"Kommentar absenden","write_comment":"Verfasse einen Kommentar\u00a0\u2026","loading_comments":"Kommentare werden geladen\u00a0\u2026","image_label":"Bild im Vollbildmodus \u00f6ffnen.","download_original":"Bild in Originalgr\u00f6\u00dfe anschauen \u003Cspan class=\"photo-size\"\u003E{0}\u003Cspan class=\"photo-size-times\"\u003E\u00d7\u003C/span\u003E{1}\u003C/span\u003E","no_comment_text":"Stelle bitte sicher, das du mit deinem Kommentar ein bisschen Text \u00fcbermittelst.","no_comment_email":"Bitte eine E-Mail-Adresse angeben, um zu kommentieren.","no_comment_author":"Bitte deinen Namen angeben, um zu kommentieren.","comment_post_error":"Dein Kommentar konnte leider nicht abgeschickt werden. Bitte versuche es sp\u00e4ter erneut.","comment_approved":"Dein Kommentar wurde freigegeben.","comment_unapproved":"Dein Kommentar wartet auf Freischaltung.","camera":"Kamera","aperture":"Blende","shutter_speed":"Verschlusszeit","focal_length":"Brennweite","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https://hinterhand.wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Fhinterhand.wordpress.com%2F2017%2F11%2F10%2Fdas-fantasie-ich-ausmisten%2F","blog_id":"107282945","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"stats_query_args":"blog=107282945&v=wpcom&tz=1&user_id=0&subd=hinterhand","is_public":"1"};
 //# sourceURL=jetpack-carousel-js-extra
 /* ]]> */
 </script>
@@ -1473,7 +1473,7 @@ window.JetpackScriptData = {"site":{"host":"wpcom","is_wpcom_platform":true}};
 //# sourceURL=jetpack-script-data-js-before
 /* ]]> */
 </script>
-<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJydUu1uwyAMfKERuq3d+mfao1QO0NQJX8ImWd9+tE2iLKqmrb+As+8OH8ghChU8G8/SZRFtbtCTVMG5AgmLnSHZroCqpSe5IPLJuNIWcy3LDn0zwFkkMyTkUr/Q78D/F/HQYwOM4QEudRjL5X0njkFlEkf8mkTQK5v1zzGTifZcFaW1U21DM6c0hKRBk1AWiEYBF2X/clmqOnttzVpgEXJrOILqRIGGWJzHgnQh+Kl46I3XIUnIHBwwo5ppF08mWWe0egZJJYwsNDD8wXlpeCg5jGIKUshk7Nw3AfcSWchCh+QMi9dqc5ObgGO6NutfuJPFLYrV8fFR6ATJlEfS5+u2fI1xhk/38fz+ttvv9tvtpv0GArokbg=='></script>
+<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJydUu1uwyAMfKERuq3d+mfao1QO0NQJX8ImWd9+tE2iLKqmrb+As+8OH8ghChU8G8/SZRFtbtCTVMG5AgmLnSHZroCqpSe5IPLJuNIWcy3LDn0zwFkkMyTkUr/Q78D/F/HQYwOM4QEudRjL5X0njkFlEkf8mkTQK5v1zzGTifZcFaW1U21DM6c0hKRBk1AWiEYBF2X/clmqOnttzVpgEXJrOILqRIGGWJzHgqTsp9qhN16HJCFzcMCMamZdLJlkndHqGSSVMLLQwPAH44XfoaQwailIIZOxc9sE3MtjoQodkjMsXqvNTW4CjunarH/hTha3IFbHhyehEyRTXkifr9vyL8YRPt3H8/vbbr/bb7eb9huLYSNF'></script>
 <script type="text/javascript" id="sharing-js-js-after">
 /* <![CDATA[ */
 var windowOpen;
@@ -1555,7 +1555,7 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
 //# sourceURL=/wp-includes/js/wp-emoji-loader.min.js
 /* ]]> */
 </script>
-	<iframe src='https://widgets.wp.com/likes/master.html?ver=20251217#ver=20251217&#038;lang=de' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<iframe src='https://widgets.wp.com/likes/master.html?ver=20260104#ver=20260104&#038;lang=de' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
 	<div id='likes-other-gravatars' role="dialog" aria-hidden="true" tabindex="-1"><div class="likes-text"><span>%d</span></div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
 	<script src="//stats.wp.com/w.js?68" defer></script> <script type="text/javascript">
 _tkq = window._tkq || [];
@@ -1563,12 +1563,12 @@ _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'107282945','blog_tz':'1','user_lang':'de','blog_lang':'de','user_id':'0'}]);
 		// Prevent sending pageview tracking from WP-Admin pages.
 		_stq.push(['view', {'blog':'107282945','v':'wpcom','tz':'1','user_id':'0','post':'3685','subd':'hinterhand'}]);
-		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRZS03JixUXy5Sc1NlcUZteXlfNHhuQS9QS01oblYzRFkuPz94WThsZlk5X2VOQ19HUytKUD9EUEUwW2s3cEhSSExfNHFMajN0aXo3WkdXZ1pTLVZyUSs2RC1IeFVpREh4Ulo/QzFob3g3aFt4NEZ0Vm5IODl4L1ZITis5cVpzTTJoL213UkM0elB0Y25SNkh0PXk5cSYxWE4lVyxCRHM5WmJvJWsrNUNGRlpWU01BYnBVUklNajBlS0tJU2R4dVU0XUZwLm10a3VmZzB3d0tZJmlqW3ZbTVk5Yy5iZiZvbUYmMXNDW2t6P3B1dTIyWDFnc3QsPVkveHhPdHxNclhHTFlsd1pdK3RkWz9GZml6Yi1tMixORSVwOHR8VG9ZS0JFRGNFazBkRXIxX2dOPWZNcVJDaT9VTWJQQ0tyT05WOE9qX1E/ZHB4ZHlPemN0b0hnZy5aaCtENDJ4bzBsRUFYZ2hOUVA/Ng=='}]);
+		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRZS03JixUXy5Sc1NlcUZteXlfNHhuQS9QS01oblYzRFkuPz94WThsZlk5X2VOQ19HUytKUD9EUEUwW2s3cEhSSExfNHFMajN0aXo3WkdXZ1pTLVZyUSs2RC1IeFVpREh4Ulo/QzFob3g3aFt4NEZ0Vm5IODl4L1ZITis5cVpzTTJoL213UkM0elB0Y25SNkh0PXk5cSYxWE4lVyxCRHM5WmJvJWsrNUNGRlpWZFc4VVBDXzFaZSVPUjF5aXE4T1gzVGNXbjk1MkZoV35Ma2xjYlFQJVN+LW4tcGFOa0NRXXQxWEJLJSw/R0VhbiwzQ3FIVEV3NGp2a2ZjUFVaM1ViNldSa2lETWVsJXwuclpxJnYrNGtDT35ZMGVSVi1GfDdGdjVZeH45bX5JeSVXP1EwLDA4UEVlNj9FMSxbM1pTSnYtZEpHQS4vXz95TVB8dnI9T3xQQndYUWNRZUZVPUI='}]);
 _stq.push([ 'clickTrackerInit', '107282945', '3685' ]);
 </script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
 <meta id="bilmur" property="bilmur:data" content="" data-provider="wordpress.com" data-service="simple" data-site-tz="Europe/Berlin" data-custom-props="{&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/hemingway-rewritten&quot;,&quot;wptheme_is_block&quot;:&quot;0&quot;}"  >
-		<script defer src="/wp-content/js/bilmur.min.js?i=17&amp;m=202551"></script> 	<div id="marketingbar" class="marketing-bar noskim  "><div class="marketing-bar-text">Erstelle eine Website wie diese mit WordPress.com</div><a class="marketing-bar-button" href="https://wordpress.com/start/de?ref=marketing_bar">Jetzt starten</a><a class="marketing-bar-link" tabindex="-1" aria-label="Erstelle deine Website auf WordPress.com" href="https://wordpress.com/start/de?ref=marketing_bar"></a></div>		<script type="text/javascript">
+		<script defer src="/wp-content/js/bilmur.min.js?i=17&amp;m=202601"></script> 	<div id="marketingbar" class="marketing-bar noskim  "><div class="marketing-bar-text">Erstelle eine Website wie diese mit WordPress.com</div><a class="marketing-bar-button" href="https://wordpress.com/start/de?ref=marketing_bar">Jetzt starten</a><a class="marketing-bar-link" tabindex="-1" aria-label="Erstelle deine Website auf WordPress.com" href="https://wordpress.com/start/de?ref=marketing_bar"></a></div>		<script type="text/javascript">
 			window._tkq = window._tkq || [];
 
 			window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_impression', {"is_current_user_blog_owner":false} ] );
@@ -1595,7 +1595,7 @@ _stq.push([ 'clickTrackerInit', '107282945', '3685' ]);
 	const promises = {};
 	const urls = {
 		'wp-polyfill': '/wp-includes/js/dist/vendor/wp-polyfill.min.js?m=1764669441i&ver=3.15.0',
-		'verbum': '/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/moon/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/verbum-comments/verbum-comments.js?m=1765405478i&minify=false&ver=87a45c8962a448c74c1e'
+		'verbum': '/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/verbum-comments/verbum-comments.js?m=1765400473i&minify=false&ver=87a45c8962a448c74c1e'
 	};
 	const loaders = {
 		'verbum': () => {

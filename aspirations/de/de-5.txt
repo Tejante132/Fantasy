@@ -255,7 +255,7 @@ Template argument size: 0/2097152 bytes
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key d01067a4:pcache:idhash:7778-0!1!0!!de!2!edit=0 and timestamp 20251216185402 -->
+<!-- Saved in parser cache with key d01067a4:pcache:idhash:7778-0!1!0!!de!2!edit=0 and timestamp 20260104105904 -->
 <div class="printfooter">
 Von „<a href="https://medlexi.de/Fantasie">https://medlexi.de/Fantasie</a>“</div>
                 <!-- end content -->

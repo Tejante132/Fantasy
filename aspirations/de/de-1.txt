@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Phantasie – Wikipedia</title>
-<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )dewikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgRequestId":"04115db9-d3eb-48a9-9e2f-83dad84afca7","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Phantasie","wgTitle":"Phantasie","wgCurRevisionId":261579366,"wgRevisionId":261579366,"wgArticleId":55767,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Belege fehlen","Allgemeine Psychologie","Ontologie","Namensgeber für einen Asteroiden"],"wgPageViewLanguage":"de","wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgRelevantPageName":"Phantasie","wgRelevantArticleId":55767,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":261579366,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":7000,"wgWMEPageLengthBucket":2,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1356411","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseMetricsPlatformExtension":false,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )dewikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgRequestId":"28de2e8c-df6a-4d27-998e-bdd0e90d5141","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Phantasie","wgTitle":"Phantasie","wgCurRevisionId":261579366,"wgRevisionId":261579366,"wgArticleId":55767,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Belege fehlen","Allgemeine Psychologie","Ontologie","Namensgeber für einen Asteroiden"],"wgPageViewLanguage":"de","wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgRelevantPageName":"Phantasie","wgRelevantArticleId":55767,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":261579366,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":7000,"wgWMEPageLengthBucket":2,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1356411","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgGEUseMetricsPlatformExtension":false,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
 RLSTATE={"ext.gadget.citeRef":"ready","ext.gadget.defaultPlainlinks":"ready","ext.gadget.dewikiCommonHide":"ready","ext.gadget.dewikiCommonLayout":"ready","ext.gadget.dewikiCommonStyle":"ready","ext.gadget.dewikiDarkmode":"ready","ext.gadget.dewikiResponsive":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.wikimediamessages.styles":"ready","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.createNewSection","ext.gadget.navileisteAutocollapse","ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.xLab"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 }];});});</script>
@@ -12,7 +12,7 @@ RLSTATE={"ext.gadget.citeRef":"ready","ext.gadget.defaultPlainlinks":"ready","ex
 <meta name="ResourceLoaderDynamicStyles" content="">
 <link rel="stylesheet" href="/w/load.php?lang=de&amp;modules=ext.gadget.citeRef%2CdefaultPlainlinks%2CdewikiCommonHide%2CdewikiCommonLayout%2CdewikiCommonStyle%2CdewikiDarkmode%2CdewikiResponsive&amp;only=styles&amp;skin=vector-2022">
 <link rel="stylesheet" href="/w/load.php?lang=de&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
-<meta name="generator" content="MediaWiki 1.46.0-wmf.5">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.7">
 <meta name="referrer" content="origin">
 <meta name="referrer" content="origin-when-cross-origin">
 <meta name="robots" content="max-image-preview:standard">
@@ -680,13 +680,13 @@ Normdaten&#160;(Sachbegriff): <a href="/wiki/Gemeinsame_Normdatei" title="Gemein
 </div></div>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.eqiad.main‐86dd7857b7‐lwdqg
-Cached time: 20251217135025
-Cache expiry: 1811
+Parsed by mw‐web.codfw.main‐ff4bf79f8‐xn9pf
+Cached time: 20260104105459
+Cache expiry: 1815
 Reduced expiry: true
 Complications: [show‐toc]
-CPU time usage: 0.143 seconds
-Real time usage: 0.210 seconds
+CPU time usage: 0.144 seconds
+Real time usage: 0.228 seconds
 Preprocessor visited node count: 1027/1000000
 Revision size: 6539/2097152 bytes
 Post‐expand include size: 20433/2097152 bytes
@@ -695,29 +695,29 @@ Highest expansion depth: 11/100
 Expensive parser function count: 9/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 5711/5000000 bytes
-Lua time usage: 0.061/10.000 seconds
-Lua memory usage: 3041982/52428800 bytes
+Lua time usage: 0.063/10.000 seconds
+Lua memory usage: 3033795/52428800 bytes
 Number of Wikibase entities loaded: 0/500
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  172.634      1 -total
- 27.59%   47.633      1 Vorlage:GrcS
- 22.02%   38.020      2 Vorlage:Literatur
- 15.73%   27.163      4 Vorlage:Hinweisbaustein
- 11.28%   19.475      1 Vorlage:Webarchiv
- 10.36%   17.879      1 Vorlage:Weiterleitungshinweis
-  9.76%   16.853      1 Vorlage:Normdaten
-  6.87%   11.855      1 Vorlage:Wikidata-Registrierung
-  5.57%    9.619      2 Vorlage:Wiktionary
-  4.32%    7.465      1 Vorlage:Belege_fehlen
+100.00%  191.377      1 -total
+ 29.14%   55.763      1 Vorlage:GrcS
+ 20.55%   39.335      2 Vorlage:Literatur
+ 16.99%   32.522      4 Vorlage:Hinweisbaustein
+ 11.18%   21.402      1 Vorlage:Webarchiv
+ 10.53%   20.143      1 Vorlage:Weiterleitungshinweis
+  9.65%   18.469      1 Vorlage:Normdaten
+  7.01%   13.413      1 Vorlage:Wikidata-Registrierung
+  6.05%   11.586      1 Vorlage:Belege_fehlen
+  4.93%    9.428      2 Vorlage:Wiktionary
 -->
 
-<!-- Saved in parser cache with key dewiki:stable-pcache:55767:|#|:idhash:canonical and timestamp 20251217135025 and revision id 261579366. Rendering was triggered because: unknown
+<!-- Saved in parser cache with key dewiki:stable-pcache:55767:|#|:idhash:canonical and timestamp 20260104105459 and revision id 261579366. Rendering was triggered because: unknown
  -->
 </div><noscript><img src="https://de.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
 <div class="printfooter" data-nosnippet="">Abgerufen von „<a dir="ltr" href="https://de.wikipedia.org/w/index.php?title=Phantasie&amp;oldid=261579366">https://de.wikipedia.org/w/index.php?title=Phantasie&amp;oldid=261579366</a>“</div></div>
-					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Wikipedia:Kategorien" title="Wikipedia:Kategorien">Kategorien</a>: <ul><li><a href="/wiki/Kategorie:Allgemeine_Psychologie" title="Kategorie:Allgemeine Psychologie">Allgemeine Psychologie</a></li><li><a href="/wiki/Kategorie:Ontologie" title="Kategorie:Ontologie">Ontologie</a></li><li><a href="/wiki/Kategorie:Namensgeber_f%C3%BCr_einen_Asteroiden" title="Kategorie:Namensgeber für einen Asteroiden">Namensgeber für einen Asteroiden</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Versteckte Kategorie: <ul><li><a href="/wiki/Kategorie:Wikipedia:Belege_fehlen" title="Kategorie:Wikipedia:Belege fehlen">Wikipedia:Belege fehlen</a></li></ul></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Wikipedia:Kategorien" title="Wikipedia:Kategorien">Kategorien</a>: <ul><li><a href="/wiki/Kategorie:Allgemeine_Psychologie" title="Kategorie:Allgemeine Psychologie">Allgemeine Psychologie</a></li><li><a href="/wiki/Kategorie:Ontologie" title="Kategorie:Ontologie">Ontologie</a></li><li><a href="/wiki/Kategorie:Namensgeber_f%C3%BCr_einen_Asteroiden" title="Kategorie:Namensgeber für einen Asteroiden">Namensgeber für einen Asteroiden</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Versteckte Kategorie: <ul><li><a href="/wiki/Kategorie:Wikipedia:Belege_fehlen" title="Kategorie:Wikipedia:Belege fehlen">Wikipedia:Belege fehlen</a></li></ul></div></div>
 				</div>
 			</main>
 			
@@ -736,7 +736,8 @@ Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.</div></li>
 	<ul id="footer-places">
 	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/de">Datenschutz</a></li>
 	<li id="footer-places-about"><a href="/wiki/Wikipedia:%C3%9Cber_Wikipedia">Über Wikipedia</a></li>
-	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:Impressum">Impressum</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:Haftungsausschluss">Haftungsausschluss</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information/de">Impressum / Sicherheit</a></li>
 	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Verhaltenskodex</a></li>
 	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Entwickler</a></li>
 	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/de.wikipedia.org">Statistiken</a></li>
@@ -856,7 +857,7 @@ Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.</div></li>
 		
 	</ul>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-86dd7857b7-lwdqg","wgBackendResponseTime":395,"wgPageParseReport":{"limitreport":{"cputime":"0.143","walltime":"0.210","ppvisitednodes":{"value":1027,"limit":1000000},"revisionsize":{"value":6539,"limit":2097152},"postexpandincludesize":{"value":20433,"limit":2097152},"templateargumentsize":{"value":2883,"limit":2097152},"expansiondepth":{"value":11,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5711,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  172.634      1 -total"," 27.59%   47.633      1 Vorlage:GrcS"," 22.02%   38.020      2 Vorlage:Literatur"," 15.73%   27.163      4 Vorlage:Hinweisbaustein"," 11.28%   19.475      1 Vorlage:Webarchiv"," 10.36%   17.879      1 Vorlage:Weiterleitungshinweis","  9.76%   16.853      1 Vorlage:Normdaten","  6.87%   11.855      1 Vorlage:Wikidata-Registrierung","  5.57%    9.619      2 Vorlage:Wiktionary","  4.32%    7.465      1 Vorlage:Belege_fehlen"]},"scribunto":{"limitreport-timeusage":{"value":"0.061","limit":"10.000"},"limitreport-memusage":{"value":3041982,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-86dd7857b7-lwdqg","timestamp":"20251217135025","ttl":1811,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8f8dcf6c-knnzg","wgBackendResponseTime":163,"wgPageParseReport":{"limitreport":{"cputime":"0.144","walltime":"0.228","ppvisitednodes":{"value":1027,"limit":1000000},"revisionsize":{"value":6539,"limit":2097152},"postexpandincludesize":{"value":20433,"limit":2097152},"templateargumentsize":{"value":2883,"limit":2097152},"expansiondepth":{"value":11,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5711,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  191.377      1 -total"," 29.14%   55.763      1 Vorlage:GrcS"," 20.55%   39.335      2 Vorlage:Literatur"," 16.99%   32.522      4 Vorlage:Hinweisbaustein"," 11.18%   21.402      1 Vorlage:Webarchiv"," 10.53%   20.143      1 Vorlage:Weiterleitungshinweis","  9.65%   18.469      1 Vorlage:Normdaten","  7.01%   13.413      1 Vorlage:Wikidata-Registrierung","  6.05%   11.586      1 Vorlage:Belege_fehlen","  4.93%    9.428      2 Vorlage:Wiktionary"]},"scribunto":{"limitreport-timeusage":{"value":"0.063","limit":"10.000"},"limitreport-memusage":{"value":3033795,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-ff4bf79f8-xn9pf","timestamp":"20260104105459","ttl":1815,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Phantasie","url":"https:\/\/de.wikipedia.org\/wiki\/Phantasie","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1356411","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1356411","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-09-03T21:03:16Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/57\/John_Elsas_Phantasie.jpg","headline":"vorgestellte Situation, insbesondere als Gegenstand der Psychologie"}</script>
 </body>
 </html>

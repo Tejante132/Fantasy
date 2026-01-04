@@ -163,4 +163,5 @@ echo -e "	</table>
 
 source ~/venvs/plurital/bin/activate
 cat ./dumps/pt/dump*.txt >> "./wordclouds/pt/all_dumps.txt"
+<<<<<<< HEAD
 wordcloud_cli --text ./wordclouds/pt/all_dumps.txt --stopwords ./wordclouds/pt/stopwords_pt.txt --mask ./wordclouds/pt/coq_de_barcelos.png --imagefile ./wordclouds/pt/wordcloud_pt.png
