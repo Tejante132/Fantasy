@@ -5,7 +5,7 @@
 		<meta charset="utf-8" />
 		<!--[if IE]><meta http-equiv="ImageToolbar" content="False" /><![endif]-->
 		<meta name="author" content="Sabine Lesch-Kaiser" />
-		<meta name="generator" content="Incomedia WebSite X5 Pro 2025.2.8 - www.websitex5.com" />
+		<meta name="generator" content="Incomedia WebSite X5 Pro 2025.3.4 - www.websitex5.com" />
 		<meta name="description" content="Warum wir Fantasie brauchen und wie wir sie anregen können?" />
 		<meta name="keywords" content="Fantasie, Fantasieanregung, Phantasie, wie kann ich meine Fantasie anregen, Was ist Fantasie?, wie kann ich die Fantasie bei meinem Kind anregen" />
 		<meta property="og:locale" content="de" />
@@ -19,21 +19,21 @@
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		
-		<link rel="stylesheet" href="../style/reset.css?2025-2-8-0" media="screen,print" />
-		<link rel="stylesheet" href="../style/print.css?2025-2-8-0" media="print" />
-		<link rel="stylesheet" href="../style/style.css?2025-2-8-0" media="screen,print" />
-		<link rel="stylesheet" href="../style/template.css?2025-2-8-0" media="screen" />
+		<link rel="stylesheet" href="../style/reset.css?2025-3-4-0" media="screen,print" />
+		<link rel="stylesheet" href="../style/print.css?2025-3-4-0" media="print" />
+		<link rel="stylesheet" href="../style/style.css?2025-3-4-0" media="screen,print" />
+		<link rel="stylesheet" href="../style/template.css?2025-3-4-0" media="screen" />
 		<link rel="stylesheet" href="../pluginAppObj/imHeader_pluginAppObj_08/cartStatus.css" media="screen, print" />
-		<link rel="stylesheet" href="../blog/style.css?2025-2-8-0-639012454046393798" media="screen,print" />
-		<script src="../res/jquery.js?2025-2-8-0"></script>
-		<script src="../res/x5engine.js?2025-2-8-0" data-files-version="2025-2-8-0"></script>
-		<script src="../res/pwa.js?2025-2-8-0" defer ></script>
-		<script src="../res/x5engine.elements.js?2025-2-8-0"></script>
-		<script src="../res/swiper-bundle.min.js?2025-2-8-0"></script>
-		<link rel="stylesheet" href="../res/swiper-bundle.min.css?2025-2-8-0" />
-		<script src="../res/handlebars-min.js?2025-2-8-0"></script>
-		<script src="../res/card-blog.js?2025-2-8-0"></script>
-		<script src="../blog/x5blog.js?2025-2-8-0"></script>
+		<link rel="stylesheet" href="../blog/style.css?2025-3-4-0-639029513145439972" media="screen,print" />
+		<script src="../res/jquery.js?2025-3-4-0"></script>
+		<script src="../res/x5engine.js?2025-3-4-0" data-files-version="2025-3-4-0"></script>
+		<script src="../res/pwa.js?2025-3-4-0" defer ></script>
+		<script src="../res/x5engine.elements.js?2025-3-4-0"></script>
+		<script src="../res/swiper-bundle.min.js?2025-3-4-0"></script>
+		<link rel="stylesheet" href="../res/swiper-bundle.min.css?2025-3-4-0" />
+		<script src="../res/handlebars-min.js?2025-3-4-0"></script>
+		<script src="../res/card-blog.js?2025-3-4-0"></script>
+		<script src="../blog/x5blog.js?2025-3-4-0"></script>
 		<script src="../appsresources/cartStatus.js"></script>
 		<script>
 			window.onload = function(){ checkBrowserCompatibility('Der von Ihnen verwendete Browser unterstützt nicht die die Funktionen, die für die Anzeige dieser Website benötigt werden.','Der von Ihnen verwendete Browser unterstützt möglicherweise nicht die die Funktionen, die für die Anzeige dieser Website benötigt werden.','[1]Browser aktualisieren[/1] oder [2]Vorgang fortsetzen[/2].','http://outdatedbrowser.com/'); };
@@ -42,10 +42,10 @@
 			x5engine.boot.push(function () { x5engine.utils.imCodeProtection('Sabine Lesch-Kaiser'); });
 			x5engine.boot.push(function () { x5engine.imPageToTop.initializeButton({}); });
 		</script>
-		<link rel="icon" href="../favicon.png?2025-2-8-0-639012454044172783" type="image/png" />
+		<link rel="icon" href="../favicon.png?2025-3-4-0-639029513144871204" type="image/png" />
 		<link rel="alternate" type="application/rss+xml" title="Mein Leben als Familienbegleiterin" href="../blog/x5feed.php" />
 		<link rel="alternate" type="application/rss+xml" title="Aktuelles aus der Praxis famiLIEnleBEn" href="../x5feed.php" />
-		<link rel="manifest" href="../app.webmanifest?2025-2-8-0" />
+		<link rel="manifest" href="../app.webmanifest?2025-3-4-0" />
 <link rel="canonical" href="http://familien-und-leben.de/blog/?warum-wir-fantasie-brauchen-"/>
 		<script type="application/ld+json">
 [
@@ -57,7 +57,7 @@
             "name": "Praxis famiLIEnleBEn",
             "logo": {
                 "@type": "ImageObject",
-                "url": "http:\/\/familien-und-leben.de\/images\/Logo_bsv5f1sr.png",
+                "url": "http:\/\/familien-und-leben.de\/images\/Logo_rzrnjt34.png",
                 "width": 1417,
                 "height": 1417
             }
@@ -350,8 +350,8 @@ $(function () {$('#imStickyBar_imMenuObject_03_container ul li').not('.imMnMnSep
                     <textarea maxlength="1500" id="x5_pc000000020-topic-form-body" name="body" class="imfield mandatory striptags trim" style="width: 100%; height: 100px;" aria-required="true"></textarea>
                 </div>
         </div>		<div class="x5captcha-wrap">
-			<label for="x8zh36w5-imCpt">Wortprüfung:</label><br />
-			<input type="text" id="x8zh36w5-imCpt" class="imCpt" name="imCpt" maxlength="5" />
+			<label for="ze6ho9ys-imCpt">Wortprüfung:</label><br />
+			<input type="text" id="ze6ho9ys-imCpt" class="imCpt" name="imCpt" maxlength="5" />
 		</div>
 <input type="hidden" value="x5_pc000000020" name="x5topicid"><input type="text" value="" name="prt" class="prt_field"><div class="topic-form-row">
                 <input type="submit" value="Rezension senden" />
@@ -368,13 +368,13 @@ $(function () {$('#imStickyBar_imMenuObject_03_container ul li').not('.imMnMnSep
 							<div class="imBlogBlock" id="imBlogBlock0" >
 								<div class="imBlogBlockTitle">Letzte Posts</div>
 								<div class="imBlogBlockContent">
-						<ul><li><a href="?unser-sommerfest-2025">Unser Sommerfest 2025</a></li><li><a href="?kindliche-perspektive">Kindliche Perspektive</a></li><li><a href="?auf-einmal-ist-alles-anders----">Auf einmal ist alles anders....</a></li><li><a href="?die-kraft-der-veraenderung">Die Kraft der Veränderung</a></li></ul>								</div>
+						<ul><li><a href="?neustart">Neustart</a></li><li><a href="?mein-persoenlicher-rueckblick">Mein persönlicher Rückblick 2025</a></li><li><a href="?unser-sommerfest-2025">Unser Sommerfest 2025</a></li><li><a href="?kindliche-perspektive">Kindliche Perspektive</a></li></ul>								</div>
 							</div>
 							<a id="imSkipBlock1" href="#imSkipBlock2" class="screen-reader-only-even-focused">Block überspringen Monatliche Posts</a>
 							<div class="imBlogBlock" id="imBlogBlock1" >
 								<div class="imBlogBlockTitle">Monatliche Posts</div>
 								<div class="imBlogBlockContent">
-						<ul><li><a href="?month=202507">Jul 2025</a></li><li><a href="?month=202506">Jun 2025</a></li><li><a href="?month=202505">Mai 2025</a></li><li><a href="?month=202502">Feb 2025</a></li></ul>								</div>
+						<ul><li><a href="?month=202601">Jan 2026</a></li><li><a href="?month=202512">Dez 2025</a></li><li><a href="?month=202507">Jul 2025</a></li><li><a href="?month=202506">Jun 2025</a></li></ul>								</div>
 							</div>
 							<a id="imSkipBlock2" href="#imSkipBlock3" class="screen-reader-only-even-focused">Block überspringen Kategorien</a>
 							<div class="imBlogBlock" id="imBlogBlock2" >
@@ -386,56 +386,56 @@ $(function () {$('#imStickyBar_imMenuObject_03_container ul li').not('.imMnMnSep
 							<div class="imBlogBlock" id="imBlogBlock3" >
 								<div class="imBlogBlockTitle">Clouds</div>
 								<div class="imBlogBlockContent">
-									<span class="imBlogCloudItem" style="font-size: 0.98em;">
-				<a href="?category=Kinderschlaf" style="font-size: 0.98em;">Kinderschlaf</a>
-			</span>
-			<span class="imBlogCloudItem" style="font-size: 1.03em;">
-				<a href="?category=Download" style="font-size: 1.03em;">Download</a>
-			</span>
-			<span class="imBlogCloudItem" style="font-size: 1.00em;">
-				<a href="?category=Partnerschaft" style="font-size: 1.00em;">Partnerschaft</a>
+									<span class="imBlogCloudItem" style="font-size: 1.14em;">
+				<a href="?category=Eindr%C3%BCcke" style="font-size: 1.14em;">Eindrücke</a>
 			</span>
 			<span class="imBlogCloudItem" style="font-size: 1.25em;">
 				<a href="?category=Familienleben" style="font-size: 1.25em;">Familienleben</a>
 			</span>
-			<span class="imBlogCloudItem" style="font-size: 1.03em;">
-				<a href="?category=Aus_dem_Praxisalltag" style="font-size: 1.03em;">Aus dem Praxisalltag</a>
-			</span>
-			<span class="imBlogCloudItem" style="font-size: 0.98em;">
-				<a href="?category=Schulkind" style="font-size: 0.98em;">Schulkind</a>
-			</span>
-			<span class="imBlogCloudItem" style="font-size: 0.98em;">
-				<a href="?category=Schwangerschaft" style="font-size: 0.98em;">Schwangerschaft</a>
-			</span>
-			<span class="imBlogCloudItem" style="font-size: 1.03em;">
-				<a href="?category=Rezepte" style="font-size: 1.03em;">Rezepte</a>
-			</span>
-			<span class="imBlogCloudItem" style="font-size: 1.06em;">
-				<a href="?category=Erziehung" style="font-size: 1.06em;">Erziehung</a>
-			</span>
 			<span class="imBlogCloudItem" style="font-size: 1.09em;">
 				<a href="?category=Achtsamkeit" style="font-size: 1.09em;">Achtsamkeit</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.20em;">
+				<a href="?category=Leben" style="font-size: 1.20em;">Leben</a>
 			</span>
 			<span class="imBlogCloudItem" style="font-size: 0.98em;">
 				<a href="?category=Bastelideen" style="font-size: 0.98em;">Bastelideen</a>
 			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.03em;">
+				<a href="?category=Download" style="font-size: 1.03em;">Download</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 0.98em;">
+				<a href="?category=Kinderschlaf" style="font-size: 0.98em;">Kinderschlaf</a>
+			</span>
 			<span class="imBlogCloudItem" style="font-size: 0.98em;">
 				<a href="?category=Kreativ_mit_Kindern" style="font-size: 0.98em;">Kreativ mit Kindern</a>
-			</span>
-			<span class="imBlogCloudItem" style="font-size: 1.14em;">
-				<a href="?category=Gesundheit" style="font-size: 1.14em;">Gesundheit</a>
-			</span>
-			<span class="imBlogCloudItem" style="font-size: 1.11em;">
-				<a href="?category=Eindr%C3%BCcke" style="font-size: 1.11em;">Eindrücke</a>
 			</span>
 			<span class="imBlogCloudItem" style="font-size: 1.03em;">
 				<a href="?category=1._Lebensjahr" style="font-size: 1.03em;">1. Lebensjahr</a>
 			</span>
-			<span class="imBlogCloudItem" style="font-size: 1.17em;">
-				<a href="?category=Leben" style="font-size: 1.17em;">Leben</a>
+			<span class="imBlogCloudItem" style="font-size: 0.98em;">
+				<a href="?category=Schulkind" style="font-size: 0.98em;">Schulkind</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.06em;">
+				<a href="?category=Erziehung" style="font-size: 1.06em;">Erziehung</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.03em;">
+				<a href="?category=Aus_dem_Praxisalltag" style="font-size: 1.03em;">Aus dem Praxisalltag</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.00em;">
+				<a href="?category=Partnerschaft" style="font-size: 1.00em;">Partnerschaft</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 0.98em;">
+				<a href="?category=Schwangerschaft" style="font-size: 0.98em;">Schwangerschaft</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.14em;">
+				<a href="?category=Gesundheit" style="font-size: 1.14em;">Gesundheit</a>
 			</span>
 			<span class="imBlogCloudItem" style="font-size: 0.98em;">
 				<a href="?category=Lernen" style="font-size: 0.98em;">Lernen</a>
+			</span>
+			<span class="imBlogCloudItem" style="font-size: 1.03em;">
+				<a href="?category=Rezepte" style="font-size: 1.03em;">Rezepte</a>
 			</span>
 								</div>
 							</div>
@@ -515,7 +515,7 @@ $(function () {$('#imStickyBar_imMenuObject_03_container ul li').not('.imMnMnSep
 		<div id="install_banner">
 			<div id="install_banner_inner">
 				<div id="install_siteicon_container">
-					<img id="install_siteicon" src="images/pwaIcon192.png" alt="App-Icon">
+					<img id="install_siteicon" src="../images/pwaIcon192.png" alt="App-Icon">
 				</div>
 				<div id="install_info_container">
 					<span id="install_title">FamiLIEnleBEn</span>
@@ -528,7 +528,7 @@ $(function () {$('#imStickyBar_imMenuObject_03_container ul li').not('.imMnMnSep
 				<button type="button" id="install_close" aria-label="Schließen">X</button>
 			</div>
 		</div>
-		<script src="../cart/x5cart.js?2025-2-8-0-639012454046393798"></script>
+		<script src="../cart/x5cart.js?2025-3-4-0-639029513145460177"></script>
 		<noscript class="imNoScript"><div class="alert alert-red">Um diese Website nutzen zu können, aktivieren Sie bitte JavaScript.</div></noscript>
 	</body>
 </html>

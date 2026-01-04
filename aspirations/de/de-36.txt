@@ -163,19 +163,19 @@
         });
     });</script>                <link rel="preload" as="style" href="https://www.schott-music.com/static/version1762242435/frontend/Creativestyle/theme-schottmusic/de_DE/css/fonts.css?t=1743592751">
                 <link id="font_localfont" rel="stylesheet" href="https://www.schott-music.com/static/version1762242435/frontend/Creativestyle/theme-schottmusic/de_DE/css/fonts.css?t=1743592751" media="print">
-                <script type="text&#x2F;javascript">    function eventListenerlkyN3PWxb8 () {
+                <script type="text&#x2F;javascript">    function eventListeneryB85TejonR () {
         this.media='all';
     }
-    var listenedElementlkyN3PWxb8Array = document.querySelectorAll("#font_localfont");
-    if(listenedElementlkyN3PWxb8Array.length !== 'undefined'){
-        listenedElementlkyN3PWxb8Array.forEach(function(element) {
+    var listenedElementyB85TejonRArray = document.querySelectorAll("#font_localfont");
+    if(listenedElementyB85TejonRArray.length !== 'undefined'){
+        listenedElementyB85TejonRArray.forEach(function(element) {
             if (element) {
                 element.onload = function (event) {
                     var targetElement = element;
                     if (event && event.target) {
                         targetElement = event.target;
                     }
-                    return eventListenerlkyN3PWxb8.apply(targetElement);
+                    return eventListeneryB85TejonR.apply(targetElement);
                 };
             }
         });
@@ -671,7 +671,7 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
                             <!-- ko template: getTemplate() --><!-- /ko -->
                         </div>
                         <div class="cs-minicart__carousel-wrapper"><svg aria-hidden="true" class="cs-minicart__carousel-spinner" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><g stroke-width="4" stroke-linecap="round" stroke="#000"><path d="M32 20v-8"><animate attributeName="stroke-opacity" dur="750ms" values="1;.85;.7;.65;.55;.45;.35;.25;.15;.1;0;1" repeatCount="indefinite"/></path><path d="M38 21.608l4-6.929"><animate attributeName="stroke-opacity" dur="750ms" values="0;1;.85;.7;.65;.55;.45;.35;.25;.15;.1;0" repeatCount="indefinite"/></path><path d="M42.392 26l6.929-4"><animate attributeName="stroke-opacity" dur="750ms" values=".1;0;1;.85;.7;.65;.55;.45;.35;.25;.15;.1" repeatCount="indefinite"/></path><path d="M44 32h8"><animate attributeName="stroke-opacity" dur="750ms" values=".15;.1;0;1;.85;.7;.65;.55;.45;.35;.25;.15" repeatCount="indefinite"/></path><path d="M42.392 38l6.929 4"><animate attributeName="stroke-opacity" dur="750ms" values=".25;.15;.1;0;1;.85;.7;.65;.55;.45;.35;.25" repeatCount="indefinite"/></path><path d="M38 42.392l4 6.929"><animate attributeName="stroke-opacity" dur="750ms" values=".35;.25;.15;.1;0;1;.85;.7;.65;.55;.45;.35" repeatCount="indefinite"/></path><path d="M32 44v8"><animate attributeName="stroke-opacity" dur="750ms" values=".45;.35;.25;.15;.1;0;1;.85;.7;.65;.55;.45" repeatCount="indefinite"/></path><path d="M26 42.392l-4 6.929"><animate attributeName="stroke-opacity" dur="750ms" values=".55;.45;.35;.25;.15;.1;0;1;.85;.7;.65;.55" repeatCount="indefinite"/></path><path d="M21.608 38l-6.929 4"><animate attributeName="stroke-opacity" dur="750ms" values=".65;.55;.45;.35;.25;.15;.1;0;1;.85;.7;.65" repeatCount="indefinite"/></path><path d="M20 32h-8"><animate attributeName="stroke-opacity" dur="750ms" values=".7;.65;.55;.45;.35;.25;.15;.1;0;1;.85;.7" repeatCount="indefinite"/></path><path d="M21.608 26l-6.929-4"><animate attributeName="stroke-opacity" dur="750ms" values=".85;.7;.65;.55;.45;.35;.25;.15;.1;0;1;.85" repeatCount="indefinite"/></path><path d="M26 21.608l-4-6.929"><animate attributeName="stroke-opacity" dur="750ms" values="1;.85;.7;.65;.55;.45;.35;.25;.15;.1;0;1" repeatCount="indefinite"/></path></g></svg><div class="cs-minicart__carousel-container">
-    <!-- last update: 1765885255 -->
+    <!-- last update: 1767490440 -->
 <div class="cs-container cs-container--headline">
     <div class="cs-container__inner">
         <div class="cs-headline ">
@@ -705,7 +705,7 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
                 </div>
             </div>
                     </div>
-        <script>window.checkout = {"shoppingCartUrl":"https:\/\/www.schott-music.com\/de\/checkout\/cart\/","checkoutUrl":"https:\/\/www.schott-music.com\/de\/checkout\/","updateItemQtyUrl":"https:\/\/www.schott-music.com\/de\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/www.schott-music.com\/de\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"https:\/\/www.schott-music.com\/de\/","minicartMaxItemsVisible":5,"websiteId":"1","maxItemsToDisplay":10,"storeId":"1","storeGroupId":"1","customerLoginUrl":"https:\/\/www.schott-music.com\/de\/customer\/account\/login\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.schott-music.com\/de\/captcha\/refresh\/","isRequired":false,"timestamp":1765962549}}}</script>    <script type="text/x-magento-init">
+        <script>window.checkout = {"shoppingCartUrl":"https:\/\/www.schott-music.com\/de\/checkout\/cart\/","checkoutUrl":"https:\/\/www.schott-music.com\/de\/checkout\/","updateItemQtyUrl":"https:\/\/www.schott-music.com\/de\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/www.schott-music.com\/de\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"https:\/\/www.schott-music.com\/de\/","minicartMaxItemsVisible":5,"websiteId":"1","maxItemsToDisplay":10,"storeId":"1","storeGroupId":"1","customerLoginUrl":"https:\/\/www.schott-music.com\/de\/customer\/account\/login\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.schott-music.com\/de\/captcha\/refresh\/","isRequired":false,"timestamp":1767527278}}}</script>    <script type="text/x-magento-init">
     {
         "[data-block='minicart']": {
             "Magento_Ui/js/core/app": {"components":{"minicart_content":{"children":{"subtotal.container":{"children":{"subtotal":{"children":{"subtotal.totals":{"config":{"display_cart_subtotal_incl_tax":1,"display_cart_subtotal_excl_tax":0,"template":"Magento_Tax\/checkout\/minicart\/subtotal\/totals"},"children":{"subtotal.totals.msrp":{"component":"Magento_Msrp\/js\/view\/checkout\/minicart\/subtotal\/totals","config":{"displayArea":"minicart-subtotal-hidden","template":"Magento_Msrp\/checkout\/minicart\/subtotal\/totals"}}},"component":"Magento_Tax\/js\/view\/checkout\/minicart\/subtotal\/totals"}},"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/subtotal"}}},"component":"uiComponent","config":{"displayArea":"subtotalContainer"}},"item.renderer":{"component":"Magento_Checkout\/js\/view\/cart-item-renderer","config":{"displayArea":"defaultRenderer","template":"Magento_Checkout\/minicart\/item\/default","useDefaultQty":false,"showProductOptions":true,"showEditProductButton":true,"showRemoveProductButton":true},"children":{"item.image":{"component":"Magento_Catalog\/js\/view\/image","config":{"template":"Magento_Catalog\/product\/image","displayArea":"itemImage"}},"checkout.cart.item.price.sidebar":{"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/item\/price","displayArea":"priceSidebar"}}}},"extra_info":{"component":"uiComponent","config":{"displayArea":"extraInfo"}},"promotion":{"component":"uiComponent","config":{"displayArea":"promotion"}}},"config":{"itemRenderer":{"default":"defaultRenderer","simple":"defaultRenderer","virtual":"defaultRenderer"},"template":"Magento_Checkout\/minicart\/content","showTotalItems":false,"useDefaultQty":false},"component":"Magento_Checkout\/js\/view\/minicart"}},"types":[]}        },
@@ -725,7 +725,7 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
 <nav
     class="cs-navigation"
     data-cache-key="ca0ec7b1a70ec6303ffe15210dd0502f"
-    data-cache-generation-time="1765885286"
+    data-cache-generation-time="1767490464"
     data-mobile-endpoint-url="https://www.schott-music.com/de/navigation/mobile/index/"
     aria-label="Main Navigation"
 >
@@ -922,7 +922,7 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
     class="towishlist cs-links-block-addto__link"
     title="Zur Wunschliste hinzufügen"
     aria-label="Best&#x20;of&#x20;Haydn&#x20;zur&#x20;Wunschliste&#x20;hinzuf&#xFC;gen"
-    data-post='{"action":"https:\/\/www.schott-music.com\/de\/wishlist\/index\/add\/","data":{"product":100718687,"uenc":"aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_Y2F0PTgzNiZxPWhpbnRlcithbmQraGludGVy"}}'
+    data-post='{"action":"https:\/\/www.schott-music.com\/de\/wishlist\/index\/add\/","data":{"product":100718687,"uenc":"aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzl0WVdOaVpYUm9MVzV2TXpNek1Ea3hMbWgwYld3fi9wcm9kdWN0LzMzMzE0My8~"}}'
     data-product-id="100718687"
     data-action="add-to-wishlist"
     role="button"
@@ -996,7 +996,7 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
             "Magento_Swatches/js/swatch-renderer": {
                 "selectorProduct": ".cs-product-tile__content",
                 "enableControlLabel": false,
-                "jsonConfig": {"attributes":{"398":{"id":"398","code":"type_of_product","label":"Produktart","options":[{"id":"561","label":"Druckausgabe","products":["784103"]},{"id":"610","label":"E-Noten PDF","products":["789763"]}],"position":"0"}},"template":"<%- data.price %>\u00a0\u20ac","currencyFormat":"%s\u00a0\u20ac","optionPrices":{"784103":{"baseOldPrice":{"amount":18.224298065421},"oldPrice":{"amount":19.5},"basePrice":{"amount":18.224298065421},"finalPrice":{"amount":19.5},"tierPrices":[],"msrpPrice":{"amount":0}},"789763":{"baseOldPrice":{"amount":13.07476535514},"oldPrice":{"amount":13.99},"basePrice":{"amount":13.07476535514},"finalPrice":{"amount":13.99},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"%s\u00a0\u20ac","precision":2,"requiredPrecision":2,"decimalSymbol":",","groupSymbol":".","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":13.07476535514},"oldPrice":{"amount":13.99},"basePrice":{"amount":13.07476535514},"finalPrice":{"amount":13.99},"dailyDealOldPrice":{"amount":13.99},"dailyDealPrice":{"amount":0}},"productId":"100718687","chooseText":"W\u00e4hlen Sie eine Option...","images":[],"index":{"784103":{"398":"561"},"789763":{"398":"610"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"preSelectedGallery":[],"channel":"website","salesChannelCode":"schott","sku":{"784103":"784103","789763":"Q789763"},"option_attribute":"type_of_product","attributeSelector":"id","url_keys":{"784103":"561","Q789763":"610"},"custom_details_default_id":"100718687"},
+                "jsonConfig": {"attributes":{"398":{"id":"398","code":"type_of_product","label":"Produktart","options":[{"id":"561","label":"Druckausgabe","products":["784103"]},{"id":"610","label":"E-Noten PDF","products":["789763"]}],"position":"0"}},"template":"<%- data.price %>\u00a0\u20ac","currencyFormat":"%s\u00a0\u20ac","optionPrices":{"784103":{"baseOldPrice":{"amount":18.224298065421},"oldPrice":{"amount":19.5},"basePrice":{"amount":18.224298065421},"finalPrice":{"amount":19.5},"tierPrices":[],"msrpPrice":{"amount":0}},"789763":{"baseOldPrice":{"amount":13.07476535514},"oldPrice":{"amount":13.99},"basePrice":{"amount":13.07476535514},"finalPrice":{"amount":13.99},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"%s\u00a0\u20ac","precision":2,"requiredPrecision":2,"decimalSymbol":",","groupSymbol":".","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":13.07476535514},"oldPrice":{"amount":13.99},"basePrice":{"amount":13.07476535514},"finalPrice":{"amount":13.99},"dailyDealOldPrice":{"amount":13.99},"dailyDealPrice":{"amount":0}},"productId":"100718687","chooseText":"W\u00e4hlen Sie eine Option...","images":[],"index":{"784103":{"398":"561"},"789763":{"398":"610"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"channel":"website","salesChannelCode":"schott","sku":{"784103":"784103","789763":"Q789763"},"option_attribute":"type_of_product","attributeSelector":"id","url_keys":{"784103":"561","Q789763":"610"},"custom_details_default_id":"100718687"},
                 "jsonSwatchConfig": {"398":{"561":{"type":"0","value":"Druckausgabe","label":"Druckausgabe"},"610":{"type":"0","value":"E-Noten PDF","label":"E-Noten PDF"},"additional_data":"{\"swatch_input_type\":\"text\",\"update_product_preview_image\":\"1\",\"use_product_image_for_swatch\":0}"}},
                 "mediaCallback": "https\u003A\u002F\u002Fwww.schott\u002Dmusic.com\u002Fde\u002Fswatches\u002Fajax\u002Fmedia\u002F",
                 "showTooltip": 1,
@@ -1059,14 +1059,14 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
                         Auf Lager        </span>
     <div class="amxnotif-category-container" data-amsubscribe="100718687"></div>
         
-        <form data-role="tocart-form" data-product-sku="C718687" action="https://www.schott-music.com/de/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_Y2F0PTgzNiZxPWhpbnRlcithbmQraGludGVy/product/100718687/" method="post" class="cs-addtocart cs-product-tile__addtocart"
+        <form data-role="tocart-form" data-product-sku="C718687" action="https://www.schott-music.com/de/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzl0WVdOaVpYUm9MVzV2TXpNek1Ea3hMbWgwYld3fi9wcm9kdWN0LzMzMzE0My8~/product/100718687/" method="post" class="cs-addtocart cs-product-tile__addtocart"
                             data-mage-init='{"catalogAddToCart": {}}'
                     >
             <input type="hidden" name="product" value="100718687">
 
                         
-            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzlqWVhSaGJHOW5jMlZoY21Ob0wzSmxjM1ZzZEM5cGJtUmxlQzhfWTJGMFBUZ3pOaVp4UFdocGJuUmxjaXRoYm1RcmFHbHVkR1Z5L3Byb2R1Y3QvMTAwNzE4Njg3Lw~~">
-            <input name="form_key" type="hidden" value="3tHqnsTEPmQ9atC9" />            
+            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzlqYUdWamEyOTFkQzlqWVhKMEwyRmtaQzkxWlc1akwyRklVakJqU0UwMlRIazVNMlF6WTNWak1rNXZZak5TTUV4WE1URmpNbXhxVEcxT2RtSlRPV3RhVXpsMFdWZE9hVnBZVW05TVZ6VjJUWHBOZWsxRWEzaE1iV2d3WWxkM2ZpOXdjbTlrZFdOMEx6TXpNekUwTXk4fi9wcm9kdWN0LzEwMDcxODY4Ny8~">
+            <input name="form_key" type="hidden" value="LrXhiNejsEdcEyut" />            
 <div class="cs-addtocart__wrapper">
                                         <button type="submit"
                     title="In den Warenkorb"
@@ -1311,7 +1311,7 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
     class="towishlist cs-links-block-addto__link"
     title="Zur Wunschliste hinzufügen"
     aria-label="Tonk&#xFC;nstler-Kalender&#x20;2026&#x20;zur&#x20;Wunschliste&#x20;hinzuf&#xFC;gen"
-    data-post='{"action":"https:\/\/www.schott-music.com\/de\/wishlist\/index\/add\/","data":{"product":781730,"uenc":"aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_Y2F0PTgzNiZxPWhpbnRlcithbmQraGludGVy"}}'
+    data-post='{"action":"https:\/\/www.schott-music.com\/de\/wishlist\/index\/add\/","data":{"product":781730,"uenc":"aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzl0WVdOaVpYUm9MVzV2TXpNek1Ea3hMbWgwYld3fi9wcm9kdWN0LzMzMzE0My8~"}}'
     data-product-id="781730"
     data-action="add-to-wishlist"
     role="button"
@@ -1380,14 +1380,14 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
                         Auf Lager        </span>
     
         
-        <form data-role="tocart-form" data-product-sku="781730" action="https://www.schott-music.com/de/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_Y2F0PTgzNiZxPWhpbnRlcithbmQraGludGVy/product/781730/" method="post" class="cs-addtocart cs-product-tile__addtocart"
+        <form data-role="tocart-form" data-product-sku="781730" action="https://www.schott-music.com/de/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzl0WVdOaVpYUm9MVzV2TXpNek1Ea3hMbWgwYld3fi9wcm9kdWN0LzMzMzE0My8~/product/781730/" method="post" class="cs-addtocart cs-product-tile__addtocart"
                             data-mage-init='{"catalogAddToCart": {}}'
                     >
             <input type="hidden" name="product" value="781730">
 
                         
-            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzlqWVhSaGJHOW5jMlZoY21Ob0wzSmxjM1ZzZEM5cGJtUmxlQzhfWTJGMFBUZ3pOaVp4UFdocGJuUmxjaXRoYm1RcmFHbHVkR1Z5L3Byb2R1Y3QvNzgxNzMwLw~~">
-            <input name="form_key" type="hidden" value="3tHqnsTEPmQ9atC9" />            
+            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzlqYUdWamEyOTFkQzlqWVhKMEwyRmtaQzkxWlc1akwyRklVakJqU0UwMlRIazVNMlF6WTNWak1rNXZZak5TTUV4WE1URmpNbXhxVEcxT2RtSlRPV3RhVXpsMFdWZE9hVnBZVW05TVZ6VjJUWHBOZWsxRWEzaE1iV2d3WWxkM2ZpOXdjbTlrZFdOMEx6TXpNekUwTXk4fi9wcm9kdWN0Lzc4MTczMC8~">
+            <input name="form_key" type="hidden" value="LrXhiNejsEdcEyut" />            
 <div class="cs-addtocart__wrapper">
                                         <button type="submit"
                     title="In den Warenkorb"
@@ -1691,7 +1691,7 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
     class="towishlist cs-links-block-addto__link"
     title="Zur Wunschliste hinzufügen"
     aria-label="Musiklernen&#x20;mit&#x20;Apps&#x20;zur&#x20;Wunschliste&#x20;hinzuf&#xFC;gen"
-    data-post='{"action":"https:\/\/www.schott-music.com\/de\/wishlist\/index\/add\/","data":{"product":583988,"uenc":"aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_Y2F0PTgzNiZxPWhpbnRlcithbmQraGludGVy"}}'
+    data-post='{"action":"https:\/\/www.schott-music.com\/de\/wishlist\/index\/add\/","data":{"product":583988,"uenc":"aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzl0WVdOaVpYUm9MVzV2TXpNek1Ea3hMbWgwYld3fi9wcm9kdWN0LzMzMzE0My8~"}}'
     data-product-id="583988"
     data-action="add-to-wishlist"
     role="button"
@@ -1760,14 +1760,14 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
                         Auf Lager        </span>
     
         
-        <form data-role="tocart-form" data-product-sku="583988" action="https://www.schott-music.com/de/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_Y2F0PTgzNiZxPWhpbnRlcithbmQraGludGVy/product/583988/" method="post" class="cs-addtocart cs-product-tile__addtocart"
+        <form data-role="tocart-form" data-product-sku="583988" action="https://www.schott-music.com/de/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzl0WVdOaVpYUm9MVzV2TXpNek1Ea3hMbWgwYld3fi9wcm9kdWN0LzMzMzE0My8~/product/583988/" method="post" class="cs-addtocart cs-product-tile__addtocart"
                             data-mage-init='{"catalogAddToCart": {}}'
                     >
             <input type="hidden" name="product" value="583988">
 
                         
-            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzlqWVhSaGJHOW5jMlZoY21Ob0wzSmxjM1ZzZEM5cGJtUmxlQzhfWTJGMFBUZ3pOaVp4UFdocGJuUmxjaXRoYm1RcmFHbHVkR1Z5L3Byb2R1Y3QvNTgzOTg4Lw~~">
-            <input name="form_key" type="hidden" value="3tHqnsTEPmQ9atC9" />            
+            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzlqYUdWamEyOTFkQzlqWVhKMEwyRmtaQzkxWlc1akwyRklVakJqU0UwMlRIazVNMlF6WTNWak1rNXZZak5TTUV4WE1URmpNbXhxVEcxT2RtSlRPV3RhVXpsMFdWZE9hVnBZVW05TVZ6VjJUWHBOZWsxRWEzaE1iV2d3WWxkM2ZpOXdjbTlrZFdOMEx6TXpNekUwTXk4fi9wcm9kdWN0LzU4Mzk4OC8~">
+            <input name="form_key" type="hidden" value="LrXhiNejsEdcEyut" />            
 <div class="cs-addtocart__wrapper">
                                         <button type="submit"
                     title="In den Warenkorb"
@@ -1952,7 +1952,7 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
     class="towishlist cs-links-block-addto__link"
     title="Zur Wunschliste hinzufügen"
     aria-label="Die&#x20;Kunst&#x20;der&#x20;Ger&#xE4;usche&#x20;zur&#x20;Wunschliste&#x20;hinzuf&#xFC;gen"
-    data-post='{"action":"https:\/\/www.schott-music.com\/de\/wishlist\/index\/add\/","data":{"product":786336,"uenc":"aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_Y2F0PTgzNiZxPWhpbnRlcithbmQraGludGVy"}}'
+    data-post='{"action":"https:\/\/www.schott-music.com\/de\/wishlist\/index\/add\/","data":{"product":786336,"uenc":"aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzl0WVdOaVpYUm9MVzV2TXpNek1Ea3hMbWgwYld3fi9wcm9kdWN0LzMzMzE0My8~"}}'
     data-product-id="786336"
     data-action="add-to-wishlist"
     role="button"
@@ -2021,14 +2021,14 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
                         Auf Lager        </span>
     
         
-        <form data-role="tocart-form" data-product-sku="786336" action="https://www.schott-music.com/de/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_Y2F0PTgzNiZxPWhpbnRlcithbmQraGludGVy/product/786336/" method="post" class="cs-addtocart cs-product-tile__addtocart"
+        <form data-role="tocart-form" data-product-sku="786336" action="https://www.schott-music.com/de/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzl0WVdOaVpYUm9MVzV2TXpNek1Ea3hMbWgwYld3fi9wcm9kdWN0LzMzMzE0My8~/product/786336/" method="post" class="cs-addtocart cs-product-tile__addtocart"
                             data-mage-init='{"catalogAddToCart": {}}'
                     >
             <input type="hidden" name="product" value="786336">
 
                         
-            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzlqWVhSaGJHOW5jMlZoY21Ob0wzSmxjM1ZzZEM5cGJtUmxlQzhfWTJGMFBUZ3pOaVp4UFdocGJuUmxjaXRoYm1RcmFHbHVkR1Z5L3Byb2R1Y3QvNzg2MzM2Lw~~">
-            <input name="form_key" type="hidden" value="3tHqnsTEPmQ9atC9" />            
+            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzlqYUdWamEyOTFkQzlqWVhKMEwyRmtaQzkxWlc1akwyRklVakJqU0UwMlRIazVNMlF6WTNWak1rNXZZak5TTUV4WE1URmpNbXhxVEcxT2RtSlRPV3RhVXpsMFdWZE9hVnBZVW05TVZ6VjJUWHBOZWsxRWEzaE1iV2d3WWxkM2ZpOXdjbTlrZFdOMEx6TXpNekUwTXk4fi9wcm9kdWN0Lzc4NjMzNi8~">
+            <input name="form_key" type="hidden" value="LrXhiNejsEdcEyut" />            
 <div class="cs-addtocart__wrapper">
                                         <button type="submit"
                     title="In den Warenkorb"
@@ -2220,7 +2220,7 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
     class="towishlist cs-links-block-addto__link"
     title="Zur Wunschliste hinzufügen"
     aria-label="Ana&#x20;Tanr&#x0131;&#xE7;a&#x20;zur&#x20;Wunschliste&#x20;hinzuf&#xFC;gen"
-    data-post='{"action":"https:\/\/www.schott-music.com\/de\/wishlist\/index\/add\/","data":{"product":355068,"uenc":"aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_Y2F0PTgzNiZxPWhpbnRlcithbmQraGludGVy"}}'
+    data-post='{"action":"https:\/\/www.schott-music.com\/de\/wishlist\/index\/add\/","data":{"product":355068,"uenc":"aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzl0WVdOaVpYUm9MVzV2TXpNek1Ea3hMbWgwYld3fi9wcm9kdWN0LzMzMzE0My8~"}}'
     data-product-id="355068"
     data-action="add-to-wishlist"
     role="button"
@@ -2272,14 +2272,14 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
     });
 </script>
         
-        <form data-role="tocart-form" data-product-sku="355068" action="https://www.schott-music.com/de/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_Y2F0PTgzNiZxPWhpbnRlcithbmQraGludGVy/product/355068/" method="post" class="cs-addtocart cs-product-tile__addtocart"
+        <form data-role="tocart-form" data-product-sku="355068" action="https://www.schott-music.com/de/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzl0WVdOaVpYUm9MVzV2TXpNek1Ea3hMbWgwYld3fi9wcm9kdWN0LzMzMzE0My8~/product/355068/" method="post" class="cs-addtocart cs-product-tile__addtocart"
                             data-mage-init='{"catalogAddToCart": {}}'
                     >
             <input type="hidden" name="product" value="355068">
 
                         
-            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzlqWVhSaGJHOW5jMlZoY21Ob0wzSmxjM1ZzZEM5cGJtUmxlQzhfWTJGMFBUZ3pOaVp4UFdocGJuUmxjaXRoYm1RcmFHbHVkR1Z5L3Byb2R1Y3QvMzU1MDY4Lw~~">
-            <input name="form_key" type="hidden" value="3tHqnsTEPmQ9atC9" />            
+            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzlqYUdWamEyOTFkQzlqWVhKMEwyRmtaQzkxWlc1akwyRklVakJqU0UwMlRIazVNMlF6WTNWak1rNXZZak5TTUV4WE1URmpNbXhxVEcxT2RtSlRPV3RhVXpsMFdWZE9hVnBZVW05TVZ6VjJUWHBOZWsxRWEzaE1iV2d3WWxkM2ZpOXdjbTlrZFdOMEx6TXpNekUwTXk4fi9wcm9kdWN0LzM1NTA2OC8~">
+            <input name="form_key" type="hidden" value="LrXhiNejsEdcEyut" />            
 <div class="cs-addtocart__wrapper">
                         <div class="cs-container cs-container--button">
                 <div class="cs-container__inner">
@@ -2539,7 +2539,7 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
     class="towishlist cs-links-block-addto__link"
     title="Zur Wunschliste hinzufügen"
     aria-label="Jacob&#x20;Karlzon&#x20;&amp;&#x20;Rhani&#x20;Krija&#x20;-&#x20;Mosaic&#x20;zur&#x20;Wunschliste&#x20;hinzuf&#xFC;gen"
-    data-post='{"action":"https:\/\/www.schott-music.com\/de\/wishlist\/index\/add\/","data":{"product":785848,"uenc":"aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_Y2F0PTEwJnA9MiZxPWhhbnMrem9v"}}'
+    data-post='{"action":"https:\/\/www.schott-music.com\/de\/wishlist\/index\/add\/","data":{"product":785848,"uenc":"aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzl0WVdOaVpYUm9MVzV2TXpNek1Ea3hMbWgwYld3fi9wcm9kdWN0LzMzMzE0My8~"}}'
     data-product-id="785848"
     data-action="add-to-wishlist"
     role="button"
@@ -2608,14 +2608,14 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
                         Auf Lager        </span>
     
         
-        <form data-role="tocart-form" data-product-sku="785848" action="https://www.schott-music.com/de/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_Y2F0PTEwJnA9MiZxPWhhbnMrem9v/product/785848/" method="post" class="cs-addtocart cs-product-tile__addtocart"
+        <form data-role="tocart-form" data-product-sku="785848" action="https://www.schott-music.com/de/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzl0WVdOaVpYUm9MVzV2TXpNek1Ea3hMbWgwYld3fi9wcm9kdWN0LzMzMzE0My8~/product/785848/" method="post" class="cs-addtocart cs-product-tile__addtocart"
                             data-mage-init='{"catalogAddToCart": {}}'
                     >
             <input type="hidden" name="product" value="785848">
 
                         
-            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzlqWVhSaGJHOW5jMlZoY21Ob0wzSmxjM1ZzZEM5cGJtUmxlQzhfWTJGMFBURXdKbkE5TWlaeFBXaGhibk1yZW05di9wcm9kdWN0Lzc4NTg0OC8~">
-            <input name="form_key" type="hidden" value="XxOxQTyFIMa6lG2W" />            
+            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzlqYUdWamEyOTFkQzlqWVhKMEwyRmtaQzkxWlc1akwyRklVakJqU0UwMlRIazVNMlF6WTNWak1rNXZZak5TTUV4WE1URmpNbXhxVEcxT2RtSlRPV3RhVXpsMFdWZE9hVnBZVW05TVZ6VjJUWHBOZWsxRWEzaE1iV2d3WWxkM2ZpOXdjbTlrZFdOMEx6TXpNekUwTXk4fi9wcm9kdWN0Lzc4NTg0OC8~">
+            <input name="form_key" type="hidden" value="LrXhiNejsEdcEyut" />            
 <div class="cs-addtocart__wrapper">
                                         <button type="submit"
                     title="In den Warenkorb"
@@ -2830,7 +2830,7 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
     class="towishlist cs-links-block-addto__link"
     title="Zur Wunschliste hinzufügen"
     aria-label="Das&#x20;Weihnachtsliederbuch&#x20;zur&#x20;Wunschliste&#x20;hinzuf&#xFC;gen"
-    data-post='{"action":"https:\/\/www.schott-music.com\/de\/wishlist\/index\/add\/","data":{"product":558117,"uenc":"aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_Y2F0PTgzNiZxPWhpbnRlcithbmQraGludGVy"}}'
+    data-post='{"action":"https:\/\/www.schott-music.com\/de\/wishlist\/index\/add\/","data":{"product":558117,"uenc":"aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzl0WVdOaVpYUm9MVzV2TXpNek1Ea3hMbWgwYld3fi9wcm9kdWN0LzMzMzE0My8~"}}'
     data-product-id="558117"
     data-action="add-to-wishlist"
     role="button"
@@ -2899,14 +2899,14 @@ try{smileTracker.setConfig({beaconUrl:'https://www.schott-music.com/de/elasticsu
                         Auf Lager        </span>
     
         
-        <form data-role="tocart-form" data-product-sku="558117" action="https://www.schott-music.com/de/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_Y2F0PTgzNiZxPWhpbnRlcithbmQraGludGVy/product/558117/" method="post" class="cs-addtocart cs-product-tile__addtocart"
+        <form data-role="tocart-form" data-product-sku="558117" action="https://www.schott-music.com/de/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzl0WVdOaVpYUm9MVzV2TXpNek1Ea3hMbWgwYld3fi9wcm9kdWN0LzMzMzE0My8~/product/558117/" method="post" class="cs-addtocart cs-product-tile__addtocart"
                             data-mage-init='{"catalogAddToCart": {}}'
                     >
             <input type="hidden" name="product" value="558117">
 
                         
-            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzlqWVhSaGJHOW5jMlZoY21Ob0wzSmxjM1ZzZEM5cGJtUmxlQzhfWTJGMFBUZ3pOaVp4UFdocGJuUmxjaXRoYm1RcmFHbHVkR1Z5L3Byb2R1Y3QvNTU4MTE3Lw~~">
-            <input name="form_key" type="hidden" value="3tHqnsTEPmQ9atC9" />            
+            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuc2Nob3R0LW11c2ljLmNvbS9kZS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5M2QzY3VjMk5vYjNSMExXMTFjMmxqTG1OdmJTOWtaUzlqYUdWamEyOTFkQzlqWVhKMEwyRmtaQzkxWlc1akwyRklVakJqU0UwMlRIazVNMlF6WTNWak1rNXZZak5TTUV4WE1URmpNbXhxVEcxT2RtSlRPV3RhVXpsMFdWZE9hVnBZVW05TVZ6VjJUWHBOZWsxRWEzaE1iV2d3WWxkM2ZpOXdjbTlrZFdOMEx6TXpNekUwTXk4fi9wcm9kdWN0LzU1ODExNy8~">
+            <input name="form_key" type="hidden" value="LrXhiNejsEdcEyut" />            
 <div class="cs-addtocart__wrapper">
                                         <button type="submit"
                     title="In den Warenkorb"
@@ -3421,7 +3421,7 @@ Musikalische Leitung: Peter Ruzicka · Deutsches Symphonie-Orchester Berlin<br /
                                                                             <div>Schott Music GmbH &amp; Co. KG</div>
                                                                                                                                                         <div>55116 Mainz</div>
                                                                                                                 <div>Deutschland</div>
-                                                                                                                <div><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="264f4840496655454e4952520b4b53554f450845494b">[email&#160;protected]</a></div>
+                                                                                                                <div><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="94fdfaf2fbd4e7f7fcfbe0e0b9f9e1e7fdf7baf7fbf9">[email&#160;protected]</a></div>
                                                                     </div>
                             </div>
                                                                                             </div>
@@ -3487,7 +3487,7 @@ Musikalische Leitung: Peter Ruzicka · Deutsches Symphonie-Orchester Berlin<br /
                             <div class="cs-product-details__content" data-role="content">
                     <div class="cs-page-category__toolbar-wrapper cs-page-category__toolbar-wrapper--top">
         
-    <div class="toolbar toolbar-products cs-toolbar cs-page-category__toolbar" data-mage-init='{"performanceListToolbarForm":{"mode":"performance_list_mode","direction":"performance_list_dir","order":"performance_list_order","limit":"performance_list_limit","modeDefault":"list","directionDefault":"desc","orderDefault":"date_desc","limitDefault":"5","url":"https:\/\/www.schott-music.com\/de\/symphonische-fantasie-no252699.html","formKey":"LPX4LCsWka8WRz5p","post":false}}'>
+    <div class="toolbar toolbar-products cs-toolbar cs-page-category__toolbar" data-mage-init='{"performanceListToolbarForm":{"mode":"performance_list_mode","direction":"performance_list_dir","order":"performance_list_order","limit":"performance_list_limit","modeDefault":"list","directionDefault":"desc","orderDefault":"date_desc","limitDefault":"5","url":"https:\/\/www.schott-music.com\/de\/symphonische-fantasie-no252699.html","formKey":"VkZjLvhVhgzNK3Sq","post":false}}'>
 
         
         
@@ -3725,7 +3725,7 @@ Musikalische Leitung: Peter Ruzicka · Deutsches Symphonie-Orchester Berlin<br /
 
     <div class="cs-page-category__toolbar-wrapper cs-page-category__toolbar-wrapper--bottom">
         
-    <div class="toolbar toolbar-products cs-toolbar cs-page-category__toolbar" data-mage-init='{"performanceListToolbarForm":{"mode":"performance_list_mode","direction":"performance_list_dir","order":"performance_list_order","limit":"performance_list_limit","modeDefault":"list","directionDefault":"desc","orderDefault":"date_desc","limitDefault":"5","url":"https:\/\/www.schott-music.com\/de\/symphonische-fantasie-no252699.html","formKey":"LPX4LCsWka8WRz5p","post":false}}'>
+    <div class="toolbar toolbar-products cs-toolbar cs-page-category__toolbar" data-mage-init='{"performanceListToolbarForm":{"mode":"performance_list_mode","direction":"performance_list_dir","order":"performance_list_order","limit":"performance_list_limit","modeDefault":"list","directionDefault":"desc","orderDefault":"date_desc","limitDefault":"5","url":"https:\/\/www.schott-music.com\/de\/symphonische-fantasie-no252699.html","formKey":"VkZjLvhVhgzNK3Sq","post":false}}'>
 
         
         
@@ -3868,7 +3868,7 @@ for AJAX script to work because we no longer have tabs in MageSuite.
 
 
 
-<input name="form_key" type="hidden" value="LPX4LCsWka8WRz5p" /><script type="text/x-magento-init">
+<input name="form_key" type="hidden" value="VkZjLvhVhgzNK3Sq" /><script type="text/x-magento-init">
     {
         "*": {
             "Magento_Customer/js/section-config": {
@@ -3998,7 +3998,7 @@ for AJAX script to work because we no longer have tabs in MageSuite.
 <p>&nbsp;</p></div>
 <div class="cs-footer__section ">
         <h4><span style="color: white;">KONTAKTIEREN SIE UNS</span></h4>
-<p>E-Mail: <a style="color: white" href="/cdn-cgi/l/email-protection#036a6d656c4370606b6c77772e6e76706a602d606c6e"><span class="__cf_email__" data-cfemail="7d14131b123d0e1e151209095010080e141e531e1210">[email&#160;protected]</span></a></p>
+<p>E-Mail: <a style="color: white" href="/cdn-cgi/l/email-protection#1f767179705f6c7c77706b6b32726a6c767c317c7072"><span class="__cf_email__" data-cfemail="026b6c646d4271616a6d76762f6f77716b612c616d6f">[email&#160;protected]</span></a></p>
 <p>Tel.: +49 6131 246-0</p></div>
 <div class="cs-footer__item cs-footer__item--extras"><div class="cs-footer__section cs-footer__section--newsletter">
         <h4 class="cs-footer__section-title">

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html class='no-js' data-lang='' lang='en-UK'>
 <head>
-<!-- philosophie.ch   (Thu, 04 Dec 2025 12:37:51 +0100) -->
-<link rel="stylesheet" media="all" href="/packs/css/application-0bc00fa7.css" />
-<script src="/packs/js/application-019bdbe59ac0059a4fcc.js"></script>
+<!-- philosophie.ch   (Mon, 22 Dec 2025 01:59:51 +0100) -->
+<link rel="stylesheet" media="all" href="/packs/css/application-b6c1387a.css" />
+<script src="/packs/js/application-c67bad4963da6d448633.js"></script>
 <script src="//platform-api.sharethis.com/js/sharethis.js#property=6829e4bb7c84420012f1791d&amp;product=inline-share-buttons" async="async"></script>
 <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,bold,bolditalic|Droid+Sans:400,500,bold,bolditalic" rel="stylesheet">
 <link rel="canonical" href="https://www.philosophie.ch/2021-11-14-wels">
@@ -19,7 +19,7 @@
 <meta property="og:title" content="Was nützt Fantasie?">
 <meta property="og:description" content="&lt;p&gt;Volkhard Wels&#39; Input zu einem Gedankenexperiment&lt;/p&gt;">
 <meta property="og:url" content="https://www.philosophie.ch/2021-11-14-wels">
-<meta property="og:image" content="https://assets.philosophie.ch/logo-philosophieren-mit.png">
+<meta property="og:image" content="https://assets.philosophie.ch/logo-philosophieren-mit.png?md5=7EBPLIRjV8myaqRZlmJ96Q&amp;expires=1767614973">
 <meta property="article:author" content="Volkhard Wels">
 <script type="application/ld+json">{
   "@context": "https://schema.org",
@@ -35,7 +35,7 @@
     "@type": "Organization",
     "name": "Philosophie.ch"
   },
-  "image": "https://assets.philosophie.ch/logo-philosophieren-mit.png",
+  "image": "https://assets.philosophie.ch/logo-philosophieren-mit.png?md5=7EBPLIRjV8myaqRZlmJ96Q&expires=1767614973",
   "url": "https://www.philosophie.ch/2021-11-14-wels",
   "mainEntityOfPage": "https://www.philosophie.ch/2021-11-14-wels"
 }</script>
@@ -87,7 +87,7 @@ TinyMCERails.initialize('default', {
 <meta content='black' name='apple-mobile-web-app-status-bar-style'>
 <meta content='Philosophie.ch' name='apple-mobile-web-app-title'>
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="xfeKkqQUSbqMUOmywX2jG+RnC0MlLA/Kau+vPeYUQNWKTddPcnjYynKwiUZ/8jh3+n7kKQhnAHK3sXxHUigtTA==" />
+<meta name="csrf-token" content="YSX9vNPa6WNjQXzi0MOhfogZPYn0mjA7I7Y3zd+xocxZXB+6i8jB3M1Xh7rsfLeDXxMnwkFkFqpSM1xLhZ1tQw==" />
 <!-- Google Tag Manager -->
 <script>
   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -226,6 +226,7 @@ Language
 <main class='l-main' id='main-content' role='main'>
 <div class='container'>
 
+
 <article class='article' itemscope='' itemtype='https://schema.org/Article'>
 <meta content='https://www.philosophie.ch/en-UK/2021-11-14-wels' itemprop='url'>
   <header id="intro_30852" class="intro mb-sm-5">
@@ -236,7 +237,7 @@ Language
             <div class="asset-content">
               <div class="main-asset">
 
-                <img alt="" style="max-width: 100%; max-height: 335px; width: auto; height: auto;" src="https://assets.philosophie.ch/logo-philosophieren-mit.png" />
+                <img alt="" style="max-width: 100%; max-height: 335px; width: auto; height: auto;" src="https://assets.philosophie.ch/logo-philosophieren-mit.png?md5=TBnI9ZrqV_YiakvwYCoKaQ&amp;expires=1767610788" />
                 <div class='asset-report-wrapper'>
 <div class='report-button-wrapper'>
 <div class='report-tooltip'>
@@ -371,7 +372,7 @@ No ratings yet.
           <div class="asset-content">
 
             <div class="main-asset">
-              <img alt="" src="https://assets.philosophie.ch/logo-philosophieren-mit-organisationen.png" />
+              <img alt="" src="https://assets.philosophie.ch/logo-philosophieren-mit-organisationen.png?md5=qO_yumh3uqU4wf2Rj8dSbw&amp;expires=1767610788" />
               <div class='asset-report-wrapper'>
 <div class='report-button-wrapper'>
 <div class='report-tooltip'>
@@ -411,7 +412,7 @@ Report this asset
           <div class="asset-content">
 
             <div class="main-asset">
-              <img alt="" src="https://assets.philosophie.ch/philosophieren-mit-pic2.png" />
+              <img alt="" src="https://assets.philosophie.ch/philosophieren-mit-pic2.png?md5=jdLMPEADJYCOEWlxknuKPg&amp;expires=1767610788" />
               <div class='asset-report-wrapper'>
 <div class='report-button-wrapper'>
 <div class='report-tooltip'>
@@ -492,7 +493,7 @@ Report this asset
 
 <a class="btn btn-primary content-actions__button" title="Suggest this article to someone" href="/profil/login">Suggest</a>
 
-<a target="_blank" class="btn btn-warning content-actions__button" title="Report this content" href="/cdn-cgi/l/email-protection#234a4d454c63534b4a4f4c504c534b4a460d404b1c414c475a1e674642510611137746424e0611600613620613626a061113544c564f470611134f4a4846061113574c0611135146534c5157061113574b46061113404c4d57464d570611134c4d061113574b4606111353424446061113061114111311120e12120e12170e54464f500611140d061113774b46061113514642504c4d0611134a50061113574b46061113454c4f4f4c544a4d440610620613620613620610600610607a6c7671061113716662706c6d0611136b66716606106606106606136206136261465057061113514644425147500611600613620610600610607a6c76710611136d626e660611136b66716606106606106606136205424e5318505641494640571e7146534c5157061113404c4d57464d57">Report</a>
+<a target="_blank" class="btn btn-warning content-actions__button" title="Report this content" href="/cdn-cgi/l/email-protection#244d4a424b64544c4d484b574b544c4d410a474c1b464b405d1960414556011614704145490116670114650114656d011614534b514840011614484d4f41011614504b0116145641544b5650011614504c41011614474b4a50414a500116144b4a011614504c41011614544543410116140116131614161509151509151009534148570116130a011614704c41011614564145574b4a0116144d57011614504c41011614424b48484b534d4a430117650114650114650117670117677d6b7176011614766165776b6a0116146c61766101176101176101146501146566415750011614564143455640570116670114650117670117677d6b71760116146a6569610116146c617661011761011761011465024549541f5751464e414750197641544b5650011614474b4a50414a50">Report</a>
 
 </div>
 
@@ -533,7 +534,7 @@ No comments yet
 </div></li>
       <li>  <div id="link_74838" class="link">    <a title="" target="_blank" data-link-target="blank" class="text-break" href="https://twitter.com/PhilosophieCH">Twitter</a>
 </div></li>
-      <li>  <div id="link_74839" class="link">    <a title="" data-link-target="" class="text-break" href="/cdn-cgi/l/email-protection#99f0f7fff6d9e9f1f0f5f6eaf6e9f1f0fcb7faf1">E-mail</a>
+      <li>  <div id="link_74839" class="link">    <a title="" data-link-target="" class="text-break" href="/cdn-cgi/l/email-protection#2b42454d446b5b4342474458445b43424e054843">E-mail</a>
 </div></li>
 
 <li>&copy; Philosophie.ch</li>
@@ -561,5 +562,5 @@ No comments yet
 
 
 
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9af6e5cadfe101b5',t:'MTc2NTk3OTUxMQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9b8aa0b1c95b6f54',t:'MTc2NzUyODU3Mw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>

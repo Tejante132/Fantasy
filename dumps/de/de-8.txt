@@ -1,6 +1,6 @@
-   #[1]alternate
+   #alternate
 
-     * [2]English
+     * English
      * ____________________ (BUTTON)
      *
 
@@ -8,123 +8,123 @@
    ____________________ (BUTTON)
      * Forschung
           +
-               o [3]Forschung
-               o [4]Abteilungen
-                    # [5]Fluidphysik, Strukturbildung und Biokomplexität
+               o Forschung
+               o Abteilungen
+                    # Fluidphysik, Strukturbildung und Biokomplexität
                       (Prof. Bodenschatz)
-                    # [6]Physik lebender Materie (Prof. Golestanian)
+                    # Physik lebender Materie (Prof. Golestanian)
           +
-               o [7]Max-Planck-Forschungsgruppen
-               o [8]Gruppenleiter*innen
-               o [9]Max-Planck-Fellows
-               o [10]Unabhängige Forschungseinheiten
-               o [11]Auswärtige wiss. Mitglieder
-               o [12]Emeritusgruppen
+               o Max-Planck-Forschungsgruppen
+               o Gruppenleiter*innen
+               o Max-Planck-Fellows
+               o Unabhängige Forschungseinheiten
+               o Auswärtige wiss. Mitglieder
+               o Emeritusgruppen
           +
-               o [13]Neues aus der Forschung
-                    # [14]Publikationen
-                    # [15]Forschungsberichte
-                    # [16]Jahrbuch
+               o Neues aus der Forschung
+                    # Publikationen
+                    # Forschungsberichte
+                    # Jahrbuch
      * Institut
           +
-               o [17]Kontakt
-                    # [18]Anschrift & Anreise
-                    # [19]Presse- & Öffentlichkeitsarbeit
-               o [20]Max-Planck-Campus
+               o Kontakt
+                    # Anschrift & Anreise
+                    # Presse- & Öffentlichkeitsarbeit
+               o Max-Planck-Campus
           +
-               o [21]Organisation
-                    # [22]Beschäftigte
-                    # [23]Fachbeirat
-                    # [24]Kuratorium
-                    # [25]Infrastruktur
-                    # [26]Wissenschaftliches Begegnungszentrum
+               o Organisation
+                    # Beschäftigte
+                    # Fachbeirat
+                    # Kuratorium
+                    # Infrastruktur
+                    # Wissenschaftliches Begegnungszentrum
           +
-               o [27]Wissenschaftliche Einrichtungen
-               o [28]Geschichte des Instituts
-               o [29]Intranet MAX
+               o Wissenschaftliche Einrichtungen
+               o Geschichte des Instituts
+               o Intranet MAX
      * Aktuelles
           +
                o
-                    # [30]Pressemitteilungen
-                    # [31]Pressemitteilungen zur Corona-Forschung
+                    # Pressemitteilungen
+                    # Pressemitteilungen zur Corona-Forschung
           +
                o
-                    # [32]Vorträge
-                    # [33]Veranstaltungen
+                    # Vorträge
+                    # Veranstaltungen
           +
                o
-                    # [34]Stellenangebote
+                    # Stellenangebote
      * Karriere & Studium
           +
                o Karriere
-                    # [35]Stellenangebote
-                    # [36]Ausbildung
-                    # [37]Karriereservice
-                    # [38]Gästeprogramm
-                    # [39]Graduiertenprogramm
-                    # [40]Max-Planck-Schools
+                    # Stellenangebote
+                    # Ausbildung
+                    # Karriereservice
+                    # Gästeprogramm
+                    # Graduiertenprogramm
+                    # Max-Planck-Schools
           +
-               o [41]Lehrveranstaltungen
+               o Lehrveranstaltungen
                o Beruf & Familie
-                    # [42]Chancengleichheit
-                    # [43]Kinderbetreuung
+                    # Chancengleichheit
+                    # Kinderbetreuung
           +
-               o [44]Onboarding
-                    # [45]Leben & Arbeiten in Göttingen
-                    # [46]Welcome-Center des Göttingen Campus
-                    # [47]Wissenschaftliches Begegnungszentrum
+               o Onboarding
+                    # Leben & Arbeiten in Göttingen
+                    # Welcome-Center des Göttingen Campus
+                    # Wissenschaftliches Begegnungszentrum
      * Kooperationen
           +
-               o [48]Max Planck Campus
-               o [49]Göttingen Campus
-                    # [50]Universität Göttingen
-                    # [51]Institut Dynamik komplexer Systeme
-                    # [52]Campus-Institut Dynamik biologischer Netzwerke
+               o Max Planck Campus
+               o Göttingen Campus
+                    # Universität Göttingen
+                    # Institut Dynamik komplexer Systeme
+                    # Campus-Institut Dynamik biologischer Netzwerke
                       (CIDBN)
-                    # [53]Campus-Institut Data Science (CIDAS)
-                    # [54]Graduiertenzentrum Neurowissenschaften,
-                      Biophysik und Molekulare Biowissenschaften (GGNB)
-                    # [55]Universitätsmedizin Göttingen
-                    # [56]Deutsches Zentrum für Herz-Kreislauf-Forschung
+                    # Campus-Institut Data Science (CIDAS)
+                    # Graduiertenzentrum Neurowissenschaften, Biophysik
+                      und Molekulare Biowissenschaften (GGNB)
+                    # Universitätsmedizin Göttingen
+                    # Deutsches Zentrum für Herz-Kreislauf-Forschung
                       (DZHK)
-                    # [57]Herzzentrum der UMG
-                    # [58]Bernstein Center for Computational Neurosciences
+                    # Herzzentrum der UMG
+                    # Bernstein Center for Computational Neurosciences
                       (BCCN)
-                    # [59]Deutsches Primatenzentrum
+                    # Deutsches Primatenzentrum
           +
-               o [60]Max-Planck - Univ. Twente Center für komplexe
+               o Max-Planck - Univ. Twente Center für komplexe
                  Fluiddynamik
-               o [61]Max-Planck Partergruppen
-                    # [62]Bilkent Universität (Amir Bahrami)
-                    # [63]Korea University (Hyejeong Kim)
-                    # [64]Chinese Academy of Sci. (Fanlong Meng)
-               o [65]Max Planck Schools
-                    # [66]Max Planck School Matter to Life
-                    # [67]IMPRS for Genome Sciences
-                    # [68]IMPRS for Neurosciences
-                    # [69]IMPRS Physics of Biological and Complex Systems
+               o Max-Planck Partergruppen
+                    # Bilkent Universität (Amir Bahrami)
+                    # Korea University (Hyejeong Kim)
+                    # Chinese Academy of Sci. (Fanlong Meng)
+               o Max Planck Schools
+                    # Max Planck School Matter to Life
+                    # IMPRS for Genome Sciences
+                    # IMPRS for Neurosciences
+                    # IMPRS Physics of Biological and Complex Systems
           +
-               o [70]Weitere Kooperationspartner
-                    # [71]Ehemalige Max-Planck-Forschergruppen
-                    # [72]Drittmittelprojekte
-               o [73]Gremien und Beratung
-                    # [74]Magnetics and Microhydrodynamics (MAMI)
-                    # [75]NeuroNex Working Memory Consortium
-                    # [76]Engineering and Physical Sciences Research
-                      Council (EPSRC)
-                    # [77]Robert Koch Institut
-                    # [78]ExpertInnenrat der Bundesregierung
-                    # [79]The International Union of Pure and Applied
-                      Physics (IUPAP)
-     * [80]MAX IntraNet
+               o Weitere Kooperationspartner
+                    # Ehemalige Max-Planck-Forschergruppen
+                    # Drittmittelprojekte
+               o Gremien und Beratung
+                    # Magnetics and Microhydrodynamics (MAMI)
+                    # NeuroNex Working Memory Consortium
+                    # Engineering and Physical Sciences Research Council
+                      (EPSRC)
+                    # Robert Koch Institut
+                    # ExpertInnenrat der Bundesregierung
+                    # The International Union of Pure and Applied Physics
+                      (IUPAP)
+     * MAX IntraNet
 
-   [81]English
+   English
 
    Max-Planck-Institut für Dynamik und Selbstorganisation
 
-    1. [82]Startseite
+    1. Startseite
 
-     [83]Archiv 2013
+     Archiv 2013
 
      Was ist Fantasie?
 
@@ -185,124 +185,23 @@ Was ist Fantasie? Wie entwickelt sie sich?
    der Universität Göttingen und Leiter des Kinderstudienzentrums
    „Göttinger Kindsköpfe“, in dem er mit Kollegen und Kolleginnen zusammen
    untersucht, wie sich das kindliche Denken entwickelt
-   ([84]www.kindskoepfe.uni-goettingen.de).
+   (www.kindskoepfe.uni-goettingen.de).
 
-   [85]Top
+   Top
 
-
-   [86]
    Max-Planck-Gesellschaft
-     * [87]Impressum
-     * [88]Datenschutzhinweis
+     * Impressum
+     * Datenschutzhinweis
 
    ©
 
-   2025, Max-Planck-Gesellschaft
+   2026, Max-Planck-Gesellschaft
 
-   © 2003-2025, Max-Planck-Gesellschaft
+   © 2003-2026, Max-Planck-Gesellschaft
 
    Web-Ansicht
    Seite Drucken
-   [89]Im neuen Fenster öffnen
+   Im neuen Fenster öffnen
    Geschätzte DIN-A4 Seiten-Breite
 
-   [90]Zur Redakteursansicht
-
-References
-
-   Visible links:
-   1. https://www.ds.mpg.de/2296592/Was_ist_Fantasie
-   2. https://www.ds.mpg.de/en
-   3. https://www.ds.mpg.de/forschung
-   4. https://www.ds.mpg.de/forschung/abteilungen
-   5. https://www.ds.mpg.de/dfpb
-   6. https://www.ds.mpg.de/plm
-   7. https://www.ds.mpg.de/mp-forschungsgruppen
-   8. https://www.ds.mpg.de/gruppenleiter
-   9. https://www.ds.mpg.de/3159211/fellows
-  10. https://www.ds.mpg.de/143280/other_rgs
-  11. https://www.ds.mpg.de/2806684/ExtSciMem
-  12. https://www.ds.mpg.de/emeriti
-  13. https://www.ds.mpg.de/aktuelles
-  14. https://www.ds.mpg.de/publikationen
-  15. https://www.ds.mpg.de/forschungsberichte
-  16. https://www.ds.mpg.de/148874/yearbook
-  17. https://www.ds.mpg.de/kontakt
-  18. https://www.ds.mpg.de/kontakt
-  19. https://www.ds.mpg.de/16437/pr
-  20. https://www.ds.mpg.de/2224282/mp_campus
-  21. https://www.ds.mpg.de/organisation
-  22. https://www.ds.mpg.de/beschaeftigte
-  23. https://www.ds.mpg.de/fachbeirat
-  24. https://www.ds.mpg.de/kuratorium
-  25. https://www.ds.mpg.de/16410/service
-  26. https://www.ds.mpg.de/wbz
-  27. https://www.ds.mpg.de/3842621/Facilities
-  28. https://www.ds.mpg.de/geschichte
-  29. https://max.mpg.de/
-  30. https://www.ds.mpg.de/aktuelles
-  31. https://www.ds.mpg.de/3705021/coronanews
-  32. https://www.ds.mpg.de/vortraege
-  33. https://www.ds.mpg.de/4024946/events
-  34. https://www.ds.mpg.de/stellenangebote
-  35. https://www.ds.mpg.de/stellenangebote
-  36. https://www.ds.mpg.de/ausbildung
-  37. https://www.ds.mpg.de/2776395/career_service
-  38. https://www.ds.mpg.de/3121070/guestprogram
-  39. https://www.ds.mpg.de/graduierte
-  40. https://www.maxplanckschools.de/de
-  41. https://www.ds.mpg.de/teaching
-  42. https://www.ds.mpg.de/chancengleichheit
-  43. https://www.mpibpc.mpg.de/kita
-  44. https://www.ds.mpg.de/onboarding
-  45. https://www.ds.mpg.de/3234443/applicants
-  46. https://welcome-to-suedniedersachsen.de/
-  47. https://www.ds.mpg.de/wbz
-  48. https://www.ds.mpg.de/2224282/mp_campus
-  49. https://goettingen-campus.de/de/
-  50. https://www.uni-goettingen.de/de/1.html
-  51. https://www.uni-goettingen.de/de/433694.html
-  52. https://uni-goettingen.de/de/608362.html
-  53. https://www.uni-goettingen.de/de/634473.html
-  54. https://www.uni-goettingen.de/de/56640.html
-  55. https://www.umg.eu/
-  56. https://dzhk.de/
-  57. https://herzzentrum.umg.eu/
-  58. https://www.uni-goettingen.de/de/615262.html
-  59. https://www.dpz.eu/de/startseite.html
-  60. https://www.ds.mpg.de/maxplanckcenter
-  61. https://www.ds.mpg.de/3940188/partnergroups
-  62. http://amir.unam.bilkent.edu.tr/people/
-  63. https://pure.korea.ac.kr/en/persons/hyejeong-kim
-  64. http://meng.itp.ac.cn/
-  65. https://www.mpg.de/maxplanckschools
-  66. https://mattertolife.maxplanckschools.org/de/home
-  67. https://www.uni-goettingen.de/de/556628.html
-  68. http://www.gpneuro.uni-goettingen.de/
-  69. https://www.uni-goettingen.de/de/58718.html
-  70. https://www.ds.mpg.de/3942032/further_partners
-  71. https://www.ds.mpg.de/3540426/former_mprg
-  72. https://www.ds.mpg.de/3631142/funded_projects
-  73. https://www.ds.mpg.de/3942325/consulting
-  74. https://mami.u-strasbg.fr/
-  75. https://www.nxwm.io/
-  76. https://www.ukri.org/councils/epsrc/
-  77. https://www.rki.de/DE/Home/homepage_node
-  78. https://www.bundesregierung.de/breg-de/suche/expertinnenrat-der-bundesregierung-2002396
-  79. https://iupap.org/
-  80. https://max.mpg.de/sites/ds
-  81. https://www.ds.mpg.de/en
-  82. https://www.ds.mpg.de/
-  83. https://www.ds.mpg.de/2296579/Archiv-2013
-  84. http://www.kindskoepfe.uni-goettingen.de/
-  85. https://www.ds.mpg.de/2296592/Was_ist_Fantasie#top
-  86. https://www.mpg.de/de
-  87. https://www.ds.mpg.de/impressum
-  88. https://www.ds.mpg.de/datenschutzhinweis
-  89. https://www.ds.mpg.de/2296592/Was_ist_Fantasie?print=yes
-  90. https://ds.iedit.mpg.de/2296592/Was_ist_Fantasie
-
-   Hidden links:
-  92. https://www.ds.mpg.de/
-  93. https://www.ds.mpg.de/2296592/Was_ist_Fantasie
-  94. https://www.mpg.de/de
+   Zur Redakteursansicht

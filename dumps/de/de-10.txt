@@ -1,139 +1,139 @@
-   #[1]alternate
+   #alternate
 
-   [2]Skip to content
+   Skip to content
 
-   IFRAME: [3]https://www.googletagmanager.com/ns.html?id=GTM-59BKGBD
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-59BKGBD
 
-   IFRAME: [4]https://www.googletagmanager.com/ns.html?id=GTM-59BKGBD
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-59BKGBD
 
-     * [5]DE
-     * [6]FR
+     * DE
+     * FR
 
 Header menu
 
    (BUTTON) v
-     * [7]Kontakt
-     * [8]HR FESTIVAL europe
-     * [9]Swiss HR Award
-     * [10]Mediadaten
-     * [11]Epaper
+     * Kontakt
+     * HR FESTIVAL europe
+     * Swiss HR Award
+     * Mediadaten
+     * Epaper
 
      *
      *
      *
      *
      *
-     * [12]Paywall
-     * [13]Newsletter
+     * Paywall
+     * Newsletter
 
    Business-Plattform für Human Resources
-   [14]Home
-   [15]Login [16]Member werden
+   Home
+   Login Member werden
    Search _______________
    Search (BUTTON) SearchSearch
 
 Main navigation DE
 
    (BUTTON) v
-     * [17]Membership
-          + [18]Benefits
-          + [19]Membership Programm
-          + [20]Member get Member
-     * [21]Themen
-          + [22]Arbeit und Recht
-          + [23]KI & Digitalisierung
-          + [24]Arbeitsmarkt
-          + [25]Porträt
-          + [26]HR Festival
-          + [27]Sesselrücker
-          + [28]Internationales HRM
-          + [29]Leadership und Management
-          + [30]Politik und Gesellschaft
-          + [31]Selbstmanagement
-          + [32]HR Dienstleistungen
-          + [33]HR Software
-          + [34]HR Tech
-          + [35]Aus- und Weiterbildung
-          + [36]Compensation & Benefits
-          + [37]Employer Branding
-          + [38]Gesundheitsmanagement
-          + [39]HR Strategie
-          + [40]Organisationsentwicklung
-          + [41]Recruiting
-          + [42]Talentmanagement
-     * [43]HR Community
-     * [44]Agenda
-          + [45]Eventberichte
-          + [46]Swiss HR Academy
-     * [47]Jobs
-          + [48]Stelle inserieren
-          + [49]Stelle suchen
-     * [50]TV
-     * [51]Podcast
-     * [52]Blog
+     * Membership
+          + Benefits
+          + Membership Programm
+          + Member get Member
+     * Themen
+          + Arbeit und Recht
+          + KI & Digitalisierung
+          + Arbeitsmarkt
+          + Porträt
+          + HR Festival
+          + Sesselrücker
+          + Internationales HRM
+          + Leadership und Management
+          + Politik und Gesellschaft
+          + Selbstmanagement
+          + HR Dienstleistungen
+          + HR Software
+          + HR Tech
+          + Aus- und Weiterbildung
+          + Compensation & Benefits
+          + Employer Branding
+          + Gesundheitsmanagement
+          + HR Strategie
+          + Organisationsentwicklung
+          + Recruiting
+          + Talentmanagement
+     * HR Community
+     * Agenda
+          + Eventberichte
+          + Swiss HR Academy
+     * Jobs
+          + Stelle inserieren
+          + Stelle suchen
+     * TV
+     * Podcast
+     * Blog
 
    Search _______________
    Search (BUTTON) SearchSearch
 
-     * [53]DE
-     * [54]FR
+     * DE
+     * FR
 
-   [55]login
+   login
 
 Main navigation DE
 
    (BUTTON) v
-     * [56]Membership
-          + [57]Benefits
-          + [58]Membership Programm
-          + [59]Member get Member
-     * [60]Themen
-          + [61]Arbeit und Recht
-          + [62]KI & Digitalisierung
-          + [63]Arbeitsmarkt
-          + [64]Porträt
-          + [65]HR Festival
-          + [66]Sesselrücker
-          + [67]Internationales HRM
-          + [68]Leadership und Management
-          + [69]Politik und Gesellschaft
-          + [70]Selbstmanagement
-          + [71]HR Dienstleistungen
-          + [72]HR Software
-          + [73]HR Tech
-          + [74]Aus- und Weiterbildung
-          + [75]Compensation & Benefits
-          + [76]Employer Branding
-          + [77]Gesundheitsmanagement
-          + [78]HR Strategie
-          + [79]Organisationsentwicklung
-          + [80]Recruiting
-          + [81]Talentmanagement
-     * [82]HR Community
-     * [83]Agenda
-          + [84]Eventberichte
-          + [85]Swiss HR Academy
-     * [86]Jobs
-          + [87]Stelle inserieren
-          + [88]Stelle suchen
-     * [89]TV
-     * [90]Podcast
-     * [91]Blog
+     * Membership
+          + Benefits
+          + Membership Programm
+          + Member get Member
+     * Themen
+          + Arbeit und Recht
+          + KI & Digitalisierung
+          + Arbeitsmarkt
+          + Porträt
+          + HR Festival
+          + Sesselrücker
+          + Internationales HRM
+          + Leadership und Management
+          + Politik und Gesellschaft
+          + Selbstmanagement
+          + HR Dienstleistungen
+          + HR Software
+          + HR Tech
+          + Aus- und Weiterbildung
+          + Compensation & Benefits
+          + Employer Branding
+          + Gesundheitsmanagement
+          + HR Strategie
+          + Organisationsentwicklung
+          + Recruiting
+          + Talentmanagement
+     * HR Community
+     * Agenda
+          + Eventberichte
+          + Swiss HR Academy
+     * Jobs
+          + Stelle inserieren
+          + Stelle suchen
+     * TV
+     * Podcast
+     * Blog
 
 Mobile menu
 
    (BUTTON) v
-     * [92]Mediadaten
+     * Mediadaten
 
      *
      *
      *
      *
-     * [93]Newsletter
+     * Newsletter
 
    Inhalte
 
-[94]Gesundheitsmanagement
+Gesundheitsmanagement
 
    «Stell dir vor…»
 
@@ -143,7 +143,7 @@ Fantasie als Schlüssel zur Resilienzssteigerung
    ihre Kraft mit den heilenden Einflüssen der Natur, etwa durch
    Praktiken wie das «Waldbaden» (Shinrin-yoku), verbunden, können Stress
    reduziert und das Wohlbefinden gesteigert werden.
-   von [95]Madeleine Grawehr • 24.10.2024
+   von Madeleine Grawehr • 24.10.2024
 
    Image
    Bild einer Person im Wald
@@ -154,7 +154,7 @@ Fantasie als Schlüssel zur Resilienzssteigerung
 Vorlesetext zur «Fantasiereise im Wald»
 
    Sie können den Vorlesetext zur «Fantasiereise im Wald» (siehe «HR
-   Today»-Magazin 5/2024, S.44, oder Box unten) [96]hier herunterladen.
+   Today»-Magazin 5/2024, S.44, oder Box unten) hier herunterladen.
 
 
    In Tagträumen können Menschen Heldinnen sein, vollkommene Liebhaber,
@@ -350,7 +350,7 @@ Fantasiereise im Wald – eine Anleitung
     2. Entspanne dich.
     3. Suche dir eine spezifische Zeit in deinem Leben, auf die du den
        Fokus richtest. Zum Beispiel heute in fünf Jahren.
-    4. Lese den Text, den du [97]hier findest.
+    4. Lese den Text, den du hier findest.
     5. Verbringe ein paar Momente damit, dieses «zukünftige Ich» zu
        visualisieren. Wie fühlt es sich an, dieser Person zu begegnen?
        Wie fühlt sich die Person? Was siehst du? Wer wird mit dir sein?
@@ -425,10 +425,10 @@ Reisen in die kreative Zwischenwelt ermöglichen
    mit dem Titel «‹Stell dir vor…›: Phantasie als Schlüssel zu anderen
    Welten und zur Steigerung der Resilienz» (56 Seiten) kann bei der CSP
    AG Competence Solutions Projects als Whitepaper bezogen werden unter:
-   [98]www.csp-ag.ch
-   Kommentieren 0 Kommentare [99]HR Cosmos
+   www.csp-ag.ch
+   Kommentieren 0 Kommentare HR Cosmos
    Madeleine Grawehr, CSP AG
-   Text: [100]Madeleine Grawehr
+   Text: Madeleine Grawehr
 
    Madeleine Grawehr absolvierte Studien der Betriebswirtschaftslehre, der
    digitalen Transformation und zuletzt eine Weiterbildung der positiven
@@ -436,8 +436,8 @@ Reisen in die kreative Zwischenwelt ermöglichen
    Operations» bei der CSP Competence Solutions Projects AG tätig, einer
    Unternehmensberatung für Transformation, Technologie, Organisation und
    Kultur.
-   [101]www.csp-ag.ch
-   Weitere Artikel von [102]Madeleine Grawehr
+   www.csp-ag.ch
+   Weitere Artikel von Madeleine Grawehr
 
 KOMMENTARE
 
@@ -459,183 +459,48 @@ KOMMENTIEREN
 Das könnte Sie auch interessieren
 
    Chancengleichheit
-   [103]Frauengesundheit als Schlüssel zum Geschäftserfolg
+   Frauengesundheit als Schlüssel zum Geschäftserfolg
 
    Image
    Stark_Frau_Team_iStock_web.jpg
-   [104]Die Ära der «One size fits all»-Strategien in der
-   Personalentwicklung und bei Wellbeing-Konzepten ist vorbei. Frauen
-   haben spezifische Bedürfnisse und Herausforderungen, die in
-   traditionellen Programmen sowie dem Generationen-Ansatz übersehen
-   werden.
+   Die Ära der «One size fits all»-Strategien in der Personalentwicklung
+   und bei Wellbeing-Konzepten ist vorbei. Frauen haben spezifische
+   Bedürfnisse und Herausforderungen, die in traditionellen Programmen
+   sowie dem Generationen-Ansatz übersehen werden.
    HR-Barometer 2024
-   [105]Stellenwert der Arbeit nimmt mit dem Alter zu
+   Stellenwert der Arbeit nimmt mit dem Alter zu
 
    Image
    Schweizer HR Barometer 2024 illustriert durch eine Geschäftsperson, die
    mit Fernglas in die Zukunft blickt. Der HR Barometer zeigt, was sich im
    Arbeitsmarkt verändert und vermittelt einen Einblick in die Einstellung
    zur Arbeit und Erwartungen an die Arbeit von Arbeitnehmenden.
-   [106]Der Schweizer HR-Barometer analysiert seit 2006 die Beziehung von
+   Der Schweizer HR-Barometer analysiert seit 2006 die Beziehung von
    Arbeitnehmenden zu ihren Arbeitgebenden und geht in der aktuellen
    Ausgabe vertieft der Frage nach, wie wichtig und sinnvoll
    Arbeitnehmende ihre Arbeit erleben.
    New Work
-   [107]Per Workation dem Winter entfliehen
+   Per Workation dem Winter entfliehen
 
    Image
    Eine Frau arbeitet am Laptop am Pool in den Tropen. Workation
    ermöglicht die Arbeit aus dem Ausland.
-   [108]Mitarbeitende wollen immer häufiger Arbeit und Freizeit in Form
-   von Workations an attraktiven Orten kombinieren. Unternehmen stehen vor
-   der Herausforderung, diesen Wunsch zu ermöglichen, ohne dabei
-   rechtliche und organisatorische Stolpersteine zu übersehen.
+   Mitarbeitende wollen immer häufiger Arbeit und Freizeit in Form von
+   Workations an attraktiven Orten kombinieren. Unternehmen stehen vor der
+   Herausforderung, diesen Wunsch zu ermöglichen, ohne dabei rechtliche
+   und organisatorische Stolpersteine zu übersehen.
 
-   [109]logo
+   logo
 
 Footer DE
 
    (BUTTON) v
-     * [110]Über uns
-     * [111]Kontakt
-     * [112]MEDIADATEN
-     * [113]Newsletter
-     * [114]Impressum
-     * [115]AGB
-     * [116]Datenschutz
+     * Über uns
+     * Kontakt
+     * MEDIADATEN
+     * Newsletter
+     * Impressum
+     * AGB
+     * Datenschutz
 
    ©2025 ALMA Medien AG
-
-References
-
-   Visible links:
-   1. https://www.hrtoday.ch/de/article/fantasie-als-schluessel-zur-resilienzssteigerung
-   2. https://www.hrtoday.ch/de/article/fantasie-als-schluessel-zur-resilienzssteigerung#main-content
-   3. https://www.googletagmanager.com/ns.html?id=GTM-59BKGBD
-   4. https://www.googletagmanager.com/ns.html?id=GTM-59BKGBD
-   5. https://www.hrtoday.ch/de/article/fantasie-als-schluessel-zur-resilienzssteigerung
-   6. https://www.hrtoday.ch/fr/node/161593
-   7. https://www.hrtoday.ch/de/contact
-   8. https://www.hrfestival.ch/
-   9. https://www.swisshraward.ch/
-  10. http://hrtoday.info/
-  11. https://bc.pressmatrix.com/de/profiles/dc54bc6df782/editions
-  12. https://www.hrtoday.ch/de/paywall?destination=cart
-  13. https://www.hrtoday.ch/de/newsletter
-  14. https://www.hrtoday.ch/de
-  15. https://www.hrtoday.ch/de/user/login
-  16. https://www.hrtoday.ch/de/membership
-  17. https://www.hrtoday.ch/de/membership
-  18. https://www.hrtoday.ch/de/membership
-  19. https://www.hrtoday.ch/de/membership-programm
-  20. https://www.hrtoday.ch/de/member-get-member
-  21. https://www.hrtoday.ch/de/themen
-  22. https://www.hrtoday.ch/de/themen/arbeit-und-recht
-  23. https://www.hrtoday.ch/de/articlecategories/digitalisierung
-  24. https://www.hrtoday.ch/de/articlecategories/arbeitsmarkt
-  25. https://www.hrtoday.ch/de/portraet
-  26. https://www.hrtoday.ch/de/articlecategories/hr-festival
-  27. https://www.hrtoday.ch/de/sesselruecker
-  28. https://www.hrtoday.ch/de/articlecategories/internationales-hrm
-  29. https://www.hrtoday.ch/de/articlecategories/leadership-und-management
-  30. https://www.hrtoday.ch/de/articlecategories/politik-und-gesellschaft
-  31. https://www.hrtoday.ch/de/articlecategories/selbstmanagement
-  32. https://www.hrtoday.ch/de/articlecategories/hr-dienstleistungen
-  33. https://www.hrtoday.ch/de/articlecategories/hr-software
-  34. https://www.hrtoday.ch/de/articlecategories/hr-tech
-  35. https://www.hrtoday.ch/de/articlecategories/aus-und-weiterbildung
-  36. https://www.hrtoday.ch/de/articlecategories/compensation-benefits
-  37. https://www.hrtoday.ch/de/articlecategories/employer-branding
-  38. https://www.hrtoday.ch/de/articlecategories/gesundheitsmanagement
-  39. https://www.hrtoday.ch/de/articlecategories/hr-strategie
-  40. https://www.hrtoday.ch/de/articlecategories/organisationsentwicklung
-  41. https://www.hrtoday.ch/de/articlecategories/recruiting
-  42. https://www.hrtoday.ch/de/articlecategories/talentmanagement
-  43. https://www.hrtoday.ch/de/hr-community
-  44. https://www.hrtoday.ch/de/agenda
-  45. https://www.hrtoday.ch/de/event_reports
-  46. https://www.hrtoday.ch/de/bildungsangebot
-  47. https://www.hrtoday.ch/de/hr-stellen
-  48. https://www.jobcloud.ch/c/de-ch/preise/
-  49. https://www.hrtoday.ch/de/hr-stellen
-  50. https://www.hrtoday.ch/de/portraet
-  51. https://www.hrtoday.ch/de/hr-today-podcast
-  52. http://blog.hrtoday.ch/
-  53. https://www.hrtoday.ch/de
-  54. https://www.hrtoday.ch/fr
-  55. https://www.hrtoday.ch/de/user
-  56. https://www.hrtoday.ch/de/membership
-  57. https://www.hrtoday.ch/de/membership
-  58. https://www.hrtoday.ch/de/membership-programm
-  59. https://www.hrtoday.ch/de/member-get-member
-  60. https://www.hrtoday.ch/de/themen
-  61. https://www.hrtoday.ch/de/themen/arbeit-und-recht
-  62. https://www.hrtoday.ch/de/articlecategories/digitalisierung
-  63. https://www.hrtoday.ch/de/articlecategories/arbeitsmarkt
-  64. https://www.hrtoday.ch/de/portraet
-  65. https://www.hrtoday.ch/de/articlecategories/hr-festival
-  66. https://www.hrtoday.ch/de/sesselruecker
-  67. https://www.hrtoday.ch/de/articlecategories/internationales-hrm
-  68. https://www.hrtoday.ch/de/articlecategories/leadership-und-management
-  69. https://www.hrtoday.ch/de/articlecategories/politik-und-gesellschaft
-  70. https://www.hrtoday.ch/de/articlecategories/selbstmanagement
-  71. https://www.hrtoday.ch/de/articlecategories/hr-dienstleistungen
-  72. https://www.hrtoday.ch/de/articlecategories/hr-software
-  73. https://www.hrtoday.ch/de/articlecategories/hr-tech
-  74. https://www.hrtoday.ch/de/articlecategories/aus-und-weiterbildung
-  75. https://www.hrtoday.ch/de/articlecategories/compensation-benefits
-  76. https://www.hrtoday.ch/de/articlecategories/employer-branding
-  77. https://www.hrtoday.ch/de/articlecategories/gesundheitsmanagement
-  78. https://www.hrtoday.ch/de/articlecategories/hr-strategie
-  79. https://www.hrtoday.ch/de/articlecategories/organisationsentwicklung
-  80. https://www.hrtoday.ch/de/articlecategories/recruiting
-  81. https://www.hrtoday.ch/de/articlecategories/talentmanagement
-  82. https://www.hrtoday.ch/de/hr-community
-  83. https://www.hrtoday.ch/de/agenda
-  84. https://www.hrtoday.ch/de/event_reports
-  85. https://www.hrtoday.ch/de/bildungsangebot
-  86. https://www.hrtoday.ch/de/hr-stellen
-  87. https://www.jobcloud.ch/c/de-ch/preise/
-  88. https://www.hrtoday.ch/de/hr-stellen
-  89. https://www.hrtoday.ch/de/portraet
-  90. https://www.hrtoday.ch/de/hr-today-podcast
-  91. http://blog.hrtoday.ch/
-  92. http://hrtoday.info/
-  93. https://www.hrtoday.ch/newsletter
-  94. https://www.hrtoday.ch/de/articlecategories/gesundheitsmanagement
-  95. https://www.hrtoday.ch/de/utcontent/madeleine-grawehr
-  96. https://www.hrtoday.ch/sites/hrtoday/files/2024-10/Enchanted-forest_Anleitender_Text.pdf
-  97. https://www.hrtoday.ch/sites/hrtoday/files/2024-10/Enchanted-forest_Anleitender_Text.pdf
-  98. http://www.csp-ag.ch/
-  99. https://hr-cosmos.starmind.com/
- 100. https://www.hrtoday.ch/de/utcontent/madeleine-grawehr
- 101. https://www.csp-ag.ch/
- 102. https://www.hrtoday.ch/de/utcontent/madeleine-grawehr
- 103. https://www.hrtoday.ch/de/article/frauengesundheit-als-schluessel-zum-geschaeftserfolg
- 104. https://www.hrtoday.ch/de/article/frauengesundheit-als-schluessel-zum-geschaeftserfolg
- 105. https://www.hrtoday.ch/de/article/stellenwert-der-arbeit-nimmt-mit-dem-alter-zu
- 106. https://www.hrtoday.ch/de/article/stellenwert-der-arbeit-nimmt-mit-dem-alter-zu
- 107. https://www.hrtoday.ch/de/article/workation-dem-winter-entfliehen
- 108. https://www.hrtoday.ch/de/article/workation-dem-winter-entfliehen
- 109. https://www.hrtoday.ch/de
- 110. https://www.hrtoday.ch/de/about
- 111. https://www.hrtoday.ch/de/contact
- 112. http://hrtoday.info/
- 113. https://www.hrtoday.ch/de/newsletter
- 114. https://www.hrtoday.ch/de/impressum
- 115. https://www.hrtoday.ch/terms
- 116. https://www.hrtoday.ch/de/datenschutz
-
-   Hidden links:
- 118. https://www.linkedin.com/groups/4815379
- 119. https://www.xing.com/news/pages/hr-today-184
- 120. https://www.instagram.com/hrtoday.ch/
- 121. https://www.facebook.com/HRtoday-1687100384836032/
- 122. https://twitter.com/hrtoday_ch
- 123. https://www.hrtoday.ch/de
- 124. https://twitter.com/hrtoday_ch
- 125. https://www.facebook.com/HRtoday-1687100384836032/
- 126. https://www.xing.com/news/pages/hr-today-184
- 127. https://www.linkedin.com/groups/4815379
- 128. https://www.hrtoday.ch/de
- 129. https://www.hrtoday.ch/de

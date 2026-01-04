@@ -66,7 +66,7 @@
     
     
     
-    var fc = "eyJhcHBDb25maWciOnsiZW5hYmxlZEZlYXR1cmVTd2l0Y2hlcyI6WyJCSVQtNjMyMF9EZWxldGVRZHBWaWV3RXZlbnRzIiwiQklULTU5MzBfdW5pZnlfYXdhcmRzIiwiQklULTU2NzgtZmFjZWJvb2stcGl4ZWwiLCJCSVQtNjAzMV9ncm91cF9zdWJzY3JpcHRpb25fbm90aWZpY2F0aW9ucyIsIkdELTk0NjItdmlzeC1pbnRlcnN0aXRpYWwiLCJHRi04ODcyX3Byb2ZpbGVfY29tcGxldGlvbl9wbGF0ZSIsIkJJVC01NjI3X2hvdGphciIsIkdELTkxOTctYWRzaGllbGQiLCJCSVQtNDc3MF91bnN1YnNjcmliZV9xdWVzdGlvbl9hbnN3ZXJfZm9sbG93IiwiQklULTYzNDRfQWlTdW1tYXJ5IiwiQklULTYwMjRfbGlua19wcmV2aWV3cyIsIlRUSC01M19NYWlsRG9tYWluQ2hlY2siLCJCSVQtNDI3M19sb2dfZHVwbGljYXRlX3ViX2V2ZW50cyIsIkJJVC01OTMwX3VuaWZ5X2F3YXJkc19hbGxfcXVlc3Rpb25UeXBlc19lbGlnaWJsZSIsIlRGSC0yMjY0X3hzX2hlYWRlciIsIkJJVC01NTU1X0dyb3VwcyIsIkdELTk0MzktZ2xvbWV4IiwiQklULTYyMDFfbGVnYWxfYWdlX2NvbnRlbnRfc2V0dGluZyIsIkJJVC15ZWFybHlfc3VtbWFyeSIsIlRUSC03Nl9zc3Jfd2l0aF9yZWFjdCIsIkJJVC01ODQ2X3NlYXJjaF9zdXJ2ZXkiLCJCSVRfdGhlbWVud2VsdGVuX3VuaXZlcnNhbCIsIkdGLTg4NzJfZGVtb2dyYXBoaWNfcXVlc3Rpb25zX2luX3BlcnNvbmFsaXR5X3F1aXoiLCJTRC01NTM3X2dyb3Vwc19pbl9wZXJzb25hbF9yZWNvbW1lbmRlciIsIkdELTk0OTAtY29udGVudHBhc3MtaW9zIiwiQklULTIwMTNfVmVydGljYWwtTWFpbHMtVGVzdGZyYWdlIiwiR0QtOTY1NC1zZWVkdGFnLWludGVyc3RpdGlhbCIsIkJJVC02MTkzX2ludGVyYWN0ZWRfd2l0aF9ncm91cF9tb2RhbCIsIlNELTU2MDgtcmVtb3ZlLWR1cGxpY2F0ZXMtY2F1c2VkLWJ5LXByaW9yaXRpZXMiXSwiYWN0aXZlQWJUZXN0cyI6W1siZ2YtQUItR0QtODE5My11dGlxIiwyXSxbImdmLUFCLUdGLTg4ODItcmVnaXN0cmF0aW9uLXRyaWdnZXItcGxhdGUiLDBdLFsiZ2YtQUItbW9uaXRvciIsMF0sWyJnZi1BQi1CSVQtNTk3OC1xdWVzdGlvbi10eXBlcyIsM10sWyJnZi1BQi1HRi04ODg1LXFkcC1idXR0b25zIiwwXSxbImdmLUFCLUdGLTg4ODQtcmV3b3JrLTQxMC1wYWdlIiwxXV0sInZlcnRpY2FsIjp7InBsYXRmb3JtIjoiZ2YiLCJuYW1lIjoiZ3V0ZWZyYWdlIiwiZG9tYWluIjoiZ3V0ZWZyYWdlLm5ldCIsImZ1bGxEb21haW4iOiJ3d3cuZ3V0ZWZyYWdlLm5ldCJ9LCJ2ZXJ0aWNhbE5hbWUiOiJndXRlZnJhZ2UiLCJhZENvbmZpZ3VyYXRpb24iOnsidGFncyI6WyJmcmVpemVpdCIsImtyZWF0aXZpdGFldCIsImZhbnRhc2llIl0sIm1hcmtldGluZ0NoYW5uZWwiOnsiY2hhbm5lbCI6Ik1lZGljYWxIZWFsdGgiLCJzdWJDaGFubmVsIjoiTWVudGFsSGVhbHRoIiwib3BlblJ0YjJDYXRzIjp7InBhZ2VjYXQiOlsiSUFCNyIsIklBQjctMzciLCJJQUI3LTgiLCJJQUI3LTkiLCJJQUI3LTE4IiwiSUFCNy00MCJdfX0sImlzQWR1bHRDb250ZW50IjpmYWxzZSwiYWJUZXN0Ijo2MCwiYWRUYWdDb25maWciOnsiZmVhdHVyZXMiOnsidmlzeEludGVyc3RpdGlhbCI6dHJ1ZX0sImFiVGVzdENvaG9ydHMiOnsidXRpcSI6Mn0sInZlcnRpY2FsIjp7InBsYXRmb3JtIjoiZ2YiLCJuYW1lIjoiZ3V0ZWZyYWdlIiwiZG9tYWluIjoiZ3V0ZWZyYWdlLm5ldCIsImZ1bGxEb21haW4iOiJ3d3cuZ3V0ZWZyYWdlLm5ldCJ9LCJpZDVDb25maWciOm51bGwsImxpdmVSYW1wQ29uZmlnIjpudWxsLCJzaGEyNTZFbWFpbCI6bnVsbCwic2hhMjU2b2ZNRDVFbWFpbCI6bnVsbCwiaWFiVjJTZWdtZW50cyI6WyIyMzkiLCIyODYiXSwiaWFiVjNTZWdtZW50cyI6WyIyMzkiLCIyODYiXSwiYWRTZXR1cFZhcmlhbnQiOiJ5b2MtaW50ZXJzdGl0aWFsIiwiY2xpZW50VHlwZSI6IndlYiJ9LCJ0YXJnZXRBdWRpZW5jZSI6eyJnZW5kZXIiOiJtYWxlIn0sImxpdmVBbnN3ZXJDb3VudCI6MTEsImlhYlYzU2VnbWVudHMiOlsiMjM5IiwiMjg2Il0sImNhdGVnb3J5SWRzIjpbXX0sImNtc0ZlYXR1cmVkQ29udGVudCI6eyJ0cmVuZGluZ1F1ZXN0aW9uc0xvZ2dlZE91dCI6eyJlbnRyaWVzIjpbeyJpZCI6NywidGl0bGUiOiJNZWludW5nIGRlcyBUYWdlczogQnJhdWNoZW4gbW9kZXJuZSBHZXNlbGxzY2hhZnRlbiDDvGJlcmhhdXB0IG5vY2gga2xhc3Npc2NoZSBQb3N0PyIsImxpbmsiOiJodHRwczovL3d3dy5ndXRlZnJhZ2UubmV0L3VtZnJhZ2UvcG9zdC1kYWVuZW1hcmstcGFrZXRlP3V0bV9jYW1wYWlnbj10cmVuZGluZy1xdWVzdGlvbnNfS1c1MV9NZFRfQnJhdWNodHNQb3N0JnV0bV9zb3VyY2U9aG9tZSZ1dG1fbWVkaXVtPXRyZW5kaW5nLXF1ZXN0aW9ucyIsInRyYWNraW5nTGFiZWwiOiJ0cmVuZGluZy1xdWVzdGlvbnNfS1c1MV9NZFRfQnJhdWNodHNQb3N0In0seyJpZCI6MTEsInRpdGxlIjoiV292b3IgaGFzdCBEdSBhbHMgRXJ3YWNoc2VuZXIgbm9jaCBBbmdzdD8iLCJsaW5rIjoiaHR0cHM6Ly93d3cuZ3V0ZWZyYWdlLm5ldC9mcmFnZS93b3Zvci1oYWJlbi1zaWUtYWxzLWVyd2FjaHNlbmVyLW5vY2gtYW5nc3Q/dXRtX2NhbXBhaWduPXRyZW5kaW5nLXF1ZXN0aW9uc19LVzUxX2Vyd2FjaHNlbkFuZ3N0JnV0bV9zb3VyY2U9aG9tZSZ1dG1fbWVkaXVtPXRyZW5kaW5nLXF1ZXN0aW9ucyIsInRyYWNraW5nTGFiZWwiOiJ0cmVuZGluZy1xdWVzdGlvbnNfS1c1MV9lcndhY2hzZW5BbmdzdCJ9LHsiaWQiOjUsInRpdGxlIjoiS29tbXQgZGVyIGRyaXR0ZSBXZWx0a3JpZWcgYmlzIDIwMzA/IFdhcyBkZW5rdCBpaHI/IiwibGluayI6Imh0dHBzOi8vd3d3Lmd1dGVmcmFnZS5uZXQvZGlza3Vzc2lvbi9rb21tdC1kZXItZHJpdHRlLXdlbHRrcmllZy1iaXMtMjAzMD91dG1fY2FtcGFpZ249dHJlbmRpbmctcXVlc3Rpb25zX0tXNTFfM1dLMzBKYWhyZSZ1dG1fc291cmNlPWhvbWUmdXRtX21lZGl1bT10cmVuZGluZy1xdWVzdGlvbnMiLCJ0cmFja2luZ0xhYmVsIjoidHJlbmRpbmctcXVlc3Rpb25zX0tXNTFfM1dLMzBKYWhyZSJ9LHsiaWQiOjksInRpdGxlIjoiRmluZGV0IGlociBlcyBrb21pc2NoLCB3ZW5uIGVpbmUgTXV0dGVyIGluIGRlciDDlmZmZW50bGljaGtlaXQgc3RpbGx0PyIsImxpbmsiOiJodHRwczovL3d3dy5ndXRlZnJhZ2UubmV0L2ZyYWdlL2ZpbmRldC1paHItZXMta29taXNjaC13ZW5uLWVpbmUtbXV0dGVyLWluLWRlci1vZWZmZW50bGljaGtlaXQtc3RpbGx0P3V0bV9jYW1wYWlnbj10cmVuZGluZy1xdWVzdGlvbnNfS1c1MV9vZWZmZW50bGljaFN0aWxsZW4mdXRtX3NvdXJjZT1ob21lJnV0bV9tZWRpdW09dHJlbmRpbmctcXVlc3Rpb25zIiwidHJhY2tpbmdMYWJlbCI6InRyZW5kaW5nLXF1ZXN0aW9uc19LVzUxX29lZmZlbnRsaWNoU3RpbGxlbiJ9LHsiaWQiOjMsInRpdGxlIjoiV8O8cmRldCBpaHIgZXVjaCB0cmF1ZW4sIGhpZXIgcmVpbnp1Z2VoZW4/IiwibGluayI6Imh0dHBzOi8vd3d3Lmd1dGVmcmFnZS5uZXQvdW1mcmFnZS93dWVyZGV0LWloci1ldWNoLXRyYXVlbi1oaWVyLXJlaW56dWdlaGVuP3V0bV9jYW1wYWlnbj10cmVuZGluZy1xdWVzdGlvbnNfS1c1MV9EdW5rbGVyV2FsZCZ1dG1fc291cmNlPWhvbWUmdXRtX21lZGl1bT10cmVuZGluZy1xdWVzdGlvbnMiLCJ0cmFja2luZ0xhYmVsIjoidHJlbmRpbmctcXVlc3Rpb25zX0tXNTFfRHVua2xlcldhbGQifSx7ImlkIjoxMiwidGl0bGUiOiJTaW5kIMOWc3RlcnJlaWNoZXIgZsO8ciBldWNoIERldXRzY2hlPyIsImxpbmsiOiJodHRwczovL3d3dy5ndXRlZnJhZ2UubmV0L3VtZnJhZ2Uvc2luZC1vZXN0ZXJyZWljaGVyLWZ1ZXItZXVjaC1kZXV0c2NoZS0xP3V0bV9jYW1wYWlnbj10cmVuZGluZy1xdWVzdGlvbnNfS1c1MV8lQzMlOTZEZSZ1dG1fc291cmNlPWhvbWUmdXRtX21lZGl1bT10cmVuZGluZy1xdWVzdGlvbnMiLCJ0cmFja2luZ0xhYmVsIjoidHJlbmRpbmctcXVlc3Rpb25zX0tXNTFfw5ZEZSJ9XX0sInRyZW5kaW5nVG9waWNzIjp7ImVudHJpZXMiOlt7ImlkIjoxLCJ0aXRsZSI6IkZlaWVyYWJlbmRmcmFnZSDwn5uL8J+MmSIsImxpbmsiOiJodHRwczovL3d3dy5ndXRlZnJhZ2UubmV0L3RhZy9mZWllcmFiZW5kZnJhZ2UvMT91dG1fY2FtcGFpZ249ZmVpZXJhYmVuZGZyYWdlJnV0bV9zb3VyY2U9aG9tZSZ1dG1fbWVkaXVtPXRyZW5kaW5nLXRvcGljcyIsInRyYWNraW5nTGFiZWwiOiJmZWllcmFiZW5kZnJhZ2UifSx7ImlkIjoyLCJ0aXRsZSI6Ik1laW51bmcgZGVzIFRhZ2VzIiwibGluayI6Imh0dHBzOi8vd3d3Lmd1dGVmcmFnZS5uZXQvdGFnL21laW51bmctZGVzLXRhZ2VzLzE/dXRtX2NhbXBhaWduPU1laW51bmctZGVzLVRhZ2VzJnV0bV9zb3VyY2U9aG9tZSZ1dG1fbWVkaXVtPXRyZW5kaW5nLXRvcGljcyIsInRyYWNraW5nTGFiZWwiOiJNZWludW5nLWRlcy1UYWdlcyJ9LHsiaWQiOjMsInRpdGxlIjoiVGhlbWVuc3BlY2lhbDogQXVzYmlsZHVuZ3NzdGFydCBpbSBIYW5kd2VyayDwn5ug77iPIiwibGluayI6Imh0dHBzOi8vd3d3Lmd1dGVmcmFnZS5uZXQvdGhlbWVuc3BlY2lhbC9hbWEtaGFuZHdlcms/dXRtX2NhbXBhaWduPVRoZW1lbnNwZWNpYWwtaGFuZHdlcmsmdXRtX3NvdXJjZT1ob21lJnV0bV9tZWRpdW09dHJlbmRpbmctdG9waWNzIiwidHJhY2tpbmdMYWJlbCI6IlRoZW1lbnNwZWNpYWwtaGFuZHdlcmsifSx7ImlkIjo1LCJ0aXRsZSI6IkJsaWNrd2VjaHNlbDogRGVpbmUgRnJhZ2VuIGFuIGVpbmUgdW5oZWlsYmFyIGRlcHJlc3NpdmUgUGVyc29uIiwibGluayI6Imh0dHBzOi8vd3d3Lmd1dGVmcmFnZS5uZXQvYmxpY2t3ZWNoc2VsL2FtYS1kZXByZXNzaW9uP3V0bV9jYW1wYWlnbj1CbGlja3dlY2hzZWwrRGVwcmVzc2lvbiZ1dG1fc291cmNlPWhvbWUmdXRtX21lZGl1bT10cmVuZGluZy10b3BpY3MiLCJ0cmFja2luZ0xhYmVsIjoiQmxpY2t3ZWNoc2VsIERlcHJlc3Npb24ifV19fSwidHJhY2tlciI6eyJ1YiI6Imd1dGVmcmFnZSIsImdhIjoiVUEtOTY1MjAxLTEiLCJsb2dnZWRJbiI6ZmFsc2UsImlzSW50ZXJuYWwiOmZhbHNlfSwiY2xpZW50VHlwZSI6IndlYiIsImlzVmFybmlzaE9mZiI6ZmFsc2UsImlzSW50ZXJuYWwiOmZhbHNlLCJwYXRoIjp7InNwcml0ZUFzc2V0IjoiL25tbXMtYXNzZXRzL2ltYWdlcy9pY29uLXNwcml0ZS0yMjAyOWI1OTRjZWU4YTA3ODAzODU0MjZlMDA0OTNlNi5zdmcifSwiY2FuYXJ5IjpmYWxzZSwiY29uc2VudENvbmZpZ3VyYXRpb24iOnsiZW5hYmxlZCI6dHJ1ZSwiY29udGVudHBhc3MiOiI0ZDhiNGZmMiIsImhpZGVGaXJzdExheWVyTWVzc2FnZSI6ZmFsc2UsImlzQ29udGVudFBhc3NVc2VyIjpmYWxzZSwiaGFzQ29udGVudFBhc3NBdXRoSGludCI6ZmFsc2UsImNvbnNlbnRtYW5hZ2VyRGVzaWduSWQiOjI4MjkwLCJjb25zZW50U3RyaW5nIjpudWxsLCJpc0xvZ2dlZEluIjpmYWxzZSwidXNlcklkIjpudWxsfSwic3RhdHVzQ29kZSI6MjAwfX0=";
+    var fc = "eyJhcHBDb25maWciOnsiZW5hYmxlZEZlYXR1cmVTd2l0Y2hlcyI6WyJCSVQtNjMyMF9EZWxldGVRZHBWaWV3RXZlbnRzIiwiQklULTU5MzBfdW5pZnlfYXdhcmRzIiwiQklULTU2NzgtZmFjZWJvb2stcGl4ZWwiLCJCSVQtNjAzMV9ncm91cF9zdWJzY3JpcHRpb25fbm90aWZpY2F0aW9ucyIsIkdELTk0NjItdmlzeC1pbnRlcnN0aXRpYWwiLCJHRi04ODcyX3Byb2ZpbGVfY29tcGxldGlvbl9wbGF0ZSIsIkJJVC01NjI3X2hvdGphciIsIkdELTkxOTctYWRzaGllbGQiLCJCSVQtNDc3MF91bnN1YnNjcmliZV9xdWVzdGlvbl9hbnN3ZXJfZm9sbG93IiwiQklULTYzNDRfQWlTdW1tYXJ5IiwiQklULTYwMjRfbGlua19wcmV2aWV3cyIsIlRUSC01M19NYWlsRG9tYWluQ2hlY2siLCJCSVQtNDI3M19sb2dfZHVwbGljYXRlX3ViX2V2ZW50cyIsIkJJVC01OTMwX3VuaWZ5X2F3YXJkc19hbGxfcXVlc3Rpb25UeXBlc19lbGlnaWJsZSIsIlRGSC0yMjY0X3hzX2hlYWRlciIsIkJJVC01NTU1X0dyb3VwcyIsIkdELTk0MzktZ2xvbWV4IiwiQklULTYyMDFfbGVnYWxfYWdlX2NvbnRlbnRfc2V0dGluZyIsIkJJVC15ZWFybHlfc3VtbWFyeSIsIlRUSC03Nl9zc3Jfd2l0aF9yZWFjdCIsIkJJVC01ODQ2X3NlYXJjaF9zdXJ2ZXkiLCJCSVRfdGhlbWVud2VsdGVuX3VuaXZlcnNhbCIsIkdGLTg4NzJfZGVtb2dyYXBoaWNfcXVlc3Rpb25zX2luX3BlcnNvbmFsaXR5X3F1aXoiLCJTRC01NTM3X2dyb3Vwc19pbl9wZXJzb25hbF9yZWNvbW1lbmRlciIsIkdELTk0OTAtY29udGVudHBhc3MtaW9zIiwiQklULTIwMTNfVmVydGljYWwtTWFpbHMtVGVzdGZyYWdlIiwiR0QtOTY1NC1zZWVkdGFnLWludGVyc3RpdGlhbCIsIkJJVC02MTkzX2ludGVyYWN0ZWRfd2l0aF9ncm91cF9tb2RhbCIsIlNELTU2MDgtcmVtb3ZlLWR1cGxpY2F0ZXMtY2F1c2VkLWJ5LXByaW9yaXRpZXMiXSwiYWN0aXZlQWJUZXN0cyI6W1siZ2YtQUItR0QtODE5My11dGlxIiwwXSxbImdmLUFCLUdGLTg4ODItcmVnaXN0cmF0aW9uLXRyaWdnZXItcGxhdGUiLDBdLFsiZ2YtQUItbW9uaXRvciIsMF0sWyJnZi1BQi1CSVQtNTk3OC1xdWVzdGlvbi10eXBlcyIsNF0sWyJnZi1BQi1HRi04ODg1LXFkcC1idXR0b25zIiwwXSxbImdmLUFCLUdGLTg4ODQtcmV3b3JrLTQxMC1wYWdlIiwxXV0sInZlcnRpY2FsIjp7InBsYXRmb3JtIjoiZ2YiLCJuYW1lIjoiZ3V0ZWZyYWdlIiwiZG9tYWluIjoiZ3V0ZWZyYWdlLm5ldCIsImZ1bGxEb21haW4iOiJ3d3cuZ3V0ZWZyYWdlLm5ldCJ9LCJ2ZXJ0aWNhbE5hbWUiOiJndXRlZnJhZ2UiLCJhZENvbmZpZ3VyYXRpb24iOnsidGFncyI6WyJmcmVpemVpdCIsImtyZWF0aXZpdGFldCIsImZhbnRhc2llIl0sIm1hcmtldGluZ0NoYW5uZWwiOnsiY2hhbm5lbCI6Ik1lZGljYWxIZWFsdGgiLCJzdWJDaGFubmVsIjoiTWVudGFsSGVhbHRoIiwib3BlblJ0YjJDYXRzIjp7InBhZ2VjYXQiOlsiSUFCNyIsIklBQjctMzciLCJJQUI3LTgiLCJJQUI3LTkiLCJJQUI3LTE4IiwiSUFCNy00MCJdfX0sImlzQWR1bHRDb250ZW50IjpmYWxzZSwiYWJUZXN0Ijo5OCwiYWRUYWdDb25maWciOnsiZmVhdHVyZXMiOnsidmlzeEludGVyc3RpdGlhbCI6dHJ1ZX0sImFiVGVzdENvaG9ydHMiOnsidXRpcSI6MH0sInZlcnRpY2FsIjp7InBsYXRmb3JtIjoiZ2YiLCJuYW1lIjoiZ3V0ZWZyYWdlIiwiZG9tYWluIjoiZ3V0ZWZyYWdlLm5ldCIsImZ1bGxEb21haW4iOiJ3d3cuZ3V0ZWZyYWdlLm5ldCJ9LCJpZDVDb25maWciOm51bGwsImxpdmVSYW1wQ29uZmlnIjpudWxsLCJzaGEyNTZFbWFpbCI6bnVsbCwic2hhMjU2b2ZNRDVFbWFpbCI6bnVsbCwiaWFiVjJTZWdtZW50cyI6WyIyMzkiLCIyODYiXSwiaWFiVjNTZWdtZW50cyI6WyIyMzkiLCIyODYiXSwiYWRTZXR1cFZhcmlhbnQiOiJ5b2MtaW50ZXJzdGl0aWFsIiwiY2xpZW50VHlwZSI6IndlYiJ9LCJ0YXJnZXRBdWRpZW5jZSI6eyJnZW5kZXIiOiJtYWxlIn0sImxpdmVBbnN3ZXJDb3VudCI6MTEsImlhYlYzU2VnbWVudHMiOlsiMjM5IiwiMjg2Il0sImNhdGVnb3J5SWRzIjpbXX0sImNtc0ZlYXR1cmVkQ29udGVudCI6eyJ0cmVuZGluZ1F1ZXN0aW9uc0xvZ2dlZE91dCI6eyJlbnRyaWVzIjpbeyJpZCI6NywidGl0bGUiOiJNZWludW5nIGRlcyBUYWdlczogSGFidCBJaHIgVm9yc8OkdHplIGbDvHIncyBOZXVlIEphaHI/ICIsImxpbmsiOiJodHRwczovL3d3dy5ndXRlZnJhZ2UubmV0L3VtZnJhZ2Uvdm9yc2FldHplLW5ldWphaHItcHN5Y2hvbG9naWU/dXRtX2NhbXBhaWduPXRyZW5kaW5nLXF1ZXN0aW9uc19LVzUzX01kVF9Wb3JzYWV0emUmdXRtX3NvdXJjZT1ob21lJnV0bV9tZWRpdW09dHJlbmRpbmctcXVlc3Rpb25zIiwidHJhY2tpbmdMYWJlbCI6InRyZW5kaW5nLXF1ZXN0aW9uc19LVzUzX01kVF9Wb3JzYWV0emUifSx7ImlkIjoxMSwidGl0bGUiOiJXaWV2aWVsIEdlbGQgZ2VidCBpaHIgZsO8ciBLbmFsbGVyZWkgYXVzPyIsImxpbmsiOiJodHRwczovL3d3dy5ndXRlZnJhZ2UubmV0L3VtZnJhZ2UvbnVyLW1hbC1zby1paHItbGllYmVuLXdpZXZpZWwtZ2VsZC1naWJ0LWloci1mdWVyLWtuYWxsZXJlaS1hdXM/dXRtX2NhbXBhaWduPXRyZW5kaW5nLXF1ZXN0aW9uc19LVzUzX0tuYWxsZXJlaSZ1dG1fc291cmNlPWhvbWUmdXRtX21lZGl1bT10cmVuZGluZy1xdWVzdGlvbnMiLCJ0cmFja2luZ0xhYmVsIjoidHJlbmRpbmctcXVlc3Rpb25zX0tXNTNfS25hbGxlcmVpIn0seyJpZCI6OSwidGl0bGUiOiJadXNhbW1lbmdlem9nZW4gdW5kIGljaCBkYXJmIGtlaW5lIEtla3NlIGJhY2tlbj8iLCJsaW5rIjoiaHR0cHM6Ly93d3cuZ3V0ZWZyYWdlLm5ldC9mcmFnZS96dXNhbW1lbmdlem9nZW4tdW5kLWljaC1kYXJmLWtlaW5lLWtla3NlLWJhY2tlbj91dG1fY2FtcGFpZ249dHJlbmRpbmctcXVlc3Rpb25zX0tXNTNfS2VpbmVLZWtzZSZ1dG1fc291cmNlPWhvbWUmdXRtX21lZGl1bT10cmVuZGluZy1xdWVzdGlvbnMiLCJ0cmFja2luZ0xhYmVsIjoidHJlbmRpbmctcXVlc3Rpb25zX0tXNTNfS2VpbmVLZWtzZSJ9LHsiaWQiOjMsInRpdGxlIjoiQXVmIHdlbGNoZSBGcmFnZSBhbnR3b3J0ZXN0IGR1IG1pdCBlaW5lciBMw7xnZT8iLCJsaW5rIjoiaHR0cHM6Ly93d3cuZ3V0ZWZyYWdlLm5ldC9mcmFnZS9hdWYtd2VsY2hlLWZyYWdlLWFudHdvcnRlc3QtZHUtbWl0LWVpbmVyLWx1ZWdlP3V0bV9jYW1wYWlnbj10cmVuZGluZy1xdWVzdGlvbnNfS1c1M19GcmFnZUx1ZWdlJnV0bV9zb3VyY2U9aG9tZSZ1dG1fbWVkaXVtPXRyZW5kaW5nLXF1ZXN0aW9ucyIsInRyYWNraW5nTGFiZWwiOiJ0cmVuZGluZy1xdWVzdGlvbnNfS1c1M19GcmFnZUx1ZWdlIn0seyJpZCI6NSwidGl0bGUiOiJXZWxjaGUgSmFocmUgd2FyZW4gZsO8ciBFdWNoIGJpcyBqZXR6dCBkaWUgQmVzdGVuIHVuZCB3YXJ1bT8iLCJsaW5rIjoiaHR0cHM6Ly93d3cuZ3V0ZWZyYWdlLm5ldC91bWZyYWdlL3dlbGNoZXMtamFoci13YXItZnVlci1ldWNoLWJpcy1qZXR6dC1kYXMtYmVzdGUtdW5kLXdhcnVtP3V0bV9jYW1wYWlnbj10cmVuZGluZy1xdWVzdGlvbnNfS1c1M19iZXN0ZXNKYWhyJnV0bV9zb3VyY2U9aG9tZSZ1dG1fbWVkaXVtPXRyZW5kaW5nLXF1ZXN0aW9ucyIsInRyYWNraW5nTGFiZWwiOiJ0cmVuZGluZy1xdWVzdGlvbnNfS1c1M19iZXN0ZXNKYWhyIn0seyJpZCI6MTIsInRpdGxlIjoiV2FzIGlzdCBkYXMgYmVzdGUgQXV0byBmw7xyIGVpbmUgWm9tYmllYXBva2FseXBzZT8iLCJsaW5rIjoiaHR0cHM6Ly93d3cuZ3V0ZWZyYWdlLm5ldC9kaXNrdXNzaW9uL3dhcy1pc3QtZGFzLWJlc3RlLWF1dG8tZnVlci1laW5lLXpvbWJpZWFwb2thbHlwc2U/dXRtX2NhbXBhaWduPXRyZW5kaW5nLXF1ZXN0aW9uc19LVzUzX0Fwb2thbHlwc2VBdXRvJnV0bV9zb3VyY2U9aG9tZSZ1dG1fbWVkaXVtPXRyZW5kaW5nLXF1ZXN0aW9ucyIsInRyYWNraW5nTGFiZWwiOiJ0cmVuZGluZy1xdWVzdGlvbnNfS1c1M19BcG9rYWx5cHNlQXV0byJ9XX0sInRyZW5kaW5nVG9waWNzIjp7ImVudHJpZXMiOlt7ImlkIjoxLCJ0aXRsZSI6IkZlaWVyYWJlbmRmcmFnZSDwn5uL8J+MmSIsImxpbmsiOiJodHRwczovL3d3dy5ndXRlZnJhZ2UubmV0L3RhZy9mZWllcmFiZW5kZnJhZ2UvMT91dG1fY2FtcGFpZ249ZmVpZXJhYmVuZGZyYWdlJnV0bV9zb3VyY2U9aG9tZSZ1dG1fbWVkaXVtPXRyZW5kaW5nLXRvcGljcyIsInRyYWNraW5nTGFiZWwiOiJmZWllcmFiZW5kZnJhZ2UifSx7ImlkIjoyLCJ0aXRsZSI6Ik1laW51bmcgZGVzIFRhZ2VzIiwibGluayI6Imh0dHBzOi8vd3d3Lmd1dGVmcmFnZS5uZXQvdGFnL21laW51bmctZGVzLXRhZ2VzLzE/dXRtX2NhbXBhaWduPU1laW51bmctZGVzLVRhZ2VzJnV0bV9zb3VyY2U9aG9tZSZ1dG1fbWVkaXVtPXRyZW5kaW5nLXRvcGljcyIsInRyYWNraW5nTGFiZWwiOiJNZWludW5nLWRlcy1UYWdlcyJ9LHsiaWQiOjMsInRpdGxlIjoiVGhlbWVuc3BlY2lhbDogQXVzYmlsZHVuZ3NzdGFydCBpbSBIYW5kd2VyayDwn5ug77iPIiwibGluayI6Imh0dHBzOi8vd3d3Lmd1dGVmcmFnZS5uZXQvdGhlbWVuc3BlY2lhbC9hbWEtaGFuZHdlcms/dXRtX2NhbXBhaWduPVRoZW1lbnNwZWNpYWwtaGFuZHdlcmsmdXRtX3NvdXJjZT1ob21lJnV0bV9tZWRpdW09dHJlbmRpbmctdG9waWNzIiwidHJhY2tpbmdMYWJlbCI6IlRoZW1lbnNwZWNpYWwtaGFuZHdlcmsifSx7ImlkIjo1LCJ0aXRsZSI6IkJsaWNrd2VjaHNlbDogRGVpbmUgRnJhZ2VuIGFuIGVpbmUgdW5oZWlsYmFyIGRlcHJlc3NpdmUgUGVyc29uIiwibGluayI6Imh0dHBzOi8vd3d3Lmd1dGVmcmFnZS5uZXQvYmxpY2t3ZWNoc2VsL2FtYS1kZXByZXNzaW9uP3V0bV9jYW1wYWlnbj1CbGlja3dlY2hzZWwrRGVwcmVzc2lvbiZ1dG1fc291cmNlPWhvbWUmdXRtX21lZGl1bT10cmVuZGluZy10b3BpY3MiLCJ0cmFja2luZ0xhYmVsIjoiQmxpY2t3ZWNoc2VsIERlcHJlc3Npb24ifV19fSwidHJhY2tlciI6eyJ1YiI6Imd1dGVmcmFnZSIsImdhIjoiVUEtOTY1MjAxLTEiLCJsb2dnZWRJbiI6ZmFsc2UsImlzSW50ZXJuYWwiOmZhbHNlfSwiY2xpZW50VHlwZSI6IndlYiIsImlzVmFybmlzaE9mZiI6ZmFsc2UsImlzSW50ZXJuYWwiOmZhbHNlLCJwYXRoIjp7InNwcml0ZUFzc2V0IjoiL25tbXMtYXNzZXRzL2ltYWdlcy9pY29uLXNwcml0ZS0yMjAyOWI1OTRjZWU4YTA3ODAzODU0MjZlMDA0OTNlNi5zdmcifSwiY2FuYXJ5IjpmYWxzZSwiY29uc2VudENvbmZpZ3VyYXRpb24iOnsiZW5hYmxlZCI6dHJ1ZSwiY29udGVudHBhc3MiOiI0ZDhiNGZmMiIsImhpZGVGaXJzdExheWVyTWVzc2FnZSI6ZmFsc2UsImlzQ29udGVudFBhc3NVc2VyIjpmYWxzZSwiaGFzQ29udGVudFBhc3NBdXRoSGludCI6ZmFsc2UsImNvbnNlbnRtYW5hZ2VyRGVzaWduSWQiOjI4MjkwLCJjb25zZW50U3RyaW5nIjpudWxsLCJpc0xvZ2dlZEluIjpmYWxzZSwidXNlcklkIjpudWxsfSwic3RhdHVzQ29kZSI6MjAwfX0=";
     
 </script>
 
@@ -117,12 +117,12 @@
 
 
 
-<script src="/nmms-assets/js/bundle-qdp-499d223f2ced0e4f2cd0.min.js" async></script>
+<script src="/nmms-assets/js/bundle-qdp-7fc96bf2306b557d8c6b.min.js" async></script>
 
-<link rel="preload" href="/nmms-assets/css/style-qdp-06cb1002016414ed848e.min.css" as="style" onload="this.rel='stylesheet'"
+<link rel="preload" href="/nmms-assets/css/style-qdp-c259751f1c6eac6a5a41.min.css" as="style" onload="this.rel='stylesheet'"
       onerror="this.rel='stylesheet'">
 <noscript>
-  <link rel="stylesheet" href="/nmms-assets/css/style-qdp-06cb1002016414ed848e.min.css">
+  <link rel="stylesheet" href="/nmms-assets/css/style-qdp-c259751f1c6eac6a5a41.min.css">
 </noscript>
 
 <link rel="preload" href="/nmms-assets/fonts/gstatic/robotoslab/v7/dazS1PrQQuCxC3iOAJFEJf79_ZuUxCigM2DespTnFaw.woff2"
@@ -144,10 +144,10 @@
 
   
     <script async type="module" src="https://gutefrage.h5v.eu/809/moli_694ba9303a72510695fe.min.mjs"
-            data-ad-tag-config="{&quot;features&quot;:{&quot;visxInterstitial&quot;:true},&quot;abTestCohorts&quot;:{&quot;utiq&quot;:2},&quot;vertical&quot;:{&quot;platform&quot;:&quot;gf&quot;,&quot;name&quot;:&quot;gutefrage&quot;,&quot;domain&quot;:&quot;gutefrage.net&quot;,&quot;fullDomain&quot;:&quot;www.gutefrage.net&quot;},&quot;id5Config&quot;:null,&quot;liveRampConfig&quot;:null,&quot;sha256Email&quot;:null,&quot;sha256ofMD5Email&quot;:null,&quot;iabV2Segments&quot;:[&quot;239&quot;,&quot;286&quot;],&quot;iabV3Segments&quot;:[&quot;239&quot;,&quot;286&quot;],&quot;adSetupVariant&quot;:&quot;yoc-interstitial&quot;,&quot;clientType&quot;:&quot;web&quot;}"
+            data-ad-tag-config="{&quot;features&quot;:{&quot;visxInterstitial&quot;:true},&quot;abTestCohorts&quot;:{&quot;utiq&quot;:0},&quot;vertical&quot;:{&quot;platform&quot;:&quot;gf&quot;,&quot;name&quot;:&quot;gutefrage&quot;,&quot;domain&quot;:&quot;gutefrage.net&quot;,&quot;fullDomain&quot;:&quot;www.gutefrage.net&quot;},&quot;id5Config&quot;:null,&quot;liveRampConfig&quot;:null,&quot;sha256Email&quot;:null,&quot;sha256ofMD5Email&quot;:null,&quot;iabV2Segments&quot;:[&quot;239&quot;,&quot;286&quot;],&quot;iabV3Segments&quot;:[&quot;239&quot;,&quot;286&quot;],&quot;adSetupVariant&quot;:&quot;yoc-interstitial&quot;,&quot;clientType&quot;:&quot;web&quot;}"
             data-ref="moli-ad-tag"></script>
     <script async nomodule src="https://gutefrage.h5v.eu/809/moli_es5_6175892702d9c7a9e401.min.js"
-            data-ad-tag-config="{&quot;features&quot;:{&quot;visxInterstitial&quot;:true},&quot;abTestCohorts&quot;:{&quot;utiq&quot;:2},&quot;vertical&quot;:{&quot;platform&quot;:&quot;gf&quot;,&quot;name&quot;:&quot;gutefrage&quot;,&quot;domain&quot;:&quot;gutefrage.net&quot;,&quot;fullDomain&quot;:&quot;www.gutefrage.net&quot;},&quot;id5Config&quot;:null,&quot;liveRampConfig&quot;:null,&quot;sha256Email&quot;:null,&quot;sha256ofMD5Email&quot;:null,&quot;iabV2Segments&quot;:[&quot;239&quot;,&quot;286&quot;],&quot;iabV3Segments&quot;:[&quot;239&quot;,&quot;286&quot;],&quot;adSetupVariant&quot;:&quot;yoc-interstitial&quot;,&quot;clientType&quot;:&quot;web&quot;}"></script>
+            data-ad-tag-config="{&quot;features&quot;:{&quot;visxInterstitial&quot;:true},&quot;abTestCohorts&quot;:{&quot;utiq&quot;:0},&quot;vertical&quot;:{&quot;platform&quot;:&quot;gf&quot;,&quot;name&quot;:&quot;gutefrage&quot;,&quot;domain&quot;:&quot;gutefrage.net&quot;,&quot;fullDomain&quot;:&quot;www.gutefrage.net&quot;},&quot;id5Config&quot;:null,&quot;liveRampConfig&quot;:null,&quot;sha256Email&quot;:null,&quot;sha256ofMD5Email&quot;:null,&quot;iabV2Segments&quot;:[&quot;239&quot;,&quot;286&quot;],&quot;iabV3Segments&quot;:[&quot;239&quot;,&quot;286&quot;],&quot;adSetupVariant&quot;:&quot;yoc-interstitial&quot;,&quot;clientType&quot;:&quot;web&quot;}"></script>
 
 
       
@@ -365,27 +365,27 @@
 
         
           <li class="PrimaryNav-subListElement">
-            <a class="PrimaryNav-item" href="https://www.gutefrage.net/umfrage/post-daenemark-pakete?utm_campaign&#x3D;trending-questions_KW51_MdT_BrauchtsPost&amp;utm_source&#x3D;home&amp;utm_medium&#x3D;trending-questions">Meinung des Tages: Brauchen moderne Gesellschaften überhaupt noch klassische Post?</a>
+            <a class="PrimaryNav-item" href="https://www.gutefrage.net/umfrage/vorsaetze-neujahr-psychologie?utm_campaign&#x3D;trending-questions_KW53_MdT_Vorsaetze&amp;utm_source&#x3D;home&amp;utm_medium&#x3D;trending-questions">Meinung des Tages: Habt Ihr Vorsätze für&#x27;s Neue Jahr? </a>
           </li>
         
           <li class="PrimaryNav-subListElement">
-            <a class="PrimaryNav-item" href="https://www.gutefrage.net/frage/wovor-haben-sie-als-erwachsener-noch-angst?utm_campaign&#x3D;trending-questions_KW51_erwachsenAngst&amp;utm_source&#x3D;home&amp;utm_medium&#x3D;trending-questions">Wovor hast Du als Erwachsener noch Angst?</a>
+            <a class="PrimaryNav-item" href="https://www.gutefrage.net/umfrage/nur-mal-so-ihr-lieben-wieviel-geld-gibt-ihr-fuer-knallerei-aus?utm_campaign&#x3D;trending-questions_KW53_Knallerei&amp;utm_source&#x3D;home&amp;utm_medium&#x3D;trending-questions">Wieviel Geld gebt ihr für Knallerei aus?</a>
           </li>
         
           <li class="PrimaryNav-subListElement">
-            <a class="PrimaryNav-item" href="https://www.gutefrage.net/diskussion/kommt-der-dritte-weltkrieg-bis-2030?utm_campaign&#x3D;trending-questions_KW51_3WK30Jahre&amp;utm_source&#x3D;home&amp;utm_medium&#x3D;trending-questions">Kommt der dritte Weltkrieg bis 2030? Was denkt ihr?</a>
+            <a class="PrimaryNav-item" href="https://www.gutefrage.net/frage/zusammengezogen-und-ich-darf-keine-kekse-backen?utm_campaign&#x3D;trending-questions_KW53_KeineKekse&amp;utm_source&#x3D;home&amp;utm_medium&#x3D;trending-questions">Zusammengezogen und ich darf keine Kekse backen?</a>
           </li>
         
           <li class="PrimaryNav-subListElement">
-            <a class="PrimaryNav-item" href="https://www.gutefrage.net/frage/findet-ihr-es-komisch-wenn-eine-mutter-in-der-oeffentlichkeit-stillt?utm_campaign&#x3D;trending-questions_KW51_oeffentlichStillen&amp;utm_source&#x3D;home&amp;utm_medium&#x3D;trending-questions">Findet ihr es komisch, wenn eine Mutter in der Öffentlichkeit stillt?</a>
+            <a class="PrimaryNav-item" href="https://www.gutefrage.net/frage/auf-welche-frage-antwortest-du-mit-einer-luege?utm_campaign&#x3D;trending-questions_KW53_FrageLuege&amp;utm_source&#x3D;home&amp;utm_medium&#x3D;trending-questions">Auf welche Frage antwortest du mit einer Lüge?</a>
           </li>
         
           <li class="PrimaryNav-subListElement">
-            <a class="PrimaryNav-item" href="https://www.gutefrage.net/umfrage/wuerdet-ihr-euch-trauen-hier-reinzugehen?utm_campaign&#x3D;trending-questions_KW51_DunklerWald&amp;utm_source&#x3D;home&amp;utm_medium&#x3D;trending-questions">Würdet ihr euch trauen, hier reinzugehen?</a>
+            <a class="PrimaryNav-item" href="https://www.gutefrage.net/umfrage/welches-jahr-war-fuer-euch-bis-jetzt-das-beste-und-warum?utm_campaign&#x3D;trending-questions_KW53_bestesJahr&amp;utm_source&#x3D;home&amp;utm_medium&#x3D;trending-questions">Welche Jahre waren für Euch bis jetzt die Besten und warum?</a>
           </li>
         
           <li class="PrimaryNav-subListElement">
-            <a class="PrimaryNav-item" href="https://www.gutefrage.net/umfrage/sind-oesterreicher-fuer-euch-deutsche-1?utm_campaign&#x3D;trending-questions_KW51_%C3%96De&amp;utm_source&#x3D;home&amp;utm_medium&#x3D;trending-questions">Sind Österreicher für euch Deutsche?</a>
+            <a class="PrimaryNav-item" href="https://www.gutefrage.net/diskussion/was-ist-das-beste-auto-fuer-eine-zombieapokalypse?utm_campaign&#x3D;trending-questions_KW53_ApokalypseAuto&amp;utm_source&#x3D;home&amp;utm_medium&#x3D;trending-questions">Was ist das beste Auto für eine Zombieapokalypse?</a>
           </li>
         
 
@@ -684,7 +684,7 @@
         author-name="verreisterNutzer"
           author-href="/nutzer/verreisterNutzer8kY2JM5NsD8wWPMtPaNg"
         created-at="2011-11-22T16:13:37+01:00"
-        views-count="1426"
+        views-count="1428"
         is-incognito="false"
       >
         <div class="u-hidden">
@@ -828,7 +828,20 @@
 
     
 
-    
+    <gf-write-answer-trigger>
+      <gf-track event="click" tracker="ub" category="question-action-bar-answer-button" action="click">
+        <button
+  
+  
+  
+  class="Button Button--flatBlue u-mtm"
+  
+>
+  Antworten
+</button>
+
+      </gf-track>
+    </gf-write-answer-trigger>
 
     
   </div>
@@ -1030,7 +1043,8 @@
     <div class="u-flex u-flexAlignItemsCenter Answer-actionBar">
       <div class="u-mra">
           
-          <gf-answer-voting-logged-out
+          <gf-login-modal-trigger funnel="vote-answer">
+            <gf-answer-voting-logged-out
   question-id="6521828"
   question-type="Advice"
   answer-id="31188228"
@@ -1038,16 +1052,9 @@
   downvotes="1"
 ></gf-answer-voting-logged-out>
 
-        
+          
+        </gf-login-modal-trigger>
       </div>
-
-      
-
-      
-
-      
-
-      
 
       
     </div>
@@ -1237,7 +1244,8 @@
     <div class="u-flex u-flexAlignItemsCenter Answer-actionBar">
       <div class="u-mra">
           
-          <gf-answer-voting-logged-out
+          <gf-login-modal-trigger funnel="vote-answer">
+            <gf-answer-voting-logged-out
   question-id="6521828"
   question-type="Advice"
   answer-id="31188382"
@@ -1245,16 +1253,9 @@
   downvotes="1"
 ></gf-answer-voting-logged-out>
 
-        
+          
+        </gf-login-modal-trigger>
       </div>
-
-      
-
-      
-
-      
-
-      
 
       
     </div>
@@ -1452,7 +1453,8 @@ Doch die Kraft in eigene Welten einzutauchen und ein Stück aus ihnen - sei es i
     <div class="u-flex u-flexAlignItemsCenter Answer-actionBar">
       <div class="u-mra">
           
-          <gf-answer-voting-logged-out
+          <gf-login-modal-trigger funnel="vote-answer">
+            <gf-answer-voting-logged-out
   question-id="6521828"
   question-type="Advice"
   answer-id="33295803"
@@ -1460,16 +1462,9 @@ Doch die Kraft in eigene Welten einzutauchen und ein Stück aus ihnen - sei es i
   downvotes="0"
 ></gf-answer-voting-logged-out>
 
-        
+          
+        </gf-login-modal-trigger>
       </div>
-
-      
-
-      
-
-      
-
-      
 
       
     </div>
@@ -1653,7 +1648,8 @@ Doch die Kraft in eigene Welten einzutauchen und ein Stück aus ihnen - sei es i
     <div class="u-flex u-flexAlignItemsCenter Answer-actionBar">
       <div class="u-mra">
           
-          <gf-answer-voting-logged-out
+          <gf-login-modal-trigger funnel="vote-answer">
+            <gf-answer-voting-logged-out
   question-id="6521828"
   question-type="Advice"
   answer-id="31689367"
@@ -1661,16 +1657,9 @@ Doch die Kraft in eigene Welten einzutauchen und ein Stück aus ihnen - sei es i
   downvotes="1"
 ></gf-answer-voting-logged-out>
 
-        
+          
+        </gf-login-modal-trigger>
       </div>
-
-      
-
-      
-
-      
-
-      
 
       
     </div>
@@ -1851,7 +1840,8 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
     <div class="u-flex u-flexAlignItemsCenter Answer-actionBar">
       <div class="u-mra">
           
-          <gf-answer-voting-logged-out
+          <gf-login-modal-trigger funnel="vote-answer">
+            <gf-answer-voting-logged-out
   question-id="6521828"
   question-type="Advice"
   answer-id="31188287"
@@ -1859,16 +1849,9 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
   downvotes="1"
 ></gf-answer-voting-logged-out>
 
-        
+          
+        </gf-login-modal-trigger>
       </div>
-
-      
-
-      
-
-      
-
-      
 
       
     </div>
@@ -2054,7 +2037,7 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
   
     <div class="u-mtm">
       
-<div id="listingElement1" data-related-question-id="86719196" data-pool="superseo">
+<div id="listingElement1" data-related-question-id="53417385" data-pool="superseo">
   <article class="Plate ListingElement  " data-ref="ListingElement" data-listing-id="" data-mod="question-">
     
 
@@ -2062,15 +2045,15 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
     <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
     
       
-      <a href="/frage/ist-es-auf-dauer-schlimm-in-einer-fantasie-welt-zu-leben" class="ListingElement-questionLink" data-e2e-ref="listing-element-1">
+      <a href="/frage/ich-moechte-nicht-in-meiner-realen-welt-leben-was-kann-ich-tun" class="ListingElement-questionLink" data-e2e-ref="listing-element-1">
       
-        <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Ist es auf Dauer schlimm in einer Fantasie Welt zu leben?</h3>
+        <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Ich möchte nicht in meiner realen welt leben was kann ich tun?</h3>
 
         
           
             <gf-shortened-block content-height="75"
               class="ContentBody ListingElement-body u-mbm is-short">
-              <div><p>In der Fantasie mit seinem Lehrer zusammen zu sein. </p></div>
+              <div><p>Wenn ich in der schule sitze im bus sitze einen Film schaue oder abends im bett liege dann bin ich in so einer fantasie welt in MEINER Welt und wenn ich dann wieder in der realen welt bin will ich nichtmehr leben kennt das jemand? Was kann man dagegen machen?</p></div>
             </gf-shortened-block>
           
         
@@ -2096,7 +2079,7 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
       <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
       
         
-        <a href="/frage/ist-es-auf-dauer-schlimm-in-einer-fantasie-welt-zu-leben" class="ListingElement-questionLink" data-e2e-ref="listing-element-1">
+        <a href="/frage/ich-moechte-nicht-in-meiner-realen-welt-leben-was-kann-ich-tun" class="ListingElement-questionLink" data-e2e-ref="listing-element-1">
         
           
             
@@ -2134,7 +2117,7 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
   
     <div class="u-mtm">
       
-<div id="listingElement2" data-related-question-id="53417385" data-pool="superseo">
+<div id="listingElement2" data-related-question-id="95627834" data-pool="superseo">
   <article class="Plate ListingElement  " data-ref="ListingElement" data-listing-id="" data-mod="question-">
     
 
@@ -2142,76 +2125,7 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
     <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
     
       
-      <a href="/frage/ich-moechte-nicht-in-meiner-realen-welt-leben-was-kann-ich-tun" class="ListingElement-questionLink" data-e2e-ref="listing-element-2">
-      
-        <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Ich möchte nicht in meiner realen welt leben was kann ich tun?</h3>
-
-        
-          
-            <gf-shortened-block content-height="75"
-              class="ContentBody ListingElement-body u-mbm is-short">
-              <div><p>Wenn ich in der schule sitze im bus sitze einen Film schaue oder abends im bett liege dann bin ich in so einer fantasie welt in MEINER Welt und wenn ich dann wieder in der realen welt bin will ich nichtmehr leben kennt das jemand? Was kann man dagegen machen?</p></div>
-            </gf-shortened-block>
-          
-        
-
-        
-
-        
-
-        
-
-      
-      </a>
-      
-
-    
-    </gf-track>
-    
-
-    <div class="u-flex u-flexAlignItemsCenter ListingElement-padding ">
-
-      
-      
-      <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
-      
-        
-        <a href="/frage/ich-moechte-nicht-in-meiner-realen-welt-leben-was-kann-ich-tun" class="ListingElement-questionLink" data-e2e-ref="listing-element-2">
-        
-          
-            
-              <div class="Link">...zum Beitrag</div>
-            
-          
-        
-        </a>
-        
-
-      
-      </gf-track>
-      
-
-      
-      
-
-    </div>
-  </article>
-</div>
-
-    </div>
-    
-  
-    <div class="u-mtm">
-      
-<div id="listingElement3" data-related-question-id="95627834" data-pool="superseo">
-  <article class="Plate ListingElement  " data-ref="ListingElement" data-listing-id="" data-mod="question-">
-    
-
-    
-    <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
-    
-      
-      <a href="/frage/lebe-in-einer-art-fantasiewelt" class="ListingElement-questionLink" data-e2e-ref="listing-element-3">
+      <a href="/frage/lebe-in-einer-art-fantasiewelt" class="ListingElement-questionLink" data-e2e-ref="listing-element-2">
       
         <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Lebe in einer Art Fantasiewelt?</h3>
 
@@ -2245,7 +2159,76 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
       <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
       
         
-        <a href="/frage/lebe-in-einer-art-fantasiewelt" class="ListingElement-questionLink" data-e2e-ref="listing-element-3">
+        <a href="/frage/lebe-in-einer-art-fantasiewelt" class="ListingElement-questionLink" data-e2e-ref="listing-element-2">
+        
+          
+            
+              <div class="Link">...zum Beitrag</div>
+            
+          
+        
+        </a>
+        
+
+      
+      </gf-track>
+      
+
+      
+      
+
+    </div>
+  </article>
+</div>
+
+    </div>
+    
+  
+    <div class="u-mtm">
+      
+<div id="listingElement3" data-related-question-id="86719196" data-pool="superseo">
+  <article class="Plate ListingElement  " data-ref="ListingElement" data-listing-id="" data-mod="question-">
+    
+
+    
+    <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
+    
+      
+      <a href="/frage/ist-es-auf-dauer-schlimm-in-einer-fantasie-welt-zu-leben" class="ListingElement-questionLink" data-e2e-ref="listing-element-3">
+      
+        <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Ist es auf Dauer schlimm in einer Fantasie Welt zu leben?</h3>
+
+        
+          
+            <gf-shortened-block content-height="75"
+              class="ContentBody ListingElement-body u-mbm is-short">
+              <div><p>In der Fantasie mit seinem Lehrer zusammen zu sein. </p></div>
+            </gf-shortened-block>
+          
+        
+
+        
+
+        
+
+        
+
+      
+      </a>
+      
+
+    
+    </gf-track>
+    
+
+    <div class="u-flex u-flexAlignItemsCenter ListingElement-padding ">
+
+      
+      
+      <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
+      
+        
+        <a href="/frage/ist-es-auf-dauer-schlimm-in-einer-fantasie-welt-zu-leben" class="ListingElement-questionLink" data-e2e-ref="listing-element-3">
         
           
             
@@ -2353,7 +2336,7 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
   
     <div class="u-mtm">
       
-<div id="listingElement5" data-related-question-id="140920851" data-pool="superseo">
+<div id="listingElement5" data-related-question-id="84954267" data-pool="superseo">
   <article class="Plate ListingElement  " data-ref="ListingElement" data-listing-id="" data-mod="question-">
     
 
@@ -2361,15 +2344,17 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
     <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
     
       
-      <a href="/frage/hattet-ihr-auch-nur-in-der-fantasie-eine-chance-irgendetwas-angenehmes-zu-erreichen-und-konntet-ihr-nur-in-der-fantasie-menschlich-existieren" class="ListingElement-questionLink" data-e2e-ref="listing-element-5">
+      <a href="/frage/ich-habe-meine-fantasie-und-kreativitaet-verloren---wie-erhalte-ich-sie-zurueck" class="ListingElement-questionLink" data-e2e-ref="listing-element-5">
       
-        <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Hattet Ihr auch nur in der Fantasie eine Chance, irgendetwas Angenehmes zu erreichen und konntet Ihr nur in der Fantasie menschlich existieren?</h3>
+        <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Ich habe meine Fantasie und Kreativität verloren - Wie erhalte ich sie zurück?</h3>
 
         
           
             <gf-shortened-block content-height="75"
               class="ContentBody ListingElement-body u-mbm is-short">
-              <div><p>Ich werde im realen Leben seit meiner frühesten Kindheit wie ein Verfügungsobjekt ("Freiwild") für jegliche Gewalt und Willkür behandelt, wurde systematisch gesundheitlich ruiniert und bekam nie eine reale Chance, ein erträgliches, schmerzfreies Leben zu führen. </p></div>
+              <div><p>Als Kind war ich so kreativ und voller Fantasie. Ich lebte in meiner eigenen Traumwelt.<br>Habe damals mit meinem Bruder sogar sowas wie Pen&amp;Paper Rpgs gespielt nur ohne Pen&amp;Paper. </p>
+<p>Alles aus dem Kopf. Unzählige spannende Geschichten erfunden und Welten erschaffen....<br>Jetzt 20 Jahre später, bin ich total einfallslos, ohne Ideen, ohne Fantasie.</p>
+<p>Kann man seine kindliche Fantasie und Kreativität irgendwie wiedererlangen? </p></div>
             </gf-shortened-block>
           
         
@@ -2395,7 +2380,7 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
       <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
       
         
-        <a href="/frage/hattet-ihr-auch-nur-in-der-fantasie-eine-chance-irgendetwas-angenehmes-zu-erreichen-und-konntet-ihr-nur-in-der-fantasie-menschlich-existieren" class="ListingElement-questionLink" data-e2e-ref="listing-element-5">
+        <a href="/frage/ich-habe-meine-fantasie-und-kreativitaet-verloren---wie-erhalte-ich-sie-zurueck" class="ListingElement-questionLink" data-e2e-ref="listing-element-5">
         
           
             
@@ -2502,7 +2487,7 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
   
     <div class="u-mtm">
       
-<div id="listingElement7" data-related-question-id="45466643" data-pool="superseo">
+<div id="listingElement7" data-related-question-id="140920851" data-pool="superseo">
   <article class="Plate ListingElement  " data-ref="ListingElement" data-listing-id="" data-mod="question-">
     
 
@@ -2510,15 +2495,15 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
     <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
     
       
-      <a href="/frage/tagtraeumen-gut-oder-schlecht" class="ListingElement-questionLink" data-e2e-ref="listing-element-7">
+      <a href="/frage/hattet-ihr-auch-nur-in-der-fantasie-eine-chance-irgendetwas-angenehmes-zu-erreichen-und-konntet-ihr-nur-in-der-fantasie-menschlich-existieren" class="ListingElement-questionLink" data-e2e-ref="listing-element-7">
       
-        <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Tagträumen gut oder schlecht?</h3>
+        <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Hattet Ihr auch nur in der Fantasie eine Chance, irgendetwas Angenehmes zu erreichen und konntet Ihr nur in der Fantasie menschlich existieren?</h3>
 
         
           
             <gf-shortened-block content-height="75"
               class="ContentBody ListingElement-body u-mbm is-short">
-              <div><p>Ich Tagträume schon seit ich denken kann. Ich Träume mich dann immer in eine andere Welt, ein anders Leben, wo ich eine andere Person bin. Manchmal so extrem das ich alles um mich herum ausblenden und mich wer anspricht und ich es gar nicht realisiere. Ich bin dann oft traurig das ich nicht echt diese geträumte Person bin. Obwohl mein reales leben nicht sonderlich schlecht ist. Ganz selten aber in letzter Zeit verwechsle ich Fantasie und echt aber ist Das alles gut oder schlecht?</p></div>
+              <div><p>Ich werde im realen Leben seit meiner frühesten Kindheit wie ein Verfügungsobjekt ("Freiwild") für jegliche Gewalt und Willkür behandelt, wurde systematisch gesundheitlich ruiniert und bekam nie eine reale Chance, ein erträgliches, schmerzfreies Leben zu führen. </p></div>
             </gf-shortened-block>
           
         
@@ -2544,7 +2529,7 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
       <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
       
         
-        <a href="/frage/tagtraeumen-gut-oder-schlecht" class="ListingElement-questionLink" data-e2e-ref="listing-element-7">
+        <a href="/frage/hattet-ihr-auch-nur-in-der-fantasie-eine-chance-irgendetwas-angenehmes-zu-erreichen-und-konntet-ihr-nur-in-der-fantasie-menschlich-existieren" class="ListingElement-questionLink" data-e2e-ref="listing-element-7">
         
           
             
@@ -2571,7 +2556,7 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
   
     <div class="u-mtm">
       
-<div id="listingElement8" data-related-question-id="72551142" data-pool="superseo">
+<div id="listingElement8" data-related-question-id="127887313" data-pool="superseo">
   <article class="Plate ListingElement  " data-ref="ListingElement" data-listing-id="" data-mod="question-">
     
 
@@ -2579,16 +2564,15 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
     <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
     
       
-      <a href="/frage/wie-wuerde-deine-fantasiewelt-aussehen" class="ListingElement-questionLink" data-e2e-ref="listing-element-8">
+      <a href="/frage/koennen-fantasieorte-traum-trotzdem-real-existierende-orte-sein" class="ListingElement-questionLink" data-e2e-ref="listing-element-8">
       
-        <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Wie würde deine Fantasiewelt aussehen?</h3>
+        <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Können Fantasieorte (Traum) trotzdem real existierende Orte sein?</h3>
 
         
           
             <gf-shortened-block content-height="75"
               class="ContentBody ListingElement-body u-mbm is-short">
-              <div><p>Angenommen du hättest die Möglichkeit in einer Welt nach deinen Wünschen und Ansprüchen zu leben. Wie würde sie aussehen?</p>
-<p>Möglich sind natürlich auch bereits bestehende Fantasie-Welten, wie Zeichentrickserien oder Fantasy Filme</p></div>
+              <div><p>Es gibt auch Träume, wo man sich in fremden Städten und Dörfern befindet, wo man nie war.</p><p>In echten Leben war man auch nicht in allen real existierenden Städten und Dörfern und man hat nur wenige Orte gesehen.</p><p>Wenn man als Beispiel von einen Ausschnitt aus Wuppertal träumt, aber man hat genau diese Stelle nie gesehen und ist auch nie dort gewesen. Würde man es nicht ebenfalls für Fantasie halten, obwohl genau diese Stelle tatsächlich so in Wuppertal existiert, nur man weiß es nicht?</p><p>Wenn man aber im Laufe des Lebens genau an diese Stelle kommt, würde der betreffende Traum einen auch einfallen?</p><p>Was sind Eure Erfahrungen?</p></div>
             </gf-shortened-block>
           
         
@@ -2614,7 +2598,7 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
       <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
       
         
-        <a href="/frage/wie-wuerde-deine-fantasiewelt-aussehen" class="ListingElement-questionLink" data-e2e-ref="listing-element-8">
+        <a href="/frage/koennen-fantasieorte-traum-trotzdem-real-existierende-orte-sein" class="ListingElement-questionLink" data-e2e-ref="listing-element-8">
         
           
             
@@ -2641,7 +2625,7 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
   
     <div class="u-mtm">
       
-<div id="listingElement9" data-related-question-id="5763717" data-pool="superseo">
+<div id="listingElement9" data-related-question-id="74799077" data-pool="superseo">
   <article class="Plate ListingElement  " data-ref="ListingElement" data-listing-id="" data-mod="question-">
     
 
@@ -2649,7 +2633,69 @@ Heute sind sie in der Geschichte bedeutende Menschen.</p>
     <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
     
       
-      <a href="/frage/fantasie---warum-verliert-man-sie" class="ListingElement-questionLink" data-e2e-ref="listing-element-9">
+      <a href="/frage/ist-fantasie-wichtiger-als-iq-einstein-sagte-dass-fantasie-wichtiger-als-wissen-ist-denn-die-ist-unbegrenzt-wie-ist-es-mit-intelligenz-und-fantasie" class="ListingElement-questionLink" data-e2e-ref="listing-element-9">
+      
+        <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Ist Fantasie wichtiger als IQ, Einstein sagte, dass Fantasie wichtiger als Wissen ist, denn die ist unbegrenzt, wie ist es mit Intelligenz und Fantasie?</h3>
+
+        
+
+        
+
+        
+
+        
+
+      
+      </a>
+      
+
+    
+    </gf-track>
+    
+
+    <div class="u-flex u-flexAlignItemsCenter ListingElement-padding ">
+
+      
+      
+      <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
+      
+        
+        <a href="/frage/ist-fantasie-wichtiger-als-iq-einstein-sagte-dass-fantasie-wichtiger-als-wissen-ist-denn-die-ist-unbegrenzt-wie-ist-es-mit-intelligenz-und-fantasie" class="ListingElement-questionLink" data-e2e-ref="listing-element-9">
+        
+          
+            
+              <div class="Link">...zum Beitrag</div>
+            
+          
+        
+        </a>
+        
+
+      
+      </gf-track>
+      
+
+      
+      
+
+    </div>
+  </article>
+</div>
+
+    </div>
+    
+  
+    <div class="u-mtm">
+      
+<div id="listingElement10" data-related-question-id="5763717" data-pool="superseo">
+  <article class="Plate ListingElement  " data-ref="ListingElement" data-listing-id="" data-mod="question-">
+    
+
+    
+    <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
+    
+      
+      <a href="/frage/fantasie---warum-verliert-man-sie" class="ListingElement-questionLink" data-e2e-ref="listing-element-10">
       
         <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">fantasie - warum verliert man sie?</h3>
 
@@ -2693,7 +2739,7 @@ kann man diesen vorgang nicht "verhindern"?</p>
       <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
       
         
-        <a href="/frage/fantasie---warum-verliert-man-sie" class="ListingElement-questionLink" data-e2e-ref="listing-element-9">
+        <a href="/frage/fantasie---warum-verliert-man-sie" class="ListingElement-questionLink" data-e2e-ref="listing-element-10">
         
           
             
@@ -2720,7 +2766,7 @@ kann man diesen vorgang nicht "verhindern"?</p>
   
     <div class="u-mtm">
       
-<div id="listingElement10" data-related-question-id="72296512" data-pool="superseo">
+<div id="listingElement11" data-related-question-id="72296512" data-pool="superseo">
   <article class="Plate ListingElement  " data-ref="ListingElement" data-listing-id="" data-mod="question-">
     
 
@@ -2728,7 +2774,7 @@ kann man diesen vorgang nicht "verhindern"?</p>
     <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
     
       
-      <a href="/frage/mit-meditation-in-eine-andere-welt" class="ListingElement-questionLink" data-e2e-ref="listing-element-10">
+      <a href="/frage/mit-meditation-in-eine-andere-welt" class="ListingElement-questionLink" data-e2e-ref="listing-element-11">
       
         <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Mit Meditation in eine andere Welt?</h3>
 
@@ -2767,7 +2813,7 @@ kann man diesen vorgang nicht "verhindern"?</p>
       <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
       
         
-        <a href="/frage/mit-meditation-in-eine-andere-welt" class="ListingElement-questionLink" data-e2e-ref="listing-element-10">
+        <a href="/frage/mit-meditation-in-eine-andere-welt" class="ListingElement-questionLink" data-e2e-ref="listing-element-11">
         
           
             
@@ -2794,7 +2840,7 @@ kann man diesen vorgang nicht "verhindern"?</p>
   
     <div class="u-mtm">
       
-<div id="listingElement11" data-related-question-id="84954267" data-pool="superseo">
+<div id="listingElement12" data-related-question-id="45466643" data-pool="superseo">
   <article class="Plate ListingElement  " data-ref="ListingElement" data-listing-id="" data-mod="question-">
     
 
@@ -2802,17 +2848,15 @@ kann man diesen vorgang nicht "verhindern"?</p>
     <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
     
       
-      <a href="/frage/ich-habe-meine-fantasie-und-kreativitaet-verloren---wie-erhalte-ich-sie-zurueck" class="ListingElement-questionLink" data-e2e-ref="listing-element-11">
+      <a href="/frage/tagtraeumen-gut-oder-schlecht" class="ListingElement-questionLink" data-e2e-ref="listing-element-12">
       
-        <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Ich habe meine Fantasie und Kreativität verloren - Wie erhalte ich sie zurück?</h3>
+        <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Tagträumen gut oder schlecht?</h3>
 
         
           
             <gf-shortened-block content-height="75"
               class="ContentBody ListingElement-body u-mbm is-short">
-              <div><p>Als Kind war ich so kreativ und voller Fantasie. Ich lebte in meiner eigenen Traumwelt.<br>Habe damals mit meinem Bruder sogar sowas wie Pen&amp;Paper Rpgs gespielt nur ohne Pen&amp;Paper. </p>
-<p>Alles aus dem Kopf. Unzählige spannende Geschichten erfunden und Welten erschaffen....<br>Jetzt 20 Jahre später, bin ich total einfallslos, ohne Ideen, ohne Fantasie.</p>
-<p>Kann man seine kindliche Fantasie und Kreativität irgendwie wiedererlangen? </p></div>
+              <div><p>Ich Tagträume schon seit ich denken kann. Ich Träume mich dann immer in eine andere Welt, ein anders Leben, wo ich eine andere Person bin. Manchmal so extrem das ich alles um mich herum ausblenden und mich wer anspricht und ich es gar nicht realisiere. Ich bin dann oft traurig das ich nicht echt diese geträumte Person bin. Obwohl mein reales leben nicht sonderlich schlecht ist. Ganz selten aber in letzter Zeit verwechsle ich Fantasie und echt aber ist Das alles gut oder schlecht?</p></div>
             </gf-shortened-block>
           
         
@@ -2838,7 +2882,7 @@ kann man diesen vorgang nicht "verhindern"?</p>
       <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
       
         
-        <a href="/frage/ich-habe-meine-fantasie-und-kreativitaet-verloren---wie-erhalte-ich-sie-zurueck" class="ListingElement-questionLink" data-e2e-ref="listing-element-11">
+        <a href="/frage/tagtraeumen-gut-oder-schlecht" class="ListingElement-questionLink" data-e2e-ref="listing-element-12">
         
           
             
@@ -2865,7 +2909,7 @@ kann man diesen vorgang nicht "verhindern"?</p>
   
     <div class="u-mtm">
       
-<div id="listingElement12" data-related-question-id="127887313" data-pool="superseo">
+<div id="listingElement13" data-related-question-id="72551142" data-pool="superseo">
   <article class="Plate ListingElement  " data-ref="ListingElement" data-listing-id="" data-mod="question-">
     
 
@@ -2873,15 +2917,16 @@ kann man diesen vorgang nicht "verhindern"?</p>
     <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
     
       
-      <a href="/frage/koennen-fantasieorte-traum-trotzdem-real-existierende-orte-sein" class="ListingElement-questionLink" data-e2e-ref="listing-element-12">
+      <a href="/frage/wie-wuerde-deine-fantasiewelt-aussehen" class="ListingElement-questionLink" data-e2e-ref="listing-element-13">
       
-        <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Können Fantasieorte (Traum) trotzdem real existierende Orte sein?</h3>
+        <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Wie würde deine Fantasiewelt aussehen?</h3>
 
         
           
             <gf-shortened-block content-height="75"
               class="ContentBody ListingElement-body u-mbm is-short">
-              <div><p>Es gibt auch Träume, wo man sich in fremden Städten und Dörfern befindet, wo man nie war.</p><p>In echten Leben war man auch nicht in allen real existierenden Städten und Dörfern und man hat nur wenige Orte gesehen.</p><p>Wenn man als Beispiel von einen Ausschnitt aus Wuppertal träumt, aber man hat genau diese Stelle nie gesehen und ist auch nie dort gewesen. Würde man es nicht ebenfalls für Fantasie halten, obwohl genau diese Stelle tatsächlich so in Wuppertal existiert, nur man weiß es nicht?</p><p>Wenn man aber im Laufe des Lebens genau an diese Stelle kommt, würde der betreffende Traum einen auch einfallen?</p><p>Was sind Eure Erfahrungen?</p></div>
+              <div><p>Angenommen du hättest die Möglichkeit in einer Welt nach deinen Wünschen und Ansprüchen zu leben. Wie würde sie aussehen?</p>
+<p>Möglich sind natürlich auch bereits bestehende Fantasie-Welten, wie Zeichentrickserien oder Fantasy Filme</p></div>
             </gf-shortened-block>
           
         
@@ -2907,69 +2952,7 @@ kann man diesen vorgang nicht "verhindern"?</p>
       <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
       
         
-        <a href="/frage/koennen-fantasieorte-traum-trotzdem-real-existierende-orte-sein" class="ListingElement-questionLink" data-e2e-ref="listing-element-12">
-        
-          
-            
-              <div class="Link">...zum Beitrag</div>
-            
-          
-        
-        </a>
-        
-
-      
-      </gf-track>
-      
-
-      
-      
-
-    </div>
-  </article>
-</div>
-
-    </div>
-    
-  
-    <div class="u-mtm">
-      
-<div id="listingElement13" data-related-question-id="74799077" data-pool="superseo">
-  <article class="Plate ListingElement  " data-ref="ListingElement" data-listing-id="" data-mod="question-">
-    
-
-    
-    <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
-    
-      
-      <a href="/frage/ist-fantasie-wichtiger-als-iq-einstein-sagte-dass-fantasie-wichtiger-als-wissen-ist-denn-die-ist-unbegrenzt-wie-ist-es-mit-intelligenz-und-fantasie" class="ListingElement-questionLink" data-e2e-ref="listing-element-13">
-      
-        <h3 class="H4 Question-title u-big u-mbm Question-title--large u-mbh">Ist Fantasie wichtiger als IQ, Einstein sagte, dass Fantasie wichtiger als Wissen ist, denn die ist unbegrenzt, wie ist es mit Intelligenz und Fantasie?</h3>
-
-        
-
-        
-
-        
-
-        
-
-      
-      </a>
-      
-
-    
-    </gf-track>
-    
-
-    <div class="u-flex u-flexAlignItemsCenter ListingElement-padding ">
-
-      
-      
-      <gf-track tracker="ub" event="click" category="qdp-related-questions" action="click">
-      
-        
-        <a href="/frage/ist-fantasie-wichtiger-als-iq-einstein-sagte-dass-fantasie-wichtiger-als-wissen-ist-denn-die-ist-unbegrenzt-wie-ist-es-mit-intelligenz-und-fantasie" class="ListingElement-questionLink" data-e2e-ref="listing-element-13">
+        <a href="/frage/wie-wuerde-deine-fantasiewelt-aussehen" class="ListingElement-questionLink" data-e2e-ref="listing-element-13">
         
           
             

@@ -1,75 +1,75 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-M8R4BXM
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-M8R4BXM
 
-     * [2]Zum Inhalt
-     * [3]Zur Suche
+     * Zum Inhalt
+     * Zur Suche
 
-   [4]Zur Duden-Startseite
-     * [5]Online-Wörterbuch
-          + [6]Online-Wörterbuch
-          + [7]Sprachwissen
-          + [8]Rechtschreibregeln
-          + [9]Häufige Fehler
-          + [10]Schwierige Wörter
-          + [11]Sprache in Zahlen
-          + [12]Sprache und Stil
-          + [13]Wörter des Jahres
-     * [14]Schreibassistent
-     * [15]Duden-App
-     * [16]Abos und Preise
-          + [17]Duden-Mentor-Textprüfung
-          + [18]Werbe- und Trackingfreiheit
-          + [19]Digitale Abonnements
-     * [20]Bücher und Shop
-          + [21]Nachschlagen
-          + [22]Besser schreiben
-          + [23]Sprache entdecken
-          + [24]Lernen und rätseln
-          + [25]Deutsch lernen
-          + [26]Neuheiten
-          + [27]Geschenkideen
-          + [28]Shop
-     * [29]👤
-          + [30]Anmelden
-          + Oder neu hier?[31]Jetzt registrieren
+   Zur Duden-Startseite
+     * Online-Wörterbuch
+          + Online-Wörterbuch
+          + Sprachwissen
+          + Rechtschreibregeln
+          + Häufige Fehler
+          + Schwierige Wörter
+          + Sprache in Zahlen
+          + Sprache und Stil
+          + Wörter des Jahres
+     * Schreibassistent
+     * Duden-App
+     * Abos und Preise
+          + Duden-Mentor-Textprüfung
+          + Werbe- und Trackingfreiheit
+          + Digitale Abonnements
+     * Bücher und Shop
+          + Nachschlagen
+          + Besser schreiben
+          + Sprache entdecken
+          + Lernen und rätseln
+          + Deutsch lernen
+          + Neuheiten
+          + Geschenkideen
+          + Shop
+     * 👤
+          + Anmelden
+          + Oder neu hier?Jetzt registrieren
 
    (BUTTON)
        (BUTTON)
-     * [32]Online-Wörterbuch
-     * [33]Schreibassistent
-     * [34]Duden-App
-     * [35]Abos und Preise
-     * [36]Bücher und Shop
+     * Online-Wörterbuch
+     * Schreibassistent
+     * Duden-App
+     * Abos und Preise
+     * Bücher und Shop
      *
-          + [37]Anmelden
-          + Neu hier?[38]Jetzt registrieren
+          + Anmelden
+          + Neu hier?Jetzt registrieren
 
-       [39]Online-Wörterbuch
-     * [40]Online-Wörterbuch
-     * [41]Sprachwissen
-     * [42]Rechtschreibregeln
-     * [43]Häufige Fehler
-     * [44]Schwierige Wörter
-     * [45]Sprache in Zahlen
-     * [46]Sprache und Stil
-     * [47]Wörter des Jahres
+       Online-Wörterbuch
+     * Online-Wörterbuch
+     * Sprachwissen
+     * Rechtschreibregeln
+     * Häufige Fehler
+     * Schwierige Wörter
+     * Sprache in Zahlen
+     * Sprache und Stil
+     * Wörter des Jahres
 
-       [48]Abos und Preise
-     * [49]Duden-Mentor-Textprüfung
-     * [50]Werbe- und Trackingfreiheit
-     * [51]Digitale Abonnements
+       Abos und Preise
+     * Duden-Mentor-Textprüfung
+     * Werbe- und Trackingfreiheit
+     * Digitale Abonnements
 
-       [52]Bücher und Shop
-     * [53]Nachschlagen
-     * [54]Besser schreiben
-     * [55]Sprache entdecken
-     * [56]Lernen und rätseln
-     * [57]Deutsch lernen
-     * [58]Neuheiten
-     * [59]Geschenkideen
-     * [60]Shop
+       Bücher und Shop
+     * Nachschlagen
+     * Besser schreiben
+     * Sprache entdecken
+     * Lernen und rätseln
+     * Deutsch lernen
+     * Neuheiten
+     * Geschenkideen
+     * Shop
 
-       [61]Mein Duden
-     * [62]Merklisten
+       Mein Duden
+     * Merklisten
 
    (BUTTON) ← (BUTTON) 🔍 F (BUTTON) ❌
 
@@ -77,26 +77,26 @@
 
    (*) Wörterbuch ( ) Synonyme ( ) Grammatik ( ) Sprachwissen
 
-    1. [63]Rechtschreibung
-    2. [64]Bedeutungen
-    3. [65]Synonyme
-    4. [66]Herkunft
-    5. [67]Grammatik
-    6. [68]Wussten Sie schon?
-    7. [69]Typische Verbindungen
+    1. Rechtschreibung
+    2. Bedeutungen
+    3. Synonyme
+    4. Herkunft
+    5. Grammatik
+    6. Wussten Sie schon?
+    7. Typische Verbindungen
 
-   [70]Duden-Mentor [71]Duden – Die deutsche Rechtschreibung
+   Duden-Mentor Duden – Die deutsche Rechtschreibung
 
-   Häufige Fehler und Falschschreibweisen [72]→ Zum Überblick
-   [73]Startseite ▻ [74]Wörterbuch ▻ Fantasie
+   Häufige Fehler und Falschschreibweisen → Zum Überblick
+   Startseite ▻ Wörterbuch ▻ Fantasie
 
 Fantasie, Phantasie, die
 
-   [75]❞
+   ❞
           Als Quelle verwenden
 
    (BUTTON) 🗣
-          [76]𝗳 [77]𝕏 [78]✉
+          𝗳 𝕏 ✉
 
    (BUTTON) 📑
           Dieses Wort kopieren
@@ -108,15 +108,15 @@ Fantasie, Phantasie, die
 
 
 
-   [79]Werbefreiheit aktivieren Werbefreiheit aktivieren
+   Werbefreiheit aktivieren Werbefreiheit aktivieren
 
-   Wortart: [80]ⓘ
+   Wortart: ⓘ
           Substantiv, feminin
 
-   Häufigkeit: [81]ⓘ
+   Häufigkeit: ⓘ
           ▒▒▒░░
 
-   Aussprache: [82]ⓘ
+   Aussprache: ⓘ
 
         Betonung
                 Fantasie
@@ -130,11 +130,11 @@ Fantasie, Phantasie, die
           Fantasie (Musikstück – Substantiv, feminin)
 
    Anzeige
-   [83]Werbefreiheit aktivieren Werbefreiheit aktivieren
+   Werbefreiheit aktivieren Werbefreiheit aktivieren
 
 Rechtschreibung
 
-   [84]ⓘ
+   ⓘ
 
    Von Duden empfohlene Schreibung
           Fantasie
@@ -147,7 +147,7 @@ Rechtschreibung
 
 Bedeutungen (3)
 
-   [85]ⓘ
+   ⓘ
     1.
          a. Fähigkeit, Gedächtnisinhalte zu neuen Vorstellungen zu
             verknüpfen, sich etwas in Gedanken auszumalen
@@ -172,7 +172,7 @@ Bedeutungen (3)
                     # du hast ja eine blühende Fantasie! (du übertreibst
                       maßlos!)
 
-         b. Produkt der [86]Fantasie (1a), (nicht der Wirklichkeit
+         b. Produkt der Fantasie (1a), (nicht der Wirklichkeit
             entsprechende) Vorstellung
 
               Beispiele
@@ -195,154 +195,150 @@ Bedeutungen (3)
                 nur: Fantasie; Musik
 
    Anzeige
-   [87]Werbefreiheit aktivieren Werbefreiheit aktivieren
+   Werbefreiheit aktivieren Werbefreiheit aktivieren
 
 Synonyme zu Fantasie
 
-   [88]ⓘ
-     * [89]Anschauungskraft, [90]Anschauungsvermögen,
-       [91]Einbildungskraft, [92]Einbildungsvermögen
+   ⓘ
+     * Anschauungskraft, Anschauungsvermögen, Einbildungskraft,
+       Einbildungsvermögen
 
-   [93]→ Zur Übersicht der Synonyme zu Fantasie
+   → Zur Übersicht der Synonyme zu Fantasie
 
 Herkunft
 
-   [94]ⓘ
+   ⓘ
 
    mittelhochdeutsch fantasīe < lateinisch phantasia < griechisch
-   phantasía, zu: phantázesthai = erscheinen, zu: phaínesthai,
-   [95]Phänomen
+   phantasía, zu: phantázesthai = erscheinen, zu: phaínesthai, Phänomen
 
 Grammatik
 
-   [96]ⓘ
+   ⓘ
 
    die Fantasie; Genitiv: der Fantasie, Plural: die Fantasien
-   [97]→ Zur Deklinationstabelle des Substantivs Fantasie
+   → Zur Deklinationstabelle des Substantivs Fantasie
    Anzeige
-   [98]Werbefreiheit aktivieren Werbefreiheit aktivieren
+   Werbefreiheit aktivieren Werbefreiheit aktivieren
 
 Wussten Sie schon?
 
-   [99]ⓘ
+   ⓘ
      * Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1.
 
 Typische Verbindungen (computergeneriert)
 
-   [100]ⓘ
+   ⓘ
    Anzeigen: [X] Verben [X] Adjektive [X] Substantive
    Fantasie
-   [101]blühend [102]beflügeln [103]Wirklichkeit [104]kindlich
-   [105]lebhaft [106]wild [107]Wunsch [108]Mut [109]regen [110]entspringen
-   [111]ausmalen [112]durchgehen
-   [113]Kreativität [114]Realität [115]eigen [116]schmutzig [117]Traum
-   [118]Witz [119]Erinnerung [120]anregen [121]brauchen [122]ausleben
-   [123]sexuell
-   [124]erotisch
-   Sehr häufig in Verbindung mit Fantasie
-   Substantive [125]Kreativität
-   Verben [126]beflügeln
-   Adjektive [127]blühend
-   Häufig in Verbindung mit Fantasie
+   blühend beflügeln Wirklichkeit kindlich lebhaft wild Wunsch Mut regen
+   entspringen ausmalen durchgehen
+   Kreativität Realität eigen schmutzig Traum Witz Erinnerung anregen
+   brauchen ausleben
+   sexuell
+   erotisch
+                     Sehr häufig in Verbindung mit Fantasie
+   Substantive Kreativität
+     Verben    beflügeln
+    Adjektive  blühend
+                        Häufig in Verbindung mit Fantasie
    Substantive
-   Verben
-   Adjektive [128]sexuell [129]erotisch
-   Seltener in Verbindung mit Fantasie
-   Substantive [130]Wirklichkeit [131]Realität
-   Verben
-   Adjektive
-   Selten in Verbindung mit Fantasie
-   Substantive [132]Traum [133]Wunsch [134]Witz [135]Mut [136]Erinnerung
-   Verben [137]regen [138]anregen [139]entspringen [140]brauchen
-   [141]ausmalen [142]ausleben [143]durchgehen
-   Adjektive [144]kindlich [145]eigen [146]lebhaft [147]schmutzig
-   [148]wild
+     Verben
+    Adjektive  sexuell erotisch
+                       Seltener in Verbindung mit Fantasie
+   Substantive Wirklichkeit Realität
+     Verben
+    Adjektive
+                        Selten in Verbindung mit Fantasie
+   Substantive Traum Wunsch Witz Mut Erinnerung
+     Verben    regen anregen entspringen brauchen ausmalen ausleben durchgehen
+    Adjektive  kindlich eigen lebhaft schmutzig wild
 
 Blättern
 
-   [149]ⓘ
+   ⓘ
 
 Im Alphabet davor
 
-     * [150]Fanni
-     * [151]Fannings
-     * [152]Fanon
-     * [153]Fanone
-     * [154]Fanpost
-     * [155]Fanprojekt
-     * [156]Fanseite
-     * [157]Fanshop
-     * [158]Fant
-     * [159]Fantasia
+     * Fanni
+     * Fannings
+     * Fanon
+     * Fanone
+     * Fanpost
+     * Fanprojekt
+     * Fanseite
+     * Fanshop
+     * Fant
+     * Fantasia
 
 Im Alphabet danach
 
-     * [160]fantasiearm
-     * [161]fantasiebegabt
-     * [162]Fantasiebild
-     * [163]Fantasieblume
-     * [164]Fantasiegarn
-     * [165]Fantasiegebilde
-     * [166]Fantasiegestalt
-     * [167]Fantasiekostüm
-     * [168]fantasielos
-     * [169]Fantasielosigkeit
+     * fantasiearm
+     * fantasiebegabt
+     * Fantasiebild
+     * Fantasieblume
+     * Fantasiegarn
+     * Fantasiegebilde
+     * Fantasiegestalt
+     * Fantasiekostüm
+     * fantasielos
+     * Fantasielosigkeit
 
-   [170]↑
-
-   Anzeige
-   [171]Werbefreiheit aktivieren Werbefreiheit aktivieren
-
-   [172]Duden-Mentor [173]Duden – Die deutsche Rechtschreibung
-
-   Häufige Fehler und Falschschreibweisen [174]→ Zum Überblick
+   ↑
 
    Anzeige
-   [175]Werbefreiheit aktivieren Werbefreiheit aktivieren
+   Werbefreiheit aktivieren Werbefreiheit aktivieren
+
+   Duden-Mentor Duden – Die deutsche Rechtschreibung
+
+   Häufige Fehler und Falschschreibweisen → Zum Überblick
 
    Anzeige
-   [176]Werbefreiheit aktivieren Werbefreiheit aktivieren
+   Werbefreiheit aktivieren Werbefreiheit aktivieren
+
+   Anzeige
+   Werbefreiheit aktivieren Werbefreiheit aktivieren
 
 Duden
 
-     * [177]Über uns
-     * [178]Shop
-     * [179]Presse
-     * [180]Handel
-     * [181]Mediadaten
-     * [182]Duden Institute
-     * [183]Cornelsen Verlag
-     * [184]Rechte und Lizenzen
+     * Über uns
+     * Shop
+     * Presse
+     * Handel
+     * Mediadaten
+     * Duden Institute
+     * Cornelsen Verlag
+     * Rechte und Lizenzen
 
 Wissen
 
-     * [185]Wörterbuch
-     * [186]Deklination
-     * [187]Konjugation
-     * [188]Synonyme
-     * [189]Häufige Fehler
-     * [190]Rechtschreibregeln
-     * [191]Schwierige Wörter
-     * [192]Sprachwissen
-     * [193]Newsletter
+     * Wörterbuch
+     * Deklination
+     * Konjugation
+     * Synonyme
+     * Häufige Fehler
+     * Rechtschreibregeln
+     * Schwierige Wörter
+     * Sprachwissen
+     * Newsletter
 
 Hilfe
 
-     * [194]Kundenservice
-     * [195]Sprachberatung
-     * [196]Häufige Fragen (FAQ)
-     * [197]Verträge hier kündigen
-     * [198]Werbefreiheit buchen
+     * Kundenservice
+     * Sprachberatung
+     * Häufige Fragen (FAQ)
+     * Verträge hier kündigen
+     * Werbefreiheit buchen
 
 Software
 
-     * [199]Schreibassistent
-     * [200]Duden-Mentor für Unternehmen
-     * [201]Duden-API
-     * [202]Duden-App
-     * [203]Duden-Bibliothek
-     * [204]Duden für Schulen
-     * [205]Rechtschreibprüfung
+     * Schreibassistent
+     * Duden-Mentor für Unternehmen
+     * Duden-API
+     * Duden-App
+     * Duden-Bibliothek
+     * Duden für Schulen
+     * Rechtschreibprüfung
 
 Folgen sie uns
 
@@ -351,278 +347,40 @@ Folgen sie uns
      *
      *
 
-   [206]Zur Duden-Startseite
+   Zur Duden-Startseite
 
    © Cornelsen Verlag GmbH, 2025
-     * [207]AGB
-     * [208]Datenschutzerklärung
-     * [209]Impressum
-     * [210]Privacy Manager
-     * [211]Barrierefreiheitserklärung
-     * [212]Utiq verwalten
-     * [213]Widerrufsrecht
-     * [214]Sitemap
-     * [215]Stichwörter
+     * AGB
+     * Datenschutzerklärung
+     * Impressum
+     * Privacy Manager
+     * Barrierefreiheitserklärung
+     * Utiq verwalten
+     * Widerrufsrecht
+     * Sitemap
+     * Stichwörter
 
-   [216]❌
+   ❌
 
 
 
    Danke, dass Sie Duden online nutzen!
    Bitte schalten Sie Ihren Adblocker aus, um weiterhinuneingeschränktauf
    www.duden.de zugreifen zu können.
-   [217]Adblocker ausschalten
+   Adblocker ausschalten
    Duden im Abo
    Nutzen Sie Duden online ohne Werbung und Tracking auf allen Endgeräten
    für nur
    2,99 €/Monat.
-   [duden-abo-ohne-werbung.png] [218]Bestellen
+   [duden-abo-ohne-werbung.png] Bestellen
    Sie haben bereits DudenPurabonniert?
-   [219]Dann loggen Sie sich einfach hier ein.
+   Dann loggen Sie sich einfach hier ein.
 
-   [220]❌
+   ❌
 
    Verwenden Sie folgende URL, um diesen Artikel zu zitieren.
 
    https://www.duden.de/node/45080/revision/1318821_______________________
-   [221]Kopieren
+   Kopieren
 
-   [222]Weitere Informationen zum korrekten Zitieren aus Duden online.
-
-References
-
-   Visible links:
-   1. https://www.googletagmanager.com/ns.html?id=GTM-M8R4BXM
-   2. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#main-content
-   3. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#edit-search-api-fulltext--2
-   4. https://www.duden.de/
-   5. https://www.duden.de/woerterbuch
-   6. https://www.duden.de/woerterbuch
-   7. https://www.duden.de/sprachwissen
-   8. https://www.duden.de/sprachwissen/rechtschreibregeln
-   9. https://www.duden.de/haeufige_fehler
-  10. https://www.duden.de/Liste-der-rechtschreiblich-schwierigen-Woerter
-  11. https://www.duden.de/sprache-in-zahlen
-  12. https://www.duden.de/sprachwissen/sprachratgeber
-  13. https://www.duden.de/sprachwissen/sprachratgeber/Wort-und-Unwort-des-Jahres
-  14. https://mentor.duden.de/?itm_source=duden_de&itm_medium=leadgen_int&itm_campaign=topnavi&itm_content=schreibassistent&acq_chnl=do-mainmenu-firstlevel
-  15. https://www.duden.de/duden-digital
-  16. https://www.duden.de/service
-  17. https://mentor.duden.de/?itm_source=duden_de&itm_medium=premium_int&itm_campaign=topnavi_service&itm_content=duden-mentor-textpruefung&acq_chnl=do-mainmenu-secondlevel
-  18. https://www.duden.de/werbefreiheit?targetGroup=pur&acq_chnl=pur-lp
-  19. https://www.duden.de/service/abos
-  20. https://www.duden.de/unsere-produkte
-  21. https://www.duden.de/unsere-produkte/nachschlagen
-  22. https://www.duden.de/unsere-produkte/besser-schreiben
-  23. https://www.duden.de/unsere-produkte/sprache-entdecken
-  24. https://www.duden.de/unsere-produkte/lernen-raetseln
-  25. https://www.duden.de/unsere-produkte/deutsch-lernen
-  26. https://www.duden.de/unsere-produkte/neuheiten
-  27. https://www.duden.de/unsere-produkte/geschenkideen
-  28. https://shop.duden.de/?campaignCode=do-hauptnavigation
-  29. https://www.duden.de/
-  30. https://www.duden.de/user/authenticate
-  31. https://www.duden.de/user/register?source=duden-online&acq_chnl=do-hauptnavi
-  32. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#listview-online-w-rterbuch
-  33. https://mentor.duden.de/?itm_source=duden_de&itm_medium=leadgen_int&itm_campaign=topnavi&itm_content=schreibassistent&acq_chnl=do-mainmenu-firstlevel
-  34. https://www.duden.de/duden-digital
-  35. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#listview-abos-und-preise
-  36. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#listview-b-cher-und-shop
-  37. https://www.duden.de/user/authenticate
-  38. https://www.duden.de/user/register?source=duden-online&acq_chnl=do-hauptnavi
-  39. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#listview-root
-  40. https://www.duden.de/woerterbuch
-  41. https://www.duden.de/sprachwissen
-  42. https://www.duden.de/sprachwissen/rechtschreibregeln
-  43. https://www.duden.de/haeufige_fehler
-  44. https://www.duden.de/Liste-der-rechtschreiblich-schwierigen-Woerter
-  45. https://www.duden.de/sprache-in-zahlen
-  46. https://www.duden.de/sprachwissen/sprachratgeber
-  47. https://www.duden.de/sprachwissen/sprachratgeber/Wort-und-Unwort-des-Jahres
-  48. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#listview-root
-  49. https://mentor.duden.de/?itm_source=duden_de&itm_medium=premium_int&itm_campaign=topnavi_service&itm_content=duden-mentor-textpruefung&acq_chnl=do-mainmenu-secondlevel
-  50. https://www.duden.de/werbefreiheit?targetGroup=pur&acq_chnl=pur-lp
-  51. https://www.duden.de/service/abos
-  52. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#listview-root
-  53. https://www.duden.de/unsere-produkte/nachschlagen
-  54. https://www.duden.de/unsere-produkte/besser-schreiben
-  55. https://www.duden.de/unsere-produkte/sprache-entdecken
-  56. https://www.duden.de/unsere-produkte/lernen-raetseln
-  57. https://www.duden.de/unsere-produkte/deutsch-lernen
-  58. https://www.duden.de/unsere-produkte/neuheiten
-  59. https://www.duden.de/unsere-produkte/geschenkideen
-  60. https://shop.duden.de/?campaignCode=do-hauptnavigation
-  61. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#listview-root
-  62. https://www.duden.de/bookmark/list
-  63. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#rechtschreibung
-  64. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#bedeutungen
-  65. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#synonyme
-  66. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#herkunft
-  67. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#grammatik
-  68. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#wussten_sie_schon
-  69. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#kontext
-  70. https://angebot.mentor.duden.de/premium_dir/?itm_source=duden_de&itm_medium=premium_int&itm_campaign=red_touchpoint_lemma&itm_content=neues-ki-design
-  71. https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-teaser
-  72. https://www.duden.de/haeufige_fehler
-  73. https://www.duden.de/
-  74. https://www.duden.de/woerterbuch
-  75. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#numero-cite
-  76. https://www.facebook.com/sharer/sharer.php?u=https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
-  77. https://twitter.com/intent/tweet?text=https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
-  78. mailto:?body=https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
-  79. https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbebox&utm_content=werbefreiheit_aktivieren
-  80. https://www.duden.de/hilfe/wortart
-  81. https://www.duden.de/hilfe/haeufigkeit
-  82. https://www.duden.de/hilfe/aussprache
-  83. https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbebox&utm_content=werbefreiheit_aktivieren
-  84. https://www.duden.de/hilfe/rechtschreibung
-  85. https://www.duden.de/hilfe/bedeutungen
-  86. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#Bedeutung-1a
-  87. https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbebox&utm_content=werbefreiheit_aktivieren
-  88. https://www.duden.de/hilfe/synonyme
-  89. https://www.duden.de/rechtschreibung/Anschauungskraft
-  90. https://www.duden.de/rechtschreibung/Anschauungsvermoegen
-  91. https://www.duden.de/rechtschreibung/Einbildungskraft
-  92. https://www.duden.de/rechtschreibung/Einbildungsvermoegen
-  93. https://www.duden.de/synonyme/Fantasie_Einbildung_Traum_Musik
-  94. https://www.duden.de/hilfe/herkunft
-  95. https://www.duden.de/rechtschreibung/Phaenomen
-  96. https://www.duden.de/hilfe/grammatik
-  97. https://www.duden.de/deklination/substantive/Fantasie_Einbildung_Traum_Musik
-  98. https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbebox&utm_content=werbefreiheit_aktivieren
-  99. https://www.duden.de/hilfe/wussten-sie-schon
- 100. https://www.duden.de/hilfe/typische-verbindungen
- 101. https://www.duden.de/rechtschreibung/bluehend
- 102. https://www.duden.de/rechtschreibung/befluegeln
- 103. https://www.duden.de/rechtschreibung/Wirklichkeit
- 104. https://www.duden.de/rechtschreibung/kindlich
- 105. https://www.duden.de/rechtschreibung/lebhaft
- 106. https://www.duden.de/rechtschreibung/wild
- 107. https://www.duden.de/rechtschreibung/Wunsch
- 108. https://www.duden.de/rechtschreibung/Mut
- 109. https://www.duden.de/rechtschreibung/regen
- 110. https://www.duden.de/rechtschreibung/entspringen
- 111. https://www.duden.de/rechtschreibung/ausmalen
- 112. https://www.duden.de/rechtschreibung/durchgehen_durchgegangen
- 113. https://www.duden.de/rechtschreibung/Kreativitaet
- 114. https://www.duden.de/rechtschreibung/Realitaet
- 115. https://www.duden.de/rechtschreibung/eigen
- 116. https://www.duden.de/rechtschreibung/schmutzig
- 117. https://www.duden.de/rechtschreibung/Traum
- 118. https://www.duden.de/rechtschreibung/Witz
- 119. https://www.duden.de/rechtschreibung/Erinnerung
- 120. https://www.duden.de/rechtschreibung/anregen
- 121. https://www.duden.de/rechtschreibung/brauchen
- 122. https://www.duden.de/rechtschreibung/ausleben
- 123. https://www.duden.de/rechtschreibung/sexuell
- 124. https://www.duden.de/rechtschreibung/erotisch
- 125. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 126. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 127. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 128. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 129. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 130. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 131. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 132. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 133. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 134. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 135. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 136. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 137. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 138. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 139. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 140. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 141. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 142. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 143. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 144. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 145. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 146. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 147. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 148. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik
- 149. https://www.duden.de/hilfe/blaettern
- 150. https://www.duden.de/rechtschreibung/Fanni
- 151. https://www.duden.de/rechtschreibung/Fannings
- 152. https://www.duden.de/rechtschreibung/Fanon
- 153. https://www.duden.de/rechtschreibung/Fanone
- 154. https://www.duden.de/rechtschreibung/Fanpost
- 155. https://www.duden.de/rechtschreibung/Fanprojekt
- 156. https://www.duden.de/rechtschreibung/Fanseite
- 157. https://www.duden.de/rechtschreibung/Fanshop
- 158. https://www.duden.de/rechtschreibung/Fant
- 159. https://www.duden.de/rechtschreibung/Fantasia
- 160. https://www.duden.de/rechtschreibung/fantasiearm
- 161. https://www.duden.de/rechtschreibung/fantasiebegabt
- 162. https://www.duden.de/rechtschreibung/Fantasiebild
- 163. https://www.duden.de/rechtschreibung/Fantasieblume
- 164. https://www.duden.de/rechtschreibung/Fantasiegarn
- 165. https://www.duden.de/rechtschreibung/Fantasiegebilde
- 166. https://www.duden.de/rechtschreibung/Fantasiegestalt
- 167. https://www.duden.de/rechtschreibung/Fantasiekostuem
- 168. https://www.duden.de/rechtschreibung/fantasielos
- 169. https://www.duden.de/rechtschreibung/Fantasielosigkeit
- 170. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#top
- 171. https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbebox&utm_content=werbefreiheit_aktivieren
- 172. https://angebot.mentor.duden.de/premium_dir/?itm_source=duden_de&itm_medium=premium_int&itm_campaign=red_touchpoint_lemma&itm_content=neues-ki-design
- 173. https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-teaser
- 174. https://www.duden.de/haeufige_fehler
- 175. https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbebox&utm_content=werbefreiheit_aktivieren
- 176. https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbebox&utm_content=werbefreiheit_aktivieren
- 177. https://www.duden.de/ueber_duden
- 178. https://shop.duden.de/?campaignCode=do-footernavigation
- 179. https://www.duden.de/Presse-Neuigkeiten
- 180. https://www.duden.de/handel
- 181. https://www.duden.de/werbung
- 182. https://www.duden-institute.de/
- 183. https://www.cornelsen.de/
- 184. https://www.duden.de/form/license-request
- 185. https://www.duden.de/woerterbuch
- 186. https://www.duden.de/deklination
- 187. https://www.duden.de/konjugation
- 188. https://www.duden.de/synonyme
- 189. https://www.duden.de/haeufige_fehler
- 190. https://www.duden.de/sprachwissen/rechtschreibregeln
- 191. https://www.duden.de/Liste-der-rechtschreiblich-schwierigen-Woerter
- 192. https://www.duden.de/sprachwissen/inhaltsuebersicht
- 193. https://www.duden.de/newsletter
- 194. https://www.duden.de/kundenservice
- 195. https://www.duden.de/Sprachberatung-0
- 196. https://www.duden.de/faq/haeufige_servicefragen
- 197. https://www.duden.de/abonnement
- 198. https://www.duden.de/werbefreiheit?targetGroup=pur&acq_chnl=pur-lp
- 199. https://mentor.duden.de/?acq_chnl=do-footer
- 200. https://lp.mentor.duden.de/b2b_1_int/?itm_source=duden_de&itm_medium=leadgen_b2b_int&itm_campaign=footernavi&itm_content=link
- 201. https://www.duden.de/api
- 202. https://www.duden.de/duden-digital
- 203. https://www.duden.de/digitales/duden-bibliothek
- 204. https://www.duden.de/duden-digital-schulen
- 205. https://www.duden.de/rechtschreibpruefung-online
- 206. https://www.duden.de/
- 207. https://www.duden.de/service/agb
- 208. https://www.duden.de/service/datenschutz
- 209. https://www.duden.de/service/impressum
- 210. https://www.duden.de/service/datenschutz#prvcmgr
- 211. https://www.duden.de/barrierefreie-dienstleistungen
- 212. https://www.duden.de/utiq-verwalten
- 213. https://www.duden.de/service/widerrufsrecht
- 214. https://www.duden.de/sitemap-ueberblick
- 215. https://www.duden.de/sitemap-lexeme
- 216. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#close-numero-antiadblocker
- 217. https://www.duden.de/werbeblocker-deaktivieren
- 218. https://www.duden.de/werbefreiheit?targetGroup=pur&acq_chnl=anti-adblock-layer
- 219. https://www.duden.de/user/authenticate
- 220. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#close-numero-cite
- 221. https://www.duden.de/node/45080/revision/1318821
- 222. https://www.duden.de/zitieren_aus_duden_online
-
-   Hidden links:
- 224. https://www.duden.de/haeufige_fehler
- 225. https://www.duden.de/haeufige_fehler
- 226. https://www.duden.de/haeufige_fehler
- 227. https://www.duden.de/haeufige_fehler
- 228. https://www.instagram.com/dudenverlag/
- 229. https://www.facebook.com/Duden/
- 230. https://www.youtube.com/user/Dudenverlag
- 231. https://www.linkedin.com/company/dudenverlag/
- 232. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#close-
- 233. https://www.duden.de/rechtschreibung/Fantasie_Einbildung_Traum_Musik#close-
+   Weitere Informationen zum korrekten Zitieren aus Duden online.

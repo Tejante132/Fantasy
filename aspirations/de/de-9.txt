@@ -7,7 +7,7 @@
 /* <![CDATA[ */
 var theplus_ajax_url = "https://www.values-academy.de/wp-admin/admin-ajax.php";
 		var theplus_ajax_post_url = "https://www.values-academy.de/wp-admin/admin-post.php";
-		var theplus_nonce = "85fb3286dd";
+		var theplus_nonce = "7b8e591197";
 /* ]]> */
 </script>
     <style>
@@ -1141,14 +1141,14 @@ function apply_class_exclusion(e)
 		font-weight:bold;
 	}
 		.warning-wpcp {
-		background:#ffecec var(--wpr-bg-3a348bf0-caa4-42cd-b09d-1432f512ab9c) no-repeat 10px 50%;
+		background:#ffecec var(--wpr-bg-70800724-7bec-4f1b-8240-49d99c46f706) no-repeat 10px 50%;
 		border:1px solid #f2bfbf;
 		-webkit-box-shadow: 0px 0px 34px 2px #f2bfbf;
 		-moz-box-shadow: 0px 0px 34px 2px #f2bfbf;
 		box-shadow: 0px 0px 34px 2px #f2bfbf;
 	}
 	.success-wpcp {
-		background: #fafafa var(--wpr-bg-858a0c73-bf22-459c-99f4-edc49c099816) no-repeat 10px 50%;
+		background: #fafafa var(--wpr-bg-370bcd8d-c0aa-468e-a179-bbed977468d3) no-repeat 10px 50%;
 		border: 1px solid #00b38f;
 		box-shadow: 0px 0px 34px 2px #adc;
 	}
@@ -1163,9 +1163,7 @@ function apply_class_exclusion(e)
 <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
 	<!-- This site is optimized with the Yoast SEO Premium plugin v26.3 (Yoast SEO v26.6) - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Phantasie / Fantasie - Definition und Beschreibung</title>
-<link crossorigin data-rocket-preload as="font" href="https://www.values-academy.de/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrys7m.woff2" rel="preload">
-<link crossorigin data-rocket-preload as="font" href="https://www.values-academy.de/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxieyp8kv8jhgfvrjjfecg.woff2" rel="preload">
-<link data-wpr-hosted-gf-parameters="family=Playfair%20Display%3A600%7CMontserrat%3A500&subset=latin&display=swap" href="https://www.values-academy.de/wp-content/cache/fonts/1/google-fonts/css/0/c/7/5378ca91e52fa5d6ec8831d54f9cf.css" rel="stylesheet"><link rel="preload" data-rocket-preload as="image" href="https://www.values-academy.de/wp-content/uploads/2021/03/va_logo_long_black-e1750532884693.png" fetchpriority="high">
+<link data-wpr-hosted-gf-parameters="family=Playfair%20Display%3A600%7CMontserrat%3A500&subset=latin&display=swap" href="https://www.values-academy.de/wp-content/cache/fonts/1/google-fonts/css/0/c/7/5378ca91e52fa5d6ec8831d54f9cf.css" rel="stylesheet">
 	<meta name="description" content="Definition und Beschreibung des Wertes Phantasie. Inklusive Herkunft des Begriffs, wichtige Synonyme und Zitate." />
 	<link rel="canonical" href="https://www.values-academy.de/phantasie/" />
 	<meta property="og:locale" content="de_DE" />
@@ -1198,9 +1196,9 @@ function apply_class_exclusion(e)
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
 </style>
-<link data-minify="1" rel='stylesheet' id='formidable-css' href='https://www.values-academy.de/wp-content/cache/background-css/1/www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/formidable/css/formidableforms.css?ver=1765954702&wpr_t=1765983045' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='mp-theme-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/memberpress/css/ui/theme.css?ver=1765954702' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='buddyboss_legacy-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/inc/plugins/buddyboss-menu-icons/vendor/kucrut/icon-picker/css/types/buddyboss_legacy.css?ver=1765954702' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='formidable-css' href='https://www.values-academy.de/wp-content/cache/background-css/1/www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/formidable/css/formidableforms.css?ver=1767524063&wpr_t=1767527950' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='mp-theme-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/memberpress/css/ui/theme.css?ver=1767524063' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='buddyboss_legacy-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/inc/plugins/buddyboss-menu-icons/vendor/kucrut/icon-picker/css/types/buddyboss_legacy.css?ver=1767524063' type='text/css' media='all' />
 <link rel='stylesheet' id='wp-block-library-css' href='https://www.values-academy.de/wp-includes/css/dist/block-library/style.min.css?ver=6.9' type='text/css' media='all' />
 <style id='classic-theme-styles-inline-css' type='text/css'>
 /*! This file is auto-generated */
@@ -1212,8 +1210,8 @@ html{scroll-behavior:auto !important}.ib-toc-container .ib-toc-icon-collapse,.ib
 
 /*# sourceURL=https://www.values-academy.de/wp-content/plugins/table-of-contents/build/style-index.css */
 </style>
-<link data-minify="1" rel='stylesheet' id='bb_theme_block-buddypanel-style-css-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/blocks/buddypanel/build/style-buddypanel.css?ver=1765954702' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='jet-engine-frontend-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=1765954702' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='bb_theme_block-buddypanel-style-css-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/blocks/buddypanel/build/style-buddypanel.css?ver=1767524063' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='jet-engine-frontend-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=1767524063' type='text/css' media='all' />
 <style id='global-styles-inline-css' type='text/css'>
 :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 :where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
@@ -1222,58 +1220,58 @@ html{scroll-behavior:auto !important}.ib-toc-container .ib-toc-icon-collapse,.ib
 :root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
 /*# sourceURL=global-styles-inline-css */
 </style>
-<link data-minify="1" rel='stylesheet' id='audioigniter-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/audioigniter/player/build/style.css?ver=1765954702' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='if-menu-site-css-css' href='https://www.values-academy.de/wp-content/cache/background-css/1/www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/if-menu/assets/if-menu-site.css?ver=1765954702&wpr_t=1765983045' type='text/css' media='all' />
-<link rel='stylesheet' id='theplus-front-css-css' href='//www.values-academy.de/wp-content/uploads/theplus-addons/theplus-post-49030.min.css?ver=1765958428' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='redux-extendify-styles-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/inc/admin/framework/redux-core/assets/css/extendify-utilities.css?ver=1765954702' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.33.4' type='text/css' media='all' />
-<link rel='stylesheet' id='widget-nav-menu-css' href='https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.33.2' type='text/css' media='all' />
-<link rel='stylesheet' id='e-sticky-css' href='https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=3.33.2' type='text/css' media='all' />
-<link rel='stylesheet' id='widget-spacer-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.33.4' type='text/css' media='all' />
-<link rel='stylesheet' id='widget-heading-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.33.4' type='text/css' media='all' />
-<link rel='stylesheet' id='e-motion-fx-css' href='https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css?ver=3.33.2' type='text/css' media='all' />
-<link rel='stylesheet' id='e-animation-grow-rotate-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow-rotate.min.css?ver=3.33.4' type='text/css' media='all' />
-<link rel='stylesheet' id='widget-social-icons-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.33.4' type='text/css' media='all' />
-<link rel='stylesheet' id='e-apple-webkit-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.33.4' type='text/css' media='all' />
-<link rel='stylesheet' id='widget-icon-list-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.33.4' type='text/css' media='all' />
-<link rel='stylesheet' id='e-animation-zoomIn-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/lib/animations/styles/zoomIn.min.css?ver=3.33.4' type='text/css' media='all' />
-<link rel='stylesheet' id='e-popup-css' href='https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=3.33.2' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='elementor-icons-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1765954702' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-8-css' href='https://www.values-academy.de/wp-content/uploads/elementor/css/post-8.css?ver=1765954687' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-69510-css' href='https://www.values-academy.de/wp-content/uploads/elementor/css/post-69510.css?ver=1765954687' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-112348-css' href='https://www.values-academy.de/wp-content/cache/background-css/1/www.values-academy.de/wp-content/uploads/elementor/css/post-112348.css?ver=1765954688&wpr_t=1765983045' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-78693-css' href='https://www.values-academy.de/wp-content/uploads/elementor/css/post-78693.css?ver=1765954702' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-131225-css' href='https://www.values-academy.de/wp-content/uploads/elementor/css/post-131225.css?ver=1765954702' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='borlabs-cookie-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/cache/borlabs-cookie/borlabs-cookie_1_de.css?ver=1765954702' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='heateor_sss_frontend_css-css' href='https://www.values-academy.de/wp-content/cache/background-css/1/www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=1765954702&wpr_t=1765983045' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='audioigniter-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/audioigniter/player/build/style.css?ver=1767524063' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='if-menu-site-css-css' href='https://www.values-academy.de/wp-content/cache/background-css/1/www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/if-menu/assets/if-menu-site.css?ver=1767524063&wpr_t=1767527950' type='text/css' media='all' />
+<link rel='stylesheet' id='theplus-front-css-css' href='//www.values-academy.de/wp-content/uploads/theplus-addons/theplus-post-49030.min.css?ver=1766857352' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='redux-extendify-styles-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/inc/admin/framework/redux-core/assets/css/extendify-utilities.css?ver=1767524063' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.34.0' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-nav-menu-css' href='https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.34.0' type='text/css' media='all' />
+<link rel='stylesheet' id='e-sticky-css' href='https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=3.34.0' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-spacer-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.34.0' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.34.0' type='text/css' media='all' />
+<link rel='stylesheet' id='e-motion-fx-css' href='https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css?ver=3.34.0' type='text/css' media='all' />
+<link rel='stylesheet' id='e-animation-grow-rotate-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow-rotate.min.css?ver=3.34.0' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.34.0' type='text/css' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.34.0' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.34.0' type='text/css' media='all' />
+<link rel='stylesheet' id='e-animation-zoomIn-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/lib/animations/styles/zoomIn.min.css?ver=3.34.0' type='text/css' media='all' />
+<link rel='stylesheet' id='e-popup-css' href='https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=3.34.0' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-icons-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1767524063' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-8-css' href='https://www.values-academy.de/wp-content/uploads/elementor/css/post-8.css?ver=1767524062' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-69510-css' href='https://www.values-academy.de/wp-content/uploads/elementor/css/post-69510.css?ver=1767524062' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-112348-css' href='https://www.values-academy.de/wp-content/cache/background-css/1/www.values-academy.de/wp-content/uploads/elementor/css/post-112348.css?ver=1767524062&wpr_t=1767527950' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-78693-css' href='https://www.values-academy.de/wp-content/uploads/elementor/css/post-78693.css?ver=1767524075' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-131225-css' href='https://www.values-academy.de/wp-content/uploads/elementor/css/post-131225.css?ver=1767524062' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='borlabs-cookie-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/cache/borlabs-cookie/borlabs-cookie_1_de.css?ver=1767524063' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='heateor_sss_frontend_css-css' href='https://www.values-academy.de/wp-content/cache/background-css/1/www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=1767524063&wpr_t=1767527950' type='text/css' media='all' />
 <style id='heateor_sss_frontend_css-inline-css' type='text/css'>
 .heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{color:#fff;border-width:0px;border-style:solid;border-color:transparent}.heateor_sss_horizontal_sharing .heateorSssTCBackground{color:#666}.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{border-color:transparent;}.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{color:#fff;border-width:0px;border-style:solid;border-color:transparent;}.heateor_sss_vertical_sharing .heateorSssTCBackground{color:#666;}.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{border-color:transparent;}@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}div.heateor_sss_sharing_title{text-align:center}div.heateor_sss_sharing_ul{width:100%;text-align:center;}div.heateor_sss_horizontal_sharing div.heateor_sss_sharing_ul a{float:none!important;display:inline-block;}
 /*# sourceURL=heateor_sss_frontend_css-inline-css */
 </style>
-<link data-minify="1" rel='stylesheet' id='css-protect.css-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/wccp-pro/css/css-protect.css?ver=1765954702' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='print-protection.css-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/wccp-pro/css/print-protection.css?ver=1765954702' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='buddyboss-theme-icons-map-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/assets/css/icons-map.css?ver=1765954702' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='buddyboss-theme-icons-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/assets/icons/css/bb-icons.css?ver=1765954702' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='css-protect.css-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/wccp-pro/css/css-protect.css?ver=1767524063' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='print-protection.css-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/wccp-pro/css/print-protection.css?ver=1767524063' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='buddyboss-theme-icons-map-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/assets/css/icons-map.css?ver=1767524063' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='buddyboss-theme-icons-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/assets/icons/css/bb-icons.css?ver=1767524063' type='text/css' media='all' />
 <link rel='stylesheet' id='buddyboss-theme-magnific-popup-css-css' href='https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/css/vendors/magnific-popup.min.css?ver=2.6.90' type='text/css' media='all' />
 <link rel='stylesheet' id='buddyboss-theme-select2-css-css' href='https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/css/vendors/select2.min.css?ver=2.6.90' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='buddyboss-theme-css-css' href='https://www.values-academy.de/wp-content/cache/background-css/1/www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/assets/css/theme.css?ver=1765954702&wpr_t=1765983045' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='buddyboss-theme-template-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/assets/css/template-v2.css?ver=1765954702' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='buddyboss-theme-elementor-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/assets/css/elementor.css?ver=1765954702' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='buddyboss-theme-memberpress-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/assets/css/memberpress.css?ver=1765954702' type='text/css' media='all' />
-<link rel='stylesheet' id='jquery-chosen-css' href='https://www.values-academy.de/wp-content/cache/background-css/1/www.values-academy.de/wp-content/plugins/jet-search/assets/lib/chosen/chosen.min.css?ver=1.8.7&wpr_t=1765983045' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='jet-search-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/jet-search/assets/css/jet-search.css?ver=1765954702' type='text/css' media='all' />
-<noscript></noscript><link data-minify="1" rel='stylesheet' id='sib-front-css-css' href='https://www.values-academy.de/wp-content/cache/background-css/1/www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/mailin/css/mailin-front.css?ver=1765954702&wpr_t=1765983045' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='buddyboss-theme-css-css' href='https://www.values-academy.de/wp-content/cache/background-css/1/www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/assets/css/theme.css?ver=1767524063&wpr_t=1767527950' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='buddyboss-theme-template-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/assets/css/template-v2.css?ver=1767524063' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='buddyboss-theme-elementor-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/assets/css/elementor.css?ver=1767524063' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='buddyboss-theme-memberpress-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/assets/css/memberpress.css?ver=1767524063' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-chosen-css' href='https://www.values-academy.de/wp-content/cache/background-css/1/www.values-academy.de/wp-content/plugins/jet-search/assets/lib/chosen/chosen.min.css?ver=1.8.7&wpr_t=1767527950' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='jet-search-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/jet-search/assets/css/jet-search.css?ver=1767524063' type='text/css' media='all' />
+<noscript></noscript><link data-minify="1" rel='stylesheet' id='sib-front-css-css' href='https://www.values-academy.de/wp-content/cache/background-css/1/www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/mailin/css/mailin-front.css?ver=1767524063&wpr_t=1767527950' type='text/css' media='all' />
 <link rel='stylesheet' id='buddyboss-child-css-css' href='https://www.values-academy.de/wp-content/themes/buddyboss-theme-child/assets/css/custom.css?ver=1.0.0' type='text/css' media='all' />
 <style id='rocket-lazyload-inline-css' type='text/css'>
-.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:var(--wpr-bg-951c6f31-107d-4959-80d2-86dbd7700704) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:var(--wpr-bg-811da3b3-c4b0-45ea-a259-2981250efb30) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
 /*# sourceURL=rocket-lazyload-inline-css */
 </style>
-<link data-minify="1" rel='stylesheet' id='elementor-gf-local-montserrat-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1765954702' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='elementor-gf-local-poppins-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1765954702' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1765954702' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-gf-local-montserrat-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1767524063' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-gf-local-poppins-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1767524063' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1767524063' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://www.values-academy.de/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=1765954702' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=1765954702' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=1767524063' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=1767524063' type='text/css' media='all' />
 <script type="text/javascript" src="https://www.values-academy.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js" data-rocket-defer defer></script>
 <script type="text/javascript" src="https://www.values-academy.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" data-rocket-defer defer></script>
 <script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/cache/min/1/wp-content/plugins/table-of-contents/assets/js/frontend.js?ver=1761619444" id="ideabox-toc-script-js" data-rocket-defer defer></script>
@@ -1295,7 +1293,7 @@ var borlabsCookiePrioritized = {"domain":"www.values-academy.de","path":"/","ver
 <script type="text/javascript" id="sib-front-js-js-extra">
 /* <![CDATA[ */
 var sibErrMsg = {"invalidMail":"Please fill out valid email address","requiredField":"Please fill out required fields","invalidDateFormat":"Please fill out valid date format","invalidSMSFormat":"Please fill out valid phone number"};
-var ajax_sib_front_object = {"ajax_url":"https://www.values-academy.de/wp-admin/admin-ajax.php","ajax_nonce":"9304feb1b9","flag_url":"https://www.values-academy.de/wp-content/plugins/mailin/img/flags/"};
+var ajax_sib_front_object = {"ajax_url":"https://www.values-academy.de/wp-admin/admin-ajax.php","ajax_nonce":"b266eb12ce","flag_url":"https://www.values-academy.de/wp-content/plugins/mailin/img/flags/"};
 //# sourceURL=sib-front-js-js-extra
 /* ]]> */
 </script>
@@ -1883,12 +1881,72 @@ var ajax_sib_front_object = {"ajax_url":"https://www.values-academy.de/wp-admin/
    TEAM-HEADER
    ============================================================================ */
 .wertetest-team-header {
-    text-align: center;
-    margin-bottom: 35px;
-    padding: 25px 20px;
-    background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+    background: #fff;
+    border: 1px solid #e0e0e0;
     border-radius: 12px;
-    border: 2px solid #2196F3;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+    text-align: center;
+}
+
+.wth-identity {
+    margin-bottom: 0.75rem;
+}
+
+.wth-org-name {
+    margin: 0 !important;
+    font-size: 1.8rem !important;
+    color: #333;
+    font-weight: 700;
+}
+
+.wth-meta {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    color: #666;
+    font-size: 1rem;
+    padding-top: 0.5rem;
+}
+
+.wth-meta-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+}
+
+.wth-meta-sep {
+    color: #ccc;
+    font-weight: bold;
+}
+
+    .wth-notice {
+        margin-top: 1.2rem;
+        padding: 0.6rem 1rem;
+        border-radius: 6px;
+        font-size: 0.9rem;
+        line-height: 1.4;
+        display: inline-block;
+        max-width: 90%;
+        border: 1px solid transparent;
+    }
+
+    .wth-notice--expired {
+        background: #f8f9fa;
+        color: #777;
+        border-color: #eee;
+        border-left: 3px solid #ccc;
+    }
+@media (max-width: 600px) {
+    .wth-meta {
+        flex-direction: column;
+        gap: 0.5rem;
+        align-items: center;
+    }
+    .wth-meta-sep {
+        display: none;
+    }
 }
 
 /* ============================================================================
@@ -2037,28 +2095,6 @@ var ajax_sib_front_object = {"ajax_url":"https://www.values-academy.de/wp-admin/
     min-width: 65px;
     text-align: right;
     letter-spacing: -0.3px;
-}
-
-.wertetest-team-header .result-title {
-    font-size: 24px;
-    color: #1565C0;
-    margin: 0 0 12px 0;
-    font-weight: 700;
-}
-
-.wertetest-team-header .team-meta {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    font-size: 15px;
-    color: #1976D2;
-    font-weight: 500;
-}
-
-.wertetest-team-header .team-members {
-    background: rgba(255, 255, 255, 0.5);
-    padding: 5px 15px;
-    border-radius: 20px;
 }
 
 /* ============================================================================
@@ -2648,6 +2684,14 @@ var ajax_sib_front_object = {"ajax_url":"https://www.values-academy.de/wp-admin/
         border-width: 3px;
     }
 }
+
+/* ============================================================================
+   TEAM-HINT AUSBLENDUNG
+   ============================================================================ */
+/* Verstecke Team-Hint bei gültigem Team-Test (auch bei separaten Blöcken) */
+body:has(.wertetest-form--team-mode) p[style*="background-color:#abb7c233"] {
+    display: none !important;
+}
     </style>
     <script type="rocketlazyloadscript">document.documentElement.className += " js";</script>
 
@@ -2662,7 +2706,7 @@ var ajax_sib_front_object = {"ajax_url":"https://www.values-academy.de/wp-admin/
 	console.warn && console.warn("[GTM4WP] Data layer codes are active but GTM container must be loaded using custom coding !!!");
 </script>
 <!-- End Google Tag Manager for WordPress by gtm4wp.com -->		<style>*:not(.elementor-editor-active) .plus-conditions--hidden {display: none;}</style> 
-		<meta name="generator" content="Redux 4.4.11" /><link rel="pingback" href="https://www.values-academy.de/xmlrpc.php"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=1" /><meta name="generator" content="Elementor 3.33.4; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+		<meta name="generator" content="Redux 4.4.11" /><link rel="pingback" href="https://www.values-academy.de/xmlrpc.php"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=1" /><meta name="generator" content="Elementor 3.34.0; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
 <!-- Google Tag Manager -->
 <script type="rocketlazyloadscript">if('0'!=='1'){(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
 new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
@@ -2950,23 +2994,23 @@ border: none;
 }</style><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
 	<style id="wpr-lazyload-bg-container"></style><style id="wpr-lazyload-bg-exclusion"></style>
 <noscript>
-<style id="wpr-lazyload-bg-nostyle">.frm-loading-img{--wpr-bg-5c8c502c-8a87-49c5-82b0-8a3e5e4a3c20: url('https://www.values-academy.de/wp-content/plugins/formidable/images/ajax_loader.gif');}select.frm_loading_lookup{--wpr-bg-d2153c6f-1a8e-4dab-8199-47f556e493fc: url('https://www.values-academy.de/wp-content/plugins/formidable/images/ajax_loader.gif');}.with_frm_style .iti__flag{--wpr-bg-dafe3f17-6b86-439e-912f-b56371d38c43: url('https://www.values-academy.de/www.values-academy.de/wp-content/plugins/formidable-pro/images/intl-tel-input/flags.webp');}.with_frm_style .iti__flag{--wpr-bg-eb5ffba5-f077-4c76-8688-7f2d74a1c51f: url('https://www.values-academy.de/www.values-academy.de/wp-content/plugins/formidable-pro/images/intl-tel-input/flags@2x.webp');}.with_frm_style .iti__globe{--wpr-bg-b122404b-4266-45d2-b65c-2439fb0562b0: url('https://www.values-academy.de/www.values-academy.de/wp-content/plugins/formidable-pro/images/intl-tel-input/globe.webp');}.with_frm_style .iti__globe{--wpr-bg-a8c129c5-d23b-41eb-ba87-3e70394df819: url('https://www.values-academy.de/www.values-academy.de/wp-content/plugins/formidable-pro/images/intl-tel-input/globe@2x.webp');}.if-menu-peek::after{--wpr-bg-aba53953-2b07-4e56-80a7-643ff9913a94: url('https://www.values-academy.de/wp-content/plugins/if-menu/assets/icon-visibility.svg');}.elementor-112348 .elementor-element.elementor-element-4cfbb80c:not(.elementor-motion-effects-element-type-background), .elementor-112348 .elementor-element.elementor-element-4cfbb80c > .elementor-motion-effects-container > .elementor-motion-effects-layer{--wpr-bg-d0870b97-5f77-41a8-9f47-163ca22721d7: url('https://www.values-academy.de/wp-content/uploads/2021/03/Design-ohne-Titel-31.jpg');}.elementor-112348 .elementor-element.elementor-element-4cfbb80c:not(.elementor-motion-effects-element-type-background), .elementor-112348 .elementor-element.elementor-element-4cfbb80c > .elementor-motion-effects-container > .elementor-motion-effects-layer{--wpr-bg-b757a7a3-7ac4-4829-b6fe-2084ce747f97: url('https://www.values-academy.de/wp-content/uploads/2021/03/Design-ohne-Titel-31.jpg');}#heateor_sss_mastodon_popup_bg,#heateor_sss_popup_bg{--wpr-bg-ee9b8354-7f0e-45eb-8316-4ab07f256d9e: url('https://www.values-academy.de/wp-content/plugins/sassy-social-share/images/transparent_bg.png');}#bb-loader{--wpr-bg-95525fc8-05ed-4118-b56b-24c72f12412a: url('https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/images/svg/loader.svg');}.widget_search .search-submit,.wp-block-search .search-submit{--wpr-bg-eb0e53d3-18cb-4d19-b98f-52088e841e7b: url('https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/images/svg/search.svg');}select{--wpr-bg-f76551b7-6074-4f1d-b966-5b540ba99b3b: url('https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/images/svg/arrow-down.svg');}input[name="bbp_search"],input[type="search"],input.search{--wpr-bg-f9494d19-d048-47a9-bf4a-9e55393c75c8: url('https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/images/svg/search.svg');}html{--wpr-bg-690e2156-1300-463b-bd12-4f2825a6829c: url('https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/images/adminbar-background.png');}to{--wpr-bg-8247f9de-08f6-4c2b-8fe8-e31ba3dad4d2: url('https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/images/svg/search.svg');}to{--wpr-bg-a07ce378-c24a-43f9-aa6b-8df8cb91775d: url('https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/images/svg/search.svg');}.chosen-container-single .chosen-single abbr{--wpr-bg-5131344c-9d5e-4d76-a32d-3b97be11e99c: url('https://www.values-academy.de/wp-content/plugins/jet-search/assets/lib/chosen/chosen-sprite.png');}.chosen-container-single .chosen-single div b{--wpr-bg-6f04b515-9f21-4f95-8410-9ac88623f281: url('https://www.values-academy.de/wp-content/plugins/jet-search/assets/lib/chosen/chosen-sprite.png');}.chosen-container-single .chosen-search input[type=text]{--wpr-bg-829b1285-c23b-49ac-a06a-f7262673b520: url('https://www.values-academy.de/wp-content/plugins/jet-search/assets/lib/chosen/chosen-sprite.png');}.chosen-container-multi .chosen-choices li.search-choice .search-choice-close{--wpr-bg-2fe29846-7466-4da0-9aab-4af2b2e75830: url('https://www.values-academy.de/wp-content/plugins/jet-search/assets/lib/chosen/chosen-sprite.png');}.chosen-rtl .chosen-search input[type=text]{--wpr-bg-3dabc3c8-098d-4d67-8950-408bd06165a9: url('https://www.values-academy.de/wp-content/plugins/jet-search/assets/lib/chosen/chosen-sprite.png');}.chosen-container .chosen-results-scroll-down span,.chosen-container .chosen-results-scroll-up span,.chosen-container-multi .chosen-choices .search-choice .search-choice-close,.chosen-container-single .chosen-search input[type=text],.chosen-container-single .chosen-single abbr,.chosen-container-single .chosen-single div b,.chosen-rtl .chosen-search input[type=text]{--wpr-bg-066d0d61-c1c5-4c9b-bafd-3369971574b6: url('https://www.values-academy.de/wp-content/plugins/jet-search/assets/lib/chosen/chosen-sprite@2x.png');}.sib-country-block .sib-toggle .sib-cflags{--wpr-bg-6a12f0ea-3df5-485d-b941-3a9fb8f68719: url('https://www.values-academy.de/wp-content/plugins/mailin/img/flags/fr.png');}.sib-sms-field ul.sib-country-list li .sib-flag-box .sib-flag{--wpr-bg-40efe2a9-f843-4b6d-99ad-2939f98eb717: url('https://www.values-academy.de/wp-content/plugins/mailin/img/flags/ad.png');}.warning-wpcp{--wpr-bg-3a348bf0-caa4-42cd-b09d-1432f512ab9c: url('https://www.values-academy.de/wp-content/plugins/wccp-pro/images/warning.png');}.success-wpcp{--wpr-bg-858a0c73-bf22-459c-99f4-edc49c099816: url('https://www.values-academy.de/wp-content/plugins/wccp-pro/images/success.png');}.rll-youtube-player .play{--wpr-bg-951c6f31-107d-4959-80d2-86dbd7700704: url('https://www.values-academy.de/wp-content/plugins/wp-rocket/assets/img/youtube.png');}</style>
+<style id="wpr-lazyload-bg-nostyle">.frm-loading-img{--wpr-bg-1f168c8a-151c-4399-a345-9a343e4dc2b4: url('https://www.values-academy.de/wp-content/plugins/formidable/images/ajax_loader.gif');}select.frm_loading_lookup{--wpr-bg-9bc36e48-deab-452e-918f-09247641251a: url('https://www.values-academy.de/wp-content/plugins/formidable/images/ajax_loader.gif');}.with_frm_style .iti__flag{--wpr-bg-e732d948-8358-4c09-abb7-ee938d93998e: url('https://www.values-academy.de/www.values-academy.de/wp-content/plugins/formidable-pro/images/intl-tel-input/flags.webp');}.with_frm_style .iti__flag{--wpr-bg-739ff8b8-f5ac-4fe9-8851-b19da7293a4c: url('https://www.values-academy.de/www.values-academy.de/wp-content/plugins/formidable-pro/images/intl-tel-input/flags@2x.webp');}.with_frm_style .iti__globe{--wpr-bg-7a93e93b-0fda-4bd8-8fba-8f99a32cbc61: url('https://www.values-academy.de/www.values-academy.de/wp-content/plugins/formidable-pro/images/intl-tel-input/globe.webp');}.with_frm_style .iti__globe{--wpr-bg-ac0d1c17-d51a-4289-a7a9-239ff13e774a: url('https://www.values-academy.de/www.values-academy.de/wp-content/plugins/formidable-pro/images/intl-tel-input/globe@2x.webp');}.if-menu-peek::after{--wpr-bg-90b5e33c-a41e-4c50-8577-97aadbf04ca8: url('https://www.values-academy.de/wp-content/plugins/if-menu/assets/icon-visibility.svg');}.elementor-112348 .elementor-element.elementor-element-4cfbb80c:not(.elementor-motion-effects-element-type-background), .elementor-112348 .elementor-element.elementor-element-4cfbb80c > .elementor-motion-effects-container > .elementor-motion-effects-layer{--wpr-bg-282abcc3-d4b1-40dc-b1f1-5ef83416d281: url('https://www.values-academy.de/wp-content/uploads/2021/03/Design-ohne-Titel-31.jpg');}.elementor-112348 .elementor-element.elementor-element-4cfbb80c:not(.elementor-motion-effects-element-type-background), .elementor-112348 .elementor-element.elementor-element-4cfbb80c > .elementor-motion-effects-container > .elementor-motion-effects-layer{--wpr-bg-0d001b05-fe13-4287-8da8-920daa3f81ea: url('https://www.values-academy.de/wp-content/uploads/2021/03/Design-ohne-Titel-31.jpg');}#heateor_sss_mastodon_popup_bg,#heateor_sss_popup_bg{--wpr-bg-17c7a21f-9eea-4a30-8427-9d2ae42fc14c: url('https://www.values-academy.de/wp-content/plugins/sassy-social-share/images/transparent_bg.png');}#bb-loader{--wpr-bg-7fa8831f-550f-4157-ac85-9118d418e773: url('https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/images/svg/loader.svg');}.widget_search .search-submit,.wp-block-search .search-submit{--wpr-bg-a6aa3dc2-3e31-43fa-a722-e7a09567de31: url('https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/images/svg/search.svg');}select{--wpr-bg-8b217207-6659-44e5-80b1-edd755afab0d: url('https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/images/svg/arrow-down.svg');}input[name="bbp_search"],input[type="search"],input.search{--wpr-bg-6bae92a9-78ae-4f24-9792-8732c6a304a1: url('https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/images/svg/search.svg');}html{--wpr-bg-302dc92d-dcbc-4a05-b3ec-fd038bf7f224: url('https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/images/adminbar-background.png');}to{--wpr-bg-58ab52b8-9e05-4812-8254-943ff6a30566: url('https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/images/svg/search.svg');}to{--wpr-bg-639f5422-77fe-4352-a59c-b08baef6cbf3: url('https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/images/svg/search.svg');}.chosen-container-single .chosen-single abbr{--wpr-bg-e8dc2739-7f11-4024-b5d5-cc5e3e8737a7: url('https://www.values-academy.de/wp-content/plugins/jet-search/assets/lib/chosen/chosen-sprite.png');}.chosen-container-single .chosen-single div b{--wpr-bg-0922d7d5-f42c-4bbb-b466-fded74d662a3: url('https://www.values-academy.de/wp-content/plugins/jet-search/assets/lib/chosen/chosen-sprite.png');}.chosen-container-single .chosen-search input[type=text]{--wpr-bg-0d982a45-9abd-4514-91a2-cd6ecba76437: url('https://www.values-academy.de/wp-content/plugins/jet-search/assets/lib/chosen/chosen-sprite.png');}.chosen-container-multi .chosen-choices li.search-choice .search-choice-close{--wpr-bg-6eaf5431-0488-4763-a444-ed3c6ef58991: url('https://www.values-academy.de/wp-content/plugins/jet-search/assets/lib/chosen/chosen-sprite.png');}.chosen-rtl .chosen-search input[type=text]{--wpr-bg-d4e512bd-9873-48e1-a4b0-d56782867fa9: url('https://www.values-academy.de/wp-content/plugins/jet-search/assets/lib/chosen/chosen-sprite.png');}.chosen-container .chosen-results-scroll-down span,.chosen-container .chosen-results-scroll-up span,.chosen-container-multi .chosen-choices .search-choice .search-choice-close,.chosen-container-single .chosen-search input[type=text],.chosen-container-single .chosen-single abbr,.chosen-container-single .chosen-single div b,.chosen-rtl .chosen-search input[type=text]{--wpr-bg-33280b4e-7f81-4ab0-a037-f10dd6515496: url('https://www.values-academy.de/wp-content/plugins/jet-search/assets/lib/chosen/chosen-sprite@2x.png');}.sib-country-block .sib-toggle .sib-cflags{--wpr-bg-687042e5-fb66-4403-a467-50f1e2df71df: url('https://www.values-academy.de/wp-content/plugins/mailin/img/flags/fr.png');}.sib-sms-field ul.sib-country-list li .sib-flag-box .sib-flag{--wpr-bg-b46513b0-799f-4039-9bd5-f6f35b0dd7c7: url('https://www.values-academy.de/wp-content/plugins/mailin/img/flags/ad.png');}.warning-wpcp{--wpr-bg-70800724-7bec-4f1b-8240-49d99c46f706: url('https://www.values-academy.de/wp-content/plugins/wccp-pro/images/warning.png');}.success-wpcp{--wpr-bg-370bcd8d-c0aa-468e-a179-bbed977468d3: url('https://www.values-academy.de/wp-content/plugins/wccp-pro/images/success.png');}.rll-youtube-player .play{--wpr-bg-811da3b3-c4b0-45ea-a259-2981250efb30: url('https://www.values-academy.de/wp-content/plugins/wp-rocket/assets/img/youtube.png');}</style>
 </noscript>
-<script type="application/javascript">const rocket_pairs = [{"selector":".frm-loading-img","style":".frm-loading-img{--wpr-bg-5c8c502c-8a87-49c5-82b0-8a3e5e4a3c20: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/formidable\/images\/ajax_loader.gif');}","hash":"5c8c502c-8a87-49c5-82b0-8a3e5e4a3c20","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/formidable\/images\/ajax_loader.gif"},{"selector":"select.frm_loading_lookup","style":"select.frm_loading_lookup{--wpr-bg-d2153c6f-1a8e-4dab-8199-47f556e493fc: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/formidable\/images\/ajax_loader.gif');}","hash":"d2153c6f-1a8e-4dab-8199-47f556e493fc","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/formidable\/images\/ajax_loader.gif"},{"selector":".with_frm_style .iti__flag","style":".with_frm_style .iti__flag{--wpr-bg-dafe3f17-6b86-439e-912f-b56371d38c43: url('https:\/\/www.values-academy.de\/www.values-academy.de\/wp-content\/plugins\/formidable-pro\/images\/intl-tel-input\/flags.webp');}","hash":"dafe3f17-6b86-439e-912f-b56371d38c43","url":"https:\/\/www.values-academy.de\/www.values-academy.de\/wp-content\/plugins\/formidable-pro\/images\/intl-tel-input\/flags.webp"},{"selector":".with_frm_style .iti__flag","style":".with_frm_style .iti__flag{--wpr-bg-eb5ffba5-f077-4c76-8688-7f2d74a1c51f: url('https:\/\/www.values-academy.de\/www.values-academy.de\/wp-content\/plugins\/formidable-pro\/images\/intl-tel-input\/flags@2x.webp');}","hash":"eb5ffba5-f077-4c76-8688-7f2d74a1c51f","url":"https:\/\/www.values-academy.de\/www.values-academy.de\/wp-content\/plugins\/formidable-pro\/images\/intl-tel-input\/flags@2x.webp"},{"selector":".with_frm_style .iti__globe","style":".with_frm_style .iti__globe{--wpr-bg-b122404b-4266-45d2-b65c-2439fb0562b0: url('https:\/\/www.values-academy.de\/www.values-academy.de\/wp-content\/plugins\/formidable-pro\/images\/intl-tel-input\/globe.webp');}","hash":"b122404b-4266-45d2-b65c-2439fb0562b0","url":"https:\/\/www.values-academy.de\/www.values-academy.de\/wp-content\/plugins\/formidable-pro\/images\/intl-tel-input\/globe.webp"},{"selector":".with_frm_style .iti__globe","style":".with_frm_style .iti__globe{--wpr-bg-a8c129c5-d23b-41eb-ba87-3e70394df819: url('https:\/\/www.values-academy.de\/www.values-academy.de\/wp-content\/plugins\/formidable-pro\/images\/intl-tel-input\/globe@2x.webp');}","hash":"a8c129c5-d23b-41eb-ba87-3e70394df819","url":"https:\/\/www.values-academy.de\/www.values-academy.de\/wp-content\/plugins\/formidable-pro\/images\/intl-tel-input\/globe@2x.webp"},{"selector":".if-menu-peek","style":".if-menu-peek::after{--wpr-bg-aba53953-2b07-4e56-80a7-643ff9913a94: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/if-menu\/assets\/icon-visibility.svg');}","hash":"aba53953-2b07-4e56-80a7-643ff9913a94","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/if-menu\/assets\/icon-visibility.svg"},{"selector":".elementor-112348 .elementor-element.elementor-element-4cfbb80c:not(.elementor-motion-effects-element-type-background), .elementor-112348 .elementor-element.elementor-element-4cfbb80c > .elementor-motion-effects-container > .elementor-motion-effects-layer","style":".elementor-112348 .elementor-element.elementor-element-4cfbb80c:not(.elementor-motion-effects-element-type-background), .elementor-112348 .elementor-element.elementor-element-4cfbb80c > .elementor-motion-effects-container > .elementor-motion-effects-layer{--wpr-bg-d0870b97-5f77-41a8-9f47-163ca22721d7: url('https:\/\/www.values-academy.de\/wp-content\/uploads\/2021\/03\/Design-ohne-Titel-31.jpg');}","hash":"d0870b97-5f77-41a8-9f47-163ca22721d7","url":"https:\/\/www.values-academy.de\/wp-content\/uploads\/2021\/03\/Design-ohne-Titel-31.jpg"},{"selector":".elementor-112348 .elementor-element.elementor-element-4cfbb80c:not(.elementor-motion-effects-element-type-background), .elementor-112348 .elementor-element.elementor-element-4cfbb80c > .elementor-motion-effects-container > .elementor-motion-effects-layer","style":".elementor-112348 .elementor-element.elementor-element-4cfbb80c:not(.elementor-motion-effects-element-type-background), .elementor-112348 .elementor-element.elementor-element-4cfbb80c > .elementor-motion-effects-container > .elementor-motion-effects-layer{--wpr-bg-b757a7a3-7ac4-4829-b6fe-2084ce747f97: url('https:\/\/www.values-academy.de\/wp-content\/uploads\/2021\/03\/Design-ohne-Titel-31.jpg');}","hash":"b757a7a3-7ac4-4829-b6fe-2084ce747f97","url":"https:\/\/www.values-academy.de\/wp-content\/uploads\/2021\/03\/Design-ohne-Titel-31.jpg"},{"selector":"#heateor_sss_mastodon_popup_bg,#heateor_sss_popup_bg","style":"#heateor_sss_mastodon_popup_bg,#heateor_sss_popup_bg{--wpr-bg-ee9b8354-7f0e-45eb-8316-4ab07f256d9e: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/sassy-social-share\/images\/transparent_bg.png');}","hash":"ee9b8354-7f0e-45eb-8316-4ab07f256d9e","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/sassy-social-share\/images\/transparent_bg.png"},{"selector":"#bb-loader","style":"#bb-loader{--wpr-bg-95525fc8-05ed-4118-b56b-24c72f12412a: url('https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/loader.svg');}","hash":"95525fc8-05ed-4118-b56b-24c72f12412a","url":"https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/loader.svg"},{"selector":".widget_search .search-submit,.wp-block-search .search-submit","style":".widget_search .search-submit,.wp-block-search .search-submit{--wpr-bg-eb0e53d3-18cb-4d19-b98f-52088e841e7b: url('https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/search.svg');}","hash":"eb0e53d3-18cb-4d19-b98f-52088e841e7b","url":"https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/search.svg"},{"selector":"select","style":"select{--wpr-bg-f76551b7-6074-4f1d-b966-5b540ba99b3b: url('https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/arrow-down.svg');}","hash":"f76551b7-6074-4f1d-b966-5b540ba99b3b","url":"https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/arrow-down.svg"},{"selector":"input[name=\"bbp_search\"],input[type=\"search\"],input.search","style":"input[name=\"bbp_search\"],input[type=\"search\"],input.search{--wpr-bg-f9494d19-d048-47a9-bf4a-9e55393c75c8: url('https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/search.svg');}","hash":"f9494d19-d048-47a9-bf4a-9e55393c75c8","url":"https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/search.svg"},{"selector":"html","style":"html{--wpr-bg-690e2156-1300-463b-bd12-4f2825a6829c: url('https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/adminbar-background.png');}","hash":"690e2156-1300-463b-bd12-4f2825a6829c","url":"https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/adminbar-background.png"},{"selector":"to","style":"to{--wpr-bg-8247f9de-08f6-4c2b-8fe8-e31ba3dad4d2: url('https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/search.svg');}","hash":"8247f9de-08f6-4c2b-8fe8-e31ba3dad4d2","url":"https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/search.svg"},{"selector":"to","style":"to{--wpr-bg-a07ce378-c24a-43f9-aa6b-8df8cb91775d: url('https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/search.svg');}","hash":"a07ce378-c24a-43f9-aa6b-8df8cb91775d","url":"https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/search.svg"},{"selector":".chosen-container-single .chosen-single abbr","style":".chosen-container-single .chosen-single abbr{--wpr-bg-5131344c-9d5e-4d76-a32d-3b97be11e99c: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png');}","hash":"5131344c-9d5e-4d76-a32d-3b97be11e99c","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png"},{"selector":".chosen-container-single .chosen-single div b","style":".chosen-container-single .chosen-single div b{--wpr-bg-6f04b515-9f21-4f95-8410-9ac88623f281: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png');}","hash":"6f04b515-9f21-4f95-8410-9ac88623f281","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png"},{"selector":".chosen-container-single .chosen-search input[type=text]","style":".chosen-container-single .chosen-search input[type=text]{--wpr-bg-829b1285-c23b-49ac-a06a-f7262673b520: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png');}","hash":"829b1285-c23b-49ac-a06a-f7262673b520","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png"},{"selector":".chosen-container-multi .chosen-choices li.search-choice .search-choice-close","style":".chosen-container-multi .chosen-choices li.search-choice .search-choice-close{--wpr-bg-2fe29846-7466-4da0-9aab-4af2b2e75830: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png');}","hash":"2fe29846-7466-4da0-9aab-4af2b2e75830","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png"},{"selector":".chosen-rtl .chosen-search input[type=text]","style":".chosen-rtl .chosen-search input[type=text]{--wpr-bg-3dabc3c8-098d-4d67-8950-408bd06165a9: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png');}","hash":"3dabc3c8-098d-4d67-8950-408bd06165a9","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png"},{"selector":".chosen-container .chosen-results-scroll-down span,.chosen-container .chosen-results-scroll-up span,.chosen-container-multi .chosen-choices .search-choice .search-choice-close,.chosen-container-single .chosen-search input[type=text],.chosen-container-single .chosen-single abbr,.chosen-container-single .chosen-single div b,.chosen-rtl .chosen-search input[type=text]","style":".chosen-container .chosen-results-scroll-down span,.chosen-container .chosen-results-scroll-up span,.chosen-container-multi .chosen-choices .search-choice .search-choice-close,.chosen-container-single .chosen-search input[type=text],.chosen-container-single .chosen-single abbr,.chosen-container-single .chosen-single div b,.chosen-rtl .chosen-search input[type=text]{--wpr-bg-066d0d61-c1c5-4c9b-bafd-3369971574b6: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite@2x.png');}","hash":"066d0d61-c1c5-4c9b-bafd-3369971574b6","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite@2x.png"},{"selector":".sib-country-block .sib-toggle .sib-cflags","style":".sib-country-block .sib-toggle .sib-cflags{--wpr-bg-6a12f0ea-3df5-485d-b941-3a9fb8f68719: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/mailin\/img\/flags\/fr.png');}","hash":"6a12f0ea-3df5-485d-b941-3a9fb8f68719","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/mailin\/img\/flags\/fr.png"},{"selector":".sib-sms-field ul.sib-country-list li .sib-flag-box .sib-flag","style":".sib-sms-field ul.sib-country-list li .sib-flag-box .sib-flag{--wpr-bg-40efe2a9-f843-4b6d-99ad-2939f98eb717: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/mailin\/img\/flags\/ad.png');}","hash":"40efe2a9-f843-4b6d-99ad-2939f98eb717","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/mailin\/img\/flags\/ad.png"},{"selector":".warning-wpcp","style":".warning-wpcp{--wpr-bg-3a348bf0-caa4-42cd-b09d-1432f512ab9c: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/wccp-pro\/images\/warning.png');}","hash":"3a348bf0-caa4-42cd-b09d-1432f512ab9c","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/wccp-pro\/images\/warning.png"},{"selector":".success-wpcp","style":".success-wpcp{--wpr-bg-858a0c73-bf22-459c-99f4-edc49c099816: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/wccp-pro\/images\/success.png');}","hash":"858a0c73-bf22-459c-99f4-edc49c099816","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/wccp-pro\/images\/success.png"},{"selector":".rll-youtube-player .play","style":".rll-youtube-player .play{--wpr-bg-951c6f31-107d-4959-80d2-86dbd7700704: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/wp-rocket\/assets\/img\/youtube.png');}","hash":"951c6f31-107d-4959-80d2-86dbd7700704","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/wp-rocket\/assets\/img\/youtube.png"}]; const rocket_excluded_pairs = [];</script><meta name="generator" content="WP Rocket 3.20.0.3" data-wpr-features="wpr_lazyload_css_bg_img wpr_delay_js wpr_defer_js wpr_minify_js wpr_lazyload_images wpr_lazyload_iframes wpr_auto_preload_fonts wpr_oci wpr_image_dimensions wpr_minify_css wpr_preload_links wpr_host_fonts_locally wpr_desktop" /></head>
+<script type="application/javascript">const rocket_pairs = [{"selector":".frm-loading-img","style":".frm-loading-img{--wpr-bg-1f168c8a-151c-4399-a345-9a343e4dc2b4: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/formidable\/images\/ajax_loader.gif');}","hash":"1f168c8a-151c-4399-a345-9a343e4dc2b4","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/formidable\/images\/ajax_loader.gif"},{"selector":"select.frm_loading_lookup","style":"select.frm_loading_lookup{--wpr-bg-9bc36e48-deab-452e-918f-09247641251a: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/formidable\/images\/ajax_loader.gif');}","hash":"9bc36e48-deab-452e-918f-09247641251a","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/formidable\/images\/ajax_loader.gif"},{"selector":".with_frm_style .iti__flag","style":".with_frm_style .iti__flag{--wpr-bg-e732d948-8358-4c09-abb7-ee938d93998e: url('https:\/\/www.values-academy.de\/www.values-academy.de\/wp-content\/plugins\/formidable-pro\/images\/intl-tel-input\/flags.webp');}","hash":"e732d948-8358-4c09-abb7-ee938d93998e","url":"https:\/\/www.values-academy.de\/www.values-academy.de\/wp-content\/plugins\/formidable-pro\/images\/intl-tel-input\/flags.webp"},{"selector":".with_frm_style .iti__flag","style":".with_frm_style .iti__flag{--wpr-bg-739ff8b8-f5ac-4fe9-8851-b19da7293a4c: url('https:\/\/www.values-academy.de\/www.values-academy.de\/wp-content\/plugins\/formidable-pro\/images\/intl-tel-input\/flags@2x.webp');}","hash":"739ff8b8-f5ac-4fe9-8851-b19da7293a4c","url":"https:\/\/www.values-academy.de\/www.values-academy.de\/wp-content\/plugins\/formidable-pro\/images\/intl-tel-input\/flags@2x.webp"},{"selector":".with_frm_style .iti__globe","style":".with_frm_style .iti__globe{--wpr-bg-7a93e93b-0fda-4bd8-8fba-8f99a32cbc61: url('https:\/\/www.values-academy.de\/www.values-academy.de\/wp-content\/plugins\/formidable-pro\/images\/intl-tel-input\/globe.webp');}","hash":"7a93e93b-0fda-4bd8-8fba-8f99a32cbc61","url":"https:\/\/www.values-academy.de\/www.values-academy.de\/wp-content\/plugins\/formidable-pro\/images\/intl-tel-input\/globe.webp"},{"selector":".with_frm_style .iti__globe","style":".with_frm_style .iti__globe{--wpr-bg-ac0d1c17-d51a-4289-a7a9-239ff13e774a: url('https:\/\/www.values-academy.de\/www.values-academy.de\/wp-content\/plugins\/formidable-pro\/images\/intl-tel-input\/globe@2x.webp');}","hash":"ac0d1c17-d51a-4289-a7a9-239ff13e774a","url":"https:\/\/www.values-academy.de\/www.values-academy.de\/wp-content\/plugins\/formidable-pro\/images\/intl-tel-input\/globe@2x.webp"},{"selector":".if-menu-peek","style":".if-menu-peek::after{--wpr-bg-90b5e33c-a41e-4c50-8577-97aadbf04ca8: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/if-menu\/assets\/icon-visibility.svg');}","hash":"90b5e33c-a41e-4c50-8577-97aadbf04ca8","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/if-menu\/assets\/icon-visibility.svg"},{"selector":".elementor-112348 .elementor-element.elementor-element-4cfbb80c:not(.elementor-motion-effects-element-type-background), .elementor-112348 .elementor-element.elementor-element-4cfbb80c > .elementor-motion-effects-container > .elementor-motion-effects-layer","style":".elementor-112348 .elementor-element.elementor-element-4cfbb80c:not(.elementor-motion-effects-element-type-background), .elementor-112348 .elementor-element.elementor-element-4cfbb80c > .elementor-motion-effects-container > .elementor-motion-effects-layer{--wpr-bg-282abcc3-d4b1-40dc-b1f1-5ef83416d281: url('https:\/\/www.values-academy.de\/wp-content\/uploads\/2021\/03\/Design-ohne-Titel-31.jpg');}","hash":"282abcc3-d4b1-40dc-b1f1-5ef83416d281","url":"https:\/\/www.values-academy.de\/wp-content\/uploads\/2021\/03\/Design-ohne-Titel-31.jpg"},{"selector":".elementor-112348 .elementor-element.elementor-element-4cfbb80c:not(.elementor-motion-effects-element-type-background), .elementor-112348 .elementor-element.elementor-element-4cfbb80c > .elementor-motion-effects-container > .elementor-motion-effects-layer","style":".elementor-112348 .elementor-element.elementor-element-4cfbb80c:not(.elementor-motion-effects-element-type-background), .elementor-112348 .elementor-element.elementor-element-4cfbb80c > .elementor-motion-effects-container > .elementor-motion-effects-layer{--wpr-bg-0d001b05-fe13-4287-8da8-920daa3f81ea: url('https:\/\/www.values-academy.de\/wp-content\/uploads\/2021\/03\/Design-ohne-Titel-31.jpg');}","hash":"0d001b05-fe13-4287-8da8-920daa3f81ea","url":"https:\/\/www.values-academy.de\/wp-content\/uploads\/2021\/03\/Design-ohne-Titel-31.jpg"},{"selector":"#heateor_sss_mastodon_popup_bg,#heateor_sss_popup_bg","style":"#heateor_sss_mastodon_popup_bg,#heateor_sss_popup_bg{--wpr-bg-17c7a21f-9eea-4a30-8427-9d2ae42fc14c: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/sassy-social-share\/images\/transparent_bg.png');}","hash":"17c7a21f-9eea-4a30-8427-9d2ae42fc14c","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/sassy-social-share\/images\/transparent_bg.png"},{"selector":"#bb-loader","style":"#bb-loader{--wpr-bg-7fa8831f-550f-4157-ac85-9118d418e773: url('https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/loader.svg');}","hash":"7fa8831f-550f-4157-ac85-9118d418e773","url":"https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/loader.svg"},{"selector":".widget_search .search-submit,.wp-block-search .search-submit","style":".widget_search .search-submit,.wp-block-search .search-submit{--wpr-bg-a6aa3dc2-3e31-43fa-a722-e7a09567de31: url('https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/search.svg');}","hash":"a6aa3dc2-3e31-43fa-a722-e7a09567de31","url":"https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/search.svg"},{"selector":"select","style":"select{--wpr-bg-8b217207-6659-44e5-80b1-edd755afab0d: url('https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/arrow-down.svg');}","hash":"8b217207-6659-44e5-80b1-edd755afab0d","url":"https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/arrow-down.svg"},{"selector":"input[name=\"bbp_search\"],input[type=\"search\"],input.search","style":"input[name=\"bbp_search\"],input[type=\"search\"],input.search{--wpr-bg-6bae92a9-78ae-4f24-9792-8732c6a304a1: url('https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/search.svg');}","hash":"6bae92a9-78ae-4f24-9792-8732c6a304a1","url":"https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/search.svg"},{"selector":"html","style":"html{--wpr-bg-302dc92d-dcbc-4a05-b3ec-fd038bf7f224: url('https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/adminbar-background.png');}","hash":"302dc92d-dcbc-4a05-b3ec-fd038bf7f224","url":"https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/adminbar-background.png"},{"selector":"to","style":"to{--wpr-bg-58ab52b8-9e05-4812-8254-943ff6a30566: url('https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/search.svg');}","hash":"58ab52b8-9e05-4812-8254-943ff6a30566","url":"https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/search.svg"},{"selector":"to","style":"to{--wpr-bg-639f5422-77fe-4352-a59c-b08baef6cbf3: url('https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/search.svg');}","hash":"639f5422-77fe-4352-a59c-b08baef6cbf3","url":"https:\/\/www.values-academy.de\/wp-content\/themes\/buddyboss-theme\/assets\/images\/svg\/search.svg"},{"selector":".chosen-container-single .chosen-single abbr","style":".chosen-container-single .chosen-single abbr{--wpr-bg-e8dc2739-7f11-4024-b5d5-cc5e3e8737a7: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png');}","hash":"e8dc2739-7f11-4024-b5d5-cc5e3e8737a7","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png"},{"selector":".chosen-container-single .chosen-single div b","style":".chosen-container-single .chosen-single div b{--wpr-bg-0922d7d5-f42c-4bbb-b466-fded74d662a3: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png');}","hash":"0922d7d5-f42c-4bbb-b466-fded74d662a3","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png"},{"selector":".chosen-container-single .chosen-search input[type=text]","style":".chosen-container-single .chosen-search input[type=text]{--wpr-bg-0d982a45-9abd-4514-91a2-cd6ecba76437: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png');}","hash":"0d982a45-9abd-4514-91a2-cd6ecba76437","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png"},{"selector":".chosen-container-multi .chosen-choices li.search-choice .search-choice-close","style":".chosen-container-multi .chosen-choices li.search-choice .search-choice-close{--wpr-bg-6eaf5431-0488-4763-a444-ed3c6ef58991: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png');}","hash":"6eaf5431-0488-4763-a444-ed3c6ef58991","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png"},{"selector":".chosen-rtl .chosen-search input[type=text]","style":".chosen-rtl .chosen-search input[type=text]{--wpr-bg-d4e512bd-9873-48e1-a4b0-d56782867fa9: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png');}","hash":"d4e512bd-9873-48e1-a4b0-d56782867fa9","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite.png"},{"selector":".chosen-container .chosen-results-scroll-down span,.chosen-container .chosen-results-scroll-up span,.chosen-container-multi .chosen-choices .search-choice .search-choice-close,.chosen-container-single .chosen-search input[type=text],.chosen-container-single .chosen-single abbr,.chosen-container-single .chosen-single div b,.chosen-rtl .chosen-search input[type=text]","style":".chosen-container .chosen-results-scroll-down span,.chosen-container .chosen-results-scroll-up span,.chosen-container-multi .chosen-choices .search-choice .search-choice-close,.chosen-container-single .chosen-search input[type=text],.chosen-container-single .chosen-single abbr,.chosen-container-single .chosen-single div b,.chosen-rtl .chosen-search input[type=text]{--wpr-bg-33280b4e-7f81-4ab0-a037-f10dd6515496: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite@2x.png');}","hash":"33280b4e-7f81-4ab0-a037-f10dd6515496","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/jet-search\/assets\/lib\/chosen\/chosen-sprite@2x.png"},{"selector":".sib-country-block .sib-toggle .sib-cflags","style":".sib-country-block .sib-toggle .sib-cflags{--wpr-bg-687042e5-fb66-4403-a467-50f1e2df71df: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/mailin\/img\/flags\/fr.png');}","hash":"687042e5-fb66-4403-a467-50f1e2df71df","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/mailin\/img\/flags\/fr.png"},{"selector":".sib-sms-field ul.sib-country-list li .sib-flag-box .sib-flag","style":".sib-sms-field ul.sib-country-list li .sib-flag-box .sib-flag{--wpr-bg-b46513b0-799f-4039-9bd5-f6f35b0dd7c7: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/mailin\/img\/flags\/ad.png');}","hash":"b46513b0-799f-4039-9bd5-f6f35b0dd7c7","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/mailin\/img\/flags\/ad.png"},{"selector":".warning-wpcp","style":".warning-wpcp{--wpr-bg-70800724-7bec-4f1b-8240-49d99c46f706: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/wccp-pro\/images\/warning.png');}","hash":"70800724-7bec-4f1b-8240-49d99c46f706","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/wccp-pro\/images\/warning.png"},{"selector":".success-wpcp","style":".success-wpcp{--wpr-bg-370bcd8d-c0aa-468e-a179-bbed977468d3: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/wccp-pro\/images\/success.png');}","hash":"370bcd8d-c0aa-468e-a179-bbed977468d3","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/wccp-pro\/images\/success.png"},{"selector":".rll-youtube-player .play","style":".rll-youtube-player .play{--wpr-bg-811da3b3-c4b0-45ea-a259-2981250efb30: url('https:\/\/www.values-academy.de\/wp-content\/plugins\/wp-rocket\/assets\/img\/youtube.png');}","hash":"811da3b3-c4b0-45ea-a259-2981250efb30","url":"https:\/\/www.values-academy.de\/wp-content\/plugins\/wp-rocket\/assets\/img\/youtube.png"}]; const rocket_excluded_pairs = [];</script><meta name="generator" content="WP Rocket 3.20.0.3" data-wpr-features="wpr_lazyload_css_bg_img wpr_delay_js wpr_defer_js wpr_minify_js wpr_lazyload_images wpr_lazyload_iframes wpr_image_dimensions wpr_minify_css wpr_preload_links wpr_host_fonts_locally wpr_desktop" /></head>
 
 	<body class="wp-singular post-template-default single single-post postid-49030 single-format-standard wp-theme-buddyboss-theme wp-child-theme-buddyboss-theme-child buddyboss-theme bb-template-v2 buddypanel-logo-off has-sidebar blog-sidebar sidebar-right full-fi-invert  header-style-1  menu-style-standard sticky-header elementor-default elementor-template-full-width elementor-kit-8 elementor-page-78693">
 
         
 		
-		<div  id="page" class="site">
+		<div data-rocket-location-hash="54257ff4dc2eb7aae68fa23eb5f11e06" id="page" class="site">
 
-					<header  data-elementor-type="header" data-elementor-id="69510" class="elementor elementor-69510 elementor-location-header" data-elementor-post-type="elementor_library">
+					<header data-rocket-location-hash="4ae83fb8e0bf095355bc2f8812be2e5c" data-elementor-type="header" data-elementor-id="69510" class="elementor elementor-69510 elementor-location-header" data-elementor-post-type="elementor_library">
 			<div class="elementor-element elementor-element-3c95e9a e-grid e-con-full e-con e-parent" data-id="3c95e9a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
 		<div class="elementor-element elementor-element-6e14b80 view-tablet e-con-full e-flex e-con e-child" data-id="6e14b80" data-element_type="container">
 		<div class="elementor-element elementor-element-9ad8e74 e-con-full e-flex e-con e-child" data-id="9ad8e74" data-element_type="container">
 				<div class="elementor-element elementor-element-ee4c4b7 elementor-widget elementor-widget-tp-site-logo" data-id="ee4c4b7" data-element_type="widget" data-widget_type="tp-site-logo.default">
 				<div class="elementor-widget-container">
-					<div class="plus-site-logo  "><div class="site-logo-wrap "><a href="https://www.values-academy.de"  title="Values Academy" class="site-normal-logo image-logo" ><img fetchpriority="high" width="1200" height="308" src="https://www.values-academy.de/wp-content/uploads/2021/03/va_logo_long_black-e1750532884693.png" class="image-logo-wrap normal-image " alt="Values Academy"></a></div></div>				</div>
+					<div class="plus-site-logo  "><div class="site-logo-wrap "><a href="https://www.values-academy.de"  title="Values Academy" class="site-normal-logo image-logo" ><img width="1200" height="308" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20308'%3E%3C/svg%3E" class="image-logo-wrap normal-image " alt="Values Academy" data-lazy-src="https://www.values-academy.de/wp-content/uploads/2021/03/va_logo_long_black-e1750532884693.png"><noscript><img width="1200" height="308" src="https://www.values-academy.de/wp-content/uploads/2021/03/va_logo_long_black-e1750532884693.png" class="image-logo-wrap normal-image " alt="Values Academy"></noscript></a></div></div>				</div>
 				</div>
 				</div>
 				</div>
@@ -3005,7 +3049,7 @@ border: none;
 			<div class="site-title">
 
 				<a href="https://www.values-academy.de/" rel="home">
-					<img fetchpriority="high" width="1200" height="308" src="https://www.values-academy.de/wp-content/uploads/2021/03/va_logo_long_black-e1750532884693.png" class="bb-mobile-logo" alt="Logo VALUES ACADEMY" decoding="async" />				</a>
+					<img fetchpriority="high" width="1200" height="308" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20308'%3E%3C/svg%3E" class="bb-mobile-logo" alt="Logo VALUES ACADEMY" decoding="async" data-lazy-src="https://www.values-academy.de/wp-content/uploads/2021/03/va_logo_long_black-e1750532884693.png" /><noscript><img fetchpriority="high" width="1200" height="308" src="https://www.values-academy.de/wp-content/uploads/2021/03/va_logo_long_black-e1750532884693.png" class="bb-mobile-logo" alt="Logo VALUES ACADEMY" decoding="async" /></noscript>				</a>
 
 			</div>
 		</div>
@@ -3015,7 +3059,7 @@ border: none;
 	</div>
 
 	<div class="header-search-wrap">
-		<div  class="container">
+		<div data-rocket-location-hash="ca23f7c07336b7cf8c7766d2ffffc9d9" class="container">
 			
 <form role="search" method="get" class="search-form" action="https://www.values-academy.de/">
 	<label>
@@ -3033,7 +3077,7 @@ border: none;
 		<div class="bb-mobile-panel-header">
 							<div class="logo-wrap">
 					<a href="https://www.values-academy.de/" rel="home">
-						<img fetchpriority="high" width="1200" height="308" src="https://www.values-academy.de/wp-content/uploads/2021/03/va_logo_long_black-e1750532884693.png" class="bb-mobile-logo" alt="Logo VALUES ACADEMY" decoding="async" />					</a>
+						<img fetchpriority="high" width="1200" height="308" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20308'%3E%3C/svg%3E" class="bb-mobile-logo" alt="Logo VALUES ACADEMY" decoding="async" data-lazy-src="https://www.values-academy.de/wp-content/uploads/2021/03/va_logo_long_black-e1750532884693.png" /><noscript><img fetchpriority="high" width="1200" height="308" src="https://www.values-academy.de/wp-content/uploads/2021/03/va_logo_long_black-e1750532884693.png" class="bb-mobile-logo" alt="Logo VALUES ACADEMY" decoding="async" /></noscript>					</a>
 				</div>
 						<a href="#" class="bb-close-panel"><i class="bb-icon-l bb-icon-times"></i></a>
 		</div>
@@ -3410,7 +3454,7 @@ border: none;
 			<div class="site-title">
 
 				<a href="https://www.values-academy.de/" rel="home">
-					<img fetchpriority="high" width="1200" height="308" src="https://www.values-academy.de/wp-content/uploads/2021/03/va_logo_long_black-e1750532884693.png" class="bb-mobile-logo" alt="Logo VALUES ACADEMY" decoding="async" />				</a>
+					<img fetchpriority="high" width="1200" height="308" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20308'%3E%3C/svg%3E" class="bb-mobile-logo" alt="Logo VALUES ACADEMY" decoding="async" data-lazy-src="https://www.values-academy.de/wp-content/uploads/2021/03/va_logo_long_black-e1750532884693.png" /><noscript><img fetchpriority="high" width="1200" height="308" src="https://www.values-academy.de/wp-content/uploads/2021/03/va_logo_long_black-e1750532884693.png" class="bb-mobile-logo" alt="Logo VALUES ACADEMY" decoding="async" /></noscript>				</a>
 
 			</div>
 		</div>
@@ -3438,7 +3482,7 @@ border: none;
 		<div class="bb-mobile-panel-header">
 							<div class="logo-wrap">
 					<a href="https://www.values-academy.de/" rel="home">
-						<img fetchpriority="high" width="1200" height="308" src="https://www.values-academy.de/wp-content/uploads/2021/03/va_logo_long_black-e1750532884693.png" class="bb-mobile-logo" alt="Logo VALUES ACADEMY" decoding="async" />					</a>
+						<img fetchpriority="high" width="1200" height="308" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20308'%3E%3C/svg%3E" class="bb-mobile-logo" alt="Logo VALUES ACADEMY" decoding="async" data-lazy-src="https://www.values-academy.de/wp-content/uploads/2021/03/va_logo_long_black-e1750532884693.png" /><noscript><img fetchpriority="high" width="1200" height="308" src="https://www.values-academy.de/wp-content/uploads/2021/03/va_logo_long_black-e1750532884693.png" class="bb-mobile-logo" alt="Logo VALUES ACADEMY" decoding="async" /></noscript>					</a>
 				</div>
 						<a href="#" class="bb-close-panel"><i class="bb-icon-l bb-icon-times"></i></a>
 		</div>
@@ -3573,19 +3617,19 @@ border: none;
 				</div>
 				</header>
 		
-			<header  id="masthead" class="elementor-header">
+			<header data-rocket-location-hash="d45fe277fe04f175e156dc7dd2680c13" id="masthead" class="elementor-header">
 							</header>
 
 			
 			
-			<div  id="content" class="site-content">
+			<div data-rocket-location-hash="7e4268f4251f6bc16de4da8159526210" id="content" class="site-content">
 
 				
 				<div class="container">
 					<div class="bb-grid site-content-grid">		<div data-elementor-type="single-post" data-elementor-id="78693" class="elementor elementor-78693 elementor-location-single post-49030 post type-post status-publish format-standard hentry category-werte tag-wertebegriff full-fi-invert" data-elementor-post-type="elementor_library">
 			<header class="elementor-element elementor-element-1df7f05 e-con-full wrap-enz-nav e-flex e-con e-parent" data-id="1df7f05" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 		<div class="elementor-element elementor-element-e69620c e-flex e-con-boxed e-con e-child" data-id="e69620c" data-element_type="container">
-					<div  class="e-con-inner">
+					<div data-rocket-location-hash="547ec2470d2bda10abb0f19dcabad963" class="e-con-inner">
 		<div class="elementor-element elementor-element-48c0a00 e-con-full inner-wrap-enz-nav e-flex e-con e-child" data-id="48c0a00" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 		<div class="elementor-element elementor-element-adbe7e9 view-tablet e-con-full e-flex e-con e-child" data-id="adbe7e9" data-element_type="container">
 				<div class="elementor-element elementor-element-4c193af elementor-widget elementor-widget-heading" data-id="4c193af" data-element_type="widget" data-widget_type="heading.default">
@@ -3679,7 +3723,7 @@ border: none;
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-5b63072 elementor-hidden-mobile elementor-widget elementor-widget-tp-table-content" data-id="5b63072" data-element_type="widget" data-widget_type="tp-table-content.default">
 				<div class="elementor-widget-container">
-					<div class="tp-table-content    tp-widget-tp-tbl6942b535349c0 table-style-4" data-settings="{&quot;tocSelector&quot;:&quot;.tp-toc&quot;,&quot;contentSelector&quot;:&quot;.werte-post-content&quot;,&quot;headingSelector&quot;:&quot;h2&quot;,&quot;isCollapsedClass&quot;:&quot;&quot;,&quot;orderedList&quot;:false,&quot;scrollSmooth&quot;:true,&quot;headingsOffset&quot;:1,&quot;scrollSmoothOffset&quot;:-100,&quot;scrollSmoothDuration&quot;:750,&quot;positionFixedSelector&quot;:null,&quot;fixedSidebarOffset&quot;:&quot;auto&quot;,&quot;hasInnerContainers&quot;:true}" ><div class="tp-toc-wrap  active "  ><div class="tp-toc-heading "><span class="table-prefix-icon"><span>Inhaltsverzeichnis</span></span></div><div class="tp-toc toc"></div></div></div>				</div>
+					<div class="tp-table-content    tp-widget-tp-tbl695a47fe28377 table-style-4" data-settings="{&quot;tocSelector&quot;:&quot;.tp-toc&quot;,&quot;contentSelector&quot;:&quot;.werte-post-content&quot;,&quot;headingSelector&quot;:&quot;h2&quot;,&quot;isCollapsedClass&quot;:&quot;&quot;,&quot;orderedList&quot;:false,&quot;scrollSmooth&quot;:true,&quot;headingsOffset&quot;:1,&quot;scrollSmoothOffset&quot;:-100,&quot;scrollSmoothDuration&quot;:750,&quot;positionFixedSelector&quot;:null,&quot;fixedSidebarOffset&quot;:&quot;auto&quot;,&quot;hasInnerContainers&quot;:true}" ><div class="tp-toc-wrap  active "  ><div class="tp-toc-heading "><span class="table-prefix-icon"><span>Inhaltsverzeichnis</span></span></div><div class="tp-toc toc"></div></div></div>				</div>
 				</div>
 					</div>
 		</nav>
@@ -3697,7 +3741,7 @@ border: none;
 				<div class="elementor-widget-container">
 					
 <div class="theplus-accordion-wrapper elementor-accordion  hover-style-1 "
-    id="accordion6942b5355a685" data-accordion-id="accordion6942b5355a685"
+    id="accordion695a47fe54099" data-accordion-id="accordion695a47fe54099"
     data-connection=""
     data-accordion-type="accordion"
     data-heightlight-text       role="tablist" >
@@ -4059,7 +4103,7 @@ border: none;
 				<div class="elementor-widget-container">
 					
 <div class="theplus-accordion-wrapper elementor-accordion  hover-style-1 "
-    id="accordion6942b53574034" data-accordion-id="accordion6942b53574034"
+    id="accordion695a47fe70a14" data-accordion-id="accordion695a47fe70a14"
     data-connection=""
     data-accordion-type="accordion"
     data-heightlight-text       role="tablist" >
@@ -4211,17 +4255,13 @@ border: none;
 		</div>
 					</div>
 		</footer>
-				<footer class="elementor-section elementor-top-section elementor-element elementor-element-1f825a31 elementor-hidden-tablet elementor-hidden-phone elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1f825a31" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<footer class="elementor-section elementor-top-section elementor-element elementor-element-1f825a31 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1f825a31" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2549fd1c" data-id="2549fd1c" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<section class="elementor-section elementor-inner-section elementor-element elementor-element-75a81a01 elementor-section-content-top elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="75a81a01" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-wider">
-					<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-603b64c1" data-id="603b64c1" data-element_type="column">
-			<div class="elementor-widget-wrap">
-							</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-4d7042b6" data-id="4d7042b6" data-element_type="column">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4d7042b6" data-id="4d7042b6" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-70bfe12c elementor-widget elementor-widget-heading" data-id="70bfe12c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -4266,13 +4306,13 @@ border: none;
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-69d76968" data-id="69d76968" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-69d76968" data-id="69d76968" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-26099ea7 elementor-widget elementor-widget-heading" data-id="26099ea7" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 					<h4 class="elementor-heading-title elementor-size-default">Navigation</h4>				</div>
 				</div>
-				<div class="elementor-element elementor-element-6093818a elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6093818a" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-6093818a elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6093818a" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -4297,6 +4337,12 @@ border: none;
 											<a href="https://www.values-academy.de/portfolio/">
 
 											<span class="elementor-icon-list-text">Portfolio</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.values-academy.de/sitemap/">
+
+											<span class="elementor-icon-list-text">Sitemap (Wissen &amp; Tools)</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
@@ -4326,7 +4372,11 @@ border: none;
 						</ul>
 						</div>
 				</div>
-				<div class="elementor-element elementor-element-8f60031 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8f60031" data-element_type="widget" data-widget_type="icon-list.default">
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1dd558b8" data-id="1dd558b8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8f60031 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8f60031" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -4341,18 +4391,20 @@ border: none;
 											<span class="elementor-icon-list-text">Zum Online-Schnupperkurs</span>
 											</a>
 									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.values-academy.de/wertetest/">
+
+											<span class="elementor-icon-list-text">Zum kostenlosen Wertetest</span>
+											</a>
+									</li>
 						</ul>
 						</div>
 				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-1dd558b8" data-id="1dd558b8" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-7b5b9dd1 elementor-widget elementor-widget-heading" data-id="7b5b9dd1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-7b5b9dd1 elementor-widget elementor-widget-heading" data-id="7b5b9dd1" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 					<h4 class="elementor-heading-title elementor-size-default">ÜBER UNS</h4>				</div>
 				</div>
-				<div class="elementor-element elementor-element-7ec01ab5 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7ec01ab5" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-7ec01ab5 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7ec01ab5" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -4380,7 +4432,7 @@ border: none;
 				<div class="elementor-widget-container">
 					<h4 class="elementor-heading-title elementor-size-default">Rechtliches</h4>				</div>
 				</div>
-				<div class="elementor-element elementor-element-691581e elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="691581e" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-691581e elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="691581e" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -4399,10 +4451,6 @@ border: none;
 						</div>
 				</div>
 					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-3a03b59d" data-id="3a03b59d" data-element_type="column">
-			<div class="elementor-widget-wrap">
-							</div>
 		</div>
 					</div>
 		</section>
@@ -4452,7 +4500,7 @@ border: none;
 				<div class="elementor-widget-container">
 					<h4 class="elementor-heading-title elementor-size-default">Navigation</h4>				</div>
 				</div>
-				<div class="elementor-element elementor-element-d85ab50 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="d85ab50" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-d85ab50 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="d85ab50" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -4477,6 +4525,12 @@ border: none;
 											<a href="https://www.values-academy.de/portfolio/">
 
 											<span class="elementor-icon-list-text">Portfolio</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.values-academy.de/sitemap/">
+
+											<span class="elementor-icon-list-text">Sitemap (Wissen &amp; Tools)</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
@@ -4506,7 +4560,7 @@ border: none;
 						</ul>
 						</div>
 				</div>
-				<div class="elementor-element elementor-element-9a552d1 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="9a552d1" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-9a552d1 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="9a552d1" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -4521,6 +4575,12 @@ border: none;
 											<span class="elementor-icon-list-text">Zum Online-Schnupperkurs</span>
 											</a>
 									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.values-academy.de/wertetest/">
+
+											<span class="elementor-icon-list-text">Zum Wertetest</span>
+											</a>
+									</li>
 						</ul>
 						</div>
 				</div>
@@ -4532,7 +4592,7 @@ border: none;
 				<div class="elementor-widget-container">
 					<h4 class="elementor-heading-title elementor-size-default">Über uns</h4>				</div>
 				</div>
-				<div class="elementor-element elementor-element-286edfa elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="286edfa" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-286edfa elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="286edfa" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -4560,7 +4620,7 @@ border: none;
 				<div class="elementor-widget-container">
 					<h4 class="elementor-heading-title elementor-size-default">Rechtliches</h4>				</div>
 				</div>
-				<div class="elementor-element elementor-element-09c2171 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="09c2171" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-09c2171 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="09c2171" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -4659,7 +4719,7 @@ border: none;
 <script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.values-academy.de/wp-content/cache/min/1/responsivevoice.js?ver=1761619445" data-rocket-defer defer></script>
 <!-- /end HFCM by 99 Robots -->
 		<div data-elementor-type="popup" data-elementor-id="131225" class="elementor elementor-131225 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;zoomIn&quot;,&quot;exit_animation&quot;:&quot;zoomIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.6,&quot;sizes&quot;:[]},&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;triggers&quot;:{&quot;scrolling&quot;:&quot;yes&quot;,&quot;inactivity_time&quot;:120,&quot;inactivity&quot;:&quot;yes&quot;,&quot;scrolling_offset&quot;:90,&quot;page_load_delay&quot;:90,&quot;page_load&quot;:&quot;yes&quot;,&quot;click_times&quot;:7,&quot;click&quot;:&quot;yes&quot;,&quot;exit_intent&quot;:&quot;yes&quot;,&quot;scrolling_direction&quot;:&quot;down&quot;},&quot;timing&quot;:{&quot;devices&quot;:&quot;yes&quot;,&quot;browsers&quot;:&quot;yes&quot;,&quot;page_views_views&quot;:12,&quot;page_views&quot;:&quot;yes&quot;,&quot;devices_devices&quot;:[&quot;desktop&quot;,&quot;mobile&quot;,&quot;tablet&quot;],&quot;browsers_browsers&quot;:&quot;all&quot;}}" data-elementor-post-type="elementor_library">
-			<div  class="elementor-element elementor-element-1cccd23 e-flex e-con-boxed e-con e-parent" data-id="1cccd23" data-element_type="container">
+			<div data-rocket-location-hash="4079f5b164aa5bdc78aa00fc19f953b8" class="elementor-element elementor-element-1cccd23 e-flex e-con-boxed e-con e-parent" data-id="1cccd23" data-element_type="container">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-5fea487 elementor-widget elementor-widget-heading" data-id="5fea487" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -4716,7 +4776,7 @@ border: none;
                                             >
                                         </div>
                                     
-                                    <div  class="col-10">
+                                    <div data-rocket-location-hash="3124c1132e274c09ad8060e200b23482" class="col-10">
                                         <span role="heading" aria-level="3" class="_brlbs-h3" id="CookieBoxTextHeadline">Datenschutzeinstellungen</span>
                                         <p id="CookieBoxTextDescription"><span class="_brlbs-paragraph _brlbs-text-description">Wir benötigen Ihre Zustimmung, bevor Sie unsere Website weiter besuchen können.</span> <span class="_brlbs-paragraph _brlbs-text-confirm-age">Wenn Sie unter 16 Jahre alt sind und Ihre Zustimmung zu freiwilligen Diensten geben möchten, müssen Sie Ihre Erziehungsberechtigten um Erlaubnis bitten.</span> <span class="_brlbs-paragraph _brlbs-text-technology">Wir verwenden Cookies und andere Technologien auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern.</span> <span class="_brlbs-paragraph _brlbs-text-personal-data">Personenbezogene Daten können verarbeitet werden (z. B. IP-Adressen), z. B. für personalisierte Anzeigen und Inhalte oder Anzeigen- und Inhaltsmessung.</span> <span class="_brlbs-paragraph _brlbs-text-more-information">Weitere Informationen über die Verwendung Ihrer Daten finden Sie in unserer  <a class="_brlbs-cursor" href="https://www.values-academy.de/datenschutzerklaerung/">Datenschutzerklärung</a>.</span> <span class="_brlbs-paragraph _brlbs-text-revoke">Sie können Ihre Auswahl jederzeit unter <a class="_brlbs-cursor" href="#" data-cookie-individual>Einstellungen</a> widerrufen oder anpassen.</span><span class="text-center" style="display: block !important;background: #fff;color: #f00;">Borlabs Cookie - Testumgebung aktiviert!</span></p>
                                     </div>
@@ -4739,7 +4799,7 @@ border: none;
                                                                                                                         </ul>
                                                             </div>
 
-                            <div  class="col-12 col-sm-3">
+                            <div data-rocket-location-hash="81d7ba17a48a7f3a006bf3e6bee843da" class="col-12 col-sm-3">
                                 <p class="_brlbs-accept">
                                     <a
                                         href="#"
@@ -4810,8 +4870,8 @@ border: none;
     aria-describedby="CookiePrefDescription"
     aria-modal="true"
 >
-    <div  class="container not-visible">
-        <div  class="row no-gutters">
+    <div data-rocket-location-hash="767e592d6dd1299c0fde7f700f0798c8" class="container not-visible">
+        <div data-rocket-location-hash="9b9cc6bd6fba0ecc1659c14731407b28" class="row no-gutters">
             <div class="col-12">
                 <div class="row no-gutters align-items-top">
                     <div class="col-12">
@@ -5418,7 +5478,7 @@ var aiStats = {"enabled":"","apiUrl":"https://www.values-academy.de/wp-json/audi
 <script type="text/javascript" src="https://www.values-academy.de/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js" data-rocket-defer defer></script>
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js" data-rocket-defer defer></script>
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.3" id="jquery-ui-slider-js" data-rocket-defer defer></script>
-<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="//www.values-academy.de/wp-content/uploads/theplus-addons/theplus-post-49030.min.js?ver=1765958428" id="theplus-front-js-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="//www.values-academy.de/wp-content/uploads/theplus-addons/theplus-post-49030.min.js?ver=1766857352" id="theplus-front-js-js" data-rocket-defer defer></script>
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3" id="jquery-ui-draggable-js" data-rocket-defer defer></script>
 <script data-minify="1" type="text/javascript" src="https://www.values-academy.de/wp-content/cache/min/1/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=1761619445" id="jquery-touch-punch-js" data-rocket-defer defer></script>
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="rocket-browser-checker-js-after">
@@ -5454,19 +5514,19 @@ var rocket_lazyload_css_data = {"threshold":"300"};
 //# sourceURL=rocket_lazyload_css-js-after
 /* ]]> */
 </script>
-<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.33.4" id="elementor-webpack-runtime-js" data-rocket-defer defer></script>
-<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.33.4" id="elementor-frontend-modules-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.34.0" id="elementor-webpack-runtime-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.34.0" id="elementor-frontend-modules-js" data-rocket-defer defer></script>
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="elementor-frontend-js-before">
 /* <![CDATA[ */
 var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Auf Facebook teilen","shareOnTwitter":"Auf Twitter teilen","pinIt":"Anheften","download":"Download","downloadImage":"Bild downloaden","fullscreen":"Vollbild","zoom":"Zoom","share":"Teilen","playVideo":"Video abspielen","previous":"Zur\u00fcck","next":"Weiter","close":"Schlie\u00dfen","a11yCarouselPrevSlideMessage":"Vorheriger Slide","a11yCarouselNextSlideMessage":"N\u00e4chster Slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobil Hochformat","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobil Querformat","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Hochformat","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Querformat","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Breitbild","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},
-"hasCustomBreakpoints":false},"version":"3.33.4","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"landing-pages":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true,"e_pro_variables":true},"urls":{"assets":"https:\/\/www.values-academy.de\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/www.values-academy.de\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/www.values-academy.de\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"2c322219b6"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":49030,"title":"Phantasie%20%2F%20Fantasie%20-%20Definition%20und%20Beschreibung","excerpt":"","featuredImage":false}};
+"hasCustomBreakpoints":false},"version":"3.34.0","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"landing-pages":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"e_interactions":true,"import-export-customization":true,"e_pro_variables":true},"urls":{"assets":"https:\/\/www.values-academy.de\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/www.values-academy.de\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/www.values-academy.de\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"57a5387828"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":49030,"title":"Phantasie%20%2F%20Fantasie%20-%20Definition%20und%20Beschreibung","excerpt":"","featuredImage":false}};
 //# sourceURL=elementor-frontend-js-before
 /* ]]> */
 </script>
-<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.33.4" id="elementor-frontend-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.34.0" id="elementor-frontend-js" data-rocket-defer defer></script>
 <script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/inc/plugins/elementor/assets/js/frontend.js?ver=1761619445" id="elementor-bb-frontend-js" data-rocket-defer defer></script>
 <script type="text/javascript" src="https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1" id="smartmenus-js" data-rocket-defer defer></script>
-<script type="text/javascript" src="https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.33.2" id="e-sticky-js" data-rocket-defer defer></script>
+<script type="text/javascript" src="https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.34.0" id="e-sticky-js" data-rocket-defer defer></script>
 <script type="text/javascript" id="heateor_sss_sharing_js-js-before">
 /* <![CDATA[ */
 function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://www.values-academy.de/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://www.values-academy.de/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://www.values-academy.de/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")}
@@ -5492,7 +5552,7 @@ var ajax_object = {"ajaxurl":"https://www.values-academy.de/wp-admin/admin-ajax.
 <script type="text/javascript" src="https://www.values-academy.de/wp-content/themes/buddyboss-theme/assets/js/vendors/jssocials.min.js?ver=2.6.90" id="boss-jssocials-js-js" data-rocket-defer defer></script>
 <script type="text/javascript" id="buddyboss-theme-main-js-js-extra">
 /* <![CDATA[ */
-var bs_data = {"jm_ajax":"https://www.values-academy.de/jm-ajax/","ajaxurl":"https://www.values-academy.de/wp-admin/admin-ajax.php","show_notifications":"1","show_messages":"1","facebook_label":"Share on Facebook","twitter_label":"Post","more_menu_title":"Menu Items","translation":{"comment_posted":"Ihr Kommentar wurde ver\u00f6ffentlicht.","comment_btn_loading":"Please Wait...","choose_a_file_label":"Choose a file","email_validation":"Please enter a valid email address."},"gamipress_badge_label":"Badge","nonce_list_grid":"a083bf6361"};
+var bs_data = {"jm_ajax":"https://www.values-academy.de/jm-ajax/","ajaxurl":"https://www.values-academy.de/wp-admin/admin-ajax.php","show_notifications":"1","show_messages":"1","facebook_label":"Share on Facebook","twitter_label":"Post","more_menu_title":"Menu Items","translation":{"comment_posted":"Ihr Kommentar wurde ver\u00f6ffentlicht.","comment_btn_loading":"Please Wait...","choose_a_file_label":"Choose a file","email_validation":"Please enter a valid email address."},"gamipress_badge_label":"Badge","nonce_list_grid":"e5c7d62cbc"};
 //# sourceURL=buddyboss-theme-main-js-js-extra
 /* ]]> */
 </script>
@@ -5534,7 +5594,7 @@ BorlabsCookieInitCheck();});
 //# sourceURL=borlabs-cookie-js-after
 /* ]]> */
 </script>
-<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.33.2" id="elementor-pro-webpack-runtime-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.34.0" id="elementor-pro-webpack-runtime-js" data-rocket-defer defer></script>
 <script type="text/javascript" src="https://www.values-academy.de/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
 <script type="text/javascript" src="https://www.values-academy.de/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="wp-i18n-js-after">
@@ -5545,20 +5605,20 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 </script>
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="elementor-pro-frontend-js-before">
 /* <![CDATA[ */
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.values-academy.de\/wp-admin\/admin-ajax.php","nonce":"d14b6e169e","urls":{"assets":"https:\/\/www.values-academy.de\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.values-academy.de\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.values-academy.de\/wp-admin\/admin-ajax.php","nonce":"6831e8db3f","urls":{"assets":"https:\/\/www.values-academy.de\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.values-academy.de\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},
 "facebook_sdk":{"lang":"de_DE","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.values-academy.de\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 //# sourceURL=elementor-pro-frontend-js-before
 /* ]]> */
 </script>
-<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.33.2" id="elementor-pro-frontend-js" data-rocket-defer defer></script>
-<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.33.2" id="pro-elements-handlers-js" data-rocket-defer defer></script>
-<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/plugins/the-plus-addons-for-elementor-page-builder/modules/extensions/equal-height/plus-equal-height.min.js?ver=6.4.4" id="plus-equal-height-js" data-rocket-defer defer></script>
-<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/plugins/the-plus-addons-for-elementor-page-builder/modules/extensions/wrapper-link/plus-section-column-link.min.js?ver=6.4.4" id="plus-section-column-link-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.34.0" id="elementor-pro-frontend-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.34.0" id="pro-elements-handlers-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/plugins/the-plus-addons-for-elementor-page-builder/modules/extensions/equal-height/plus-equal-height.min.js?ver=6.4.5" id="plus-equal-height-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.values-academy.de/wp-content/plugins/the-plus-addons-for-elementor-page-builder/modules/extensions/wrapper-link/plus-section-column-link.min.js?ver=6.4.5" id="plus-section-column-link-js" data-rocket-defer defer></script>
 <script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
 if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
 images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
 if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.values-academy.de/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>function lazyLoadThumb(e,alt,l){var t='<img loading="lazy" data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img loading="lazy" src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="YouTube-Video abspielen"></button>';if(l){t=t.replace('data-lazy-','');t=t.replace('loading="lazy"','');t=t.replace(/<noscript>.*?<\/noscript>/g,'');}t=t.replace('alt=""','alt="'+alt+'"');return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?"":"&"+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow","accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var exclusions=[];var e,t,p,u,l,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)(e=document.createElement("div")),(u='https://i.ytimg.com/vi/ID/hqdefault.jpg'),(u=u.replace('ID',a[t].dataset.id)),(l=exclusions.some(exclusion=>u.includes(exclusion))),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query",a[t].dataset.query),e.setAttribute("data-src",a[t].dataset.src),(e.innerHTML=lazyLoadThumb(a[t].dataset.id,a[t].dataset.alt,l)),a[t].appendChild(e),(p=e.querySelector(".play")),(p.onclick=lazyLoadYoutubeIframe)});</script>
-<script>(()=>{class RocketElementorPreload{constructor(){this.deviceMode=document.createElement("span"),this.deviceMode.id="elementor-device-mode-wpr",this.deviceMode.setAttribute("class","elementor-screen-only"),document.body.appendChild(this.deviceMode)}t(){let t=getComputedStyle(this.deviceMode,":after").content.replace(/"/g,"");this.animationSettingKeys=this.i(t),document.querySelectorAll(".elementor-invisible[data-settings]").forEach((t=>{const e=t.getBoundingClientRect();if(e.bottom>=0&&e.top<=window.innerHeight)try{this.o(t)}catch(t){}}))}o(t){const e=JSON.parse(t.dataset.settings),i=e.m||e.animation_delay||0,n=e[this.animationSettingKeys.find((t=>e[t]))];if("none"===n)return void t.classList.remove("elementor-invisible");t.classList.remove(n),this.currentAnimation&&t.classList.remove(this.currentAnimation),this.currentAnimation=n;let o=setTimeout((()=>{t.classList.remove("elementor-invisible"),t.classList.add("animated",n),this.l(t,e)}),i);window.addEventListener("rocket-startLoading",(function(){clearTimeout(o)}))}i(t="mobile"){const e=[""];switch(t){case"mobile":e.unshift("_mobile");case"tablet":e.unshift("_tablet");case"desktop":e.unshift("_desktop")}const i=[];return["animation","_animation"].forEach((t=>{e.forEach((e=>{i.push(t+e)}))})),i}l(t,e){this.i().forEach((t=>delete e[t])),t.dataset.settings=JSON.stringify(e)}static run(){const t=new RocketElementorPreload;requestAnimationFrame(t.t.bind(t))}}document.addEventListener("DOMContentLoaded",RocketElementorPreload.run)})();</script></body>
+<script>var rocket_beacon_data = {"ajax_url":"https:\/\/www.values-academy.de\/wp-admin\/admin-ajax.php","nonce":"cb3712164b","url":"https:\/\/www.values-academy.de\/phantasie","is_mobile":false,"width_threshold":1600,"height_threshold":700,"delay":500,"debug":null,"status":{"atf":true,"lrc":true,"preload_fonts":true,"preconnect_external_domain":true},"elements":"img, video, picture, p, main, div, li, svg, section, header, span","lrc_threshold":1800,"preload_fonts_exclusions":["api.fontshare.com","cdn.fontshare.com"],"processed_extensions":["woff2","woff","ttf"],"external_font_exclusions":[],"preconnect_external_domain_elements":["link","script","iframe"],"preconnect_external_domain_exclusions":["static.cloudflareinsights.com","rel=\"profile\"","rel=\"preconnect\"","rel=\"dns-prefetch\"","rel=\"icon\""]}</script><script data-name="wpr-wpr-beacon" src='https://www.values-academy.de/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js' async></script><script>(()=>{class RocketElementorPreload{constructor(){this.deviceMode=document.createElement("span"),this.deviceMode.id="elementor-device-mode-wpr",this.deviceMode.setAttribute("class","elementor-screen-only"),document.body.appendChild(this.deviceMode)}t(){let t=getComputedStyle(this.deviceMode,":after").content.replace(/"/g,"");this.animationSettingKeys=this.i(t),document.querySelectorAll(".elementor-invisible[data-settings]").forEach((t=>{const e=t.getBoundingClientRect();if(e.bottom>=0&&e.top<=window.innerHeight)try{this.o(t)}catch(t){}}))}o(t){const e=JSON.parse(t.dataset.settings),i=e.m||e.animation_delay||0,n=e[this.animationSettingKeys.find((t=>e[t]))];if("none"===n)return void t.classList.remove("elementor-invisible");t.classList.remove(n),this.currentAnimation&&t.classList.remove(this.currentAnimation),this.currentAnimation=n;let o=setTimeout((()=>{t.classList.remove("elementor-invisible"),t.classList.add("animated",n),this.l(t,e)}),i);window.addEventListener("rocket-startLoading",(function(){clearTimeout(o)}))}i(t="mobile"){const e=[""];switch(t){case"mobile":e.unshift("_mobile");case"tablet":e.unshift("_tablet");case"desktop":e.unshift("_desktop")}const i=[];return["animation","_animation"].forEach((t=>{e.forEach((e=>{i.push(t+e)}))})),i}l(t,e){this.i().forEach((t=>delete e[t])),t.dataset.settings=JSON.stringify(e)}static run(){const t=new RocketElementorPreload;requestAnimationFrame(t.t.bind(t))}}document.addEventListener("DOMContentLoaded",RocketElementorPreload.run)})();</script></body>
 </html>
 
 <!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->

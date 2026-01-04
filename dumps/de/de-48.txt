@@ -1,17 +1,16 @@
-    #[1]Blog der Stadtbibliothek Erlangen » Feed [2]Blog der
-   Stadtbibliothek Erlangen » Kommentar-Feed [3]Blog der Stadtbibliothek
-   Erlangen » Sophie Caroline und Franz Seraph: eine musikalische
-   Begegnung in Erlangen kurz vor 1800-Kommentar-Feed [4]oEmbed (JSON)
-   [5]oEmbed (XML) [6]JSON
+    #Blog der Stadtbibliothek Erlangen » Feed Blog der Stadtbibliothek
+   Erlangen » Kommentar-Feed Blog der Stadtbibliothek Erlangen » Sophie
+   Caroline und Franz Seraph: eine musikalische Begegnung in Erlangen kurz
+   vor 1800-Kommentar-Feed oEmbed (JSON) oEmbed (XML) JSON
 
-   [7]Stadtbibliothek Erlangen Logo
+   Stadtbibliothek Erlangen Logo
 
    (BUTTON)
    (BUTTON)
-     * [8]Startseite
-     * [9]Über uns
-     * [10]Digitaler Salon
-     * [11]Homepage
+     * Startseite
+     * Über uns
+     * Digitaler Salon
+     * Homepage
 
    Suchen
    ____________________ (BUTTON) Suchen
@@ -26,33 +25,33 @@ kurz vor 1800
    aufstrebende Pianist und Komponist Franz Seraph Destouches (1772-1844).
    Ein Gastbeitrag von Prof. Dr. Michele C. Ferrari (Thema und Text) und
    Alena Hönigová (Fortepiano Walter/Ibach und Video).
-   Inhalte [12]Anzeigen
-   [13]1 Video: Alena Hönigová, Fortepiano Walter/Ibach.
-   [14]2 Einführung
-   [15]3 Sophie Caroline, eine Welfin in Erlangen
-   [16]4 Das traurige Erlangen
-   [17]5 Das lustige Erlangen
-   [18]6 Die Markgräfin und ihr Kammermusiker
-   [19]7 Musikstadt Erlangen
-   [20]8 Destouches in Weimar
-   [21]9 Destouches komponiert für Schiller
-   [22]10 Eine Entdeckung: Die Klaviermusik von Destouches
-   [23]11 Destouches und die Bühnenmusik
-   [24]12 Die späten Jahre des Franz Seraph Destouches
-   [25]13 Ein Zeuge seiner Zeit
-   [26]14 BIBLIOGRAPHIE
-   [27]15 PROGRAMM DES MUSIKVIDEOS
-   [28]16 DANKSAGUNG
-   [29]17 Über den Autor
-   [30]18 Über die Musikerin
-   [31]18.1 Redaktion
-   [32]18.2 Neueste Artikel von Redaktion (alle ansehen)
+   Inhalte Anzeigen
+   1 Video: Alena Hönigová, Fortepiano Walter/Ibach.
+   2 Einführung
+   3 Sophie Caroline, eine Welfin in Erlangen
+   4 Das traurige Erlangen
+   5 Das lustige Erlangen
+   6 Die Markgräfin und ihr Kammermusiker
+   7 Musikstadt Erlangen
+   8 Destouches in Weimar
+   9 Destouches komponiert für Schiller
+   10 Eine Entdeckung: Die Klaviermusik von Destouches
+   11 Destouches und die Bühnenmusik
+   12 Die späten Jahre des Franz Seraph Destouches
+   13 Ein Zeuge seiner Zeit
+   14 BIBLIOGRAPHIE
+   15 PROGRAMM DES MUSIKVIDEOS
+   16 DANKSAGUNG
+   17 Über den Autor
+   18 Über die Musikerin
+   18.1 Redaktion
+   18.2 Neueste Artikel von Redaktion (alle ansehen)
 
 Video: Alena Hönigová, Fortepiano Walter/Ibach.
 
    Bitte akzeptiere YouTube-Cookies, um dieses Video abzuspielen.
 
-   [33]YouTube-Datenschutzrichtlinie
+   YouTube-Datenschutzrichtlinie
 
    Wenn du diesen Hinweis akzeptierst, wird deine Auswahl gespeichert und
    die Seite aktualisiert.
@@ -343,18 +342,18 @@ Eine Entdeckung: Die Klaviermusik von Destouches
    (op. 2, 1794-1795 ). Destouches orientiert sich noch mehr als Beethoven
    an den geläufigen internationalen Modellen des brillanten
    Klavierspiels, vor allem im ersten, energischen Satz. Zum Vergleich
-   kann man etwa [34]Dusseks Sonate op. 9 Nr. 3 in D-dur oder
-   [35]Clementis Sonate op. 23 Nr. 2 in F-Dur beide um das Jahr 1790
-   entstanden, heranziehen. Das Ergebnis ist ein Stück, das den Vergleich
-   mit den besten Kompositionen der Zeit standhält.
+   kann man etwa Dusseks Sonate op. 9 Nr. 3 in D-dur oder Clementis Sonate
+   op. 23 Nr. 2 in F-Dur beide um das Jahr 1790 entstanden, heranziehen.
+   Das Ergebnis ist ein Stück, das den Vergleich mit den besten
+   Kompositionen der Zeit standhält.
    Mit der 1798 veröffentlichten und wahrscheinlich während des Erlanger
    Aufenthaltes verfassten Fantasie greift Destouches diese freie und als
    modern empfundene Form der Klavierkomposition als einer der ersten nach
-   Carl Philipp Emmanuel Bach und Mozart auf: [36]Jan Ladislaus Dusseks
+   Carl Philipp Emmanuel Bach und Mozart auf: Jan Ladislaus Dusseks
    (1760-1812) Fantasia und Fuge op. 55 wurde möglicherweise schon 1791
    geschrieben, das Caprice op. 4 von August Eberhard Müller (1767-1817)
    um 1793 (Müller wurde im übrigen 1810 Nachfolger von Destouches in
-   Weimar), Beethoven gab seine [37]Fantasie in g-moll op. 77 erst 1809 in
+   Weimar), Beethoven gab seine Fantasie in g-moll op. 77 erst 1809 in
    Druck. Destouches gelang ein gefälliges, an Stellen virtuoses Stück,
    das ein beredtes Zeugnis ablegt über die Fähigkeiten eines Komponisten
    und Pianisten, dem Ernst Ludwig Gerbert 1812 anerkennend attestierte,
@@ -410,8 +409,8 @@ Die späten Jahre des Franz Seraph Destouches
    Brahms legte seine ersten Kompositionsversuche vor . Doch verdienen
    sein Werdegang und sein breites Œuvre unsere Aufmerksamkeit. Neben der
    Klaviermusik schrieb und veröffentlichte er Lieder, Kammermusik mit
-   Klavier oder für Bläser, ein erhaltenes [38]Klavierkonzert von 1802,
-   eine schöne Symphonie in D-Dur, die Peter Gülke vor 15 Jahren
+   Klavier oder für Bläser, ein erhaltenes Klavierkonzert von 1802, eine
+   schöne Symphonie in D-Dur, die Peter Gülke vor 15 Jahren
    dankenswerterweise ausgegraben hat, ein 1806 in Weimar gespieltes
    Oratorium, Messen, sowie vier Opern.
 
@@ -569,22 +568,22 @@ DANKSAGUNG
 
 Über den Autor
 
-   [39]Michele Camillo Ferrari ist ein Mittellateinischer Philologe und
+   Michele Camillo Ferrari ist ein Mittellateinischer Philologe und
    Professor an der FAU Erlangen-Nürnberg. Zudem ist er als Konzert- und
    Opernkritiker tätig.
 
 Über die Musikerin
 
-   [40]Alena Hönigová tritt als Solistin auf dem Cembalo und Fortepiano
-   auf, ist aber auch eine gefragte Continuo-Spielerin.
+   Alena Hönigová tritt als Solistin auf dem Cembalo und Fortepiano auf,
+   ist aber auch eine gefragte Continuo-Spielerin.
      *
      *
      *
      *
 
    The following two tabs change content below.
-     * [41]Bio
-     * [42]Neueste Artikel
+     * Bio
+     * Neueste Artikel
 
    Avatar-Foto
 
@@ -592,21 +591,20 @@ Redaktion
 
    Avatar-Foto
 
-Neueste Artikel von Redaktion ([43]alle ansehen)
+Neueste Artikel von Redaktion (alle ansehen)
 
-     * [44]Wie ich es sehe – 21. November 2025
-     * [45]Im Fokus: Bewegung – 17. Oktober 2025
-     * [46]Ausstellung: Frauen im geteilten Deutschland – 19. September
-       2025
-     * [47]Ausstellung über Josef Mayr-Nusser – 19. September 2025
-     * [48]Lesetipps zum 45. Erlanger Poet*innenfest – 22. August 2025
+     * Wie ich es sehe – 21. November 2025
+     * Im Fokus: Bewegung – 17. Oktober 2025
+     * Ausstellung: Frauen im geteilten Deutschland – 19. September 2025
+     * Ausstellung über Josef Mayr-Nusser – 19. September 2025
+     * Lesetipps zum 45. Erlanger Poet*innenfest – 22. August 2025
 
 Lest auch:
 
      * Buch Windstärke 17 vor wolkigen Himmel Mein Lesetipp: Windstärke 17
+     * Bücherbestenliste 2023 Marlene liest: Meine Bücher 2023
      * Bücherbestenliste von Marlene 2025 21 Buchcover Marlene liest:
        Meine Bücher 2025
-     * Bücherbestenliste 2023 Marlene liest: Meine Bücher 2023
      * Marlene mit ihren Lieblingsbüchern 2024 Lieblingsbücher 2024:
        Marlenes Lesetipps
      __________________________________________________________________
@@ -615,19 +613,19 @@ Lest auch:
    5. Mai 2023
 
    in
-   [49]Erlangen, [50]Musik, [51]Video
+   Erlangen, Musik, Video
 
    von
 
-   [52]Redaktion
+   Redaktion
 
    Schlagwörter:
-   [53]Erlangen, [54]Musik
+   Erlangen, Musik
      __________________________________________________________________
 
 Kommentare
 
-Schreibe einen Kommentar [55]Antwort abbrechen
+Schreibe einen Kommentar Antwort abbrechen
 
    Deine E-Mail-Adresse wird nicht veröffentlicht. Erforderliche Felder
    sind mit * markiert
@@ -649,7 +647,7 @@ Schreibe einen Kommentar [55]Antwort abbrechen
 
    Name ______________________________
 
-   E-Mail ______________________________
+   E-Mail-Adresse ______________________________
 
    Website ______________________________
 
@@ -657,28 +655,24 @@ Schreibe einen Kommentar [55]Antwort abbrechen
 
 Beliebt
 
-     * [56]PocketBook Reader Color, InkPad Color, Touch Lux 5
-       [57]PocketBook Reader mit Onleihe-App
-     * [58]Tolino Vision Color, Tolino Shine 5, Tolino Shine Color
-       [59]E-Book-Ausleihe mit neuen Tolinos
-     * [60]Lieferung Bücherkiste [61]Wie kommen die Bücher in die
-       Bibliothek?
-     * [62]Recherche-Tipp #4: Die wissenschaftliche Suchmaschine Google
+     * PocketBook Reader Color, InkPad Color, Touch Lux 5 PocketBook
+       Reader mit Onleihe-App
+     * Tolino Vision Color, Tolino Shine 5, Tolino Shine Color
+       E-Book-Ausleihe mit neuen Tolinos
+     * Lieferung Bücherkiste Wie kommen die Bücher in die Bibliothek?
+     * Recherche-Tipp #4: Die wissenschaftliche Suchmaschine Google
        Scholar
-     * [63]Bookface [64]Wie das Bookface laufen lernte
+     * Bookface Wie das Bookface laufen lernte
 
 Schlagwörter
 
-   [65]Ausbildung [66]Ausstellung [67]Azubi [68]Beruf [69]BFD-Projekt
-   [70]Bibliothek [71]Buch [72]Bundesfreiwilligendienst Kultur [73]Comic
-   [74]Digitale Medien [75]Digitaler Salon [76]Digitaler Wandel
-   [77]Diversität [78]DIY [79]E-Book [80]Erlangen [81]FaMI [82]Fantasy
-   [83]Fotografie [84]FSJ-Projekt [85]FSJ Kultur [86]Internet
-   [87]Interview [88]Jubiläum [89]Jugendbibliothek [90]Jugendbuch
-   [91]Kinderbibliothek [92]Krimi [93]Lesen [94]Lesetipp [95]LGBTQIA+
-   [96]Literatur [97]Marlene liest [98]Medienkompetenz [99]Medientipp
-   [100]Musik [101]Musikbibliothek [102]Onleihe [103]Praktikum [104]Queer
-   [105]Recherche [106]Roman [107]Sachbuch [108]Schule [109]Seminararbeit
+   Ausbildung Ausstellung Azubi Beruf BFD-Projekt Bibliothek Buch
+   Bundesfreiwilligendienst Kultur Comic Digitale Medien Digitaler Salon
+   Digitaler Wandel Diversität DIY E-Book Erlangen FaMI Fantasy Fotografie
+   FSJ-Projekt FSJ Kultur Internet Interview Jubiläum Jugendbibliothek
+   Jugendbuch Kinderbibliothek Krimi Lesen Lesetipp LGBTQIA+ Literatur
+   Marlene liest Medienkompetenz Medientipp Musik Musikbibliothek Onleihe
+   Praktikum Queer Recherche Roman Sachbuch Schule Seminararbeit
 
 Themen
 
@@ -690,148 +684,14 @@ Archiv
 
 Informiert bleiben
 
-   [110]Newsletter abonnieren
-     * [111]Mastodon
-     * [112]Instagram
-     * [113]Facebook
-     * [114]YouTube
-     * [115]WhatsApp
+   Newsletter abonnieren
+     * Mastodon
+     * Instagram
+     * Facebook
+     * YouTube
+     * WhatsApp
 
-   [116]Blog der Stadtbibliothek Erlangen
+   Blog der Stadtbibliothek Erlangen
 
-   [117]Impressum I [118]Datenschutz I [119]Barrierefreiheit
+   Impressum I Datenschutz I Barrierefreiheit
    Back to top arrow
-
-References
-
-   Visible links:
-   1. https://blog.stadtbibliothek-erlangen.de/feed/
-   2. https://blog.stadtbibliothek-erlangen.de/comments/feed/
-   3. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/feed/
-   4. https://blog.stadtbibliothek-erlangen.de/wp-json/oembed/1.0/embed?url=https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/
-   5. https://blog.stadtbibliothek-erlangen.de/wp-json/oembed/1.0/embed?url=https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/&format=xml
-   6. https://blog.stadtbibliothek-erlangen.de/wp-json/wp/v2/posts/10048
-   7. https://blog.stadtbibliothek-erlangen.de/
-   8. https://blog.stadtbibliothek-erlangen.de/
-   9. https://blog.stadtbibliothek-erlangen.de/ueber-uns/
-  10. https://blog.stadtbibliothek-erlangen.de/willkommen-im-digitalen-salon/
-  11. https://www.stadtbibliothek-erlangen.de/
-  12. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/
-  13. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Video_Alena_Honigova_Fortepiano_WalterIbach
-  14. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Einfuhrung
-  15. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Sophie_Caroline_eine_Welfin_in_Erlangen
-  16. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Das_traurige_Erlangen
-  17. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Das_lustige_Erlangen
-  18. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Die_Markgrafin_und_ihr_Kammermusiker
-  19. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Musikstadt_Erlangen
-  20. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Destouches_in_Weimar
-  21. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Destouches_komponiert_fur_Schiller
-  22. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Eine_Entdeckung_Die_Klaviermusik_von_Destouches
-  23. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Destouches_und_die_Buhnenmusik
-  24. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Die_spaten_Jahre_des_Franz_Seraph_Destouches
-  25. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Ein_Zeuge_seiner_Zeit
-  26. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#BIBLIOGRAPHIE
-  27. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#PROGRAMM_DES_MUSIKVIDEOS
-  28. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#DANKSAGUNG
-  29. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Uber_den_Autor
-  30. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Uber_die_Musikerin
-  31. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Redaktion
-  32. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#Neueste_Artikel_von_Redaktion_alle_ansehen
-  33. https://policies.google.com/privacy?hl=de
-  34. https://www.youtube.com/watch?v=Fu98Dfs57ZE
-  35. https://www.youtube.com/watch?v=Aqc75XPo1Tk]
-  36. https://www.youtube.com/watch?v=dNaDgWR7w9k
-  37. https://www.youtube.com/watch?v=G0htfHRAeNE
-  38. https://www.youtube.com/watch?v=mk3VAanMCMU&t=3s
-  39. https://de.wikipedia.org/wiki/Michele_Camillo_Ferrari
-  40. https://www.alenahonigova.com/de/
-  41. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#ts-fab-bio-below
-  42. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#ts-fab-latest-posts-below
-  43. https://blog.stadtbibliothek-erlangen.de/author/redaktion/
-  44. https://blog.stadtbibliothek-erlangen.de/fotoausstellung-wie-ich-es-sehe/
-  45. https://blog.stadtbibliothek-erlangen.de/im-fokus-bewegung/
-  46. https://blog.stadtbibliothek-erlangen.de/ausstellung-frauen-im-geteilten-deutschland/
-  47. https://blog.stadtbibliothek-erlangen.de/ausstellung-ueber-josef-mayr-nusser/
-  48. https://blog.stadtbibliothek-erlangen.de/lesetipps-zum-45-erlanger-poetinnenfest/
-  49. https://blog.stadtbibliothek-erlangen.de/category/erlangen/
-  50. https://blog.stadtbibliothek-erlangen.de/category/musik/
-  51. https://blog.stadtbibliothek-erlangen.de/category/video/
-  52. https://blog.stadtbibliothek-erlangen.de/author/redaktion/
-  53. https://blog.stadtbibliothek-erlangen.de/tag/erlangen/
-  54. https://blog.stadtbibliothek-erlangen.de/tag/musik/
-  55. https://blog.stadtbibliothek-erlangen.de/sophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800/#respond
-  56. https://blog.stadtbibliothek-erlangen.de/pocketbook-reader-mit-onleihe-app/
-  57. https://blog.stadtbibliothek-erlangen.de/pocketbook-reader-mit-onleihe-app/
-  58. https://blog.stadtbibliothek-erlangen.de/e-book-ausleihe-mit-neuen-tolinos/
-  59. https://blog.stadtbibliothek-erlangen.de/e-book-ausleihe-mit-neuen-tolinos/
-  60. https://blog.stadtbibliothek-erlangen.de/wie-kommen-die-buecher-in-die-bibliothek/
-  61. https://blog.stadtbibliothek-erlangen.de/wie-kommen-die-buecher-in-die-bibliothek/
-  62. https://blog.stadtbibliothek-erlangen.de/recherche-tipp-4-die-wissenschaftliche-suchmaschine-google-scholar/
-  63. https://blog.stadtbibliothek-erlangen.de/wie-das-bookface-laufen-lernte/
-  64. https://blog.stadtbibliothek-erlangen.de/wie-das-bookface-laufen-lernte/
-  65. https://blog.stadtbibliothek-erlangen.de/tag/ausbildung/
-  66. https://blog.stadtbibliothek-erlangen.de/tag/ausstellung/
-  67. https://blog.stadtbibliothek-erlangen.de/tag/azubi/
-  68. https://blog.stadtbibliothek-erlangen.de/tag/beruf/
-  69. https://blog.stadtbibliothek-erlangen.de/tag/bfd-projekt/
-  70. https://blog.stadtbibliothek-erlangen.de/tag/bibliothek/
-  71. https://blog.stadtbibliothek-erlangen.de/tag/buch/
-  72. https://blog.stadtbibliothek-erlangen.de/tag/bundesfreiwilligendienst-kultur/
-  73. https://blog.stadtbibliothek-erlangen.de/tag/comic/
-  74. https://blog.stadtbibliothek-erlangen.de/tag/digitale-medien/
-  75. https://blog.stadtbibliothek-erlangen.de/tag/digitaler-salon/
-  76. https://blog.stadtbibliothek-erlangen.de/tag/digitaler-wandel/
-  77. https://blog.stadtbibliothek-erlangen.de/tag/diversitaet/
-  78. https://blog.stadtbibliothek-erlangen.de/tag/diy/
-  79. https://blog.stadtbibliothek-erlangen.de/tag/e-book/
-  80. https://blog.stadtbibliothek-erlangen.de/tag/erlangen/
-  81. https://blog.stadtbibliothek-erlangen.de/tag/fami/
-  82. https://blog.stadtbibliothek-erlangen.de/tag/fantasy/
-  83. https://blog.stadtbibliothek-erlangen.de/tag/fotografie/
-  84. https://blog.stadtbibliothek-erlangen.de/tag/fsj-projekt/
-  85. https://blog.stadtbibliothek-erlangen.de/tag/fsj-kultur/
-  86. https://blog.stadtbibliothek-erlangen.de/tag/internet/
-  87. https://blog.stadtbibliothek-erlangen.de/tag/interview/
-  88. https://blog.stadtbibliothek-erlangen.de/tag/jubilaeum/
-  89. https://blog.stadtbibliothek-erlangen.de/tag/jugendbibliothek/
-  90. https://blog.stadtbibliothek-erlangen.de/tag/jugendbuch/
-  91. https://blog.stadtbibliothek-erlangen.de/tag/kinderbibliothek/
-  92. https://blog.stadtbibliothek-erlangen.de/tag/krimi/
-  93. https://blog.stadtbibliothek-erlangen.de/tag/lesen/
-  94. https://blog.stadtbibliothek-erlangen.de/tag/lesetipp/
-  95. https://blog.stadtbibliothek-erlangen.de/tag/lgbtqia/
-  96. https://blog.stadtbibliothek-erlangen.de/tag/literatur/
-  97. https://blog.stadtbibliothek-erlangen.de/tag/marlene-liest/
-  98. https://blog.stadtbibliothek-erlangen.de/tag/medienkompetenz/
-  99. https://blog.stadtbibliothek-erlangen.de/tag/medientipp/
- 100. https://blog.stadtbibliothek-erlangen.de/tag/musik/
- 101. https://blog.stadtbibliothek-erlangen.de/tag/musikbibliothek/
- 102. https://blog.stadtbibliothek-erlangen.de/tag/onleihe/
- 103. https://blog.stadtbibliothek-erlangen.de/tag/praktikum/
- 104. https://blog.stadtbibliothek-erlangen.de/tag/queer/
- 105. https://blog.stadtbibliothek-erlangen.de/tag/recherche/
- 106. https://blog.stadtbibliothek-erlangen.de/tag/roman/
- 107. https://blog.stadtbibliothek-erlangen.de/tag/sachbuch/
- 108. https://blog.stadtbibliothek-erlangen.de/tag/schule/
- 109. https://blog.stadtbibliothek-erlangen.de/tag/seminararbeit/
- 110. https://www.stadtbibliothek-erlangen.de/themenseite/aktuelles-veranstaltungen/newsletter
- 111. https://openbiblio.social/@stabi_erlangen
- 112. https://www.instagram.com/stabi_erlangen/
- 113. https://www.facebook.com/stadtbibliothek.erlangen
- 114. https://www.youtube.com/user/StabiErlangen
- 115. https://www.whatsapp.com/channel/0029VazcaaoFCCoUI6fRg03f
- 116. https://blog.stadtbibliothek-erlangen.de/
- 117. https://blog.stadtbibliothek-erlangen.de/impressum/
- 118. https://blog.stadtbibliothek-erlangen.de/datenschutzerklaerung/
- 119. https://blog.stadtbibliothek-erlangen.de/barrierefreiheit/
-
-   Hidden links:
- 121. https://s2f.kytta.dev/?text=Sophie%20Caroline%20und%20Franz%20Seraph%3A%20eine%20musikalische%20Begegnung%20in%20Erlangen%20kurz%20vor%201800%20https%3A%2F%2Fblog.stadtbibliothek-erlangen.de%2Fsophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800%2F
- 122. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fblog.stadtbibliothek-erlangen.de%2Fsophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800%2F
- 123. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fblog.stadtbibliothek-erlangen.de%2Fsophie-caroline-und-franz-seraph-eine-musikalische-begegnung-in-erlangen-kurz-vor-1800%2F
- 124. http://ct.de/-2467514
- 125. https://blog.stadtbibliothek-erlangen.de/mein-lesetipp-windstaerke-17/
- 126. https://blog.stadtbibliothek-erlangen.de/marlene-liest-meine-buecher-2025/
- 127. https://blog.stadtbibliothek-erlangen.de/marlene-liest-meine-buecher-2023/
- 128. https://blog.stadtbibliothek-erlangen.de/lieblingsbuecher-2024-marlenes-lesetipps/
- 129. https://blog.stadtbibliothek-erlangen.de/recherche-tipp-4-die-wissenschaftliche-suchmaschine-google-scholar/

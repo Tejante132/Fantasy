@@ -1,43 +1,12 @@
-   #[1]YouTube [2]alternate [3]alternate [4]alternate [5]alternate
-   [6]Wolfgang A. Mozart: Fantasie in d-Moll KV 397 [7]Wolfgang A. Mozart:
-   Fantasie in d-Moll KV 397
+   #YouTube alternate alternate alternate alternate Wolfgang A. Mozart:
+   Fantasie in d-Moll KV 397 Wolfgang A. Mozart: Fantasie in d-Moll KV 397
 
-   IFRAME: [8]passive_signin
+   IFRAME: passive_signin
 
    ____________________
 
-   [9]About[10]Press[11]Copyright[12]Contact
-   us[13]Creators[14]Advertise[15]Developers[16]Cancel
-   Memberships[17]Terms[18]Privacy[19]Policy & Safety[20]How YouTube
-   works[21]Test new features
+   AboutPressCopyrightContact usCreatorsAdvertiseDevelopersCancel
+   MembershipsTermsPrivacyPolicy & SafetyHow YouTube worksTest new
+   features
 
-   © 2025 Google LLC
-
-References
-
-   Visible links:
-   1. https://www.youtube.com/opensearch?locale=en_US
-   2. https://m.youtube.com/watch?v=0NQis_7AnMM
-   3. https://m.youtube.com/watch?v=0NQis_7AnMM
-   4. android-app://com.google.android.youtube/http/www.youtube.com/watch?v=0NQis_7AnMM
-   5. ios-app://544007664/vnd.youtube/www.youtube.com/watch?v=0NQis_7AnMM
-   6. https://www.youtube.com/oembed?format=json&url=https://www.youtube.com/watch?v=0NQis_7AnMM
-   7. https://www.youtube.com/oembed?format=xml&url=https://www.youtube.com/watch?v=0NQis_7AnMM
-   8. https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https://www.youtube.com/signin?action_handle_signin=true&app=desktop&hl=en&next=%2Fsignin_passive&feature=passive&hl=en
-   9. https://www.youtube.com/about/
-  10. https://www.youtube.com/about/press/
-  11. https://www.youtube.com/about/copyright/
-  12. https://www.youtube.com/t/contact_us/
-  13. https://www.youtube.com/creators/
-  14. https://www.youtube.com/ads/
-  15. https://developers.google.com/youtube
-  16. https://support.google.com/youtube/contact/de_cancellation?hl=fr
-  17. https://www.youtube.com/t/terms
-  18. https://www.youtube.com/t/privacy
-  19. https://www.youtube.com/about/policies/
-  20. https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https://www.youtube.com/howyoutubeworks?utm_source=ythp&utm_medium=LeftNav&utm_campaign=ytgen
-  21. https://www.youtube.com/new
-
-   Hidden links:
-  23. https://www.youtube.com/
-  24. https://www.youtube.com/
+   © 2026 Google LLC

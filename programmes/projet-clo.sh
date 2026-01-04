@@ -115,6 +115,13 @@ do
 		STYLE_NB="is-warning"
 	fi
 
+	# attention, ça ne crée pas les chemins, il faut eventuellement faire un mkdir des dossiers 
+	# s'ils n'existent pas déjà au moment où on lance le programme
+	FICHIER_CONTEXTES=contextes/${LG}/${LG}-${N}.html
+	CONTEXTES=$(cat $FICHIER_DUMP | grep -P --context=3 --color=always --group-separator="---" "$MOT")
+	# echo "$CONTEXTES" > $FICHIER_CONTEXTES
+	echo "$CONTEXTES" | aha --title "Contextes pour $MOT" > $FICHIER_CONTEXTES
+
 	# on affiche les données extraites espacées par des tabulations
 	echo -e "
 				<tr>
@@ -126,6 +133,7 @@ do
 					<td><a href='../${FICHIER_ASPIRATION}'>lien vers l'aspiration</a></td>
 					<td><a href='../${FICHIER_DUMP}'>lien vers le dump</a></td>
 					<td class='${STYLE_NB}'>${NB_OCCURRENCES}</td>
+					<td><a href='../${FICHIER_CONTEXTES}'>lien vers les contextes</a></td>
 				</tr>" >> ${fichier}
 
 done < ${URLS};

@@ -1,6 +1,6 @@
-   #[1]search
+   #search
 
-   [2]dict.cc
+   dict.cc
    dict.cc
    DE/EN
    &rlarr;
@@ -9,236 +9,228 @@
    ×
    äöüß...
    ____________________
-   [3]Zuletzt gesucht
-   [4]Shuffle
-   [5]Quiz Game
-   [6]Vokabeltrainer
-   [7]Login
-   [8]Englisch - Deutsch  ✔
-   [9]Weitere Sprachen ...
-   [10]Dark Mode
-   [11]Zur Vollversion (Desktop-PC)
-   [12]Impressum
-   [13]Alte Version[14]Dark Mode[15]Zuletzt
-   gesucht[16]Shuffle[17]Quiz[18]Trainer[19]Login
-   [20]A [21]B [22]C [23]D [24]E [25]F [26]G [27]H [28]I [29]J [30]K [31]L
-   [32]M [33]N [34]O [35]P [36]Q [37]R [38]S [39]T [40]U [41]V [42]W [43]X
-   [44]Y [45]Z
+   Zuletzt gesucht
+   Shuffle
+   Quiz Game
+   Vokabeltrainer
+   Login
+   Englisch - Deutsch  ✔
+   Weitere Sprachen ...
+   Dark Mode
+   Zur Vollversion (Desktop-PC)
+   Impressum
+   Alte VersionDark ModeZuletzt gesuchtShuffleQuizTrainerLogin
+   A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
    Werbung
-    Übersetzung für '[46]Fantasie' von Deutsch nach Englisch
+    Übersetzung für 'Fantasie' von Deutsch nach Englisch
    NOUN   die Fantasie | die Fantasien
    SYNO   Einbildungskraft | Fantasie | Phantasie
    NOUN   article sg | article pl
-   [47]imagination [48]Fantasie {f} [Vorstellungskraft]
-   259
-   [49]fantasy [50]Fantasie {f}
+   imagination Fantasie {f} [Vorstellungskraft]
+   257
+   fantasy Fantasie {f}
    162
-   [51]fancy [imagination] [52]Fantasie {f}
-   70
+   fancy [imagination] Fantasie {f}
+   69
    mus.
-   [53]fantasia [54]Fantasie {f}
+   fantasia Fantasie {f}
    34
    2 Wörter: Andere
-   [55]unimaginative {adj} [56]ohne Fantasie [nachgestellt]
+   unimaginative {adj} ohne Fantasie [nachgestellt]
    2 Wörter: Verben
-   [57]to stimulate imagination [58]Fantasie anregen
-   [59]to tickle sb.'s fancy [60]jds. Fantasie anregen [reizen]
+   to stimulate imagination Fantasie anregen
+   to tickle sb.'s fancy jds. Fantasie anregen [reizen]
    2 Wörter: Substantive
-   [61]excited fantasy [62]angeregte Fantasie {f}
-   [63]fancifulness [64]blühende Fantasie {f}
-   [65]wild imagination [66]blühende Fantasie {f}
-   [67]vivid imagination [68]blühende Fantasie {f}
-   [69]wanton imagination [70]blühende Fantasie {f}
-   [71]perverse fancy [72]krankhafte Fantasie {f}
-   [73]powerful imagination [74]kräftige Fantasie {f}
-   [75]vivid fantasy [76]lebhafte Fantasie {f}
-   [77]vivacious imagination [78]lebhafte Fantasie {f}
+   excited fantasy angeregte Fantasie {f}
+   fancifulness blühende Fantasie {f}
+   wild imagination blühende Fantasie {f}
+   vivid imagination blühende Fantasie {f}
+   wanton imagination blühende Fantasie {f}
+   perverse fancy krankhafte Fantasie {f}
+   powerful imagination kräftige Fantasie {f}
+   vivid fantasy lebhafte Fantasie {f}
+   vivacious imagination lebhafte Fantasie {f}
    psych.
-   [79]active imagination [80]lebhafte Fantasie {f} [Vorstellungskraft]
-   [81]fertile imagination [82]rege Fantasie {f}
-   [83]dirty mind [84]schmutzige Fantasie {f}
-   [85]sexual fantasy [86]sexuelle Fantasie {f}
-   [87]wild imagination [88]wilde Fantasie {f}
-   [89]overactive imagination [90]wilde Fantasie {f}
+   active imagination lebhafte Fantasie {f} [Vorstellungskraft]
+   fertile imagination rege Fantasie {f}
+   dirty mind schmutzige Fantasie {f}
+   sexual fantasy sexuelle Fantasie {f}
+   wild imagination wilde Fantasie {f}
+   overactive imagination wilde Fantasie {f}
    3 Wörter: Andere
-   [91]without imagination {adv} [92]ohne Fantasie / Phantasie
+   without imagination {adv} ohne Fantasie / Phantasie
    3 Wörter: Verben
-   [93]to preoccupy the imagination [94]die Fantasie beherrschen
-   [95]to quicken the imagination [96]die Fantasie beleben
+   to preoccupy the imagination die Fantasie beherrschen
+   to quicken the imagination die Fantasie beleben
    mus.sports
-   [97]to play unimaginatively [without any imagination] [98]ohne Fantasie
-   spielen
-   [99]to have plenty of imagination [100]viel Fantasie haben
-   [101]to have little imagination [102]wenig Fantasie haben
+   to play unimaginatively [without any imagination] ohne Fantasie spielen
+   to have plenty of imagination viel Fantasie haben
+   to have little imagination wenig Fantasie haben
    3 Wörter: Substantive
-   [103]product of one's imagination [104]Produkt {n} seiner Fantasie
+   product of one's imagination Produkt {n} seiner Fantasie
    4 Wörter: Verben
-   [105]to have a sick mind [imagination] [106]eine krankhafte Fantasie
-   haben
-   [107]to have a nasty mind [108]eine schmutzige Fantasie haben
-   [109]to have a filthy mind [110]eine schmutzige Fantasie haben
-   [111]to have a dirty mind [coll.] [idiom] [112]eine schmutzige Fantasie
-   haben [ugs.] [Redewendung]
-   [113]to vision [114]in der Fantasie erleben
-   [115]to use one's imagination [116]seine Fantasie spielen lassen
+   to have a sick mind [imagination] eine krankhafte Fantasie haben
+   to have a nasty mind eine schmutzige Fantasie haben
+   to have a filthy mind eine schmutzige Fantasie haben
+   to have a dirty mind [coll.] [idiom] eine schmutzige Fantasie haben
+   [ugs.] [Redewendung]
+   to vision in der Fantasie erleben
+   to use one's imagination seine Fantasie spielen lassen
    4 Wörter: Substantive
-   [117]figment of the imagination [118]Ausgeburt {f} der Phantasie /
-   Fantasie
-   [119]realm of fantasy [120]Reich {n} der Fantasie / Phantasie
-   [121]scope for the imagination [122]Spielraum {m} für die Fantasie
+   figment of the imagination Ausgeburt {f} der Phantasie / Fantasie
+   realm of fantasy Reich {n} der Fantasie / Phantasie
+   scope for the imagination Spielraum {m} für die Fantasie
    5+ Wörter: Andere
    idiom
-   [123]Let your imagination run free. [124]Lass deiner Fantasie freien
-   Lauf.
-   [125]She gives her fancy full scope. [126]Sie lässt ihrer Fantasie
-   freien Lauf.
+   Let your imagination run free. Lass deiner Fantasie freien Lauf.
+   She gives her fancy full scope. Sie lässt ihrer Fantasie freien Lauf.
    5+ Wörter: Verben
    idiom
-   [127]to be in the realm / realms of fancy [Br.] [128]ins Reich der
-   Fantasie gehören
-   [129]to let one's imagination run wild [idiom] [130]seiner Fantasie
-   freien Lauf lassen [Redewendung]
-   [131]to give free rein to one's imagination [idiom] [132]seiner
-   Fantasie freien Lauf lassen [Redewendung]
-   [133]Suche in Kommentaren (7)
+   to be in the realm / realms of fancy [Br.] ins Reich der Fantasie
+   gehören
+   to let one's imagination run wild [idiom] seiner Fantasie freien Lauf
+   lassen [Redewendung]
+   to give free rein to one's imagination [idiom] seiner Fantasie freien
+   Lauf lassen [Redewendung]
+   Suche in Kommentaren (7)
    43 Übersetzungen
    Neue Wörterbuch-Abfrage: Einfach jetzt tippen!
 
-   Übersetzung für '[134]Fantasie' von Deutsch nach Englisch
+   Übersetzung für 'Fantasie' von Deutsch nach Englisch
 
-   [135]Fantasie {f} [Vorstellungskraft]
-          [136]imagination
+   Fantasie {f} [Vorstellungskraft]
+          imagination
 
-   [137]Fantasie {f}
-          [138]fantasy
+   Fantasie {f}
+          fantasy
 
-          [139]fancy [imagination]
+          fancy [imagination]
 
-          [140]fantasiamus.
+          fantasiamus.
             ___________________________________________________________
 
    Werbung
 
-   [141]ohne Fantasie [nachgestellt]
-          [142]unimaginative {adj}
+   ohne Fantasie [nachgestellt]
+          unimaginative {adj}
             ___________________________________________________________
 
-   [143]Fantasie anregen
-          [144]to stimulate imagination
+   Fantasie anregen
+          to stimulate imagination
 
-   [145]jds. Fantasie anregen [reizen]
-          [146]to tickle sb.'s fancy
+   jds. Fantasie anregen [reizen]
+          to tickle sb.'s fancy
             ___________________________________________________________
 
-   [147]angeregte Fantasie {f}
-          [148]excited fantasy
+   angeregte Fantasie {f}
+          excited fantasy
 
-   [149]blühende Fantasie {f}
-          [150]fancifulness
+   blühende Fantasie {f}
+          fancifulness
 
-          [151]wild imagination
+          wild imagination
 
-          [152]vivid imagination
+          vivid imagination
 
-          [153]wanton imagination
+          wanton imagination
 
-   [154]krankhafte Fantasie {f}
-          [155]perverse fancy
+   krankhafte Fantasie {f}
+          perverse fancy
 
-   [156]kräftige Fantasie {f}
-          [157]powerful imagination
+   kräftige Fantasie {f}
+          powerful imagination
 
-   [158]lebhafte Fantasie {f}
-          [159]vivid fantasy
+   lebhafte Fantasie {f}
+          vivid fantasy
 
-          [160]vivacious imagination
+          vivacious imagination
 
-   [161]lebhafte Fantasie {f} [Vorstellungskraft]
-          [162]active imaginationpsych.
+   lebhafte Fantasie {f} [Vorstellungskraft]
+          active imaginationpsych.
 
-   [163]rege Fantasie {f}
-          [164]fertile imagination
+   rege Fantasie {f}
+          fertile imagination
 
-   [165]schmutzige Fantasie {f}
-          [166]dirty mind
+   schmutzige Fantasie {f}
+          dirty mind
 
-   [167]sexuelle Fantasie {f}
-          [168]sexual fantasy
+   sexuelle Fantasie {f}
+          sexual fantasy
 
-   [169]wilde Fantasie {f}
-          [170]wild imagination
+   wilde Fantasie {f}
+          wild imagination
 
-          [171]overactive imagination
+          overactive imagination
             ___________________________________________________________
 
-   [172]ohne Fantasie / Phantasie
-          [173]without imagination {adv}
+   ohne Fantasie / Phantasie
+          without imagination {adv}
             ___________________________________________________________
 
-   [174]die Fantasie beherrschen
-          [175]to preoccupy the imagination
+   die Fantasie beherrschen
+          to preoccupy the imagination
 
-   [176]die Fantasie beleben
-          [177]to quicken the imagination
+   die Fantasie beleben
+          to quicken the imagination
 
-   [178]ohne Fantasie spielen
-          [179]to play unimaginatively [without any imagination]mus.sports
+   ohne Fantasie spielen
+          to play unimaginatively [without any imagination]mus.sports
 
-   [180]viel Fantasie haben
-          [181]to have plenty of imagination
+   viel Fantasie haben
+          to have plenty of imagination
 
-   [182]wenig Fantasie haben
-          [183]to have little imagination
+   wenig Fantasie haben
+          to have little imagination
             ___________________________________________________________
 
-   [184]Produkt {n} seiner Fantasie
-          [185]product of one's imagination
+   Produkt {n} seiner Fantasie
+          product of one's imagination
             ___________________________________________________________
 
-   [186]eine krankhafte Fantasie haben
-          [187]to have a sick mind [imagination]
+   eine krankhafte Fantasie haben
+          to have a sick mind [imagination]
 
-   [188]eine schmutzige Fantasie haben
-          [189]to have a nasty mind
+   eine schmutzige Fantasie haben
+          to have a nasty mind
 
-          [190]to have a filthy mind
+          to have a filthy mind
 
-   [191]eine schmutzige Fantasie haben [ugs.] [Redewendung]
-          [192]to have a dirty mind [coll.] [idiom]
+   eine schmutzige Fantasie haben [ugs.] [Redewendung]
+          to have a dirty mind [coll.] [idiom]
 
-   [193]in der Fantasie erleben
-          [194]to vision
+   in der Fantasie erleben
+          to vision
 
-   [195]seine Fantasie spielen lassen
-          [196]to use one's imagination
+   seine Fantasie spielen lassen
+          to use one's imagination
             ___________________________________________________________
 
-   [197]Ausgeburt {f} der Phantasie / Fantasie
-          [198]figment of the imagination
+   Ausgeburt {f} der Phantasie / Fantasie
+          figment of the imagination
 
-   [199]Reich {n} der Fantasie / Phantasie
-          [200]realm of fantasy
+   Reich {n} der Fantasie / Phantasie
+          realm of fantasy
 
-   [201]Spielraum {m} für die Fantasie
-          [202]scope for the imagination
+   Spielraum {m} für die Fantasie
+          scope for the imagination
             ___________________________________________________________
 
-   [203]Lass deiner Fantasie freien Lauf.
-          [204]Let your imagination run free.idiom
+   Lass deiner Fantasie freien Lauf.
+          Let your imagination run free.idiom
 
-   [205]Sie lässt ihrer Fantasie freien Lauf.
-          [206]She gives her fancy full scope.
+   Sie lässt ihrer Fantasie freien Lauf.
+          She gives her fancy full scope.
             ___________________________________________________________
 
-   [207]ins Reich der Fantasie gehören
-          [208]to be in the realm / realms of fancy [Br.]idiom
+   ins Reich der Fantasie gehören
+          to be in the realm / realms of fancy [Br.]idiom
 
-   [209]seiner Fantasie freien Lauf lassen [Redewendung]
-          [210]to let one's imagination run wild [idiom]
+   seiner Fantasie freien Lauf lassen [Redewendung]
+          to let one's imagination run wild [idiom]
 
-          [211]to give free rein to one's imagination [idiom]
+          to give free rein to one's imagination [idiom]
 
-   [212]Suche in Kommentaren (7)
+   Suche in Kommentaren (7)
    Anwendungsbeispiele Deutsch
      * Sie war als gelernte Schauspielerin fantasie- und sprachbegabt.
      * Berchet verbrachte die meiste Zeit seines Exils in Belgien, wo er
@@ -294,79 +286,79 @@
 
    nach oben
    neue Suche
-   © dict.cc English-German dictionary 2025
-   [213]Impressum | [214]Cookie-Einstellungen
+   © dict.cc English-German dictionary 2026
+   Impressum | Cookie-Einstellungen
    Werbung
-   [215]fantasy castle in clouds
-   [216][31005118.jpg]
-   [217]Bildauswahl korrigieren
+   fantasy castle in clouds
+   [31005118.jpg]
+   Bildauswahl korrigieren
    Siehe auch:
-   [218]Google
-   [219]Wikipedia
-   [220]Wiktionary
-   [221]Leo
-   [222]PONS
-   [223]Langenscheidt
-   [224]Duden
-   [225]Netzverb
-   [226]DWDS
-   [227]TheFreeDictionary
-   [228]Reverso
-   [229]Google News
-   [230]Leipzig
-   [231]Onelook
+   Google
+   Wikipedia
+   Wiktionary
+   Leo
+   PONS
+   Langenscheidt
+   Duden
+   Netzverb
+   DWDS
+   TheFreeDictionary
+   Reverso
+   Google News
+   Leipzig
+   Onelook
    Ähnliche Begriffe
-   [232]Fanschaft
-   [233]Fanschal
-   [234]Fanschar
-   [235]Fanseite
-   [236]Fanshop
-   [237]Fansynchronisation
-   [238]Fanszene
-   [239]Fant
-   [240]Fan Tan
-   [241]Fantappièit
-   [242]• Fantasie
-   [243]Fantasie anregen
-   [244]Fantasiebild
-   [245]Fantasiefreunde
-   [246]Fantasiegebilde
-   [247]Fantasiegeschichte
-   [248]Fantasiegestalt
-   [249]Fantasiegewand
-   [250]Fantasielandschaft
-   [251]fantasielos
-   [252]Fantasielosigkeit
+   Fanschaft
+   Fanschal
+   Fanschar
+   Fanseite
+   Fanshop
+   Fansynchronisation
+   Fanszene
+   Fant
+   Fan Tan
+   Fantappièit
+   • Fantasie
+   Fantasie anregen
+   fantasiearm
+   Fantasiebild
+   Fantasiefreunde
+   Fantasiegebilde
+   Fantasiegeschichte
+   Fantasiegestalt
+   Fantasiegewand
+   Fantasielandschaft
+   fantasielos
    Andere Sprachen
    Wörterbücher mit Übersetzungen für "Fantasie":
-   [253]Deutsch - alle Sprachen
-   [254]Deutsch - Albanisch
-   [255]Deutsch - Bosnisch
-   [256]Deutsch - Bulgarisch
-   [257]Deutsch - Dänisch
-   [258]Deutsch - Esperanto
-   [259]Deutsch - Finnisch
-   [260]Deutsch - Französisch
-   [261]Deutsch - Griechisch
-   [262]Deutsch - Isländisch
-   [263]Deutsch - Italienisch
-   [264]Deutsch - Kroatisch
-   [265]Deutsch - Latein
-   [266]Deutsch - Niederländisch
-   [267]Englisch - Niederländisch
-   [268]Deutsch - Norwegisch
-   [269]Deutsch - Polnisch
-   [270]Deutsch - Portugiesisch
-   [271]Deutsch - Rumänisch
-   [272]Deutsch - Russisch
-   [273]Deutsch - Schwedisch
-   [274]Deutsch - Serbisch
-   [275]Deutsch - Slowakisch
-   [276]Deutsch - Spanisch
-   [277]Deutsch - Tschechisch
-   [278]Deutsch - Türkisch
-   [279]Deutsch - Ukrainisch
-   [280]Deutsch - Ungarisch
+   Deutsch - alle Sprachen
+   Deutsch - Albanisch
+   Deutsch - Bosnisch
+   Deutsch - Bulgarisch
+   Deutsch - Dänisch
+   Deutsch - Esperanto
+   Deutsch - Finnisch
+   Deutsch - Französisch
+   Deutsch - Griechisch
+   Deutsch - Isländisch
+   Deutsch - Italienisch
+   Deutsch - Kroatisch
+   Deutsch - Latein
+   Deutsch - Niederländisch
+   Englisch - Niederländisch
+   Deutsch - Norwegisch
+   Deutsch - Polnisch
+   Deutsch - Portugiesisch
+   Deutsch - Rumänisch
+   Deutsch - Russisch
+   Deutsch - Schwedisch
+   Deutsch - Serbisch
+   Deutsch - Slowakisch
+   Deutsch - Spanisch
+   Deutsch - Tschechisch
+   Deutsch - Türkisch
+   Deutsch - Ukrainisch
+   Deutsch - Ungarisch
    Mitmachen!
    Alle Inhalte dieses Wörterbuchs werden direkt von Nutzern
    vorgeschlagen, geprüft und verbessert.
@@ -374,312 +366,20 @@
    bringt aber mehr Rechte und als Dankeschön auch eine werbefreie
    Wörterbuchnutzung.
    Einfache Teilnahmemöglichkeiten:
-   • [281]Bilder durchsehen
-   • [282]Sprachaufnahmen anhören
-   • [283]Sprachaufnahmen einsprechen
+   • Bilder durchsehen
+   • Sprachaufnahmen anhören
+   • Sprachaufnahmen einsprechen
    Schwieriger:
-   • [284]Beugungsformen prüfen
-   • [285]Übersetzungsvorschläge prüfen
-   • [286]Neue Übersetzungen vorschlagen
+   • Beugungsformen prüfen
+   • Übersetzungsvorschläge prüfen
+   • Neue Übersetzungen vorschlagen
    Für die Korrektur einer bestimmten Übersetzung diese bitte anklicken
    und den Menüpunkt "Bearbeiten" verwenden. Danach direkt im Formular die
    Korrektur eintragen und das Formular absenden. Der Änderungsvorschlag
    wird dann von anderen Beitragenden geprüft.
-   [287]nach oben | [288]Impressum | [289]Cookie-Einstellungen
-   © dict.cc English-German dictionary 2025
+   nach oben | Impressum | Cookie-Einstellungen
+   © dict.cc English-German dictionary 2026
    Enthält Übersetzungen von der TU Chemnitz sowie aus Mr Honey's Business
    Dictionary (nur Englisch/Deutsch).
    Links auf das Wörterbuch oder auch auf einzelne Übersetzungen sind
    immer herzlich willkommen!
-
-References
-
-   1. https://m.dict.cc/opensearch_responsive.xml
-   2. https://m.dict.cc/deen/
-   3. javascript:;
-   4. https://m.dict.cc/shuffle/
-   5. https://m.dict.cc/deutsch-englisch/Fantasie.html#quiz
-   6. https://m.dict.cc/deen/trainer/
-   7. https://secure.dict.cc/users/urc_logn.php?app_lang=de&next=goto:https://m.dict.cc/deutsch-englisch/Fantasie.html
-   8. https://m.dict.cc/deen/?s=Fantasie
-   9. javascript:;
-  10. javascript:;
-  11. javascript:go_desktop('https://www.dict.cc/deutsch-englisch/Fantasie.html')
-  12. https://m.dict.cc/deutsch-englisch/Fantasie.html#legal
-  13. javascript:go_desktop('https://www.dict.cc/deutsch-englisch/Fantasie.html')
-  14. javascript:dark_mode()
-  15. javascript:show_recent_searches()
-  16. https://m.dict.cc/shuffle/
-  17. https://m.dict.cc/deutsch-englisch/Fantasie.html#quiz
-  18. https://m.dict.cc/deen/trainer/
-  19. https://secure.dict.cc/users/urc_logn.php?app_lang=de&next=goto:https://m.dict.cc/deutsch-englisch/Fantasie.html
-  20. https://m.dict.cc/englisch-deutsch/browse/A-1.html
-  21. https://m.dict.cc/englisch-deutsch/browse/B-1.html
-  22. https://m.dict.cc/englisch-deutsch/browse/C-1.html
-  23. https://m.dict.cc/englisch-deutsch/browse/D-1.html
-  24. https://m.dict.cc/englisch-deutsch/browse/E-1.html
-  25. https://m.dict.cc/englisch-deutsch/browse/F-1.html
-  26. https://m.dict.cc/englisch-deutsch/browse/G-1.html
-  27. https://m.dict.cc/englisch-deutsch/browse/H-1.html
-  28. https://m.dict.cc/englisch-deutsch/browse/I-1.html
-  29. https://m.dict.cc/englisch-deutsch/browse/J-1.html
-  30. https://m.dict.cc/englisch-deutsch/browse/K-1.html
-  31. https://m.dict.cc/englisch-deutsch/browse/L-1.html
-  32. https://m.dict.cc/englisch-deutsch/browse/M-1.html
-  33. https://m.dict.cc/englisch-deutsch/browse/N-1.html
-  34. https://m.dict.cc/englisch-deutsch/browse/O-1.html
-  35. https://m.dict.cc/englisch-deutsch/browse/P-1.html
-  36. https://m.dict.cc/englisch-deutsch/browse/Q-1.html
-  37. https://m.dict.cc/englisch-deutsch/browse/R-1.html
-  38. https://m.dict.cc/englisch-deutsch/browse/S-1.html
-  39. https://m.dict.cc/englisch-deutsch/browse/T-1.html
-  40. https://m.dict.cc/englisch-deutsch/browse/U-1.html
-  41. https://m.dict.cc/englisch-deutsch/browse/V-1.html
-  42. https://m.dict.cc/englisch-deutsch/browse/W-1.html
-  43. https://m.dict.cc/englisch-deutsch/browse/X-1.html
-  44. https://m.dict.cc/englisch-deutsch/browse/Y-1.html
-  45. https://m.dict.cc/englisch-deutsch/browse/Z-1.html
-  46. https://m.dict.cc/deutsch-englisch/Fantasie.html
-  47. https://m.dict.cc/englisch-deutsch/imagination.html
-  48. https://m.dict.cc/deutsch-englisch/Fantasie.html
-  49. https://m.dict.cc/englisch-deutsch/fantasy.html
-  50. https://m.dict.cc/deutsch-englisch/Fantasie.html
-  51. https://m.dict.cc/englisch-deutsch/fancy.html
-  52. https://m.dict.cc/deutsch-englisch/Fantasie.html
-  53. https://m.dict.cc/englisch-deutsch/fantasia.html
-  54. https://m.dict.cc/deutsch-englisch/Fantasie.html
-  55. https://m.dict.cc/englisch-deutsch/unimaginative.html
-  56. https://m.dict.cc/deutsch-englisch/ohne+Fantasie.html
-  57. https://m.dict.cc/englisch-deutsch/to+stimulate+imagination.html
-  58. https://m.dict.cc/deutsch-englisch/Fantasie+anregen.html
-  59. https://m.dict.cc/englisch-deutsch/to+tickle+sb+'s+fancy.html
-  60. https://m.dict.cc/deutsch-englisch/jds+Fantasie+anregen.html
-  61. https://m.dict.cc/englisch-deutsch/excited+fantasy.html
-  62. https://m.dict.cc/deutsch-englisch/angeregte+Fantasie.html
-  63. https://m.dict.cc/englisch-deutsch/fancifulness.html
-  64. https://m.dict.cc/deutsch-englisch/blühende+Fantasie.html
-  65. https://m.dict.cc/englisch-deutsch/wild+imagination.html
-  66. https://m.dict.cc/deutsch-englisch/blühende+Fantasie.html
-  67. https://m.dict.cc/englisch-deutsch/vivid+imagination.html
-  68. https://m.dict.cc/deutsch-englisch/blühende+Fantasie.html
-  69. https://m.dict.cc/englisch-deutsch/wanton+imagination.html
-  70. https://m.dict.cc/deutsch-englisch/blühende+Fantasie.html
-  71. https://m.dict.cc/englisch-deutsch/perverse+fancy.html
-  72. https://m.dict.cc/deutsch-englisch/krankhafte+Fantasie.html
-  73. https://m.dict.cc/englisch-deutsch/powerful+imagination.html
-  74. https://m.dict.cc/deutsch-englisch/kräftige+Fantasie.html
-  75. https://m.dict.cc/englisch-deutsch/vivid+fantasy.html
-  76. https://m.dict.cc/deutsch-englisch/lebhafte+Fantasie.html
-  77. https://m.dict.cc/englisch-deutsch/vivacious+imagination.html
-  78. https://m.dict.cc/deutsch-englisch/lebhafte+Fantasie.html
-  79. https://m.dict.cc/englisch-deutsch/active+imagination.html
-  80. https://m.dict.cc/deutsch-englisch/lebhafte+Fantasie.html
-  81. https://m.dict.cc/englisch-deutsch/fertile+imagination.html
-  82. https://m.dict.cc/deutsch-englisch/rege+Fantasie.html
-  83. https://m.dict.cc/englisch-deutsch/dirty+mind.html
-  84. https://m.dict.cc/deutsch-englisch/schmutzige+Fantasie.html
-  85. https://m.dict.cc/englisch-deutsch/sexual+fantasy.html
-  86. https://m.dict.cc/deutsch-englisch/sexuelle+Fantasie.html
-  87. https://m.dict.cc/englisch-deutsch/wild+imagination.html
-  88. https://m.dict.cc/deutsch-englisch/wilde+Fantasie.html
-  89. https://m.dict.cc/englisch-deutsch/overactive+imagination.html
-  90. https://m.dict.cc/deutsch-englisch/wilde+Fantasie.html
-  91. https://m.dict.cc/englisch-deutsch/without+imagination.html
-  92. https://m.dict.cc/deutsch-englisch/ohne+Fantasie+Phantasie.html
-  93. https://m.dict.cc/englisch-deutsch/to+preoccupy+the+imagination.html
-  94. https://m.dict.cc/deutsch-englisch/die+Fantasie+beherrschen.html
-  95. https://m.dict.cc/englisch-deutsch/to+quicken+the+imagination.html
-  96. https://m.dict.cc/deutsch-englisch/die+Fantasie+beleben.html
-  97. https://m.dict.cc/englisch-deutsch/to+play+unimaginatively.html
-  98. https://m.dict.cc/deutsch-englisch/ohne+Fantasie+spielen.html
-  99. https://m.dict.cc/englisch-deutsch/to+have+plenty+of+imagination.html
- 100. https://m.dict.cc/deutsch-englisch/viel+Fantasie+haben.html
- 101. https://m.dict.cc/englisch-deutsch/to+have+little+imagination.html
- 102. https://m.dict.cc/deutsch-englisch/wenig+Fantasie+haben.html
- 103. https://m.dict.cc/englisch-deutsch/product+of+one's+imagination.html
- 104. https://m.dict.cc/deutsch-englisch/Produkt+seiner+Fantasie.html
- 105. https://m.dict.cc/englisch-deutsch/to+have+a+sick+mind.html
- 106. https://m.dict.cc/deutsch-englisch/eine+krankhafte+Fantasie+haben.html
- 107. https://m.dict.cc/englisch-deutsch/to+have+a+nasty+mind.html
- 108. https://m.dict.cc/deutsch-englisch/eine+schmutzige+Fantasie+haben.html
- 109. https://m.dict.cc/englisch-deutsch/to+have+a+filthy+mind.html
- 110. https://m.dict.cc/deutsch-englisch/eine+schmutzige+Fantasie+haben.html
- 111. https://m.dict.cc/englisch-deutsch/to+have+a+dirty+mind.html
- 112. https://m.dict.cc/deutsch-englisch/eine+schmutzige+Fantasie+haben.html
- 113. https://m.dict.cc/englisch-deutsch/to+vision.html
- 114. https://m.dict.cc/deutsch-englisch/in+der+Fantasie+erleben.html
- 115. https://m.dict.cc/englisch-deutsch/to+use+one's+imagination.html
- 116. https://m.dict.cc/deutsch-englisch/seine+Fantasie+spielen+lassen.html
- 117. https://m.dict.cc/englisch-deutsch/figment+of+the+imagination.html
- 118. https://m.dict.cc/deutsch-englisch/Ausgeburt+der+Phantasie+Fantasie.html
- 119. https://m.dict.cc/englisch-deutsch/realm+of+fantasy.html
- 120. https://m.dict.cc/deutsch-englisch/Reich+der+Fantasie+Phantasie.html
- 121. https://m.dict.cc/englisch-deutsch/scope+for+the+imagination.html
- 122. https://m.dict.cc/deutsch-englisch/Spielraum+für+die+Fantasie.html
- 123. https://m.dict.cc/englisch-deutsch/Let+your+imagination+run+free.html
- 124. https://m.dict.cc/deutsch-englisch/Lass+deiner+Fantasie+freien+Lauf.html
- 125. https://m.dict.cc/englisch-deutsch/She+gives+her+fancy+full+scope.html
- 126. https://m.dict.cc/deutsch-englisch/Sie+lässt+ihrer+Fantasie+freien+Lauf.html
- 127. https://m.dict.cc/englisch-deutsch/to+be+in+the+realm+realms+of+fancy.html
- 128. https://m.dict.cc/deutsch-englisch/ins+Reich+der+Fantasie+gehören.html
- 129. https://m.dict.cc/englisch-deutsch/to+let+one's+imagination+run+wild.html
- 130. https://m.dict.cc/deutsch-englisch/seiner+Fantasie+freien+Lauf+lassen.html
- 131. https://m.dict.cc/englisch-deutsch/to+give+free+rein+to+one's+imagination.html
- 132. https://m.dict.cc/deutsch-englisch/seiner+Fantasie+freien+Lauf+lassen.html
- 133. https://m.dict.cc/deutsch-englisch/[Fantasie].html
- 134. https://m.dict.cc/deutsch-englisch/Fantasie.html
- 135. https://m.dict.cc/deutsch-englisch/Fantasie.html
- 136. https://m.dict.cc/englisch-deutsch/imagination.html
- 137. https://m.dict.cc/deutsch-englisch/Fantasie.html
- 138. https://m.dict.cc/englisch-deutsch/fantasy.html
- 139. https://m.dict.cc/englisch-deutsch/fancy.html
- 140. https://m.dict.cc/englisch-deutsch/fantasia.html
- 141. https://m.dict.cc/deutsch-englisch/ohne+Fantasie.html
- 142. https://m.dict.cc/englisch-deutsch/unimaginative.html
- 143. https://m.dict.cc/deutsch-englisch/Fantasie+anregen.html
- 144. https://m.dict.cc/englisch-deutsch/to+stimulate+imagination.html
- 145. https://m.dict.cc/deutsch-englisch/jds+Fantasie+anregen.html
- 146. https://m.dict.cc/englisch-deutsch/to+tickle+sb+'s+fancy.html
- 147. https://m.dict.cc/deutsch-englisch/angeregte+Fantasie.html
- 148. https://m.dict.cc/englisch-deutsch/excited+fantasy.html
- 149. https://m.dict.cc/deutsch-englisch/blühende+Fantasie.html
- 150. https://m.dict.cc/englisch-deutsch/fancifulness.html
- 151. https://m.dict.cc/englisch-deutsch/wild+imagination.html
- 152. https://m.dict.cc/englisch-deutsch/vivid+imagination.html
- 153. https://m.dict.cc/englisch-deutsch/wanton+imagination.html
- 154. https://m.dict.cc/deutsch-englisch/krankhafte+Fantasie.html
- 155. https://m.dict.cc/englisch-deutsch/perverse+fancy.html
- 156. https://m.dict.cc/deutsch-englisch/kräftige+Fantasie.html
- 157. https://m.dict.cc/englisch-deutsch/powerful+imagination.html
- 158. https://m.dict.cc/deutsch-englisch/lebhafte+Fantasie.html
- 159. https://m.dict.cc/englisch-deutsch/vivid+fantasy.html
- 160. https://m.dict.cc/englisch-deutsch/vivacious+imagination.html
- 161. https://m.dict.cc/deutsch-englisch/lebhafte+Fantasie.html
- 162. https://m.dict.cc/englisch-deutsch/active+imagination.html
- 163. https://m.dict.cc/deutsch-englisch/rege+Fantasie.html
- 164. https://m.dict.cc/englisch-deutsch/fertile+imagination.html
- 165. https://m.dict.cc/deutsch-englisch/schmutzige+Fantasie.html
- 166. https://m.dict.cc/englisch-deutsch/dirty+mind.html
- 167. https://m.dict.cc/deutsch-englisch/sexuelle+Fantasie.html
- 168. https://m.dict.cc/englisch-deutsch/sexual+fantasy.html
- 169. https://m.dict.cc/deutsch-englisch/wilde+Fantasie.html
- 170. https://m.dict.cc/englisch-deutsch/wild+imagination.html
- 171. https://m.dict.cc/englisch-deutsch/overactive+imagination.html
- 172. https://m.dict.cc/deutsch-englisch/ohne+Fantasie+Phantasie.html
- 173. https://m.dict.cc/englisch-deutsch/without+imagination.html
- 174. https://m.dict.cc/deutsch-englisch/die+Fantasie+beherrschen.html
- 175. https://m.dict.cc/englisch-deutsch/to+preoccupy+the+imagination.html
- 176. https://m.dict.cc/deutsch-englisch/die+Fantasie+beleben.html
- 177. https://m.dict.cc/englisch-deutsch/to+quicken+the+imagination.html
- 178. https://m.dict.cc/deutsch-englisch/ohne+Fantasie+spielen.html
- 179. https://m.dict.cc/englisch-deutsch/to+play+unimaginatively.html
- 180. https://m.dict.cc/deutsch-englisch/viel+Fantasie+haben.html
- 181. https://m.dict.cc/englisch-deutsch/to+have+plenty+of+imagination.html
- 182. https://m.dict.cc/deutsch-englisch/wenig+Fantasie+haben.html
- 183. https://m.dict.cc/englisch-deutsch/to+have+little+imagination.html
- 184. https://m.dict.cc/deutsch-englisch/Produkt+seiner+Fantasie.html
- 185. https://m.dict.cc/englisch-deutsch/product+of+one's+imagination.html
- 186. https://m.dict.cc/deutsch-englisch/eine+krankhafte+Fantasie+haben.html
- 187. https://m.dict.cc/englisch-deutsch/to+have+a+sick+mind.html
- 188. https://m.dict.cc/deutsch-englisch/eine+schmutzige+Fantasie+haben.html
- 189. https://m.dict.cc/englisch-deutsch/to+have+a+nasty+mind.html
- 190. https://m.dict.cc/englisch-deutsch/to+have+a+filthy+mind.html
- 191. https://m.dict.cc/deutsch-englisch/eine+schmutzige+Fantasie+haben.html
- 192. https://m.dict.cc/englisch-deutsch/to+have+a+dirty+mind.html
- 193. https://m.dict.cc/deutsch-englisch/in+der+Fantasie+erleben.html
- 194. https://m.dict.cc/englisch-deutsch/to+vision.html
- 195. https://m.dict.cc/deutsch-englisch/seine+Fantasie+spielen+lassen.html
- 196. https://m.dict.cc/englisch-deutsch/to+use+one's+imagination.html
- 197. https://m.dict.cc/deutsch-englisch/Ausgeburt+der+Phantasie+Fantasie.html
- 198. https://m.dict.cc/englisch-deutsch/figment+of+the+imagination.html
- 199. https://m.dict.cc/deutsch-englisch/Reich+der+Fantasie+Phantasie.html
- 200. https://m.dict.cc/englisch-deutsch/realm+of+fantasy.html
- 201. https://m.dict.cc/deutsch-englisch/Spielraum+für+die+Fantasie.html
- 202. https://m.dict.cc/englisch-deutsch/scope+for+the+imagination.html
- 203. https://m.dict.cc/deutsch-englisch/Lass+deiner+Fantasie+freien+Lauf.html
- 204. https://m.dict.cc/englisch-deutsch/Let+your+imagination+run+free.html
- 205. https://m.dict.cc/deutsch-englisch/Sie+lässt+ihrer+Fantasie+freien+Lauf.html
- 206. https://m.dict.cc/englisch-deutsch/She+gives+her+fancy+full+scope.html
- 207. https://m.dict.cc/deutsch-englisch/ins+Reich+der+Fantasie+gehören.html
- 208. https://m.dict.cc/englisch-deutsch/to+be+in+the+realm+realms+of+fancy.html
- 209. https://m.dict.cc/deutsch-englisch/seiner+Fantasie+freien+Lauf+lassen.html
- 210. https://m.dict.cc/englisch-deutsch/to+let+one's+imagination+run+wild.html
- 211. https://m.dict.cc/englisch-deutsch/to+give+free+rein+to+one's+imagination.html
- 212. https://m.dict.cc/deutsch-englisch/[Fantasie].html
- 213. https://m.dict.cc/deutsch-englisch/Fantasie.html#legal
- 214. javascript:void(0);
- 215. http://shutterstock.7eer.net/c/95627/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=31005118
- 216. http://shutterstock.7eer.net/c/95627/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=31005118
- 217. https://contribute.dict.cc/image_assign.php?kw=Fantasie&lang=DE
- 218. https://www.google.de/search?hl=de&q=Fantasie -dict.cc
- 219. https://de.wikipedia.org/w/wiki.phtml?search=Fantasie
- 220. https://de.wiktionary.org/wiki/Special:Search?search=Fantasie
- 221. https://dict.leo.org/ende?lang=de&lp=ende&search=Fantasie
- 222. https://de.pons.com/übersetzung?q=Fantasie&l=deen
- 223. https://de.langenscheidt.com/deutsch-englisch/Fantasie
- 224. https://www.duden.de/suchen/dudenonline/Fantasie
- 225. https://www.verbformen.de/?w=Fantasie
- 226. https://www.dwds.de/wb/Fantasie
- 227. https://de.thefreedictionary.com/_/partner.aspx?pid=dictcc&set=de&word=Fantasie
- 228. https://dictionary.reverso.net/german-english/Fantasie
- 229. https://www.google.com/search?q=Fantasie&hl=de&gl=DE&source=lnms&tbm=nws
- 230. https://corpora.uni-leipzig.de/de/res?word=Fantasie
- 231. https://www.onelook.com/?ls=b&w=Fantasie
- 232. https://m.dict.cc/deutsch-englisch/?s=Fanschaft
- 233. https://m.dict.cc/deutsch-englisch/?s=Fanschal
- 234. https://m.dict.cc/deutsch-englisch/?s=Fanschar
- 235. https://m.dict.cc/deutsch-englisch/?s=Fanseite
- 236. https://m.dict.cc/deutsch-englisch/?s=Fanshop
- 237. https://m.dict.cc/deutsch-englisch/?s=Fansynchronisation
- 238. https://m.dict.cc/deutsch-englisch/?s=Fanszene
- 239. https://m.dict.cc/deutsch-englisch/?s=Fant
- 240. https://m.dict.cc/deutsch-englisch/?s=Fan+Tan
- 241. https://m.dict.cc/deutsch-englisch/?s=Fantappièit
- 242. https://m.dict.cc/deutsch-englisch/?s=Fantasie
- 243. https://m.dict.cc/deutsch-englisch/?s=Fantasie+anregen
- 244. https://m.dict.cc/deutsch-englisch/?s=Fantasiebild
- 245. https://m.dict.cc/deutsch-englisch/?s=Fantasiefreunde
- 246. https://m.dict.cc/deutsch-englisch/?s=Fantasiegebilde
- 247. https://m.dict.cc/deutsch-englisch/?s=Fantasiegeschichte
- 248. https://m.dict.cc/deutsch-englisch/?s=Fantasiegestalt
- 249. https://m.dict.cc/deutsch-englisch/?s=Fantasiegewand
- 250. https://m.dict.cc/deutsch-englisch/?s=Fantasielandschaft
- 251. https://m.dict.cc/deutsch-englisch/?s=fantasielos
- 252. https://m.dict.cc/deutsch-englisch/?s=Fantasielosigkeit
- 253. https://m.dict.cc/uebersetzung/Fantasie
- 254. https://m.dict.cc/desq/?s=Fantasie
- 255. https://m.dict.cc/bsde/?s=Fantasie
- 256. https://m.dict.cc/bgde/?s=Fantasie
- 257. https://m.dict.cc/dade/?s=Fantasie
- 258. https://m.dict.cc/deeo/?s=Fantasie
- 259. https://m.dict.cc/defi/?s=Fantasie
- 260. https://m.dict.cc/defr/?s=Fantasie
- 261. https://m.dict.cc/deel/?s=Fantasie
- 262. https://m.dict.cc/deis/?s=Fantasie
- 263. https://m.dict.cc/deit/?s=Fantasie
- 264. https://m.dict.cc/dehr/?s=Fantasie
- 265. https://m.dict.cc/dela/?s=Fantasie
- 266. https://m.dict.cc/denl/?s=Fantasie
- 267. https://m.dict.cc/ennl/?s=Fantasie
- 268. https://m.dict.cc/deno/?s=Fantasie
- 269. https://m.dict.cc/depl/?s=Fantasie
- 270. https://m.dict.cc/dept/?s=Fantasie
- 271. https://m.dict.cc/dero/?s=Fantasie
- 272. https://m.dict.cc/deru/?s=Fantasie
- 273. https://m.dict.cc/desv/?s=Fantasie
- 274. https://m.dict.cc/desr/?s=Fantasie
- 275. https://m.dict.cc/desk/?s=Fantasie
- 276. https://m.dict.cc/dees/?s=Fantasie
- 277. https://m.dict.cc/csde/?s=Fantasie
- 278. https://m.dict.cc/detr/?s=Fantasie
- 279. https://m.dict.cc/deuk/?s=Fantasie
- 280. https://m.dict.cc/dehu/?s=Fantasie
- 281. https://contribute.dict.cc/?action=image-history&f=TODO---
- 282. https://contribute.dict.cc/?action=audio-history&f=--PENDING
- 283. https://contribute.dict.cc/?action=audio-rec
- 284. https://contribute.dict.cc/?action=inflections-history&f=--PENDING
- 285. https://contribute.dict.cc/
- 286. https://contribute.dict.cc/#inputform
- 287. javascript:scroll_up()
- 288. https://m.dict.cc/deutsch-englisch/Fantasie.html#legal
- 289. javascript:void(0);

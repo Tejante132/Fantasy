@@ -6,7 +6,7 @@
 <!-- 
 	This website is powered by TYPO3 - inspiring people to share!
 	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
-	TYPO3 is copyright 1998-2025 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
 	Information and contribution at https://typo3.org/
 -->
 
@@ -35,15 +35,15 @@
 <meta name="mssmarttagspreventparsing" content="true" />
 <meta name="imagetoolbar" content="false" />
 
-<link rel="stylesheet" type="text/css" href="/typo3temp/assets/compressed/merged-be89de7e419e3ae17fe2864396c51d30.css?1765894787" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3temp/assets/compressed/merged-50f5e724495cb563046a16770a08e380.css?1766390996" media="all">
 
-<link rel="stylesheet" type="text/css" href="/typo3temp/assets/compressed/merged-5c51a686f6cb01c7eead0d713acf8182.css?1765894787" media="all">
-<link rel="stylesheet" type="text/css" href="/typo3temp/assets/compressed/merged-6300c39428913222e54208ec36bef96f.css?1765894787" media="print">
-
-
+<link rel="stylesheet" type="text/css" href="/typo3temp/assets/compressed/merged-0438d874a02f7086853f396872fd254d.css?1766390996" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3temp/assets/compressed/merged-ef435a5067249fda81e42e0791420ffa.css?1766390996" media="print">
 
 
-<script src="/typo3temp/assets/compressed/merged-5460594fda3d447cebf0ed2eedf765a4.js?1765894787"></script>
+
+
+<script src="/typo3temp/assets/compressed/merged-404bff3a6ee36371c0fd3e2b2a93ff34.js?1766390996"></script>
 
 
 
@@ -275,8 +275,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword6942b5959bd33">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword6942b5959bd33" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695a58868002a">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695a58868002a" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -377,8 +377,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword6942b595a3a05">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword6942b595a3a05" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695a588686986">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695a588686986" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -421,8 +421,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword6942b595acb2f">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword6942b595acb2f" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695a58868b77c">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695a58868b77c" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -443,11 +443,11 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
                             </option>
                           
                             <option value="30days" >
-                              30 Tage (35)
+                              30 Tage (36)
                             </option>
                           
                             <option value="1year" >
-                              1 Jahr (443)
+                              1 Jahr (445)
                             </option>
                           
                         </select>
@@ -463,7 +463,7 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
                             </option>
                           
                             <option value="Beruf" >
-                              Beruf (360)
+                              Beruf (362)
                             </option>
                           
                             <option value="Beziehung" >
@@ -471,11 +471,11 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
                             </option>
                           
                             <option value="Familie" >
-                              Familie (250)
+                              Familie (251)
                             </option>
                           
                             <option value="Gesellschaft" >
-                              Gesellschaft (821)
+                              Gesellschaft (822)
                             </option>
                           
                             <option value="Gesundheit" >
@@ -483,7 +483,7 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
                             </option>
                           
                             <option value="Leben" >
-                              Leben (1196)
+                              Leben (1197)
                             </option>
                           
                         </select>
@@ -499,7 +499,7 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
                             </option>
                           
                             <option value="Artikel" >
-                              Artikel (3462)
+                              Artikel (3467)
                             </option>
                           
                             <option value="Bücher" >
@@ -515,7 +515,7 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
                             </option>
                           
                             <option value="Webseiten" >
-                              Webseiten (71)
+                              Webseiten (68)
                             </option>
                           
                         </select>
@@ -961,7 +961,7 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
                   <div class="similarArticleWrap">
                     <div class="articleHeadliner">
                       
-<div class="articleWrap" data-uid="40860" data-publication-date="1604653680">
+<div class="articleWrap" data-uid="43509" data-publication-date="1718001000">
   
   <div class="articleTextWrap">
     
@@ -970,21 +970,23 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
   
   
       <span>
-        <a href="/beruf.html">Beruf</a>
+        <a href="/serien/der-literarische-patient.html">
+          Der literarische Patient
+        </a>
       </span>
     
   
 </div>
 
     <div class="articleTitle">
-      <a href="/beruf/artikel-detailansicht/40860-wie-gelingt-es-in-einer-therapie-gut-ueber-sex-zu-sprechen.html" title="Wie gelingt es, in einer Therapie gut über Sex zu sprechen?">
-        Wie gelingt es, in einer Therapie gut über Sex zu sprechen?
+      <a href="/leben/artikel-detailansicht/43509-quiz-welche-frau-spricht-hier-ueber-ihre-affaeren.html" title="Quiz: Welche Frau spricht hier über ihre Affären?">
+        Quiz: Welche Frau spricht hier über ihre Affären?
       </a>
     </div>
     
         
           <div class="articleDescription">
-            In Psychotherapien wird häufig über sehr schwere Themen gesprochen. Warum nicht häufiger über Sex?
+            Ihren Mann hält sie für sterbenslangweilig. Affären enden in Enttäuschungen. Aus welchem Buch stammt diese Frau, die Hilfe in der Psychoanalyse sucht?
           </div>
         
       
@@ -1032,11 +1034,11 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
 <div class="advertisementWrap">
   <div class="advertisementBoxWrap
           
-          advertisementInternalWrap
+          
+          advertisementExternalWrap
           
           
           
-          advertisementFullsize
           
   ">
     <small class="advertisementLabel">Anzeige</small>
@@ -1044,9 +1046,9 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
       
   <div class="articleWrap">
     <div class="articleImage">
-      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung intern','Selbsttest Burnout'))" target="_self" href="https://www.psychologie-heute.de/beruf/artikel-detailansicht/43988-test-wie-hoch-ist-mein-burnout-risiko.html">
+      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung extern','Campus_Atmen'))" target="_blank" href="https://www.campus.de/buecher-campus-verlag/business/personalmanagement/atmen-18193.html">
         
-          <img class="img-responsive" alt="Selbsttest Burnout" src="/fileadmin/user_upload/720x1120_burnouttest.jpg" width="720" height="1120" />
+          <img class="img-responsive" alt="Campus_Atmen" src="/fileadmin/user_upload/Atmen_Homepage.jpg" width="360" height="560" />
         
       </a>
     </div>
@@ -1566,33 +1568,6 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
   
   
       <span>
-        <a href="/serien/das-halbe-leben.html">
-          Das halbe Leben
-        </a>
-      </span>
-    
-  
-</div>
-
-          <a href="/beruf/artikel-detailansicht/44618-es-hat-mich-umgehauen.html" title="„Es hat mich umgehauen“">
-            <span class="articleTitle">
-              „Es hat mich umgehauen“
-            </span><br>
-            <span class="articleDescription">
-              Ein selbstständiger Softwareentwickler arbeitet viel und verdient viel. Er will leisten, frei sein, selbst entscheiden. Dann geht es nicht mehr
-            </span>
-          </a>
-        </div>
-      </li>
-    
-      <li>
-        <div class="articleWrap">
-          
-
-<div class="articleResort">
-  
-  
-      <span>
         <a href="/beziehung.html">Beziehung</a>
       </span>
     
@@ -1605,6 +1580,35 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
             </span><br>
             <span class="articleDescription">
               Liebesbeziehung werden zunehmend als toxisch bezeichnet. Psychologinnen sprechen eher von dysfunktionalen Beziehungen. Doch was heißt das überhaupt?
+            </span>
+          </a>
+        </div>
+      </li>
+    
+      <li>
+        <div class="articleWrap">
+          
+
+<div class="articleResort">
+  
+    <span class="icoPHplus"></span>
+  
+  
+      <span>
+        <a href="/serien/selbsttests.html">
+          Selbsttests
+        </a>
+      </span>
+    
+  
+</div>
+
+          <a href="/leben/artikel-detailansicht/43388-test-wer-bin-ich.html" title="Test: Wer bin ich?">
+            <span class="articleTitle">
+              Test: Wer bin ich?
+            </span><br>
+            <span class="articleDescription">
+              Die Psychologie hat die Big-Five-Persönlichkeitseigenschaften definiert, die den Charakter mitbestimmen. Unser Test gibt Auskunft über Ihr Profil
             </span>
           </a>
         </div>
@@ -2536,7 +2540,7 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
             <div class="separator hidden-xs hidden-sm"></div>
            <div class="navFooterMetaWrap clearfix">
               
-    <div>&copy;<span>&nbsp;2025&nbsp;</span> Verlagsgruppe Beltz</div><ul class="navFooterMeta"><li><a href="/impressum.html" title="Impressum">Impressum</a></li><li><a href="/agb.html" title="AGB">AGB</a></li><li><a href="/datenschutz.html" title="Datenschutz">Datenschutz</a></li><li><a href="/navmeta/barrierefreiheit.html" title="Barrierefreiheit">Barrierefreiheit</a></li><li><a href="/vertrag-kuendigen.html" title="Vertrag kündigen">Vertrag kündigen</a></li></ul><ul class="navFooterMeta"><li><a href="#" rel="nofollow" data-cc="c-settings">Cookie-Einstellungen</a></li></ul>
+    <div>&copy;<span>&nbsp;2026&nbsp;</span> Verlagsgruppe Beltz</div><ul class="navFooterMeta"><li><a href="/impressum.html" title="Impressum">Impressum</a></li><li><a href="/agb.html" title="AGB">AGB</a></li><li><a href="/datenschutz.html" title="Datenschutz">Datenschutz</a></li><li><a href="/navmeta/barrierefreiheit.html" title="Barrierefreiheit">Barrierefreiheit</a></li><li><a href="/vertrag-kuendigen.html" title="Vertrag kündigen">Vertrag kündigen</a></li></ul><ul class="navFooterMeta"><li><a href="#" rel="nofollow" data-cc="c-settings">Cookie-Einstellungen</a></li></ul>
   
             </div>
           </div>
@@ -2561,7 +2565,7 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
                 
     
 
-            <div id="c205607" class="frame frame-default frame-type-textmedia frame-layout-110">
+            <div id="c206367" class="frame frame-default frame-type-textmedia frame-layout-110">
                 
                 
                     
@@ -2606,9 +2610,9 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
 <figure class="image">
 	
 			
-					<a href="/abo-shop/abonnement/geschenk-abo/weihnachts-abo.html">
+					<a href="/abo-shop/print-abo/neustart-abo.html">
 						
-<img class="image-embed-item" alt="Weihnachtsgeschenk mit Mehrwert: 12 Ausgaben Psychologie Heute" src="/fileadmin/user_upload/1521x1015_weihnachtsgeschenkabo_2025.jpg" width="1521" height="1015" loading="lazy" />
+<img class="image-embed-item" alt="Neustartabo: 3 Ausgaben für nur 15 EUR - jetzt bestellen" src="/fileadmin/user_upload/1521x1015_PH-Neustartabo_2026.jpg" width="1521" height="1015" loading="lazy" />
 
 
 					</a>
@@ -2636,9 +2640,9 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
 <figure class="image">
 	
 			
-					<a href="/abo-shop/abonnement/geschenk-abo/weihnachts-abo.html">
+					<a href="/abo-shop/print-abo/neustart-abo.html">
 						
-<img class="image-embed-item" alt="Weihnachtsgeschenk mit Mehrwert: 12 Ausgaben Psychologie Heute" src="/fileadmin/_processed_/d/4/csm_3261x234_weihnachtsgeschenkabo_2025_350325ab06.jpg" width="2320" height="166" loading="lazy" />
+<img class="image-embed-item" alt="Neustartabo: 3 Ausgaben für nur 15 EUR - jetzt bestellen" src="/fileadmin/_processed_/2/f/csm_3261x234_PH-Neustartabo_2026_c9a1a49e7e.jpg" width="2320" height="166" loading="lazy" />
 
 
 					</a>
@@ -2700,7 +2704,7 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
         </div>
       </div>
 
-<script src="/typo3temp/assets/compressed/merged-4f73351ec59e2e42466d9a8b188c83ff.js?1765894787"></script>
+<script src="/typo3temp/assets/compressed/merged-51410da27c9d0bcb992ab1c6ce64bdf3.js?1766390996"></script>
 
 
 <!-- SZM VERSION="2.0" -->

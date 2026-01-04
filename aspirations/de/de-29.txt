@@ -90,7 +90,7 @@
 	<script>
 	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','//connect.facebook.net/en_US/fbevents.js');
 	fbq('init', '717914701625232');
-	fbq('track', 'PageView', {}, { eventID: 'ec0716e64f9776933ae7e22b3d3e0cf7' });
+	fbq('track', 'PageView', {}, { eventID: '63a01cbb29c4647be853421d6e253fb1' });
 	</script>
 	<script>
 	function updateOversize() { $('.blockcontainer-oversize').not('.fixed-height').each(function() { $(this).height($(this).find('.block-oversize').outerHeight())}); }
@@ -3573,7 +3573,7 @@
 					</ul>
 				</div>
 				<div id="commodity-lister-info" class="container">
-					<h1 id="commodity-lister-info-headline" class="headline">Fantasie Lingerie<span id="commodity-lister-headline-count">56 Waren</span></h1>
+					<h1 id="commodity-lister-info-headline" class="headline">Fantasie Lingerie<span id="commodity-lister-headline-count">54 Waren</span></h1>
 					<div id="commodity-lister-info-body" class="description">
 						<div class="lms space-after">		Fantasie ist ein Experte im Kreieren von wunderschönen, bequemen und		eleganten Dessous für Frauen mit großen Cups. Die englische Marke		bietet eine Vielzahl an attraktiver Basic-Wäsche für jeden Tag an.										    mehr info										    <br><br>	<div class="small-tablet more-content">			Der T-Shirt BH		<a href="/brand/fantasie#series%5B%5D=rebecca&amp;o=newest">Rebecca</a> besteht aus nahtlosen Spacer Cups und			geometrischen, verspielten Stickereien am vorderen Unterbrustband. In			der Kollektion		<a href="/brand/fantasie#series%5B%5D=smoothing&amp;o=newest">Smoothing</a> lassen sich Bügel-BHs mit glatten Cups und			breiten Trägern finden, welche für einen optimalen Halt sorgen.			Auch ein wattierter			Bügel-BH, dessen Träger abgenommen werden			können, gehört zu dieser Kollektion dazu.		<br>			Die			Corsage		<a href="/brand/fantasie#series%5B%5D=ella&amp;o=newest">Ella</a> eignet sich hervorragend für die zukünftige Braut.		<br>		<br>			Fantasie arbeitet mit dem englischen Größensystem. Bei uns kaufen Sie inder europäischen Größe. Die englische Größe wird hinter dereuropäischen Größe in Klammern aufgeführt. 		<br>		<br>		<br>			Modische, bequeme und attraktive Bademode für große Cups gibt es bei		<a href="/brand/fantasie-swimwear">Fantasie Swim</a>.		<br>		<br>	</div></div>
 					</div>
@@ -3592,10 +3592,10 @@
 											<a href="https://www.lace.de/brand/fantasie?category%5B%5D=bra-nonpadded" rel="nofollow">BH - nicht wattiert <span>20</span></a>
 										</li>
 										<li id="commodity-lister-filter-category-option-spacer-t-shirt-bra">
-											<a href="https://www.lace.de/brand/fantasie?category%5B%5D=spacer-t-shirt-bra" rel="nofollow">BH - Spacer T-Shirt <span>9</span></a>
+											<a href="https://www.lace.de/brand/fantasie?category%5B%5D=spacer-t-shirt-bra" rel="nofollow">BH - Spacer T-Shirt <span>8</span></a>
 										</li>
 										<li id="commodity-lister-filter-category-option-t-shirt_bh">
-											<a href="https://www.lace.de/brand/fantasie?category%5B%5D=t-shirt_bh" rel="nofollow">BH - T-shirt <span>9</span></a>
+											<a href="https://www.lace.de/brand/fantasie?category%5B%5D=t-shirt_bh" rel="nofollow">BH - T-shirt <span>8</span></a>
 										</li>
 										<li id="commodity-lister-filter-category-option-bh_m_bjle">
 											<a href="https://www.lace.de/brand/fantasie?category%5B%5D=bh_m_bjle" rel="nofollow">BH - Vollschalen <span>17</span></a>
@@ -3604,13 +3604,13 @@
 											<a href="https://www.lace.de/brand/fantasie?category%5B%5D=moulded-bra" rel="nofollow">BH - Vorgeformter <span>3</span></a>
 										</li>
 										<li id="commodity-lister-filter-category-option-bra-padded">
-											<a href="https://www.lace.de/brand/fantasie?category%5B%5D=bra-padded" rel="nofollow">BH - Wattiert <span>9</span></a>
+											<a href="https://www.lace.de/brand/fantasie?category%5B%5D=bra-padded" rel="nofollow">BH - Wattiert <span>8</span></a>
 										</li>
 										<li id="commodity-lister-filter-category-option-panty_long">
 											<a href="https://www.lace.de/brand/fantasie?category%5B%5D=panty_long" rel="nofollow">Panty Long <span>1</span></a>
 										</li>
 										<li id="commodity-lister-filter-category-option-tai_trusse">
-											<a href="https://www.lace.de/brand/fantasie?category%5B%5D=tai_trusse" rel="nofollow">Rio Slip <span>10</span></a>
+											<a href="https://www.lace.de/brand/fantasie?category%5B%5D=tai_trusse" rel="nofollow">Rio Slip <span>9</span></a>
 										</li>
 										<li id="commodity-lister-filter-category-option-high_waist_panty">
 											<a href="https://www.lace.de/brand/fantasie?category%5B%5D=high_waist_panty" rel="nofollow">Shapewear - Hochsitzender <span>2</span></a>
@@ -3648,7 +3648,7 @@
 											<a href="https://www.lace.de/brand/fantasie?series%5B%5D=ease" rel="nofollow">Ease <span>10</span></a>
 										</li>
 										<li id="commodity-lister-filter-series-option-envisage">
-											<a href="https://www.lace.de/brand/fantasie?series%5B%5D=envisage" rel="nofollow">Envisage <span>6</span></a>
+											<a href="https://www.lace.de/brand/fantasie?series%5B%5D=envisage" rel="nofollow">Envisage <span>5</span></a>
 										</li>
 										<li id="commodity-lister-filter-series-option-fantasie-elevate">
 											<a href="https://www.lace.de/brand/fantasie?series%5B%5D=fantasie-elevate" rel="nofollow">Fantasie Elevate <span>1</span></a>
@@ -3672,7 +3672,7 @@
 											<a href="https://www.lace.de/brand/fantasie?series%5B%5D=rebecca-essentials" rel="nofollow">Rebecca Essentials <span>6</span></a>
 										</li>
 										<li id="commodity-lister-filter-series-option-reflect">
-											<a href="https://www.lace.de/brand/fantasie?series%5B%5D=reflect" rel="nofollow">Reflect <span>12</span></a>
+											<a href="https://www.lace.de/brand/fantasie?series%5B%5D=reflect" rel="nofollow">Reflect <span>11</span></a>
 										</li>
 										<li id="commodity-lister-filter-series-option-smoothing">
 											<a href="https://www.lace.de/brand/fantasie?series%5B%5D=smoothing" rel="nofollow">Smoothing <span>3</span></a>
@@ -3692,7 +3692,7 @@
 											<a href="https://www.lace.de/brand/fantasie?color%5B%5D=BLUE" rel="nofollow">BLUE <span>5</span></a>
 										</li>
 										<li id="commodity-lister-filter-color-option-green">
-											<a href="https://www.lace.de/brand/fantasie?color%5B%5D=GREEN" rel="nofollow">GREEN <span>4</span></a>
+											<a href="https://www.lace.de/brand/fantasie?color%5B%5D=GREEN" rel="nofollow">GREEN <span>3</span></a>
 										</li>
 										<li id="commodity-lister-filter-color-option-mix">
 											<a href="https://www.lace.de/brand/fantasie?color%5B%5D=MIX" rel="nofollow">MIX <span>1</span></a>
@@ -3701,7 +3701,7 @@
 											<a href="https://www.lace.de/brand/fantasie?color%5B%5D=NUDE" rel="nofollow">NUDE <span>18</span></a>
 										</li>
 										<li id="commodity-lister-filter-color-option-pink">
-											<a href="https://www.lace.de/brand/fantasie?color%5B%5D=PINK" rel="nofollow">PINK <span>4</span></a>
+											<a href="https://www.lace.de/brand/fantasie?color%5B%5D=PINK" rel="nofollow">PINK <span>3</span></a>
 										</li>
 										<li id="commodity-lister-filter-color-option-red">
 											<a href="https://www.lace.de/brand/fantasie?color%5B%5D=RED" rel="nofollow">RED <span>2</span></a>
@@ -3724,13 +3724,13 @@
 											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=S" rel="nofollow">S <span>7</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-m">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=M" rel="nofollow">M <span>12</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=M" rel="nofollow">M <span>10</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-l">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=L" rel="nofollow">L <span>8</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=L" rel="nofollow">L <span>7</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-xl">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=XL" rel="nofollow">XL <span>7</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=XL" rel="nofollow">XL <span>5</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-xxl">
 											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=XXL" rel="nofollow">XXL <span>5</span></a>
@@ -3742,37 +3742,37 @@
 											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=65H" rel="nofollow">65H <span>10</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-65i">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=65I" rel="nofollow">65I <span>19</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=65I" rel="nofollow">65I <span>20</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-65j">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=65J" rel="nofollow">65J <span>14</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=65J" rel="nofollow">65J <span>15</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-65k">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=65K" rel="nofollow">65K <span>12</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=65K" rel="nofollow">65K <span>10</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-65l">
 											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=65L" rel="nofollow">65L <span>3</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-65m">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=65M" rel="nofollow">65M <span>4</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=65M" rel="nofollow">65M <span>3</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-70f">
 											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=70F" rel="nofollow">70F <span>4</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-70g">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=70G" rel="nofollow">70G <span>16</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=70G" rel="nofollow">70G <span>15</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-70h">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=70H" rel="nofollow">70H <span>21</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=70H" rel="nofollow">70H <span>22</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-70i">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=70I" rel="nofollow">70I <span>22</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=70I" rel="nofollow">70I <span>21</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-70j">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=70J" rel="nofollow">70J <span>19</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=70J" rel="nofollow">70J <span>16</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-70k">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=70K" rel="nofollow">70K <span>14</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=70K" rel="nofollow">70K <span>13</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-70l">
 											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=70L" rel="nofollow">70L <span>3</span></a>
@@ -3784,19 +3784,19 @@
 											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=75F" rel="nofollow">75F <span>7</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-75g">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=75G" rel="nofollow">75G <span>20</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=75G" rel="nofollow">75G <span>17</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-75h">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=75H" rel="nofollow">75H <span>23</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=75H" rel="nofollow">75H <span>21</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-75i">
 											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=75I" rel="nofollow">75I <span>23</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-75j">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=75J" rel="nofollow">75J <span>21</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=75J" rel="nofollow">75J <span>19</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-75k">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=75K" rel="nofollow">75K <span>16</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=75K" rel="nofollow">75K <span>15</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-75l">
 											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=75L" rel="nofollow">75L <span>4</span></a>
@@ -3808,19 +3808,19 @@
 											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=80F" rel="nofollow">80F <span>8</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-80g">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=80G" rel="nofollow">80G <span>19</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=80G" rel="nofollow">80G <span>17</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-80h">
 											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=80H" rel="nofollow">80H <span>20</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-80i">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=80I" rel="nofollow">80I <span>22</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=80I" rel="nofollow">80I <span>20</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-80j">
 											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=80J" rel="nofollow">80J <span>18</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-80k">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=80K" rel="nofollow">80K <span>11</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=80K" rel="nofollow">80K <span>10</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-80l">
 											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=80L" rel="nofollow">80L <span>4</span></a>
@@ -3829,25 +3829,25 @@
 											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=80M" rel="nofollow">80M <span>4</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-85f">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=85F" rel="nofollow">85F <span>8</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=85F" rel="nofollow">85F <span>7</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-85g">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=85G" rel="nofollow">85G <span>20</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=85G" rel="nofollow">85G <span>19</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-85h">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=85H" rel="nofollow">85H <span>17</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=85H" rel="nofollow">85H <span>15</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-85i">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=85I" rel="nofollow">85I <span>21</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=85I" rel="nofollow">85I <span>18</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-85j">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=85J" rel="nofollow">85J <span>11</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=85J" rel="nofollow">85J <span>10</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-85k">
 											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=85K" rel="nofollow">85K <span>8</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-85l">
-											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=85L" rel="nofollow">85L <span>4</span></a>
+											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=85L" rel="nofollow">85L <span>3</span></a>
 										</li>
 										<li id="commodity-lister-filter-size-option-85m">
 											<a href="https://www.lace.de/brand/fantasie?size%5B%5D=85M" rel="nofollow">85M <span>4</span></a>
@@ -3928,10 +3928,6 @@
 											<li>65K= (30H UK)</li>
 											<li>70H= (32FF UK)</li>
 											<li>70I= (32G UK)</li>
-											<li>70J= (32GG UK)</li>
-											<li>70K= (32H UK)</li>
-											<li>75G= (34F UK)</li>
-											<li>75H= (34FF UK)</li>
 											<li>75I= (34G UK)</li>
 											<li>75J= (34GG UK)</li>
 											<li>75K= (34H UK)</li>
@@ -3942,9 +3938,6 @@
 											<li>80K= (36H UK)</li>
 											<li>85G= (38F UK)</li>
 											<li>85H= (38FF UK)</li>
-											<li>85I= (38G UK)</li>
-											<li>85J= (38GG UK)</li>
-											<li>85K= (38H UK)</li>
 										</ul>
 									</span>
 									<span class="list-commodity-brand">Fantasie Lingerie</span>
@@ -4023,6 +4016,15 @@
 								</span>
 							</a>
 						</li>
+						<li id="list-commodity-banner-892-295546" class="list-commodity-line list-commodity-banner list-cols-1">
+							<a href="">
+								<span class="list-commodity-image">
+									<span class="list-commodity-overlay">
+									</span>
+									<span><img src="https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h549w280_height.jpg" alt="Fantasie Sale 2025" title="Fantasie Sale 2025" srcset="https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h549w280_height.jpg 280w, https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h1098w560_height.jpg 560w" sizes="280px" /></span>
+								</span>
+							</a>
+						</li>
 						<li id="list-commodity-30938" class="list-commodity-line">
 							<span class="list-commodity-logo">
 								<span><img src="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg" alt="Fantasie Lingerie" title="Fantasie Lingerie" srcset="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg 100w, https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h48w200_min.jpg 200w" sizes="100px" /></span>
@@ -4033,9 +4035,6 @@
 								</li>
 								<li style="background-color: #ff0000">
 									<a href="https://www.lace.de/commodity/29614-fantasie-lingerie-reflect-spacer-t-shirt-bh-g-j-cup" title="RED">RED</a>
-								</li>
-								<li style="background-color: #A1B5B3">
-									<a href="https://www.lace.de/commodity/30067-fantasie-lingerie-reflect-spacer-t-shirt-bh-g-j-cup" title="MIST">MIST</a>
 								</li>
 							</ul>
 							<a href="https://www.lace.de/commodity/30938-fantasie-lingerie-reflect-spacer-t-shirt-bh-g-j-cup" class="hasimages">
@@ -4061,6 +4060,7 @@
 											<li>80G= (36F UK)</li>
 											<li>80H= (36FF UK)</li>
 											<li>80I= (36G UK)</li>
+											<li>80J= (36GG UK)</li>
 											<li>85G= (38F UK)</li>
 											<li>85H= (38FF UK)</li>
 											<li>85I= (38G UK)</li>
@@ -4105,7 +4105,6 @@
 											<li>65I= (30G UK)</li>
 											<li>65J= (30GG UK)</li>
 											<li>65K= (30H UK)</li>
-											<li>65M= (30J UK)</li>
 											<li>70I= (32G UK)</li>
 											<li>70J= (32GG UK)</li>
 											<li>70K= (32H UK)</li>
@@ -4122,7 +4121,7 @@
 											<li>80M= (36J UK)</li>
 											<li>85I= (38G UK)</li>
 											<li>85J= (38GG UK)</li>
-											<li>85L= (38HH UK)</li>
+											<li>85K= (38H UK)</li>
 											<li>85M= (38J UK)</li>
 										</ul>
 									</span>
@@ -4151,6 +4150,7 @@
 								</li>
 							</ul>
 							<a href="https://www.lace.de/commodity/30935-fantasie-lingerie-fusion-bh-g-k-cup" class="hasimages">
+								<span class="list-commodity-overlay-sale">-25%</span>
 								<span class="list-commodity-image">
 									<span class="list-commodity-overlay">
 										<span class="list-commodity-overlay-video">Video</span>
@@ -4161,22 +4161,22 @@
 									<span class="list-commodity-sizes">
 										<span class="subheadline">Sizes in stock</span>
 										<ul>
-											<li>70J= (32GG UK)</li>
-											<li>75G= (34F UK)</li>
-											<li>75H= (34FF UK)</li>
+											<li>70H= (32FF UK)</li>
 											<li>75J= (34GG UK)</li>
-											<li>80G= (36F UK)</li>
-											<li>80H= (36FF UK)</li>
-											<li>80I= (36G UK)</li>
-											<li>80J= (36GG UK)</li>
 											<li>85I= (38G UK)</li>
 										</ul>
 									</span>
 									<span class="list-commodity-brand">Fantasie Lingerie</span>
 									<span class="list-commodity-title">Fusion BH G-K Cup</span>
-									<span class="list-commodity-price">EUR 60,95</span>
+									<span class="list-commodity-offer">EUR 45,71</span>
 								</span>
 							</a>
+							<span class="list-commodity-lowestprice-container">
+								<span class="list-commodity-lowestprice-label">Bestpreis</span>
+								<span class="list-commodity-lowestprice">EUR 44,96</span>
+								<a class="list-commodity-lowestprice-toggle" href="" onclick="$(this).parent().find('.list-commodity-lowestprice-info').toggleClass('hidden'); return false;">Info</a>
+								<span class="list-commodity-lowestprice-info hidden">Dies ist der niedrigste Preis in den letzten 30 Tagen.</span>
+							</span>
 						</li>
 						<li id="list-commodity-30074" class="list-commodity-line">
 							<span class="list-commodity-logo">
@@ -4203,6 +4203,7 @@
 											<li>65J= (30GG UK)</li>
 											<li>70H= (32FF UK)</li>
 											<li>75H= (34FF UK)</li>
+											<li>80H= (36FF UK)</li>
 										</ul>
 									</span>
 									<span class="list-commodity-brand">Fantasie Lingerie</span>
@@ -4233,7 +4234,7 @@
 								</li>
 							</ul>
 							<a href="https://www.lace.de/commodity/30071-fantasie-lingerie-envisage-bh-g-k-cup" class="hasimages">
-								<span class="list-commodity-overlay-sale">-25%</span>
+								<span class="list-commodity-overlay-sale">-35%</span>
 								<span class="list-commodity-image">
 									<span class="list-commodity-overlay">
 										<span class="list-commodity-overlay-video">Video</span>
@@ -4246,67 +4247,18 @@
 										<ul>
 											<li>70H= (32FF UK)</li>
 											<li>70I= (32G UK)</li>
-											<li>75H= (34FF UK)</li>
-											<li>75J= (34GG UK)</li>
-											<li>80H= (36FF UK)</li>
 											<li>80J= (36GG UK)</li>
-											<li>80K= (36H UK)</li>
-											<li>85G= (38F UK)</li>
-											<li>85I= (38G UK)</li>
 											<li>85J= (38GG UK)</li>
 										</ul>
 									</span>
 									<span class="list-commodity-brand">Fantasie Lingerie</span>
 									<span class="list-commodity-title">Envisage BH G-K Cup</span>
-									<span class="list-commodity-offer">EUR 44,96</span>
+									<span class="list-commodity-offer">EUR 38,97</span>
 								</span>
 							</a>
 							<span class="list-commodity-lowestprice-container">
 								<span class="list-commodity-lowestprice-label">Bestpreis</span>
-								<span class="list-commodity-lowestprice">EUR 44,96</span>
-								<a class="list-commodity-lowestprice-toggle" href="" onclick="$(this).parent().find('.list-commodity-lowestprice-info').toggleClass('hidden'); return false;">Info</a>
-								<span class="list-commodity-lowestprice-info hidden">Dies ist der niedrigste Preis in den letzten 30 Tagen.</span>
-							</span>
-						</li>
-						<li id="list-commodity-30067" class="list-commodity-line">
-							<span class="list-commodity-logo">
-								<span><img src="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg" alt="Fantasie Lingerie" title="Fantasie Lingerie" srcset="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg 100w, https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h48w200_min.jpg 200w" sizes="100px" /></span>
-							</span>
-							<ul class="list-commodity-rgbs">
-								<li style="background-color: #A1B5B3">
-									<a href="https://www.lace.de/commodity/30067-fantasie-lingerie-reflect-spacer-t-shirt-bh-g-j-cup" title="MIST">MIST</a>
-								</li>
-								<li style="background-color: #ff0000">
-									<a href="https://www.lace.de/commodity/29614-fantasie-lingerie-reflect-spacer-t-shirt-bh-g-j-cup" title="RED">RED</a>
-								</li>
-								<li style="background-color: #000080">
-									<a href="https://www.lace.de/commodity/30938-fantasie-lingerie-reflect-spacer-t-shirt-bh-g-j-cup" title="NAVY">NAVY</a>
-								</li>
-							</ul>
-							<a href="https://www.lace.de/commodity/30067-fantasie-lingerie-reflect-spacer-t-shirt-bh-g-j-cup" class="hasimages">
-								<span class="list-commodity-overlay-sale">-40%</span>
-								<span class="list-commodity-image">
-									<span class="list-commodity-overlay">
-										<span class="list-commodity-overlay-video">Video</span>
-									</span>
-									<span><img src="https://www.lace.de/shared/a/a59f51d5bc5d696d21c32524fa53ebfa_h420w280_crop.jpg" alt="Fantasie Lingerie - Reflect Spacer T-shirt BH G-J Cup" title="Fantasie Lingerie - Reflect Spacer T-shirt BH G-J Cup" srcset="https://www.lace.de/shared/a/a59f51d5bc5d696d21c32524fa53ebfa_h420w280_crop.jpg 280w, https://www.lace.de/shared/a/a59f51d5bc5d696d21c32524fa53ebfa_h840w560_crop.jpg 560w" sizes="280px" /><img src="https://www.lace.de/shared/7/789e77d9366c709b2865e5f69b8af491_h420w280_crop.jpg" alt="Fantasie Lingerie - Reflect Spacer T-shirt BH G-J Cup" title="Fantasie Lingerie - Reflect Spacer T-shirt BH G-J Cup" srcset="https://www.lace.de/shared/7/789e77d9366c709b2865e5f69b8af491_h420w280_crop.jpg 280w, https://www.lace.de/shared/7/789e77d9366c709b2865e5f69b8af491_h840w560_crop.jpg 560w" sizes="280px" /></span>
-								</span>
-								<span class="list-commodity-container">
-									<span class="list-commodity-sizes">
-										<span class="subheadline">Sizes in stock</span>
-										<ul>
-											<li>70J= (32GG UK)</li>
-											<li>75J= (34GG UK)</li>
-										</ul>
-									</span>
-									<span class="list-commodity-brand">Fantasie Lingerie</span>
-									<span class="list-commodity-title">Reflect Spacer T-shirt BH G-J Cup</span>
-									<span class="list-commodity-offer">EUR 40,77</span>
-								</span>
-							</a>
-							<span class="list-commodity-lowestprice-container">
-								<span class="list-commodity-lowestprice-label">Bestpreis</span>
-								<span class="list-commodity-lowestprice">EUR 40,77</span>
+								<span class="list-commodity-lowestprice">EUR 38,32</span>
 								<a class="list-commodity-lowestprice-toggle" href="" onclick="$(this).parent().find('.list-commodity-lowestprice-info').toggleClass('hidden'); return false;">Info</a>
 								<span class="list-commodity-lowestprice-info hidden">Dies ist der niedrigste Preis in den letzten 30 Tagen.</span>
 							</span>
@@ -4317,7 +4269,7 @@
 							</span>
 							<ul class="list-commodity-rgbs">
 								<li style="background-color: #E6B8C1">
-									<a href="https://www.lace.de/commodity/30064-fantasie-lingerie-pippa-bh-g-k-cup" title="RASPBERRY RIPPLE">RASPBERRY RIPPLE</a>
+									<a href="https://www.LACE.de/commodity/30064-fantasie-lingerie-pippa-bh-g-k-cup" title="RASPBERRY RIPPLE">RASPBERRY RIPPLE</a>
 								</li>
 							</ul>
 							<a href="https://www.lace.de/commodity/30064-fantasie-lingerie-pippa-bh-g-k-cup" class="hasimages">
@@ -4399,6 +4351,15 @@
 								</span>
 							</a>
 						</li>
+						<li id="list-commodity-banner-869-293581" class="list-commodity-line list-commodity-banner list-cols-1">
+							<a href="https://www.lace.de/fantasie-swim">
+								<span class="list-commodity-image">
+									<span class="list-commodity-overlay">
+									</span>
+									<span><img src="https://www.lace.de/shared/9/98c1f667b0044d042c39dbb6a681bbf0_h549w280_height.gif" alt="Fantasie Swim ss25" title="Fantasie Swim ss25" /></span>
+								</span>
+							</a>
+						</li>
 						<li id="list-commodity-29617" class="list-commodity-line">
 							<span class="list-commodity-logo">
 								<span><img src="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg" alt="Fantasie Lingerie" title="Fantasie Lingerie" srcset="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg 100w, https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h48w200_min.jpg 200w" sizes="100px" /></span>
@@ -4422,6 +4383,7 @@
 										<ul>
 											<li>65G= (30F UK)</li>
 											<li>65H= (30FF UK)</li>
+											<li>65I= (30G UK)</li>
 											<li>65J= (30GG UK)</li>
 											<li>65K= (30H UK)</li>
 											<li>70F= (32E UK)</li>
@@ -4504,7 +4466,6 @@
 											<li>80F= (36E UK)</li>
 											<li>80G= (36F UK)</li>
 											<li>80H= (36FF UK)</li>
-											<li>85F= (38E UK)</li>
 											<li>85G= (38F UK)</li>
 											<li>85H= (38FF UK)</li>
 											<li>90G</li>
@@ -4553,11 +4514,9 @@
 											<li>65I= (30G UK)</li>
 											<li>65J= (30GG UK)</li>
 											<li>65K= (30H UK)</li>
-											<li>70H= (32FF UK)</li>
 											<li>70I= (32G UK)</li>
 											<li>70J= (32GG UK)</li>
 											<li>70K= (32H UK)</li>
-											<li>75G= (34F UK)</li>
 											<li>75H= (34FF UK)</li>
 											<li>75I= (34G UK)</li>
 											<li>75J= (34GG UK)</li>
@@ -4621,9 +4580,7 @@
 											<li>65L= (30HH UK)</li>
 											<li>65M= (30J UK)</li>
 											<li>70I= (32G UK)</li>
-											<li>70J= (32GG UK)</li>
 											<li>70K= (32H UK)</li>
-											<li>70L= (32HH UK)</li>
 											<li>70M= (32J UK)</li>
 											<li>75I= (34G UK)</li>
 											<li>75J= (34GG UK)</li>
@@ -4645,15 +4602,6 @@
 									<span class="list-commodity-brand">Fantasie Lingerie</span>
 									<span class="list-commodity-title">Reflect BH I-M Cup</span>
 									<span class="list-commodity-price">EUR 62,95</span>
-								</span>
-							</a>
-						</li>
-						<li id="list-commodity-banner-869-293581" class="list-commodity-line list-commodity-banner list-cols-1">
-							<a href="https://www.lace.de/fantasie-swim">
-								<span class="list-commodity-image">
-									<span class="list-commodity-overlay">
-									</span>
-									<span><img src="https://www.lace.de/shared/9/98c1f667b0044d042c39dbb6a681bbf0_h549w280_height.gif" alt="Fantasie Swim ss25" title="Fantasie Swim ss25" /></span>
 								</span>
 							</a>
 						</li>
@@ -4748,11 +4696,9 @@
 										<ul>
 											<li>65I= (30G UK)</li>
 											<li>65J= (30GG UK)</li>
-											<li>70G= (32F UK)</li>
 											<li>70H= (32FF UK)</li>
 											<li>75H= (34FF UK)</li>
 											<li>80F= (36E UK)</li>
-											<li>80I= (36G UK)</li>
 											<li>85F= (38E UK)</li>
 											<li>85G= (38F UK)</li>
 										</ul>
@@ -4796,9 +4742,9 @@
 											<li>65H= (30FF UK)</li>
 											<li>70G= (32F UK)</li>
 											<li>70H= (32FF UK)</li>
+											<li>70J= (32GG UK)</li>
 											<li>75G= (34F UK)</li>
 											<li>75H= (34FF UK)</li>
-											<li>80G= (36F UK)</li>
 										</ul>
 									</span>
 									<span class="list-commodity-brand">Fantasie Lingerie</span>
@@ -4812,6 +4758,15 @@
 								<a class="list-commodity-lowestprice-toggle" href="" onclick="$(this).parent().find('.list-commodity-lowestprice-info').toggleClass('hidden'); return false;">Info</a>
 								<span class="list-commodity-lowestprice-info hidden">Dies ist der niedrigste Preis in den letzten 30 Tagen.</span>
 							</span>
+						</li>
+						<li id="list-commodity-banner-892-295546" class="list-commodity-line list-commodity-banner list-cols-1">
+							<a href="">
+								<span class="list-commodity-image">
+									<span class="list-commodity-overlay">
+									</span>
+									<span><img src="https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h549w280_height.jpg" alt="Fantasie Sale 2025" title="Fantasie Sale 2025" srcset="https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h549w280_height.jpg 280w, https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h1098w560_height.jpg 560w" sizes="280px" /></span>
+								</span>
+							</a>
 						</li>
 						<li id="list-commodity-28770" class="list-commodity-line">
 							<span class="list-commodity-logo">
@@ -5110,7 +5065,6 @@
 											<li>75H= (34FF UK)</li>
 											<li>75I= (34G UK)</li>
 											<li>75J= (34GG UK)</li>
-											<li>75K= (34H UK)</li>
 											<li>80F= (36E UK)</li>
 											<li>80G= (36F UK)</li>
 											<li>80H= (36FF UK)</li>
@@ -5118,7 +5072,6 @@
 											<li>80J= (36GG UK)</li>
 											<li>85F= (38E UK)</li>
 											<li>85G= (38F UK)</li>
-											<li>85H= (38FF UK)</li>
 											<li>85I= (38G UK)</li>
 											<li>90G</li>
 											<li>90H</li>
@@ -5173,9 +5126,7 @@
 											<li>70F= (32E UK)</li>
 											<li>70G= (32F UK)</li>
 											<li>70H= (32FF UK)</li>
-											<li>70I= (32G UK)</li>
 											<li>70J= (32GG UK)</li>
-											<li>70K= (32H UK)</li>
 											<li>75F= (34E UK)</li>
 											<li>75G= (34F UK)</li>
 											<li>75H= (34FF UK)</li>
@@ -5190,7 +5141,6 @@
 											<li>85F= (38E UK)</li>
 											<li>85G= (38F UK)</li>
 											<li>85H= (38FF UK)</li>
-											<li>85I= (38G UK)</li>
 										</ul>
 									</span>
 									<span class="list-commodity-brand">Fantasie Lingerie</span>
@@ -5249,7 +5199,6 @@
 											<li>80J= (36GG UK)</li>
 											<li>80K= (36H UK)</li>
 											<li>85G= (38F UK)</li>
-											<li>85H= (38FF UK)</li>
 											<li>85I= (38G UK)</li>
 											<li>85J= (38GG UK)</li>
 											<li>85K= (38H UK)</li>
@@ -5329,13 +5278,13 @@
 							</span>
 							<ul class="list-commodity-rgbs">
 								<li style="background-color: #ffdbac">
-									<a href="https://www.lace.de/commodity/9424-fantasie-lingerie-smoothing-bh-g-i-cup" title="NUDE">NUDE</a>
+									<a href="https://www.LACE.de/commodity/9424-fantasie-lingerie-smoothing-bh-g-i-cup" title="NUDE">NUDE</a>
 								</li>
 								<li style="background-color: #ffffff">
-									<a href="https://www.lace.de/commodity/3462-fantasie-lingerie-smoothing-bh-g-i-cup" title="WHITE">WHITE</a>
+									<a href="https://www.LACE.de/commodity/3462-fantasie-lingerie-smoothing-bh-g-i-cup" title="WHITE">WHITE</a>
 								</li>
 								<li style="background-color: #000000">
-									<a href="https://www.lace.de/commodity/9423-fantasie-lingerie-smoothing-bh-g-i-cup" title="BLACK">BLACK</a>
+									<a href="https://www.LACE.de/commodity/9423-fantasie-lingerie-smoothing-bh-g-i-cup" title="BLACK">BLACK</a>
 								</li>
 							</ul>
 							<a href="https://www.lace.de/commodity/9424-fantasie-lingerie-smoothing-bh-g-i-cup" class="hasimages">
@@ -5364,7 +5313,6 @@
 											<li>80I= (36G UK)</li>
 											<li>85G= (38F UK)</li>
 											<li>85H= (38FF UK)</li>
-											<li>85I= (38G UK)</li>
 										</ul>
 									</span>
 									<span class="list-commodity-brand">Fantasie Lingerie</span>
@@ -5379,28 +5327,19 @@
 								<span class="list-commodity-lowestprice-info hidden">Dies ist der niedrigste Preis in den letzten 30 Tagen.</span>
 							</span>
 						</li>
-						<li id="list-commodity-banner-892-295546" class="list-commodity-line list-commodity-banner list-cols-1">
-							<a href="">
-								<span class="list-commodity-image">
-									<span class="list-commodity-overlay">
-									</span>
-									<span><img src="https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h549w280_height.jpg" alt="Fantasie Sale 2025" title="Fantasie Sale 2025" srcset="https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h549w280_height.jpg 280w, https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h1098w560_height.jpg 560w" sizes="280px" /></span>
-								</span>
-							</a>
-						</li>
 						<li id="list-commodity-9423" class="list-commodity-line">
 							<span class="list-commodity-logo">
 								<span><img src="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg" alt="Fantasie Lingerie" title="Fantasie Lingerie" srcset="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg 100w, https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h48w200_min.jpg 200w" sizes="100px" /></span>
 							</span>
 							<ul class="list-commodity-rgbs">
 								<li style="background-color: #000000">
-									<a href="https://www.lace.de/commodity/9423-fantasie-lingerie-smoothing-bh-g-i-cup" title="BLACK">BLACK</a>
+									<a href="https://www.LACE.de/commodity/9423-fantasie-lingerie-smoothing-bh-g-i-cup" title="BLACK">BLACK</a>
 								</li>
 								<li style="background-color: #ffffff">
-									<a href="https://www.lace.de/commodity/3462-fantasie-lingerie-smoothing-bh-g-i-cup" title="WHITE">WHITE</a>
+									<a href="https://www.LACE.de/commodity/3462-fantasie-lingerie-smoothing-bh-g-i-cup" title="WHITE">WHITE</a>
 								</li>
 								<li style="background-color: #ffdbac">
-									<a href="https://www.lace.de/commodity/9424-fantasie-lingerie-smoothing-bh-g-i-cup" title="NUDE">NUDE</a>
+									<a href="https://www.LACE.de/commodity/9424-fantasie-lingerie-smoothing-bh-g-i-cup" title="NUDE">NUDE</a>
 								</li>
 							</ul>
 							<a href="https://www.lace.de/commodity/9423-fantasie-lingerie-smoothing-bh-g-i-cup" class="hasimages">
@@ -5508,9 +5447,6 @@
 								<li style="background-color: #ff0000">
 									<a href="https://www.lace.de/commodity/29614-fantasie-lingerie-reflect-spacer-t-shirt-bh-g-j-cup" title="RED">RED</a>
 								</li>
-								<li style="background-color: #A1B5B3">
-									<a href="https://www.lace.de/commodity/30067-fantasie-lingerie-reflect-spacer-t-shirt-bh-g-j-cup" title="MIST">MIST</a>
-								</li>
 								<li style="background-color: #000080">
 									<a href="https://www.lace.de/commodity/30938-fantasie-lingerie-reflect-spacer-t-shirt-bh-g-j-cup" title="NAVY">NAVY</a>
 								</li>
@@ -5568,7 +5504,6 @@
 										<ul>
 											<li>65I= (30G UK)</li>
 											<li>65J= (30GG UK)</li>
-											<li>65K= (30H UK)</li>
 											<li>75G= (34F UK)</li>
 											<li>75H= (34FF UK)</li>
 											<li>75I= (34G UK)</li>
@@ -5692,6 +5627,15 @@
 								</span>
 							</a>
 						</li>
+						<li id="list-commodity-banner-869-293581" class="list-commodity-line list-commodity-banner list-cols-1">
+							<a href="https://www.lace.de/fantasie-swim">
+								<span class="list-commodity-image">
+									<span class="list-commodity-overlay">
+									</span>
+									<span><img src="https://www.lace.de/shared/9/98c1f667b0044d042c39dbb6a681bbf0_h549w280_height.gif" alt="Fantasie Swim ss25" title="Fantasie Swim ss25" /></span>
+								</span>
+							</a>
+						</li>
 						<li id="list-commodity-27243" class="list-commodity-line">
 							<span class="list-commodity-logo">
 								<span><img src="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg" alt="Fantasie Lingerie" title="Fantasie Lingerie" srcset="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg 100w, https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h48w200_min.jpg 200w" sizes="100px" /></span>
@@ -5765,15 +5709,6 @@
 								</span>
 							</a>
 						</li>
-						<li id="list-commodity-banner-869-293581" class="list-commodity-line list-commodity-banner list-cols-1">
-							<a href="https://www.lace.de/fantasie-swim">
-								<span class="list-commodity-image">
-									<span class="list-commodity-overlay">
-									</span>
-									<span><img src="https://www.lace.de/shared/9/98c1f667b0044d042c39dbb6a681bbf0_h549w280_height.gif" alt="Fantasie Swim ss25" title="Fantasie Swim ss25" /></span>
-								</span>
-							</a>
-						</li>
 						<li id="list-commodity-30936" class="list-commodity-line">
 							<span class="list-commodity-logo">
 								<span><img src="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg" alt="Fantasie Lingerie" title="Fantasie Lingerie" srcset="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg 100w, https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h48w200_min.jpg 200w" sizes="100px" /></span>
@@ -5802,7 +5737,6 @@
 											<li>S</li>
 											<li>M</li>
 											<li>L</li>
-											<li>XL</li>
 											<li>XXL</li>
 										</ul>
 									</span>
@@ -5876,7 +5810,6 @@
 										<ul>
 											<li>S</li>
 											<li>M</li>
-											<li>XL</li>
 										</ul>
 									</span>
 									<span class="list-commodity-brand">Fantasie Lingerie</span>
@@ -5887,44 +5820,6 @@
 							<span class="list-commodity-lowestprice-container">
 								<span class="list-commodity-lowestprice-label">Bestpreis</span>
 								<span class="list-commodity-lowestprice">EUR 15,98</span>
-								<a class="list-commodity-lowestprice-toggle" href="" onclick="$(this).parent().find('.list-commodity-lowestprice-info').toggleClass('hidden'); return false;">Info</a>
-								<span class="list-commodity-lowestprice-info hidden">Dies ist der niedrigste Preis in den letzten 30 Tagen.</span>
-							</span>
-						</li>
-						<li id="list-commodity-30070" class="list-commodity-line">
-							<span class="list-commodity-logo">
-								<span><img src="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg" alt="Fantasie Lingerie" title="Fantasie Lingerie" srcset="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg 100w, https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h48w200_min.jpg 200w" sizes="100px" /></span>
-							</span>
-							<ul class="list-commodity-rgbs">
-								<li style="background-color: #994155">
-									<a href="https://www.lace.de/commodity/30070-fantasie-lingerie-envisage-rio-slip" title="PASSION">PASSION</a>
-								</li>
-								<li style="background-color: #000000">
-									<a href="https://www.lace.de/commodity/28769-fantasie-lingerie-envisage-rio-slip" title="BLACK">BLACK</a>
-								</li>
-							</ul>
-							<a href="https://www.lace.de/commodity/30070-fantasie-lingerie-envisage-rio-slip" class="hasimages">
-								<span class="list-commodity-overlay-sale">-25%</span>
-								<span class="list-commodity-image">
-									<span class="list-commodity-overlay">
-									</span>
-									<span><img src="https://www.lace.de/shared/a/ab00c1e1df11329c3968b989ac613c1e_h420w280_crop.jpg" alt="Fantasie Lingerie - Envisage Rio Slip" title="Fantasie Lingerie - Envisage Rio Slip" srcset="https://www.lace.de/shared/a/ab00c1e1df11329c3968b989ac613c1e_h420w280_crop.jpg 280w, https://www.lace.de/shared/a/ab00c1e1df11329c3968b989ac613c1e_h840w560_crop.jpg 560w" sizes="280px" /><img src="https://www.lace.de/shared/7/7301d1de6b4ee20b2d073affc5947e87_h420w280_crop.jpg" alt="Fantasie Lingerie - Envisage Rio Slip" title="Fantasie Lingerie - Envisage Rio Slip" srcset="https://www.lace.de/shared/7/7301d1de6b4ee20b2d073affc5947e87_h420w280_crop.jpg 280w, https://www.lace.de/shared/7/7301d1de6b4ee20b2d073affc5947e87_h840w560_crop.jpg 560w" sizes="280px" /></span>
-								</span>
-								<span class="list-commodity-container">
-									<span class="list-commodity-sizes">
-										<span class="subheadline">Sizes in stock</span>
-										<ul>
-											<li>L</li>
-										</ul>
-									</span>
-									<span class="list-commodity-brand">Fantasie Lingerie</span>
-									<span class="list-commodity-title">Envisage Rio Slip</span>
-									<span class="list-commodity-offer">EUR 20,21</span>
-								</span>
-							</a>
-							<span class="list-commodity-lowestprice-container">
-								<span class="list-commodity-lowestprice-label">Bestpreis</span>
-								<span class="list-commodity-lowestprice">EUR 20,21</span>
 								<a class="list-commodity-lowestprice-toggle" href="" onclick="$(this).parent().find('.list-commodity-lowestprice-info').toggleClass('hidden'); return false;">Info</a>
 								<span class="list-commodity-lowestprice-info hidden">Dies ist der niedrigste Preis in den letzten 30 Tagen.</span>
 							</span>
@@ -5945,7 +5840,7 @@
 								</li>
 							</ul>
 							<a href="https://www.lace.de/commodity/30065-fantasie-lingerie-reflect-rio-slip" class="hasimages">
-								<span class="list-commodity-overlay-sale">-40%</span>
+								<span class="list-commodity-overlay-sale">-50%</span>
 								<span class="list-commodity-image">
 									<span class="list-commodity-overlay">
 									</span>
@@ -5960,24 +5855,89 @@
 									</span>
 									<span class="list-commodity-brand">Fantasie Lingerie</span>
 									<span class="list-commodity-title">Reflect Rio Slip</span>
-									<span class="list-commodity-offer">EUR 16,17</span>
+									<span class="list-commodity-offer">EUR 13,48</span>
 								</span>
 							</a>
 							<span class="list-commodity-lowestprice-container">
 								<span class="list-commodity-lowestprice-label">Bestpreis</span>
-								<span class="list-commodity-lowestprice">EUR 16,17</span>
+								<span class="list-commodity-lowestprice">EUR 13,25</span>
 								<a class="list-commodity-lowestprice-toggle" href="" onclick="$(this).parent().find('.list-commodity-lowestprice-info').toggleClass('hidden'); return false;">Info</a>
 								<span class="list-commodity-lowestprice-info hidden">Dies ist der niedrigste Preis in den letzten 30 Tagen.</span>
 							</span>
 						</li>
-						<li id="list-commodity-banner-892-295546" class="list-commodity-line list-commodity-banner list-cols-1">
-							<a href="">
+						<li id="list-commodity-29955" class="list-commodity-line">
+							<span class="list-commodity-logo">
+								<span><img src="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg" alt="Fantasie Lingerie" title="Fantasie Lingerie" srcset="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg 100w, https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h48w200_min.jpg 200w" sizes="100px" /></span>
+							</span>
+							<ul class="list-commodity-rgbs">
+								<li style="background-color: #000000">
+									<a href="https://www.lace.de/commodity/29955-fantasie-lingerie-illusion-taillenslip" title="BLACK">BLACK</a>
+								</li>
+							</ul>
+							<a href="https://www.lace.de/commodity/29955-fantasie-lingerie-illusion-taillenslip" class="hasimages">
 								<span class="list-commodity-image">
 									<span class="list-commodity-overlay">
+										<span class="list-commodity-overlay-video">Video</span>
 									</span>
-									<span><img src="https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h549w280_height.jpg" alt="Fantasie Sale 2025" title="Fantasie Sale 2025" srcset="https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h549w280_height.jpg 280w, https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h1098w560_height.jpg 560w" sizes="280px" /></span>
+									<span><img src="https://www.lace.de/shared/7/71f8268db04be7eb85ed899d253395a4_h420w280_crop.jpg" alt="Fantasie Lingerie - Illusion Taillenslip" title="Fantasie Lingerie - Illusion Taillenslip" srcset="https://www.lace.de/shared/7/71f8268db04be7eb85ed899d253395a4_h420w280_crop.jpg 280w, https://www.lace.de/shared/7/71f8268db04be7eb85ed899d253395a4_h840w560_crop.jpg 560w" sizes="280px" /><img src="https://www.lace.de/shared/8/88f8b0afab458a05e17c06b8ea9c38ac_h420w280_crop.jpg" alt="Fantasie Lingerie - Illusion Taillenslip" title="Fantasie Lingerie - Illusion Taillenslip" srcset="https://www.lace.de/shared/8/88f8b0afab458a05e17c06b8ea9c38ac_h420w280_crop.jpg 280w, https://www.lace.de/shared/8/88f8b0afab458a05e17c06b8ea9c38ac_h840w560_crop.jpg 560w" sizes="280px" /></span>
+								</span>
+								<span class="list-commodity-container">
+									<span class="list-commodity-sizes">
+										<span class="subheadline">Sizes in stock</span>
+										<ul>
+											<li>M</li>
+											<li>L</li>
+											<li>XL</li>
+											<li>XXL</li>
+										</ul>
+									</span>
+									<span class="list-commodity-brand">Fantasie Lingerie</span>
+									<span class="list-commodity-title">Illusion Taillenslip</span>
+									<span class="list-commodity-price">EUR 34,95</span>
 								</span>
 							</a>
+						</li>
+						<li id="list-commodity-29615" class="list-commodity-line">
+							<span class="list-commodity-logo">
+								<span><img src="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg" alt="Fantasie Lingerie" title="Fantasie Lingerie" srcset="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg 100w, https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h48w200_min.jpg 200w" sizes="100px" /></span>
+							</span>
+							<ul class="list-commodity-rgbs">
+								<li style="background-color: #ebb0b4">
+									<a href="https://www.lace.de/commodity/29615-fantasie-lingerie-fusion-rio-slip" title="ROSE">ROSE</a>
+								</li>
+								<li style="background-color: #04A6BB">
+									<a href="https://www.lace.de/commodity/29128-fantasie-lingerie-fusion-rio-slip" title="SEA BREEZE">SEA BREEZE</a>
+								</li>
+								<li style="background-color: #283E36">
+									<a href="https://www.lace.de/commodity/30934-fantasie-lingerie-fusion-rio-slip" title="EVERGREEN">EVERGREEN</a>
+								</li>
+							</ul>
+							<a href="https://www.lace.de/commodity/29615-fantasie-lingerie-fusion-rio-slip" class="hasimages">
+								<span class="list-commodity-overlay-sale">-50%</span>
+								<span class="list-commodity-image">
+									<span class="list-commodity-overlay">
+										<span class="list-commodity-overlay-video">Video</span>
+									</span>
+									<span><img src="https://www.lace.de/shared/1/1c7ca547ca065f1ad65a79964bd45b7b_h420w280_crop.jpg" alt="Fantasie Lingerie - Fusion Rio Slip" title="Fantasie Lingerie - Fusion Rio Slip" srcset="https://www.lace.de/shared/1/1c7ca547ca065f1ad65a79964bd45b7b_h420w280_crop.jpg 280w, https://www.lace.de/shared/1/1c7ca547ca065f1ad65a79964bd45b7b_h840w560_crop.jpg 560w" sizes="280px" /><img src="https://www.lace.de/shared/7/77280b587831f30a5fecc965a62906aa_h420w280_crop.jpg" alt="Fantasie Lingerie - Fusion Rio Slip" title="Fantasie Lingerie - Fusion Rio Slip" srcset="https://www.lace.de/shared/7/77280b587831f30a5fecc965a62906aa_h420w280_crop.jpg 280w, https://www.lace.de/shared/7/77280b587831f30a5fecc965a62906aa_h840w560_crop.jpg 560w" sizes="280px" /></span>
+								</span>
+								<span class="list-commodity-container">
+									<span class="list-commodity-sizes">
+										<span class="subheadline">Sizes in stock</span>
+										<ul>
+											<li>M</li>
+										</ul>
+									</span>
+									<span class="list-commodity-brand">Fantasie Lingerie</span>
+									<span class="list-commodity-title">Fusion Rio Slip</span>
+									<span class="list-commodity-offer">EUR 13,48</span>
+								</span>
+							</a>
+							<span class="list-commodity-lowestprice-container">
+								<span class="list-commodity-lowestprice-label">Bestpreis</span>
+								<span class="list-commodity-lowestprice">EUR 13,48</span>
+								<a class="list-commodity-lowestprice-toggle" href="" onclick="$(this).parent().find('.list-commodity-lowestprice-info').toggleClass('hidden'); return false;">Info</a>
+								<span class="list-commodity-lowestprice-info hidden">Dies ist der niedrigste Preis in den letzten 30 Tagen.</span>
+							</span>
 						</li>
 					</ul>
 					<script>
@@ -6207,7 +6167,7 @@
 			</section>
 		</footer>
 	</div>
-	<script>$.ajax({ url: "https://www.lace.de/websession?pid=20m8qgcboiebd545akdno339o5" });</script>
+	<script>$.ajax({ url: "https://www.lace.de/websession?pid=t9uei8lviun12kan8t0sse4if0" });</script>
 		<script type="text/javascript" src="//static.klaviyo.com/onsite/js/klaviyo.js?company_id=XbYy6E"></script>
 	<script id='fmsscript-inc' type='text/javascript'>
 	    (function () {

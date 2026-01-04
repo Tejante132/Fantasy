@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- This file was created with the aha Ansi HTML Adapter. https://github.com/theZiz/aha -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="application/xml+xhtml; charset=UTF-8"/>
+<title>Contextes pour Fantasie</title>
+</head>
+<body style="color:white; background-color:black">
+<pre>
+               o Hanky Panky
+               o Rosa Faia
+               o Freya
+               o <span style="font-weight:bold;color:red;">Fantasie</span>
+               o Felina
+               o Aubade
+               o Elomi
+<span style="color:aqua;">---</span>
+     * Hanky Panky
+     * Rosa Faia
+     * Freya
+     * <span style="font-weight:bold;color:red;">Fantasie</span>
+     * Felina
+     * Aubade
+     * Elomi
+<span style="color:aqua;">---</span>
+          + Marie Jo
+          + Freya
+          + Elomi
+          + <span style="font-weight:bold;color:red;">Fantasie</span>
+          + Aubade
+     *
+          +
+<span style="color:aqua;">---</span>
+     * Marken
+     * Annadiva Swim
+     * Aubade Bademode
+     * <span style="font-weight:bold;color:red;">Fantasie</span> Bademode
+     * PrimaDonna Swim
+     * Beachlife
+     * Freya Bademode
+<span style="color:aqua;">---</span>
+
+     * Home
+     * Marken
+     * <span style="font-weight:bold;color:red;">Fantasie</span> Dessous
+
+<span style="font-weight:bold;color:red;">Fantasie</span> Dessous
+
+Alle <span style="font-weight:bold;color:red;">Fantasie</span> Dessous
+
+   Alle <span style="font-weight:bold;color:red;">Fantasie</span> Dessous
+
+Fusion
+
+<span style="color:aqua;">---</span>
+
+   Aura
+
+<span style="font-weight:bold;color:red;">Fantasie</span> Bademode
+
+   <span style="font-weight:bold;color:red;">Fantasie</span> Bademode
+
+<span style="font-weight:bold;color:red;">Fantasie</span> Kollektion
+
+   <span style="font-weight:bold;color:red;">Fantasie</span> bietet eine umfangreiche Kollektion von Dessous. Die
+   raffinierten Modelle werden mit Sorgfalt und hochwertigen Stoffen
+   entworfen. Deshalb bietet die <span style="font-weight:bold;color:red;">Fantasie</span> Kollektion mühelosen Halt und
+   Komfort, um das Beste aus Ihrer Figur herauszuholen. Die Kollektionen
+   sind in verschiedenen Saison- und Grundfarben gestaltet und in den
+   Cup-Größen B bis K erhältlich. Die Größen reichen von 65 bis 85,
+   darüber hinaus bietet <span style="font-weight:bold;color:red;">Fantasie</span> auch Zwischengrößen wie DD und FF an. In
+   der Kollektion finden Sie wunderschöne BHs. In der umfangreichen
+   Kollektion befinden sich unter anderem Bügel BHs, Full Cup BHs,
+   vorgeformte BHs, Balconette BH's und nicht vorgeformte BHs. Innerhalb
+   jeder Kollektion sind auch mehrere Slips erhältlich. Die verschiedenen
+   Slips, die <span style="font-weight:bold;color:red;">Fantasie</span> anbietet, sind: Rio Slips, Taillenslip, Strings und
+   Shorts. So können Sie den perfekten BH und Slip wählen, der zu Ihnen
+   passt.
+
+Über <span style="font-weight:bold;color:red;">Fantasie</span>
+
+   <span style="font-weight:bold;color:red;">Fantasie</span> gehört zusammen mit den Marken Elomi und Freya zum
+   Mutterkonzern Wacoal. Wacoal ist ein Unternehmen, das weiß, was Dessous
+   für eine fülligere Figur und für Ihr Selbstbewusstsein bedeuten können.
+   Seit 1951 ist <span style="font-weight:bold;color:red;">Fantasie</span> eine der führenden Dessous-Marken für Frauen.
+   <span style="font-weight:bold;color:red;">Fantasie</span> hat fachmännisch geschnittene Dessous, die speziell entwickelt
+   wurden, um auch größeren Busen ausreichend Halt zu bieten.
+
+   Das Ziel von <span style="font-weight:bold;color:red;">Fantasie</span> ist es, perfekt sitzende Dessous anzubieten, die
+   perfekt zu Ihrem Tag passen und Ihnen helfen, einfach und elegant
+   zwischen jedem Outfit und jedem Anlass zu wechseln. Die Modelle sind so
+   konzipiert, dass sie Halt und Komfort bieten, und das in einem schönen
+<span style="color:aqua;">---</span>
+   du, wie es zwischen deiner Brust und deinem Arm reibt? Dann ist dieser
+   BH eine gute Wahl!
+
+<span style="font-weight:bold;color:red;">Fantasie</span> Dessous bei Annadiva
+
+   Bestellen Sie jetzt Ihr Lieblingsdessousset von <span style="font-weight:bold;color:red;">Fantasie</span> online. Sind
+   Sie unsicher, welche Größe die richtige ist? Schauen Sie sich unsere
+   Seite zur Größenberatung an oder kontaktieren Sie uns per Mail, Chat
+   auf unserer Website oder per Telefon. Natürlich können Sie auch unsere
+   Filialen in Den Bosch, Amsterdam und Nijmegen besuchen. In unseren
+   Dessousgeschäften beraten wir Sie gerne und kompetent. Spezielle
+   Angebote finden Sie auf unserer Outlet-Seite. Neben <span style="font-weight:bold;color:red;">Fantasie</span> Dessous
+   finden Sie auch eine große Auswahl an <span style="font-weight:bold;color:red;">Fantasie</span> Bademode.
+   Filter
+   Schließen
+   Trusted Shops Zertifikat vor Annadiva
+</pre>
+</body>
+</html>
