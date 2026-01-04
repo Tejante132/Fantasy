@@ -1,0 +1,41 @@
+User-agent: Fasterfox
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: SEOkicks
+Disallow: /
+
+User-agent: SiteSearch360
+Disallow: /
+
+User-agent: *
+Disallow: /cart
+Disallow: /kurv
+Disallow: /checkout
+Disallow: /onestepcheckout
+Disallow: /search
+Disallow: /sog
+Disallow: /tell
+Disallow: /tip
+Disallow: /ask
+Disallow: /sporg
+Disallow: /websession
+Disallow: /share/
+Crawl-delay: 5

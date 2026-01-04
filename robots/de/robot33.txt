@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /de/customer/*
+Disallow: /en/customer/*
+Disallow: /it/customer/*
+Disallow: /de/cart*
+Disallow: /en/cart*
+Disallow: /it/cart*
+Disallow: /de/checkout/*
+Disallow: /en/checkout/*
+Disallow: /it/checkout/*
+Disallow: /prudsys*
+Disallow: /en/prudsys*
+Disallow: /de/prudsys*
+Disallow: /it/prudsys*
+Disallow: /recommendation*
+Disallow: /en/recommendation*
+Disallow: /de/recommendation*
+Disallow: /it/recommendation*
+Disallow: /emarsys*
+Disallow: /en/emarsys*
+Disallow: /de/emarsys*
+Disallow: /it/emarsys*
+
+Sitemap: https://www.babyartikel.de/sitemap/sitemap_index.xml

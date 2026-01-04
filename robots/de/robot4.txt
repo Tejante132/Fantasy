@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Disallow: /cgi-bin
+Disallow: /logs
+Disallow: /usage
+Disallow: /author
+Disallow: /search
+Disallow: /*/?s=
+Disallow: /?s=
+Disallow: /*/feed/
+Disallow: /license.txt
+Disallow: /wp-login.php
+Disallow: /xmlrpc.php
+Disallow: /readme.html
+Disallow: /*?replytocom=
+Disallow: /*/comments/
+
+Sitemap: https://karrierebibel.de/sitemap_index.xml

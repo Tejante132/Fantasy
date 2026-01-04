@@ -1,0 +1,29 @@
+User-agent: *
+Disallow: /noindex/
+
+User-Agent: WebarooBot
+Disallow: /
+
+User-Agent: Twiceler
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: Linguee
+Disallow: /
+
+User-agent: BUbiNG
+Disallow: /
+
+User-agent: Barkrowler
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: serpstatbot
+Disallow: /

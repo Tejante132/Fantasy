@@ -1,0 +1,41 @@
+<!--
+  der Code steht still im Display
+  —psst!
+  verscheuche ihn nicht!
+-->
+User-agent: *
+Disallow:
+
+# GPTBot (OpenAI / ChatGPT)
+User-agent: GPTBot
+Allow: /
+
+# ClaudeBot (Anthropic / Claude)
+User-agent: ClaudeBot
+Allow: /
+
+# Google-Extended (Gemini)
+User-agent: Google-Extended
+Allow: /
+
+# LLaMA (Meta)
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: BaiduSpider
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: YisouSpider
+Disallow: /
+
+User-agent: 360Spider
+Disallow: /
+
+User-agent: Sogou
+Disallow: /
+
+# Sitemap
+Sitemap: https://sternenvogelpoesie.de/sitemap.xml

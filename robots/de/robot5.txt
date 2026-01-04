@@ -1,0 +1,47 @@
+Sitemap: https://medlexi.de/sitemap.xml
+
+User-agent: *
+# Disallow: /index.php
+Disallow: /api.php
+Disallow: /*oldid
+Disallow: /*curid
+Disallow: /*hidelinks
+Disallow: /*redlink
+Disallow: /*direction
+Disallow: /*namespace
+Disallow: /*?&sa
+Disallow: /werbung/
+
+#https://medlexi.de/Spondylose?viewType=Print&viewClass=Print
+Disallow: /*viewType
+
+#https://medlexi.de/?v=lMxcQAfihG8
+Disallow: /*?v=
+
+#https://medlexi.de/Akupressur?epik=dj0yJnU9WUJEYjFZM2U1VFEyNGZLUE5KYWF6Y0R4TW5oUmdkb08mcD0wJm49aU9wSFhUVGswQWRHdkVEaEtOUFRBZyZ0PUFBQUFBR0FRYUpj
+Disallow: /*?epik
+
+#https://medlexi.de/index.php?title=Datei:Verbandarten.jpg&limit=500
+Disallow: /*&limit=
+
+Disallow: /*&&p
+
+#https://medlexi.de/index.php?title=Datei:Bettruhe.jpg&action=edit&externaledit=true&mode=file
+Disallow: /*externaledit
+
+#https://medlexi.de/?ajax=1&cmd=suche&smd%5Btyp%5D%5B4%5D=4&smd%5Bf%5D%5B12%5D=12&smd%5Bsa%5D%5B2%5D=2&o=e&a=DESC&ls=180
+Disallow: /*?ajax
+
+
+User-agent: Googlebot-Image
+Disallow: /images/Nonnenmacher.jpg
+Disallow: /skins/medlexi/img/dr-nonnenmacher.png
+Disallow: /images/Loebel.jpg
+Disallow: /images/Dr-frank-meyer.jpg
+Disallow: /Datei:Dr-frank-meyer.jpg
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: *
+Disallow: /skins/medlexi/img/dr-nonnenmacher.png

@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2023 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+
+<meta name="generator" content="TYPO3 CMS">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:site_name" content="Jüdisches Museum Frankfurt">
+<meta property="og:locale" content="de_DE">
+<link rel="canonical" href="https://www.juedischesmuseum.de/404/" />
+<title>404 - Not found - Jüdisches Museum Frankfurt</title>
+<meta name="robots" content="noindex,nofollow" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="404 - Not found" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="404 - Not found" />
+
+
+<link rel="stylesheet" type="text/css" href="/typo3temp/assets/compressed/merged-721f571859fdcfcdcbc3101931b842fe.css" media="all">
+
+
+
+
+
+
+<script id="om-cookie-consent" type="application/json">{"group-1":{"gtm":""},"group-2":{"gtm":"","cookie-1":{"header":["<!-- Global site tag (gtag.js) - Google Ads: 873108775 -->\r\n\r\n<script async src=\"https:\/\/www.googletagmanager.com\/gtag\/js?id=AW-873108775\"><\/script>\r\n\r\n<script>\r\n\r\n  window.dataLayer = window.dataLayer || [];\r\n\r\n  function gtag(){dataLayer.push(arguments);}\r\n\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'AW-873108775');\r\n\r\n<\/script>"]},"cookie-2":{"header":["<!-- Google Tag Manager -->\r\n\r\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\n\r\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\n\r\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n\r\n'https:\/\/www.googletagmanager.com\/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n\r\n})(window,document,'script','dataLayer','GTM-PPCSD9F');<\/script>\r\n\r\n<!-- End Google Tag Manager -->"]}}}</script>
+<title> 404 </title>
+  <link rel="apple-touch-icon" sizes="180x180" href="/typo3conf/ext/website/Resources/Public/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/typo3conf/ext/website/Resources/Public/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/typo3conf/ext/website/Resources/Public/favicons/favicon-16x16.png">
+  <link rel="manifest" href="/typo3conf/ext/website/Resources/Public/favicons/manifest.json">
+  <link rel="mask-icon" href="/typo3conf/ext/website/Resources/Public/favicons/safari-pinned-tab.svg" color="#434343">
+  <link rel="shortcut icon" href="/typo3conf/ext/website/Resources/Public/favicons/favicon.ico">
+  <meta name="msapplication-config" content="/typo3conf/ext/website/Resources/Public/favicons/browserconfig.xml">
+  <meta name="theme-color" content="#434343">
+
+<meta name="google-site-verification" content="zQXXFMKhBobtsCkI-25sisInbCDwAC15ehxYnpT1TeI" />
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["disableCookies"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//matomo.juedischesmuseum.de/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+<style>
+
+.o-intro-stage__mask_video,
+.o-stage__video-container .o-stage__video{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 110%;
+    width: 110%;
+    object-fit: cover;
+}
+
+
+
+
+ .m-anchor-navigation__menu-wrapper {
+  z-index: 556!important;
+ }
+
+.o-media-copy__copy li {
+    list-style-position: inside;
+    position: relative;
+    padding-left: 10px;
+}
+.o-media-copy__copy ul>li:before {
+    content: "•";
+    margin-right: 10px;
+    color: #434343;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.o-footer__logo img {
+    width: 70px;
+    padding-bottom: 4px;
+}
+.kyrill {
+    font-size: 1.2rem;
+}
+
+.m-cookie-layer {
+z-index: 1001 !important;
+}
+
+.m-cookie-layer__button-link {
+    line-height: 60px;
+}
+
+li.o-record__share-list-item:nth-child(2) {
+    margin-left: 0;
+}
+
+a.a-link.o-record__share-list-item-twitter {
+    display: none;
+}
+
+a.o-blog-detail__social-media-link[aria-label="Twitter"] {
+    display: none;
+}
+
+@media (min-width: 64em) {
+    .o-main-navigation__slash{
+        margin: 0 15px;
+    }
+}
+
+</style>
+</head>
+<body>
+
+
+
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PPCSD9F"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="t-default    "><header role="banner"><section class="o-museum-toggle  " data-js-module="o-museum-toggle"><nav class="o-museum-toggle__nav" aria-label="Standort Auswahl" role="menubar"><a role="menuitem" class="o-museum-toggle__nav-item o-museum-toggle__nav-item--jmffm" href="/besuch/juedisches-museum-frankfurt/"><div class="o-museum-toggle__logo-wrapper"><img src="/typo3conf/ext/website/Resources/Public/images/logos/jmffm.svg" alt="Jüdische Museum Frankfurt" class="o-museum-toggle__logo" /></div><div class="o-museum-toggle__address"><span class="o-museum-toggle__address-item">
+    Heute 10 – 18 Uhr,&nbsp;
+  </span><span class="o-museum-toggle__address-item">
+    Bertha-Pappenheim-Platz 1
+  </span><p style="display: none;">Museum ist zur Zeit geöffnet.</p></div><svg
+  class="a-svg-icon a-svg-icon--links-mini-right o-museum-toggle__arrow"
+  role="img"
+  aria-labelledby="title-links-mini-right-903191 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-mini-right-903191">Jüdische Museum Frankfurt</title><use xlink:href="#links-mini-right"></use></svg></a><a role="menuitem" class="o-museum-toggle__nav-item o-museum-toggle__nav-item--mjf" href="/besuch/museum-judengasse/"><div class="o-museum-toggle__logo-wrapper"><img src="/typo3conf/ext/website/Resources/Public/images/logos/mjf.svg" alt="Museum Judengasse" class="o-museum-toggle__logo" /></div><div class="o-museum-toggle__address"><span class="o-museum-toggle__address-item">
+    Heute 10 – 18 Uhr,&nbsp;
+  </span><span class="o-museum-toggle__address-item">
+    Battonnstraße 47
+  </span><p style="display: none;">Museum ist zur Zeit geöffnet.</p></div><svg
+  class="a-svg-icon a-svg-icon--links-mini-right o-museum-toggle__arrow"
+  role="img"
+  aria-labelledby="title-links-mini-right-862815 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-mini-right-862815">Museum Judengasse</title><use xlink:href="#links-mini-right"></use></svg><svg class="o-museum-toggle__separator" viewBox="0 0 43 80"><polygon class="o-museum-toggle__separator-blue" points="0,0 34,0 0,80"/><polyline class="o-museum-toggle__separator-purple" points="43,80 10,80 43,0 	"/><polygon fill="#FFFFFF" points="33.9,0 0,80 10,80 43,0"/></svg></a></nav></section><section class="o-main-navigation" data-js-module="o-main-navigation"><button class="o-main-navigation__control" aria-expanded="false" data-js-element="o-main-navigation__control">Menü</button><nav hidden class="o-main-navigation__nav" aria-label="Hauptnavigation" data-js-element="o-main-navigation__navigation"><ul class="o-main-navigation__nav-main" role="menubar"><li class="o-main-navigation__nav-item" role="menuitem"><a aria-label="Homepage" class="o-main-navigation__link" href="/"><svg
+  class="a-svg-icon a-svg-icon--various-home o-main-navigation__home"
+  role="img"
+  aria-labelledby="title-various-home-561943 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  aria-hidden=true><title id="title-various-home-561943">Homepage</title><use xlink:href="#various-home"></use></svg></a><svg
+  class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  aria-hidden=true><use xlink:href="#various-slash"></use></svg></li><li class="o-main-navigation__nav-item" role="menuitem"><a href="/besuch/" class="o-main-navigation__link">Besuch</a><svg class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash" role="img" aria-labelledby="" data-js-module="a-svg-icon" data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg" aria-hidden="true"><use xlink:href="#various-slash"></use></svg></li><li class="o-main-navigation__nav-item" role="menuitem"><a href="/museum/" class="o-main-navigation__link">Museum</a><svg class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash" role="img" aria-labelledby="" data-js-module="a-svg-icon" data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg" aria-hidden="true"><use xlink:href="#various-slash"></use></svg></li><li class="o-main-navigation__nav-item" role="menuitem"><a href="/bildung/" class="o-main-navigation__link">Bildung</a><svg class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash" role="img" aria-labelledby="" data-js-module="a-svg-icon" data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg" aria-hidden="true"><use xlink:href="#various-slash"></use></svg></li><li class="o-main-navigation__nav-item" role="menuitem"><a href="/sammlung/" class="o-main-navigation__link">Sammlung</a><svg class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash" role="img" aria-labelledby="" data-js-module="a-svg-icon" data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg" aria-hidden="true"><use xlink:href="#various-slash"></use></svg></li></ul><ul class="o-main-navigation__nav-meta" role="menubar"><li class="o-main-navigation__nav-item" role="menuitem"><a class="o-main-navigation__link" href="/onlineshop/"><svg
+  class="a-svg-icon a-svg-icon--square-ticket o-main-navigation__ticket"
+  role="img"
+  aria-labelledby="title-square-ticket-542786 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  ><title id="title-square-ticket-542786">Tickets</title><use xlink:href="#square-ticket"></use></svg>
+
+
+
+          Tickets
+        </a><svg
+  class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  aria-hidden=true><use xlink:href="#various-slash"></use></svg></li><li class="o-main-navigation__nav-item o-main-navigation__nav-item-presse" role="menuitem"><a class="o-main-navigation__link" href="/presse/"><svg
+  class="a-svg-icon a-svg-icon--square-presse o-main-navigation__presse"
+  role="img"
+  aria-labelledby="title-square-presse-499586 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  ><title id="title-square-presse-499586">Presse</title><use xlink:href="#square-presse"></use></svg>
+
+
+
+          PR
+        </a><svg
+  class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  aria-hidden=true><use xlink:href="#various-slash"></use></svg></li><div class="o-main-navigation__nav-item-break"></div><!-- break --><li class="o-main-navigation__nav-item o-main-navigation__nav-item-leichte-sprache" role="menuitem"><a class="o-main-navigation__link" href="/leichte-sprache/"><svg
+  class="a-svg-icon a-svg-icon--square-leichte-sprache o-main-navigation__leichte-sprache"
+  role="img"
+  aria-labelledby="title-square-leichte-sprache-523648 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  ><title id="title-square-leichte-sprache-523648">Leichte Sprache</title><use xlink:href="#square-leichte-sprache"></use></svg></a><svg
+  class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  aria-hidden=true><use xlink:href="#various-slash"></use></svg></li><li class="o-main-navigation__nav-item o-main-navigation__nav-item-language" role="menuitem"><a class="linked-language o-main-navigation__link" href="/en/404/">EN</a><svg
+  class="a-svg-icon a-svg-icon--various-slash o-main-navigation__slash"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  aria-hidden=true><use xlink:href="#various-slash"></use></svg></li><li class="o-main-navigation__nav-item" role="menuitem"><a class="o-main-navigation__link" href="/suche/"><svg
+  class="a-svg-icon a-svg-icon--square-search o-main-navigation__search"
+  role="img"
+  aria-labelledby="title-square-search-999182 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  ><title id="title-square-search-999182">Suche</title><use xlink:href="#square-search"></use></svg></a></li></ul></nav></section></header><main><!--TYPO3SEARCH_begin--><div class="o-intro-stage  "><div class="o-intro-stage__picture-wrapper"><picture class="a-picture o-intro-stage__picture"><source srcset="/fileadmin/_processed_/0/b/csm_else-meidner-frauenportrait-schlamassel-header_49913ceba1.jpg 768w, /fileadmin/_processed_/0/b/csm_else-meidner-frauenportrait-schlamassel-header_670746e9b0.jpg 1024w, /fileadmin/_processed_/0/b/csm_else-meidner-frauenportrait-schlamassel-header_6c643ad58b.jpg 1440w, /fileadmin/_processed_/0/b/csm_else-meidner-frauenportrait-schlamassel-header_8520cd537c.jpg 1920w" media="(min-width: 640px)" sizes="100vw" /><source srcset="/fileadmin/_processed_/0/b/csm_else-meidner-frauenportrait-schlamassel-header_ca728cf97b.jpg 320w, /fileadmin/_processed_/0/b/csm_else-meidner-frauenportrait-schlamassel-header_c554e769a5.jpg 640w" sizes="100vw" /><img class="a-picture__image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw== " width="320" alt="Else Meidner, Frauenporträt (Ausschnitt), Kohlezeichnung, 1945" title="Else Meidner, Frauenporträt (Ausschnitt), Kohlezeichnung, 1945 © Ludwig Meidner-Archiv, Jüdisches Museum der Stadt Frankfurt am Main" /></picture></div><div class="l-container"><div class="l-container__wrapper"><div class="l-container__grid"><div class="o-intro-stage__content-anchor-navigation-wrapper"><div class="o-intro-stage__content"><nav class="m-breadcrumbs m-breadcrumbs-- o-intro-stage__breadcrumbs" aria-label="breadcrumbs"><ol class="m-breadcrumbs__list"><li class="m-breadcrumbs__item"><a href="/" class="a-link m-breadcrumbs__link"><svg
+  class="a-svg-icon a-svg-icon--links-mini-left a-link__icon"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  aria-hidden=true><use xlink:href="#links-mini-left"></use></svg>
+
+
+
+                
+                Startseite
+            </a><span class="m-breadcrumbs__item-separator"></span></li></ol></nav><h1 class="a-headline a-headline--main o-intro-stage__headline" >Was für ein Schlamassel!</h1><h2 class="a-headline a-headline--sub o-intro-stage__subheadline"  >Diese Seite existiert nicht.</h2></div><div aria-hidden="true" hidden style="height: 0; overflow: hidden;" class="m-anchor-navigation o-intro-stage__anchor-navigation" data-js-module="m-anchor-navigation"><script data-js-element="m-anchor-navigation__nav-list-item-template" type="text/template"><li class="m-anchor-navigation__nav-list-item"><a href="#" class="a-link  m-anchor-navigation__nav-list-item-link" data-js-element=m-anchor-navigation__nav-list-item-link><svg
+  class="a-svg-icon a-svg-icon--links-down a-link__icon"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  aria-hidden=true><use xlink:href="#links-down"></use></svg>
+
+
+
+                      
+                      #LABEL#
+                  </a></li></script><div class="m-anchor-navigation__menu-wrapper" data-js-element="m-anchor-navigation__menu-wrapper"><div class="m-anchor-navigation__menu"><button class="m-anchor-navigation__toggle-button" aria-expanded="true" data-js-element="m-anchor-navigation__toggle-button" aria-controls="m-anchor-navigation__nav-wrapper" id="m-anchor-navigation__toggle-button"><span class="m-anchor-navigation__toggle-button-icon"><svg
+  class="a-svg-icon a-svg-icon--square-arrow-burger a-link__icon"
+  role="img"
+  aria-labelledby="title-square-arrow-burger-759741 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/square.svg"
+  ><title id="title-square-arrow-burger-759741">Überblick</title><use xlink:href="#square-arrow-burger"></use></svg></span><span>Überblick</span></button><div class="m-anchor-navigation__nav-wrapper" data-js-element="m-anchor-navigation__nav-wrapper" aria-labelledby="m-anchor-navigation__toggle-button" id="m-anchor-navigation__nav-wrapper"><nav class="m-anchor-navigation__nav"><ul class="m-anchor-navigation__nav-list" data-js-element="m-anchor-navigation__nav-list"></ul></nav></div></div></div></div></div></div></div></div></div><div class="l-container"><div class="l-container__wrapper"><div class="o-media-copy t-default__copy" data-js-module="o-media-copy"><div class="o-media-copy__copy"><p>Wenn Sie auf der Suche nach einer Führung, Veranstaltung oder Ausstellung waren, finden Sie diese auf unserer <a href="/besuch/">Besuchen-Seite</a>.</p></div></div></div></div><!--TYPO3SEARCH_end--></main><template data-js-module="o-collection-tags--template"><div class=" l-container"><div class="l-container__wrapper"><div class="l-container__grid"><div class="o-collection-tags" data-js-module="o-collection-tags"><h3 class="o-collection-tags__headline">Collection Tags</h3><ul class="o-collection-tags__taglist" data-js-element="o-collection-tags__taglist"></ul></div></div></div></div></template><footer><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@graph":
+    [
+      {
+        "@type": ["TouristAttraction", "Museum"],
+        "name": "Jüdisches Museum Frankfurt",
+        "address": "Bertha-Pappenheim-Platz 1, 60311 Frankfurt am Main",
+        "openingHours": ["Öffnungszeiten ", "
+Di–So#10.00–18.00 Uhr", "
+Donnerstags Wechselausstellung#10.00-20.00 Uhr"]
+      },
+      {
+        "@type": ["TouristAttraction", "Museum"],
+        "name": "Museum Judengasse Frankfurt",
+        "address": "Battonnstraße 47, 60311 Frankfurt am Main",
+        "openingHours": ["Di–So#10.00–18.00 Uhr"]
+      }
+    ]
+  }
+</script><section class="o-locations-map t-default__locations-map" data-js-module="o-locations-map" data-js-google-maps-api-key="AIzaSyA2MRsqzci_4RBW691G4FmxV9UyKelccOQ"><div class="o-locations-map__content l-container"><div class="l-container__wrapper"><div class="l-container__grid"><div class="o-locations-map__location"><a class="o-locations-map__location-link" href="/besuch/juedisches-museum-frankfurt/"><svg
+  class="a-svg-icon a-svg-icon--various-logo-jmffm o-locations-map__location-logo o-locations-map__location-logo--jmffm"
+  role="img"
+  aria-labelledby="title-various-logo-jmffm-183925 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  ><title id="title-various-logo-jmffm-183925">Museum Judengasse</title><use xlink:href="#various-logo-jmffm"></use></svg></a><div class="o-locations-map__location-address">
+            Bertha-Pappenheim-Platz 1, <br />60311 Frankfurt am Main<br />Tel: + 49 (0) 69-212-35000
+          </div></div><div class="o-locations-map__location"><a class="o-locations-map__location-link" href="/besuch/museum-judengasse/"><svg
+  class="a-svg-icon a-svg-icon--various-logo-mjf o-locations-map__location-logo o-locations-map__location-logo--mjf"
+  role="img"
+  aria-labelledby="title-various-logo-mjf-938339 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  ><title id="title-various-logo-mjf-938339">Jüdisches Museum Frankfurt</title><use xlink:href="#various-logo-mjf"></use></svg></a><div class="o-locations-map__location-address">
+            Battonnstraße 47, <br />60311 Frankfurt am Main<br />Tel: + 49 (0) 69-212-70790
+          </div></div><div class="o-locations-map__right"><div class="o-locations-map__map-wrapper"><div class="o-locations-map__map" data-js-element="o-locations-map__map" data-js-jmffm-lat="50.107180" data-js-jmffm-lng="8.674568" data-js-mjf-lat="50.112322" data-js-mjf-lng="8.689140" role="presentation" aria-hidden="true"></div></div></div></div><div class="o-locations-map__more"><button class="o-locations-map__more-button" data-js-element="o-locations-map__more-button" aria-controls="o-locations-map__more-content" aria-expanded="false" tabindex="0" id="o-locations-map__more-button-951124">
+          Andere Orte
+          
+
+
+<svg
+  class="a-svg-icon a-svg-icon--links-mini-down o-locations-map__more-button-icon"
+  role="img"
+  aria-labelledby="title-links-mini-down-643321 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  aria-hidden=true><title id="title-links-mini-down-643321">Andere Orte</title><use xlink:href="#links-mini-down"></use></svg></button><div class="o-locations-map__more-content l-container__grid"  data-js-element="o-locations-map__more-content" id="o-locations-map__more-content" role="region" aria-hidden="true" aria-labelledby="o-locations-map__more-button-951124"><a href="/besuch/hochbunker-friedberger-anlage/" class="a-link o-locations-map__more-content-link"><svg
+  class="a-svg-icon a-svg-icon--links-default a-link__icon"
+  role="img"
+  aria-labelledby="title-links-default-33740 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-default-33740">Hochbunker an der Friedberger Anlage</title><use xlink:href="#links-default"></use></svg>
+
+
+Hochbunker an der Friedberger Anlage</a><a href="/besuch/grossmarkthalle-frankfurt/" class="a-link o-locations-map__more-content-link"><svg
+  class="a-svg-icon a-svg-icon--links-default a-link__icon"
+  role="img"
+  aria-labelledby="title-links-default-703719 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-default-703719">Erinnerungsstätte Großmarkthalle</title><use xlink:href="#links-default"></use></svg>
+
+
+Erinnerungsstätte Großmarkthalle</a><a href="/besuch/gedenkstaette-boerneplatz-frankfurt/" class="a-link o-locations-map__more-content-link"><svg
+  class="a-svg-icon a-svg-icon--links-default a-link__icon"
+  role="img"
+  aria-labelledby="title-links-default-925047 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-default-925047">Gedenkstätte Börneplatz</title><use xlink:href="#links-default"></use></svg>
+
+
+Gedenkstätte Börneplatz</a><a href="/besuch/alter-juedischer-friedhof-battonnstrasse/" class="a-link o-locations-map__more-content-link"><svg
+  class="a-svg-icon a-svg-icon--links-default a-link__icon"
+  role="img"
+  aria-labelledby="title-links-default-447125 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-default-447125">Alter Jüdischer Friedhof Battonnstraße</title><use xlink:href="#links-default"></use></svg>
+
+
+Alter Jüdischer Friedhof Battonnstraße</a><a href="/besuch/bibliothek/" class="a-link o-locations-map__more-content-link"><svg
+  class="a-svg-icon a-svg-icon--links-default a-link__icon"
+  role="img"
+  aria-labelledby="title-links-default-705877 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-default-705877">Bibliothek im Jüdischen Museum</title><use xlink:href="#links-default"></use></svg>
+
+
+Bibliothek im Jüdischen Museum</a><a href="/besuch/life-deli/" class="a-link o-locations-map__more-content-link"><svg
+  class="a-svg-icon a-svg-icon--links-default a-link__icon"
+  role="img"
+  aria-labelledby="title-links-default-830589 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-default-830589">Life Deli</title><use xlink:href="#links-default"></use></svg>
+
+
+Life Deli</a></div></div></div></div></section><form class="o-connect t-default__connect" action="https://seu2.cleverreach.com/f/131877-175336/wcs/" name="newsletteranmeldung" method="post" target="_blank"><div class="l-container"><div class="l-container__wrapper o-connect__form-wrapper"><div class="o-connect__form"><div class="o-connect__form-text">In unserem monatlichen Newsletter informieren wir Sie über aktuelle Veranstaltungen, Ausstellungen und Neuigkeiten.</div><div class="o-connect__form-input"><input class="o-connect__form-input-text" type="text" id="text3689638" name="email" value="" type="text" placeholder="E-Mail" aria-label="E-Mail" title="E-Mail"><button id="3689642" type="button" onclick="document.forms.namedItem('newsletteranmeldung').submit();document.forms.namedItem('newsletteranmeldung').reset();return false;" class="o-connect__form-input-submit" rel="button"><svg
+  class="a-svg-icon a-svg-icon--links-default o-connect__form-input-submit-icon"
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><use xlink:href="#links-default"></use></svg><span class="o-connect__form-input-submit-text">Anmelden</span></button></div></div><a class="a-link o-connect__link" href="/newsletter-archiv/"><svg
+  class="a-svg-icon a-svg-icon--links-default a-link__icon"
+  role="img"
+  aria-labelledby="title-links-default-541548 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg"
+  ><title id="title-links-default-541548">Newsletterarchiv</title><use xlink:href="#links-default"></use></svg>
+
+
+
+          Newsletterarchiv
+      </a><div class="o-connect__social-media"><div class="o-connect__social-media-text">
+          Folgen Sie uns auf:
+        </div><a href="https://www.instagram.com/juedischesmuseumffm/" target="_blank" rel="noopener" class="o-connect__social-media-icon" aria-label="Pinterest"><svg
+  class="a-svg-icon a-svg-icon--social-media-pinterest o-connect__link-icon"
+  role="img"
+  aria-labelledby="title-social-media-pinterest-192334 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/social-media.svg"
+  ><title id="title-social-media-pinterest-192334">Instagram</title><use xlink:href="#social-media-pinterest"></use></svg></a><a href="https://bsky.app/profile/jmfrankfurt.bsky.social" target="_blank" rel="noopener" class="o-connect__social-media-icon" aria-label="Bluesky"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="a-svg-icon a-svg-icon--social-media-twitter o-connect__link-icon"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M407.8 294.7c-3.3-.4-6.7-.8-10-1.3c3.4 .4 6.7 .9 10 1.3zM288 227.1C261.9 176.4 190.9 81.9 124.9 35.3C61.6-9.4 37.5-1.7 21.6 5.5C3.3 13.8 0 41.9 0 58.4S9.1 194 15 213.9c19.5 65.7 89.1 87.9 153.2 80.7c3.3-.5 6.6-.9 10-1.4c-3.3 .5-6.6 1-10 1.4C74.3 308.6-9.1 342.8 100.3 464.5C220.6 589.1 265.1 437.8 288 361.1c22.9 76.7 49.2 222.5 185.6 103.4c102.4-103.4 28.1-156-65.8-169.9c-3.3-.4-6.7-.8-10-1.3c3.4 .4 6.7 .9 10 1.3c64.1 7.1 133.6-15.1 153.2-80.7C566.9 194 576 75 576 58.4s-3.3-44.7-21.6-52.9c-15.8-7.1-40-14.9-103.2 29.8C385.1 81.9 314.1 176.4 288 227.1z"/></svg></a><a href="http://www.facebook.com/pages/J%C3%BCdisches-Museum-Frankfurt/201259986559446?ref=tn_tnmn" target="_blank" rel="noopener" class="o-connect__social-media-icon" aria-label="facebook"><svg
+  class="a-svg-icon a-svg-icon--social-media-facebook o-connect__link-icon"
+  role="img"
+  aria-labelledby="title-social-media-facebook-342475 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/social-media.svg"
+  ><title id="title-social-media-facebook-342475">facebook</title><use xlink:href="#social-media-facebook"></use></svg></a><a href="https://www.youtube.com/channel/UCLs02UuJNRdwi1Yb2lKXqww" target="_blank" rel="noopener" class="o-connect__social-media-icon" aria-label="YouTube"><svg
+  class="a-svg-icon a-svg-icon--social-media-youtube o-connect__link-icon"
+  role="img"
+  aria-labelledby="title-social-media-youtube-901446 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/social-media.svg"
+  ><title id="title-social-media-youtube-901446">YouTube</title><use xlink:href="#social-media-youtube"></use></svg></a></div></div></div></form><section class="o-footer l-container t-default__footer"><div class="l-container__wrapper"><nav class="o-footer__nav"><ul class="o-footer__nav-wrapper"><li class="o-footer__nav-group"><span class="o-footer__nav-group-headline">Besuch</span><ul class="o-footer__nav-group-link-wrapper"><li><a href="/besuch/ausstellungen/" title="Ausstellungen" class="o-footer__nav-link">/&nbsp;Ausstellungen</a></li><li><a href="/besuch/ausstellungen/ausstellungsarchiv/" title="Ausstellungsarchiv" class="o-footer__nav-link">/&nbsp;Ausstellungsarchiv</a></li><li><a href="/besuch/kalender/" title="Kalender" class="o-footer__nav-link">/&nbsp;Kalender</a></li><li><a href="/besuch/fuehrungsangebote/" title="Angebote und Führungen" class="o-footer__nav-link">/&nbsp;Angebote und Führungen</a></li><li><a href="/besuch/bibliothek/" title="Bibliothek" class="o-footer__nav-link">/&nbsp;Bibliothek</a></li><li><a href="/nc/besuch/museum-to-go/" title="Museum To Go" class="o-footer__nav-link">/&nbsp;Museum To Go</a></li><li><a href="/besuch/museumsshop-literaturhandlung/" title="Literaturhandlung" class="o-footer__nav-link">/&nbsp;Literaturhandlung</a></li><li><a href="/besuch/life-deli/" title="Life Deli" class="o-footer__nav-link">/&nbsp;Life Deli</a></li></ul></li><li class="o-footer__nav-group"><span class="o-footer__nav-group-headline">Museum</span><ul class="o-footer__nav-group-link-wrapper"><li><a href="/museum/ansprechpartner/" title="Team &amp; Ansprechpartner:innen" class="o-footer__nav-link">/&nbsp;Team & Ansprechpartner:innen</a></li><li><a href="/museum/freunde-und-foerderer-jmf/" title="Freunde &amp; Förderer" class="o-footer__nav-link">/&nbsp;Freunde & Förderer</a></li><li><a href="/museum/museumsgeschichte/" title="Geschichte des Museums" class="o-footer__nav-link">/&nbsp;Geschichte des Museums</a></li><li><a href="/museum/stellen-und-praktika/" title="Stellen &amp; Praktika" class="o-footer__nav-link">/&nbsp;Stellen & Praktika</a></li><li><a href="/museum/kooperationen/" title="Kooperationen" class="o-footer__nav-link">/&nbsp;Kooperationen</a></li><li><a href="/museum/vermietung-events/" title="Vermietung &amp; Events" class="o-footer__nav-link">/&nbsp;Vermietung & Events</a></li></ul></li><li class="o-footer__nav-group"><span class="o-footer__nav-group-headline">Bildung</span><ul class="o-footer__nav-group-link-wrapper"><li><a href="/bildung/" title="Lernangebote" class="o-footer__nav-link">/&nbsp;Lernangebote</a></li><li><a href="/bildung/digitales-museum/" title="Digitales Museum" class="o-footer__nav-link">/&nbsp;Digitales Museum</a></li><li><a href="/blog/" title="Blog" class="o-footer__nav-link">/&nbsp;Blog</a></li><li><a href="/bildung/publikationsverzeichnis/" title="Publikationen" class="o-footer__nav-link">/&nbsp;Publikationen</a></li><li><a href="https://metahubfrankfurt.de/" title="METAhub" class="o-footer__nav-link">/&nbsp;METAhub</a></li></ul></li><li class="o-footer__nav-group"><span class="o-footer__nav-group-headline">Sammlung</span><ul class="o-footer__nav-group-link-wrapper"><li><a href="/digitale-sammlung/" title="Digitale Sammlung" class="o-footer__nav-link">/&nbsp;Digitale Sammlung</a></li><li><a href="/sammlung/familie-frank-zentrum/" title="Familie Frank Zentrum" class="o-footer__nav-link">/&nbsp;Familie Frank Zentrum</a></li><li><a href="/sammlung/bildende-kunst/" title="Bildende Kunst" class="o-footer__nav-link">/&nbsp;Bildende Kunst</a></li><li><a href="/sammlung/judaica/" title="Judaica" class="o-footer__nav-link">/&nbsp;Judaica</a></li><li><a href="/sammlung/juedische-kulturen-der-gegenwart/" title="Jüdische Gegenwartskulturen" class="o-footer__nav-link">/&nbsp;Jüdische Gegenwartskulturen</a></li><li><a href="/sammlung/alltagsgegenstaende/" title="Alltagsgegenstände" class="o-footer__nav-link">/&nbsp;Alltagsgegenstände</a></li><li><a href="/sammlung/dokumente-fotografien/" title="Dokumente und Fotografien" class="o-footer__nav-link">/&nbsp;Dokumente und Fotografien</a></li><li><a href="/sammlung/handschriften-drucke/" title="Handschriften und Drucke" class="o-footer__nav-link">/&nbsp;Handschriften und Drucke</a></li></ul></li></ul></nav><nav class="o-footer__subnav"><div class="o-footer__subnav-logo-wrapper o-footer--hide-on-smartphone"><div class="o-footer__logo"><svg
+  class="a-svg-icon a-svg-icon--various-logo-kulturamt-frankfurt o-footer__logo-image"
+  role="img"
+  aria-labelledby="title-various-logo-kulturamt-frankfurt-519225 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  ><title id="title-various-logo-kulturamt-frankfurt-519225">Kulturamt Stadt Frankfurt am Main</title><use xlink:href="#various-logo-kulturamt-frankfurt"></use></svg></div><div class="o-footer__logo"><img src="/typo3conf/ext/website/Resources/Public/images/logos/MU_Frankfurt_Weiss_70.svg" title="Museums Ufer Frankfurt" alt="Museums Ufer Frankfurt"></div></div><div class="o-footer__subnav-legal-nav"><a href="/presse/" title="Presse" class="o-footer__nav-link">Presse</a><a href="/leichte-sprache/" title="Leichte Sprache" class="o-footer__nav-link">Leichte Sprache</a><a href="/newsletteranmeldung/" title="Newsletter" class="o-footer__nav-link">Newsletter</a><a href="/kontakt/" title="Kontakt" class="o-footer__nav-link">Kontakt</a><a href="/impressum/" title="Impressum" class="o-footer__nav-link">Impressum</a><a href="/datenschutz/" title="Datenschutz" class="o-footer__nav-link">Datenschutz</a><a href="https://juedischesmuseum.ticketfritz.de/Home/Index" title="Onlineshop" class="o-footer__nav-link">Onlineshop</a></div></nav><div class="o-footer__copyright"><div class="o-footer__logo o-footer--show-on-smartphone"><svg
+  class="a-svg-icon a-svg-icon--various-logo-kulturamt-frankfurt o-footer__logo-image"
+  role="img"
+  aria-labelledby="title-various-logo-kulturamt-frankfurt-293131 "
+  data-js-module="a-svg-icon"
+  data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/various.svg"
+  ><title id="title-various-logo-kulturamt-frankfurt-293131">Kulturamt Stadt Frankfurt am Main</title><use xlink:href="#various-logo-kulturamt-frankfurt"></use></svg></div><div class="o-footer__copyright__text">
+          Das Jüdische Museum Frankfurt ist eine Einrichtung der Stadt Frankfurt am Main.
+        </div><div class="o-footer__logo o-footer--show-on-smartphone"><img src="/typo3conf/ext/website/Resources/Public/images/logos/MU_Frankfurt_Weiss_70.svg" title="Museums Ufer Frankfurt" alt="Museums Ufer Frankfurt"></div><div class="o-footer__copyright__date">
+          CC-BY-SA 3.0 Jüdisches Museum Frankfurt
+        </div></div></div></section></footer></div>
+
+
+
+	<div class="tx-om-cookie-consent">
+		
+    <div class="om-cookie-panel" data-omcookie-panel="1">
+     <div class="col-sm-12 whiteBG">
+     <div class="innerContainer">
+      <h3 class="a-headline--sub">Cookie Einstellungen</h3>
+       <div class="col-sm-8 left">
+         <div class="cookie-panel__selection">
+           <form>
+             
+               <div class="cookie-panel__checkbox-wrap">
+                 <input class="cookie-panel__checkbox cookie-panel__checkbox--state-inactiv" autocomplete="off" data-omcookie-panel-grp="1" id="group-1" type="checkbox" checked=1 data-omcookie-panel-essential="1" disabled="disabled" value="group-1" />
+                 <label for="group-1">Essenzielle Cookies</label>
+               </div>
+             
+               <div class="cookie-panel__checkbox-wrap">
+                 <input class="cookie-panel__checkbox " autocomplete="off" data-omcookie-panel-grp="1" id="group-2" type="checkbox"  value="group-2" />
+                 <label for="group-2">Google AdWords und Conversion-Tracking</label>
+               </div>
+             
+           </form>
+         </div>
+         <div class="cookie-panel__description">
+           <p>Auf unserer Webseite werden Cookies verwendet. Einige davon werden zwingend benötigt, während es uns andere ermöglichen, Ihre Nutzererfahrung auf unserer Webseite zu verbessern.&nbsp;Wir bitten hiermit um Erlaubnis, die oben genannten optionalen Cookies zu Ihrem Nutzerverhalten verwenden zu dürfen. Diese Einwilligung ist freiwillig, nicht für die Nutzung der Website erforderlich und kann jederzeit widerrufen werden. Sie finden die Einstellungen in der Datenschutzerklärung.</p>
+           
+             <div class="o-media-copy__copy cookie-panel__link"><p><a href="/datenschutz/">Mehr über die genutzten Cookies erfahren</a></p></div>
+           
+         </div>
+       </div>
+      
+      <div class="col-sm-4 right"> 
+       <div class="cookie-panel__control">
+         
+         <button class="m-cookie-layer__button has-hoverable-children cookie-new blue" data-js-element="m-cookie-layer__button" data-omcookie-panel-save="all">
+           <p class="a-link a-link--white m-cookie-layer__button-link">
+             <svg class="a-svg-icon a-svg-icon--links-default a-link__icon" data-js-module="a-svg-icon" data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg" aria-hidden="true">
+               <use xlink:href="#links-default"></use></svg>
+             Alle akzeptieren
+           </p>       
+         </button>
+         
+         
+           <button class="m-cookie-layer__button has-hoverable-children cookie-new" data-js-element="m-cookie-layer__button" data-omcookie-panel-save="min">
+             <p class="a-link a-link--white m-cookie-layer__button-link">
+               <svg class="a-svg-icon a-svg-icon--links-default a-link__icon" data-js-module="a-svg-icon" data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg" aria-hidden="true">
+                 <use xlink:href="#links-default"></use></svg>
+               Nur essentielle Cookies akzeptieren
+             </p>       
+           </button>
+         
+         <button class="m-cookie-layer__button has-hoverable-children cookie-new" data-js-element="m-cookie-layer__button" data-omcookie-panel-save="save">
+           <p class="a-link a-link--white m-cookie-layer__button-link">
+             <svg class="a-svg-icon a-svg-icon--links-default a-link__icon" data-js-module="a-svg-icon" data-js-sprite-path="/typo3conf/ext/website/Resources/Public/svg-sprites/links.svg" aria-hidden="true">
+               <use xlink:href="#links-default"></use></svg>
+             Speichern und schließen
+           </p>       
+         </button>
+         
+       </div>
+      </div>
+          </div> 
+     </div> 
+    </div>
+  
+	</div>
+
+<script src="/typo3temp/assets/compressed/merged-5abd48497a8dda2133136096b677d844.js" type="text/javascript"></script>
+
+
+</body>
+</html>

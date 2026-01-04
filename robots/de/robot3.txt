@@ -1,0 +1,137 @@
+# Disallow crawling for GPTBot
+User-agent: GPTBot
+Disallow: /
+
+# used by plugins in GPT:
+User-agent: ChatGPT-User
+Disallow: /
+
+# Common Crawl Bot https://commoncrawl.org/faq:
+User-agent: CCBot
+Disallow: /
+
+# Google Bard
+User-agent: Google-Extended
+Disallow: /
+
+# Disallow StoreHistory ajax call
+Disallow: /*tx_datamintsdorsch_userajax*
+
+# Allow crawling of all content
+User-agent: *
+Allow: /
+
+# Disallow certain TYPO3 folders.
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /typo3conf/ext/
+
+# Disallow certain parameters.
+#Disallow: /*?id=*					# No pages that aren't 'beautified'
+#Disallow: /*cHash					# No pages with cHash
+Disallow: /*tx_powermail_pi1		# No powermail thanks pages
+Disallow: /*tx_form_formframework	# No forms
+
+# Add XML sitemaps, one per language
+Sitemap: https://dorsch.hogrefe.com/?type=1533906435
+# Sitemap: https://dorsch.hogrefe.com/en/?type=1533906435
+
+# R-39375: Disallow search URLs from indexing
+Disallow: /suchergebnisse?tx_datamintssearch_pi1[search][query]=
+
+# R-39463: Disallow NY Times recommend Bots
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: FriendlyCrawler
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: NewsNow
+Disallow: /
+
+User-agent: news-please
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: peer39_crawler
+User-agent: peer39_crawler/1.0
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Quora-Bot
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: Google-CloudVertexBo
+Disallow: /
+
+Disallow: /*tx_datamintsdorsch_userajax

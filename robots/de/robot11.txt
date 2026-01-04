@@ -1,0 +1,94 @@
+User-agent: *
+User-agent: Bingbot
+User-agent: msnbot
+
+# Directories
+Disallow: /app/
+Disallow: /bin/
+Disallow: /dev/
+Disallow: /lib/
+Disallow: /phpserver/
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /setup/
+Disallow: /update/
+Disallow: /var/
+Disallow: /vendor/
+
+# Paths (clean URLs)
+Disallow: /index.php/
+Disallow: /catalog/product_compare/*
+Disallow: /catalog/product/view/*
+Disallow: /catalog/category/view/id/*
+Disallow: /catalogsearch/
+Disallow: /checkout/
+Disallow: /control/
+Disallow: /contacts/
+Disallow: /customer/
+Disallow: /customize/
+Disallow: /newsletter/
+Disallow: /review/
+Disallow: /sendfriend/
+Disallow: /wishlist/
+
+# Files
+Disallow: /composer.*
+Disallow: /CONTRIBUT*
+Disallow: /COPYING.txt
+Disallow: /Gruntfile.js
+Disallow: /LICENSE*
+Disallow: /nginx.conf.sample
+Disallow: /package.json
+Disallow: /php.ini.sample
+Disallow: /RELEASE_NOTES.txt
+
+
+# Do not index session ID
+Disallow: /*?SID=
+Disallow: /*.php$
+
+# CVS, SVN directory and dump files
+Disallow: /*.CVS
+Disallow: /*.Zip$
+Disallow: /*.Svn$
+Disallow: /*.Idea$
+Disallow: /*.Sql$
+Disallow: /*.Tgz$
+Disallow: //*
+
+
+# Queries
+Disallow: /*?*
+Disallow: /*?p=*&*
+Allow: /*?p=*
+Disallow: /*?p=1
+Allow: /*page=*
+
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google
+
+Allow: /*?*
+
+
+
+Sitemap: https://www.annadiva.de/sitemap/annadiva-de/sitemap.xml
+
+User-agent: Yahoo! Slurp
+Crawl-delay: 10
+User-agent: Semrushbot
+Crawl-delay: 5
+User-agent: Pinterestbot
+Crawl-delay: 5
+User-agent: DotBot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: Feedbot
+Disallow: /
+User-agent: Brightbot 1.0
+Disallow: /
+

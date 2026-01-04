@@ -1,0 +1,82 @@
+User-Agent: *
+Allow: /
+
+# folders
+Disallow: /typo3/
+Disallow: /typo3conf/
+
+# explicitly allow extension and temp directory
+Allow: /typo3conf/ext/
+Allow: /typo3temp/
+
+# same for sitemap.xml urls
+Allow: /sitemap.xml?sitemap*
+Allow: /sitemap.xml?page=*
+
+# disallow script files
+Disallow: /*.inc$
+Disallow: /*.php$
+
+# disallow document files
+Disallow: /*.doc$
+Disallow: /*.pdf$
+Disallow: /*.xls$
+
+# disallow pdf downloads
+Disallow: /*/download.html
+# disallow download folder
+Disallow: /fileadmin/download/
+
+# disallow user-specific, already has meta noindex
+Disallow: /warenkorb/
+Disallow: /mein-konto/
+# disallow search page, already has meta noindex
+Disallow: /suche.html
+
+# disallow various crawlers
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Perplexity-User
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+# Legal notice: Verlagsgruppe Beltz GmbH & Co KG prohibits the right to use its content für text and data mining according to § 44 b German Copyright Act (UrhG).
+# If you would like to apply for permission to crawl psychologie-heute.de, collect or use data, please email service@psychologie-heute.de
+
+Sitemap: https://www.psychologie-heute.de/sitemap.xml
