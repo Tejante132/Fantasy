@@ -275,8 +275,8 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695aba5a543f2">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba5a543f2" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ac8b71c7e0">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8b71c7e0" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -377,8 +377,8 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695aba5a5adbe">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba5a5adbe" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ac8b722d46">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8b722d46" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -421,8 +421,8 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695aba5a61527">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba5a61527" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ac8b7260d9">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8b7260d9" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -1003,7 +1003,7 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
                   <div class="similarArticleWrap">
                     <div class="articleHeadliner">
                       
-<div class="articleWrap" data-uid="44410" data-publication-date="1754982900">
+<div class="articleWrap" data-uid="41627" data-publication-date="1638524700">
   
   <div class="articleTextWrap">
     
@@ -1012,21 +1012,23 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
   
   
       <span>
-        <a href="/beruf.html">Beruf</a>
+        <a href="/serien/buch-kritik.html">
+          Buch &amp; Kritik
+        </a>
       </span>
     
   
 </div>
 
     <div class="articleTitle">
-      <a href="/beruf/artikel-detailansicht/44410-wenn-die-angst-um-den-job-krank-macht-und-umgekehrt.html" title="Wenn die Angst um den Job krank macht – und umgekehrt">
-        Wenn die Angst um den Job krank macht – und umgekehrt
+      <a href="/gesellschaft/artikel-detailansicht/41627-ist-feminismus-nur-noch-ein-werbelabel.html" title="Ist Feminismus nur noch ein Werbelabel?">
+        Ist Feminismus nur noch ein Werbelabel?
       </a>
     </div>
     
         
           <div class="articleDescription">
-            Arbeitsplatzsorgen und psychische Probleme können sich gegenseitig hochschaukeln – mit ernsten Folgen für Betroffene. Das zeigt eine Studie
+            Einst war der Feminismus eine politische Bewegung. Warum er nun zu einem profitablen Werbelabel verkommen ist, erklärt Beate Hausbichler im Interview.
           </div>
         
       
@@ -1074,8 +1076,8 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
 <div class="advertisementWrap">
   <div class="advertisementBoxWrap
           
-          advertisementInternalWrap
           
+          advertisementExternalWrap
           
           
           advertisementFullsize
@@ -1086,9 +1088,9 @@ var et_url = "https://www.psychologie-heute.de/gesundheit/artikel-detailansicht/
       
   <div class="articleWrap">
     <div class="articleImage">
-      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung intern','Notizbücher_neu'))" target="_self" href="https://www.psychologie-heute.de/abo-shop/geschenke.html">
+      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung extern','People Pleasing'))" target="_blank" href="https://www.beltz.de/sachbuch_ratgeber/produkte/details/50913-people-pleasing.html">
         
-          <img class="img-responsive" alt="Notizbücher_neu" src="/fileadmin/user_upload/720x1120_PH_Notizbu__cher_FINAL.jpg" width="720" height="1120" />
+          <img class="img-responsive" alt="People Pleasing" src="/fileadmin/user_upload/Beltz_04.10.2023.jpg" width="360" height="560" />
         
       </a>
     </div>

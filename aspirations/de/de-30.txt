@@ -275,8 +275,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695aba6e0b7bc">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba6e0b7bc" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ac8cc41b94">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8cc41b94" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -377,8 +377,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695aba6e11e86">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba6e11e86" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ac8cc48093">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8cc48093" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -421,8 +421,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695aba6e18562">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba6e18562" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ac8cc4e59d">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8cc4e59d" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -978,7 +978,7 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
                   <div class="similarArticleWrap">
                     <div class="articleHeadliner">
                       
-<div class="articleWrap" data-uid="42073" data-publication-date="1659435300">
+<div class="articleWrap" data-uid="44594" data-publication-date="1765182600">
   
   <div class="articleTextWrap">
     
@@ -994,14 +994,14 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
 </div>
 
     <div class="articleTitle">
-      <a href="/leben/artikel-detailansicht/42073-traumdeutung.html" title="Traumdeutung ">
-        Traumdeutung 
+      <a href="/leben/artikel-detailansicht/44594-die-verantwortungstorte.html" title="Die Verantwortungstorte">
+        Die Verantwortungstorte
       </a>
     </div>
     
         
           <div class="articleDescription">
-            Ob vom Fliegen, von Zahnausfall oder Schlangen: Wovon wir träumen, verrät laut Sigmund Freud einiges über uns. ► Was sagt die moderne Psychologie dazu?
+            Läuft privat oder beruflich etwas schief, beziehen Sie das auf sich. Ein Tortendiagramm kann helfen, um die wahren Verantwortlichkeiten zu klären
           </div>
         
       
@@ -1049,8 +1049,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
 <div class="advertisementWrap">
   <div class="advertisementBoxWrap
           
-          advertisementInternalWrap
           
+          advertisementExternalWrap
           
           
           advertisementFullsize
@@ -1061,9 +1061,9 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
       
   <div class="articleWrap">
     <div class="articleImage">
-      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung intern','Kakao'))" target="_self" href="https://www.psychologie-heute.de/abo-shop/detailseite/43224-kakao-seelenruhe.html">
+      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung extern','People Pleasing'))" target="_blank" href="https://www.beltz.de/sachbuch_ratgeber/produkte/details/50913-people-pleasing.html">
         
-          <img class="img-responsive" alt="Kakao" src="/fileadmin/user_upload/720x1120_PH-Kakao.jpg" width="720" height="1120" />
+          <img class="img-responsive" alt="People Pleasing" src="/fileadmin/user_upload/Beltz_04.10.2023.jpg" width="360" height="560" />
         
       </a>
     </div>

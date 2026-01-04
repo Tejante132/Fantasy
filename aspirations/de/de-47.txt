@@ -275,8 +275,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695aba7e960d6">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba7e960d6" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ac8db4746c">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8db4746c" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -377,8 +377,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695aba7e9bda0">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba7e9bda0" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ac8db4db80">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8db4db80" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -421,8 +421,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695aba7ea1fdd">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695aba7ea1fdd" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ac8db53ca5">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8db53ca5" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -961,7 +961,7 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
                   <div class="similarArticleWrap">
                     <div class="articleHeadliner">
                       
-<div class="articleWrap" data-uid="40499" data-publication-date="1588921200">
+<div class="articleWrap" data-uid="41321" data-publication-date="1625728500">
   
   <div class="articleTextWrap">
     
@@ -970,21 +970,23 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
   
   
       <span>
-        <a href="/gesundheit.html">Gesundheit</a>
+        <a href="/serien/psychologie-nach-zahlen.html">
+          Psychologie nach Zahlen
+        </a>
       </span>
     
   
 </div>
 
     <div class="articleTitle">
-      <a href="/gesundheit/artikel-detailansicht/40499-therapeutisches-drogencasting.html" title="Therapeutisches Drogencasting">
-        Therapeutisches Drogencasting
+      <a href="/gesundheit/artikel-detailansicht/41321-woran-hats-gelegen.html" title="Woran hat’s gelegen?">
+        Woran hat’s gelegen?
       </a>
     </div>
     
         
           <div class="articleDescription">
-            Können psychoaktive Substanzen die Behandlung von psychischen Krankheiten unterstützen – wie und welche genau?
+            Psychologie nach Zahlen: 6 Faktoren, die über Erfolg oder Scheitern einer Psychotherapie mitbestimmen.
           </div>
         
       
@@ -1044,9 +1046,9 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/40945
       
   <div class="articleWrap">
     <div class="articleImage">
-      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung intern','Einzelhefte bestellen'))" target="_self" href="https://www.psychologie-heute.de/abo-shop/einzelhefte/2025.html">
+      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung intern','Stehsammler'))" target="_self" href="https://www.psychologie-heute.de/abo-shop/detailseite/40599-sammelschuber-psychologie-heute.html">
         
-          <img class="img-responsive" alt="Einzelhefte bestellen" src="/fileadmin/user_upload/720x1120_Einzelhefte_nachbestellen.jpg" width="720" height="1120" />
+          <img class="img-responsive" alt="Stehsammler" src="/fileadmin/user_upload/720x1120_PH_Sammelschuber_FINAL.jpg" width="720" height="1120" />
         
       </a>
     </div>

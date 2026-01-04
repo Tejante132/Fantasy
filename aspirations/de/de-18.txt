@@ -100,7 +100,7 @@
 <style id='neve-style-inline-css'></style>
 
 <style id='rocket-lazyload-inline-css'>
-.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:var(--wpr-bg-a3e537a0-6831-43ee-a9bc-87157ccea09d) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:var(--wpr-bg-e6758fa7-382b-416c-9645-f7e1c722c73c) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
 /*# sourceURL=rocket-lazyload-inline-css */
 </style>
 
@@ -163,9 +163,9 @@ var FOOBOX = window.FOOBOX = {
 <noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
 	<style id="wpr-lazyload-bg-container"></style><style id="wpr-lazyload-bg-exclusion"></style>
 <noscript>
-<style id="wpr-lazyload-bg-nostyle">.rll-youtube-player .play{--wpr-bg-a3e537a0-6831-43ee-a9bc-87157ccea09d: url('https://www.silent-art.de/wp-content/plugins/wp-rocket/assets/img/youtube.png');}</style>
+<style id="wpr-lazyload-bg-nostyle">.rll-youtube-player .play{--wpr-bg-e6758fa7-382b-416c-9645-f7e1c722c73c: url('https://www.silent-art.de/wp-content/plugins/wp-rocket/assets/img/youtube.png');}</style>
 </noscript>
-<script type="application/javascript">const rocket_pairs = [{"selector":".rll-youtube-player .play","style":".rll-youtube-player .play{--wpr-bg-a3e537a0-6831-43ee-a9bc-87157ccea09d: url('https:\/\/www.silent-art.de\/wp-content\/plugins\/wp-rocket\/assets\/img\/youtube.png');}","hash":"a3e537a0-6831-43ee-a9bc-87157ccea09d","url":"https:\/\/www.silent-art.de\/wp-content\/plugins\/wp-rocket\/assets\/img\/youtube.png"}]; const rocket_excluded_pairs = [];</script><meta name="generator" content="WP Rocket 3.20.2" data-wpr-features="wpr_lazyload_css_bg_img wpr_remove_unused_css wpr_delay_js wpr_defer_js wpr_minify_js wpr_lazyload_images wpr_lazyload_iframes wpr_preconnect_external_domains wpr_oci wpr_image_dimensions wpr_minify_css wpr_preload_links wpr_desktop" /></head>
+<script type="application/javascript">const rocket_pairs = [{"selector":".rll-youtube-player .play","style":".rll-youtube-player .play{--wpr-bg-e6758fa7-382b-416c-9645-f7e1c722c73c: url('https:\/\/www.silent-art.de\/wp-content\/plugins\/wp-rocket\/assets\/img\/youtube.png');}","hash":"e6758fa7-382b-416c-9645-f7e1c722c73c","url":"https:\/\/www.silent-art.de\/wp-content\/plugins\/wp-rocket\/assets\/img\/youtube.png"}]; const rocket_excluded_pairs = [];</script><meta name="generator" content="WP Rocket 3.20.2" data-wpr-features="wpr_lazyload_css_bg_img wpr_remove_unused_css wpr_delay_js wpr_defer_js wpr_minify_js wpr_lazyload_images wpr_lazyload_iframes wpr_preconnect_external_domains wpr_oci wpr_image_dimensions wpr_minify_css wpr_preload_links wpr_desktop" /></head>
 
 <body data-cmplz=1  class="wp-singular page-template-default page page-id-2157 page-child parent-pageid-667 wp-custom-logo wp-theme-neve mega-menu-primary  nv-blog-grid nv-sidebar-full-width menu_sidebar_slide_left" id="neve_body"  >
 
@@ -264,7 +264,7 @@ var FOOBOX = window.FOOBOX = {
 		data-section="neve_sidebar-widgets-widget-area-3"
 		data-item-id="widget-area-3">
 		<div class="widget-area">
-		<div id="gtranslate-3" class="widget widget_gtranslate"><div class="gtranslate_wrapper" id="gt-wrapper-47953295"></div></div>	</div>
+		<div id="gtranslate-3" class="widget widget_gtranslate"><div class="gtranslate_wrapper" id="gt-wrapper-82735306"></div></div>	</div>
 	</div>
 
 </div></div>							</div>
@@ -532,7 +532,7 @@ var FOOBOX = window.FOOBOX = {
 		data-section="neve_sidebar-widgets-widget-area-3"
 		data-item-id="widget-area-3">
 		<div class="widget-area">
-		<div id="gtranslate-3" class="widget widget_gtranslate"><div class="gtranslate_wrapper" id="gt-wrapper-39353618"></div></div>	</div>
+		<div id="gtranslate-3" class="widget widget_gtranslate"><div class="gtranslate_wrapper" id="gt-wrapper-34619633"></div></div>	</div>
 	</div>
 
 </div><div class="builder-item tablet-left mobile-left"><div class="item--inner builder-item--nav-icon"
@@ -1498,7 +1498,7 @@ var rocket_lazyload_css_data = {"threshold":"300"};
 //# sourceURL=rocket_lazyload_css-js-after
 </script>
 <script id="neve-script-js-extra">
-var NeveProperties = {"ajaxurl":"https://www.silent-art.de/wp-admin/admin-ajax.php","nonce":"f478f1ba98","isRTL":"","isCustomize":""};
+var NeveProperties = {"ajaxurl":"https://www.silent-art.de/wp-admin/admin-ajax.php","nonce":"3c0c8bfb18","isRTL":"","isCustomize":""};
 //# sourceURL=neve-script-js-extra
 </script>
 <script data-minify="1" src="https://www.silent-art.de/wp-content/cache/min/1/wp-content/themes/neve/assets/js/build/modern/frontend.js?ver=1765194670" id="neve-script-js" async></script>
@@ -1578,17 +1578,17 @@ document.addEventListener("cmplz_enable_category", function () {
 //# sourceURL=cmplz-cookiebanner-js-after
 </script>
 <script id="codedropz-uploader-js-extra">
-var dnd_cf7_uploader = {"ajax_url":"https://www.silent-art.de/wp-admin/admin-ajax.php","ajax_nonce":"2533799935","drag_n_drop_upload":{"tag":"h3","text":"Drag & Drop Files Here","or_separator":"or","browse":"Browse Files","server_max_error":"The uploaded file exceeds the maximum upload size of your server.","large_file":"Uploaded file is too large","inavalid_type":"Uploaded file is not allowed for file type","max_file_limit":"Note : Some of the files are not uploaded ( Only %count% files allowed )","required":"This field is required.","delete":{"text":"deleting","title":"Remove"}},"dnd_text_counter":"of","disable_btn":""};
+var dnd_cf7_uploader = {"ajax_url":"https://www.silent-art.de/wp-admin/admin-ajax.php","ajax_nonce":"dbd0025d9f","drag_n_drop_upload":{"tag":"h3","text":"Drag & Drop Files Here","or_separator":"or","browse":"Browse Files","server_max_error":"The uploaded file exceeds the maximum upload size of your server.","large_file":"Uploaded file is too large","inavalid_type":"Uploaded file is not allowed for file type","max_file_limit":"Note : Some of the files are not uploaded ( Only %count% files allowed )","required":"This field is required.","delete":{"text":"deleting","title":"Remove"}},"dnd_text_counter":"of","disable_btn":""};
 //# sourceURL=codedropz-uploader-js-extra
 </script>
 <script type="rocketlazyloadscript" data-rocket-src="https://www.silent-art.de/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/js/codedropz-uploader-min.js?ver=1.3.9.3" id="codedropz-uploader-js" data-rocket-defer defer></script>
-<script type="rocketlazyloadscript" id="gt_widget_script_47953295-js-before">
-window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['47953295'] = {"default_language":"de","languages":["de","en","fr","es","it"],"url_structure":"none","native_language_names":1,"flag_style":"2d","flag_size":16,"wrapper_selector":"#gt-wrapper-47953295","alt_flags":[],"custom_css":".gt_switcher {\r\n    border: 0px!important;\r\nbackground: #e6e6e6 !important;\r\n    padding: 0px 0px !important;\r\n}\r\n.gt_selected {\r\nbackground: #e6e6e6 !important;\r\n}\r\n.gt_selected a{\r\n border: 0px!important;\r\nbackground: #e6e6e6 !important;\r\n\tfont-size: 10pt !important;\r\n}\r\n","horizontal_position":"inline","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
-//# sourceURL=gt_widget_script_47953295-js-before
-</script><script type="rocketlazyloadscript" data-rocket-src="https://www.silent-art.de/wp-content/plugins/gtranslate/js/flags.js?ver=6.9" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/informationen/die-fantasie" data-gt-orig-domain="www.silent-art.de" data-gt-widget-id="47953295" defer></script><script type="rocketlazyloadscript" id="gt_widget_script_39353618-js-before">
-window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['39353618'] = {"default_language":"de","languages":["de","en","fr","es","it"],"url_structure":"none","native_language_names":1,"flag_style":"2d","flag_size":16,"wrapper_selector":"#gt-wrapper-39353618","alt_flags":[],"custom_css":".gt_switcher {\r\n    border: 0px!important;\r\nbackground: #e6e6e6 !important;\r\n    padding: 0px 0px !important;\r\n}\r\n.gt_selected {\r\nbackground: #e6e6e6 !important;\r\n}\r\n.gt_selected a{\r\n border: 0px!important;\r\nbackground: #e6e6e6 !important;\r\n\tfont-size: 10pt !important;\r\n}\r\n","horizontal_position":"inline","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
-//# sourceURL=gt_widget_script_39353618-js-before
-</script><script type="rocketlazyloadscript" data-rocket-src="https://www.silent-art.de/wp-content/plugins/gtranslate/js/flags.js?ver=6.9" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/informationen/die-fantasie" data-gt-orig-domain="www.silent-art.de" data-gt-widget-id="39353618" defer></script><!-- Statistics script Complianz GDPR/CCPA -->
+<script type="rocketlazyloadscript" id="gt_widget_script_82735306-js-before">
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['82735306'] = {"default_language":"de","languages":["de","en","fr","es","it"],"url_structure":"none","native_language_names":1,"flag_style":"2d","flag_size":16,"wrapper_selector":"#gt-wrapper-82735306","alt_flags":[],"custom_css":".gt_switcher {\r\n    border: 0px!important;\r\nbackground: #e6e6e6 !important;\r\n    padding: 0px 0px !important;\r\n}\r\n.gt_selected {\r\nbackground: #e6e6e6 !important;\r\n}\r\n.gt_selected a{\r\n border: 0px!important;\r\nbackground: #e6e6e6 !important;\r\n\tfont-size: 10pt !important;\r\n}\r\n","horizontal_position":"inline","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+//# sourceURL=gt_widget_script_82735306-js-before
+</script><script type="rocketlazyloadscript" data-rocket-src="https://www.silent-art.de/wp-content/plugins/gtranslate/js/flags.js?ver=6.9" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/informationen/die-fantasie" data-gt-orig-domain="www.silent-art.de" data-gt-widget-id="82735306" defer></script><script type="rocketlazyloadscript" id="gt_widget_script_34619633-js-before">
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['34619633'] = {"default_language":"de","languages":["de","en","fr","es","it"],"url_structure":"none","native_language_names":1,"flag_style":"2d","flag_size":16,"wrapper_selector":"#gt-wrapper-34619633","alt_flags":[],"custom_css":".gt_switcher {\r\n    border: 0px!important;\r\nbackground: #e6e6e6 !important;\r\n    padding: 0px 0px !important;\r\n}\r\n.gt_selected {\r\nbackground: #e6e6e6 !important;\r\n}\r\n.gt_selected a{\r\n border: 0px!important;\r\nbackground: #e6e6e6 !important;\r\n\tfont-size: 10pt !important;\r\n}\r\n","horizontal_position":"inline","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+//# sourceURL=gt_widget_script_34619633-js-before
+</script><script type="rocketlazyloadscript" data-rocket-src="https://www.silent-art.de/wp-content/plugins/gtranslate/js/flags.js?ver=6.9" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/informationen/die-fantasie" data-gt-orig-domain="www.silent-art.de" data-gt-widget-id="34619633" defer></script><!-- Statistics script Complianz GDPR/CCPA -->
 						<script type="rocketlazyloadscript" data-category="functional">
 							(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -1602,4 +1602,4 @@ if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_c
 
 </html>
 
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1767517297 -->
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1767556066 -->

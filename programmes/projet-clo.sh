@@ -44,20 +44,21 @@ echo -e "
 
 echo -e "
 <body>
-	<section class='section has-background-info is-fullheight'>
+	<section class='section has-background-black is-fullheight'>
 		<!-- Encart titre et logo côte à côte -->
 		<br />
-		<div class='columns is-vcentered'>
-			<div class='column'>
-				<h1 class='title is-1 is-1-desktop is-2-tablet is-6-mobile has-text-centered'><i>Fantasy</i></h1>
-			</div>
-			<div class='column'><h1 class='title is-1 is-1-desktop is-2-tablet is-6-mobile has-text-centered'>Projet de PPE</h1></div>
-		</div>
-		<br />
+        <div class='columns is-vcentered'>
+            <div class='column'>
+                <h1 class='title is-1 is-1-desktop is-2-tablet is-6-mobile has-text-centered has-text-warning'><i>Fantasy</i></h1>
+            </div>
+            <div class='column'><h1 class='title is-1 is-1-desktop is-2-tablet is-6-mobile has-text-centered has-text-link-light'>Projet de PPE</h1></div>
+        </div>  
+        
+        <br />
 
 		<div class='container has-background-white'>
 			<section class='section column'>
-				<h3 class='title is-3 has-text-centered has-background-info-light'>Informations sur les sites webs</h3>
+				<h3 class='title is-3 has-text-centered has-background-link-light'>Informations sur les sites webs</h3>
 			</section>
 
 			<div class='table-container'> 

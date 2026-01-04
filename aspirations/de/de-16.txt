@@ -21,9 +21,9 @@
 <meta name="apple-mobile-web-app-capable" content="no">
 <meta name="google" content="notranslate">
 
-<link rel="stylesheet" href="/typo3temp/assets/compressed/merged-be12d4cf52a8481a6f49b1147b36c501-min.css.gz?1767553632" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/merged-be12d4cf52a8481a6f49b1147b36c501-min.css.gz?1767557309" media="all">
 
-<link rel="stylesheet" href="/typo3temp/assets/compressed/merged-8c6bbb4e5fae40354df12ba0f0f03d7e-min.css.gz?1767553632" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/merged-54766a134ae2f27c29bcff1886f8f1b2-min.css.gz?1767557309" media="all">
 
 
 
@@ -836,9 +836,9 @@
     </div>
   </div>
 </footer>
-<script src="/typo3temp/assets/compressed/merged-d20a145043292bbb48e82cf7d0afbac9-min.js.gz?1767553632"></script>
+<script src="/typo3temp/assets/compressed/merged-d20a145043292bbb48e82cf7d0afbac9-min.js.gz?1767557309"></script>
 
-<script src="/typo3temp/assets/compressed/merged-406b71294c646be5d78a4251a6fe4ff1-min.js.gz?1767553632"></script>
+<script src="/typo3temp/assets/compressed/merged-406b71294c646be5d78a4251a6fe4ff1-min.js.gz?1767557309"></script>
 <script async="async" src="/_assets/2a58d7833cb34b2a67d37f5b750aa297/JavaScript/default_frontend.js?1747733322"></script>
 <script>
 /*<![CDATA[*/
