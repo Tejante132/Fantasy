@@ -140,7 +140,7 @@ do
 					<td><a href='../${FICHIER_ASPIRATION}'>aspiration</a></td>
 					<td><a href='../${FICHIER_DUMP}'>dump</a></td>
 					<td class='${STYLE_NB}'>${NB_OCCURRENCES}</td>
-					<td><a href='../${FICHIER_CONTEXTES_COLOR}'>contexte (couleurs)</a><br /><a href='../${FICHIER_CONTEXTES}'>contexte (txt)</a></td>
+					<td><a href='../${FICHIER_CONTEXTES_COLOR}'>html</a><br /><a href='../${FICHIER_CONTEXTES}'>txt</a></td>
 				</tr>" >> ${fichier}
 
 done < ${URLS};
