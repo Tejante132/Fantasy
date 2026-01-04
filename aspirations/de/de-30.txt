@@ -275,8 +275,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695ac8cc41b94">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8cc41b94" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ada1888692">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ada1888692" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -377,8 +377,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695ac8cc48093">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8cc48093" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ada188f1c3">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ada188f1c3" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -421,8 +421,8 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
     <div class="hidden-xs hidden-sm">Suchen Sie im kompletten Artikelarchiv und in allen Ausgaben der Psychologie Heute.</div>
     <div class="input-group input-group-lg">
       
-        <label class="sr-only" for="inputSearchword695ac8cc4e59d">Suchbegriff</label>
-        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ac8cc4e59d" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
+        <label class="sr-only" for="inputSearchword695ada18958db">Suchbegriff</label>
+        <input placeholder="Suchbegriff eingeben" class="form-control form-control-lg input-lg hasPlaceholder" id="inputSearchword695ada18958db" type="text" name="tx_saltpsychologieheute_search[searchTerms]" />
       
       <span class="input-group-btn">
         <button class="btn btn-submit btnSearch" type="submit"><span class="sr-only">Suchen</span><i class="material-icons">search</i></button>
@@ -978,7 +978,7 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
                   <div class="similarArticleWrap">
                     <div class="articleHeadliner">
                       
-<div class="articleWrap" data-uid="44594" data-publication-date="1765182600">
+<div class="articleWrap" data-uid="41094" data-publication-date="1617192000">
   
   <div class="articleTextWrap">
     
@@ -987,21 +987,21 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
   
   
       <span>
-        <a href="/leben.html">Leben</a>
+        <a href="/beruf.html">Beruf</a>
       </span>
     
   
 </div>
 
     <div class="articleTitle">
-      <a href="/leben/artikel-detailansicht/44594-die-verantwortungstorte.html" title="Die Verantwortungstorte">
-        Die Verantwortungstorte
+      <a href="/beruf/artikel-detailansicht/41094-schweigende-netzwerke.html" title="Schweigende Netzwerke">
+        Schweigende Netzwerke
       </a>
     </div>
     
         
           <div class="articleDescription">
-            Läuft privat oder beruflich etwas schief, beziehen Sie das auf sich. Ein Tortendiagramm kann helfen, um die wahren Verantwortlichkeiten zu klären
+            Warum kann sexuelle Belästigung in Organisationen so lange fortbestehen, auch wenn Frauen darüber berichten? Das fragten sich vier Psychologinnen. 
           </div>
         
       
@@ -1061,9 +1061,9 @@ var et_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/43272
       
   <div class="articleWrap">
     <div class="articleImage">
-      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung extern','People Pleasing'))" target="_blank" href="https://www.beltz.de/sachbuch_ratgeber/produkte/details/50913-people-pleasing.html">
+      <a onclick="_etracker.sendEvent(new et_LinkEvent('Werbung extern','Buch Therapiestunde '))" target="_blank" href="https://www.psychologie-heute.de/abo-shop/detailseite/43467-wenn-sie-wuessten-wie-ich-wirklich-bin.html">
         
-          <img class="img-responsive" alt="People Pleasing" src="/fileadmin/user_upload/Beltz_04.10.2023.jpg" width="360" height="560" />
+          <img class="img-responsive" alt="Buch Therapiestunde " src="/fileadmin/user_upload/Banner_PSH_360_560pix_Beltz_SBR_Siegle_Therapiestunde2.jpg" width="360" height="560" />
         
       </a>
     </div>

@@ -90,7 +90,7 @@
 	<script>
 	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','//connect.facebook.net/en_US/fbevents.js');
 	fbq('init', '717914701625232');
-	fbq('track', 'PageView', {}, { eventID: '52d670cb78fef6c10dd9a7ed3d6063e0' });
+	fbq('track', 'PageView', {}, { eventID: '5a6c53c82017adfcfb151849d81f293c' });
 	</script>
 	<script>
 	function updateOversize() { $('.blockcontainer-oversize').not('.fixed-height').each(function() { $(this).height($(this).find('.block-oversize').outerHeight())}); }
@@ -4253,15 +4253,6 @@
 								<span class="list-commodity-lowestprice-info hidden">Dies ist der niedrigste Preis in den letzten 30 Tagen.</span>
 							</span>
 						</li>
-						<li id="list-commodity-banner-869-293581" class="list-commodity-line list-commodity-banner list-cols-1">
-							<a href="https://www.lace.de/fantasie-swim">
-								<span class="list-commodity-image">
-									<span class="list-commodity-overlay">
-									</span>
-									<span><img src="https://www.lace.de/shared/9/98c1f667b0044d042c39dbb6a681bbf0_h549w280_height.gif" alt="Fantasie Swim ss25" title="Fantasie Swim ss25" /></span>
-								</span>
-							</a>
-						</li>
 						<li id="list-commodity-30064" class="list-commodity-line">
 							<span class="list-commodity-logo">
 								<span><img src="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg" alt="Fantasie Lingerie" title="Fantasie Lingerie" srcset="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg 100w, https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h48w200_min.jpg 200w" sizes="100px" /></span>
@@ -4535,6 +4526,15 @@
 								<span class="list-commodity-lowestprice-info hidden">Dies ist der niedrigste Preis in den letzten 30 Tagen.</span>
 							</span>
 						</li>
+						<li id="list-commodity-banner-869-293581" class="list-commodity-line list-commodity-banner list-cols-1">
+							<a href="https://www.lace.de/fantasie-swim">
+								<span class="list-commodity-image">
+									<span class="list-commodity-overlay">
+									</span>
+									<span><img src="https://www.lace.de/shared/9/98c1f667b0044d042c39dbb6a681bbf0_h549w280_height.gif" alt="Fantasie Swim ss25" title="Fantasie Swim ss25" /></span>
+								</span>
+							</a>
+						</li>
 						<li id="list-commodity-29593" class="list-commodity-line">
 							<span class="list-commodity-logo">
 								<span><img src="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg" alt="Fantasie Lingerie" title="Fantasie Lingerie" srcset="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg 100w, https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h48w200_min.jpg 200w" sizes="100px" /></span>
@@ -4701,15 +4701,6 @@
 								<a class="list-commodity-lowestprice-toggle" href="" onclick="$(this).parent().find('.list-commodity-lowestprice-info').toggleClass('hidden'); return false;">Info</a>
 								<span class="list-commodity-lowestprice-info hidden">Dies ist der niedrigste Preis in den letzten 30 Tagen.</span>
 							</span>
-						</li>
-						<li id="list-commodity-banner-892-295546" class="list-commodity-line list-commodity-banner list-cols-1">
-							<a href="">
-								<span class="list-commodity-image">
-									<span class="list-commodity-overlay">
-									</span>
-									<span><img src="https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h549w280_height.jpg" alt="Fantasie Sale 2025" title="Fantasie Sale 2025" srcset="https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h549w280_height.jpg 280w, https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h1098w560_height.jpg 560w" sizes="280px" /></span>
-								</span>
-							</a>
 						</li>
 						<li id="list-commodity-29125" class="list-commodity-line">
 							<span class="list-commodity-logo">
@@ -4937,15 +4928,6 @@
 									<span class="list-commodity-brand">Fantasie Lingerie</span>
 									<span class="list-commodity-title">Reflect BH I-M Cup</span>
 									<span class="list-commodity-price">EUR 62,95</span>
-								</span>
-							</a>
-						</li>
-						<li id="list-commodity-banner-869-293581" class="list-commodity-line list-commodity-banner list-cols-1">
-							<a href="https://www.lace.de/fantasie-swim">
-								<span class="list-commodity-image">
-									<span class="list-commodity-overlay">
-									</span>
-									<span><img src="https://www.lace.de/shared/9/98c1f667b0044d042c39dbb6a681bbf0_h549w280_height.gif" alt="Fantasie Swim ss25" title="Fantasie Swim ss25" /></span>
 								</span>
 							</a>
 						</li>
@@ -5379,6 +5361,15 @@
 								<span class="list-commodity-lowestprice-info hidden">Dies ist der niedrigste Preis in den letzten 30 Tagen.</span>
 							</span>
 						</li>
+						<li id="list-commodity-banner-892-295546" class="list-commodity-line list-commodity-banner list-cols-1">
+							<a href="">
+								<span class="list-commodity-image">
+									<span class="list-commodity-overlay">
+									</span>
+									<span><img src="https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h549w280_height.jpg" alt="Fantasie Sale 2025" title="Fantasie Sale 2025" srcset="https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h549w280_height.jpg 280w, https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h1098w560_height.jpg 560w" sizes="280px" /></span>
+								</span>
+							</a>
+						</li>
 						<li id="list-commodity-3462" class="list-commodity-line">
 							<span class="list-commodity-logo">
 								<span><img src="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg" alt="Fantasie Lingerie" title="Fantasie Lingerie" srcset="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg 100w, https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h48w200_min.jpg 200w" sizes="100px" /></span>
@@ -5661,6 +5652,15 @@
 								</span>
 							</a>
 						</li>
+						<li id="list-commodity-banner-869-293581" class="list-commodity-line list-commodity-banner list-cols-1">
+							<a href="https://www.lace.de/fantasie-swim">
+								<span class="list-commodity-image">
+									<span class="list-commodity-overlay">
+									</span>
+									<span><img src="https://www.lace.de/shared/9/98c1f667b0044d042c39dbb6a681bbf0_h549w280_height.gif" alt="Fantasie Swim ss25" title="Fantasie Swim ss25" /></span>
+								</span>
+							</a>
+						</li>
 						<li id="list-commodity-27242" class="list-commodity-line">
 							<span class="list-commodity-logo">
 								<span><img src="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg" alt="Fantasie Lingerie" title="Fantasie Lingerie" srcset="https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h24w100_min.jpg 100w, https://www.lace.de/shared/e/eac9ed18f5b73a8b33eef8dd20b7f738_h48w200_min.jpg 200w" sizes="100px" /></span>
@@ -5730,15 +5730,6 @@
 									<span class="list-commodity-brand">Fantasie Lingerie</span>
 									<span class="list-commodity-title">Reflect Rio Slip</span>
 									<span class="list-commodity-price">EUR 26,95</span>
-								</span>
-							</a>
-						</li>
-						<li id="list-commodity-banner-892-295546" class="list-commodity-line list-commodity-banner list-cols-1">
-							<a href="">
-								<span class="list-commodity-image">
-									<span class="list-commodity-overlay">
-									</span>
-									<span><img src="https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h549w280_height.jpg" alt="Fantasie Sale 2025" title="Fantasie Sale 2025" srcset="https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h549w280_height.jpg 280w, https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h1098w560_height.jpg 560w" sizes="280px" /></span>
 								</span>
 							</a>
 						</li>
@@ -5934,6 +5925,15 @@
 								<a class="list-commodity-lowestprice-toggle" href="" onclick="$(this).parent().find('.list-commodity-lowestprice-info').toggleClass('hidden'); return false;">Info</a>
 								<span class="list-commodity-lowestprice-info hidden">Dies ist der niedrigste Preis in den letzten 30 Tagen.</span>
 							</span>
+						</li>
+						<li id="list-commodity-banner-892-295546" class="list-commodity-line list-commodity-banner list-cols-1">
+							<a href="">
+								<span class="list-commodity-image">
+									<span class="list-commodity-overlay">
+									</span>
+									<span><img src="https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h549w280_height.jpg" alt="Fantasie Sale 2025" title="Fantasie Sale 2025" srcset="https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h549w280_height.jpg 280w, https://www.lace.de/shared/4/433c2bf86b3e0cdfa511099c8a7902ab_h1098w560_height.jpg 560w" sizes="280px" /></span>
+								</span>
+							</a>
 						</li>
 					</ul>
 					<script>
@@ -6163,7 +6163,7 @@
 			</section>
 		</footer>
 	</div>
-	<script>$.ajax({ url: "https://www.lace.de/websession?pid=b05cbimko2ttnegqvee0thec74" });</script>
+	<script>$.ajax({ url: "https://www.lace.de/websession?pid=cfldkp1j15m99rgljp9aaft2m3" });</script>
 		<script type="text/javascript" src="//static.klaviyo.com/onsite/js/klaviyo.js?company_id=XbYy6E"></script>
 	<script id='fmsscript-inc' type='text/javascript'>
 	    (function () {
